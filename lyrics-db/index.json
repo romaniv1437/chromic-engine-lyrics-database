@@ -1,9 +1,8 @@
 {
-  "generatedAt": "2026-06-16T14:06:08.000Z",
-  "totalTracks": 731,
+  "generatedAt": "2026-06-16T19:49:25.974808+00:00",
+  "totalTracks": 732,
   "roots": [
-    "/Users/illiaromaniv/WebstormProjects/claudecode/media/music",
-    "/Users/illiaromaniv/Music/Music"
+    "lyrics-db/tracks"
   ],
   "registry": {
     "hades 2026::melanie martinez - hades - 03 - possession": {
@@ -10311,6 +10310,15 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/lil-kennedy",
       "mtimeMs": 1781618768590
+    },
+    "smoke::test": {
+      "title": "Test",
+      "artist": "Smoke",
+      "originalTrackName": "Smoke - Test",
+      "source": "manual",
+      "file": "tracks/smoke-test-d0b6f9cec636.json",
+      "sourcePath": "https://soundcloud.com/test/test",
+      "mtimeMs": 1781639367900
     }
   },
   "tracks": [
@@ -20619,6 +20627,15 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/lil-kennedy",
       "mtimeMs": 1781618768590
+    },
+    {
+      "title": "Test",
+      "artist": "Smoke",
+      "originalTrackName": "Smoke - Test",
+      "source": "manual",
+      "file": "tracks/smoke-test-d0b6f9cec636.json",
+      "sourcePath": "https://soundcloud.com/test/test",
+      "mtimeMs": 1781639367900
     }
   ]
 }

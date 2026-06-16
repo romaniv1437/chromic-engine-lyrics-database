@@ -1,0 +1,8765 @@
+{
+  "source": "genius-lrc-whisper",
+  "meta": {
+    "track_title": "High School Sweethearts",
+    "artist": "Melanie Martinez",
+    "lyrics_source": "genius_explicit",
+    "line_timestamps_source": "genius-lrc-whisper",
+    "has_annotations": true,
+    "genius_song_id": 4718520
+  },
+  "lines": [
+    {
+      "time": 1.05,
+      "text": "Can we just be honest?",
+      "words": [
+        {
+          "word": "Can",
+          "start": 1.05,
+          "end": 1.4,
+          "spoken": true
+        },
+        {
+          "word": "we",
+          "start": 1.679,
+          "end": 2.34,
+          "whisper": true
+        },
+        {
+          "word": "just",
+          "start": 2.549,
+          "end": 3.18,
+          "char_starts": [
+            2.549,
+            2.489,
+            2.719,
+            2.995
+          ],
+          "whisper": true
+        },
+        {
+          "word": "be",
+          "start": 3.18,
+          "end": 5.08,
+          "whisper": true
+        },
+        {
+          "word": "honest?",
+          "start": 5.196,
+          "end": 7.24,
+          "stretch": true,
+          "char_starts": [
+            5.196,
+            5.205,
+            5.399,
+            5.631,
+            5.892,
+            6.178,
+            6.484
+          ],
+          "sung": true
+        }
+      ],
+      "annotation_id": "29039663"
+    },
+    {
+      "time": 7.24,
+      "text": "These are the requirements",
+      "words": [
+        {
+          "word": "These",
+          "start": 7.59,
+          "end": 9.74,
+          "char_starts": [
+            7.59,
+            7.417,
+            7.776,
+            8.266,
+            8.865
+          ],
+          "whisper": true
+        },
+        {
+          "word": "are",
+          "start": 9.856,
+          "end": 10.5,
+          "char_starts": [
+            9.856,
+            9.915,
+            10.272
+          ],
+          "spoken": true
+        },
+        {
+          "word": "the",
+          "start": 10.5,
+          "end": 11.64,
+          "char_starts": [
+            10.5,
+            10.763,
+            11.298
+          ],
+          "whisper": true
+        },
+        {
+          "word": "requirements",
+          "start": 11.942,
+          "end": 12.24,
+          "whisper": true
+        }
+      ],
+      "annotation_id": "29039663"
+    },
+    {
+      "time": 16.27,
+      "text": "If you think you can be my one and only true love",
+      "words": [
+        {
+          "word": "If",
+          "start": 16.27,
+          "end": 16.62,
+          "whisper": true
+        },
+        {
+          "word": "you",
+          "start": 16.69,
+          "end": 17.34,
+          "char_starts": [
+            16.69,
+            16.786,
+            17.124
+          ],
+          "whisper": true
+        },
+        {
+          "word": "think",
+          "start": 17.34,
+          "end": 18.0,
+          "char_starts": [
+            17.34,
+            17.419,
+            17.542,
+            17.689,
+            17.855
+          ],
+          "whisper": true
+        },
+        {
+          "word": "you",
+          "start": 18.0,
+          "end": 18.8,
+          "char_starts": [
+            18.0,
+            18.185,
+            18.56
+          ],
+          "whisper": true
+        },
+        {
+          "word": "can",
+          "start": 19.079,
+          "end": 19.6,
+          "char_starts": [
+            19.079,
+            19.045,
+            19.424
+          ],
+          "spoken": true
+        },
+        {
+          "word": "be",
+          "start": 19.925,
+          "end": 20.32,
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 20.32,
+          "end": 21.04,
+          "spoken": true
+        },
+        {
+          "word": "one",
+          "start": 21.04,
+          "end": 21.8,
+          "char_starts": [
+            21.04,
+            21.215,
+            21.572
+          ],
+          "spoken": true
+        },
+        {
+          "word": "and",
+          "start": 21.8,
+          "end": 22.52,
+          "char_starts": [
+            21.8,
+            22.02,
+            22.362
+          ],
+          "spoken": true
+        },
+        {
+          "word": "only",
+          "start": 22.52,
+          "end": 23.46,
+          "char_starts": [
+            22.52,
+            22.633,
+            22.864,
+            23.178
+          ],
+          "spoken": true
+        },
+        {
+          "word": "true",
+          "start": 23.81,
+          "end": 24.56,
+          "char_starts": [
+            23.81,
+            23.593,
+            23.862,
+            24.23
+          ],
+          "spoken": true
+        },
+        {
+          "word": "love",
+          "start": 24.91,
+          "end": 25.92,
+          "char_starts": [
+            24.91,
+            24.712,
+            25.022,
+            25.444
+          ],
+          "spoken": true
+        }
+      ],
+      "annotation_id": "29039663"
+    },
+    {
+      "type": "vocal_cue",
+      "time": 22.3,
+      "end": 29.68
+    },
+    {
+      "time": 28.54,
+      "text": "You must promise to love me",
+      "words": [
+        {
+          "word": "You",
+          "start": 28.89,
+          "end": 29.94,
+          "char_starts": [
+            28.89,
+            28.84,
+            29.45
+          ],
+          "whisper": true
+        },
+        {
+          "word": "must",
+          "start": 30.056,
+          "end": 30.64,
+          "char_starts": [
+            30.056,
+            30.064,
+            30.256,
+            30.486
+          ],
+          "spoken": true
+        },
+        {
+          "word": "promise",
+          "start": 30.849,
+          "end": 31.88,
+          "char_starts": [
+            30.849,
+            30.686,
+            30.779,
+            30.906,
+            31.061,
+            31.242,
+            31.446
+          ],
+          "spoken": true
+        },
+        {
+          "word": "to",
+          "start": 32.23,
+          "end": 33.22
+        },
+        {
+          "word": "love",
+          "start": 33.22,
+          "end": 34.34,
+          "char_starts": [
+            33.22,
+            33.355,
+            33.63,
+            34.004
+          ],
+          "spoken": true
+        },
+        {
+          "word": "me",
+          "start": 34.34,
+          "end": 35.52,
+          "char_starts": [
+            34.34,
+            35.166
+          ],
+          "spoken": true
+        }
+      ],
+      "annotation_id": "29039663"
+    },
+    {
+      "time": 35.52,
+      "text": "And damn it, if you fuck me over",
+      "words": [
+        {
+          "word": "And",
+          "start": 35.87,
+          "end": 36.44,
+          "char_starts": [
+            35.87,
+            35.802,
+            36.238
+          ],
+          "spoken": true
+        },
+        {
+          "word": "damn",
+          "start": 36.44,
+          "end": 36.92,
+          "spoken": true
+        },
+        {
+          "word": "it,",
+          "start": 36.92,
+          "end": 37.34,
+          "whisper": true
+        },
+        {
+          "word": "if",
+          "start": 37.34,
+          "end": 37.78,
+          "whisper": true
+        },
+        {
+          "word": "you",
+          "start": 37.78,
+          "end": 38.52,
+          "char_starts": [
+            37.78,
+            37.951,
+            38.298
+          ],
+          "whisper": true
+        },
+        {
+          "word": "fuck",
+          "start": 38.52,
+          "end": 39.32,
+          "char_starts": [
+            38.52,
+            38.662,
+            38.881,
+            39.144
+          ],
+          "sung": true,
+          "stretch": true
+        },
+        {
+          "word": "me",
+          "start": 39.622,
+          "end": 41.24,
+          "sung": true
+        },
+        {
+          "word": "over",
+          "start": 41.59,
+          "end": 42.34,
+          "char_starts": [
+            41.59,
+            41.435,
+            41.736,
+            42.098
+          ],
+          "spoken": true
+        }
+      ]
+    },
+    {
+      "time": 42.34,
+      "text": "I will rip your fuckin' face apart",
+      "words": [
+        {
+          "word": "I",
+          "start": 42.69,
+          "end": 43.38,
+          "spoken": true
+        },
+        {
+          "word": "will",
+          "start": 43.73,
+          "end": 44.2,
+          "char_starts": [
+            43.73,
+            43.525,
+            43.75,
+            44.02
+          ],
+          "spoken": true
+        },
+        {
+          "word": "rip",
+          "start": 44.246,
+          "end": 44.78,
+          "char_starts": [
+            44.246,
+            44.377,
+            44.652
+          ],
+          "spoken": true
+        },
+        {
+          "word": "your",
+          "start": 44.873,
+          "end": 45.44,
+          "char_starts": [
+            44.873,
+            44.897,
+            45.078,
+            45.295
+          ],
+          "spoken": true
+        },
+        {
+          "word": "fuckin'",
+          "start": 45.44,
+          "end": 46.44,
+          "char_starts": [
+            45.44,
+            45.509,
+            45.617,
+            45.746,
+            45.891,
+            46.05,
+            46.22
+          ],
+          "spoken": true
+        },
+        {
+          "word": "face",
+          "start": 46.79,
+          "end": 48.48,
+          "char_starts": [
+            46.79,
+            46.669,
+            47.133,
+            47.766
+          ],
+          "whisper": true
+        },
+        {
+          "word": "apart",
+          "start": 48.83,
+          "end": 51.16,
+          "char_starts": [
+            48.83,
+            48.748,
+            49.163,
+            49.661,
+            50.222
+          ],
+          "whisper": true
+        }
+      ]
+    },
+    {
+      "type": "vocal_cue",
+      "time": 46.5,
+      "end": 63.61
+    },
+    {
+      "time": 62.86,
+      "text": "Step one",
+      "words": [
+        {
+          "word": "Step",
+          "start": 63.21,
+          "end": 63.96,
+          "char_starts": [
+            63.21,
+            63.055,
+            63.356,
+            63.718
+          ],
+          "spoken": true
+        },
+        {
+          "word": "one",
+          "start": 64.31,
+          "end": 64.74,
+          "char_starts": [
+            64.31,
+            64.14,
+            64.506
+          ],
+          "spoken": true
+        }
+      ]
+    },
+    {
+      "time": 65.16,
+      "text": "You must accept that I'm a little out my mind",
+      "words": [
+        {
+          "word": "You",
+          "start": 65.16,
+          "end": 65.18
+        },
+        {
+          "word": "must",
+          "start": 65.384,
+          "end": 65.52,
+          "spoken": true
+        },
+        {
+          "word": "accept",
+          "start": 65.87,
+          "end": 66.2,
+          "char_starts": [
+            65.87,
+            65.58,
+            65.674,
+            65.786,
+            65.912,
+            66.05
+          ],
+          "spoken": true
+        },
+        {
+          "word": "that",
+          "start": 66.386,
+          "end": 66.6
+        },
+        {
+          "word": "I'm",
+          "start": 66.6,
+          "end": 67.12,
+          "spoken": true
+        },
+        {
+          "word": "a",
+          "start": 67.12,
+          "end": 67.22,
+          "spoken": true
+        },
+        {
+          "word": "little",
+          "start": 67.359,
+          "end": 67.64,
+          "spoken": true
+        },
+        {
+          "word": "out",
+          "start": 67.988,
+          "end": 68.26,
+          "char_starts": [
+            67.988,
+            67.83,
+            68.124
+          ],
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 68.33,
+          "end": 68.42
+        },
+        {
+          "word": "mind",
+          "start": 68.42,
+          "end": 68.72
+        }
+      ]
+    },
+    {
+      "time": 68.72,
+      "text": "Step two",
+      "words": [
+        {
+          "word": "Step",
+          "start": 68.929,
+          "end": 69.32,
+          "sung": true
+        },
+        {
+          "word": "two",
+          "start": 69.32,
+          "end": 69.42,
+          "whisper": true
+        }
+      ]
+    },
+    {
+      "time": 68.58,
+      "text": "This is a waste if you can't walk me down the finish line",
+      "words": [
+        {
+          "word": "This",
+          "start": 68.928,
+          "end": 69.58,
+          "char_starts": [
+            68.928,
+            68.757,
+            69.031,
+            69.36
+          ]
+        },
+        {
+          "word": "is",
+          "start": 69.58,
+          "end": 70.22,
+          "spoken": true
+        },
+        {
+          "word": "a",
+          "start": 70.22,
+          "end": 70.36,
+          "spoken": true
+        },
+        {
+          "word": "waste",
+          "start": 70.54,
+          "end": 70.66,
+          "spoken": true
+        },
+        {
+          "word": "if",
+          "start": 70.66,
+          "end": 70.92,
+          "spoken": true
+        },
+        {
+          "word": "you",
+          "start": 70.92,
+          "end": 71.22,
+          "spoken": true
+        },
+        {
+          "word": "can't",
+          "start": 71.544,
+          "end": 71.76
+        },
+        {
+          "word": "walk",
+          "start": 71.844,
+          "end": 71.9
+        },
+        {
+          "word": "me",
+          "start": 71.9,
+          "end": 72.26,
+          "spoken": true
+        },
+        {
+          "word": "down",
+          "start": 72.306,
+          "end": 72.64,
+          "spoken": true
+        },
+        {
+          "word": "the",
+          "start": 72.779,
+          "end": 72.92
+        },
+        {
+          "word": "finish",
+          "start": 72.966,
+          "end": 73.2
+        },
+        {
+          "word": "line",
+          "start": 73.293,
+          "end": 73.66
+        }
+      ]
+    },
+    {
+      "time": 73.74,
+      "text": "Step three",
+      "words": [
+        {
+          "word": "Step",
+          "start": 73.956,
+          "end": 74.1
+        },
+        {
+          "word": "three",
+          "start": 74.1,
+          "end": 74.7,
+          "spoken": true
+        }
+      ]
+    },
+    {
+      "time": 74.9,
+      "text": "Give me passion, don't make fun of my fashion",
+      "words": [
+        {
+          "word": "Give",
+          "start": 74.96,
+          "end": 75.0,
+          "spoken": true
+        },
+        {
+          "word": "me",
+          "start": 75.0,
+          "end": 75.4,
+          "spoken": true
+        },
+        {
+          "word": "passion,",
+          "start": 75.655,
+          "end": 76.32,
+          "char_starts": [
+            75.655,
+            75.452,
+            75.532,
+            75.629,
+            75.737,
+            75.856,
+            75.983,
+            76.118
+          ],
+          "spoken": true
+        },
+        {
+          "word": "don't",
+          "start": 76.599,
+          "end": 76.96,
+          "char_starts": [
+            76.599,
+            76.397,
+            76.516,
+            76.659,
+            76.819
+          ],
+          "spoken": true
+        },
+        {
+          "word": "make",
+          "start": 76.96,
+          "end": 77.24,
+          "spoken": true
+        },
+        {
+          "word": "fun",
+          "start": 77.24,
+          "end": 77.52,
+          "spoken": true
+        },
+        {
+          "word": "of",
+          "start": 77.52,
+          "end": 77.62,
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 77.63,
+          "end": 77.96,
+          "spoken": true
+        },
+        {
+          "word": "fashion",
+          "start": 78.31,
+          "end": 78.56,
+          "sung": true
+        }
+      ]
+    },
+    {
+      "time": 78.54,
+      "text": "Step four",
+      "words": [
+        {
+          "word": "Step",
+          "start": 78.54,
+          "end": 79.12
+        },
+        {
+          "word": "four",
+          "start": 79.166,
+          "end": 79.59,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "29039690"
+    },
+    {
+      "time": 80.0,
+      "text": "Give me more, give me more, more",
+      "words": [
+        {
+          "word": "Give",
+          "start": 80.072,
+          "end": 80.12,
+          "spoken": true
+        },
+        {
+          "word": "me",
+          "start": 80.12,
+          "end": 80.48,
+          "spoken": true
+        },
+        {
+          "word": "more,",
+          "start": 80.672,
+          "end": 80.8,
+          "spoken": true
+        },
+        {
+          "word": "give",
+          "start": 80.8,
+          "end": 81.08,
+          "spoken": true
+        },
+        {
+          "word": "me",
+          "start": 81.08,
+          "end": 81.46,
+          "spoken": true
+        },
+        {
+          "word": "more,",
+          "start": 81.46,
+          "end": 82.54,
+          "char_starts": [
+            81.46,
+            81.59,
+            81.79,
+            82.031,
+            82.302
+          ],
+          "spoken": true
+        },
+        {
+          "word": "more",
+          "start": 82.679,
+          "end": 83.2,
+          "char_starts": [
+            82.679,
+            82.62,
+            82.781,
+            83.002
+          ]
+        }
+      ],
+      "annotation_id": "29039690"
+    },
+    {
+      "time": 83.2,
+      "text": "If you can't handle a heart like mine",
+      "words": [
+        {
+          "word": "If",
+          "start": 83.548,
+          "end": 83.78
+        },
+        {
+          "word": "you",
+          "start": 83.9,
+          "end": 83.98
+        },
+        {
+          "word": "can't",
+          "start": 83.98,
+          "end": 84.32
+        },
+        {
+          "word": "handle",
+          "start": 84.32,
+          "end": 84.96,
+          "spoken": true
+        },
+        {
+          "word": "a",
+          "start": 85.215,
+          "end": 85.7,
+          "sung": true
+        },
+        {
+          "word": "heart",
+          "start": 85.7,
+          "end": 85.88,
+          "spoken": true
+        },
+        {
+          "word": "like",
+          "start": 85.88,
+          "end": 86.28,
+          "spoken": true
+        },
+        {
+          "word": "mine",
+          "start": 86.28,
+          "end": 86.74,
+          "spoken": true
+        }
+      ]
+    },
+    {
+      "time": 86.76,
+      "text": "Don't waste your time with me",
+      "words": [
+        {
+          "word": "Don't",
+          "start": 86.806,
+          "end": 87.58,
+          "char_starts": [
+            86.806,
+            86.858,
+            87.011,
+            87.194,
+            87.4
+          ],
+          "spoken": true
+        },
+        {
+          "word": "waste",
+          "start": 87.712,
+          "end": 87.8
+        },
+        {
+          "word": "your",
+          "start": 87.8,
+          "end": 88.18
+        },
+        {
+          "word": "time",
+          "start": 88.18,
+          "end": 88.6
+        },
+        {
+          "word": "with",
+          "start": 88.6,
+          "end": 88.92
+        },
+        {
+          "word": "me",
+          "start": 89.222,
+          "end": 89.44
+        }
+      ]
+    },
+    {
+      "time": 89.42,
+      "text": "If you're not down to bleed, no, oh",
+      "words": [
+        {
+          "word": "If",
+          "start": 89.42,
+          "end": 90.02,
+          "sung": true
+        },
+        {
+          "word": "you're",
+          "start": 90.272,
+          "end": 90.44,
+          "spoken": true
+        },
+        {
+          "word": "not",
+          "start": 90.44,
+          "end": 90.7
+        },
+        {
+          "word": "down",
+          "start": 90.7,
+          "end": 91.14,
+          "spoken": true
+        },
+        {
+          "word": "to",
+          "start": 91.14,
+          "end": 91.44,
+          "spoken": true
+        },
+        {
+          "word": "bleed,",
+          "start": 91.79,
+          "end": 93.12,
+          "char_starts": [
+            91.79,
+            91.564,
+            91.757,
+            91.988,
+            92.248,
+            92.532
+          ]
+        },
+        {
+          "word": "no,",
+          "start": 93.12,
+          "end": 93.22,
+          "spoken": true
+        },
+        {
+          "word": "oh",
+          "start": 93.23,
+          "end": 93.33
+        }
+      ],
+      "annotation_id": "29039697"
+    },
+    {
+      "time": 93.12,
+      "text": "If you can't handle the chokin', the bitin'",
+      "words": [
+        {
+          "word": "If",
+          "start": 93.47,
+          "end": 93.98
+        },
+        {
+          "word": "you",
+          "start": 93.98,
+          "end": 94.26,
+          "spoken": true
+        },
+        {
+          "word": "can't",
+          "start": 94.488,
+          "end": 94.64,
+          "sung": true
+        },
+        {
+          "word": "handle",
+          "start": 94.64,
+          "end": 95.42,
+          "char_starts": [
+            94.64,
+            94.682,
+            94.766,
+            94.881,
+            95.022,
+            95.186
+          ],
+          "spoken": true
+        },
+        {
+          "word": "the",
+          "start": 95.42,
+          "end": 95.86,
+          "spoken": true
+        },
+        {
+          "word": "chokin',",
+          "start": 95.86,
+          "end": 96.34,
+          "spoken": true
+        },
+        {
+          "word": "the",
+          "start": 96.34,
+          "end": 96.54,
+          "spoken": true
+        },
+        {
+          "word": "bitin'",
+          "start": 96.54,
+          "end": 96.7,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "29039697"
+    },
+    {
+      "time": 96.72,
+      "text": "The lovin', the smotherin'",
+      "words": [
+        {
+          "word": "The",
+          "start": 96.9,
+          "end": 97.02,
+          "spoken": true
+        },
+        {
+          "word": "lovin',",
+          "start": 97.02,
+          "end": 97.44,
+          "spoken": true
+        },
+        {
+          "word": "the",
+          "start": 97.44,
+          "end": 97.62
+        },
+        {
+          "word": "smotherin'",
+          "start": 97.97,
+          "end": 98.22,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "29039697"
+    },
+    {
+      "time": 98.42,
+      "text": "'Til you can't handle it no more, no more",
+      "words": [
+        {
+          "word": "'Til",
+          "start": 98.42,
+          "end": 98.44
+        },
+        {
+          "word": "you",
+          "start": 98.44,
+          "end": 98.72,
+          "spoken": true
+        },
+        {
+          "word": "can't",
+          "start": 98.72,
+          "end": 99.2,
+          "spoken": true
+        },
+        {
+          "word": "handle",
+          "start": 99.2,
+          "end": 99.42,
+          "spoken": true
+        },
+        {
+          "word": "it",
+          "start": 99.583,
+          "end": 99.8
+        },
+        {
+          "word": "no",
+          "start": 100.15,
+          "end": 100.62,
+          "sung": true
+        },
+        {
+          "word": "more,",
+          "start": 100.62,
+          "end": 101.14
+        },
+        {
+          "word": "no",
+          "start": 101.14,
+          "end": 101.54,
+          "spoken": true
+        },
+        {
+          "word": "more",
+          "start": 101.54,
+          "end": 102.34,
+          "char_starts": [
+            101.54,
+            101.637,
+            101.833,
+            102.1
+          ],
+          "spoken": true
+        }
+      ],
+      "annotation_id": "29039697"
+    },
+    {
+      "time": 103.32,
+      "text": "Go home",
+      "words": [
+        {
+          "word": "Go",
+          "start": 103.67,
+          "end": 104.08,
+          "sung": true
+        },
+        {
+          "word": "home",
+          "start": 104.08,
+          "end": 104.78,
+          "char_starts": [
+            104.08,
+            104.164,
+            104.336,
+            104.57
+          ],
+          "spoken": true
+        }
+      ],
+      "annotation_id": "29039697"
+    },
+    {
+      "time": 105.84,
+      "text": "Can we just be honest?",
+      "words": [
+        {
+          "word": "Can",
+          "start": 106.026,
+          "end": 106.24,
+          "spoken": true
+        },
+        {
+          "word": "we",
+          "start": 106.31,
+          "end": 106.6,
+          "spoken": true
+        },
+        {
+          "word": "just",
+          "start": 106.646,
+          "end": 106.94,
+          "spoken": true
+        },
+        {
+          "word": "be",
+          "start": 107.265,
+          "end": 107.62,
+          "sung": true
+        },
+        {
+          "word": "honest?",
+          "start": 107.759,
+          "end": 108.3,
+          "char_starts": [
+            107.759,
+            107.667,
+            107.74,
+            107.828,
+            107.927,
+            108.035,
+            108.15
+          ]
+        }
+      ],
+      "annotation_id": "29039663"
+    },
+    {
+      "time": 108.46,
+      "text": "These are the requirements",
+      "words": [
+        {
+          "word": "These",
+          "start": 108.46,
+          "end": 108.92,
+          "spoken": true
+        },
+        {
+          "word": "are",
+          "start": 109.036,
+          "end": 109.28
+        },
+        {
+          "word": "the",
+          "start": 109.466,
+          "end": 109.72
+        },
+        {
+          "word": "requirements",
+          "start": 109.836,
+          "end": 110.76,
+          "stretch": true,
+          "char_starts": [
+            109.836,
+            109.752,
+            109.801,
+            109.86,
+            109.927,
+            110.0,
+            110.078,
+            110.161,
+            110.248,
+            110.339,
+            110.433,
+            110.531
+          ],
+          "sung": true
+        }
+      ],
+      "annotation_id": "29039663"
+    },
+    {
+      "time": 110.76,
+      "text": "If you think you can be my one and only true love",
+      "words": [
+        {
+          "word": "If",
+          "start": 110.76,
+          "end": 111.48,
+          "spoken": true
+        },
+        {
+          "word": "you",
+          "start": 111.48,
+          "end": 111.8
+        },
+        {
+          "word": "think",
+          "start": 111.8,
+          "end": 112.04
+        },
+        {
+          "word": "you",
+          "start": 112.232,
+          "end": 112.36
+        },
+        {
+          "word": "can",
+          "start": 112.36,
+          "end": 112.7
+        },
+        {
+          "word": "be",
+          "start": 112.886,
+          "end": 113.08,
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 113.296,
+          "end": 113.44
+        },
+        {
+          "word": "one",
+          "start": 113.44,
+          "end": 113.66,
+          "spoken": true
+        },
+        {
+          "word": "and",
+          "start": 113.66,
+          "end": 114.12,
+          "spoken": true
+        },
+        {
+          "word": "only",
+          "start": 114.12,
+          "end": 114.54
+        },
+        {
+          "word": "true",
+          "start": 114.864,
+          "end": 115.08,
+          "sung": true
+        },
+        {
+          "word": "love",
+          "start": 115.405,
+          "end": 115.76,
+          "char_starts": [
+            115.405,
+            115.162,
+            115.329,
+            115.556
+          ],
+          "spoken": true
+        }
+      ],
+      "annotation_id": "29039663"
+    },
+    {
+      "time": 115.76,
+      "text": "You must promise to love me",
+      "words": [
+        {
+          "word": "You",
+          "start": 115.853,
+          "end": 116.26,
+          "char_starts": [
+            115.853,
+            115.875,
+            116.11
+          ],
+          "spoken": true
+        },
+        {
+          "word": "must",
+          "start": 116.26,
+          "end": 116.758,
+          "spoken": true
+        },
+        {
+          "word": "promise",
+          "start": 117.037,
+          "end": 117.631,
+          "char_starts": [
+            117.037,
+            116.793,
+            116.863,
+            116.96,
+            117.077,
+            117.214,
+            117.369
+          ],
+          "sung": true,
+          "stretch": true
+        },
+        {
+          "word": "to",
+          "start": 117.641,
+          "end": 117.88,
+          "spoken": true
+        },
+        {
+          "word": "love",
+          "start": 117.88,
+          "end": 118.04
+        },
+        {
+          "word": "me",
+          "start": 118.04,
+          "end": 118.54,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "29039663"
+    },
+    {
+      "time": 118.56,
+      "text": "And damn it, if you fuck me over",
+      "words": [
+        {
+          "word": "And",
+          "start": 118.56,
+          "end": 118.96,
+          "spoken": true
+        },
+        {
+          "word": "damn",
+          "start": 119.128,
+          "end": 119.24,
+          "spoken": true
+        },
+        {
+          "word": "it,",
+          "start": 119.24,
+          "end": 119.54,
+          "spoken": true
+        },
+        {
+          "word": "if",
+          "start": 119.684,
+          "end": 119.78,
+          "spoken": true
+        },
+        {
+          "word": "you",
+          "start": 120.035,
+          "end": 120.22,
+          "spoken": true
+        },
+        {
+          "word": "fuck",
+          "start": 120.424,
+          "end": 120.56,
+          "spoken": true
+        },
+        {
+          "word": "me",
+          "start": 120.56,
+          "end": 121.28,
+          "spoken": true
+        },
+        {
+          "word": "over",
+          "start": 121.466,
+          "end": 121.88,
+          "spoken": true
+        }
+      ]
+    },
+    {
+      "time": 121.88,
+      "text": "I will rip your fuckin' face apart",
+      "words": [
+        {
+          "word": "I",
+          "start": 121.88,
+          "end": 122.28
+        },
+        {
+          "word": "will",
+          "start": 122.46,
+          "end": 122.58,
+          "spoken": true
+        },
+        {
+          "word": "rip",
+          "start": 122.58,
+          "end": 122.88,
+          "spoken": true
+        },
+        {
+          "word": "your",
+          "start": 123.066,
+          "end": 123.24,
+          "spoken": true
+        },
+        {
+          "word": "fuckin'",
+          "start": 123.519,
+          "end": 123.72,
+          "spoken": true
+        },
+        {
+          "word": "face",
+          "start": 124.07,
+          "end": 124.66,
+          "char_starts": [
+            124.07,
+            123.833,
+            124.064,
+            124.378
+          ],
+          "spoken": true
+        },
+        {
+          "word": "apart",
+          "start": 125.01,
+          "end": 125.5,
+          "char_starts": [
+            125.01,
+            124.761,
+            124.917,
+            125.104,
+            125.315
+          ]
+        }
+      ]
+    },
+    {
+      "time": 126.72,
+      "text": "High school sweethearts, line up",
+      "words": [
+        {
+          "word": "High",
+          "start": 126.906,
+          "end": 127.36,
+          "char_starts": [
+            126.906,
+            126.833,
+            127.009,
+            127.219
+          ],
+          "spoken": true
+        },
+        {
+          "word": "school",
+          "start": 127.36,
+          "end": 127.78
+        },
+        {
+          "word": "sweethearts,",
+          "start": 128.13,
+          "end": 129.08,
+          "char_starts": [
+            128.13,
+            127.813,
+            127.865,
+            127.926,
+            127.996,
+            128.071,
+            128.153,
+            128.239,
+            128.33,
+            128.424,
+            128.523,
+            128.625
+          ]
+        },
+        {
+          "word": "line",
+          "start": 129.404,
+          "end": 129.62
+        },
+        {
+          "word": "up",
+          "start": 129.62,
+          "end": 130.26
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 130.5,
+      "text": "Not tryna waste my time",
+      "words": [
+        {
+          "word": "Not",
+          "start": 130.5,
+          "end": 130.66,
+          "spoken": true
+        },
+        {
+          "word": "tryna",
+          "start": 130.753,
+          "end": 130.9,
+          "spoken": true
+        },
+        {
+          "word": "waste",
+          "start": 131.116,
+          "end": 131.26
+        },
+        {
+          "word": "my",
+          "start": 131.26,
+          "end": 131.64,
+          "spoken": true
+        },
+        {
+          "word": "time",
+          "start": 131.64,
+          "end": 132.06,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 132.08,
+      "text": "High school sweethearts, shut up",
+      "words": [
+        {
+          "word": "High",
+          "start": 132.08,
+          "end": 132.5,
+          "spoken": true
+        },
+        {
+          "word": "school",
+          "start": 132.5,
+          "end": 132.86,
+          "spoken": true
+        },
+        {
+          "word": "sweethearts,",
+          "start": 132.86,
+          "end": 134.54,
+          "char_starts": [
+            132.86,
+            132.903,
+            132.969,
+            133.049,
+            133.139,
+            133.237,
+            133.342,
+            133.453,
+            133.57,
+            133.693,
+            133.82,
+            133.952
+          ],
+          "sung": true,
+          "stretch": true
+        },
+        {
+          "word": "shut",
+          "start": 134.54,
+          "end": 134.82,
+          "spoken": true
+        },
+        {
+          "word": "up",
+          "start": 135.17,
+          "end": 135.5,
+          "sung": true
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 135.56,
+      "text": "If you're not my type",
+      "words": [
+        {
+          "word": "If",
+          "start": 135.752,
+          "end": 135.88,
+          "spoken": true
+        },
+        {
+          "word": "you're",
+          "start": 135.88,
+          "end": 136.1,
+          "spoken": true
+        },
+        {
+          "word": "not",
+          "start": 136.268,
+          "end": 136.38,
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 136.38,
+          "end": 136.76,
+          "spoken": true
+        },
+        {
+          "word": "type",
+          "start": 136.806,
+          "end": 137.08
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 137.1,
+      "text": "High school sweethearts, line up",
+      "words": [
+        {
+          "word": "High",
+          "start": 137.1,
+          "end": 137.56
+        },
+        {
+          "word": "school",
+          "start": 137.788,
+          "end": 137.94,
+          "spoken": true
+        },
+        {
+          "word": "sweethearts,",
+          "start": 137.94,
+          "end": 139.2,
+          "char_starts": [
+            137.94,
+            137.972,
+            138.022,
+            138.082,
+            138.149,
+            138.222,
+            138.301,
+            138.385,
+            138.473,
+            138.565,
+            138.66,
+            138.759
+          ]
+        },
+        {
+          "word": "line",
+          "start": 139.2,
+          "end": 139.86,
+          "char_starts": [
+            139.2,
+            139.28,
+            139.441,
+            139.662
+          ],
+          "spoken": true
+        },
+        {
+          "word": "up",
+          "start": 140.21,
+          "end": 140.52
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 140.66,
+      "text": "Not tryna waste my time",
+      "words": [
+        {
+          "word": "Not",
+          "start": 140.66,
+          "end": 140.84,
+          "spoken": true
+        },
+        {
+          "word": "tryna",
+          "start": 140.956,
+          "end": 141.14,
+          "spoken": true
+        },
+        {
+          "word": "waste",
+          "start": 141.356,
+          "end": 141.5
+        },
+        {
+          "word": "my",
+          "start": 141.5,
+          "end": 141.86,
+          "spoken": true
+        },
+        {
+          "word": "time",
+          "start": 141.906,
+          "end": 142.3,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 142.32,
+      "text": "High school sweethearts, shut up",
+      "words": [
+        {
+          "word": "High",
+          "start": 142.32,
+          "end": 142.74,
+          "spoken": true
+        },
+        {
+          "word": "school",
+          "start": 142.74,
+          "end": 143.1,
+          "spoken": true
+        },
+        {
+          "word": "sweethearts,",
+          "start": 143.45,
+          "end": 144.6,
+          "char_starts": [
+            143.45,
+            143.138,
+            143.198,
+            143.269,
+            143.349,
+            143.436,
+            143.53,
+            143.63,
+            143.734,
+            143.844,
+            143.957,
+            144.075
+          ],
+          "spoken": true
+        },
+        {
+          "word": "shut",
+          "start": 144.6,
+          "end": 145.06,
+          "spoken": true
+        },
+        {
+          "word": "up",
+          "start": 145.41,
+          "end": 145.76,
+          "sung": true
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 145.76,
+      "text": "If you're not my type",
+      "words": [
+        {
+          "word": "If",
+          "start": 145.76,
+          "end": 146.06,
+          "spoken": true
+        },
+        {
+          "word": "you're",
+          "start": 146.06,
+          "end": 146.24,
+          "spoken": true
+        },
+        {
+          "word": "not",
+          "start": 146.24,
+          "end": 146.58,
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 146.58,
+          "end": 146.94,
+          "spoken": true
+        },
+        {
+          "word": "type",
+          "start": 146.94,
+          "end": 147.54,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 147.54,
+      "text": "Step five",
+      "words": [
+        {
+          "word": "Step",
+          "start": 147.89,
+          "end": 148.16,
+          "spoken": true
+        },
+        {
+          "word": "five",
+          "start": 148.16,
+          "end": 148.78,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "32643517"
+    },
+    {
+      "time": 149.26,
+      "text": "You can't be scared to show me off and hold my hand",
+      "words": [
+        {
+          "word": "You",
+          "start": 149.368,
+          "end": 149.44,
+          "spoken": true
+        },
+        {
+          "word": "can't",
+          "start": 149.44,
+          "end": 149.78,
+          "spoken": true
+        },
+        {
+          "word": "be",
+          "start": 149.919,
+          "end": 150.2,
+          "spoken": true
+        },
+        {
+          "word": "scared",
+          "start": 150.316,
+          "end": 150.48,
+          "spoken": true
+        },
+        {
+          "word": "to",
+          "start": 150.643,
+          "end": 150.82
+        },
+        {
+          "word": "show",
+          "start": 150.82,
+          "end": 151.12,
+          "spoken": true
+        },
+        {
+          "word": "me",
+          "start": 151.12,
+          "end": 151.48,
+          "spoken": true
+        },
+        {
+          "word": "off",
+          "start": 151.6,
+          "end": 151.68,
+          "spoken": true
+        },
+        {
+          "word": "and",
+          "start": 151.68,
+          "end": 152.08,
+          "spoken": true
+        },
+        {
+          "word": "hold",
+          "start": 152.08,
+          "end": 152.28,
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 152.559,
+          "end": 152.76
+        },
+        {
+          "word": "hand",
+          "start": 152.76,
+          "end": 152.86
+        }
+      ],
+      "annotation_id": "32643517"
+    },
+    {
+      "time": 152.88,
+      "text": "Step six",
+      "words": [
+        {
+          "word": "Step",
+          "start": 153.168,
+          "end": 153.36
+        },
+        {
+          "word": "six",
+          "start": 153.36,
+          "end": 153.78,
+          "char_starts": [
+            153.36,
+            153.534,
+            153.805
+          ],
+          "spoken": true
+        }
+      ],
+      "annotation_id": "39669118"
+    },
+    {
+      "time": 153.8,
+      "text": "If you can't put in work, I don't know what you think this fuckin' is",
+      "words": [
+        {
+          "word": "If",
+          "start": 153.846,
+          "end": 154.02
+        },
+        {
+          "word": "you",
+          "start": 154.152,
+          "end": 154.24
+        },
+        {
+          "word": "can't",
+          "start": 154.24,
+          "end": 154.62,
+          "spoken": true
+        },
+        {
+          "word": "put",
+          "start": 154.74,
+          "end": 154.82,
+          "spoken": true
+        },
+        {
+          "word": "in",
+          "start": 154.82,
+          "end": 155.04,
+          "spoken": true
+        },
+        {
+          "word": "work,",
+          "start": 155.04,
+          "end": 155.3,
+          "spoken": true
+        },
+        {
+          "word": "I",
+          "start": 155.492,
+          "end": 155.62,
+          "spoken": true
+        },
+        {
+          "word": "don't",
+          "start": 155.62,
+          "end": 155.84,
+          "spoken": true
+        },
+        {
+          "word": "know",
+          "start": 155.9,
+          "end": 155.94,
+          "spoken": true
+        },
+        {
+          "word": "what",
+          "start": 156.079,
+          "end": 156.2
+        },
+        {
+          "word": "you",
+          "start": 156.2,
+          "end": 156.5
+        },
+        {
+          "word": "think",
+          "start": 156.593,
+          "end": 156.68
+        },
+        {
+          "word": "this",
+          "start": 156.68,
+          "end": 157.02
+        },
+        {
+          "word": "fuckin'",
+          "start": 157.02,
+          "end": 157.34,
+          "spoken": true
+        },
+        {
+          "word": "is",
+          "start": 157.34,
+          "end": 157.86,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "39669118"
+    },
+    {
+      "time": 157.88,
+      "text": "Step seven, this one goes to eleven",
+      "words": [
+        {
+          "word": "Step",
+          "start": 158.132,
+          "end": 158.3
+        },
+        {
+          "word": "seven,",
+          "start": 158.3,
+          "end": 159.52,
+          "char_starts": [
+            158.3,
+            158.39,
+            158.53,
+            158.698,
+            158.887,
+            159.093
+          ],
+          "spoken": true
+        },
+        {
+          "word": "this",
+          "start": 159.52,
+          "end": 159.7,
+          "spoken": true
+        },
+        {
+          "word": "one",
+          "start": 159.832,
+          "end": 159.92,
+          "spoken": true
+        },
+        {
+          "word": "goes",
+          "start": 160.112,
+          "end": 160.24,
+          "spoken": true
+        },
+        {
+          "word": "to",
+          "start": 160.24,
+          "end": 160.86,
+          "spoken": true
+        },
+        {
+          "word": "eleven",
+          "start": 160.86,
+          "end": 162.16,
+          "stretch": true,
+          "char_starts": [
+            160.86,
+            160.956,
+            161.105,
+            161.284,
+            161.485,
+            161.705
+          ],
+          "sung": true
+        }
+      ]
+    },
+    {
+      "time": 162.16,
+      "text": "If you cheat, you will die, die",
+      "words": [
+        {
+          "word": "If",
+          "start": 162.51,
+          "end": 164.46,
+          "sung": true
+        },
+        {
+          "word": "you",
+          "start": 164.46,
+          "end": 164.82,
+          "spoken": true
+        },
+        {
+          "word": "cheat,",
+          "start": 164.82,
+          "end": 165.08,
+          "spoken": true
+        },
+        {
+          "word": "you",
+          "start": 165.08,
+          "end": 165.32,
+          "spoken": true
+        },
+        {
+          "word": "will",
+          "start": 165.32,
+          "end": 165.84,
+          "spoken": true
+        },
+        {
+          "word": "die,",
+          "start": 165.979,
+          "end": 167.12,
+          "char_starts": [
+            165.979,
+            166.029,
+            166.321,
+            166.672
+          ],
+          "spoken": true
+        },
+        {
+          "word": "die",
+          "start": 167.12,
+          "end": 167.64,
+          "char_starts": [
+            167.12,
+            167.259,
+            167.54
+          ]
+        }
+      ]
+    },
+    {
+      "time": 167.66,
+      "text": "If you can't handle a heart like mine",
+      "words": [
+        {
+          "word": "If",
+          "start": 167.869,
+          "end": 168.06
+        },
+        {
+          "word": "you",
+          "start": 168.18,
+          "end": 168.26
+        },
+        {
+          "word": "can't",
+          "start": 168.26,
+          "end": 168.58
+        },
+        {
+          "word": "handle",
+          "start": 168.58,
+          "end": 169.32,
+          "char_starts": [
+            168.58,
+            168.619,
+            168.7,
+            168.809,
+            168.942,
+            169.098
+          ],
+          "spoken": true
+        },
+        {
+          "word": "a",
+          "start": 169.483,
+          "end": 169.94,
+          "spoken": true
+        },
+        {
+          "word": "heart",
+          "start": 169.94,
+          "end": 170.12,
+          "sung": true
+        },
+        {
+          "word": "like",
+          "start": 170.12,
+          "end": 170.54,
+          "spoken": true
+        },
+        {
+          "word": "mine",
+          "start": 170.54,
+          "end": 171.04,
+          "spoken": true
+        }
+      ]
+    },
+    {
+      "time": 171.06,
+      "text": "Don't waste your time with me",
+      "words": [
+        {
+          "word": "Don't",
+          "start": 171.06,
+          "end": 171.86,
+          "char_starts": [
+            171.06,
+            171.156,
+            171.305,
+            171.483,
+            171.684
+          ],
+          "sung": true,
+          "stretch": true
+        },
+        {
+          "word": "waste",
+          "start": 171.98,
+          "end": 172.06,
+          "sung": true
+        },
+        {
+          "word": "your",
+          "start": 172.06,
+          "end": 172.4
+        },
+        {
+          "word": "time",
+          "start": 172.4,
+          "end": 172.86,
+          "spoken": true
+        },
+        {
+          "word": "with",
+          "start": 172.86,
+          "end": 173.16
+        },
+        {
+          "word": "me",
+          "start": 173.46,
+          "end": 173.66
+        }
+      ]
+    },
+    {
+      "time": 173.68,
+      "text": "If you're not down to bleed, no, oh",
+      "words": [
+        {
+          "word": "If",
+          "start": 174.03,
+          "end": 174.28,
+          "spoken": true
+        },
+        {
+          "word": "you're",
+          "start": 174.508,
+          "end": 174.66,
+          "spoken": true
+        },
+        {
+          "word": "not",
+          "start": 174.66,
+          "end": 174.96
+        },
+        {
+          "word": "down",
+          "start": 174.96,
+          "end": 175.4,
+          "spoken": true
+        },
+        {
+          "word": "to",
+          "start": 175.4,
+          "end": 175.7,
+          "sung": true
+        },
+        {
+          "word": "bleed,",
+          "start": 176.05,
+          "end": 177.26,
+          "char_starts": [
+            176.05,
+            175.815,
+            175.994,
+            176.209,
+            176.45,
+            176.714
+          ],
+          "spoken": true
+        },
+        {
+          "word": "no,",
+          "start": 177.26,
+          "end": 177.36,
+          "spoken": true
+        },
+        {
+          "word": "oh",
+          "start": 177.36,
+          "end": 177.46,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "29039697"
+    },
+    {
+      "time": 177.36,
+      "text": "If you can't handle the chokin', the bitin'",
+      "words": [
+        {
+          "word": "If",
+          "start": 177.71,
+          "end": 178.26,
+          "spoken": true
+        },
+        {
+          "word": "you",
+          "start": 178.26,
+          "end": 178.54,
+          "spoken": true
+        },
+        {
+          "word": "can't",
+          "start": 178.744,
+          "end": 178.88,
+          "spoken": true
+        },
+        {
+          "word": "handle",
+          "start": 179.23,
+          "end": 180.98,
+          "char_starts": [
+            179.23,
+            178.984,
+            179.195,
+            179.483,
+            179.835,
+            180.245
+          ],
+          "spoken": true
+        },
+        {
+          "word": "the",
+          "start": 181.148,
+          "end": 181.26,
+          "spoken": true
+        },
+        {
+          "word": "chokin',",
+          "start": 181.26,
+          "end": 181.307
+        },
+        {
+          "word": "the",
+          "start": 181.307,
+          "end": 181.325
+        },
+        {
+          "word": "bitin'",
+          "start": 181.335,
+          "end": 181.435
+        }
+      ],
+      "annotation_id": "29039697"
+    },
+    {
+      "time": 180.95,
+      "text": "The lovin', the smotherin'",
+      "words": [
+        {
+          "word": "The",
+          "start": 181.075,
+          "end": 181.159,
+          "spoken": true
+        },
+        {
+          "word": "lovin',",
+          "start": 181.159,
+          "end": 181.646
+        },
+        {
+          "word": "the",
+          "start": 181.646,
+          "end": 181.854,
+          "spoken": true
+        },
+        {
+          "word": "smotherin'",
+          "start": 182.204,
+          "end": 182.55,
+          "char_starts": [
+            182.204,
+            181.882,
+            181.925,
+            181.977,
+            182.036,
+            182.1,
+            182.168,
+            182.241,
+            182.317,
+            182.397
+          ],
+          "spoken": true
+        }
+      ],
+      "annotation_id": "29039697"
+    },
+    {
+      "time": 182.55,
+      "text": "'Til you can't handle it no more, no more",
+      "words": [
+        {
+          "word": "'Til",
+          "start": 182.55,
+          "end": 182.7
+        },
+        {
+          "word": "you",
+          "start": 182.77,
+          "end": 182.98,
+          "spoken": true
+        },
+        {
+          "word": "can't",
+          "start": 182.98,
+          "end": 183.46,
+          "spoken": true
+        },
+        {
+          "word": "handle",
+          "start": 183.46,
+          "end": 183.66,
+          "spoken": true
+        },
+        {
+          "word": "it",
+          "start": 183.846,
+          "end": 184.08,
+          "spoken": true
+        },
+        {
+          "word": "no",
+          "start": 184.43,
+          "end": 184.88,
+          "sung": true
+        },
+        {
+          "word": "more,",
+          "start": 184.88,
+          "end": 185.4
+        },
+        {
+          "word": "no",
+          "start": 185.4,
+          "end": 185.82,
+          "spoken": true
+        },
+        {
+          "word": "more",
+          "start": 185.82,
+          "end": 186.56,
+          "char_starts": [
+            185.82,
+            185.909,
+            186.091,
+            186.338
+          ],
+          "spoken": true
+        }
+      ],
+      "annotation_id": "29039697"
+    },
+    {
+      "time": 187.56,
+      "text": "Go home",
+      "words": [
+        {
+          "word": "Go",
+          "start": 187.91,
+          "end": 188.36,
+          "sung": true
+        },
+        {
+          "word": "home",
+          "start": 188.36,
+          "end": 189.08,
+          "char_starts": [
+            188.36,
+            188.447,
+            188.623,
+            188.864
+          ]
+        }
+      ],
+      "annotation_id": "29039697"
+    },
+    {
+      "time": 190.1,
+      "text": "Can we just be honest?",
+      "words": [
+        {
+          "word": "Can",
+          "start": 190.286,
+          "end": 190.5,
+          "spoken": true
+        },
+        {
+          "word": "we",
+          "start": 190.57,
+          "end": 190.86,
+          "spoken": true
+        },
+        {
+          "word": "just",
+          "start": 190.906,
+          "end": 191.2,
+          "spoken": true
+        },
+        {
+          "word": "be",
+          "start": 191.502,
+          "end": 191.96,
+          "sung": true
+        },
+        {
+          "word": "honest?",
+          "start": 192.006,
+          "end": 192.56
+        }
+      ],
+      "annotation_id": "29039663"
+    },
+    {
+      "time": 192.72,
+      "text": "These are the requirements",
+      "words": [
+        {
+          "word": "These",
+          "start": 192.72,
+          "end": 193.18
+        },
+        {
+          "word": "are",
+          "start": 193.296,
+          "end": 193.56
+        },
+        {
+          "word": "the",
+          "start": 193.723,
+          "end": 193.96,
+          "spoken": true
+        },
+        {
+          "word": "requirements",
+          "start": 194.076,
+          "end": 195.02,
+          "stretch": true,
+          "char_starts": [
+            194.076,
+            193.992,
+            194.043,
+            194.103,
+            194.171,
+            194.245,
+            194.325,
+            194.409,
+            194.498,
+            194.591,
+            194.687,
+            194.787
+          ],
+          "sung": true
+        }
+      ],
+      "annotation_id": "29039663"
+    },
+    {
+      "time": 195.02,
+      "text": "If you think you can be my one and only true love",
+      "words": [
+        {
+          "word": "If",
+          "start": 195.02,
+          "end": 195.74,
+          "spoken": true
+        },
+        {
+          "word": "you",
+          "start": 195.74,
+          "end": 196.06
+        },
+        {
+          "word": "think",
+          "start": 196.06,
+          "end": 196.3
+        },
+        {
+          "word": "you",
+          "start": 196.48,
+          "end": 196.6
+        },
+        {
+          "word": "can",
+          "start": 196.6,
+          "end": 196.98
+        },
+        {
+          "word": "be",
+          "start": 197.119,
+          "end": 197.36,
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 197.552,
+          "end": 197.68
+        },
+        {
+          "word": "one",
+          "start": 197.68,
+          "end": 197.92,
+          "sung": true
+        },
+        {
+          "word": "and",
+          "start": 198.208,
+          "end": 198.4,
+          "char_starts": [
+            198.208,
+            198.067,
+            198.294
+          ],
+          "spoken": true
+        },
+        {
+          "word": "only",
+          "start": 198.4,
+          "end": 198.84
+        },
+        {
+          "word": "true",
+          "start": 199.128,
+          "end": 199.32
+        },
+        {
+          "word": "love",
+          "start": 199.668,
+          "end": 200.0,
+          "char_starts": [
+            199.668,
+            199.402,
+            199.569,
+            199.796
+          ]
+        }
+      ],
+      "annotation_id": "29039663"
+    },
+    {
+      "time": 200.0,
+      "text": "You must promise to love me",
+      "words": [
+        {
+          "word": "You",
+          "start": 200.116,
+          "end": 200.46,
+          "spoken": true
+        },
+        {
+          "word": "must",
+          "start": 200.46,
+          "end": 200.881,
+          "spoken": true
+        },
+        {
+          "word": "promise",
+          "start": 201.231,
+          "end": 201.618,
+          "char_starts": [
+            201.231,
+            200.91,
+            200.97,
+            201.051,
+            201.151,
+            201.266,
+            201.397
+          ]
+        },
+        {
+          "word": "to",
+          "start": 201.628,
+          "end": 201.828,
+          "sung": true
+        },
+        {
+          "word": "love",
+          "start": 202.081,
+          "end": 202.249,
+          "spoken": true
+        },
+        {
+          "word": "me",
+          "start": 202.249,
+          "end": 202.84
+        }
+      ],
+      "annotation_id": "29039663"
+    },
+    {
+      "time": 202.84,
+      "text": "And damn it, if you fuck me over",
+      "words": [
+        {
+          "word": "And",
+          "start": 202.84,
+          "end": 203.237,
+          "spoken": true
+        },
+        {
+          "word": "damn",
+          "start": 203.492,
+          "end": 203.767
+        },
+        {
+          "word": "it,",
+          "start": 204.005,
+          "end": 204.164,
+          "spoken": true
+        },
+        {
+          "word": "if",
+          "start": 204.28,
+          "end": 204.429,
+          "sung": true
+        },
+        {
+          "word": "you",
+          "start": 204.667,
+          "end": 204.826
+        },
+        {
+          "word": "fuck",
+          "start": 204.826,
+          "end": 205.356
+        },
+        {
+          "word": "me",
+          "start": 205.356,
+          "end": 205.62,
+          "spoken": true
+        },
+        {
+          "word": "over",
+          "start": 205.736,
+          "end": 206.15
+        }
+      ]
+    },
+    {
+      "time": 206.15,
+      "text": "I will rip your fuckin' face apart",
+      "words": [
+        {
+          "word": "I",
+          "start": 206.15,
+          "end": 206.3
+        },
+        {
+          "word": "will",
+          "start": 206.65,
+          "end": 206.9,
+          "sung": true
+        },
+        {
+          "word": "rip",
+          "start": 207.17,
+          "end": 207.35,
+          "spoken": true
+        },
+        {
+          "word": "your",
+          "start": 207.35,
+          "end": 207.95,
+          "spoken": true
+        },
+        {
+          "word": "fuckin'",
+          "start": 208.3,
+          "end": 209.0,
+          "char_starts": [
+            208.3,
+            208.023,
+            208.136,
+            208.271,
+            208.424,
+            208.59,
+            208.769
+          ],
+          "spoken": true
+        },
+        {
+          "word": "face",
+          "start": 209.35,
+          "end": 209.6
+        },
+        {
+          "word": "apart",
+          "start": 209.879,
+          "end": 210.35,
+          "char_starts": [
+            209.879,
+            209.69,
+            209.829,
+            209.997,
+            210.185
+          ],
+          "spoken": true
+        }
+      ]
+    },
+    {
+      "time": 211.36,
+      "text": "High school sweethearts, line up",
+      "words": [
+        {
+          "word": "High",
+          "start": 211.615,
+          "end": 211.841
+        },
+        {
+          "word": "school",
+          "start": 212.191,
+          "end": 212.564,
+          "char_starts": [
+            212.191,
+            211.905,
+            212.005,
+            212.124,
+            212.258,
+            212.405
+          ]
+        },
+        {
+          "word": "sweethearts,",
+          "start": 212.889,
+          "end": 214.008,
+          "char_starts": [
+            212.889,
+            212.601,
+            212.658,
+            212.726,
+            212.804,
+            212.888,
+            212.978,
+            213.074,
+            213.175,
+            213.28,
+            213.389,
+            213.503
+          ]
+        },
+        {
+          "word": "line",
+          "start": 214.008,
+          "end": 214.489
+        },
+        {
+          "word": "up",
+          "start": 214.489,
+          "end": 214.73
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 214.73,
+      "text": "Not tryna waste my time",
+      "words": [
+        {
+          "word": "Not",
+          "start": 214.895,
+          "end": 215.005,
+          "spoken": true
+        },
+        {
+          "word": "tryna",
+          "start": 215.005,
+          "end": 215.463
+        },
+        {
+          "word": "waste",
+          "start": 215.463,
+          "end": 215.921,
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 215.921,
+          "end": 216.104,
+          "spoken": true
+        },
+        {
+          "word": "time",
+          "start": 216.104,
+          "end": 216.47
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 216.47,
+      "text": "High school sweethearts, shut up",
+      "words": [
+        {
+          "word": "High",
+          "start": 216.47,
+          "end": 216.954,
+          "spoken": true
+        },
+        {
+          "word": "school",
+          "start": 217.304,
+          "end": 217.681,
+          "char_starts": [
+            217.304,
+            217.019,
+            217.119,
+            217.239,
+            217.374,
+            217.521
+          ],
+          "sung": true
+        },
+        {
+          "word": "sweethearts,",
+          "start": 217.983,
+          "end": 219.134,
+          "char_starts": [
+            217.983,
+            217.718,
+            217.776,
+            217.844,
+            217.922,
+            218.007,
+            218.098,
+            218.194,
+            218.295,
+            218.401,
+            218.511,
+            218.625
+          ],
+          "sung": true,
+          "stretch": true
+        },
+        {
+          "word": "shut",
+          "start": 219.424,
+          "end": 219.618
+        },
+        {
+          "word": "up",
+          "start": 219.618,
+          "end": 219.86,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 219.86,
+      "text": "If you're not my type",
+      "words": [
+        {
+          "word": "If",
+          "start": 219.86,
+          "end": 220.067,
+          "spoken": true
+        },
+        {
+          "word": "you're",
+          "start": 220.113,
+          "end": 220.688,
+          "spoken": true
+        },
+        {
+          "word": "not",
+          "start": 220.688,
+          "end": 220.999,
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 221.045,
+          "end": 221.206
+        },
+        {
+          "word": "type",
+          "start": 221.392,
+          "end": 221.62
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 221.62,
+      "text": "High school sweethearts, line up",
+      "words": [
+        {
+          "word": "High",
+          "start": 221.62,
+          "end": 222.09,
+          "spoken": true
+        },
+        {
+          "word": "school",
+          "start": 222.44,
+          "end": 222.795,
+          "char_starts": [
+            222.44,
+            222.153,
+            222.25,
+            222.366,
+            222.497,
+            222.64
+          ]
+        },
+        {
+          "word": "sweethearts,",
+          "start": 223.097,
+          "end": 224.205,
+          "char_starts": [
+            223.097,
+            222.831,
+            222.887,
+            222.954,
+            223.029,
+            223.111,
+            223.199,
+            223.293,
+            223.391,
+            223.494,
+            223.601,
+            223.712
+          ]
+        },
+        {
+          "word": "line",
+          "start": 224.205,
+          "end": 224.675
+        },
+        {
+          "word": "up",
+          "start": 224.675,
+          "end": 224.91,
+          "sung": true
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 224.91,
+      "text": "Not tryna waste my time",
+      "words": [
+        {
+          "word": "Not",
+          "start": 225.083,
+          "end": 225.199,
+          "spoken": true
+        },
+        {
+          "word": "tryna",
+          "start": 225.199,
+          "end": 225.681
+        },
+        {
+          "word": "waste",
+          "start": 225.681,
+          "end": 226.162,
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 226.162,
+          "end": 226.355
+        },
+        {
+          "word": "time",
+          "start": 226.586,
+          "end": 226.74
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 226.74,
+      "text": "High school sweethearts, shut up",
+      "words": [
+        {
+          "word": "High",
+          "start": 227.052,
+          "end": 227.26,
+          "spoken": true
+        },
+        {
+          "word": "school",
+          "start": 227.26,
+          "end": 228.04,
+          "char_starts": [
+            227.26,
+            227.329,
+            227.437,
+            227.565,
+            227.71,
+            227.868
+          ],
+          "spoken": true
+        },
+        {
+          "word": "sweethearts,",
+          "start": 228.226,
+          "end": 229.6,
+          "char_starts": [
+            228.226,
+            228.08,
+            228.142,
+            228.215,
+            228.299,
+            228.39,
+            228.487,
+            228.591,
+            228.7,
+            228.813,
+            228.932,
+            229.054
+          ],
+          "sung": true,
+          "stretch": true
+        },
+        {
+          "word": "shut",
+          "start": 229.809,
+          "end": 230.12
+        },
+        {
+          "word": "up",
+          "start": 230.12,
+          "end": 230.38,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 230.38,
+      "text": "If you're not my type",
+      "words": [
+        {
+          "word": "If",
+          "start": 230.38,
+          "end": 230.68,
+          "spoken": true
+        },
+        {
+          "word": "you're",
+          "start": 230.68,
+          "end": 231.58,
+          "char_starts": [
+            230.68,
+            230.728,
+            230.825,
+            230.958,
+            231.121,
+            231.31
+          ],
+          "spoken": true
+        },
+        {
+          "word": "not",
+          "start": 231.58,
+          "end": 232.03,
+          "whisper": true
+        },
+        {
+          "word": "my",
+          "start": 232.21,
+          "end": 232.33,
+          "whisper": true
+        },
+        {
+          "word": "type",
+          "start": 232.68,
+          "end": 232.93,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 233.02,
+      "text": "Could you hold me through the night?",
+      "words": [
+        {
+          "word": "Could",
+          "start": 233.02,
+          "end": 233.435,
+          "spoken": true
+        },
+        {
+          "word": "you",
+          "start": 233.435,
+          "end": 233.684,
+          "spoken": true
+        },
+        {
+          "word": "hold",
+          "start": 233.684,
+          "end": 234.016
+        },
+        {
+          "word": "me",
+          "start": 234.016,
+          "end": 234.182,
+          "spoken": true
+        },
+        {
+          "word": "through",
+          "start": 234.182,
+          "end": 234.763,
+          "spoken": true
+        },
+        {
+          "word": "the",
+          "start": 234.763,
+          "end": 235.012
+        },
+        {
+          "word": "night?",
+          "start": 235.012,
+          "end": 235.51
+        }
+      ]
+    },
+    {
+      "time": 235.64,
+      "text": "Put your lips all over my",
+      "words": [
+        {
+          "word": "Put",
+          "start": 235.64,
+          "end": 235.998,
+          "spoken": true
+        },
+        {
+          "word": "your",
+          "start": 235.998,
+          "end": 236.476,
+          "spoken": true
+        },
+        {
+          "word": "lips",
+          "start": 236.476,
+          "end": 236.954
+        },
+        {
+          "word": "all",
+          "start": 236.954,
+          "end": 237.313
+        },
+        {
+          "word": "over",
+          "start": 237.313,
+          "end": 237.791
+        },
+        {
+          "word": "my",
+          "start": 237.791,
+          "end": 238.03
+        }
+      ]
+    },
+    {
+      "time": 238.03,
+      "text": "Salty face when I start cryin'",
+      "words": [
+        {
+          "word": "Salty",
+          "start": 238.38,
+          "end": 238.78,
+          "char_starts": [
+            238.38,
+            238.087,
+            238.203,
+            238.361,
+            238.555
+          ],
+          "spoken": true
+        },
+        {
+          "word": "face",
+          "start": 238.78,
+          "end": 239.38,
+          "spoken": true
+        },
+        {
+          "word": "when",
+          "start": 239.38,
+          "end": 239.98,
+          "spoken": true
+        },
+        {
+          "word": "I",
+          "start": 239.98,
+          "end": 240.13
+        },
+        {
+          "word": "start",
+          "start": 240.432,
+          "end": 240.88,
+          "char_starts": [
+            240.432,
+            240.22,
+            240.359,
+            240.527,
+            240.715
+          ]
+        },
+        {
+          "word": "cryin'",
+          "start": 241.019,
+          "end": 241.78,
+          "char_starts": [
+            241.019,
+            240.96,
+            241.084,
+            241.232,
+            241.399,
+            241.582
+          ],
+          "spoken": true
+        }
+      ]
+    },
+    {
+      "time": 243.22,
+      "text": "Could you be my first time?",
+      "words": [
+        {
+          "word": "Could",
+          "start": 243.22,
+          "end": 243.802,
+          "spoken": true
+        },
+        {
+          "word": "you",
+          "start": 243.802,
+          "end": 244.151,
+          "spoken": true
+        },
+        {
+          "word": "be",
+          "start": 244.151,
+          "end": 244.384,
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 244.384,
+          "end": 244.616
+        },
+        {
+          "word": "first",
+          "start": 244.616,
+          "end": 245.198
+        },
+        {
+          "word": "time?",
+          "start": 245.198,
+          "end": 245.78
+        }
+      ]
+    },
+    {
+      "time": 245.98,
+      "text": "Eat me up like apple pie",
+      "words": [
+        {
+          "word": "Eat",
+          "start": 245.98,
+          "end": 246.346,
+          "spoken": true
+        },
+        {
+          "word": "me",
+          "start": 246.346,
+          "end": 246.591,
+          "spoken": true
+        },
+        {
+          "word": "up",
+          "start": 246.591,
+          "end": 246.835
+        },
+        {
+          "word": "like",
+          "start": 246.835,
+          "end": 247.323
+        },
+        {
+          "word": "apple",
+          "start": 247.323,
+          "end": 247.934
+        },
+        {
+          "word": "pie",
+          "start": 247.934,
+          "end": 248.3
+        }
+      ]
+    },
+    {
+      "time": 248.3,
+      "text": "Make me not wanna die",
+      "words": [
+        {
+          "word": "Make",
+          "start": 248.3,
+          "end": 248.9,
+          "spoken": true
+        },
+        {
+          "word": "me",
+          "start": 248.9,
+          "end": 249.2,
+          "spoken": true
+        },
+        {
+          "word": "not",
+          "start": 249.47,
+          "end": 249.65
+        },
+        {
+          "word": "wanna",
+          "start": 249.65,
+          "end": 250.4,
+          "char_starts": [
+            249.65,
+            249.707,
+            249.823,
+            249.981,
+            250.175
+          ],
+          "sung": true,
+          "stretch": true
+        },
+        {
+          "word": "die",
+          "start": 250.4,
+          "end": 250.85,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "30261231"
+    },
+    {
+      "time": 250.9,
+      "text": "Love me rough and let me fly",
+      "words": [
+        {
+          "word": "Love",
+          "start": 250.9,
+          "end": 251.356
+        },
+        {
+          "word": "me",
+          "start": 251.356,
+          "end": 251.585
+        },
+        {
+          "word": "rough",
+          "start": 251.585,
+          "end": 252.155,
+          "spoken": true
+        },
+        {
+          "word": "and",
+          "start": 252.36,
+          "end": 252.497,
+          "spoken": true
+        },
+        {
+          "word": "let",
+          "start": 252.497,
+          "end": 252.84,
+          "spoken": true
+        },
+        {
+          "word": "me",
+          "start": 252.84,
+          "end": 253.068,
+          "spoken": true
+        },
+        {
+          "word": "fly",
+          "start": 253.068,
+          "end": 253.41,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "30261231"
+    },
+    {
+      "time": 253.41,
+      "text": "Get me up, yeah, get me high",
+      "words": [
+        {
+          "word": "Get",
+          "start": 253.41,
+          "end": 253.759,
+          "spoken": true
+        },
+        {
+          "word": "me",
+          "start": 253.759,
+          "end": 253.992,
+          "spoken": true
+        },
+        {
+          "word": "up,",
+          "start": 253.992,
+          "end": 254.341,
+          "spoken": true
+        },
+        {
+          "word": "yeah,",
+          "start": 254.341,
+          "end": 254.923,
+          "spoken": true
+        },
+        {
+          "word": "get",
+          "start": 254.923,
+          "end": 255.272,
+          "spoken": true
+        },
+        {
+          "word": "me",
+          "start": 255.272,
+          "end": 255.505,
+          "spoken": true
+        },
+        {
+          "word": "high",
+          "start": 255.505,
+          "end": 255.97,
+          "sung": true
+        }
+      ],
+      "annotation_id": "32248219"
+    },
+    {
+      "time": 255.97,
+      "text": "Tie me down, don't leave my side",
+      "words": [
+        {
+          "word": "Tie",
+          "start": 255.97,
+          "end": 256.268
+        },
+        {
+          "word": "me",
+          "start": 256.268,
+          "end": 256.466
+        },
+        {
+          "word": "down,",
+          "start": 256.466,
+          "end": 256.962
+        },
+        {
+          "word": "don't",
+          "start": 256.962,
+          "end": 257.458
+        },
+        {
+          "word": "leave",
+          "start": 257.458,
+          "end": 257.955
+        },
+        {
+          "word": "my",
+          "start": 257.955,
+          "end": 258.153,
+          "spoken": true
+        },
+        {
+          "word": "side",
+          "start": 258.153,
+          "end": 258.55,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "32248219"
+    },
+    {
+      "time": 258.55,
+      "text": "Don't be a waste of my time",
+      "words": [
+        {
+          "word": "Don't",
+          "start": 258.55,
+          "end": 259.3,
+          "char_starts": [
+            258.55,
+            258.64,
+            258.779,
+            258.947,
+            259.135
+          ],
+          "spoken": true
+        },
+        {
+          "word": "be",
+          "start": 259.3,
+          "end": 259.6
+        },
+        {
+          "word": "a",
+          "start": 259.6,
+          "end": 259.75
+        },
+        {
+          "word": "waste",
+          "start": 259.75,
+          "end": 260.5,
+          "char_starts": [
+            259.75,
+            259.807,
+            259.923,
+            260.081,
+            260.275
+          ],
+          "spoken": true
+        },
+        {
+          "word": "of",
+          "start": 260.5,
+          "end": 260.8,
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 260.939,
+          "end": 261.1,
+          "spoken": true
+        },
+        {
+          "word": "time",
+          "start": 261.1,
+          "end": 261.7,
+          "spoken": true
+        }
+      ]
+    },
+    {
+      "time": 264.52,
+      "text": "Can we just be honest?",
+      "words": [
+        {
+          "word": "Can",
+          "start": 264.59,
+          "end": 264.915,
+          "spoken": true
+        },
+        {
+          "word": "we",
+          "start": 264.961,
+          "end": 265.178,
+          "spoken": true
+        },
+        {
+          "word": "just",
+          "start": 265.494,
+          "end": 265.705,
+          "spoken": true
+        },
+        {
+          "word": "be",
+          "start": 265.705,
+          "end": 265.968
+        },
+        {
+          "word": "honest?",
+          "start": 266.038,
+          "end": 266.89,
+          "char_starts": [
+            266.038,
+            266.032,
+            266.131,
+            266.25,
+            266.384,
+            266.53,
+            266.687
+          ],
+          "spoken": true
+        }
+      ],
+      "annotation_id": "29039663"
+    },
+    {
+      "time": 266.89,
+      "text": "These are the requirements",
+      "words": [
+        {
+          "word": "These",
+          "start": 267.213,
+          "end": 267.429,
+          "spoken": true
+        },
+        {
+          "word": "are",
+          "start": 267.429,
+          "end": 267.753
+        },
+        {
+          "word": "the",
+          "start": 267.753,
+          "end": 268.076,
+          "spoken": true
+        },
+        {
+          "word": "requirements",
+          "start": 268.076,
+          "end": 269.37,
+          "char_starts": [
+            268.076,
+            268.109,
+            268.16,
+            268.222,
+            268.291,
+            268.366,
+            268.447,
+            268.533,
+            268.623,
+            268.717,
+            268.816,
+            268.917
+          ],
+          "sung": true,
+          "stretch": true
+        }
+      ],
+      "annotation_id": "29039663"
+    },
+    {
+      "time": 269.37,
+      "text": "If you think you can be my one and only true love",
+      "words": [
+        {
+          "word": "If",
+          "start": 269.37,
+          "end": 269.634
+        },
+        {
+          "word": "you",
+          "start": 269.634,
+          "end": 270.029
+        },
+        {
+          "word": "think",
+          "start": 270.029,
+          "end": 270.688,
+          "char_starts": [
+            270.029,
+            270.108,
+            270.231,
+            270.378,
+            270.543
+          ]
+        },
+        {
+          "word": "you",
+          "start": 270.688,
+          "end": 271.084,
+          "spoken": true
+        },
+        {
+          "word": "can",
+          "start": 271.177,
+          "end": 271.479,
+          "spoken": true
+        },
+        {
+          "word": "be",
+          "start": 271.618,
+          "end": 271.743
+        },
+        {
+          "word": "my",
+          "start": 271.743,
+          "end": 272.007,
+          "spoken": true
+        },
+        {
+          "word": "one",
+          "start": 272.007,
+          "end": 272.402,
+          "spoken": true
+        },
+        {
+          "word": "and",
+          "start": 272.448,
+          "end": 272.798
+        },
+        {
+          "word": "only",
+          "start": 273.114,
+          "end": 273.325,
+          "spoken": true
+        },
+        {
+          "word": "true",
+          "start": 273.642,
+          "end": 273.853
+        },
+        {
+          "word": "love",
+          "start": 274.155,
+          "end": 274.38,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "29039663"
+    },
+    {
+      "time": 274.38,
+      "text": "You must promise to love me",
+      "words": [
+        {
+          "word": "You",
+          "start": 274.38,
+          "end": 274.714,
+          "spoken": true
+        },
+        {
+          "word": "must",
+          "start": 274.714,
+          "end": 275.16,
+          "spoken": true
+        },
+        {
+          "word": "promise",
+          "start": 275.323,
+          "end": 275.939,
+          "char_starts": [
+            275.323,
+            275.191,
+            275.254,
+            275.34,
+            275.445,
+            275.567,
+            275.705
+          ],
+          "sung": true,
+          "stretch": true
+        },
+        {
+          "word": "to",
+          "start": 275.939,
+          "end": 276.162,
+          "spoken": true
+        },
+        {
+          "word": "love",
+          "start": 276.278,
+          "end": 276.607,
+          "spoken": true
+        },
+        {
+          "word": "me",
+          "start": 276.741,
+          "end": 276.83,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "29039663"
+    },
+    {
+      "time": 276.83,
+      "text": "And damn it, if you fuck me over",
+      "words": [
+        {
+          "word": "And",
+          "start": 276.83,
+          "end": 277.261,
+          "spoken": true
+        },
+        {
+          "word": "damn",
+          "start": 277.54,
+          "end": 277.835,
+          "spoken": true
+        },
+        {
+          "word": "it,",
+          "start": 278.09,
+          "end": 278.266,
+          "spoken": true
+        },
+        {
+          "word": "if",
+          "start": 278.336,
+          "end": 278.553,
+          "spoken": true
+        },
+        {
+          "word": "you",
+          "start": 278.812,
+          "end": 278.984,
+          "sung": true
+        },
+        {
+          "word": "fuck",
+          "start": 279.263,
+          "end": 279.558,
+          "spoken": true
+        },
+        {
+          "word": "me",
+          "start": 279.731,
+          "end": 279.846,
+          "spoken": true
+        },
+        {
+          "word": "over",
+          "start": 279.846,
+          "end": 280.42
+        }
+      ]
+    },
+    {
+      "time": 280.42,
+      "text": "I will rip your fuckin' face apart",
+      "words": [
+        {
+          "word": "I",
+          "start": 280.42,
+          "end": 280.57,
+          "spoken": true
+        },
+        {
+          "word": "will",
+          "start": 280.872,
+          "end": 281.17,
+          "sung": true
+        },
+        {
+          "word": "rip",
+          "start": 281.379,
+          "end": 281.62,
+          "spoken": true
+        },
+        {
+          "word": "your",
+          "start": 281.829,
+          "end": 282.22,
+          "spoken": true
+        },
+        {
+          "word": "fuckin'",
+          "start": 282.57,
+          "end": 283.27,
+          "char_starts": [
+            282.57,
+            282.293,
+            282.406,
+            282.541,
+            282.694,
+            282.86,
+            283.039
+          ],
+          "spoken": true
+        },
+        {
+          "word": "face",
+          "start": 283.433,
+          "end": 283.87,
+          "spoken": true
+        },
+        {
+          "word": "apart",
+          "start": 283.916,
+          "end": 284.62,
+          "char_starts": [
+            283.916,
+            283.96,
+            284.099,
+            284.267,
+            284.455
+          ],
+          "spoken": true
+        }
+      ]
+    },
+    {
+      "time": 285.66,
+      "text": "High school sweethearts, line up",
+      "words": [
+        {
+          "word": "High",
+          "start": 285.66,
+          "end": 286.086
+        },
+        {
+          "word": "school",
+          "start": 286.436,
+          "end": 286.724
+        },
+        {
+          "word": "sweethearts,",
+          "start": 286.933,
+          "end": 288.001,
+          "char_starts": [
+            286.933,
+            286.757,
+            286.807,
+            286.868,
+            286.936,
+            287.01,
+            287.09,
+            287.175,
+            287.264,
+            287.357,
+            287.454,
+            287.554
+          ]
+        },
+        {
+          "word": "line",
+          "start": 288.001,
+          "end": 288.427,
+          "spoken": true
+        },
+        {
+          "word": "up",
+          "start": 288.543,
+          "end": 288.64,
+          "sung": true
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 288.84,
+      "text": "Not tryna waste my time",
+      "words": [
+        {
+          "word": "Not",
+          "start": 289.0,
+          "end": 289.107
+        },
+        {
+          "word": "tryna",
+          "start": 289.374,
+          "end": 289.552
+        },
+        {
+          "word": "waste",
+          "start": 289.552,
+          "end": 289.996,
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 289.996,
+          "end": 290.174,
+          "spoken": true
+        },
+        {
+          "word": "time",
+          "start": 290.388,
+          "end": 290.53
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 290.53,
+      "text": "High school sweethearts, shut up",
+      "words": [
+        {
+          "word": "High",
+          "start": 290.53,
+          "end": 291.004,
+          "spoken": true
+        },
+        {
+          "word": "school",
+          "start": 291.354,
+          "end": 291.716,
+          "char_starts": [
+            291.354,
+            291.067,
+            291.165,
+            291.283,
+            291.415,
+            291.559
+          ],
+          "sung": true
+        },
+        {
+          "word": "sweethearts,",
+          "start": 292.018,
+          "end": 293.139,
+          "char_starts": [
+            292.018,
+            291.752,
+            291.809,
+            291.876,
+            291.952,
+            292.035,
+            292.124,
+            292.218,
+            292.318,
+            292.421,
+            292.529,
+            292.641
+          ],
+          "sung": true,
+          "stretch": true
+        },
+        {
+          "word": "shut",
+          "start": 293.139,
+          "end": 293.613
+        },
+        {
+          "word": "up",
+          "start": 293.659,
+          "end": 293.85
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 294.02,
+      "text": "If you're not my type",
+      "words": [
+        {
+          "word": "If",
+          "start": 294.02,
+          "end": 294.212
+        },
+        {
+          "word": "you're",
+          "start": 294.557,
+          "end": 294.787,
+          "spoken": true
+        },
+        {
+          "word": "not",
+          "start": 294.787,
+          "end": 295.075,
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 295.075,
+          "end": 295.266,
+          "spoken": true
+        },
+        {
+          "word": "type",
+          "start": 295.429,
+          "end": 295.65
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 295.65,
+      "text": "High school sweethearts, line up",
+      "words": [
+        {
+          "word": "High",
+          "start": 295.65,
+          "end": 296.096,
+          "spoken": true
+        },
+        {
+          "word": "school",
+          "start": 296.446,
+          "end": 296.764,
+          "char_starts": [
+            296.446,
+            296.155,
+            296.247,
+            296.357,
+            296.482,
+            296.617
+          ]
+        },
+        {
+          "word": "sweethearts,",
+          "start": 296.764,
+          "end": 298.101,
+          "char_starts": [
+            296.764,
+            296.798,
+            296.851,
+            296.914,
+            296.986,
+            297.064,
+            297.147,
+            297.236,
+            297.329,
+            297.427,
+            297.528,
+            297.633
+          ],
+          "spoken": true
+        },
+        {
+          "word": "line",
+          "start": 298.101,
+          "end": 298.547
+        },
+        {
+          "word": "up",
+          "start": 298.547,
+          "end": 298.77,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 299.06,
+      "text": "Not tryna waste my time",
+      "words": [
+        {
+          "word": "Not",
+          "start": 299.218,
+          "end": 299.324,
+          "spoken": true
+        },
+        {
+          "word": "tryna",
+          "start": 299.587,
+          "end": 299.763
+        },
+        {
+          "word": "waste",
+          "start": 299.763,
+          "end": 300.203,
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 300.203,
+          "end": 300.378
+        },
+        {
+          "word": "time",
+          "start": 300.589,
+          "end": 300.73
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 300.73,
+      "text": "High school sweethearts, shut up",
+      "words": [
+        {
+          "word": "High",
+          "start": 300.73,
+          "end": 301.23,
+          "spoken": true
+        },
+        {
+          "word": "school",
+          "start": 301.3,
+          "end": 301.98,
+          "char_starts": [
+            301.3,
+            301.297,
+            301.4,
+            301.524,
+            301.663,
+            301.815
+          ],
+          "spoken": true
+        },
+        {
+          "word": "sweethearts,",
+          "start": 302.259,
+          "end": 303.48,
+          "char_starts": [
+            302.259,
+            302.018,
+            302.078,
+            302.149,
+            302.229,
+            302.316,
+            302.41,
+            302.51,
+            302.614,
+            302.724,
+            302.837,
+            302.955
+          ],
+          "sung": true,
+          "stretch": true
+        },
+        {
+          "word": "shut",
+          "start": 303.78,
+          "end": 303.98,
+          "sung": true
+        },
+        {
+          "word": "up",
+          "start": 303.98,
+          "end": 304.23,
+          "spoken": true
+        }
+      ],
+      "annotation_id": "32625407"
+    },
+    {
+      "time": 304.23,
+      "text": "If you're not my type",
+      "words": [
+        {
+          "word": "If",
+          "start": 304.23,
+          "end": 304.53,
+          "spoken": true
+        },
+        {
+          "word": "you're",
+          "start": 304.53,
+          "end": 305.43,
+          "char_starts": [
+            304.53,
+            304.578,
+            304.675,
+            304.808,
+            304.971,
+            305.16
+          ],
+          "spoken": true
+        },
+        {
+          "word": "not",
+          "start": 305.43,
+          "end": 305.88,
+          "whisper": true
+        },
+        {
+          "word": "my",
+          "start": 305.88,
+          "end": 306.18,
+          "whisper": true
+        },
+        {
+          "word": "type",
+          "start": 306.18,
+          "end": 306.78,
+          "whisper": true
+        }
+      ],
+      "annotation_id": "32625407"
+    }
+  ],
+  "annotations": {
+    "39669118": {
+      "id": "39669118",
+      "dom": {
+        "tag": "root",
+        "children": [
+          {
+            "tag": "p",
+            "children": [
+              "She wants her sweetheart to actually put effort into keeping a good relationship."
+            ]
+          }
+        ]
+      },
+      "votes": 0,
+      "fragment": "Step six\n If you can’t put in work, I don’t know what you think this fuckin’ is"
+    },
+    "32643517": {
+      "id": "32643517",
+      "dom": {
+        "tag": "root",
+        "children": [
+          {
+            "tag": "p",
+            "children": [
+              "She wants someone straightfoward and proud of the woman they have as their sweetheart, showing her off and their relationship. She doesn’t wants to be a secret."
+            ]
+          }
+        ]
+      },
+      "votes": 3,
+      "fragment": "Step five\n You can’t be scared to show me off and hold my hand"
+    },
+    "32625407": {
+      "id": "32625407",
+      "dom": {
+        "tag": "root",
+        "children": [
+          {
+            "tag": "p",
+            "children": [
+              "Melanie is telling people: Line up or shut up. If you’re not her type, don’t waste your time with her.",
+              {
+                "tag": "br"
+              },
+              "Or: If you can’t handle a heart like mine/don’t waste your time with me, another lyric in the song."
+            ]
+          }
+        ]
+      },
+      "votes": 0,
+      "fragment": "High school sweethearts, line up\n Not tryna waste my time\n High school sweethearts, shut up\n If you’re not my type\n High school sweethearts, line up\n Not tryna waste my time\n High school sweethearts, shut up\n If you’re not my type"
+    },
+    "32625403": {
+      "id": "32625403",
+      "dom": {
+        "tag": "root",
+        "children": [
+          {
+            "tag": "p",
+            "children": [
+              "Melanie is telling people: Line up or shut up. If you’re not her type, don’t waste your time with her.",
+              {
+                "tag": "br"
+              },
+              "Or: If you can’t handle a heart like mine/don’t waste your time with me, another lyric in the song."
+            ]
+          }
+        ]
+      },
+      "votes": 2,
+      "fragment": "High school sweethearts, line up\n Not tryna waste my time\n High school sweethearts, shut up\n If you’re not my type\n High school sweethearts, line up\n Not tryna waste my time\n High school sweethearts, shut up\n If you’re not my type"
+    },
+    "32589973": {
+      "id": "32589973",
+      "dom": {
+        "tag": "root",
+        "children": [
+          {
+            "tag": "p",
+            "children": [
+              "Melanie is telling people: Line up or shut up. If you’re not her type, don’t waste your time with her.",
+              {
+                "tag": "br"
+              },
+              "Or: If you can’t handle a heart like mine/don’t waste your time with me, another lyric in the song."
+            ]
+          }
+        ]
+      },
+      "votes": 8,
+      "fragment": "High school sweethearts, line up\n Not tryna waste my time\n High school sweethearts, shut up\n If you’re not my type\n High school sweethearts, line up\n Not tryna waste my time\n High school sweethearts, shut up\n If you’re not my type"
+    },
+    "32248219": {
+      "id": "32248219",
+      "dom": {
+        "tag": "root",
+        "children": [
+          {
+            "tag": "p",
+            "children": [
+              "Here, Melanie uses conflicting metaphors of up and down. “Get me up, yeah, get me high” refers to her partner making her feel happy and elated to be with them. “Get me high” could also imply using drugs, as she references weed especially a few times throughout K-12. In Lunchbox Friends, she addresses how she is judged for smoking weed, and wants a friend who will accept her for that. It seems reasonable to assume she would want the same in a romantic partner."
+            ]
+          },
+          "",
+          {
+            "tag": "p",
+            "children": [
+              "To “tie [someone] down” means to get married or settle with them in a committed relationship long-term. Melanie doesn’t want a fling, she wants a deep, committed, emotional relationship."
+            ]
+          }
+        ]
+      },
+      "votes": 3,
+      "fragment": "Get me up, yeah, get me high\n Tie me down, don’t leave my side"
+    },
+    "30261231": {
+      "id": "30261231",
+      "dom": {
+        "tag": "root",
+        "children": [
+          {
+            "tag": "p",
+            "children": [
+              "Here Crybaby, (Melanie’s alter ego) is telling the listener, or whatever you like to call it, they should comfort her into having less suicidal thoughts. “Make me not wanna die” should give you a hint that she doesnt want you to make her feel like a piece of crap, but treat her with heart."
+            ]
+          },
+          "",
+          {
+            "tag": "p",
+            "children": [
+              "“Love me rough and let me fly” so basically, if you choose to be with her, make sure you love her with all you can so she’ll be able to have the feeling of a healthy relationship."
+            ]
+          }
+        ]
+      },
+      "votes": 3,
+      "fragment": "Make me not wanna die\n Love me rough and let me fly"
+    },
+    "29039697": {
+      "id": "29039697",
+      "dom": {
+        "tag": "root",
+        "children": [
+          {
+            "tag": "p",
+            "children": [
+              "Melanie basically implies that love is a cruel game and there’s times where she and her lover might fight, furthermore implying that the moments where there’s a heated arguments are some of the best in a relationship – and if her lover can’t handle it then he shouldn’t even bother being with her. Calling back to her 2015 song Gingerbread Man “One who calls me crazy, never calls me baby, that’s the one I want” and her unreleased song Arts & Crafts “I’m not looking for perfection, I want a challenge”"
+            ]
+          }
+        ]
+      },
+      "votes": 7,
+      "fragment": "If you’re not down to bleed, no, oh\n If you can’t handle the chokin’, the bitin’\n The lovin’, the smotherin’\n ’Til you can’t handle it no more, no more\n Go home"
+    },
+    "29039690": {
+      "id": "29039690",
+      "dom": {
+        "tag": "root",
+        "children": [
+          {
+            "tag": "p",
+            "children": [
+              "Melanie – and by extension her character, Crybaby – says she wants more of the passion and love, and especially more respect for who she is."
+            ]
+          }
+        ]
+      },
+      "votes": 5,
+      "fragment": "Step four\n Give me more, give me more, more"
+    },
+    "29039663": {
+      "id": "29039663",
+      "dom": {
+        "tag": "root",
+        "children": [
+          {
+            "tag": "p",
+            "children": [
+              "In this line Crybaby tells to her potential lover how there are rules to love that must be obeyed – calling back to her 2015 song “Gingerbread Man”"
+            ]
+          }
+        ]
+      },
+      "votes": 12,
+      "fragment": "Can we just be honest?\n These are the requirements\n If you think you can be my one and only true love\n You must promise to love me"
+    }
+  },
+  "raw_whisper": [
+    {
+      "text": "Can  we  just  be  honest ?These  are  the  requirementsIf  you  think  you  can  be  my  one  and  only  true  love",
+      "start": 0.0,
+      "end": 25.92,
+      "words": [
+        {
+          "word": "Can",
+          "start": 0.0,
+          "end": 1.4
+        },
+        {
+          "word": "we",
+          "start": 1.4,
+          "end": 2.34
+        },
+        {
+          "word": "just",
+          "start": 2.34,
+          "end": 3.18
+        },
+        {
+          "word": "be",
+          "start": 3.18,
+          "end": 5.08
+        },
+        {
+          "word": "honest",
+          "start": 5.08,
+          "end": 7.24
+        },
+        {
+          "word": "?These",
+          "start": 7.24,
+          "end": 9.74
+        },
+        {
+          "word": "are",
+          "start": 9.74,
+          "end": 10.5
+        },
+        {
+          "word": "the",
+          "start": 10.5,
+          "end": 11.64
+        },
+        {
+          "word": "requirementsIf",
+          "start": 11.64,
+          "end": 16.62
+        },
+        {
+          "word": "you",
+          "start": 16.62,
+          "end": 17.34
+        },
+        {
+          "word": "think",
+          "start": 17.34,
+          "end": 18.0
+        },
+        {
+          "word": "you",
+          "start": 18.0,
+          "end": 18.8
+        },
+        {
+          "word": "can",
+          "start": 18.8,
+          "end": 19.6
+        },
+        {
+          "word": "be",
+          "start": 19.6,
+          "end": 20.32
+        },
+        {
+          "word": "my",
+          "start": 20.32,
+          "end": 21.04
+        },
+        {
+          "word": "one",
+          "start": 21.04,
+          "end": 21.8
+        },
+        {
+          "word": "and",
+          "start": 21.8,
+          "end": 22.52
+        },
+        {
+          "word": "only",
+          "start": 22.52,
+          "end": 23.46
+        },
+        {
+          "word": "true",
+          "start": 23.46,
+          "end": 24.56
+        },
+        {
+          "word": "love",
+          "start": 24.56,
+          "end": 25.92
+        }
+      ]
+    },
+    {
+      "text": "You  must  promise  to  love  me  And  damn  it  if  you  fuck  me",
+      "start": 28.54,
+      "end": 40.02,
+      "words": [
+        {
+          "word": "You",
+          "start": 28.54,
+          "end": 29.94
+        },
+        {
+          "word": "must",
+          "start": 29.94,
+          "end": 30.64
+        },
+        {
+          "word": "promise",
+          "start": 30.64,
+          "end": 31.88
+        },
+        {
+          "word": "to",
+          "start": 31.88,
+          "end": 33.22
+        },
+        {
+          "word": "love",
+          "start": 33.22,
+          "end": 34.34
+        },
+        {
+          "word": "me",
+          "start": 34.34,
+          "end": 35.52
+        },
+        {
+          "word": "And",
+          "start": 35.52,
+          "end": 36.44
+        },
+        {
+          "word": "damn",
+          "start": 36.44,
+          "end": 36.92
+        },
+        {
+          "word": "it",
+          "start": 36.92,
+          "end": 37.34
+        },
+        {
+          "word": "if",
+          "start": 37.34,
+          "end": 37.78
+        },
+        {
+          "word": "you",
+          "start": 37.78,
+          "end": 38.52
+        },
+        {
+          "word": "fuck",
+          "start": 38.52,
+          "end": 39.32
+        },
+        {
+          "word": "me",
+          "start": 39.32,
+          "end": 40.02
+        }
+      ]
+    },
+    {
+      "text": "Over,  I  will  rip  your  fucking  face  apart",
+      "start": 41.24,
+      "end": 51.16,
+      "words": [
+        {
+          "word": "Over,",
+          "start": 41.24,
+          "end": 42.34
+        },
+        {
+          "word": "I",
+          "start": 42.34,
+          "end": 43.38
+        },
+        {
+          "word": "will",
+          "start": 43.38,
+          "end": 44.2
+        },
+        {
+          "word": "rip",
+          "start": 44.2,
+          "end": 44.78
+        },
+        {
+          "word": "your",
+          "start": 44.78,
+          "end": 45.44
+        },
+        {
+          "word": "fucking",
+          "start": 45.44,
+          "end": 46.44
+        },
+        {
+          "word": "face",
+          "start": 46.44,
+          "end": 48.48
+        },
+        {
+          "word": "apart",
+          "start": 48.48,
+          "end": 51.16
+        }
+      ]
+    },
+    {
+      "text": "Step  one,  you  must  accept  that  I'm  a  little  out  of  my  mind",
+      "start": 62.86,
+      "end": 68.58,
+      "words": [
+        {
+          "word": "Step",
+          "start": 62.86,
+          "end": 63.96
+        },
+        {
+          "word": "one,",
+          "start": 63.96,
+          "end": 64.74
+        },
+        {
+          "word": "you",
+          "start": 65.16,
+          "end": 65.18
+        },
+        {
+          "word": "must",
+          "start": 65.18,
+          "end": 65.52
+        },
+        {
+          "word": "accept",
+          "start": 65.52,
+          "end": 66.2
+        },
+        {
+          "word": "that",
+          "start": 66.2,
+          "end": 66.6
+        },
+        {
+          "word": "I'm",
+          "start": 66.6,
+          "end": 67.12
+        },
+        {
+          "word": "a",
+          "start": 67.12,
+          "end": 67.22
+        },
+        {
+          "word": "little",
+          "start": 67.22,
+          "end": 67.64
+        },
+        {
+          "word": "out",
+          "start": 67.64,
+          "end": 68.04
+        },
+        {
+          "word": "of",
+          "start": 68.04,
+          "end": 68.26
+        },
+        {
+          "word": "my",
+          "start": 68.26,
+          "end": 68.42
+        },
+        {
+          "word": "mind",
+          "start": 68.42,
+          "end": 68.58
+        }
+      ]
+    },
+    {
+      "text": "This  is  a  waste  if  you  can't  walk  me  down  a  finish  line",
+      "start": 68.58,
+      "end": 73.74,
+      "words": [
+        {
+          "word": "This",
+          "start": 68.58,
+          "end": 69.58
+        },
+        {
+          "word": "is",
+          "start": 69.58,
+          "end": 70.22
+        },
+        {
+          "word": "a",
+          "start": 70.22,
+          "end": 70.36
+        },
+        {
+          "word": "waste",
+          "start": 70.36,
+          "end": 70.66
+        },
+        {
+          "word": "if",
+          "start": 70.66,
+          "end": 70.92
+        },
+        {
+          "word": "you",
+          "start": 70.92,
+          "end": 71.22
+        },
+        {
+          "word": "can't",
+          "start": 71.22,
+          "end": 71.76
+        },
+        {
+          "word": "walk",
+          "start": 71.76,
+          "end": 71.9
+        },
+        {
+          "word": "me",
+          "start": 71.9,
+          "end": 72.26
+        },
+        {
+          "word": "down",
+          "start": 72.26,
+          "end": 72.64
+        },
+        {
+          "word": "a",
+          "start": 72.64,
+          "end": 72.92
+        },
+        {
+          "word": "finish",
+          "start": 72.92,
+          "end": 73.2
+        },
+        {
+          "word": "line",
+          "start": 73.2,
+          "end": 73.74
+        }
+      ]
+    },
+    {
+      "text": "Step  three,  give  me  passion",
+      "start": 73.74,
+      "end": 76.32,
+      "words": [
+        {
+          "word": "Step",
+          "start": 73.74,
+          "end": 74.1
+        },
+        {
+          "word": "three,",
+          "start": 74.1,
+          "end": 74.6
+        },
+        {
+          "word": "give",
+          "start": 74.9,
+          "end": 75.0
+        },
+        {
+          "word": "me",
+          "start": 75.0,
+          "end": 75.4
+        },
+        {
+          "word": "passion",
+          "start": 75.4,
+          "end": 76.32
+        }
+      ]
+    },
+    {
+      "text": "Don't  make  fun  my  fashion",
+      "start": 76.32,
+      "end": 78.54,
+      "words": [
+        {
+          "word": "Don't",
+          "start": 76.32,
+          "end": 76.96
+        },
+        {
+          "word": "make",
+          "start": 76.96,
+          "end": 77.24
+        },
+        {
+          "word": "fun",
+          "start": 77.24,
+          "end": 77.52
+        },
+        {
+          "word": "my",
+          "start": 77.52,
+          "end": 77.96
+        },
+        {
+          "word": "fashion",
+          "start": 77.96,
+          "end": 78.54
+        }
+      ]
+    },
+    {
+      "text": "Step  four,  give  me  more,  give  me  more,  more",
+      "start": 78.54,
+      "end": 83.2,
+      "words": [
+        {
+          "word": "Step",
+          "start": 78.54,
+          "end": 79.12
+        },
+        {
+          "word": "four,",
+          "start": 79.12,
+          "end": 79.64
+        },
+        {
+          "word": "give",
+          "start": 80.0,
+          "end": 80.12
+        },
+        {
+          "word": "me",
+          "start": 80.12,
+          "end": 80.48
+        },
+        {
+          "word": "more,",
+          "start": 80.48,
+          "end": 80.76
+        },
+        {
+          "word": "give",
+          "start": 80.8,
+          "end": 81.08
+        },
+        {
+          "word": "me",
+          "start": 81.08,
+          "end": 81.46
+        },
+        {
+          "word": "more,",
+          "start": 81.46,
+          "end": 82.38
+        },
+        {
+          "word": "more",
+          "start": 82.54,
+          "end": 83.2
+        }
+      ]
+    },
+    {
+      "text": "If  you  can't  handle  a  heart  like  mine",
+      "start": 83.2,
+      "end": 86.76,
+      "words": [
+        {
+          "word": "If",
+          "start": 83.2,
+          "end": 83.78
+        },
+        {
+          "word": "you",
+          "start": 83.78,
+          "end": 83.98
+        },
+        {
+          "word": "can't",
+          "start": 83.98,
+          "end": 84.32
+        },
+        {
+          "word": "handle",
+          "start": 84.32,
+          "end": 84.96
+        },
+        {
+          "word": "a",
+          "start": 84.96,
+          "end": 85.7
+        },
+        {
+          "word": "heart",
+          "start": 85.7,
+          "end": 85.88
+        },
+        {
+          "word": "like",
+          "start": 85.88,
+          "end": 86.28
+        },
+        {
+          "word": "mine",
+          "start": 86.28,
+          "end": 86.76
+        }
+      ]
+    },
+    {
+      "text": "Don't  waste  your  time  with  me",
+      "start": 86.76,
+      "end": 89.42,
+      "words": [
+        {
+          "word": "Don't",
+          "start": 86.76,
+          "end": 87.58
+        },
+        {
+          "word": "waste",
+          "start": 87.58,
+          "end": 87.8
+        },
+        {
+          "word": "your",
+          "start": 87.8,
+          "end": 88.18
+        },
+        {
+          "word": "time",
+          "start": 88.18,
+          "end": 88.6
+        },
+        {
+          "word": "with",
+          "start": 88.6,
+          "end": 88.92
+        },
+        {
+          "word": "me",
+          "start": 88.92,
+          "end": 89.42
+        }
+      ]
+    },
+    {
+      "text": "If  you're  not  down  to  bleed,  no",
+      "start": 89.42,
+      "end": 93.12,
+      "words": [
+        {
+          "word": "If",
+          "start": 89.42,
+          "end": 90.02
+        },
+        {
+          "word": "you're",
+          "start": 90.02,
+          "end": 90.44
+        },
+        {
+          "word": "not",
+          "start": 90.44,
+          "end": 90.7
+        },
+        {
+          "word": "down",
+          "start": 90.7,
+          "end": 91.14
+        },
+        {
+          "word": "to",
+          "start": 91.14,
+          "end": 91.44
+        },
+        {
+          "word": "bleed,",
+          "start": 91.44,
+          "end": 92.12
+        },
+        {
+          "word": "no",
+          "start": 93.12,
+          "end": 93.12
+        }
+      ]
+    },
+    {
+      "text": "If  you  can't  handle  the  choke  and  the  bite",
+      "start": 93.12,
+      "end": 96.72,
+      "words": [
+        {
+          "word": "If",
+          "start": 93.12,
+          "end": 93.98
+        },
+        {
+          "word": "you",
+          "start": 93.98,
+          "end": 94.26
+        },
+        {
+          "word": "can't",
+          "start": 94.26,
+          "end": 94.64
+        },
+        {
+          "word": "handle",
+          "start": 94.64,
+          "end": 95.42
+        },
+        {
+          "word": "the",
+          "start": 95.42,
+          "end": 95.86
+        },
+        {
+          "word": "choke",
+          "start": 95.86,
+          "end": 96.08
+        },
+        {
+          "word": "and",
+          "start": 96.08,
+          "end": 96.34
+        },
+        {
+          "word": "the",
+          "start": 96.34,
+          "end": 96.54
+        },
+        {
+          "word": "bite",
+          "start": 96.54,
+          "end": 96.72
+        }
+      ]
+    },
+    {
+      "text": "the  love  in  this  mother  until  you  can't  handle  it",
+      "start": 96.72,
+      "end": 99.8,
+      "words": [
+        {
+          "word": "the",
+          "start": 96.72,
+          "end": 97.02
+        },
+        {
+          "word": "love",
+          "start": 97.02,
+          "end": 97.34
+        },
+        {
+          "word": "in",
+          "start": 97.34,
+          "end": 97.56
+        },
+        {
+          "word": "this",
+          "start": 97.56,
+          "end": 97.78
+        },
+        {
+          "word": "mother",
+          "start": 97.78,
+          "end": 98.08
+        },
+        {
+          "word": "until",
+          "start": 98.08,
+          "end": 98.44
+        },
+        {
+          "word": "you",
+          "start": 98.44,
+          "end": 98.72
+        },
+        {
+          "word": "can't",
+          "start": 98.72,
+          "end": 99.2
+        },
+        {
+          "word": "handle",
+          "start": 99.2,
+          "end": 99.42
+        },
+        {
+          "word": "it",
+          "start": 99.42,
+          "end": 99.8
+        }
+      ]
+    },
+    {
+      "text": "no  more,  no  more",
+      "start": 99.8,
+      "end": 102.34,
+      "words": [
+        {
+          "word": "no",
+          "start": 99.8,
+          "end": 100.62
+        },
+        {
+          "word": "more,",
+          "start": 100.62,
+          "end": 101.12
+        },
+        {
+          "word": "no",
+          "start": 101.14,
+          "end": 101.54
+        },
+        {
+          "word": "more",
+          "start": 101.54,
+          "end": 102.34
+        }
+      ]
+    },
+    {
+      "text": "go  home",
+      "start": 103.32,
+      "end": 104.78,
+      "words": [
+        {
+          "word": "go",
+          "start": 103.32,
+          "end": 104.08
+        },
+        {
+          "word": "home",
+          "start": 104.08,
+          "end": 104.78
+        }
+      ]
+    },
+    {
+      "text": "can  we  just  be  honest?",
+      "start": 105.84,
+      "end": 108.3,
+      "words": [
+        {
+          "word": "can",
+          "start": 105.84,
+          "end": 106.24
+        },
+        {
+          "word": "we",
+          "start": 106.24,
+          "end": 106.6
+        },
+        {
+          "word": "just",
+          "start": 106.6,
+          "end": 106.94
+        },
+        {
+          "word": "be",
+          "start": 106.94,
+          "end": 107.62
+        },
+        {
+          "word": "honest?",
+          "start": 107.62,
+          "end": 108.3
+        }
+      ]
+    },
+    {
+      "text": "these  are  the  requirements",
+      "start": 108.46,
+      "end": 110.76,
+      "words": [
+        {
+          "word": "these",
+          "start": 108.46,
+          "end": 108.92
+        },
+        {
+          "word": "are",
+          "start": 108.92,
+          "end": 109.28
+        },
+        {
+          "word": "the",
+          "start": 109.28,
+          "end": 109.72
+        },
+        {
+          "word": "requirements",
+          "start": 109.72,
+          "end": 110.76
+        }
+      ]
+    },
+    {
+      "text": "if  you  think  you  can  be  my  one",
+      "start": 110.76,
+      "end": 113.66,
+      "words": [
+        {
+          "word": "if",
+          "start": 110.76,
+          "end": 111.48
+        },
+        {
+          "word": "you",
+          "start": 111.48,
+          "end": 111.8
+        },
+        {
+          "word": "think",
+          "start": 111.8,
+          "end": 112.04
+        },
+        {
+          "word": "you",
+          "start": 112.04,
+          "end": 112.36
+        },
+        {
+          "word": "can",
+          "start": 112.36,
+          "end": 112.7
+        },
+        {
+          "word": "be",
+          "start": 112.7,
+          "end": 113.08
+        },
+        {
+          "word": "my",
+          "start": 113.08,
+          "end": 113.44
+        },
+        {
+          "word": "one",
+          "start": 113.44,
+          "end": 113.66
+        }
+      ]
+    },
+    {
+      "text": "and  only  true  love",
+      "start": 113.66,
+      "end": 115.76,
+      "words": [
+        {
+          "word": "and",
+          "start": 113.66,
+          "end": 114.12
+        },
+        {
+          "word": "only",
+          "start": 114.12,
+          "end": 114.54
+        },
+        {
+          "word": "true",
+          "start": 114.54,
+          "end": 115.08
+        },
+        {
+          "word": "love",
+          "start": 115.08,
+          "end": 115.76
+        }
+      ]
+    },
+    {
+      "text": "you  just  promised  you  would  love  me",
+      "start": 115.76,
+      "end": 118.56,
+      "words": [
+        {
+          "word": "you",
+          "start": 115.76,
+          "end": 116.26
+        },
+        {
+          "word": "just",
+          "start": 116.26,
+          "end": 116.54
+        },
+        {
+          "word": "promised",
+          "start": 116.54,
+          "end": 117.08
+        },
+        {
+          "word": "you",
+          "start": 117.08,
+          "end": 117.66
+        },
+        {
+          "word": "would",
+          "start": 117.66,
+          "end": 117.88
+        },
+        {
+          "word": "love",
+          "start": 117.88,
+          "end": 118.04
+        },
+        {
+          "word": "me",
+          "start": 118.04,
+          "end": 118.56
+        }
+      ]
+    },
+    {
+      "text": "and  damn  it  if  you  fuck  me  over",
+      "start": 118.56,
+      "end": 121.88,
+      "words": [
+        {
+          "word": "and",
+          "start": 118.56,
+          "end": 118.96
+        },
+        {
+          "word": "damn",
+          "start": 118.96,
+          "end": 119.24
+        },
+        {
+          "word": "it",
+          "start": 119.24,
+          "end": 119.54
+        },
+        {
+          "word": "if",
+          "start": 119.54,
+          "end": 119.78
+        },
+        {
+          "word": "you",
+          "start": 119.78,
+          "end": 120.22
+        },
+        {
+          "word": "fuck",
+          "start": 120.22,
+          "end": 120.56
+        },
+        {
+          "word": "me",
+          "start": 120.56,
+          "end": 121.28
+        },
+        {
+          "word": "over",
+          "start": 121.28,
+          "end": 121.88
+        }
+      ]
+    },
+    {
+      "text": "I  will  rip  your  fucking  face  apart",
+      "start": 121.88,
+      "end": 125.5,
+      "words": [
+        {
+          "word": "I",
+          "start": 121.88,
+          "end": 122.28
+        },
+        {
+          "word": "will",
+          "start": 122.28,
+          "end": 122.58
+        },
+        {
+          "word": "rip",
+          "start": 122.58,
+          "end": 122.88
+        },
+        {
+          "word": "your",
+          "start": 122.88,
+          "end": 123.24
+        },
+        {
+          "word": "fucking",
+          "start": 123.24,
+          "end": 123.72
+        },
+        {
+          "word": "face",
+          "start": 123.72,
+          "end": 124.66
+        },
+        {
+          "word": "apart",
+          "start": 124.66,
+          "end": 125.5
+        }
+      ]
+    },
+    {
+      "text": "High  school  sweethearts,  lying  up  and  tryna  waste  my  time",
+      "start": 126.72,
+      "end": 132.08,
+      "words": [
+        {
+          "word": "High",
+          "start": 126.72,
+          "end": 127.36
+        },
+        {
+          "word": "school",
+          "start": 127.36,
+          "end": 127.78
+        },
+        {
+          "word": "sweethearts,",
+          "start": 127.78,
+          "end": 129.08
+        },
+        {
+          "word": "lying",
+          "start": 129.08,
+          "end": 129.62
+        },
+        {
+          "word": "up",
+          "start": 129.62,
+          "end": 130.26
+        },
+        {
+          "word": "and",
+          "start": 130.26,
+          "end": 130.66
+        },
+        {
+          "word": "tryna",
+          "start": 130.66,
+          "end": 130.9
+        },
+        {
+          "word": "waste",
+          "start": 130.9,
+          "end": 131.26
+        },
+        {
+          "word": "my",
+          "start": 131.26,
+          "end": 131.64
+        },
+        {
+          "word": "time",
+          "start": 131.64,
+          "end": 132.08
+        }
+      ]
+    },
+    {
+      "text": "High  school  sweethearts,  shut  up  if  you're  not  my  type",
+      "start": 132.08,
+      "end": 137.1,
+      "words": [
+        {
+          "word": "High",
+          "start": 132.08,
+          "end": 132.5
+        },
+        {
+          "word": "school",
+          "start": 132.5,
+          "end": 132.86
+        },
+        {
+          "word": "sweethearts,",
+          "start": 132.86,
+          "end": 134.1
+        },
+        {
+          "word": "shut",
+          "start": 134.54,
+          "end": 134.82
+        },
+        {
+          "word": "up",
+          "start": 134.82,
+          "end": 135.56
+        },
+        {
+          "word": "if",
+          "start": 135.56,
+          "end": 135.88
+        },
+        {
+          "word": "you're",
+          "start": 135.88,
+          "end": 136.1
+        },
+        {
+          "word": "not",
+          "start": 136.1,
+          "end": 136.38
+        },
+        {
+          "word": "my",
+          "start": 136.38,
+          "end": 136.76
+        },
+        {
+          "word": "type",
+          "start": 136.76,
+          "end": 137.1
+        }
+      ]
+    },
+    {
+      "text": "High  school  sweethearts,  lying  up  and  tryna  waste  my  time",
+      "start": 137.1,
+      "end": 142.32,
+      "words": [
+        {
+          "word": "High",
+          "start": 137.1,
+          "end": 137.56
+        },
+        {
+          "word": "school",
+          "start": 137.56,
+          "end": 137.94
+        },
+        {
+          "word": "sweethearts,",
+          "start": 137.94,
+          "end": 139.2
+        },
+        {
+          "word": "lying",
+          "start": 139.66,
+          "end": 139.86
+        },
+        {
+          "word": "up",
+          "start": 139.86,
+          "end": 140.52
+        },
+        {
+          "word": "and",
+          "start": 140.52,
+          "end": 140.84
+        },
+        {
+          "word": "tryna",
+          "start": 140.84,
+          "end": 141.14
+        },
+        {
+          "word": "waste",
+          "start": 141.14,
+          "end": 141.5
+        },
+        {
+          "word": "my",
+          "start": 141.5,
+          "end": 141.86
+        },
+        {
+          "word": "time",
+          "start": 141.86,
+          "end": 142.32
+        }
+      ]
+    },
+    {
+      "text": "High  school  sweethearts,  shut  up  if  you're  not  my  type",
+      "start": 142.32,
+      "end": 147.54,
+      "words": [
+        {
+          "word": "High",
+          "start": 142.32,
+          "end": 142.74
+        },
+        {
+          "word": "school",
+          "start": 142.74,
+          "end": 143.1
+        },
+        {
+          "word": "sweethearts,",
+          "start": 143.1,
+          "end": 144.26
+        },
+        {
+          "word": "shut",
+          "start": 144.6,
+          "end": 145.06
+        },
+        {
+          "word": "up",
+          "start": 145.06,
+          "end": 145.76
+        },
+        {
+          "word": "if",
+          "start": 145.76,
+          "end": 146.06
+        },
+        {
+          "word": "you're",
+          "start": 146.06,
+          "end": 146.24
+        },
+        {
+          "word": "not",
+          "start": 146.24,
+          "end": 146.58
+        },
+        {
+          "word": "my",
+          "start": 146.58,
+          "end": 146.94
+        },
+        {
+          "word": "type",
+          "start": 146.94,
+          "end": 147.54
+        }
+      ]
+    },
+    {
+      "text": "Step  five,  you  can't  be  scared  to  show  me  off  and  hold  my  hand",
+      "start": 147.54,
+      "end": 152.88,
+      "words": [
+        {
+          "word": "Step",
+          "start": 147.54,
+          "end": 148.16
+        },
+        {
+          "word": "five,",
+          "start": 148.16,
+          "end": 148.78
+        },
+        {
+          "word": "you",
+          "start": 149.26,
+          "end": 149.44
+        },
+        {
+          "word": "can't",
+          "start": 149.44,
+          "end": 149.78
+        },
+        {
+          "word": "be",
+          "start": 149.78,
+          "end": 150.2
+        },
+        {
+          "word": "scared",
+          "start": 150.2,
+          "end": 150.48
+        },
+        {
+          "word": "to",
+          "start": 150.48,
+          "end": 150.82
+        },
+        {
+          "word": "show",
+          "start": 150.82,
+          "end": 151.12
+        },
+        {
+          "word": "me",
+          "start": 151.12,
+          "end": 151.48
+        },
+        {
+          "word": "off",
+          "start": 151.48,
+          "end": 151.68
+        },
+        {
+          "word": "and",
+          "start": 151.68,
+          "end": 152.08
+        },
+        {
+          "word": "hold",
+          "start": 152.08,
+          "end": 152.28
+        },
+        {
+          "word": "my",
+          "start": 152.28,
+          "end": 152.76
+        },
+        {
+          "word": "hand",
+          "start": 152.76,
+          "end": 152.88
+        }
+      ]
+    },
+    {
+      "text": "Step  six,  if  you  can't  put  in  work  I  don't  know  what  you  think  this  fucking  is",
+      "start": 152.88,
+      "end": 157.88,
+      "words": [
+        {
+          "word": "Step",
+          "start": 152.88,
+          "end": 153.36
+        },
+        {
+          "word": "six,",
+          "start": 153.36,
+          "end": 153.8
+        },
+        {
+          "word": "if",
+          "start": 153.8,
+          "end": 154.02
+        },
+        {
+          "word": "you",
+          "start": 154.02,
+          "end": 154.24
+        },
+        {
+          "word": "can't",
+          "start": 154.24,
+          "end": 154.62
+        },
+        {
+          "word": "put",
+          "start": 154.62,
+          "end": 154.82
+        },
+        {
+          "word": "in",
+          "start": 154.82,
+          "end": 155.04
+        },
+        {
+          "word": "work",
+          "start": 155.04,
+          "end": 155.3
+        },
+        {
+          "word": "I",
+          "start": 155.3,
+          "end": 155.62
+        },
+        {
+          "word": "don't",
+          "start": 155.62,
+          "end": 155.84
+        },
+        {
+          "word": "know",
+          "start": 155.84,
+          "end": 155.94
+        },
+        {
+          "word": "what",
+          "start": 155.94,
+          "end": 156.2
+        },
+        {
+          "word": "you",
+          "start": 156.2,
+          "end": 156.5
+        },
+        {
+          "word": "think",
+          "start": 156.5,
+          "end": 156.68
+        },
+        {
+          "word": "this",
+          "start": 156.68,
+          "end": 157.02
+        },
+        {
+          "word": "fucking",
+          "start": 157.02,
+          "end": 157.34
+        },
+        {
+          "word": "is",
+          "start": 157.34,
+          "end": 157.88
+        }
+      ]
+    },
+    {
+      "text": "Step  seven,  this  one  goes  to  eleven  If  you  cheat  you  will  die,  die",
+      "start": 157.88,
+      "end": 167.66,
+      "words": [
+        {
+          "word": "Step",
+          "start": 157.88,
+          "end": 158.3
+        },
+        {
+          "word": "seven,",
+          "start": 158.3,
+          "end": 159.24
+        },
+        {
+          "word": "this",
+          "start": 159.52,
+          "end": 159.7
+        },
+        {
+          "word": "one",
+          "start": 159.7,
+          "end": 159.92
+        },
+        {
+          "word": "goes",
+          "start": 159.92,
+          "end": 160.24
+        },
+        {
+          "word": "to",
+          "start": 160.24,
+          "end": 160.86
+        },
+        {
+          "word": "eleven",
+          "start": 160.86,
+          "end": 162.16
+        },
+        {
+          "word": "If",
+          "start": 162.16,
+          "end": 164.46
+        },
+        {
+          "word": "you",
+          "start": 164.46,
+          "end": 164.82
+        },
+        {
+          "word": "cheat",
+          "start": 164.82,
+          "end": 165.08
+        },
+        {
+          "word": "you",
+          "start": 165.08,
+          "end": 165.32
+        },
+        {
+          "word": "will",
+          "start": 165.32,
+          "end": 165.84
+        },
+        {
+          "word": "die,",
+          "start": 165.84,
+          "end": 166.76
+        },
+        {
+          "word": "die",
+          "start": 167.12,
+          "end": 167.66
+        }
+      ]
+    },
+    {
+      "text": "If  you  can't  handle  a  heart  like  mine  Don't  waste  your  time  with  me",
+      "start": 167.66,
+      "end": 173.68,
+      "words": [
+        {
+          "word": "If",
+          "start": 167.66,
+          "end": 168.06
+        },
+        {
+          "word": "you",
+          "start": 168.06,
+          "end": 168.26
+        },
+        {
+          "word": "can't",
+          "start": 168.26,
+          "end": 168.58
+        },
+        {
+          "word": "handle",
+          "start": 168.58,
+          "end": 169.32
+        },
+        {
+          "word": "a",
+          "start": 169.32,
+          "end": 169.94
+        },
+        {
+          "word": "heart",
+          "start": 169.94,
+          "end": 170.12
+        },
+        {
+          "word": "like",
+          "start": 170.12,
+          "end": 170.54
+        },
+        {
+          "word": "mine",
+          "start": 170.54,
+          "end": 171.06
+        },
+        {
+          "word": "Don't",
+          "start": 171.06,
+          "end": 171.86
+        },
+        {
+          "word": "waste",
+          "start": 171.86,
+          "end": 172.06
+        },
+        {
+          "word": "your",
+          "start": 172.06,
+          "end": 172.4
+        },
+        {
+          "word": "time",
+          "start": 172.4,
+          "end": 172.86
+        },
+        {
+          "word": "with",
+          "start": 172.86,
+          "end": 173.16
+        },
+        {
+          "word": "me",
+          "start": 173.16,
+          "end": 173.68
+        }
+      ]
+    },
+    {
+      "text": "If  you're  not  down  to  bleed,  no  If  you  can't  handle  a  choke  and  a  bite",
+      "start": 173.68,
+      "end": 180.98,
+      "words": [
+        {
+          "word": "If",
+          "start": 173.68,
+          "end": 174.28
+        },
+        {
+          "word": "you're",
+          "start": 174.28,
+          "end": 174.66
+        },
+        {
+          "word": "not",
+          "start": 174.66,
+          "end": 174.96
+        },
+        {
+          "word": "down",
+          "start": 174.96,
+          "end": 175.4
+        },
+        {
+          "word": "to",
+          "start": 175.4,
+          "end": 175.7
+        },
+        {
+          "word": "bleed,",
+          "start": 175.7,
+          "end": 176.2
+        },
+        {
+          "word": "no",
+          "start": 177.26,
+          "end": 177.36
+        },
+        {
+          "word": "If",
+          "start": 177.36,
+          "end": 178.26
+        },
+        {
+          "word": "you",
+          "start": 178.26,
+          "end": 178.54
+        },
+        {
+          "word": "can't",
+          "start": 178.54,
+          "end": 178.88
+        },
+        {
+          "word": "handle",
+          "start": 178.88,
+          "end": 179.64
+        },
+        {
+          "word": "a",
+          "start": 179.64,
+          "end": 180.1
+        },
+        {
+          "word": "choke",
+          "start": 180.1,
+          "end": 180.34
+        },
+        {
+          "word": "and",
+          "start": 180.34,
+          "end": 180.6
+        },
+        {
+          "word": "a",
+          "start": 180.6,
+          "end": 180.78
+        },
+        {
+          "word": "bite",
+          "start": 180.78,
+          "end": 180.98
+        }
+      ]
+    },
+    {
+      "text": "the  love  in  this  mother  until  you  can't  handle  it",
+      "start": 180.98,
+      "end": 184.08,
+      "words": [
+        {
+          "word": "the",
+          "start": 180.98,
+          "end": 181.26
+        },
+        {
+          "word": "love",
+          "start": 181.26,
+          "end": 181.58
+        },
+        {
+          "word": "in",
+          "start": 181.58,
+          "end": 181.82
+        },
+        {
+          "word": "this",
+          "start": 181.82,
+          "end": 182.06
+        },
+        {
+          "word": "mother",
+          "start": 182.06,
+          "end": 182.3
+        },
+        {
+          "word": "until",
+          "start": 182.3,
+          "end": 182.7
+        },
+        {
+          "word": "you",
+          "start": 182.7,
+          "end": 182.98
+        },
+        {
+          "word": "can't",
+          "start": 182.98,
+          "end": 183.46
+        },
+        {
+          "word": "handle",
+          "start": 183.46,
+          "end": 183.66
+        },
+        {
+          "word": "it",
+          "start": 183.66,
+          "end": 184.08
+        }
+      ]
+    },
+    {
+      "text": "no  more,  no  more",
+      "start": 184.08,
+      "end": 186.56,
+      "words": [
+        {
+          "word": "no",
+          "start": 184.08,
+          "end": 184.88
+        },
+        {
+          "word": "more,",
+          "start": 184.88,
+          "end": 185.38
+        },
+        {
+          "word": "no",
+          "start": 185.4,
+          "end": 185.82
+        },
+        {
+          "word": "more",
+          "start": 185.82,
+          "end": 186.56
+        }
+      ]
+    },
+    {
+      "text": "go  home",
+      "start": 187.56,
+      "end": 189.08,
+      "words": [
+        {
+          "word": "go",
+          "start": 187.56,
+          "end": 188.36
+        },
+        {
+          "word": "home",
+          "start": 188.36,
+          "end": 189.08
+        }
+      ]
+    },
+    {
+      "text": "can  we  just  be  honest?",
+      "start": 190.1,
+      "end": 192.56,
+      "words": [
+        {
+          "word": "can",
+          "start": 190.1,
+          "end": 190.5
+        },
+        {
+          "word": "we",
+          "start": 190.5,
+          "end": 190.86
+        },
+        {
+          "word": "just",
+          "start": 190.86,
+          "end": 191.2
+        },
+        {
+          "word": "be",
+          "start": 191.2,
+          "end": 191.96
+        },
+        {
+          "word": "honest?",
+          "start": 191.96,
+          "end": 192.56
+        }
+      ]
+    },
+    {
+      "text": "these  are  the  requirements",
+      "start": 192.72,
+      "end": 195.02,
+      "words": [
+        {
+          "word": "these",
+          "start": 192.72,
+          "end": 193.18
+        },
+        {
+          "word": "are",
+          "start": 193.18,
+          "end": 193.56
+        },
+        {
+          "word": "the",
+          "start": 193.56,
+          "end": 193.96
+        },
+        {
+          "word": "requirements",
+          "start": 193.96,
+          "end": 195.02
+        }
+      ]
+    },
+    {
+      "text": "if  you  think  you  can  be  my  one",
+      "start": 195.02,
+      "end": 197.92,
+      "words": [
+        {
+          "word": "if",
+          "start": 195.02,
+          "end": 195.74
+        },
+        {
+          "word": "you",
+          "start": 195.74,
+          "end": 196.06
+        },
+        {
+          "word": "think",
+          "start": 196.06,
+          "end": 196.3
+        },
+        {
+          "word": "you",
+          "start": 196.3,
+          "end": 196.6
+        },
+        {
+          "word": "can",
+          "start": 196.6,
+          "end": 196.98
+        },
+        {
+          "word": "be",
+          "start": 196.98,
+          "end": 197.36
+        },
+        {
+          "word": "my",
+          "start": 197.36,
+          "end": 197.68
+        },
+        {
+          "word": "one",
+          "start": 197.68,
+          "end": 197.92
+        }
+      ]
+    },
+    {
+      "text": "and  only  true  love",
+      "start": 197.92,
+      "end": 200.0,
+      "words": [
+        {
+          "word": "and",
+          "start": 197.92,
+          "end": 198.4
+        },
+        {
+          "word": "only",
+          "start": 198.4,
+          "end": 198.84
+        },
+        {
+          "word": "true",
+          "start": 198.84,
+          "end": 199.32
+        },
+        {
+          "word": "love",
+          "start": 199.32,
+          "end": 200.0
+        }
+      ]
+    },
+    {
+      "text": "you  just  gotta  to  love  me",
+      "start": 200.0,
+      "end": 202.78,
+      "words": [
+        {
+          "word": "you",
+          "start": 200.0,
+          "end": 200.46
+        },
+        {
+          "word": "just",
+          "start": 200.46,
+          "end": 200.8
+        },
+        {
+          "word": "gotta",
+          "start": 200.8,
+          "end": 201.24
+        },
+        {
+          "word": "to",
+          "start": 201.24,
+          "end": 201.58
+        },
+        {
+          "word": "love",
+          "start": 201.58,
+          "end": 202.24
+        },
+        {
+          "word": "me",
+          "start": 202.24,
+          "end": 202.78
+        }
+      ]
+    },
+    {
+      "text": "and  damn  it  if  you  fuck  me  over",
+      "start": 202.78,
+      "end": 206.14,
+      "words": [
+        {
+          "word": "and",
+          "start": 202.78,
+          "end": 203.18
+        },
+        {
+          "word": "damn",
+          "start": 203.18,
+          "end": 203.48
+        },
+        {
+          "word": "it",
+          "start": 203.48,
+          "end": 203.86
+        },
+        {
+          "word": "if",
+          "start": 203.86,
+          "end": 204.04
+        },
+        {
+          "word": "you",
+          "start": 204.04,
+          "end": 204.48
+        },
+        {
+          "word": "fuck",
+          "start": 204.48,
+          "end": 204.86
+        },
+        {
+          "word": "me",
+          "start": 204.86,
+          "end": 205.6
+        },
+        {
+          "word": "over",
+          "start": 205.6,
+          "end": 206.14
+        }
+      ]
+    },
+    {
+      "text": "I  will  rip  your  fucking  face  apart",
+      "start": 206.14,
+      "end": 209.74,
+      "words": [
+        {
+          "word": "I",
+          "start": 206.14,
+          "end": 206.58
+        },
+        {
+          "word": "will",
+          "start": 206.58,
+          "end": 206.84
+        },
+        {
+          "word": "rip",
+          "start": 206.84,
+          "end": 207.14
+        },
+        {
+          "word": "your",
+          "start": 207.14,
+          "end": 207.54
+        },
+        {
+          "word": "fucking",
+          "start": 207.54,
+          "end": 207.98
+        },
+        {
+          "word": "face",
+          "start": 207.98,
+          "end": 208.92
+        },
+        {
+          "word": "apart",
+          "start": 208.92,
+          "end": 209.74
+        }
+      ]
+    },
+    {
+      "text": "High  school  sweethearts,  lying  up  and  tryna  waste  my  time",
+      "start": 210.98,
+      "end": 216.34,
+      "words": [
+        {
+          "word": "High",
+          "start": 210.98,
+          "end": 211.64
+        },
+        {
+          "word": "school",
+          "start": 211.64,
+          "end": 212.02
+        },
+        {
+          "word": "sweethearts,",
+          "start": 212.02,
+          "end": 213.34
+        },
+        {
+          "word": "lying",
+          "start": 213.34,
+          "end": 213.9
+        },
+        {
+          "word": "up",
+          "start": 213.9,
+          "end": 214.5
+        },
+        {
+          "word": "and",
+          "start": 214.5,
+          "end": 214.9
+        },
+        {
+          "word": "tryna",
+          "start": 214.9,
+          "end": 215.16
+        },
+        {
+          "word": "waste",
+          "start": 215.16,
+          "end": 215.52
+        },
+        {
+          "word": "my",
+          "start": 215.52,
+          "end": 215.9
+        },
+        {
+          "word": "time",
+          "start": 215.9,
+          "end": 216.34
+        }
+      ]
+    },
+    {
+      "text": "High  school  sweethearts,  shut  up  if  you're  not  my  type",
+      "start": 216.34,
+      "end": 221.36,
+      "words": [
+        {
+          "word": "High",
+          "start": 216.34,
+          "end": 216.76
+        },
+        {
+          "word": "school",
+          "start": 216.76,
+          "end": 217.12
+        },
+        {
+          "word": "sweethearts,",
+          "start": 217.12,
+          "end": 218.32
+        },
+        {
+          "word": "shut",
+          "start": 218.8,
+          "end": 219.04
+        },
+        {
+          "word": "up",
+          "start": 219.04,
+          "end": 219.66
+        },
+        {
+          "word": "if",
+          "start": 219.66,
+          "end": 220.14
+        },
+        {
+          "word": "you're",
+          "start": 220.14,
+          "end": 220.42
+        },
+        {
+          "word": "not",
+          "start": 220.42,
+          "end": 220.66
+        },
+        {
+          "word": "my",
+          "start": 220.66,
+          "end": 221.02
+        },
+        {
+          "word": "type",
+          "start": 221.02,
+          "end": 221.36
+        }
+      ]
+    },
+    {
+      "text": "High  school  sweethearts,  lying  up  and  tryna  waste  my  time",
+      "start": 221.36,
+      "end": 226.56,
+      "words": [
+        {
+          "word": "High",
+          "start": 221.36,
+          "end": 221.84
+        },
+        {
+          "word": "school",
+          "start": 221.84,
+          "end": 222.18
+        },
+        {
+          "word": "sweethearts,",
+          "start": 222.18,
+          "end": 223.44
+        },
+        {
+          "word": "lying",
+          "start": 223.92,
+          "end": 224.14
+        },
+        {
+          "word": "up",
+          "start": 224.14,
+          "end": 224.76
+        },
+        {
+          "word": "and",
+          "start": 224.76,
+          "end": 225.1
+        },
+        {
+          "word": "tryna",
+          "start": 225.1,
+          "end": 225.38
+        },
+        {
+          "word": "waste",
+          "start": 225.38,
+          "end": 225.78
+        },
+        {
+          "word": "my",
+          "start": 225.78,
+          "end": 226.12
+        },
+        {
+          "word": "time",
+          "start": 226.12,
+          "end": 226.56
+        }
+      ]
+    },
+    {
+      "text": "High  school  sweethearts,  shut  up  if  you're  not  my  type",
+      "start": 226.56,
+      "end": 232.0,
+      "words": [
+        {
+          "word": "High",
+          "start": 226.56,
+          "end": 227.0
+        },
+        {
+          "word": "school",
+          "start": 227.0,
+          "end": 227.32
+        },
+        {
+          "word": "sweethearts,",
+          "start": 227.32,
+          "end": 228.5
+        },
+        {
+          "word": "shut",
+          "start": 229.02,
+          "end": 229.28
+        },
+        {
+          "word": "up",
+          "start": 229.28,
+          "end": 229.98
+        },
+        {
+          "word": "if",
+          "start": 229.98,
+          "end": 230.32
+        },
+        {
+          "word": "you're",
+          "start": 230.32,
+          "end": 230.5
+        },
+        {
+          "word": "not",
+          "start": 230.5,
+          "end": 230.82
+        },
+        {
+          "word": "my",
+          "start": 230.82,
+          "end": 231.2
+        },
+        {
+          "word": "type",
+          "start": 231.2,
+          "end": 232.0
+        }
+      ]
+    },
+    {
+      "text": "Could  you  hold  me  through  the  night?",
+      "start": 232.58,
+      "end": 235.34,
+      "words": [
+        {
+          "word": "Could",
+          "start": 232.58,
+          "end": 233.28
+        },
+        {
+          "word": "you",
+          "start": 233.28,
+          "end": 233.6
+        },
+        {
+          "word": "hold",
+          "start": 233.6,
+          "end": 233.92
+        },
+        {
+          "word": "me",
+          "start": 233.92,
+          "end": 234.28
+        },
+        {
+          "word": "through",
+          "start": 234.28,
+          "end": 234.52
+        },
+        {
+          "word": "the",
+          "start": 234.52,
+          "end": 234.76
+        },
+        {
+          "word": "night?",
+          "start": 234.76,
+          "end": 235.34
+        }
+      ]
+    },
+    {
+      "text": "Put  your  lips  all  over  my  eye",
+      "start": 235.64,
+      "end": 237.92,
+      "words": [
+        {
+          "word": "Put",
+          "start": 235.64,
+          "end": 235.84
+        },
+        {
+          "word": "your",
+          "start": 235.84,
+          "end": 236.18
+        },
+        {
+          "word": "lips",
+          "start": 236.18,
+          "end": 236.6
+        },
+        {
+          "word": "all",
+          "start": 236.6,
+          "end": 236.92
+        },
+        {
+          "word": "over",
+          "start": 236.92,
+          "end": 237.22
+        },
+        {
+          "word": "my",
+          "start": 237.22,
+          "end": 237.6
+        },
+        {
+          "word": "eye",
+          "start": 237.6,
+          "end": 237.92
+        }
+      ]
+    },
+    {
+      "text": "Salty  face  when  I  start  cryin'",
+      "start": 237.92,
+      "end": 241.76,
+      "words": [
+        {
+          "word": "Salty",
+          "start": 237.92,
+          "end": 238.76
+        },
+        {
+          "word": "face",
+          "start": 238.76,
+          "end": 239.18
+        },
+        {
+          "word": "when",
+          "start": 239.18,
+          "end": 239.42
+        },
+        {
+          "word": "I",
+          "start": 239.42,
+          "end": 239.8
+        },
+        {
+          "word": "start",
+          "start": 239.8,
+          "end": 240.3
+        },
+        {
+          "word": "cryin'",
+          "start": 240.3,
+          "end": 241.76
+        }
+      ]
+    },
+    {
+      "text": "Could  you  be  my  first  time?",
+      "start": 243.22,
+      "end": 245.62,
+      "words": [
+        {
+          "word": "Could",
+          "start": 243.22,
+          "end": 243.46
+        },
+        {
+          "word": "you",
+          "start": 243.46,
+          "end": 243.82
+        },
+        {
+          "word": "be",
+          "start": 243.82,
+          "end": 244.12
+        },
+        {
+          "word": "my",
+          "start": 244.12,
+          "end": 244.54
+        },
+        {
+          "word": "first",
+          "start": 244.54,
+          "end": 244.94
+        },
+        {
+          "word": "time?",
+          "start": 244.94,
+          "end": 245.62
+        }
+      ]
+    },
+    {
+      "text": "Eat  me  up  like  apple  pie",
+      "start": 245.98,
+      "end": 248.16,
+      "words": [
+        {
+          "word": "Eat",
+          "start": 245.98,
+          "end": 246.02
+        },
+        {
+          "word": "me",
+          "start": 246.02,
+          "end": 246.52
+        },
+        {
+          "word": "up",
+          "start": 246.52,
+          "end": 246.76
+        },
+        {
+          "word": "like",
+          "start": 246.76,
+          "end": 247.1
+        },
+        {
+          "word": "apple",
+          "start": 247.1,
+          "end": 247.5
+        },
+        {
+          "word": "pie",
+          "start": 247.5,
+          "end": 248.16
+        }
+      ]
+    },
+    {
+      "text": "Make  me  not  wanna  die",
+      "start": 248.16,
+      "end": 250.78,
+      "words": [
+        {
+          "word": "Make",
+          "start": 248.16,
+          "end": 248.62
+        },
+        {
+          "word": "me",
+          "start": 248.62,
+          "end": 249.32
+        },
+        {
+          "word": "not",
+          "start": 249.32,
+          "end": 249.78
+        },
+        {
+          "word": "wanna",
+          "start": 249.78,
+          "end": 250.26
+        },
+        {
+          "word": "die",
+          "start": 250.26,
+          "end": 250.78
+        }
+      ]
+    },
+    {
+      "text": "Love  me  rough  and  let  me  fly",
+      "start": 250.78,
+      "end": 253.26,
+      "words": [
+        {
+          "word": "Love",
+          "start": 250.78,
+          "end": 251.12
+        },
+        {
+          "word": "me",
+          "start": 251.12,
+          "end": 251.58
+        },
+        {
+          "word": "rough",
+          "start": 251.58,
+          "end": 251.88
+        },
+        {
+          "word": "and",
+          "start": 251.88,
+          "end": 252.2
+        },
+        {
+          "word": "let",
+          "start": 252.2,
+          "end": 252.42
+        },
+        {
+          "word": "me",
+          "start": 252.42,
+          "end": 252.9
+        },
+        {
+          "word": "fly",
+          "start": 252.9,
+          "end": 253.26
+        }
+      ]
+    },
+    {
+      "text": "Get  me  up  here,  get  me  high",
+      "start": 253.26,
+      "end": 255.9,
+      "words": [
+        {
+          "word": "Get",
+          "start": 253.26,
+          "end": 253.74
+        },
+        {
+          "word": "me",
+          "start": 253.74,
+          "end": 254.22
+        },
+        {
+          "word": "up",
+          "start": 254.22,
+          "end": 254.5
+        },
+        {
+          "word": "here,",
+          "start": 254.5,
+          "end": 254.64
+        },
+        {
+          "word": "get",
+          "start": 254.68,
+          "end": 255.02
+        },
+        {
+          "word": "me",
+          "start": 255.02,
+          "end": 255.48
+        },
+        {
+          "word": "high",
+          "start": 255.48,
+          "end": 255.9
+        }
+      ]
+    },
+    {
+      "text": "Tie  me  down,  don't  leave  my  side",
+      "start": 255.9,
+      "end": 258.44,
+      "words": [
+        {
+          "word": "Tie",
+          "start": 255.9,
+          "end": 256.26
+        },
+        {
+          "word": "me",
+          "start": 256.26,
+          "end": 256.64
+        },
+        {
+          "word": "down,",
+          "start": 256.64,
+          "end": 256.94
+        },
+        {
+          "word": "don't",
+          "start": 256.94,
+          "end": 257.26
+        },
+        {
+          "word": "leave",
+          "start": 257.26,
+          "end": 257.62
+        },
+        {
+          "word": "my",
+          "start": 257.62,
+          "end": 258.06
+        },
+        {
+          "word": "side",
+          "start": 258.06,
+          "end": 258.44
+        }
+      ]
+    },
+    {
+      "text": "Don't  be  a  waste  of  my  time",
+      "start": 258.44,
+      "end": 261.54,
+      "words": [
+        {
+          "word": "Don't",
+          "start": 258.44,
+          "end": 258.88
+        },
+        {
+          "word": "be",
+          "start": 258.88,
+          "end": 259.32
+        },
+        {
+          "word": "a",
+          "start": 259.32,
+          "end": 259.56
+        },
+        {
+          "word": "waste",
+          "start": 259.56,
+          "end": 259.88
+        },
+        {
+          "word": "of",
+          "start": 259.88,
+          "end": 260.22
+        },
+        {
+          "word": "my",
+          "start": 260.22,
+          "end": 260.6
+        },
+        {
+          "word": "time",
+          "start": 260.6,
+          "end": 261.54
+        }
+      ]
+    },
+    {
+      "text": "Can  we  just  be  honest?",
+      "start": 263.74,
+      "end": 266.58,
+      "words": [
+        {
+          "word": "Can",
+          "start": 263.74,
+          "end": 264.52
+        },
+        {
+          "word": "we",
+          "start": 264.52,
+          "end": 264.92
+        },
+        {
+          "word": "just",
+          "start": 264.92,
+          "end": 265.26
+        },
+        {
+          "word": "be",
+          "start": 265.26,
+          "end": 266.02
+        },
+        {
+          "word": "honest?",
+          "start": 266.02,
+          "end": 266.58
+        }
+      ]
+    },
+    {
+      "text": "These  are  the  requirements",
+      "start": 266.58,
+      "end": 269.04,
+      "words": [
+        {
+          "word": "These",
+          "start": 266.58,
+          "end": 267.18
+        },
+        {
+          "word": "are",
+          "start": 267.18,
+          "end": 267.68
+        },
+        {
+          "word": "the",
+          "start": 267.68,
+          "end": 268.08
+        },
+        {
+          "word": "requirements",
+          "start": 268.08,
+          "end": 269.04
+        }
+      ]
+    },
+    {
+      "text": "If  you  think  you  can  be  my  one  and  only  true  love",
+      "start": 269.04,
+      "end": 274.0,
+      "words": [
+        {
+          "word": "If",
+          "start": 269.04,
+          "end": 269.76
+        },
+        {
+          "word": "you",
+          "start": 269.76,
+          "end": 270.1
+        },
+        {
+          "word": "think",
+          "start": 270.1,
+          "end": 270.34
+        },
+        {
+          "word": "you",
+          "start": 270.34,
+          "end": 270.62
+        },
+        {
+          "word": "can",
+          "start": 270.62,
+          "end": 271.0
+        },
+        {
+          "word": "be",
+          "start": 271.0,
+          "end": 271.38
+        },
+        {
+          "word": "my",
+          "start": 271.38,
+          "end": 271.72
+        },
+        {
+          "word": "one",
+          "start": 271.72,
+          "end": 271.96
+        },
+        {
+          "word": "and",
+          "start": 271.96,
+          "end": 272.42
+        },
+        {
+          "word": "only",
+          "start": 272.42,
+          "end": 272.9
+        },
+        {
+          "word": "true",
+          "start": 272.9,
+          "end": 273.38
+        },
+        {
+          "word": "love",
+          "start": 273.38,
+          "end": 274.0
+        }
+      ]
+    },
+    {
+      "text": "You  best  promise  to  love  me",
+      "start": 274.0,
+      "end": 276.88,
+      "words": [
+        {
+          "word": "You",
+          "start": 274.0,
+          "end": 274.5
+        },
+        {
+          "word": "best",
+          "start": 274.5,
+          "end": 274.8
+        },
+        {
+          "word": "promise",
+          "start": 274.8,
+          "end": 275.36
+        },
+        {
+          "word": "to",
+          "start": 275.36,
+          "end": 275.8
+        },
+        {
+          "word": "love",
+          "start": 275.8,
+          "end": 276.34
+        },
+        {
+          "word": "me",
+          "start": 276.34,
+          "end": 276.88
+        }
+      ]
+    },
+    {
+      "text": "And  damn  it  if  you  fuck  me  over",
+      "start": 276.88,
+      "end": 280.2,
+      "words": [
+        {
+          "word": "And",
+          "start": 276.88,
+          "end": 277.26
+        },
+        {
+          "word": "damn",
+          "start": 277.26,
+          "end": 277.54
+        },
+        {
+          "word": "it",
+          "start": 277.54,
+          "end": 277.84
+        },
+        {
+          "word": "if",
+          "start": 277.84,
+          "end": 278.04
+        },
+        {
+          "word": "you",
+          "start": 278.04,
+          "end": 278.48
+        },
+        {
+          "word": "fuck",
+          "start": 278.48,
+          "end": 278.86
+        },
+        {
+          "word": "me",
+          "start": 278.86,
+          "end": 279.54
+        },
+        {
+          "word": "over",
+          "start": 279.54,
+          "end": 280.2
+        }
+      ]
+    },
+    {
+      "text": "I  will  rip  your  fucking  face  apart",
+      "start": 280.2,
+      "end": 283.84,
+      "words": [
+        {
+          "word": "I",
+          "start": 280.2,
+          "end": 280.58
+        },
+        {
+          "word": "will",
+          "start": 280.58,
+          "end": 280.86
+        },
+        {
+          "word": "rip",
+          "start": 280.86,
+          "end": 281.2
+        },
+        {
+          "word": "your",
+          "start": 281.2,
+          "end": 281.58
+        },
+        {
+          "word": "fucking",
+          "start": 281.58,
+          "end": 282.04
+        },
+        {
+          "word": "face",
+          "start": 282.04,
+          "end": 283.0
+        },
+        {
+          "word": "apart",
+          "start": 283.0,
+          "end": 283.84
+        }
+      ]
+    },
+    {
+      "text": "High  school  sweethearts",
+      "start": 284.86,
+      "end": 287.38,
+      "words": [
+        {
+          "word": "High",
+          "start": 284.86,
+          "end": 285.66
+        },
+        {
+          "word": "school",
+          "start": 285.66,
+          "end": 286.06
+        },
+        {
+          "word": "sweethearts",
+          "start": 286.06,
+          "end": 287.38
+        }
+      ]
+    },
+    {
+      "text": "Line  up,  not  tryna  waste  my  time",
+      "start": 287.38,
+      "end": 290.38,
+      "words": [
+        {
+          "word": "Line",
+          "start": 287.38,
+          "end": 287.92
+        },
+        {
+          "word": "up,",
+          "start": 287.92,
+          "end": 288.6
+        },
+        {
+          "word": "not",
+          "start": 288.84,
+          "end": 288.92
+        },
+        {
+          "word": "tryna",
+          "start": 288.92,
+          "end": 289.2
+        },
+        {
+          "word": "waste",
+          "start": 289.2,
+          "end": 289.56
+        },
+        {
+          "word": "my",
+          "start": 289.56,
+          "end": 289.96
+        },
+        {
+          "word": "time",
+          "start": 289.96,
+          "end": 290.38
+        }
+      ]
+    },
+    {
+      "text": "High  school  sweethearts",
+      "start": 290.38,
+      "end": 292.38,
+      "words": [
+        {
+          "word": "High",
+          "start": 290.38,
+          "end": 290.8
+        },
+        {
+          "word": "school",
+          "start": 290.8,
+          "end": 291.16
+        },
+        {
+          "word": "sweethearts",
+          "start": 291.16,
+          "end": 292.38
+        }
+      ]
+    },
+    {
+      "text": "Shut  up,  if  you're  not  my  type",
+      "start": 292.38,
+      "end": 295.36,
+      "words": [
+        {
+          "word": "Shut",
+          "start": 292.38,
+          "end": 293.1
+        },
+        {
+          "word": "up,",
+          "start": 293.1,
+          "end": 293.68
+        },
+        {
+          "word": "if",
+          "start": 294.02,
+          "end": 294.2
+        },
+        {
+          "word": "you're",
+          "start": 294.2,
+          "end": 294.5
+        },
+        {
+          "word": "not",
+          "start": 294.5,
+          "end": 294.7
+        },
+        {
+          "word": "my",
+          "start": 294.7,
+          "end": 295.08
+        },
+        {
+          "word": "type",
+          "start": 295.08,
+          "end": 295.36
+        }
+      ]
+    },
+    {
+      "text": "High  school  sweethearts,  line  up,  not  tryna  waste  my  time",
+      "start": 295.36,
+      "end": 300.58,
+      "words": [
+        {
+          "word": "High",
+          "start": 295.36,
+          "end": 295.88
+        },
+        {
+          "word": "school",
+          "start": 295.88,
+          "end": 296.4
+        },
+        {
+          "word": "sweethearts,",
+          "start": 296.4,
+          "end": 297.6
+        },
+        {
+          "word": "line",
+          "start": 297.96,
+          "end": 298.14
+        },
+        {
+          "word": "up,",
+          "start": 298.14,
+          "end": 298.78
+        },
+        {
+          "word": "not",
+          "start": 299.06,
+          "end": 299.16
+        },
+        {
+          "word": "tryna",
+          "start": 299.16,
+          "end": 299.46
+        },
+        {
+          "word": "waste",
+          "start": 299.46,
+          "end": 299.78
+        },
+        {
+          "word": "my",
+          "start": 299.78,
+          "end": 300.16
+        },
+        {
+          "word": "time",
+          "start": 300.16,
+          "end": 300.58
+        }
+      ]
+    },
+    {
+      "text": "High  school  sweethearts,  shut  up,  if  you're  not  my  type",
+      "start": 300.58,
+      "end": 305.64,
+      "words": [
+        {
+          "word": "High",
+          "start": 300.58,
+          "end": 301.04
+        },
+        {
+          "word": "school",
+          "start": 301.04,
+          "end": 301.4
+        },
+        {
+          "word": "sweethearts,",
+          "start": 301.4,
+          "end": 302.56
+        },
+        {
+          "word": "shut",
+          "start": 303.08,
+          "end": 303.34
+        },
+        {
+          "word": "up,",
+          "start": 303.34,
+          "end": 304.02
+        },
+        {
+          "word": "if",
+          "start": 304.2,
+          "end": 304.38
+        },
+        {
+          "word": "you're",
+          "start": 304.38,
+          "end": 304.62
+        },
+        {
+          "word": "not",
+          "start": 304.62,
+          "end": 304.84
+        },
+        {
+          "word": "my",
+          "start": 304.84,
+          "end": 305.24
+        },
+        {
+          "word": "type",
+          "start": 305.24,
+          "end": 305.64
+        }
+      ]
+    }
+  ],
+  "reference_text": [
+    {
+      "text": "Can we just be honest?",
+      "words": [
+        "Can",
+        "we",
+        "just",
+        "be",
+        "honest?"
+      ]
+    },
+    {
+      "text": "These are the requirements",
+      "words": [
+        "These",
+        "are",
+        "the",
+        "requirements"
+      ]
+    },
+    {
+      "text": "If you think you can be my one and only true love",
+      "words": [
+        "If",
+        "you",
+        "think",
+        "you",
+        "can",
+        "be",
+        "my",
+        "one",
+        "and",
+        "only",
+        "true",
+        "love"
+      ]
+    },
+    {
+      "text": "You must promise to love me",
+      "words": [
+        "You",
+        "must",
+        "promise",
+        "to",
+        "love",
+        "me"
+      ]
+    },
+    {
+      "text": "And damn it, if you fuck me over",
+      "words": [
+        "And",
+        "damn",
+        "it,",
+        "if",
+        "you",
+        "fuck",
+        "me",
+        "over"
+      ]
+    },
+    {
+      "text": "I will rip your fuckin' face apart",
+      "words": [
+        "I",
+        "will",
+        "rip",
+        "your",
+        "fuckin'",
+        "face",
+        "apart"
+      ]
+    },
+    {
+      "text": "Step one",
+      "words": [
+        "Step",
+        "one"
+      ]
+    },
+    {
+      "text": "You must accept that I'm a little out my mind",
+      "words": [
+        "You",
+        "must",
+        "accept",
+        "that",
+        "I'm",
+        "a",
+        "little",
+        "out",
+        "my",
+        "mind"
+      ]
+    },
+    {
+      "text": "Step two",
+      "words": [
+        "Step",
+        "two"
+      ]
+    },
+    {
+      "text": "This is a waste if you can't walk me down the finish line",
+      "words": [
+        "This",
+        "is",
+        "a",
+        "waste",
+        "if",
+        "you",
+        "can't",
+        "walk",
+        "me",
+        "down",
+        "the",
+        "finish",
+        "line"
+      ]
+    },
+    {
+      "text": "Step three",
+      "words": [
+        "Step",
+        "three"
+      ]
+    },
+    {
+      "text": "Give me passion, don't make fun of my fashion",
+      "words": [
+        "Give",
+        "me",
+        "passion,",
+        "don't",
+        "make",
+        "fun",
+        "of",
+        "my",
+        "fashion"
+      ]
+    },
+    {
+      "text": "Step four",
+      "words": [
+        "Step",
+        "four"
+      ]
+    },
+    {
+      "text": "Give me more, give me more, more",
+      "words": [
+        "Give",
+        "me",
+        "more,",
+        "give",
+        "me",
+        "more,",
+        "more"
+      ]
+    },
+    {
+      "text": "If you can't handle a heart like mine",
+      "words": [
+        "If",
+        "you",
+        "can't",
+        "handle",
+        "a",
+        "heart",
+        "like",
+        "mine"
+      ]
+    },
+    {
+      "text": "Don't waste your time with me",
+      "words": [
+        "Don't",
+        "waste",
+        "your",
+        "time",
+        "with",
+        "me"
+      ]
+    },
+    {
+      "text": "If you're not down to bleed, no, oh",
+      "words": [
+        "If",
+        "you're",
+        "not",
+        "down",
+        "to",
+        "bleed,",
+        "no,",
+        "oh"
+      ]
+    },
+    {
+      "text": "If you can't handle the chokin', the bitin'",
+      "words": [
+        "If",
+        "you",
+        "can't",
+        "handle",
+        "the",
+        "chokin',",
+        "the",
+        "bitin'"
+      ]
+    },
+    {
+      "text": "The lovin', the smotherin'",
+      "words": [
+        "The",
+        "lovin',",
+        "the",
+        "smotherin'"
+      ]
+    },
+    {
+      "text": "'Til you can't handle it no more, no more",
+      "words": [
+        "'Til",
+        "you",
+        "can't",
+        "handle",
+        "it",
+        "no",
+        "more,",
+        "no",
+        "more"
+      ]
+    },
+    {
+      "text": "Go home",
+      "words": [
+        "Go",
+        "home"
+      ]
+    },
+    {
+      "text": "Can we just be honest?",
+      "words": [
+        "Can",
+        "we",
+        "just",
+        "be",
+        "honest?"
+      ]
+    },
+    {
+      "text": "These are the requirements",
+      "words": [
+        "These",
+        "are",
+        "the",
+        "requirements"
+      ]
+    },
+    {
+      "text": "If you think you can be my one and only true love",
+      "words": [
+        "If",
+        "you",
+        "think",
+        "you",
+        "can",
+        "be",
+        "my",
+        "one",
+        "and",
+        "only",
+        "true",
+        "love"
+      ]
+    },
+    {
+      "text": "You must promise to love me",
+      "words": [
+        "You",
+        "must",
+        "promise",
+        "to",
+        "love",
+        "me"
+      ]
+    },
+    {
+      "text": "And damn it, if you fuck me over",
+      "words": [
+        "And",
+        "damn",
+        "it,",
+        "if",
+        "you",
+        "fuck",
+        "me",
+        "over"
+      ]
+    },
+    {
+      "text": "I will rip your fuckin' face apart",
+      "words": [
+        "I",
+        "will",
+        "rip",
+        "your",
+        "fuckin'",
+        "face",
+        "apart"
+      ]
+    },
+    {
+      "text": "High school sweethearts, line up",
+      "words": [
+        "High",
+        "school",
+        "sweethearts,",
+        "line",
+        "up"
+      ]
+    },
+    {
+      "text": "Not tryna waste my time",
+      "words": [
+        "Not",
+        "tryna",
+        "waste",
+        "my",
+        "time"
+      ]
+    },
+    {
+      "text": "High school sweethearts, shut up",
+      "words": [
+        "High",
+        "school",
+        "sweethearts,",
+        "shut",
+        "up"
+      ]
+    },
+    {
+      "text": "If you're not my type",
+      "words": [
+        "If",
+        "you're",
+        "not",
+        "my",
+        "type"
+      ]
+    },
+    {
+      "text": "High school sweethearts, line up",
+      "words": [
+        "High",
+        "school",
+        "sweethearts,",
+        "line",
+        "up"
+      ]
+    },
+    {
+      "text": "Not tryna waste my time",
+      "words": [
+        "Not",
+        "tryna",
+        "waste",
+        "my",
+        "time"
+      ]
+    },
+    {
+      "text": "High school sweethearts, shut up",
+      "words": [
+        "High",
+        "school",
+        "sweethearts,",
+        "shut",
+        "up"
+      ]
+    },
+    {
+      "text": "If you're not my type",
+      "words": [
+        "If",
+        "you're",
+        "not",
+        "my",
+        "type"
+      ]
+    },
+    {
+      "text": "Step five",
+      "words": [
+        "Step",
+        "five"
+      ]
+    },
+    {
+      "text": "You can't be scared to show me off and hold my hand",
+      "words": [
+        "You",
+        "can't",
+        "be",
+        "scared",
+        "to",
+        "show",
+        "me",
+        "off",
+        "and",
+        "hold",
+        "my",
+        "hand"
+      ]
+    },
+    {
+      "text": "Step six",
+      "words": [
+        "Step",
+        "six"
+      ]
+    },
+    {
+      "text": "If you can't put in work, I don't know what you think this fuckin' is",
+      "words": [
+        "If",
+        "you",
+        "can't",
+        "put",
+        "in",
+        "work,",
+        "I",
+        "don't",
+        "know",
+        "what",
+        "you",
+        "think",
+        "this",
+        "fuckin'",
+        "is"
+      ]
+    },
+    {
+      "text": "Step seven, this one goes to eleven",
+      "words": [
+        "Step",
+        "seven,",
+        "this",
+        "one",
+        "goes",
+        "to",
+        "eleven"
+      ]
+    },
+    {
+      "text": "If you cheat, you will die, die",
+      "words": [
+        "If",
+        "you",
+        "cheat,",
+        "you",
+        "will",
+        "die,",
+        "die"
+      ]
+    },
+    {
+      "text": "If you can't handle a heart like mine",
+      "words": [
+        "If",
+        "you",
+        "can't",
+        "handle",
+        "a",
+        "heart",
+        "like",
+        "mine"
+      ]
+    },
+    {
+      "text": "Don't waste your time with me",
+      "words": [
+        "Don't",
+        "waste",
+        "your",
+        "time",
+        "with",
+        "me"
+      ]
+    },
+    {
+      "text": "If you're not down to bleed, no, oh",
+      "words": [
+        "If",
+        "you're",
+        "not",
+        "down",
+        "to",
+        "bleed,",
+        "no,",
+        "oh"
+      ]
+    },
+    {
+      "text": "If you can't handle the chokin', the bitin'",
+      "words": [
+        "If",
+        "you",
+        "can't",
+        "handle",
+        "the",
+        "chokin',",
+        "the",
+        "bitin'"
+      ]
+    },
+    {
+      "text": "The lovin', the smotherin'",
+      "words": [
+        "The",
+        "lovin',",
+        "the",
+        "smotherin'"
+      ]
+    },
+    {
+      "text": "'Til you can't handle it no more, no more",
+      "words": [
+        "'Til",
+        "you",
+        "can't",
+        "handle",
+        "it",
+        "no",
+        "more,",
+        "no",
+        "more"
+      ]
+    },
+    {
+      "text": "Go home",
+      "words": [
+        "Go",
+        "home"
+      ]
+    },
+    {
+      "text": "Can we just be honest?",
+      "words": [
+        "Can",
+        "we",
+        "just",
+        "be",
+        "honest?"
+      ]
+    },
+    {
+      "text": "These are the requirements",
+      "words": [
+        "These",
+        "are",
+        "the",
+        "requirements"
+      ]
+    },
+    {
+      "text": "If you think you can be my one and only true love",
+      "words": [
+        "If",
+        "you",
+        "think",
+        "you",
+        "can",
+        "be",
+        "my",
+        "one",
+        "and",
+        "only",
+        "true",
+        "love"
+      ]
+    },
+    {
+      "text": "You must promise to love me",
+      "words": [
+        "You",
+        "must",
+        "promise",
+        "to",
+        "love",
+        "me"
+      ]
+    },
+    {
+      "text": "And damn it, if you fuck me over",
+      "words": [
+        "And",
+        "damn",
+        "it,",
+        "if",
+        "you",
+        "fuck",
+        "me",
+        "over"
+      ]
+    },
+    {
+      "text": "I will rip your fuckin' face apart",
+      "words": [
+        "I",
+        "will",
+        "rip",
+        "your",
+        "fuckin'",
+        "face",
+        "apart"
+      ]
+    },
+    {
+      "text": "High school sweethearts, line up",
+      "words": [
+        "High",
+        "school",
+        "sweethearts,",
+        "line",
+        "up"
+      ]
+    },
+    {
+      "text": "Not tryna waste my time",
+      "words": [
+        "Not",
+        "tryna",
+        "waste",
+        "my",
+        "time"
+      ]
+    },
+    {
+      "text": "High school sweethearts, shut up",
+      "words": [
+        "High",
+        "school",
+        "sweethearts,",
+        "shut",
+        "up"
+      ]
+    },
+    {
+      "text": "If you're not my type",
+      "words": [
+        "If",
+        "you're",
+        "not",
+        "my",
+        "type"
+      ]
+    },
+    {
+      "text": "High school sweethearts, line up",
+      "words": [
+        "High",
+        "school",
+        "sweethearts,",
+        "line",
+        "up"
+      ]
+    },
+    {
+      "text": "Not tryna waste my time",
+      "words": [
+        "Not",
+        "tryna",
+        "waste",
+        "my",
+        "time"
+      ]
+    },
+    {
+      "text": "High school sweethearts, shut up",
+      "words": [
+        "High",
+        "school",
+        "sweethearts,",
+        "shut",
+        "up"
+      ]
+    },
+    {
+      "text": "If you're not my type",
+      "words": [
+        "If",
+        "you're",
+        "not",
+        "my",
+        "type"
+      ]
+    },
+    {
+      "text": "Could you hold me through the night?",
+      "words": [
+        "Could",
+        "you",
+        "hold",
+        "me",
+        "through",
+        "the",
+        "night?"
+      ]
+    },
+    {
+      "text": "Put your lips all over my",
+      "words": [
+        "Put",
+        "your",
+        "lips",
+        "all",
+        "over",
+        "my"
+      ]
+    },
+    {
+      "text": "Salty face when I start cryin'",
+      "words": [
+        "Salty",
+        "face",
+        "when",
+        "I",
+        "start",
+        "cryin'"
+      ]
+    },
+    {
+      "text": "Could you be my first time?",
+      "words": [
+        "Could",
+        "you",
+        "be",
+        "my",
+        "first",
+        "time?"
+      ]
+    },
+    {
+      "text": "Eat me up like apple pie",
+      "words": [
+        "Eat",
+        "me",
+        "up",
+        "like",
+        "apple",
+        "pie"
+      ]
+    },
+    {
+      "text": "Make me not wanna die",
+      "words": [
+        "Make",
+        "me",
+        "not",
+        "wanna",
+        "die"
+      ]
+    },
+    {
+      "text": "Love me rough and let me fly",
+      "words": [
+        "Love",
+        "me",
+        "rough",
+        "and",
+        "let",
+        "me",
+        "fly"
+      ]
+    },
+    {
+      "text": "Get me up, yeah, get me high",
+      "words": [
+        "Get",
+        "me",
+        "up,",
+        "yeah,",
+        "get",
+        "me",
+        "high"
+      ]
+    },
+    {
+      "text": "Tie me down, don't leave my side",
+      "words": [
+        "Tie",
+        "me",
+        "down,",
+        "don't",
+        "leave",
+        "my",
+        "side"
+      ]
+    },
+    {
+      "text": "Don't be a waste of my time",
+      "words": [
+        "Don't",
+        "be",
+        "a",
+        "waste",
+        "of",
+        "my",
+        "time"
+      ]
+    },
+    {
+      "text": "Can we just be honest?",
+      "words": [
+        "Can",
+        "we",
+        "just",
+        "be",
+        "honest?"
+      ]
+    },
+    {
+      "text": "These are the requirements",
+      "words": [
+        "These",
+        "are",
+        "the",
+        "requirements"
+      ]
+    },
+    {
+      "text": "If you think you can be my one and only true love",
+      "words": [
+        "If",
+        "you",
+        "think",
+        "you",
+        "can",
+        "be",
+        "my",
+        "one",
+        "and",
+        "only",
+        "true",
+        "love"
+      ]
+    },
+    {
+      "text": "You must promise to love me",
+      "words": [
+        "You",
+        "must",
+        "promise",
+        "to",
+        "love",
+        "me"
+      ]
+    },
+    {
+      "text": "And damn it, if you fuck me over",
+      "words": [
+        "And",
+        "damn",
+        "it,",
+        "if",
+        "you",
+        "fuck",
+        "me",
+        "over"
+      ]
+    },
+    {
+      "text": "I will rip your fuckin' face apart",
+      "words": [
+        "I",
+        "will",
+        "rip",
+        "your",
+        "fuckin'",
+        "face",
+        "apart"
+      ]
+    },
+    {
+      "text": "High school sweethearts, line up",
+      "words": [
+        "High",
+        "school",
+        "sweethearts,",
+        "line",
+        "up"
+      ]
+    },
+    {
+      "text": "Not tryna waste my time",
+      "words": [
+        "Not",
+        "tryna",
+        "waste",
+        "my",
+        "time"
+      ]
+    },
+    {
+      "text": "High school sweethearts, shut up",
+      "words": [
+        "High",
+        "school",
+        "sweethearts,",
+        "shut",
+        "up"
+      ]
+    },
+    {
+      "text": "If you're not my type",
+      "words": [
+        "If",
+        "you're",
+        "not",
+        "my",
+        "type"
+      ]
+    },
+    {
+      "text": "High school sweethearts, line up",
+      "words": [
+        "High",
+        "school",
+        "sweethearts,",
+        "line",
+        "up"
+      ]
+    },
+    {
+      "text": "Not tryna waste my time",
+      "words": [
+        "Not",
+        "tryna",
+        "waste",
+        "my",
+        "time"
+      ]
+    },
+    {
+      "text": "High school sweethearts, shut up",
+      "words": [
+        "High",
+        "school",
+        "sweethearts,",
+        "shut",
+        "up"
+      ]
+    },
+    {
+      "text": "If you're not my type",
+      "words": [
+        "If",
+        "you're",
+        "not",
+        "my",
+        "type"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T19:49:25.974808+00:00",
-  "totalTracks": 732,
+  "generatedAt": "2026-06-16T19:55:28.156678+00:00",
+  "totalTracks": 733,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10319,6 +10319,15 @@
       "file": "tracks/smoke-test-d0b6f9cec636.json",
       "sourcePath": "https://soundcloud.com/test/test",
       "mtimeMs": 1781639367900
+    },
+    "☆lil peep☆::getting money still sad too (w/ horse head)": {
+      "title": "getting money still sad too (w/ Horse Head)",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - getting money still sad too (w/ Horse Head)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-getting-money-still-sad-too-w-horse-head-d38f3b9bdc71.json",
+      "sourcePath": "https://soundcloud.com/lil_peep/getting-money-still-sad-too-w",
+      "mtimeMs": 1781639729870
     }
   },
   "tracks": [
@@ -20636,6 +20645,15 @@
       "file": "tracks/smoke-test-d0b6f9cec636.json",
       "sourcePath": "https://soundcloud.com/test/test",
       "mtimeMs": 1781639367900
+    },
+    {
+      "title": "getting money still sad too (w/ Horse Head)",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - getting money still sad too (w/ Horse Head)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-getting-money-still-sad-too-w-horse-head-d38f3b9bdc71.json",
+      "sourcePath": "https://soundcloud.com/lil_peep/getting-money-still-sad-too-w",
+      "mtimeMs": 1781639729870
     }
   ]
 }

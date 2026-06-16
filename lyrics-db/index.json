@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T20:05:41.953986+00:00",
-  "totalTracks": 734,
+  "generatedAt": "2026-06-16T20:30:10.607299+00:00",
+  "totalTracks": 735,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10337,6 +10337,15 @@
       "file": "tracks/lil-peep-tears-995999703e21.json",
       "sourcePath": "https://soundcloud.com/lil_peep/tears",
       "mtimeMs": 1781640343496
+    },
+    "lil peep::never eat, never sleep (w/ lil tracy)": {
+      "title": "never eat, never sleep (w/ Lil Tracy)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - never eat, never sleep (w/ Lil Tracy)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-never-eat-never-sleep-w-lil-tracy-e91123aa1129.json",
+      "sourcePath": "https://soundcloud.com/lil_peep/never-eat-never-sleep",
+      "mtimeMs": 1781641812930
     }
   },
   "tracks": [
@@ -20672,6 +20681,15 @@
       "file": "tracks/lil-peep-tears-995999703e21.json",
       "sourcePath": "https://soundcloud.com/lil_peep/tears",
       "mtimeMs": 1781640343496
+    },
+    {
+      "title": "never eat, never sleep (w/ Lil Tracy)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - never eat, never sleep (w/ Lil Tracy)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-never-eat-never-sleep-w-lil-tracy-e91123aa1129.json",
+      "sourcePath": "https://soundcloud.com/lil_peep/never-eat-never-sleep",
+      "mtimeMs": 1781641812930
     }
   ]
 }

@@ -1,0 +1,1844 @@
+[
+  {
+    "text": "You were nothing more to me",
+    "startTime": 5.16,
+    "endTime": 8.87,
+    "words": [
+      {
+        "word": "You",
+        "start": 5.16,
+        "end": 6.28,
+        "char_starts": [
+          5.16,
+          5.419,
+          5.944
+        ],
+        "whisper": true
+      },
+      {
+        "word": "were",
+        "start": 6.28,
+        "end": 6.64,
+        "spoken": true
+      },
+      {
+        "word": "nothing",
+        "start": 6.64,
+        "end": 7.44,
+        "char_starts": [
+          6.64,
+          6.696,
+          6.782,
+          6.885,
+          7.001,
+          7.128,
+          7.264
+        ],
+        "spoken": true
+      },
+      {
+        "word": "more",
+        "start": 7.788,
+        "end": 8.02
+      },
+      {
+        "word": "to",
+        "start": 8.02,
+        "end": 8.5
+      },
+      {
+        "word": "me",
+        "start": 8.5,
+        "end": 8.87,
+        "whisper": true
+      }
+    ],
+    "time": 5.16,
+    "end": 8.87
+  },
+  {
+    "text": "Than when you loved me in my dreams",
+    "startTime": 8.94,
+    "endTime": 12.38,
+    "words": [
+      {
+        "word": "Than",
+        "start": 8.94,
+        "end": 9.24,
+        "whisper": true
+      },
+      {
+        "word": "when",
+        "start": 9.24,
+        "end": 9.72,
+        "whisper": true
+      },
+      {
+        "word": "you",
+        "start": 10.056,
+        "end": 10.28,
+        "char_starts": [
+          10.056,
+          9.849,
+          10.112
+        ],
+        "whisper": true
+      },
+      {
+        "word": "loved",
+        "start": 10.28,
+        "end": 10.6,
+        "whisper": true
+      },
+      {
+        "word": "me",
+        "start": 10.6,
+        "end": 11.16
+      },
+      {
+        "word": "in",
+        "start": 11.16,
+        "end": 11.56,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 11.56,
+        "end": 12,
+        "spoken": true
+      },
+      {
+        "word": "dreams",
+        "start": 12,
+        "end": 12.38,
+        "spoken": true
+      }
+    ],
+    "time": 8.94,
+    "end": 12.38
+  },
+  {
+    "text": "Still dreaming about you",
+    "startTime": 12.4,
+    "endTime": 14.62,
+    "words": [
+      {
+        "word": "Still",
+        "start": 12.736,
+        "end": 12.96
+      },
+      {
+        "word": "dreaming",
+        "start": 12.96,
+        "end": 13.32
+      },
+      {
+        "word": "about",
+        "start": 13.67,
+        "end": 14.02,
+        "char_starts": [
+          13.67,
+          13.404,
+          13.534,
+          13.69,
+          13.866
+        ],
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 14.02,
+        "end": 14.62,
+        "char_starts": [
+          14.02,
+          14.159,
+          14.44
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 12.4,
+    "end": 14.62
+  },
+  {
+    "text": "(You know I'm crazy about you)",
+    "startTime": 15.42,
+    "endTime": 19.04,
+    "words": [
+      {
+        "word": "(You",
+        "start": 15.42,
+        "end": 16.04,
+        "char_starts": [
+          15.42,
+          15.495,
+          15.647,
+          15.854
+        ],
+        "adlib": true,
+        "spoken": true
+      },
+      {
+        "word": "know",
+        "start": 16.04,
+        "end": 16.28,
+        "adlib": true
+      },
+      {
+        "word": "I'm",
+        "start": 16.28,
+        "end": 16.9,
+        "adlib": true,
+        "spoken": true
+      },
+      {
+        "word": "crazy",
+        "start": 16.9,
+        "end": 17,
+        "adlib": true,
+        "spoken": true
+      },
+      {
+        "word": "about",
+        "start": 17.01,
+        "end": 17.4,
+        "adlib": true,
+        "spoken": true
+      },
+      {
+        "word": "you)",
+        "start": 17.4,
+        "end": 19.04,
+        "char_starts": [
+          17.4,
+          17.642,
+          18.017,
+          18.466
+        ],
+        "adlib": true,
+        "spoken": true
+      }
+    ],
+    "time": 15.42,
+    "end": 19.04
+  },
+  {
+    "text": "You know I'm crazy about you",
+    "startTime": 19.04,
+    "endTime": 22.6,
+    "words": [
+      {
+        "word": "You",
+        "start": 19.04,
+        "end": 19.2,
+        "spoken": true
+      },
+      {
+        "word": "know",
+        "start": 19.2,
+        "end": 19.54,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 19.54,
+        "end": 19.66
+      },
+      {
+        "word": "crazy",
+        "start": 19.66,
+        "end": 20.28,
+        "spoken": true
+      },
+      {
+        "word": "about",
+        "start": 20.28,
+        "end": 20.84
+      },
+      {
+        "word": "you",
+        "start": 20.84,
+        "end": 22.51,
+        "stretch": true,
+        "char_starts": [
+          20.84,
+          21.217,
+          21.984
+        ],
+        "sung": true
+      }
+    ],
+    "time": 19.04,
+    "end": 22.6
+  },
+  {
+    "text": "(Yeah, yeah, yeah)",
+    "startTime": 22.6,
+    "endTime": 26.04,
+    "words": [
+      {
+        "word": "(Yeah,",
+        "start": 22.6,
+        "end": 23.2,
+        "adlib": true,
+        "spoken": true
+      },
+      {
+        "word": "yeah,",
+        "start": 23.2,
+        "end": 25.2,
+        "char_starts": [
+          23.2,
+          23.4,
+          23.71,
+          24.082,
+          24.5
+        ],
+        "adlib": true,
+        "sung": true,
+        "stretch": true
+      },
+      {
+        "word": "yeah)",
+        "start": 25.2,
+        "end": 26.04,
+        "char_starts": [
+          25.2,
+          25.301,
+          25.457,
+          25.644,
+          25.855
+        ],
+        "adlib": true,
+        "sung": true,
+        "stretch": true
+      }
+    ],
+    "time": 22.6,
+    "end": 26.04
+  },
+  {
+    "text": "I remember the first time",
+    "startTime": 26.04,
+    "endTime": 28.4,
+    "words": [
+      {
+        "word": "I",
+        "start": 26.04,
+        "end": 26.42,
+        "spoken": true
+      },
+      {
+        "word": "remember",
+        "start": 26.42,
+        "end": 26.98,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 27.148,
+        "end": 27.26
+      },
+      {
+        "word": "first",
+        "start": 27.492,
+        "end": 27.8,
+        "spoken": true
+      },
+      {
+        "word": "time",
+        "start": 27.939,
+        "end": 28.4,
+        "sung": true
+      }
+    ],
+    "time": 26.04,
+    "end": 28.4
+  },
+  {
+    "text": "Baby, this is the last time",
+    "startTime": 28.4,
+    "endTime": 32.12,
+    "words": [
+      {
+        "word": "Baby,",
+        "start": 28.75,
+        "end": 29.96,
+        "char_starts": [
+          28.75,
+          28.556,
+          28.798,
+          29.088,
+          29.414
+        ],
+        "spoken": true
+      },
+      {
+        "word": "this",
+        "start": 29.96,
+        "end": 30.32
+      },
+      {
+        "word": "is",
+        "start": 30.32,
+        "end": 30.66,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 30.66,
+        "end": 30.76,
+        "spoken": true
+      },
+      {
+        "word": "last",
+        "start": 30.76,
+        "end": 31.28,
+        "spoken": true
+      },
+      {
+        "word": "time",
+        "start": 31.326,
+        "end": 32.12,
+        "char_starts": [
+          31.326,
+          31.381,
+          31.587,
+          31.868
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 28.4,
+    "end": 32.12
+  },
+  {
+    "text": "You were nothing more to me",
+    "startTime": 32.8,
+    "endTime": 36.12,
+    "words": [
+      {
+        "word": "You",
+        "start": 32.8,
+        "end": 33.68,
+        "char_starts": [
+          32.8,
+          33.003,
+          33.416
+        ],
+        "spoken": true
+      },
+      {
+        "word": "were",
+        "start": 33.68,
+        "end": 34.12,
+        "spoken": true
+      },
+      {
+        "word": "nothing",
+        "start": 34.12,
+        "end": 34.84,
+        "char_starts": [
+          34.12,
+          34.17,
+          34.247,
+          34.34,
+          34.445,
+          34.559,
+          34.682
+        ]
+      },
+      {
+        "word": "more",
+        "start": 34.84,
+        "end": 35.36,
+        "sung": true
+      },
+      {
+        "word": "to",
+        "start": 35.36,
+        "end": 35.82,
+        "sung": true
+      },
+      {
+        "word": "me",
+        "start": 35.82,
+        "end": 36.12,
+        "sung": true
+      }
+    ],
+    "time": 32.8,
+    "end": 36.12
+  },
+  {
+    "text": "Than when you loved me in my dreams",
+    "startTime": 36.24,
+    "endTime": 39.65,
+    "words": [
+      {
+        "word": "Than",
+        "start": 36.24,
+        "end": 36.66
+      },
+      {
+        "word": "when",
+        "start": 36.66,
+        "end": 37.14
+      },
+      {
+        "word": "you",
+        "start": 37.14,
+        "end": 37.62,
+        "spoken": true
+      },
+      {
+        "word": "loved",
+        "start": 37.62,
+        "end": 37.94,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 37.94,
+        "end": 38.46,
+        "spoken": true
+      },
+      {
+        "word": "in",
+        "start": 38.46,
+        "end": 38.92,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 38.92,
+        "end": 39.36,
+        "spoken": true
+      },
+      {
+        "word": "dreams",
+        "start": 39.36,
+        "end": 39.65,
+        "spoken": true
+      }
+    ],
+    "time": 36.24,
+    "end": 39.65
+  },
+  {
+    "text": "Still dreamin' about you",
+    "startTime": 39.82,
+    "endTime": 42.64,
+    "words": [
+      {
+        "word": "Still",
+        "start": 39.82,
+        "end": 40.34
+      },
+      {
+        "word": "dreamin'",
+        "start": 40.34,
+        "end": 40.74
+      },
+      {
+        "word": "about",
+        "start": 41.09,
+        "end": 41.38,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 41.612,
+        "end": 42.64,
+        "char_starts": [
+          41.612,
+          41.65,
+          42.199
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 39.82,
+    "end": 42.64
+  },
+  {
+    "text": "You know I'm crazy about you",
+    "startTime": 42.64,
+    "endTime": 46.4,
+    "words": [
+      {
+        "word": "You",
+        "start": 42.99,
+        "end": 43.34,
+        "char_starts": [
+          42.99,
+          42.802,
+          43.13
+        ],
+        "spoken": true
+      },
+      {
+        "word": "know",
+        "start": 43.34,
+        "end": 43.62
+      },
+      {
+        "word": "I'm",
+        "start": 43.62,
+        "end": 43.74
+      },
+      {
+        "word": "crazy",
+        "start": 43.74,
+        "end": 44.24,
+        "spoken": true
+      },
+      {
+        "word": "about",
+        "start": 44.24,
+        "end": 44.8,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 45.055,
+        "end": 46.4,
+        "char_starts": [
+          45.055,
+          45.143,
+          45.84
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 42.64,
+    "end": 46.4
+  },
+  {
+    "text": "There is nothing more to me than you",
+    "startTime": 46.4,
+    "endTime": 50.78,
+    "words": [
+      {
+        "word": "There",
+        "start": 46.516,
+        "end": 47.5,
+        "char_starts": [
+          46.516,
+          46.484,
+          46.654,
+          46.886,
+          47.17
+        ],
+        "spoken": true
+      },
+      {
+        "word": "is",
+        "start": 47.639,
+        "end": 47.92,
+        "spoken": true
+      },
+      {
+        "word": "nothing",
+        "start": 47.92,
+        "end": 48.58,
+        "char_starts": [
+          47.92,
+          47.966,
+          48.037,
+          48.122,
+          48.218,
+          48.322,
+          48.435
+        ]
+      },
+      {
+        "word": "more",
+        "start": 48.58,
+        "end": 49.1,
+        "sung": true
+      },
+      {
+        "word": "to",
+        "start": 49.1,
+        "end": 49.58,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 49.832,
+        "end": 50
+      },
+      {
+        "word": "than",
+        "start": 50,
+        "end": 50.44
+      },
+      {
+        "word": "you",
+        "start": 50.44,
+        "end": 50.78,
+        "spoken": true
+      }
+    ],
+    "time": 46.4,
+    "end": 50.78
+  },
+  {
+    "text": "I died that day you left my room in tears",
+    "startTime": 50.84,
+    "endTime": 55.5,
+    "words": [
+      {
+        "word": "I",
+        "start": 50.886,
+        "end": 51.32,
+        "spoken": true
+      },
+      {
+        "word": "died",
+        "start": 51.32,
+        "end": 51.72,
+        "spoken": true
+      },
+      {
+        "word": "that",
+        "start": 51.72,
+        "end": 52.16,
+        "spoken": true
+      },
+      {
+        "word": "day",
+        "start": 52.16,
+        "end": 52.58,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 52.58,
+        "end": 52.96,
+        "spoken": true
+      },
+      {
+        "word": "left",
+        "start": 53.03,
+        "end": 53.36,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 53.569,
+        "end": 53.92,
+        "spoken": true
+      },
+      {
+        "word": "room",
+        "start": 53.92,
+        "end": 54.3
+      },
+      {
+        "word": "in",
+        "start": 54.65,
+        "end": 54.9
+      },
+      {
+        "word": "tears",
+        "start": 54.9,
+        "end": 55.5
+      }
+    ],
+    "time": 50.84,
+    "end": 55.5
+  },
+  {
+    "text": "This is the last time",
+    "startTime": 55.5,
+    "endTime": 57.9,
+    "words": [
+      {
+        "word": "This",
+        "start": 55.5,
+        "end": 55.62
+      },
+      {
+        "word": "is",
+        "start": 55.713,
+        "end": 56.4
+      },
+      {
+        "word": "the",
+        "start": 56.4,
+        "end": 56.56
+      },
+      {
+        "word": "last",
+        "start": 56.8,
+        "end": 56.96
+      },
+      {
+        "word": "time",
+        "start": 57.03,
+        "end": 57.9,
+        "char_starts": [
+          57.03,
+          57.073,
+          57.304,
+          57.618
+        ]
+      }
+    ],
+    "time": 55.5,
+    "end": 57.9
+  },
+  {
+    "text": "Me and you are a pastime (yeah, yeah)",
+    "startTime": 58.82,
+    "endTime": 64.7,
+    "words": [
+      {
+        "word": "Me",
+        "start": 58.82,
+        "end": 59.22
+      },
+      {
+        "word": "and",
+        "start": 59.22,
+        "end": 59.4
+      },
+      {
+        "word": "you",
+        "start": 59.4,
+        "end": 59.54
+      },
+      {
+        "word": "are",
+        "start": 59.61,
+        "end": 59.76
+      },
+      {
+        "word": "a",
+        "start": 59.76,
+        "end": 60
+      },
+      {
+        "word": "pastime",
+        "start": 60.255,
+        "end": 63.8,
+        "char_starts": [
+          60.255,
+          60.14,
+          60.426,
+          60.815,
+          61.291,
+          61.845,
+          62.47
+        ],
+        "spoken": true
+      },
+      {
+        "word": "(yeah,",
+        "start": 63.893,
+        "end": 64.6,
+        "char_starts": [
+          63.893,
+          63.871,
+          63.981,
+          64.113,
+          64.262,
+          64.424
+        ],
+        "adlib": true,
+        "spoken": true
+      },
+      {
+        "word": "yeah)",
+        "start": 64.6,
+        "end": 64.7,
+        "adlib": true,
+        "spoken": true
+      }
+    ],
+    "time": 58.82,
+    "end": 64.7
+  },
+  {
+    "text": "(Both wish this didn't have to end like -)",
+    "startTime": 64.4,
+    "endTime": 67.52,
+    "words": [
+      {
+        "word": "(Both",
+        "start": 64.446,
+        "end": 64.789,
+        "adlib": true
+      },
+      {
+        "word": "wish",
+        "start": 64.799,
+        "end": 65.1,
+        "adlib": true,
+        "spoken": true
+      },
+      {
+        "word": "this",
+        "start": 65.1,
+        "end": 65.14,
+        "adlib": true
+      },
+      {
+        "word": "didn't",
+        "start": 65.21,
+        "end": 65.8,
+        "char_starts": [
+          65.21,
+          65.199,
+          65.289,
+          65.398,
+          65.521,
+          65.655
+        ],
+        "adlib": true,
+        "spoken": true
+      },
+      {
+        "word": "have",
+        "start": 65.8,
+        "end": 66.28,
+        "adlib": true,
+        "spoken": true
+      },
+      {
+        "word": "to",
+        "start": 66.489,
+        "end": 66.64,
+        "adlib": true,
+        "spoken": true
+      },
+      {
+        "word": "end",
+        "start": 66.756,
+        "end": 67.1,
+        "adlib": true,
+        "whisper": true
+      },
+      {
+        "word": "like",
+        "start": 67.1,
+        "end": 67.447,
+        "adlib": true,
+        "whisper": true
+      },
+      {
+        "word": "-)",
+        "start": 67.457,
+        "end": 67.52,
+        "whisper": true
+      }
+    ],
+    "time": 64.4,
+    "end": 67.52
+  },
+  {
+    "text": "This is the last time",
+    "startTime": 67.54,
+    "endTime": 69.9,
+    "words": [
+      {
+        "word": "This",
+        "start": 67.749,
+        "end": 67.94
+      },
+      {
+        "word": "is",
+        "start": 67.94,
+        "end": 68.2
+      },
+      {
+        "word": "the",
+        "start": 68.2,
+        "end": 68.5
+      },
+      {
+        "word": "last",
+        "start": 68.639,
+        "end": 68.9,
+        "spoken": true
+      },
+      {
+        "word": "time",
+        "start": 69.063,
+        "end": 69.9,
+        "char_starts": [
+          69.063,
+          69.021,
+          69.266,
+          69.6
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 67.54,
+    "end": 69.9
+  },
+  {
+    "text": "Me and you are a pastime",
+    "startTime": 70.56,
+    "endTime": 74.16,
+    "words": [
+      {
+        "word": "Me",
+        "start": 70.769,
+        "end": 71.1,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 71.1,
+        "end": 71.14
+      },
+      {
+        "word": "you",
+        "start": 71.14,
+        "end": 71.56,
+        "spoken": true
+      },
+      {
+        "word": "are",
+        "start": 71.56,
+        "end": 71.78,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 71.78,
+        "end": 72,
+        "spoken": true
+      },
+      {
+        "word": "pastime",
+        "start": 72.046,
+        "end": 74.16,
+        "char_starts": [
+          72.046,
+          72.08,
+          72.242,
+          72.463,
+          72.734,
+          73.049,
+          73.404
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 70.56,
+    "end": 74.16
+  },
+  {
+    "text": "And I know that you and I both",
+    "startTime": 74.16,
+    "endTime": 77.72,
+    "words": [
+      {
+        "word": "And",
+        "start": 74.16,
+        "end": 74.94,
+        "char_starts": [
+          74.16,
+          74.399,
+          74.768
+        ],
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 74.94,
+        "end": 75.22,
+        "spoken": true
+      },
+      {
+        "word": "know",
+        "start": 75.22,
+        "end": 75.66,
+        "spoken": true
+      },
+      {
+        "word": "that",
+        "start": 75.66,
+        "end": 76.22
+      },
+      {
+        "word": "you",
+        "start": 76.406,
+        "end": 76.62,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 76.62,
+        "end": 76.92,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 77.083,
+        "end": 77.42,
+        "spoken": true
+      },
+      {
+        "word": "both",
+        "start": 77.536,
+        "end": 77.72,
+        "spoken": true
+      }
+    ],
+    "time": 74.16,
+    "end": 77.72
+  },
+  {
+    "text": "Wish this didn't have to end like this",
+    "startTime": 77.9,
+    "endTime": 81.59,
+    "words": [
+      {
+        "word": "Wish",
+        "start": 77.9,
+        "end": 78.24
+      },
+      {
+        "word": "this",
+        "start": 78.356,
+        "end": 78.72
+      },
+      {
+        "word": "didn't",
+        "start": 78.72,
+        "end": 79.6,
+        "char_starts": [
+          78.72,
+          78.798,
+          78.919,
+          79.064,
+          79.228,
+          79.406
+        ],
+        "spoken": true
+      },
+      {
+        "word": "have",
+        "start": 79.6,
+        "end": 80.1,
+        "spoken": true
+      },
+      {
+        "word": "to",
+        "start": 80.216,
+        "end": 80.52,
+        "spoken": true
+      },
+      {
+        "word": "end",
+        "start": 80.52,
+        "end": 80.8,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 80.87,
+        "end": 81.32,
+        "spoken": true
+      },
+      {
+        "word": "this",
+        "start": 81.32,
+        "end": 81.59
+      }
+    ],
+    "time": 77.9,
+    "end": 81.59
+  },
+  {
+    "text": "But it's that time",
+    "startTime": 81.58,
+    "endTime": 84.02,
+    "words": [
+      {
+        "word": "But",
+        "start": 81.696,
+        "end": 81.92
+      },
+      {
+        "word": "it's",
+        "start": 82.148,
+        "end": 82.3
+      },
+      {
+        "word": "that",
+        "start": 82.3,
+        "end": 82.56,
+        "spoken": true
+      },
+      {
+        "word": "time",
+        "start": 82.56,
+        "end": 84.02,
+        "char_starts": [
+          82.56,
+          82.724,
+          83.056,
+          83.509
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 81.58,
+    "end": 84.02
+  },
+  {
+    "text": "Put the kid on the map time",
+    "startTime": 84.29,
+    "endTime": 86.66,
+    "words": [
+      {
+        "word": "Put",
+        "start": 84.29,
+        "end": 84.593,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 84.593,
+        "end": 84.897
+      },
+      {
+        "word": "kid",
+        "start": 84.907,
+        "end": 85.2,
+        "spoken": true
+      },
+      {
+        "word": "on",
+        "start": 85.2,
+        "end": 85.46,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 85.46,
+        "end": 85.68,
+        "spoken": true
+      },
+      {
+        "word": "map",
+        "start": 85.68,
+        "end": 86.06,
+        "spoken": true
+      },
+      {
+        "word": "time",
+        "start": 86.06,
+        "end": 86.66
+      }
+    ],
+    "time": 84.29,
+    "end": 86.66
+  },
+  {
+    "text": "I just finished the last line",
+    "startTime": 87.69,
+    "endTime": 90.42,
+    "words": [
+      {
+        "word": "I",
+        "start": 87.69,
+        "end": 87.768,
+        "spoken": true
+      },
+      {
+        "word": "just",
+        "start": 87.778,
+        "end": 88.078,
+        "spoken": true
+      },
+      {
+        "word": "finished",
+        "start": 88.078,
+        "end": 88.7,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 88.7,
+        "end": 89.04,
+        "spoken": true
+      },
+      {
+        "word": "last",
+        "start": 89.04,
+        "end": 89.46
+      },
+      {
+        "word": "line",
+        "start": 89.46,
+        "end": 90.42,
+        "char_starts": [
+          89.46,
+          89.576,
+          89.811,
+          90.132
+        ],
+        "sung": true,
+        "stretch": true
+      }
+    ],
+    "time": 87.69,
+    "end": 90.42
+  },
+  {
+    "text": "Can't believe it's the last night",
+    "startTime": 91.12,
+    "endTime": 93.75,
+    "words": [
+      {
+        "word": "Can't",
+        "start": 91.12,
+        "end": 91.7,
+        "spoken": true
+      },
+      {
+        "word": "believe",
+        "start": 91.7,
+        "end": 92
+      },
+      {
+        "word": "it's",
+        "start": 92,
+        "end": 92.34,
+        "sung": true
+      },
+      {
+        "word": "the",
+        "start": 92.34,
+        "end": 92.46,
+        "spoken": true
+      },
+      {
+        "word": "last",
+        "start": 92.46,
+        "end": 92.86
+      },
+      {
+        "word": "night",
+        "start": 92.86,
+        "end": 93.75,
+        "char_starts": [
+          92.86,
+          92.97,
+          93.142,
+          93.347,
+          93.578
+        ],
+        "sung": true,
+        "stretch": true
+      }
+    ],
+    "time": 91.12,
+    "end": 93.75
+  },
+  {
+    "text": "The last fight with you",
+    "startTime": 93.78,
+    "endTime": 96.48,
+    "words": [
+      {
+        "word": "The",
+        "start": 93.78,
+        "end": 94.22,
+        "sung": true
+      },
+      {
+        "word": "last",
+        "start": 94.22,
+        "end": 94.52,
+        "sung": true
+      },
+      {
+        "word": "fight",
+        "start": 94.52,
+        "end": 95.38,
+        "char_starts": [
+          94.52,
+          94.623,
+          94.783,
+          94.975,
+          95.191
+        ]
+      },
+      {
+        "word": "with",
+        "start": 95.38,
+        "end": 95.88
+      },
+      {
+        "word": "you",
+        "start": 96.066,
+        "end": 96.48,
+        "char_starts": [
+          96.066,
+          96.019,
+          96.3
+        ]
+      }
+    ],
+    "time": 93.78,
+    "end": 96.48
+  },
+  {
+    "text": "",
+    "startTime": 96.56,
+    "endTime": 108.03,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 96.56,
+    "end": 108.03
+  },
+  {
+    "text": "I remember the first time",
+    "startTime": 108.3,
+    "endTime": 110.7,
+    "words": [
+      {
+        "word": "I",
+        "start": 108.509,
+        "end": 108.72,
+        "spoken": true
+      },
+      {
+        "word": "remember",
+        "start": 108.906,
+        "end": 109.26
+      },
+      {
+        "word": "the",
+        "start": 109.428,
+        "end": 109.54
+      },
+      {
+        "word": "first",
+        "start": 109.772,
+        "end": 110.1,
+        "spoken": true
+      },
+      {
+        "word": "time",
+        "start": 110.193,
+        "end": 110.7
+      }
+    ],
+    "time": 108.3,
+    "end": 110.7
+  },
+  {
+    "text": "Baby, this is the last time",
+    "startTime": 111.58,
+    "endTime": 114.16,
+    "words": [
+      {
+        "word": "Baby,",
+        "start": 111.719,
+        "end": 112.3,
+        "char_starts": [
+          111.719,
+          111.666,
+          111.8,
+          111.961,
+          112.142
+        ],
+        "spoken": true
+      },
+      {
+        "word": "this",
+        "start": 112.3,
+        "end": 112.6
+      },
+      {
+        "word": "is",
+        "start": 112.6,
+        "end": 112.88,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 112.88,
+        "end": 113.1,
+        "spoken": true
+      },
+      {
+        "word": "last",
+        "start": 113.1,
+        "end": 113.56,
+        "spoken": true
+      },
+      {
+        "word": "time",
+        "start": 113.63,
+        "end": 114.16
+      }
+    ],
+    "time": 111.58,
+    "end": 114.16
+  },
+  {
+    "text": "You were nothing more to me",
+    "startTime": 115,
+    "endTime": 118.41,
+    "words": [
+      {
+        "word": "You",
+        "start": 115.093,
+        "end": 115.96,
+        "char_starts": [
+          115.093,
+          115.222,
+          115.672
+        ],
+        "spoken": true
+      },
+      {
+        "word": "were",
+        "start": 116.128,
+        "end": 116.24,
+        "spoken": true
+      },
+      {
+        "word": "nothing",
+        "start": 116.24,
+        "end": 117.02,
+        "char_starts": [
+          116.24,
+          116.294,
+          116.378,
+          116.479,
+          116.592,
+          116.716,
+          116.848
+        ]
+      },
+      {
+        "word": "more",
+        "start": 117.09,
+        "end": 117.66,
+        "char_starts": [
+          117.09,
+          117.097,
+          117.254,
+          117.468
+        ],
+        "spoken": true
+      },
+      {
+        "word": "to",
+        "start": 117.66,
+        "end": 118.02
+      },
+      {
+        "word": "me",
+        "start": 118.02,
+        "end": 118.41,
+        "sung": true
+      }
+    ],
+    "time": 115,
+    "end": 118.41
+  },
+  {
+    "text": "Than when you loved me in my dreams",
+    "startTime": 118.52,
+    "endTime": 121.86,
+    "words": [
+      {
+        "word": "Than",
+        "start": 118.52,
+        "end": 118.92
+      },
+      {
+        "word": "when",
+        "start": 118.92,
+        "end": 119.4
+      },
+      {
+        "word": "you",
+        "start": 119.4,
+        "end": 119.92,
+        "char_starts": [
+          119.4,
+          119.52,
+          119.764
+        ],
+        "spoken": true
+      },
+      {
+        "word": "loved",
+        "start": 120.059,
+        "end": 120.28,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 120.489,
+        "end": 120.76,
+        "spoken": true
+      },
+      {
+        "word": "in",
+        "start": 120.76,
+        "end": 121.2,
+        "sung": true
+      },
+      {
+        "word": "my",
+        "start": 121.2,
+        "end": 121.64,
+        "sung": true
+      },
+      {
+        "word": "dreams",
+        "start": 121.64,
+        "end": 121.86
+      }
+    ],
+    "time": 118.52,
+    "end": 121.86
+  },
+  {
+    "text": "Still dreamin' about you",
+    "startTime": 122.12,
+    "endTime": 124.28,
+    "words": [
+      {
+        "word": "Still",
+        "start": 122.12,
+        "end": 122.66
+      },
+      {
+        "word": "dreamin'",
+        "start": 122.66,
+        "end": 123.02
+      },
+      {
+        "word": "about",
+        "start": 123.02,
+        "end": 123.68,
+        "char_starts": [
+          123.02,
+          123.099,
+          123.222,
+          123.369,
+          123.535
+        ]
+      },
+      {
+        "word": "you",
+        "start": 123.68,
+        "end": 124.28,
+        "char_starts": [
+          123.68,
+          123.819,
+          124.1
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 122.12,
+    "end": 124.28
+  },
+  {
+    "text": "You know I'm crazy about you",
+    "startTime": 124.92,
+    "endTime": 128.58,
+    "words": [
+      {
+        "word": "You",
+        "start": 125.27,
+        "end": 125.6,
+        "char_starts": [
+          125.27,
+          125.077,
+          125.396
+        ]
+      },
+      {
+        "word": "know",
+        "start": 125.6,
+        "end": 125.88
+      },
+      {
+        "word": "I'm",
+        "start": 125.88,
+        "end": 126.06
+      },
+      {
+        "word": "crazy",
+        "start": 126.06,
+        "end": 126.52
+      },
+      {
+        "word": "about",
+        "start": 126.52,
+        "end": 127.06
+      },
+      {
+        "word": "you",
+        "start": 127.06,
+        "end": 128.58,
+        "char_starts": [
+          127.06,
+          127.386,
+          128.048
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 124.92,
+    "end": 128.58
+  },
+  {
+    "text": "There is nothing more to me than you",
+    "startTime": 128.58,
+    "endTime": 133.14,
+    "words": [
+      {
+        "word": "There",
+        "start": 128.93,
+        "end": 129.78,
+        "char_starts": [
+          128.93,
+          128.671,
+          128.857,
+          129.11,
+          129.42
+        ],
+        "sung": true,
+        "stretch": true
+      },
+      {
+        "word": "is",
+        "start": 129.78,
+        "end": 130.18
+      },
+      {
+        "word": "nothing",
+        "start": 130.18,
+        "end": 130.78,
+        "spoken": true
+      },
+      {
+        "word": "more",
+        "start": 130.78,
+        "end": 131.38,
+        "spoken": true
+      },
+      {
+        "word": "to",
+        "start": 131.38,
+        "end": 131.88,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 131.88,
+        "end": 132.28,
+        "spoken": true
+      },
+      {
+        "word": "than",
+        "start": 132.28,
+        "end": 132.72,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 132.72,
+        "end": 133.14,
+        "spoken": true
+      }
+    ],
+    "time": 128.58,
+    "end": 133.14
+  },
+  {
+    "text": "I died that day you left my room in tears",
+    "startTime": 133.12,
+    "endTime": 137.82,
+    "words": [
+      {
+        "word": "I",
+        "start": 133.12,
+        "end": 133.58,
+        "spoken": true
+      },
+      {
+        "word": "died",
+        "start": 133.58,
+        "end": 134.02,
+        "spoken": true
+      },
+      {
+        "word": "that",
+        "start": 134.02,
+        "end": 134.52,
+        "spoken": true
+      },
+      {
+        "word": "day",
+        "start": 134.52,
+        "end": 134.86,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 134.86,
+        "end": 135.24,
+        "spoken": true
+      },
+      {
+        "word": "left",
+        "start": 135.24,
+        "end": 135.66,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 135.66,
+        "end": 136.18,
+        "spoken": true
+      },
+      {
+        "word": "room",
+        "start": 136.18,
+        "end": 136.6,
+        "spoken": true
+      },
+      {
+        "word": "in",
+        "start": 136.6,
+        "end": 137.14,
+        "spoken": true
+      },
+      {
+        "word": "tears",
+        "start": 137.14,
+        "end": 137.82,
+        "char_starts": [
+          137.14,
+          137.222,
+          137.348,
+          137.5,
+          137.67
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 133.12,
+    "end": 137.82
+  }
+]

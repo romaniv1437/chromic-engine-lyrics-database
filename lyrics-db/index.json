@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T19:55:28.156678+00:00",
-  "totalTracks": 733,
+  "generatedAt": "2026-06-16T20:05:41.953986+00:00",
+  "totalTracks": 734,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10328,6 +10328,15 @@
       "file": "tracks/lil-peep-getting-money-still-sad-too-w-horse-head-d38f3b9bdc71.json",
       "sourcePath": "https://soundcloud.com/lil_peep/getting-money-still-sad-too-w",
       "mtimeMs": 1781639729870
+    },
+    "☆lil peep☆::tears": {
+      "title": "tears",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - tears",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-tears-995999703e21.json",
+      "sourcePath": "https://soundcloud.com/lil_peep/tears",
+      "mtimeMs": 1781640343496
     }
   },
   "tracks": [
@@ -20654,6 +20663,15 @@
       "file": "tracks/lil-peep-getting-money-still-sad-too-w-horse-head-d38f3b9bdc71.json",
       "sourcePath": "https://soundcloud.com/lil_peep/getting-money-still-sad-too-w",
       "mtimeMs": 1781639729870
+    },
+    {
+      "title": "tears",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - tears",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-tears-995999703e21.json",
+      "sourcePath": "https://soundcloud.com/lil_peep/tears",
+      "mtimeMs": 1781640343496
     }
   ]
 }

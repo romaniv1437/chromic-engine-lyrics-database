@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T16:59:53.150064+00:00",
+  "generatedAt": "2026-06-17T17:08:22.748790+00:00",
   "totalTracks": 736,
   "roots": [
     "lyrics-db/tracks"
@@ -10301,10 +10301,12 @@
       "files": {
         "lyrics": "tracks/lil-peep-lil-kennedy-bbbbdb06c89c.json",
         "meta": "tracks/lil-peep-lil-kennedy-bbbbdb06c89c.meta.json",
-        "translations": {}
+        "translations": {
+          "th": "tracks/lil-peep-lil-kennedy-bbbbdb06c89c.th.json"
+        }
       },
       "sourcePath": "https://soundcloud.com/lil_peep/lil-kennedy",
-      "mtimeMs": 1781715593150
+      "mtimeMs": 1781716102748
     },
     "smoke::test": {
       "title": "Test",
@@ -20695,10 +20697,12 @@
       "files": {
         "lyrics": "tracks/lil-peep-lil-kennedy-bbbbdb06c89c.json",
         "meta": "tracks/lil-peep-lil-kennedy-bbbbdb06c89c.meta.json",
-        "translations": {}
+        "translations": {
+          "th": "tracks/lil-peep-lil-kennedy-bbbbdb06c89c.th.json"
+        }
       },
       "sourcePath": "https://soundcloud.com/lil_peep/lil-kennedy",
-      "mtimeMs": 1781715593150
+      "mtimeMs": 1781716102748
     }
   ]
 }

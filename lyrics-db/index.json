@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-17T17:08:22.748790+00:00",
-  "totalTracks": 736,
+  "generatedAt": "2026-06-17T18:12:58.254420+00:00",
+  "totalTracks": 737,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10343,6 +10343,20 @@
       "file": "tracks/lil-peep-never-eat-never-sleep-w-lil-tracy-e91123aa1129.json",
       "sourcePath": "https://soundcloud.com/lil_peep/never-eat-never-sleep",
       "mtimeMs": 1781641812930
+    },
+    "lil peep::star shopping (prod. kryptik)": {
+      "title": "star shopping (prod. kryptik)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - star shopping (prod. kryptik)",
+      "source": "Modal align_from_file",
+      "file": "tracks/lil-peep-star-shopping-prod-kryptik-0ef10d4d9b15.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-star-shopping-prod-kryptik-0ef10d4d9b15.json",
+        "meta": "tracks/lil-peep-star-shopping-prod-kryptik-0ef10d4d9b15.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/star-shopping-prod-kryptik",
+      "mtimeMs": 1781719981739
     }
   },
   "tracks": [
@@ -20703,6 +20717,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/lil-kennedy",
       "mtimeMs": 1781716102748
+    },
+    {
+      "title": "star shopping (prod. kryptik)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - star shopping (prod. kryptik)",
+      "source": "Modal align_from_file",
+      "file": "tracks/lil-peep-star-shopping-prod-kryptik-0ef10d4d9b15.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-star-shopping-prod-kryptik-0ef10d4d9b15.json",
+        "meta": "tracks/lil-peep-star-shopping-prod-kryptik-0ef10d4d9b15.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/star-shopping-prod-kryptik",
+      "mtimeMs": 1781719981739
     }
   ]
 }

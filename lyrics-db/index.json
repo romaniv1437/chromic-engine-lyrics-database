@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T20:30:10.607299+00:00",
-  "totalTracks": 735,
+  "generatedAt": "2026-06-17T16:59:53.150064+00:00",
+  "totalTracks": 736,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10296,20 +10296,15 @@
       "title": "lil kennedy",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - lil kennedy",
-      "source": "Cloud Pipeline",
-      "file": "tracks/lil-peep-lil-kennedy.json",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/lil-peep-lil-kennedy-bbbbdb06c89c.json",
       "files": {
-        "lyrics": "tracks/lil-peep-lil-kennedy.json",
-        "meta": "tracks/lil-peep-lil-kennedy.meta.json",
-        "translations": {
-          "uk": "tracks/lil-peep-lil-kennedy.uk.json",
-          "es": "tracks/lil-peep-lil-kennedy.es.json",
-          "de": "tracks/lil-peep-lil-kennedy.de.json",
-          "fr": "tracks/lil-peep-lil-kennedy.fr.json"
-        }
+        "lyrics": "tracks/lil-peep-lil-kennedy-bbbbdb06c89c.json",
+        "meta": "tracks/lil-peep-lil-kennedy-bbbbdb06c89c.meta.json",
+        "translations": {}
       },
       "sourcePath": "https://soundcloud.com/lil_peep/lil-kennedy",
-      "mtimeMs": 1781618768590
+      "mtimeMs": 1781715593150
     },
     "smoke::test": {
       "title": "Test",
@@ -20690,6 +20685,20 @@
       "file": "tracks/lil-peep-never-eat-never-sleep-w-lil-tracy-e91123aa1129.json",
       "sourcePath": "https://soundcloud.com/lil_peep/never-eat-never-sleep",
       "mtimeMs": 1781641812930
+    },
+    {
+      "title": "lil kennedy",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - lil kennedy",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/lil-peep-lil-kennedy-bbbbdb06c89c.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-kennedy-bbbbdb06c89c.json",
+        "meta": "tracks/lil-peep-lil-kennedy-bbbbdb06c89c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/lil-kennedy",
+      "mtimeMs": 1781715593150
     }
   ]
 }

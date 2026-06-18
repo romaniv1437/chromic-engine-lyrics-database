@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-17T18:15:43.794799+00:00",
-  "totalTracks": 737,
+  "generatedAt": "2026-06-18T19:19:14.962945+00:00",
+  "totalTracks": 738,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10359,6 +10359,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/star-shopping-prod-kryptik",
       "mtimeMs": 1781720143794
+    },
+    "lil peep::right here w/ horsehead (prod. nedarb)": {
+      "title": "right here w/ horsehead (prod. nedarb)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - right here w/ horsehead (prod. nedarb)",
+      "source": "Modal align_from_file",
+      "file": "tracks/lil-peep-right-here-w-horsehead-prod-nedarb-88eaf03219a5.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-right-here-w-horsehead-prod-nedarb-88eaf03219a5.json",
+        "meta": "tracks/lil-peep-right-here-w-horsehead-prod-nedarb-88eaf03219a5.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/right-here-w-horse-head-prod-nedarb",
+      "mtimeMs": 1781810358705
     }
   },
   "tracks": [
@@ -20735,6 +20749,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/star-shopping-prod-kryptik",
       "mtimeMs": 1781720143794
+    },
+    {
+      "title": "right here w/ horsehead (prod. nedarb)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - right here w/ horsehead (prod. nedarb)",
+      "source": "Modal align_from_file",
+      "file": "tracks/lil-peep-right-here-w-horsehead-prod-nedarb-88eaf03219a5.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-right-here-w-horsehead-prod-nedarb-88eaf03219a5.json",
+        "meta": "tracks/lil-peep-right-here-w-horsehead-prod-nedarb-88eaf03219a5.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/right-here-w-horse-head-prod-nedarb",
+      "mtimeMs": 1781810358705
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-18T19:19:14.962945+00:00",
-  "totalTracks": 738,
+  "generatedAt": "2026-06-19T09:42:02.321153+00:00",
+  "totalTracks": 739,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10373,6 +10373,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/right-here-w-horse-head-prod-nedarb",
       "mtimeMs": 1781810358705
+    },
+    "☆lil peep☆::boba on the rocks": {
+      "title": "boba on the rocks",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - boba on the rocks",
+      "source": "Modal align_from_file",
+      "file": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
+        "meta": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/45116ca6-d610-4d61-bc1f-8bf9ec6c171e",
+      "mtimeMs": 1781862124998
     }
   },
   "tracks": [
@@ -20763,6 +20777,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/right-here-w-horse-head-prod-nedarb",
       "mtimeMs": 1781810358705
+    },
+    {
+      "title": "boba on the rocks",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - boba on the rocks",
+      "source": "Modal align_from_file",
+      "file": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
+        "meta": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/45116ca6-d610-4d61-bc1f-8bf9ec6c171e",
+      "mtimeMs": 1781862124998
     }
   ]
 }

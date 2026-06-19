@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-19T11:30:47.601951+00:00",
-  "totalTracks": 740,
+  "generatedAt": "2026-06-19T13:50:46.680137+00:00",
+  "totalTracks": 741,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10401,6 +10401,20 @@
       },
       "sourcePath": "https://soundcloud.com/trapgooose/never-sober-prod-mikey-the",
       "mtimeMs": 1781868650587
+    },
+    "☆lil peep☆::don't panic": {
+      "title": "DON'T PANIC",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - DON'T PANIC",
+      "source": "Modal align_from_file",
+      "file": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
+        "meta": "tracks/lil-peep-don-t-panic-a32bba08c6c7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/dont-panic",
+      "mtimeMs": 1781877049454
     }
   },
   "tracks": [
@@ -20819,6 +20833,20 @@
       },
       "sourcePath": "https://soundcloud.com/trapgooose/never-sober-prod-mikey-the",
       "mtimeMs": 1781868650587
+    },
+    {
+      "title": "DON'T PANIC",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - DON'T PANIC",
+      "source": "Modal align_from_file",
+      "file": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
+        "meta": "tracks/lil-peep-don-t-panic-a32bba08c6c7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/dont-panic",
+      "mtimeMs": 1781877049454
     }
   ]
 }

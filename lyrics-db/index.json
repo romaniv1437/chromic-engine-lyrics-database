@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-19T15:06:12.244173+00:00",
-  "totalTracks": 742,
+  "generatedAt": "2026-06-19T15:09:25.005996+00:00",
+  "totalTracks": 743,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10429,6 +10429,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/lil-peep-harry-fraud-old-me",
       "mtimeMs": 1781881575058
+    },
+    "☆lil peep☆::latitude": {
+      "title": "Latitude",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - Latitude",
+      "source": "Modal align_from_file",
+      "file": "tracks/lil-peep-latitude-a8462ab7ba56.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-latitude-a8462ab7ba56.json",
+        "meta": "tracks/lil-peep-latitude-a8462ab7ba56.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/latitude",
+      "mtimeMs": 1781881768412
     }
   },
   "tracks": [
@@ -20875,6 +20889,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/lil-peep-harry-fraud-old-me",
       "mtimeMs": 1781881575058
+    },
+    {
+      "title": "Latitude",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - Latitude",
+      "source": "Modal align_from_file",
+      "file": "tracks/lil-peep-latitude-a8462ab7ba56.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-latitude-a8462ab7ba56.json",
+        "meta": "tracks/lil-peep-latitude-a8462ab7ba56.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/latitude",
+      "mtimeMs": 1781881768412
     }
   ]
 }

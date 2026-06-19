@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-19T15:09:37.102844+00:00",
-  "totalTracks": 743,
+  "generatedAt": "2026-06-19T15:13:25.868382+00:00",
+  "totalTracks": 744,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10443,6 +10443,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/latitude",
       "mtimeMs": 1781881779413
+    },
+    "rock3t::ярмак - баскетбол": {
+      "title": "Ярмак - Баскетбол",
+      "artist": "RoCk3T",
+      "originalTrackName": "RoCk3T - Ярмак - Баскетбол",
+      "source": "Modal align_from_file",
+      "file": "tracks/rock3t-c62181da93d5.json",
+      "files": {
+        "lyrics": "tracks/rock3t-c62181da93d5.json",
+        "meta": "tracks/rock3t-c62181da93d5.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/rock3t-958746914/d8phornuoczd",
+      "mtimeMs": 1781882009543
     }
   },
   "tracks": [
@@ -20903,6 +20917,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/latitude",
       "mtimeMs": 1781881779413
+    },
+    {
+      "title": "Ярмак - Баскетбол",
+      "artist": "RoCk3T",
+      "originalTrackName": "RoCk3T - Ярмак - Баскетбол",
+      "source": "Modal align_from_file",
+      "file": "tracks/rock3t-c62181da93d5.json",
+      "files": {
+        "lyrics": "tracks/rock3t-c62181da93d5.json",
+        "meta": "tracks/rock3t-c62181da93d5.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/rock3t-958746914/d8phornuoczd",
+      "mtimeMs": 1781882009543
     }
   ]
 }

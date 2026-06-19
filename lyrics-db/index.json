@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-19T13:50:46.680137+00:00",
-  "totalTracks": 741,
+  "generatedAt": "2026-06-19T15:06:12.244173+00:00",
+  "totalTracks": 742,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10415,6 +10415,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/dont-panic",
       "mtimeMs": 1781877049454
+    },
+    "lil peep::lil peep & harry fraud - old me": {
+      "title": "Lil Peep & Harry Fraud - Old Me",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep & Harry Fraud - Old Me",
+      "source": "Modal align_from_file",
+      "file": "tracks/lil-peep-lil-peep-harry-fraud-old-me-63aeaee935bb.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-harry-fraud-old-me-63aeaee935bb.json",
+        "meta": "tracks/lil-peep-lil-peep-harry-fraud-old-me-63aeaee935bb.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/lil-peep-harry-fraud-old-me",
+      "mtimeMs": 1781881575058
     }
   },
   "tracks": [
@@ -20847,6 +20861,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/dont-panic",
       "mtimeMs": 1781877049454
+    },
+    {
+      "title": "Lil Peep & Harry Fraud - Old Me",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep & Harry Fraud - Old Me",
+      "source": "Modal align_from_file",
+      "file": "tracks/lil-peep-lil-peep-harry-fraud-old-me-63aeaee935bb.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-harry-fraud-old-me-63aeaee935bb.json",
+        "meta": "tracks/lil-peep-lil-peep-harry-fraud-old-me-63aeaee935bb.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/lil-peep-harry-fraud-old-me",
+      "mtimeMs": 1781881575058
     }
   ]
 }

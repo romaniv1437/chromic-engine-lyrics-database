@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-20T10:15:04.277819+00:00",
-  "totalTracks": 745,
+  "generatedAt": "2026-06-21T09:16:39.372816+00:00",
+  "totalTracks": 746,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10471,6 +10471,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/2008-prod-hector-vae",
       "mtimeMs": 1781950506517
+    },
+    "gustav ahr::prada (prod. lederrick)": {
+      "title": "prada (prod. lederrick)",
+      "artist": "Gustav Ahr",
+      "originalTrackName": "Gustav Ahr - prada (prod. lederrick)",
+      "source": "Modal align_from_file",
+      "file": "tracks/gustav-ahr-prada-prod-lederrick-b76300003d0e.json",
+      "files": {
+        "lyrics": "tracks/gustav-ahr-prada-prod-lederrick-b76300003d0e.json",
+        "meta": "tracks/gustav-ahr-prada-prod-lederrick-b76300003d0e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/prada-prod-lederrick",
+      "mtimeMs": 1782033401294
     }
   },
   "tracks": [
@@ -20959,6 +20973,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/2008-prod-hector-vae",
       "mtimeMs": 1781950506517
+    },
+    {
+      "title": "prada (prod. lederrick)",
+      "artist": "Gustav Ahr",
+      "originalTrackName": "Gustav Ahr - prada (prod. lederrick)",
+      "source": "Modal align_from_file",
+      "file": "tracks/gustav-ahr-prada-prod-lederrick-b76300003d0e.json",
+      "files": {
+        "lyrics": "tracks/gustav-ahr-prada-prod-lederrick-b76300003d0e.json",
+        "meta": "tracks/gustav-ahr-prada-prod-lederrick-b76300003d0e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/prada-prod-lederrick",
+      "mtimeMs": 1782033401294
     }
   ]
 }

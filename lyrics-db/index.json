@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T16:27:19.967931+00:00",
+  "generatedAt": "2026-06-22T16:35:34.279616+00:00",
   "totalTracks": 748,
   "roots": [
     "lyrics-db/tracks"
@@ -10402,20 +10402,6 @@
       "sourcePath": "https://soundcloud.com/trapgooose/never-sober-prod-mikey-the",
       "mtimeMs": 1781868650587
     },
-    "☆lil peep☆::don't panic": {
-      "title": "DON'T PANIC",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - DON'T PANIC",
-      "source": "Modal align_from_file",
-      "file": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
-        "meta": "tracks/lil-peep-don-t-panic-a32bba08c6c7.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/dont-panic",
-      "mtimeMs": 1781877049454
-    },
     "lil peep::lil peep & harry fraud - old me": {
       "title": "Lil Peep & Harry Fraud - Old Me",
       "artist": "Lil Peep",
@@ -10513,6 +10499,20 @@
       },
       "sourcePath": "https://soundcloud.com/trapgooose/never-sober-prod-mikey-the",
       "mtimeMs": 1782145641298
+    },
+    "☆lil peep☆::don't panic": {
+      "title": "DON'T PANIC",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - DON'T PANIC",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
+        "meta": "tracks/lil-peep-don-t-panic-a32bba08c6c7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/dont-panic",
+      "mtimeMs": 1782146134625
     }
   },
   "tracks": [
@@ -20933,20 +20933,6 @@
       "mtimeMs": 1781868650587
     },
     {
-      "title": "DON'T PANIC",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - DON'T PANIC",
-      "source": "Modal align_from_file",
-      "file": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
-        "meta": "tracks/lil-peep-don-t-panic-a32bba08c6c7.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/dont-panic",
-      "mtimeMs": 1781877049454
-    },
-    {
       "title": "Lil Peep & Harry Fraud - Old Me",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - Lil Peep & Harry Fraud - Old Me",
@@ -21043,6 +21029,20 @@
       },
       "sourcePath": "https://soundcloud.com/trapgooose/never-sober-prod-mikey-the",
       "mtimeMs": 1782145641298
+    },
+    {
+      "title": "DON'T PANIC",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - DON'T PANIC",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
+        "meta": "tracks/lil-peep-don-t-panic-a32bba08c6c7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/dont-panic",
+      "mtimeMs": 1782146134625
     }
   ]
 }

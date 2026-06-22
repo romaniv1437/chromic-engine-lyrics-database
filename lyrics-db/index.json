@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T16:20:08.228760+00:00",
+  "generatedAt": "2026-06-22T16:27:19.967931+00:00",
   "totalTracks": 748,
   "roots": [
     "lyrics-db/tracks"
@@ -10504,7 +10504,7 @@
       "title": "never sober (prod. mikey the magician)",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - never sober (prod. mikey the magician)",
-      "source": "Modal align_from_file",
+      "source": "whisper_only",
       "file": "tracks/lil-peep-never-sober-prod-mikey-the-magician-bd419f94f5b6.json",
       "files": {
         "lyrics": "tracks/lil-peep-never-sober-prod-mikey-the-magician-bd419f94f5b6.json",
@@ -10512,7 +10512,7 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/trapgooose/never-sober-prod-mikey-the",
-      "mtimeMs": 1782145209799
+      "mtimeMs": 1782145641298
     }
   },
   "tracks": [
@@ -21034,7 +21034,7 @@
       "title": "never sober (prod. mikey the magician)",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - never sober (prod. mikey the magician)",
-      "source": "Modal align_from_file",
+      "source": "whisper_only",
       "file": "tracks/lil-peep-never-sober-prod-mikey-the-magician-bd419f94f5b6.json",
       "files": {
         "lyrics": "tracks/lil-peep-never-sober-prod-mikey-the-magician-bd419f94f5b6.json",
@@ -21042,7 +21042,7 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/trapgooose/never-sober-prod-mikey-the",
-      "mtimeMs": 1782145209799
+      "mtimeMs": 1782145641298
     }
   ]
 }

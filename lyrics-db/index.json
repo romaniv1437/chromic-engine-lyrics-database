@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-22T15:18:24.678210+00:00",
-  "totalTracks": 747,
+  "generatedAt": "2026-06-22T16:20:08.228760+00:00",
+  "totalTracks": 748,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10499,6 +10499,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/white-tee-w-yung-bruh-prod-nedarb",
       "mtimeMs": 1782141506080
+    },
+    "lil peep::never sober (prod. mikey the magician)": {
+      "title": "never sober (prod. mikey the magician)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - never sober (prod. mikey the magician)",
+      "source": "Modal align_from_file",
+      "file": "tracks/lil-peep-never-sober-prod-mikey-the-magician-bd419f94f5b6.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-never-sober-prod-mikey-the-magician-bd419f94f5b6.json",
+        "meta": "tracks/lil-peep-never-sober-prod-mikey-the-magician-bd419f94f5b6.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/trapgooose/never-sober-prod-mikey-the",
+      "mtimeMs": 1782145209799
     }
   },
   "tracks": [
@@ -21015,6 +21029,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/white-tee-w-yung-bruh-prod-nedarb",
       "mtimeMs": 1782141506080
+    },
+    {
+      "title": "never sober (prod. mikey the magician)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - never sober (prod. mikey the magician)",
+      "source": "Modal align_from_file",
+      "file": "tracks/lil-peep-never-sober-prod-mikey-the-magician-bd419f94f5b6.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-never-sober-prod-mikey-the-magician-bd419f94f5b6.json",
+        "meta": "tracks/lil-peep-never-sober-prod-mikey-the-magician-bd419f94f5b6.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/trapgooose/never-sober-prod-mikey-the",
+      "mtimeMs": 1782145209799
     }
   ]
 }

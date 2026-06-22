@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T16:35:34.279616+00:00",
+  "generatedAt": "2026-06-22T16:37:05.230815+00:00",
   "totalTracks": 748,
   "roots": [
     "lyrics-db/tracks"
@@ -10374,20 +10374,6 @@
       "sourcePath": "https://soundcloud.com/lil_peep/right-here-w-horse-head-prod-nedarb",
       "mtimeMs": 1781810358705
     },
-    "☆lil peep☆::boba on the rocks": {
-      "title": "boba on the rocks",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - boba on the rocks",
-      "source": "Modal align_from_file",
-      "file": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
-        "meta": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/45116ca6-d610-4d61-bc1f-8bf9ec6c171e",
-      "mtimeMs": 1781862124998
-    },
     "☆lil peep☆::never sober (prod. mikey the magician)": {
       "title": "never sober (prod. mikey the magician)",
       "artist": "☆LiL PEEP☆",
@@ -10513,6 +10499,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/dont-panic",
       "mtimeMs": 1782146134625
+    },
+    "☆lil peep☆::boba on the rocks": {
+      "title": "boba on the rocks",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - boba on the rocks",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
+        "meta": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/45116ca6-d610-4d61-bc1f-8bf9ec6c171e",
+      "mtimeMs": 1782146225548
     }
   },
   "tracks": [
@@ -20905,20 +20905,6 @@
       "mtimeMs": 1781810358705
     },
     {
-      "title": "boba on the rocks",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - boba on the rocks",
-      "source": "Modal align_from_file",
-      "file": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
-        "meta": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/45116ca6-d610-4d61-bc1f-8bf9ec6c171e",
-      "mtimeMs": 1781862124998
-    },
-    {
       "title": "never sober (prod. mikey the magician)",
       "artist": "☆LiL PEEP☆",
       "originalTrackName": "☆LiL PEEP☆ - never sober (prod. mikey the magician)",
@@ -21043,6 +21029,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/dont-panic",
       "mtimeMs": 1782146134625
+    },
+    {
+      "title": "boba on the rocks",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - boba on the rocks",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
+        "meta": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/45116ca6-d610-4d61-bc1f-8bf9ec6c171e",
+      "mtimeMs": 1782146225548
     }
   ]
 }

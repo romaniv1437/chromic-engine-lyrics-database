@@ -1,30 +1,5 @@
 [
   {
-    "text": "Verse 1: OmenXIII",
-    "startTime": 12.42,
-    "endTime": 12.787,
-    "words": [
-      {
-        "word": "Verse",
-        "start": 12.42,
-        "end": 12.587,
-        "whisper": true
-      },
-      {
-        "word": "1:",
-        "start": 12.587,
-        "end": 12.687
-      },
-      {
-        "word": "OmenXIII",
-        "start": 12.687,
-        "end": 12.787
-      }
-    ],
-    "time": 12.42,
-    "end": 12.787
-  },
-  {
     "text": "Sittin' on the docks",
     "startTime": 12.678,
     "endTime": 14.3,
@@ -92,7 +67,7 @@
   {
     "text": "People hit my line but I don't wanna talk",
     "startTime": 15.6,
-    "endTime": 18.64,
+    "endTime": 18.727,
     "words": [
       {
         "word": "People",
@@ -115,50 +90,50 @@
       {
         "word": "line",
         "start": 16.76,
-        "end": 17,
+        "end": 17.0,
         "spoken": true
       },
       {
         "word": "but",
-        "start": 17.093,
-        "end": 17.4,
+        "start": 17.0,
+        "end": 17.38,
         "spoken": true
       },
       {
         "word": "I",
-        "start": 17.4,
-        "end": 17.72,
+        "start": 17.38,
+        "end": 17.7,
         "spoken": true
       },
       {
         "word": "don't",
-        "start": 17.72,
-        "end": 17.92,
+        "start": 17.7,
+        "end": 17.9,
         "spoken": true
       },
       {
         "word": "wanna",
-        "start": 17.92,
+        "start": 17.9,
         "end": 18.22,
         "spoken": true
       },
       {
         "word": "talk",
         "start": 18.336,
-        "end": 18.64
+        "end": 18.727
       }
     ],
     "time": 15.6,
-    "end": 18.64
+    "end": 18.727
   },
   {
     "text": "I'm tryin' to be calm",
-    "startTime": 18.66,
-    "endTime": 20.23,
+    "startTime": 18.88,
+    "endTime": 20.14,
     "words": [
       {
         "word": "I'm",
-        "start": 18.869,
+        "start": 18.88,
         "end": 19.06,
         "spoken": true
       },
@@ -170,94 +145,97 @@
       },
       {
         "word": "to",
-        "start": 19.426,
-        "end": 19.66,
+        "start": 19.45,
+        "end": 19.64,
         "spoken": true
       },
       {
         "word": "be",
-        "start": 19.864,
-        "end": 20,
+        "start": 19.856,
+        "end": 20.0,
         "spoken": true
       },
       {
         "word": "calm",
-        "start": 20,
-        "end": 20.23,
+        "start": 20.0,
+        "end": 20.14,
         "spoken": true
       }
     ],
-    "time": 18.66,
-    "end": 20.23
+    "time": 18.88,
+    "end": 20.14
   },
   {
     "text": "I don't wanna see the clock",
-    "startTime": 20.18,
+    "startTime": 20.16,
     "endTime": 21.73,
     "words": [
       {
         "word": "I",
-        "start": 20.18,
-        "end": 20.42,
+        "start": 20.16,
+        "end": 20.44,
         "spoken": true
       },
       {
         "word": "don't",
-        "start": 20.42,
+        "start": 20.44,
         "end": 20.68,
         "spoken": true
       },
       {
         "word": "wanna",
         "start": 20.68,
-        "end": 20.96,
+        "end": 20.94,
         "spoken": true
       },
       {
         "word": "see",
-        "start": 20.96,
-        "end": 21.22
+        "start": 21.096,
+        "end": 21.2,
+        "spoken": true
       },
       {
         "word": "the",
-        "start": 21.22,
-        "end": 21.54
+        "start": 21.2,
+        "end": 21.54,
+        "spoken": true
       },
       {
         "word": "clock",
         "start": 21.54,
-        "end": 21.73
+        "end": 21.73,
+        "spoken": true
       }
     ],
-    "time": 20.18,
+    "time": 20.16,
     "end": 21.73
   },
   {
     "text": "Don't wanna see my moms",
-    "startTime": 21.78,
+    "startTime": 21.98,
     "endTime": 23.438,
     "words": [
       {
         "word": "Don't",
-        "start": 22.012,
-        "end": 22.2,
+        "start": 21.98,
+        "end": 22.18,
         "spoken": true
       },
       {
         "word": "wanna",
-        "start": 22.2,
-        "end": 22.48,
+        "start": 22.18,
+        "end": 22.5,
         "spoken": true
       },
       {
         "word": "see",
-        "start": 22.6,
-        "end": 22.68,
+        "start": 22.5,
+        "end": 22.7,
         "spoken": true
       },
       {
         "word": "my",
-        "start": 22.68,
+        "start": 22.7,
         "end": 23.04,
         "spoken": true
       },
@@ -268,17 +246,17 @@
         "spoken": true
       }
     ],
-    "time": 21.78,
+    "time": 21.98,
     "end": 23.438
   },
   {
     "text": "Don't wanna see my pops",
-    "startTime": 23.58,
+    "startTime": 23.62,
     "endTime": 24.92,
     "words": [
       {
         "word": "Don't",
-        "start": 23.58,
+        "start": 23.62,
         "end": 23.76,
         "spoken": true
       },
@@ -306,7 +284,7 @@
         "end": 24.92
       }
     ],
-    "time": 23.58,
+    "time": 23.62,
     "end": 24.92
   },
   {
@@ -388,17 +366,17 @@
   },
   {
     "text": "I think i'm seeing things that the people won't believe",
-    "startTime": 28.02,
+    "startTime": 28.04,
     "endTime": 31.17,
     "words": [
       {
         "word": "I",
-        "start": 28.206,
-        "end": 28.46
+        "start": 28.203,
+        "end": 28.48
       },
       {
         "word": "think",
-        "start": 28.599,
+        "start": 28.619,
         "end": 28.72,
         "spoken": true
       },
@@ -411,12 +389,12 @@
       {
         "word": "seeing",
         "start": 28.94,
-        "end": 29.24,
+        "end": 29.22,
         "spoken": true
       },
       {
         "word": "things",
-        "start": 29.379,
+        "start": 29.383,
         "end": 29.66,
         "spoken": true
       },
@@ -427,28 +405,28 @@
       },
       {
         "word": "the",
-        "start": 30.084,
-        "end": 30.18
+        "start": 30.072,
+        "end": 30.16
       },
       {
         "word": "people",
-        "start": 30.18,
-        "end": 30.44
+        "start": 30.16,
+        "end": 30.42
       },
       {
         "word": "won't",
-        "start": 30.44,
+        "start": 30.536,
         "end": 30.74,
         "spoken": true
       },
       {
         "word": "believe",
-        "start": 30.972,
+        "start": 30.995,
         "end": 31.17,
         "spoken": true
       }
     ],
-    "time": 28.02,
+    "time": 28.04,
     "end": 31.17
   },
   {
@@ -490,12 +468,12 @@
       {
         "word": "I'm",
         "start": 33.04,
-        "end": 33.28,
+        "end": 33.26,
         "spoken": true
       },
       {
         "word": "never",
-        "start": 33.28,
+        "start": 33.306,
         "end": 33.58,
         "spoken": true
       },
@@ -546,12 +524,12 @@
       {
         "word": "eyes",
         "start": 35.28,
-        "end": 35.6,
+        "end": 35.58,
         "sung": true
       },
       {
         "word": "closed",
-        "start": 35.739,
+        "start": 35.719,
         "end": 35.96
       },
       {
@@ -609,24 +587,30 @@
       {
         "word": "even",
         "start": 38.06,
-        "end": 38.4,
+        "end": 38.38,
         "spoken": true
       },
       {
         "word": "wanna",
-        "start": 38.4,
-        "end": 38.72,
+        "start": 38.38,
+        "end": 38.7,
         "spoken": true
       },
       {
         "word": "eat,",
-        "start": 38.72,
-        "end": 39.16,
+        "start": 38.7,
+        "end": 39.22,
+        "char_starts": [
+          38.7,
+          38.792,
+          38.935,
+          39.106
+        ],
         "spoken": true
       },
       {
         "word": "only",
-        "start": 39.16,
+        "start": 39.22,
         "end": 39.54,
         "spoken": true
       },
@@ -639,12 +623,12 @@
       {
         "word": "once",
         "start": 39.92,
-        "end": 40.24,
+        "end": 40.26,
         "spoken": true
       },
       {
         "word": "a",
-        "start": 40.24,
+        "start": 40.26,
         "end": 40.48,
         "spoken": true
       },
@@ -661,7 +645,7 @@
   {
     "text": "Sippin boba on the rocks with that ? everyday",
     "startTime": 40.75,
-    "endTime": 43.76,
+    "endTime": 43.74,
     "words": [
       {
         "word": "Sippin",
@@ -677,12 +661,12 @@
       {
         "word": "on",
         "start": 41.48,
-        "end": 41.74,
+        "end": 41.76,
         "spoken": true
       },
       {
         "word": "the",
-        "start": 41.74,
+        "start": 41.76,
         "end": 42.04,
         "spoken": true
       },
@@ -712,24 +696,23 @@
       },
       {
         "word": "everyday",
-        "start": 43.47,
-        "end": 43.76,
+        "start": 43.12,
+        "end": 43.74,
         "spoken": true
       }
     ],
     "time": 40.75,
-    "end": 43.76
+    "end": 43.74
   },
   {
     "text": "I can't even smoke shit",
-    "startTime": 43.76,
+    "startTime": 43.74,
     "endTime": 45.45,
     "words": [
       {
         "word": "I",
-        "start": 43.76,
-        "end": 44.12,
-        "spoken": true
+        "start": 43.74,
+        "end": 44.12
       },
       {
         "word": "can't",
@@ -755,7 +738,7 @@
         "spoken": true
       }
     ],
-    "time": 43.76,
+    "time": 43.74,
     "end": 45.45
   },
   {
@@ -829,18 +812,17 @@
       {
         "word": "know",
         "start": 47.46,
-        "end": 47.62,
-        "spoken": true
+        "end": 47.6
       },
       {
         "word": "i",
-        "start": 47.62,
-        "end": 47.84,
+        "start": 47.6,
+        "end": 47.82,
         "spoken": true
       },
       {
         "word": "still",
-        "start": 47.84,
+        "start": 47.82,
         "end": 48.06,
         "spoken": true
       },
@@ -857,7 +839,7 @@
   {
     "text": "If you need to cop today",
     "startTime": 48.5,
-    "endTime": 50,
+    "endTime": 50.08,
     "words": [
       {
         "word": "If",
@@ -885,27 +867,27 @@
       {
         "word": "cop",
         "start": 49.52,
-        "end": 49.7,
+        "end": 49.66,
         "spoken": true
       },
       {
         "word": "today",
-        "start": 49.7,
-        "end": 50,
+        "start": 49.66,
+        "end": 50.08,
         "spoken": true
       }
     ],
     "time": 48.5,
-    "end": 50
+    "end": 50.08
   },
   {
     "text": "Hit my line, scoop you up",
-    "startTime": 50.02,
+    "startTime": 50.04,
     "endTime": 51.73,
     "words": [
       {
         "word": "Hit",
-        "start": 50.02,
+        "start": 50.04,
         "end": 50.42,
         "spoken": true
       },
@@ -924,12 +906,12 @@
       {
         "word": "scoop",
         "start": 50.9,
-        "end": 51.2,
+        "end": 51.22,
         "spoken": true
       },
       {
         "word": "you",
-        "start": 51.2,
+        "start": 51.22,
         "end": 51.56,
         "spoken": true
       },
@@ -940,23 +922,23 @@
         "spoken": true
       }
     ],
-    "time": 50.02,
+    "time": 50.04,
     "end": 51.73
   },
   {
     "text": "Mango juice with the stuff",
     "startTime": 51.78,
-    "endTime": 53.2,
+    "endTime": 53.22,
     "words": [
       {
         "word": "Mango",
         "start": 51.78,
-        "end": 52.12,
+        "end": 52.14,
         "spoken": true
       },
       {
         "word": "juice",
-        "start": 52.12,
+        "start": 52.14,
         "end": 52.54,
         "spoken": true
       },
@@ -969,18 +951,18 @@
       {
         "word": "the",
         "start": 52.8,
-        "end": 53.1,
+        "end": 53.12,
         "spoken": true
       },
       {
         "word": "stuff",
-        "start": 53.1,
-        "end": 53.2,
+        "start": 53.12,
+        "end": 53.22,
         "spoken": true
       }
     ],
     "time": 51.78,
-    "end": 53.2
+    "end": 53.22
   },
   {
     "text": "Grind it up, bust some blunts",
@@ -1008,12 +990,12 @@
       {
         "word": "bust",
         "start": 54.1,
-        "end": 54.4,
+        "end": 54.38,
         "spoken": true
       },
       {
         "word": "some",
-        "start": 54.4,
+        "start": 54.38,
         "end": 54.7,
         "spoken": true
       },
@@ -1041,12 +1023,12 @@
       {
         "word": "some",
         "start": 55.12,
-        "end": 55.38,
+        "end": 55.36,
         "spoken": true
       },
       {
         "word": "liquor",
-        "start": 55.38,
+        "start": 55.36,
         "end": 55.66,
         "spoken": true
       },
@@ -1073,7 +1055,7 @@
   {
     "text": "You can smoke, I'll get drunk",
     "startTime": 56.58,
-    "endTime": 58,
+    "endTime": 58.0,
     "words": [
       {
         "word": "You",
@@ -1106,12 +1088,12 @@
       {
         "word": "drunk",
         "start": 57.78,
-        "end": 58,
+        "end": 58.0,
         "spoken": true
       }
     ],
     "time": 56.58,
-    "end": 58
+    "end": 58.0
   },
   {
     "text": "And we'll bob to this jawn",
@@ -1166,24 +1148,24 @@
       {
         "word": "Better",
         "start": 59.58,
-        "end": 60.06,
+        "end": 60.04,
         "spoken": true
       },
       {
         "word": "see",
-        "start": 60.06,
+        "start": 60.172,
         "end": 60.26,
         "spoken": true
       },
       {
         "word": "you",
         "start": 60.26,
-        "end": 60.52,
+        "end": 60.5,
         "spoken": true
       },
       {
         "word": "walking",
-        "start": 60.52,
+        "start": 60.5,
         "end": 60.8,
         "spoken": true
       },
@@ -1200,7 +1182,7 @@
   {
     "text": "If you think that i'm a punk",
     "startTime": 61.2,
-    "endTime": 62.66,
+    "endTime": 62.78,
     "words": [
       {
         "word": "If",
@@ -1227,47 +1209,27 @@
       {
         "word": "i'm",
         "start": 62.1,
-        "end": 62.46,
+        "end": 62.44,
         "spoken": true
       },
       {
         "word": "a",
-        "start": 62.46,
+        "start": 62.44,
         "end": 62.62,
         "spoken": true
       },
       {
         "word": "punk",
         "start": 62.62,
-        "end": 62.66
+        "end": 62.78,
+        "spoken": true
       }
     ],
     "time": 61.2,
-    "end": 62.66
+    "end": 62.78
   },
   {
-    "text": "Hook: OmenXIII",
-    "startTime": 62.666,
-    "endTime": 62.958,
-    "words": [
-      {
-        "word": "Hook:",
-        "start": 62.666,
-        "end": 62.858,
-        "spoken": true
-      },
-      {
-        "word": "OmenXIII",
-        "start": 62.858,
-        "end": 62.958,
-        "spoken": true
-      }
-    ],
-    "time": 62.666,
-    "end": 62.958
-  },
-  {
-    "text": "'Cause i ain't a ain't fool",
+    "text": "'Cause i ain't a i fool",
     "startTime": 62.78,
     "endTime": 64.34,
     "words": [
@@ -1285,17 +1247,17 @@
       {
         "word": "ain't",
         "start": 63.3,
-        "end": 63.56,
+        "end": 63.54,
         "spoken": true
       },
       {
         "word": "a",
-        "start": 63.56,
+        "start": 63.54,
         "end": 63.7,
         "spoken": true
       },
       {
-        "word": "ain't",
+        "word": "i",
         "start": 63.7,
         "end": 63.96,
         "spoken": true
@@ -1454,12 +1416,12 @@
       {
         "word": "it's",
         "start": 69.8,
-        "end": 70,
+        "end": 69.98,
         "spoken": true
       },
       {
         "word": "just",
-        "start": 70,
+        "start": 69.98,
         "end": 70.14,
         "spoken": true
       },
@@ -1481,17 +1443,17 @@
   },
   {
     "text": "Please tell me what else is new",
-    "startTime": 70.7,
+    "startTime": 70.64,
     "endTime": 72.01,
     "words": [
       {
         "word": "Please",
-        "start": 70.77,
-        "end": 70.96
+        "start": 70.756,
+        "end": 70.94
       },
       {
         "word": "tell",
-        "start": 70.96,
+        "start": 70.94,
         "end": 71.1
       },
       {
@@ -1501,26 +1463,26 @@
       },
       {
         "word": "what",
-        "start": 71.34,
-        "end": 71.58
+        "start": 71.496,
+        "end": 71.6
       },
       {
         "word": "else",
-        "start": 71.58,
+        "start": 71.6,
         "end": 71.8
       },
       {
         "word": "is",
         "start": 71.8,
-        "end": 72
+        "end": 72.0
       },
       {
         "word": "new",
-        "start": 72,
+        "start": 72.0,
         "end": 72.01
       }
     ],
-    "time": 70.7,
+    "time": 70.64,
     "end": 72.01
   },
   {
@@ -1558,18 +1520,18 @@
       {
         "word": "These",
         "start": 72.88,
-        "end": 73.06,
+        "end": 73.08,
         "spoken": true
       },
       {
         "word": "stupid",
-        "start": 73.06,
-        "end": 73.4,
+        "start": 73.08,
+        "end": 73.42,
         "spoken": true
       },
       {
         "word": "people",
-        "start": 73.4,
+        "start": 73.42,
         "end": 73.82,
         "spoken": true
       },
@@ -1588,12 +1550,12 @@
       {
         "word": "paper",
         "start": 74.3,
-        "end": 74.6,
+        "end": 74.58,
         "spoken": true
       },
       {
         "word": "for",
-        "start": 74.72,
+        "start": 74.712,
         "end": 74.8,
         "spoken": true
       },
@@ -1646,7 +1608,7 @@
   {
     "text": "These stupid people take this paper for some food",
     "startTime": 79.22,
-    "endTime": 82,
+    "endTime": 82.02,
     "words": [
       {
         "word": "These",
@@ -1681,29 +1643,29 @@
       {
         "word": "paper",
         "start": 80.58,
-        "end": 80.92,
+        "end": 80.9,
         "spoken": true
       },
       {
         "word": "for",
-        "start": 80.92,
-        "end": 81.16,
+        "start": 80.9,
+        "end": 81.12,
         "spoken": true
       },
       {
         "word": "some",
-        "start": 81.23,
-        "end": 81.4,
+        "start": 81.12,
+        "end": 81.42,
         "spoken": true
       },
       {
         "word": "food",
-        "start": 81.493,
-        "end": 82
+        "start": 81.49,
+        "end": 82.02
       }
     ],
     "time": 79.22,
-    "end": 82
+    "end": 82.02
   },
   {
     "text": "But you see",
@@ -1713,11 +1675,12 @@
       {
         "word": "But",
         "start": 85.165,
-        "end": 85.18
+        "end": 85.265,
+        "spoken": true
       },
       {
         "word": "you",
-        "start": 85.18,
+        "start": 85.275,
         "end": 85.4,
         "spoken": true
       },
@@ -1739,12 +1702,12 @@
       {
         "word": "These",
         "start": 85.54,
-        "end": 85.74,
+        "end": 85.76,
         "spoken": true
       },
       {
         "word": "stupid",
-        "start": 85.74,
+        "start": 85.76,
         "end": 86.06,
         "spoken": true
       },
@@ -1769,12 +1732,12 @@
       {
         "word": "paper",
         "start": 86.98,
-        "end": 87.26,
+        "end": 87.24,
         "spoken": true
       },
       {
         "word": "for",
-        "start": 87.38,
+        "start": 87.372,
         "end": 87.46
       },
       {
@@ -1794,55 +1757,24 @@
     "end": 88.36
   },
   {
-    "text": "Verse 2: LiL PEEP",
-    "startTime": 88.695,
-    "endTime": 89.181,
-    "words": [
-      {
-        "word": "Verse",
-        "start": 88.695,
-        "end": 88.874,
-        "whisper": true
-      },
-      {
-        "word": "2:",
-        "start": 88.874,
-        "end": 88.974
-      },
-      {
-        "word": "LiL",
-        "start": 88.974,
-        "end": 89.081
-      },
-      {
-        "word": "PEEP",
-        "start": 89.081,
-        "end": 89.181
-      }
-    ],
-    "time": 88.695,
-    "end": 89.181
-  },
-  {
     "text": "Back to the head",
-    "startTime": 89.05,
+    "startTime": 88.5,
     "endTime": 89.788,
     "words": [
       {
         "word": "Back",
-        "start": 89.05,
-        "end": 89.15,
-        "spoken": true
+        "start": 88.5,
+        "end": 88.88
       },
       {
         "word": "to",
-        "start": 89.16,
-        "end": 89.22,
+        "start": 88.88,
+        "end": 89.2,
         "spoken": true
       },
       {
         "word": "the",
-        "start": 89.22,
+        "start": 89.2,
         "end": 89.44,
         "spoken": true
       },
@@ -1853,16 +1785,16 @@
         "spoken": true
       }
     ],
-    "time": 89.05,
+    "time": 88.5,
     "end": 89.788
   },
   {
-    "text": "pat i smoke it like i had to",
+    "text": "food i smoke it like i had to",
     "startTime": 89.788,
     "endTime": 91.37,
     "words": [
       {
-        "word": "pat",
+        "word": "food",
         "start": 89.788,
         "end": 89.96
       },
@@ -1889,13 +1821,12 @@
       {
         "word": "i",
         "start": 90.84,
-        "end": 91.06
+        "end": 91.0
       },
       {
         "word": "had",
-        "start": 91.06,
-        "end": 91.22,
-        "whisper": true
+        "start": 91.0,
+        "end": 91.22
       },
       {
         "word": "to",
@@ -1909,23 +1840,23 @@
   },
   {
     "text": "Cracks in my head",
-    "startTime": 91.62,
+    "startTime": 91.6,
     "endTime": 92.72,
     "words": [
       {
         "word": "Cracks",
-        "start": 91.62,
+        "start": 91.739,
         "end": 92.08
       },
       {
         "word": "in",
         "start": 92.08,
-        "end": 92.36,
+        "end": 92.34,
         "spoken": true
       },
       {
         "word": "my",
-        "start": 92.36,
+        "start": 92.34,
         "end": 92.62,
         "spoken": true
       },
@@ -1936,11 +1867,11 @@
         "spoken": true
       }
     ],
-    "time": 91.62,
+    "time": 91.6,
     "end": 92.72
   },
   {
-    "text": "Like a my statue",
+    "text": "Like a cracks statue",
     "startTime": 92.82,
     "endTime": 94.33,
     "words": [
@@ -1952,12 +1883,12 @@
       },
       {
         "word": "a",
-        "start": 93.248,
-        "end": 93.36
+        "start": 93.212,
+        "end": 93.3
       },
       {
-        "word": "my",
-        "start": 93.36,
+        "word": "cracks",
+        "start": 93.3,
         "end": 93.94,
         "spoken": true
       },
@@ -1982,12 +1913,12 @@
       },
       {
         "word": "to",
-        "start": 94.844,
-        "end": 94.94
+        "start": 94.832,
+        "end": 94.92
       },
       {
         "word": "back",
-        "start": 94.94,
+        "start": 94.92,
         "end": 95.18
       },
       {
@@ -2012,18 +1943,18 @@
     "end": 95.94
   },
   {
-    "text": "Spittin' out the lead barrel",
-    "startTime": 95.96,
+    "text": "Spittin' out the with barrel",
+    "startTime": 96.05,
     "endTime": 97.52,
     "words": [
       {
         "word": "Spittin'",
-        "start": 96.31,
-        "end": 96.56
+        "start": 96.096,
+        "end": 96.4
       },
       {
         "word": "out",
-        "start": 96.56,
+        "start": 96.4,
         "end": 96.66
       },
       {
@@ -2032,7 +1963,7 @@
         "end": 96.9
       },
       {
-        "word": "lead",
+        "word": "with",
         "start": 96.9,
         "end": 97.16
       },
@@ -2042,30 +1973,23 @@
         "end": 97.52
       }
     ],
-    "time": 95.96,
+    "time": 96.05,
     "end": 97.52
   },
   {
     "text": "Young white pharaoh",
-    "startTime": 97.68,
+    "startTime": 97.72,
     "endTime": 99.12,
     "words": [
       {
         "word": "Young",
-        "start": 98.005,
-        "end": 98.34,
-        "char_starts": [
-          98.005,
-          97.759,
-          97.882,
-          98.029,
-          98.195
-        ]
+        "start": 97.999,
+        "end": 98.34
       },
       {
         "word": "white",
         "start": 98.34,
-        "end": 98.673
+        "end": 98.72
       },
       {
         "word": "pharaoh",
@@ -2074,7 +1998,7 @@
         "spoken": true
       }
     ],
-    "time": 97.68,
+    "time": 97.72,
     "end": 99.12
   },
   {
@@ -2096,11 +2020,11 @@
       {
         "word": "back",
         "start": 99.68,
-        "end": 99.9
+        "end": 99.88
       },
       {
         "word": "of",
-        "start": 99.9,
+        "start": 99.88,
         "end": 100.12
       },
       {
@@ -2161,17 +2085,17 @@
   },
   {
     "text": "Copin' with the freezer",
-    "startTime": 102.83,
+    "startTime": 102.81,
     "endTime": 103.82,
     "words": [
       {
         "word": "Copin'",
-        "start": 102.876,
-        "end": 103.18
+        "start": 102.856,
+        "end": 103.16
       },
       {
         "word": "with",
-        "start": 103.18,
+        "start": 103.16,
         "end": 103.4
       },
       {
@@ -2187,28 +2111,28 @@
         "spoken": true
       }
     ],
-    "time": 102.83,
+    "time": 102.81,
     "end": 103.82
   },
   {
     "text": "With the coats made of geese",
     "startTime": 103.84,
-    "endTime": 105.62,
+    "endTime": 105.64,
     "words": [
       {
         "word": "With",
         "start": 103.91,
-        "end": 104.18
+        "end": 104.2
       },
       {
         "word": "the",
-        "start": 104.348,
-        "end": 104.46,
+        "start": 104.344,
+        "end": 104.44,
         "spoken": true
       },
       {
         "word": "coats",
-        "start": 104.46,
+        "start": 104.44,
         "end": 104.72
       },
       {
@@ -2225,27 +2149,22 @@
       {
         "word": "geese",
         "start": 105.2,
-        "end": 105.62,
+        "end": 105.64,
         "spoken": true
       }
     ],
     "time": 103.84,
-    "end": 105.62
+    "end": 105.64
   },
   {
     "text": "Can you feel my energy",
-    "startTime": 105.64,
+    "startTime": 105.66,
     "endTime": 107.07,
     "words": [
       {
         "word": "Can",
-        "start": 105.895,
-        "end": 106.12,
-        "char_starts": [
-          105.895,
-          105.787,
-          106.014
-        ]
+        "start": 105.892,
+        "end": 106.12
       },
       {
         "word": "you",
@@ -2270,13 +2189,13 @@
         "spoken": true
       }
     ],
-    "time": 105.64,
+    "time": 105.66,
     "end": 107.07
   },
   {
     "text": "It's floatin' in the breeze",
     "startTime": 107.12,
-    "endTime": 109.05,
+    "endTime": 108.98,
     "words": [
       {
         "word": "It's",
@@ -2291,33 +2210,27 @@
       {
         "word": "in",
         "start": 107.82,
-        "end": 108.16
+        "end": 108.18
       },
       {
         "word": "the",
-        "start": 108.299,
-        "end": 108.96,
-        "char_starts": [
-          108.299,
-          108.345,
-          108.72
-        ],
-        "whisper": true
+        "start": 108.18,
+        "end": 108.38
       },
       {
         "word": "breeze",
-        "start": 108.96,
-        "end": 109.05,
+        "start": 108.38,
+        "end": 108.98,
         "whisper": true
       }
     ],
     "time": 107.12,
-    "end": 109.05
+    "end": 108.98
   },
   {
     "text": "Growin' with the trees",
     "startTime": 109.064,
-    "endTime": 110.269,
+    "endTime": 110.26,
     "words": [
       {
         "word": "Growin'",
@@ -2339,27 +2252,21 @@
       {
         "word": "trees",
         "start": 109.96,
-        "end": 110.269
+        "end": 110.26
       }
     ],
     "time": 109.064,
-    "end": 110.269
+    "end": 110.26
   },
   {
     "text": "Wake up in the morning",
-    "startTime": 110.26,
+    "startTime": 110.28,
     "endTime": 111.67,
     "words": [
       {
         "word": "Wake",
-        "start": 110.61,
-        "end": 110.9,
-        "char_starts": [
-          110.61,
-          110.337,
-          110.494,
-          110.708
-        ]
+        "start": 110.63,
+        "end": 110.9
       },
       {
         "word": "up",
@@ -2370,12 +2277,12 @@
       {
         "word": "in",
         "start": 111.16,
-        "end": 111.34,
-        "whisper": true
+        "end": 111.32,
+        "spoken": true
       },
       {
         "word": "the",
-        "start": 111.34,
+        "start": 111.32,
         "end": 111.52,
         "spoken": true
       },
@@ -2386,7 +2293,7 @@
         "spoken": true
       }
     ],
-    "time": 110.26,
+    "time": 110.28,
     "end": 111.67
   },
   {
@@ -2437,41 +2344,41 @@
   },
   {
     "text": "Take away my pain",
-    "startTime": 113.64,
+    "startTime": 113.66,
     "endTime": 114.85,
     "words": [
       {
         "word": "Take",
-        "start": 113.803,
-        "end": 114,
+        "start": 113.823,
+        "end": 114.0,
         "spoken": true
       },
       {
         "word": "away",
-        "start": 114,
-        "end": 114.34,
+        "start": 114.0,
+        "end": 114.32,
         "spoken": true
       },
       {
         "word": "my",
-        "start": 114.34,
-        "end": 114.64,
+        "start": 114.32,
+        "end": 114.62,
         "spoken": true
       },
       {
         "word": "pain",
-        "start": 114.64,
+        "start": 114.62,
         "end": 114.85,
         "spoken": true
       }
     ],
-    "time": 113.64,
+    "time": 113.66,
     "end": 114.85
   },
   {
     "text": "Feel my body up with love",
     "startTime": 114.863,
-    "endTime": 116.46,
+    "endTime": 116.465,
     "words": [
       {
         "word": "Feel",
@@ -2482,63 +2389,63 @@
       {
         "word": "my",
         "start": 115.14,
-        "end": 115.46,
+        "end": 115.48,
         "spoken": true
       },
       {
         "word": "body",
-        "start": 115.46,
-        "end": 115.78,
+        "start": 115.48,
+        "end": 115.76,
         "spoken": true
       },
       {
         "word": "up",
-        "start": 115.78,
-        "end": 116.04,
+        "start": 115.76,
+        "end": 116.02,
         "spoken": true
       },
       {
         "word": "with",
-        "start": 116.04,
+        "start": 116.02,
         "end": 116.18,
         "spoken": true
       },
       {
         "word": "love",
         "start": 116.18,
-        "end": 116.46,
+        "end": 116.465,
         "spoken": true
       }
     ],
     "time": 114.863,
-    "end": 116.46
+    "end": 116.465
   },
   {
     "text": "See you landed in my bed",
-    "startTime": 116.48,
+    "startTime": 116.46,
     "endTime": 118.03,
     "words": [
       {
         "word": "See",
-        "start": 116.48,
+        "start": 116.46,
         "end": 116.72,
         "spoken": true
       },
       {
         "word": "you",
-        "start": 116.888,
-        "end": 117,
+        "start": 116.924,
+        "end": 117.06,
         "spoken": true
       },
       {
         "word": "landed",
-        "start": 117,
-        "end": 117.28,
+        "start": 117.06,
+        "end": 117.3,
         "spoken": true
       },
       {
         "word": "in",
-        "start": 117.28,
+        "start": 117.3,
         "end": 117.56,
         "spoken": true
       },
@@ -2555,7 +2462,7 @@
         "spoken": true
       }
     ],
-    "time": 116.48,
+    "time": 116.46,
     "end": 118.03
   },
   {
@@ -2599,57 +2506,57 @@
   },
   {
     "text": "Every time you give me head",
-    "startTime": 119.76,
+    "startTime": 119.74,
     "endTime": 121.15,
     "words": [
       {
         "word": "Every",
-        "start": 119.923,
+        "start": 119.926,
         "end": 120.16,
         "sung": true
       },
       {
         "word": "time",
         "start": 120.16,
-        "end": 120.34,
+        "end": 120.32,
         "spoken": true
       },
       {
         "word": "you",
-        "start": 120.34,
-        "end": 120.58,
+        "start": 120.32,
+        "end": 120.56,
         "spoken": true
       },
       {
         "word": "give",
-        "start": 120.58,
-        "end": 120.72,
+        "start": 120.56,
+        "end": 120.7,
         "spoken": true
       },
       {
         "word": "me",
-        "start": 120.72,
-        "end": 121,
+        "start": 120.7,
+        "end": 121.0,
         "spoken": true
       },
       {
         "word": "head",
-        "start": 121,
+        "start": 121.0,
         "end": 121.15,
         "spoken": true
       }
     ],
-    "time": 119.76,
+    "time": 119.74,
     "end": 121.15
   },
   {
     "text": "Got my body goin' numb",
-    "startTime": 121.26,
+    "startTime": 121.22,
     "endTime": 122.74,
     "words": [
       {
         "word": "Got",
-        "start": 121.26,
+        "start": 121.22,
         "end": 121.44,
         "spoken": true
       },
@@ -2668,33 +2575,33 @@
       {
         "word": "goin'",
         "start": 122.159,
-        "end": 122.427,
+        "end": 122.46,
         "spoken": true
       },
       {
         "word": "numb",
-        "start": 122.437,
+        "start": 122.46,
         "end": 122.74,
         "spoken": true
       }
     ],
-    "time": 121.26,
+    "time": 121.22,
     "end": 122.74
   },
   {
     "text": "See, you probably in your bed",
-    "startTime": 122.82,
+    "startTime": 122.84,
     "endTime": 124.25,
     "words": [
       {
         "word": "See,",
-        "start": 122.82,
-        "end": 123.14,
+        "start": 122.84,
+        "end": 123.18,
         "spoken": true
       },
       {
         "word": "you",
-        "start": 123.284,
+        "start": 123.3,
         "end": 123.38,
         "spoken": true
       },
@@ -2713,17 +2620,17 @@
       {
         "word": "your",
         "start": 123.9,
-        "end": 124.14,
+        "end": 124.16,
         "spoken": true
       },
       {
         "word": "bed",
-        "start": 124.14,
+        "start": 124.16,
         "end": 124.25,
         "spoken": true
       }
     ],
-    "time": 122.82,
+    "time": 122.84,
     "end": 124.25
   },
   {
@@ -2746,18 +2653,18 @@
       {
         "word": "probably",
         "start": 124.96,
-        "end": 125.2,
+        "end": 125.18,
         "spoken": true
       },
       {
         "word": "goin'",
-        "start": 125.316,
-        "end": 125.66,
+        "start": 125.296,
+        "end": 125.68,
         "spoken": true
       },
       {
         "word": "dumb",
-        "start": 125.66,
+        "start": 125.68,
         "end": 125.96,
         "spoken": true
       }
@@ -2768,29 +2675,29 @@
   {
     "text": "On these beats",
     "startTime": 125.98,
-    "endTime": 127.06,
+    "endTime": 127.02,
     "words": [
       {
         "word": "On",
         "start": 126.05,
-        "end": 126.24,
+        "end": 126.22,
         "spoken": true
       },
       {
         "word": "these",
-        "start": 126.372,
-        "end": 126.46,
+        "start": 126.22,
+        "end": 126.42,
         "spoken": true
       },
       {
         "word": "beats",
-        "start": 126.46,
-        "end": 127.06,
+        "start": 126.42,
+        "end": 127.02,
         "spoken": true
       }
     ],
     "time": 125.98,
-    "end": 127.06
+    "end": 127.02
   },
   {
     "text": "Swervin' thru the streets",
@@ -2827,18 +2734,18 @@
   },
   {
     "text": "Flip a couple packs",
-    "startTime": 128.44,
-    "endTime": 129.78,
+    "startTime": 128.5,
+    "endTime": 129.76,
     "words": [
       {
         "word": "Flip",
-        "start": 128.44,
-        "end": 129,
+        "start": 128.5,
+        "end": 129.0,
         "spoken": true
       },
       {
         "word": "a",
-        "start": 129,
+        "start": 129.0,
         "end": 129.26,
         "spoken": true
       },
@@ -2850,67 +2757,67 @@
       },
       {
         "word": "packs",
-        "start": 129.639,
-        "end": 129.78,
+        "start": 129.616,
+        "end": 129.76,
         "spoken": true
       }
     ],
-    "time": 128.44,
-    "end": 129.78
+    "time": 128.5,
+    "end": 129.76
   },
   {
     "text": "And keep applying with the heat",
-    "startTime": 129.8,
-    "endTime": 131.86,
+    "startTime": 129.78,
+    "endTime": 131.84,
     "words": [
       {
         "word": "And",
-        "start": 129.8,
-        "end": 130,
+        "start": 129.78,
+        "end": 130.0,
         "spoken": true
       },
       {
         "word": "keep",
-        "start": 130,
+        "start": 130.0,
         "end": 130.24,
         "spoken": true
       },
       {
         "word": "applying",
         "start": 130.24,
-        "end": 130.66,
+        "end": 130.64,
         "spoken": true
       },
       {
         "word": "with",
-        "start": 130.66,
-        "end": 130.98,
+        "start": 130.64,
+        "end": 131.0,
         "spoken": true
       },
       {
         "word": "the",
-        "start": 130.98,
+        "start": 131.0,
         "end": 131.24,
         "spoken": true
       },
       {
         "word": "heat",
         "start": 131.24,
-        "end": 131.86,
+        "end": 131.84,
         "spoken": true
       }
     ],
-    "time": 129.8,
-    "end": 131.86
+    "time": 129.78,
+    "end": 131.84
   },
   {
     "text": "Pressure cooker Peep",
-    "startTime": 131.86,
+    "startTime": 131.84,
     "endTime": 133.26,
     "words": [
       {
         "word": "Pressure",
-        "start": 131.93,
+        "start": 131.933,
         "end": 132.34,
         "spoken": true
       },
@@ -2927,13 +2834,13 @@
         "spoken": true
       }
     ],
-    "time": 131.86,
+    "time": 131.84,
     "end": 133.26
   },
   {
     "text": "Steppin' on your feet",
     "startTime": 133.49,
-    "endTime": 134.86,
+    "endTime": 134.84,
     "words": [
       {
         "word": "Steppin'",
@@ -2955,22 +2862,22 @@
       },
       {
         "word": "feet",
-        "start": 134.668,
-        "end": 134.86,
+        "start": 134.656,
+        "end": 134.84,
         "spoken": true
       }
     ],
     "time": 133.49,
-    "end": 134.86
+    "end": 134.84
   },
   {
     "text": "Tell em rest in peace",
-    "startTime": 134.88,
-    "endTime": 136.349,
+    "startTime": 134.86,
+    "endTime": 136.08,
     "words": [
       {
         "word": "Tell",
-        "start": 134.88,
+        "start": 134.86,
         "end": 135.34,
         "spoken": true
       },
@@ -2989,26 +2896,27 @@
       {
         "word": "in",
         "start": 135.903,
-        "end": 135.961
+        "end": 135.961,
+        "spoken": true
       },
       {
         "word": "peace",
         "start": 135.971,
-        "end": 136.349,
+        "end": 136.08,
         "spoken": true
       }
     ],
-    "time": 134.88,
-    "end": 136.349
+    "time": 134.86,
+    "end": 136.08
   },
   {
     "text": "Cut your body to a piece, you deceased",
-    "startTime": 136.38,
-    "endTime": 138.45,
+    "startTime": 136.1,
+    "endTime": 138.52,
     "words": [
       {
         "word": "Cut",
-        "start": 136.38,
+        "start": 136.1,
         "end": 136.44,
         "spoken": true
       },
@@ -3021,12 +2929,12 @@
       {
         "word": "body",
         "start": 136.74,
-        "end": 136.96,
+        "end": 136.98,
         "spoken": true
       },
       {
         "word": "to",
-        "start": 137.123,
+        "start": 137.119,
         "end": 137.3,
         "spoken": true
       },
@@ -3039,77 +2947,51 @@
       {
         "word": "piece,",
         "start": 137.54,
-        "end": 137.66,
+        "end": 137.7,
         "spoken": true
       },
       {
         "word": "you",
-        "start": 137.888,
-        "end": 138.04,
+        "start": 137.909,
+        "end": 138.08,
         "spoken": true
       },
       {
         "word": "deceased",
-        "start": 138.04,
-        "end": 138.45,
+        "start": 138.08,
+        "end": 138.52,
         "spoken": true
       }
     ],
-    "time": 136.38,
-    "end": 138.45
+    "time": 136.1,
+    "end": 138.52
   },
   {
-    "text": "Hook: LiL PEEP",
-    "startTime": 138.463,
-    "endTime": 138.91,
-    "words": [
-      {
-        "word": "Hook:",
-        "start": 138.463,
-        "end": 138.671,
-        "spoken": true
-      },
-      {
-        "word": "LiL",
-        "start": 138.671,
-        "end": 138.796,
-        "spoken": true
-      },
-      {
-        "word": "PEEP",
-        "start": 138.796,
-        "end": 138.91,
-        "spoken": true
-      }
-    ],
-    "time": 138.463,
-    "end": 138.91
-  },
-  {
-    "text": "Yellin' a I ain't a fool",
+    "text": "Yellin' body I ain't a fool",
     "startTime": 138.917,
     "endTime": 140.06,
     "words": [
       {
         "word": "Yellin'",
-        "start": 139.097,
-        "end": 139.217,
+        "start": 139.048,
+        "end": 139.135,
         "spoken": true
       },
       {
-        "word": "a",
-        "start": 139.217,
-        "end": 139.26
+        "word": "body",
+        "start": 139.135,
+        "end": 139.26,
+        "spoken": true
       },
       {
         "word": "I",
         "start": 139.26,
-        "end": 139.46,
+        "end": 139.44,
         "spoken": true
       },
       {
         "word": "ain't",
-        "start": 139.46,
+        "start": 139.44,
         "end": 139.72,
         "spoken": true
       },
@@ -3143,28 +3025,28 @@
       {
         "word": "i",
         "start": 140.42,
-        "end": 140.62,
+        "end": 140.64,
         "spoken": true
       },
       {
         "word": "just",
-        "start": 140.62,
-        "end": 141,
+        "start": 140.64,
+        "end": 140.98,
         "spoken": true
       },
       {
         "word": "ain't",
-        "start": 141,
-        "end": 141.38
+        "start": 140.98,
+        "end": 141.34
       },
       {
         "word": "you",
-        "start": 141.473,
+        "start": 141.456,
         "end": 141.56,
         "char_starts": [
-          141.473,
-          141.5,
-          141.745
+          141.456,
+          141.47,
+          141.733
         ],
         "spoken": true
       }
@@ -3179,13 +3061,13 @@
     "words": [
       {
         "word": "You",
-        "start": 141.832,
-        "end": 142,
+        "start": 141.844,
+        "end": 142.02,
         "spoken": true
       },
       {
         "word": "the",
-        "start": 142,
+        "start": 142.02,
         "end": 142.24,
         "spoken": true
       },
@@ -3204,12 +3086,12 @@
       {
         "word": "take",
         "start": 142.6,
-        "end": 142.76,
+        "end": 142.74,
         "spoken": true
       },
       {
         "word": "the",
-        "start": 142.76,
+        "start": 142.74,
         "end": 143.04,
         "spoken": true
       },
@@ -3225,30 +3107,30 @@
   },
   {
     "text": "I'm the type to take the blue",
-    "startTime": 143.38,
+    "startTime": 143.4,
     "endTime": 144.74,
     "words": [
       {
         "word": "I'm",
-        "start": 143.38,
+        "start": 143.4,
         "end": 143.68,
         "spoken": true
       },
       {
         "word": "the",
         "start": 143.68,
-        "end": 143.78,
+        "end": 143.8,
         "spoken": true
       },
       {
         "word": "type",
-        "start": 143.78,
-        "end": 144,
+        "start": 143.8,
+        "end": 143.98,
         "spoken": true
       },
       {
         "word": "to",
-        "start": 144,
+        "start": 143.98,
         "end": 144.12,
         "spoken": true
       },
@@ -3270,7 +3152,7 @@
         "end": 144.74
       }
     ],
-    "time": 143.38,
+    "time": 143.4,
     "end": 144.74
   },
   {
@@ -3297,12 +3179,12 @@
       {
         "word": "it's",
         "start": 145.54,
-        "end": 145.72,
+        "end": 145.74,
         "spoken": true
       },
       {
         "word": "just",
-        "start": 145.72,
+        "start": 145.74,
         "end": 145.96,
         "spoken": true
       },
@@ -3345,11 +3227,11 @@
       {
         "word": "out",
         "start": 147.38,
-        "end": 147.48
+        "end": 147.5
       },
       {
         "word": "my",
-        "start": 147.48,
+        "start": 147.5,
         "end": 147.76
       },
       {
@@ -3364,12 +3246,12 @@
   },
   {
     "text": "But you see",
-    "startTime": 147.98,
+    "startTime": 148.0,
     "endTime": 148.75,
     "words": [
       {
         "word": "But",
-        "start": 147.98,
+        "start": 148.0,
         "end": 148.28,
         "spoken": true
       },
@@ -3386,7 +3268,7 @@
         "spoken": true
       }
     ],
-    "time": 147.98,
+    "time": 148.0,
     "end": 148.75
   },
   {
@@ -3427,12 +3309,12 @@
       {
         "word": "paper",
         "start": 150.08,
-        "end": 150.36,
+        "end": 150.34,
         "spoken": true
       },
       {
         "word": "for",
-        "start": 150.516,
+        "start": 150.508,
         "end": 150.62,
         "spoken": true
       },
@@ -3454,141 +3336,56 @@
   },
   {
     "text": "But you see",
-    "startTime": 151.361,
-    "endTime": 152.397,
+    "startTime": 154.1,
+    "endTime": 154.86,
     "words": [
       {
         "word": "But",
-        "start": 151.361,
-        "end": 151.706,
+        "start": 154.1,
+        "end": 154.62,
+        "char_starts": [
+          154.1,
+          154.259,
+          154.506
+        ],
         "spoken": true
       },
       {
         "word": "you",
-        "start": 151.706,
-        "end": 152.052,
-        "spoken": true
-      },
-      {
-        "word": "see",
-        "start": 152.052,
-        "end": 152.397,
-        "spoken": true
-      }
-    ],
-    "time": 151.361,
-    "end": 152.397
-  },
-  {
-    "text": "These stupid people take this paper for some food",
-    "startTime": 154.16,
-    "endTime": 155.06,
-    "words": [
-      {
-        "word": "These",
-        "start": 154.16,
-        "end": 154.26,
-        "spoken": true
-      },
-      {
-        "word": "stupid",
-        "start": 154.26,
-        "end": 154.36,
-        "spoken": true
-      },
-      {
-        "word": "people",
-        "start": 154.36,
-        "end": 154.46,
-        "spoken": true
-      },
-      {
-        "word": "take",
-        "start": 154.46,
-        "end": 154.56,
-        "spoken": true
-      },
-      {
-        "word": "this",
-        "start": 154.56,
-        "end": 154.66,
-        "spoken": true
-      },
-      {
-        "word": "paper",
-        "start": 154.66,
+        "start": 154.62,
         "end": 154.76,
         "spoken": true
       },
       {
-        "word": "for",
+        "word": "see",
         "start": 154.76,
         "end": 154.86,
         "spoken": true
-      },
-      {
-        "word": "some",
-        "start": 154.86,
-        "end": 154.96,
-        "spoken": true
-      },
-      {
-        "word": "food",
-        "start": 154.96,
-        "end": 155.06,
-        "spoken": true
       }
     ],
-    "time": 154.16,
-    "end": 155.06
-  },
-  {
-    "text": "But you see",
-    "startTime": 154.16,
-    "endTime": 154.94,
-    "words": [
-      {
-        "word": "But",
-        "start": 154.448,
-        "end": 154.64,
-        "spoken": true
-      },
-      {
-        "word": "you",
-        "start": 154.64,
-        "end": 154.76,
-        "spoken": true
-      },
-      {
-        "word": "see",
-        "start": 154.76,
-        "end": 154.94,
-        "spoken": true
-      }
-    ],
-    "time": 154.16,
-    "end": 154.94
+    "time": 154.1,
+    "end": 154.86
   },
   {
     "text": "These stupid people take this paper for some food",
-    "startTime": 154.96,
-    "endTime": 157.44,
+    "startTime": 154.98,
+    "endTime": 157.32,
     "words": [
       {
         "word": "These",
-        "start": 154.96,
-        "end": 155.22,
+        "start": 154.98,
+        "end": 155.24,
         "spoken": true
       },
       {
         "word": "stupid",
-        "start": 155.266,
+        "start": 155.24,
         "end": 155.54,
         "spoken": true
       },
       {
         "word": "people",
-        "start": 155.726,
+        "start": 155.703,
         "end": 155.94,
         "spoken": true
       },
@@ -3625,94 +3422,175 @@
       {
         "word": "food",
         "start": 157.22,
-        "end": 157.44
+        "end": 157.32
       }
     ],
-    "time": 154.96,
-    "end": 157.44
+    "time": 154.98,
+    "end": 157.32
+  },
+  {
+    "text": "But you see",
+    "startTime": 154.729,
+    "endTime": 155.162,
+    "words": [
+      {
+        "word": "But",
+        "start": 154.729,
+        "end": 154.896,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 154.896,
+        "end": 155.062,
+        "spoken": true
+      },
+      {
+        "word": "see",
+        "start": 155.062,
+        "end": 155.162,
+        "spoken": true
+      }
+    ],
+    "time": 154.729,
+    "end": 155.162
+  },
+  {
+    "text": "These stupid people take this paper for some food",
+    "startTime": 155.044,
+    "endTime": 157.79,
+    "words": [
+      {
+        "word": "These",
+        "start": 155.246,
+        "end": 155.38,
+        "spoken": true
+      },
+      {
+        "word": "stupid",
+        "start": 155.622,
+        "end": 155.784,
+        "spoken": true
+      },
+      {
+        "word": "people",
+        "start": 155.784,
+        "end": 156.188,
+        "spoken": true
+      },
+      {
+        "word": "take",
+        "start": 156.188,
+        "end": 156.457,
+        "spoken": true
+      },
+      {
+        "word": "this",
+        "start": 156.457,
+        "end": 156.726,
+        "spoken": true
+      },
+      {
+        "word": "paper",
+        "start": 156.726,
+        "end": 157.062,
+        "spoken": true
+      },
+      {
+        "word": "for",
+        "start": 157.062,
+        "end": 157.264,
+        "spoken": true
+      },
+      {
+        "word": "some",
+        "start": 157.425,
+        "end": 157.533
+      },
+      {
+        "word": "food",
+        "start": 157.533,
+        "end": 157.79
+      }
+    ],
+    "time": 155.044,
+    "end": 157.79
   },
   {
     "text": "Sippin' boba on the rocks got the ? too",
-    "startTime": 157.46,
+    "startTime": 157.802,
     "endTime": 160.64,
     "words": [
       {
         "word": "Sippin'",
-        "start": 157.81,
-        "end": 158.12,
-        "char_starts": [
-          157.81,
-          157.506,
-          157.577,
-          157.662,
-          157.758,
-          157.862,
-          157.975
-        ]
+        "start": 157.802,
+        "end": 157.9,
+        "whisper": true
       },
       {
         "word": "boba",
-        "start": 158.12,
+        "start": 158.039,
         "end": 158.34,
         "spoken": true
       },
       {
         "word": "on",
         "start": 158.34,
-        "end": 158.62,
+        "end": 158.64,
         "spoken": true
       },
       {
         "word": "the",
-        "start": 158.62,
+        "start": 158.64,
         "end": 158.9,
         "spoken": true
       },
       {
         "word": "rocks",
         "start": 158.9,
-        "end": 159.22,
+        "end": 159.08,
         "spoken": true
       },
       {
         "word": "got",
-        "start": 159.22,
-        "end": 159.36
+        "start": 159.08,
+        "end": 159.34,
+        "spoken": true
       },
       {
         "word": "the",
-        "start": 159.54,
+        "start": 159.532,
         "end": 159.66
       },
       {
         "word": "?",
-        "start": 160.008,
-        "end": 160.3
+        "start": 159.985,
+        "end": 160.28
       },
       {
         "word": "too",
-        "start": 160.3,
+        "start": 160.28,
         "end": 160.64,
         "spoken": true
       }
     ],
-    "time": 157.46,
+    "time": 157.802,
     "end": 160.64
   },
   {
     "text": "In the East, in the West",
-    "startTime": 160.62,
+    "startTime": 160.6,
     "endTime": 162.3,
     "words": [
       {
         "word": "In",
-        "start": 160.62,
-        "end": 161,
+        "start": 160.6,
+        "end": 160.98,
         "spoken": true
       },
       {
         "word": "the",
-        "start": 161,
+        "start": 160.98,
         "end": 161.18,
         "spoken": true
       },
@@ -3731,17 +3609,17 @@
       {
         "word": "the",
         "start": 161.8,
-        "end": 162,
+        "end": 162.02,
         "spoken": true
       },
       {
         "word": "West",
-        "start": 162,
+        "start": 162.02,
         "end": 162.3,
         "spoken": true
       }
     ],
-    "time": 160.62,
+    "time": 160.6,
     "end": 162.3
   },
   {
@@ -3763,14 +3641,15 @@
       },
       {
         "word": "We",
-        "start": 162.9,
-        "end": 163.12,
+        "start": 163.044,
+        "end": 163.14,
         "spoken": true
       },
       {
         "word": "comin'",
-        "start": 163.12,
-        "end": 163.42
+        "start": 163.14,
+        "end": 163.42,
+        "spoken": true
       },
       {
         "word": "through",

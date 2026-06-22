@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T16:59:48.363433+00:00",
+  "generatedAt": "2026-06-22T17:10:13.456379+00:00",
   "totalTracks": 748,
   "roots": [
     "lyrics-db/tracks"
@@ -10374,20 +10374,6 @@
       "sourcePath": "https://soundcloud.com/lil_peep/right-here-w-horse-head-prod-nedarb",
       "mtimeMs": 1781810358705
     },
-    "☆lil peep☆::never sober (prod. mikey the magician)": {
-      "title": "never sober (prod. mikey the magician)",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - never sober (prod. mikey the magician)",
-      "source": "Modal align_from_file",
-      "file": "tracks/lil-peep-never-sober-prod-mikey-the-magician-acd359b98cdc.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-never-sober-prod-mikey-the-magician-acd359b98cdc.json",
-        "meta": "tracks/lil-peep-never-sober-prod-mikey-the-magician-acd359b98cdc.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/trapgooose/never-sober-prod-mikey-the",
-      "mtimeMs": 1781868650587
-    },
     "lil peep::lil peep & harry fraud - old me": {
       "title": "Lil Peep & Harry Fraud - Old Me",
       "artist": "Lil Peep",
@@ -10513,6 +10499,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/white-tee-w-yung-bruh-prod-nedarb",
       "mtimeMs": 1782147589488
+    },
+    "☆lil peep☆::never sober (prod. mikey the magician)": {
+      "title": "never sober (prod. mikey the magician)",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - never sober (prod. mikey the magician)",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-never-sober-prod-mikey-the-magician-acd359b98cdc.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-never-sober-prod-mikey-the-magician-acd359b98cdc.json",
+        "meta": "tracks/lil-peep-never-sober-prod-mikey-the-magician-acd359b98cdc.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/trapgooose/never-sober-prod-mikey-the",
+      "mtimeMs": 1782148213987
     }
   },
   "tracks": [
@@ -20905,20 +20905,6 @@
       "mtimeMs": 1781810358705
     },
     {
-      "title": "never sober (prod. mikey the magician)",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - never sober (prod. mikey the magician)",
-      "source": "Modal align_from_file",
-      "file": "tracks/lil-peep-never-sober-prod-mikey-the-magician-acd359b98cdc.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-never-sober-prod-mikey-the-magician-acd359b98cdc.json",
-        "meta": "tracks/lil-peep-never-sober-prod-mikey-the-magician-acd359b98cdc.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/trapgooose/never-sober-prod-mikey-the",
-      "mtimeMs": 1781868650587
-    },
-    {
       "title": "Lil Peep & Harry Fraud - Old Me",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - Lil Peep & Harry Fraud - Old Me",
@@ -21043,6 +21029,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/white-tee-w-yung-bruh-prod-nedarb",
       "mtimeMs": 1782147589488
+    },
+    {
+      "title": "never sober (prod. mikey the magician)",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - never sober (prod. mikey the magician)",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-never-sober-prod-mikey-the-magician-acd359b98cdc.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-never-sober-prod-mikey-the-magician-acd359b98cdc.json",
+        "meta": "tracks/lil-peep-never-sober-prod-mikey-the-magician-acd359b98cdc.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/trapgooose/never-sober-prod-mikey-the",
+      "mtimeMs": 1782148213987
     }
   ]
 }

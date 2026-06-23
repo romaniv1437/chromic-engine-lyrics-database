@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-23T18:20:34.726702+00:00",
-  "totalTracks": 752,
+  "generatedAt": "2026-06-23T19:32:28.659948+00:00",
+  "totalTracks": 753,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10569,6 +10569,20 @@
       },
       "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
       "mtimeMs": 1782238835239
+    },
+    "ibeantrill::lil peep pray i die": {
+      "title": "Lil Peep Pray I Die",
+      "artist": "ibeantrill",
+      "originalTrackName": "ibeantrill - Lil Peep Pray I Die",
+      "source": "syncedlyrics",
+      "file": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
+      "files": {
+        "lyrics": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
+        "meta": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1keith/lil-peep-pray-i-die",
+      "mtimeMs": 1782243149407
     }
   },
   "tracks": [
@@ -21155,6 +21169,20 @@
       },
       "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
       "mtimeMs": 1782238835239
+    },
+    {
+      "title": "Lil Peep Pray I Die",
+      "artist": "ibeantrill",
+      "originalTrackName": "ibeantrill - Lil Peep Pray I Die",
+      "source": "syncedlyrics",
+      "file": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
+      "files": {
+        "lyrics": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
+        "meta": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1keith/lil-peep-pray-i-die",
+      "mtimeMs": 1782243149407
     }
   ]
 }

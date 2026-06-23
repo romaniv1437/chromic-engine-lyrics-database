@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-23T09:14:49.892749+00:00",
-  "totalTracks": 750,
+  "generatedAt": "2026-06-23T14:19:59.486092+00:00",
+  "totalTracks": 751,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10541,6 +10541,20 @@
       },
       "sourcePath": "https://soundcloud.com/b-a-s-i-l-516407819/hafiz-tahir-qadri-1500-sala",
       "mtimeMs": 1782206090646
+    },
+    "☆lil peep☆::gbc": {
+      "title": "GBC",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - GBC",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-gbc-cdf9dde9e9b4.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-gbc-cdf9dde9e9b4.json",
+        "meta": "tracks/lil-peep-gbc-cdf9dde9e9b4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/gooseyhoe/gbc",
+      "mtimeMs": 1782224400105
     }
   },
   "tracks": [
@@ -21099,6 +21113,20 @@
       },
       "sourcePath": "https://soundcloud.com/b-a-s-i-l-516407819/hafiz-tahir-qadri-1500-sala",
       "mtimeMs": 1782206090646
+    },
+    {
+      "title": "GBC",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - GBC",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-gbc-cdf9dde9e9b4.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-gbc-cdf9dde9e9b4.json",
+        "meta": "tracks/lil-peep-gbc-cdf9dde9e9b4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/gooseyhoe/gbc",
+      "mtimeMs": 1782224400105
     }
   ]
 }

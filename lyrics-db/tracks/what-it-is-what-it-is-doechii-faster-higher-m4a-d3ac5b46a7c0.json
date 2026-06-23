@@ -891,7 +891,7 @@
       {
         "word": "Every",
         "start": 42.9,
-        "end": 43.0,
+        "end": 43,
         "spoken": true,
         "singer": "singer1"
       },
@@ -1276,7 +1276,7 @@
       },
       {
         "word": "up,",
-        "start": 59.0,
+        "start": 59,
         "end": 59.1,
         "spoken": true,
         "singer": "singer1"
@@ -1459,7 +1459,7 @@
       },
       {
         "word": "stuck",
-        "start": 65.0,
+        "start": 65,
         "end": 65.1,
         "singer": "singer2"
       }
@@ -2327,7 +2327,7 @@
   {
     "text": "Every block boy needs a little love (love)",
     "startTime": 96.13,
-    "endTime": 97.0,
+    "endTime": 97,
     "words": [
       {
         "word": "Every",
@@ -2374,13 +2374,13 @@
       {
         "word": "(love)",
         "start": 96.9,
-        "end": 97.0,
+        "end": 97,
         "adlib": true,
         "singer": "singer2"
       }
     ],
     "time": 96.13,
-    "end": 97.0
+    "end": 97
   },
   {
     "text": "If you put it down, I'ma pick it up, up (ayy), up (ayy)",
@@ -2588,7 +2588,7 @@
       },
       {
         "word": "me",
-        "start": 104.0,
+        "start": 104,
         "end": 104.1,
         "singer": "singer1"
       }
@@ -2858,7 +2858,7 @@
       },
       {
         "word": "name",
-        "start": 114.0,
+        "start": 114,
         "end": 114.1,
         "spoken": true,
         "singer": "singer1"
@@ -2984,7 +2984,7 @@
       },
       {
         "word": "on",
-        "start": 119.0,
+        "start": 119,
         "end": 119.1,
         "singer": "singer1"
       },
@@ -3555,7 +3555,7 @@
       },
       {
         "word": "little",
-        "start": 137.0,
+        "start": 137,
         "end": 137.1,
         "singer": "singer1"
       },
@@ -4327,7 +4327,7 @@
       },
       {
         "word": "(Yeah,",
-        "start": 167.0,
+        "start": 167,
         "end": 167.1,
         "adlib": true,
         "singer": "singer1"

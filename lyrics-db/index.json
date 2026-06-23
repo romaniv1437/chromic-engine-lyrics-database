@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-23T01:59:05.960783+00:00",
-  "totalTracks": 748,
+  "generatedAt": "2026-06-23T01:59:44.048404+00:00",
+  "totalTracks": 749,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10513,6 +10513,20 @@
       },
       "sourcePath": "https://soundcloud.com/ericmonsen/alizee-moi-lolita-slowed",
       "mtimeMs": 1782179946610
+    },
+    "barisskue::soldier boy x legacy": {
+      "title": "Soldier Boy x LEGACY",
+      "artist": "Barisskue",
+      "originalTrackName": "Barisskue - Soldier Boy x LEGACY",
+      "source": "whisper_only",
+      "file": "tracks/barisskue-soldier-boy-x-legacy-5728617c7101.json",
+      "files": {
+        "lyrics": "tracks/barisskue-soldier-boy-x-legacy-5728617c7101.json",
+        "meta": "tracks/barisskue-soldier-boy-x-legacy-5728617c7101.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/muhammed-bar-kaya/soldier-boy-x-legacy",
+      "mtimeMs": 1782179984531
     }
   },
   "tracks": [
@@ -21043,6 +21057,20 @@
       },
       "sourcePath": "https://soundcloud.com/ericmonsen/alizee-moi-lolita-slowed",
       "mtimeMs": 1782179946610
+    },
+    {
+      "title": "Soldier Boy x LEGACY",
+      "artist": "Barisskue",
+      "originalTrackName": "Barisskue - Soldier Boy x LEGACY",
+      "source": "whisper_only",
+      "file": "tracks/barisskue-soldier-boy-x-legacy-5728617c7101.json",
+      "files": {
+        "lyrics": "tracks/barisskue-soldier-boy-x-legacy-5728617c7101.json",
+        "meta": "tracks/barisskue-soldier-boy-x-legacy-5728617c7101.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/muhammed-bar-kaya/soldier-boy-x-legacy",
+      "mtimeMs": 1782179984531
     }
   ]
 }

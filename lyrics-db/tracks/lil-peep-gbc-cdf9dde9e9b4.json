@@ -1,46 +1,1383 @@
 [
   {
-    "text": "I keep them by my side",
-    "startTime": 52.99,
-    "endTime": 55.57,
+    "text": "Yeah",
+    "startTime": 0.0,
+    "endTime": 0.05,
+    "words": [
+      {
+        "word": "Yeah",
+        "start": 0.0,
+        "end": 0.05
+      }
+    ],
+    "time": 0.0,
+    "end": 0.05
+  },
+  {
+    "text": "Yeah, la",
+    "startTime": 0.06,
+    "endTime": 0.15,
+    "words": [
+      {
+        "word": "Yeah,",
+        "start": 0.06,
+        "end": 0.1
+      },
+      {
+        "word": "la",
+        "start": 0.11,
+        "end": 0.15
+      }
+    ],
+    "time": 0.06,
+    "end": 0.15
+  },
+  {
+    "text": "I can't feel my face, my face numb",
+    "startTime": 0.16,
+    "endTime": 7.94,
     "words": [
       {
         "word": "I",
-        "start": 52.99,
-        "end": 53.63,
-        "stretch": true
+        "start": 0.16,
+        "end": 0.26,
+        "whisper": true
       },
       {
-        "word": "keep",
-        "start": 53.63,
-        "end": 53.95
+        "word": "can't",
+        "start": 0.62,
+        "end": 7.28,
+        "char_starts": [
+          0.62,
+          0.971,
+          2.057,
+          3.36,
+          4.826
+        ],
+        "whisper": true
       },
       {
-        "word": "them",
-        "start": 53.95,
-        "end": 54.23
-      },
-      {
-        "word": "by",
-        "start": 54.23,
-        "end": 54.35
+        "word": "feel",
+        "start": 7.29,
+        "end": 7.39,
+        "whisper": true
       },
       {
         "word": "my",
-        "start": 54.35,
-        "end": 54.67,
-        "stretch": true,
+        "start": 7.4,
+        "end": 7.5,
+        "whisper": true
+      },
+      {
+        "word": "face,",
+        "start": 7.51,
+        "end": 7.61,
+        "whisper": true
+      },
+      {
+        "word": "my",
+        "start": 7.62,
+        "end": 7.72,
+        "whisper": true
+      },
+      {
+        "word": "face",
+        "start": 7.73,
+        "end": 7.83,
+        "whisper": true
+      },
+      {
+        "word": "numb",
+        "start": 7.84,
+        "end": 7.94,
+        "whisper": true
+      }
+    ],
+    "time": 0.16,
+    "end": 7.94
+  },
+  {
+    "text": "High-speed, police chase my race car",
+    "startTime": 7.95,
+    "endTime": 17.02,
+    "words": [
+      {
+        "word": "High-speed,",
+        "start": 7.95,
+        "end": 8.05,
+        "whisper": true
+      },
+      {
+        "word": "police",
+        "start": 8.06,
+        "end": 12.1,
+        "char_starts": [
+          8.06,
+          8.26,
+          8.666,
+          9.22,
+          9.898,
+          10.686
+        ],
+        "whisper": true
+      },
+      {
+        "word": "chase",
+        "start": 12.11,
+        "end": 12.21,
+        "whisper": true
+      },
+      {
+        "word": "my",
+        "start": 12.22,
+        "end": 12.32,
+        "whisper": true
+      },
+      {
+        "word": "race",
+        "start": 12.33,
+        "end": 12.92,
+        "whisper": true
+      },
+      {
+        "word": "car",
+        "start": 13.28,
+        "end": 17.02,
+        "char_starts": [
+          13.28,
+          13.973,
+          15.588
+        ],
+        "whisper": true
+      }
+    ],
+    "time": 7.95,
+    "end": 17.02
+  },
+  {
+    "text": "I can't feel my face, my face numb",
+    "startTime": 17.03,
+    "endTime": 24.15,
+    "words": [
+      {
+        "word": "I",
+        "start": 17.03,
+        "end": 17.62,
+        "whisper": true
+      },
+      {
+        "word": "can't",
+        "start": 17.63,
+        "end": 18.02,
+        "whisper": true
+      },
+      {
+        "word": "feel",
+        "start": 18.03,
+        "end": 19.188,
+        "char_starts": [
+          18.03,
+          18.235,
+          18.552,
+          18.933
+        ],
+        "whisper": true
+      },
+      {
+        "word": "my",
+        "start": 19.198,
+        "end": 19.771,
+        "whisper": true
+      },
+      {
+        "word": "face,",
+        "start": 20.131,
+        "end": 21.231,
+        "char_starts": [
+          20.131,
+          19.926,
+          20.151,
+          20.42,
+          20.724
+        ],
+        "whisper": true
+      },
+      {
+        "word": "my",
+        "start": 21.241,
+        "end": 21.815,
+        "whisper": true
+      },
+      {
+        "word": "face",
+        "start": 21.825,
+        "end": 22.982,
+        "char_starts": [
+          21.825,
+          21.965,
+          22.248,
+          22.635
+        ],
+        "whisper": true
+      },
+      {
+        "word": "numb",
+        "start": 22.992,
+        "end": 24.15,
+        "char_starts": [
+          22.992,
+          23.197,
+          23.514,
+          23.895
+        ],
+        "whisper": true
+      }
+    ],
+    "time": 17.03,
+    "end": 24.15
+  },
+  {
+    "text": "High-speed, police chase my race car",
+    "startTime": 24.16,
+    "endTime": 31.237,
+    "words": [
+      {
+        "word": "High-speed,",
+        "start": 24.16,
+        "end": 25.65,
+        "char_starts": [
+          24.16,
+          24.203,
+          24.27,
+          24.351,
+          24.441,
+          24.54,
+          24.646,
+          24.758,
+          24.877,
+          25.0,
+          25.128
+        ],
+        "whisper": true
+      },
+      {
+        "word": "police",
+        "start": 26.01,
+        "end": 27.15,
+        "char_starts": [
+          26.01,
+          25.734,
+          25.884,
+          26.088,
+          26.338,
+          26.628
+        ],
+        "whisper": true
+      },
+      {
+        "word": "chase",
+        "start": 27.392,
+        "end": 28.61,
+        "char_starts": [
+          27.392,
+          27.263,
+          27.471,
+          27.755,
+          28.102
+        ],
+        "whisper": true
+      },
+      {
+        "word": "my",
+        "start": 28.62,
+        "end": 29.194,
+        "whisper": true
+      },
+      {
+        "word": "race",
+        "start": 29.204,
+        "end": 30.361,
+        "char_starts": [
+          29.204,
+          29.344,
+          29.627,
+          30.014
+        ],
+        "whisper": true
+      },
+      {
+        "word": "car",
+        "start": 30.371,
+        "end": 31.237,
+        "char_starts": [
+          30.371,
+          30.636,
+          31.046
+        ],
+        "whisper": true
+      }
+    ],
+    "time": 24.16,
+    "end": 31.237
+  },
+  {
+    "text": "High-speed, police chase my race car",
+    "startTime": 31.247,
+    "endTime": 38.324,
+    "words": [
+      {
+        "word": "High-speed,",
+        "start": 31.247,
+        "end": 32.737,
+        "char_starts": [
+          31.247,
+          31.29,
+          31.357,
+          31.438,
+          31.528,
+          31.627,
+          31.733,
+          31.845,
+          31.964,
+          32.087,
+          32.215
+        ],
+        "whisper": true
+      },
+      {
+        "word": "police",
+        "start": 33.097,
+        "end": 34.237,
+        "char_starts": [
+          33.097,
+          32.821,
+          32.971,
+          33.175,
+          33.425,
+          33.715
+        ],
+        "whisper": true
+      },
+      {
+        "word": "chase",
+        "start": 34.247,
+        "end": 35.696,
+        "char_starts": [
+          34.247,
+          34.349,
+          34.558,
+          34.841,
+          35.189
+        ],
+        "sung": true,
+        "stretch": true
+      },
+      {
+        "word": "my",
+        "start": 35.706,
+        "end": 36.28,
         "spoken": true
       },
       {
-        "word": "side",
-        "start": 54.67,
-        "end": 55.57,
-        "stretch": true,
+        "word": "race",
+        "start": 36.29,
+        "end": 37.448,
+        "char_starts": [
+          36.29,
+          36.43,
+          36.714,
+          37.101
+        ],
+        "spoken": true
+      },
+      {
+        "word": "car",
+        "start": 37.458,
+        "end": 38.324,
+        "char_starts": [
+          37.458,
+          37.723,
+          38.133
+        ],
         "spoken": true
       }
     ],
-    "time": 52.99,
-    "end": 55.57
+    "time": 31.247,
+    "end": 38.324
+  },
+  {
+    "text": "High-speed, police chase my race car",
+    "startTime": 38.334,
+    "endTime": 45.41,
+    "words": [
+      {
+        "word": "High-speed,",
+        "start": 38.684,
+        "end": 39.824,
+        "char_starts": [
+          38.684,
+          38.377,
+          38.444,
+          38.525,
+          38.615,
+          38.714,
+          38.82,
+          38.932,
+          39.051,
+          39.174,
+          39.303
+        ],
+        "spoken": true
+      },
+      {
+        "word": "police",
+        "start": 40.184,
+        "end": 41.324,
+        "char_starts": [
+          40.184,
+          39.908,
+          40.058,
+          40.262,
+          40.512,
+          40.803
+        ],
+        "spoken": true
+      },
+      {
+        "word": "chase",
+        "start": 41.334,
+        "end": 42.783,
+        "char_starts": [
+          41.334,
+          41.436,
+          41.645,
+          41.928,
+          42.276
+        ],
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 43.137,
+        "end": 43.367,
+        "spoken": true
+      },
+      {
+        "word": "race",
+        "start": 43.377,
+        "end": 44.535,
+        "char_starts": [
+          43.377,
+          43.517,
+          43.801,
+          44.188
+        ],
+        "spoken": true
+      },
+      {
+        "word": "car",
+        "start": 44.545,
+        "end": 45.41,
+        "char_starts": [
+          44.545,
+          44.81,
+          45.22
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 38.334,
+    "end": 45.41
+  },
+  {
+    "text": "●",
+    "startTime": 45.71,
+    "endTime": 57.12,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 45.71,
+    "end": 57.12
+  },
+  {
+    "text": "High-speed, police chase my race car",
+    "startTime": 57.12,
+    "endTime": 58.181,
+    "words": [
+      {
+        "word": "High-speed,",
+        "start": 57.12,
+        "end": 57.27,
+        "char_starts": [
+          45.42,
+          45.463,
+          45.53,
+          45.611,
+          45.701,
+          45.8,
+          45.906,
+          46.018,
+          46.137,
+          46.26,
+          46.389
+        ],
+        "spoken": true
+      },
+      {
+        "word": "police",
+        "start": 57.41,
+        "end": 57.47,
+        "char_starts": [
+          57.41,
+          46.994,
+          47.144,
+          47.348,
+          47.598,
+          47.889
+        ],
+        "spoken": true
+      },
+      {
+        "word": "chase",
+        "start": 57.52,
+        "end": 57.67,
+        "char_starts": [
+          48.42,
+          48.523,
+          48.731,
+          49.015,
+          49.362
+        ],
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 57.72,
+        "end": 57.92,
+        "spoken": true
+      },
+      {
+        "word": "race",
+        "start": 57.93,
+        "end": 58.069,
+        "spoken": true
+      },
+      {
+        "word": "car",
+        "start": 58.079,
+        "end": 58.181,
+        "spoken": true
+      }
+    ],
+    "time": 57.12,
+    "end": 58.181
+  },
+  {
+    "text": "High-speed, police chase like,, yeah",
+    "startTime": 58.191,
+    "endTime": 59.76,
+    "words": [
+      {
+        "word": "High-speed,",
+        "start": 58.191,
+        "end": 58.59
+      },
+      {
+        "word": "police",
+        "start": 58.728,
+        "end": 58.814,
+        "spoken": true
+      },
+      {
+        "word": "chase",
+        "start": 58.824,
+        "end": 59.0,
+        "spoken": true
+      },
+      {
+        "word": "like,,",
+        "start": 59.01,
+        "end": 59.14
+      },
+      {
+        "word": "yeah",
+        "start": 59.64,
+        "end": 59.76,
+        "spoken": true
+      }
+    ],
+    "time": 58.191,
+    "end": 59.76
+  },
+  {
+    "text": "High-speed, police chase my race car",
+    "startTime": 59.77,
+    "endTime": 63.53,
+    "words": [
+      {
+        "word": "High-speed,",
+        "start": 60.12,
+        "end": 61.26,
+        "char_starts": [
+          60.12,
+          59.813,
+          59.88,
+          59.961,
+          60.051,
+          60.15,
+          60.256,
+          60.368,
+          60.487,
+          60.61,
+          60.739
+        ],
+        "spoken": true
+      },
+      {
+        "word": "police",
+        "start": 61.34,
+        "end": 62.241,
+        "char_starts": [
+          61.34,
+          61.322,
+          61.427,
+          61.57,
+          61.746,
+          61.95
+        ],
+        "sung": true,
+        "stretch": true
+      },
+      {
+        "word": "chase",
+        "start": 62.89,
+        "end": 63.38,
+        "char_starts": [
+          62.89,
+          62.604,
+          62.734,
+          62.911,
+          63.128
+        ]
+      },
+      {
+        "word": "my",
+        "start": 63.39,
+        "end": 63.43
+      },
+      {
+        "word": "race",
+        "start": 63.44,
+        "end": 63.48
+      },
+      {
+        "word": "car",
+        "start": 63.49,
+        "end": 63.53
+      }
+    ],
+    "time": 59.77,
+    "end": 63.53
+  },
+  {
+    "text": "High-speed, police chase my race car",
+    "startTime": 63.54,
+    "endTime": 63.953,
+    "words": [
+      {
+        "word": "High-speed,",
+        "start": 63.54,
+        "end": 63.666,
+        "spoken": true
+      },
+      {
+        "word": "police",
+        "start": 63.676,
+        "end": 63.741,
+        "spoken": true
+      },
+      {
+        "word": "chase",
+        "start": 63.751,
+        "end": 63.803,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 63.813,
+        "end": 63.853
+      },
+      {
+        "word": "race",
+        "start": 63.863,
+        "end": 63.903
+      },
+      {
+        "word": "car",
+        "start": 63.913,
+        "end": 63.953
+      }
+    ],
+    "time": 63.54,
+    "end": 63.953
+  },
+  {
+    "text": "I can't feel my face, my face numb",
+    "startTime": 63.963,
+    "endTime": 64.377,
+    "words": [
+      {
+        "word": "I",
+        "start": 63.963,
+        "end": 64.003
+      },
+      {
+        "word": "can't",
+        "start": 64.013,
+        "end": 64.065
+      },
+      {
+        "word": "feel",
+        "start": 64.075,
+        "end": 64.115
+      },
+      {
+        "word": "my",
+        "start": 64.125,
+        "end": 64.165
+      },
+      {
+        "word": "face,",
+        "start": 64.175,
+        "end": 64.227,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 64.237,
+        "end": 64.277
+      },
+      {
+        "word": "face",
+        "start": 64.287,
+        "end": 64.327
+      },
+      {
+        "word": "numb",
+        "start": 64.337,
+        "end": 64.377
+      }
+    ],
+    "time": 63.963,
+    "end": 64.377
+  },
+  {
+    "text": "Yeah, chase my race car",
+    "startTime": 64.387,
+    "endTime": 66.1,
+    "words": [
+      {
+        "word": "Yeah,",
+        "start": 64.387,
+        "end": 64.439
+      },
+      {
+        "word": "chase",
+        "start": 64.449,
+        "end": 64.501
+      },
+      {
+        "word": "my",
+        "start": 64.511,
+        "end": 64.551
+      },
+      {
+        "word": "race",
+        "start": 64.561,
+        "end": 64.76
+      },
+      {
+        "word": "car",
+        "start": 65.12,
+        "end": 66.1,
+        "char_starts": [
+          65.12,
+          65.109,
+          65.634
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 64.387,
+    "end": 66.1
+  },
+  {
+    "text": "●",
+    "startTime": 66.4,
+    "endTime": 111.4,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 66.4,
+    "end": 111.4
+  },
+  {
+    "text": "Weight on my shoulders, it's prolly a kilo (yeah)",
+    "startTime": 111.4,
+    "endTime": 118.209,
+    "words": [
+      {
+        "word": "Weight",
+        "start": 111.4,
+        "end": 111.55
+      },
+      {
+        "word": "on",
+        "start": 111.6,
+        "end": 111.75
+      },
+      {
+        "word": "my",
+        "start": 111.8,
+        "end": 111.95
+      },
+      {
+        "word": "shoulders,",
+        "start": 112.0,
+        "end": 112.15,
+        "char_starts": [
+          75.03,
+          75.115,
+          75.246,
+          75.403,
+          75.58,
+          75.774,
+          75.981,
+          76.201,
+          76.433,
+          76.674
+        ]
+      },
+      {
+        "word": "it's",
+        "start": 112.2,
+        "end": 112.48
+      },
+      {
+        "word": "prolly",
+        "start": 112.49,
+        "end": 113.98,
+        "char_starts": [
+          112.49,
+          112.564,
+          112.714,
+          112.918,
+          113.168,
+          113.459
+        ]
+      },
+      {
+        "word": "a",
+        "start": 114.34,
+        "end": 115.209,
+        "spoken": true
+      },
+      {
+        "word": "kilo",
+        "start": 115.405,
+        "end": 116.709,
+        "char_starts": [
+          115.405,
+          115.386,
+          115.725,
+          116.188
+        ]
+      },
+      {
+        "word": "(yeah)",
+        "start": 117.069,
+        "end": 118.209,
+        "char_starts": [
+          117.069,
+          116.829,
+          117.0,
+          117.205,
+          117.436,
+          117.688
+        ],
+        "adlib": true,
+        "spoken": true
+      }
+    ],
+    "time": 111.4,
+    "end": 118.209
+  },
+  {
+    "text": "●",
+    "startTime": 118.509,
+    "endTime": 202.27,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 118.509,
+    "end": 202.27
+  },
+  {
+    "text": "They don't know about",
+    "startTime": 202.27,
+    "endTime": 203.05,
+    "words": [
+      {
+        "word": "They",
+        "start": 202.27,
+        "end": 202.42,
+        "char_starts": [
+          143.21,
+          143.378,
+          143.72,
+          144.185
+        ]
+      },
+      {
+        "word": "don't",
+        "start": 202.47,
+        "end": 202.62,
+        "char_starts": [
+          144.72,
+          144.869,
+          145.1,
+          145.377,
+          145.689
+        ]
+      },
+      {
+        "word": "know",
+        "start": 202.76,
+        "end": 202.82,
+        "char_starts": [
+          202.76,
+          146.44,
+          146.78,
+          147.189
+        ]
+      },
+      {
+        "word": "about",
+        "start": 202.87,
+        "end": 203.05,
+        "spoken": true
+      }
+    ],
+    "time": 202.27,
+    "end": 203.05
+  },
+  {
+    "text": "●",
+    "startTime": 203.35,
+    "endTime": 215.33,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 203.35,
+    "end": 215.33
+  },
+  {
+    "text": "pressure, these man move feeble (uh)",
+    "startTime": 215.33,
+    "endTime": 218.426,
+    "words": [
+      {
+        "word": "pressure,",
+        "start": 215.68,
+        "end": 217.09,
+        "char_starts": [
+          215.68,
+          215.399,
+          215.506,
+          215.634,
+          215.779,
+          215.937,
+          216.106,
+          216.285,
+          216.474
+        ]
+      },
+      {
+        "word": "these",
+        "start": 217.1,
+        "end": 217.394
+      },
+      {
+        "word": "man",
+        "start": 217.404,
+        "end": 217.576
+      },
+      {
+        "word": "move",
+        "start": 217.586,
+        "end": 217.819
+      },
+      {
+        "word": "feeble",
+        "start": 218.015,
+        "end": 218.183,
+        "spoken": true
+      },
+      {
+        "word": "(uh)",
+        "start": 218.263,
+        "end": 218.426,
+        "adlib": true,
+        "spoken": true
+      }
+    ],
+    "time": 215.33,
+    "end": 218.426
+  },
+  {
+    "text": "Nobody fucking with me, I'm with Deebo",
+    "startTime": 218.436,
+    "endTime": 220.35,
+    "words": [
+      {
+        "word": "Nobody",
+        "start": 218.436,
+        "end": 218.79,
+        "spoken": true
+      },
+      {
+        "word": "fucking",
+        "start": 218.939,
+        "end": 219.15,
+        "spoken": true
+      },
+      {
+        "word": "with",
+        "start": 219.16,
+        "end": 219.39,
+        "spoken": true
+      },
+      {
+        "word": "me,",
+        "start": 219.4,
+        "end": 219.44
+      },
+      {
+        "word": "I'm",
+        "start": 219.45,
+        "end": 219.49
+      },
+      {
+        "word": "with",
+        "start": 219.5,
+        "end": 219.6,
+        "spoken": true
+      },
+      {
+        "word": "Deebo",
+        "start": 219.95,
+        "end": 220.35,
+        "spoken": true
+      }
+    ],
+    "time": 218.436,
+    "end": 220.35
+  },
+  {
+    "text": "●",
+    "startTime": 220.65,
+    "endTime": 228.99,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 220.65,
+    "end": 228.99
+  },
+  {
+    "text": "And we don't miss so there's no need to reload",
+    "startTime": 228.99,
+    "endTime": 232.925,
+    "words": [
+      {
+        "word": "And",
+        "start": 228.99,
+        "end": 229.14,
+        "spoken": true
+      },
+      {
+        "word": "we",
+        "start": 229.19,
+        "end": 229.34,
+        "spoken": true
+      },
+      {
+        "word": "don't",
+        "start": 229.39,
+        "end": 229.54,
+        "spoken": true
+      },
+      {
+        "word": "miss",
+        "start": 229.59,
+        "end": 229.74,
+        "spoken": true
+      },
+      {
+        "word": "so",
+        "start": 229.79,
+        "end": 230.19,
+        "spoken": true
+      },
+      {
+        "word": "there's",
+        "start": 230.27,
+        "end": 230.57,
+        "spoken": true
+      },
+      {
+        "word": "no",
+        "start": 230.93,
+        "end": 231.277,
+        "spoken": true
+      },
+      {
+        "word": "need",
+        "start": 231.637,
+        "end": 232.69,
+        "char_starts": [
+          231.637,
+          231.494,
+          231.815,
+          232.199
+        ],
+        "spoken": true
+      },
+      {
+        "word": "to",
+        "start": 232.7,
+        "end": 232.87,
+        "spoken": true
+      },
+      {
+        "word": "reload",
+        "start": 232.88,
+        "end": 232.925
+      }
+    ],
+    "time": 228.99,
+    "end": 232.925
+  },
+  {
+    "text": "Gimme the best blow, I only want fish scale",
+    "startTime": 232.935,
+    "endTime": 233.58,
+    "words": [
+      {
+        "word": "Gimme",
+        "start": 232.935,
+        "end": 232.975
+      },
+      {
+        "word": "the",
+        "start": 232.985,
+        "end": 233.23,
+        "spoken": true
+      },
+      {
+        "word": "best",
+        "start": 233.24,
+        "end": 233.28
+      },
+      {
+        "word": "blow,",
+        "start": 233.29,
+        "end": 233.33
+      },
+      {
+        "word": "I",
+        "start": 233.34,
+        "end": 233.38
+      },
+      {
+        "word": "only",
+        "start": 233.39,
+        "end": 233.43
+      },
+      {
+        "word": "want",
+        "start": 233.44,
+        "end": 233.48
+      },
+      {
+        "word": "fish",
+        "start": 233.49,
+        "end": 233.53
+      },
+      {
+        "word": "scale",
+        "start": 233.54,
+        "end": 233.58
+      }
+    ],
+    "time": 232.935,
+    "end": 233.58
+  },
+  {
+    "text": "Where the fuck Nemo?",
+    "startTime": 233.59,
+    "endTime": 233.78,
+    "words": [
+      {
+        "word": "Where",
+        "start": 233.59,
+        "end": 233.63
+      },
+      {
+        "word": "the",
+        "start": 233.64,
+        "end": 233.68
+      },
+      {
+        "word": "fuck",
+        "start": 233.69,
+        "end": 233.73
+      },
+      {
+        "word": "Nemo?",
+        "start": 233.74,
+        "end": 233.78
+      }
+    ],
+    "time": 233.59,
+    "end": 233.78
+  },
+  {
+    "text": "Let's turn a humble abode to a freak show",
+    "startTime": 233.79,
+    "endTime": 234.23,
+    "words": [
+      {
+        "word": "Let's",
+        "start": 233.79,
+        "end": 233.83
+      },
+      {
+        "word": "turn",
+        "start": 233.84,
+        "end": 233.88
+      },
+      {
+        "word": "a",
+        "start": 233.89,
+        "end": 233.93
+      },
+      {
+        "word": "humble",
+        "start": 233.94,
+        "end": 233.98
+      },
+      {
+        "word": "abode",
+        "start": 233.99,
+        "end": 234.03
+      },
+      {
+        "word": "to",
+        "start": 234.04,
+        "end": 234.08
+      },
+      {
+        "word": "a",
+        "start": 234.09,
+        "end": 234.13
+      },
+      {
+        "word": "freak",
+        "start": 234.14,
+        "end": 234.18
+      },
+      {
+        "word": "show",
+        "start": 234.19,
+        "end": 234.23
+      }
+    ],
+    "time": 233.79,
+    "end": 234.23
+  },
+  {
+    "text": "All of these hoes loco on the Right (yeah)",
+    "startTime": 234.24,
+    "endTime": 235.51,
+    "words": [
+      {
+        "word": "All",
+        "start": 234.24,
+        "end": 234.28
+      },
+      {
+        "word": "of",
+        "start": 234.29,
+        "end": 234.33
+      },
+      {
+        "word": "these",
+        "start": 234.34,
+        "end": 234.38
+      },
+      {
+        "word": "hoes",
+        "start": 234.39,
+        "end": 234.43
+      },
+      {
+        "word": "loco",
+        "start": 234.44,
+        "end": 234.48
+      },
+      {
+        "word": "on",
+        "start": 234.49,
+        "end": 234.53
+      },
+      {
+        "word": "the",
+        "start": 234.54,
+        "end": 234.64
+      },
+      {
+        "word": "Right",
+        "start": 234.65,
+        "end": 235.35,
+        "char_starts": [
+          234.65,
+          234.734,
+          234.864,
+          235.02,
+          235.196
+        ]
+      },
+      {
+        "word": "(yeah)",
+        "start": 235.36,
+        "end": 235.51,
+        "char_starts": [
+          267.83,
+          267.934,
+          268.094,
+          268.287,
+          268.503,
+          268.74
+        ],
+        "adlib": true,
+        "spoken": true
+      }
+    ],
+    "time": 234.24,
+    "end": 235.51
+  },
+  {
+    "text": "●",
+    "startTime": 235.81,
+    "endTime": 269.159,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 235.81,
+    "end": 269.159
   }
 ]

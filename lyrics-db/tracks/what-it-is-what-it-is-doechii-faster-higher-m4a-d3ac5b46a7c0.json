@@ -1,4360 +1,3561 @@
 [
   {
-    "text": "Every good girl needs",
-    "startTime": 12.35,
-    "endTime": 16.89,
+    "text": "●",
+    "startTime": 0.3,
+    "endTime": 19.58,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 0.3,
+    "end": 19.58
+  },
+  {
+    "text": "What it is hoe? What's up?",
+    "startTime": 19.58,
+    "endTime": 22.3,
+    "words": [
+      {
+        "word": "What",
+        "start": 19.789,
+        "end": 20.1,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 20.156,
+        "end": 20.62
+      },
+      {
+        "word": "is",
+        "start": 20.63,
+        "end": 20.8,
+        "spoken": true
+      },
+      {
+        "word": "hoe?",
+        "start": 21.04,
+        "end": 21.32,
+        "spoken": true
+      },
+      {
+        "word": "What's",
+        "start": 21.742,
+        "end": 21.96,
+        "spoken": true
+      },
+      {
+        "word": "up?",
+        "start": 22.063,
+        "end": 22.3
+      }
+    ],
+    "time": 19.58,
+    "end": 22.3
+  },
+  {
+    "text": "Every good girl needs a little thug",
+    "startTime": 22.8,
+    "endTime": 24.86,
     "words": [
       {
         "word": "Every",
-        "start": 12.35,
-        "end": 13.78,
-        "char_starts": [
-          12.35,
-          29.855,
-          30.069,
-          30.361,
-          30.718
-        ],
-        "sung": true,
-        "singer": "singer2",
-        "stretch": true
+        "start": 22.8,
+        "end": 22.96,
+        "spoken": true
       },
       {
         "word": "good",
-        "start": 14.14,
-        "end": 15.28,
-        "char_starts": [
-          14.14,
-          31.47,
-          31.81,
-          32.218
-        ],
-        "singer": "singer2"
+        "start": 22.97,
+        "end": 23.34,
+        "spoken": true
       },
       {
         "word": "girl",
-        "start": 15.29,
-        "end": 16.78,
-        "char_starts": [
-          32.75,
-          32.97,
-          33.31,
-          33.718
-        ],
-        "spoken": true,
-        "singer": "singer2"
+        "start": 23.35,
+        "end": 23.58,
+        "spoken": true
       },
       {
         "word": "needs",
-        "start": 16.79,
-        "end": 16.89,
-        "char_starts": [
-          34.25,
-          34.399,
-          34.63,
-          34.907,
-          35.218
-        ],
-        "whisper": true,
-        "singer": "singer1"
+        "start": 23.59,
+        "end": 23.78,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 23.79,
+        "end": 24.02,
+        "spoken": true
+      },
+      {
+        "word": "little",
+        "start": 24.076,
+        "end": 24.26,
+        "spoken": true
+      },
+      {
+        "word": "thug",
+        "start": 24.363,
+        "end": 24.86
       }
     ],
-    "time": 12.35,
-    "end": 16.89
+    "time": 22.8,
+    "end": 24.86
   },
   {
     "text": "Every block boy needs a little love",
-    "startTime": 14.97,
-    "endTime": 17.24,
+    "startTime": 24.87,
+    "endTime": 27.34,
     "words": [
       {
         "word": "Every",
-        "start": 15.04,
-        "end": 15.64,
-        "char_starts": [
-          15.04,
-          55.346,
-          55.459,
-          55.612,
-          55.801
-        ],
-        "singer": "singer1"
+        "start": 24.87,
+        "end": 25.52
       },
       {
         "word": "block",
-        "start": 15.65,
-        "end": 15.86,
-        "whisper": true,
-        "singer": "singer1"
+        "start": 25.53,
+        "end": 25.78,
+        "spoken": true
       },
       {
         "word": "boy",
-        "start": 15.986,
-        "end": 16.16,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 25.883,
+        "end": 26.1,
+        "spoken": true
       },
       {
         "word": "needs",
-        "start": 16.17,
-        "end": 16.38,
-        "whisper": true,
-        "singer": "singer1"
+        "start": 26.11,
+        "end": 26.3
       },
       {
         "word": "a",
-        "start": 16.39,
-        "end": 16.56,
-        "whisper": true,
-        "singer": "singer1"
+        "start": 26.31,
+        "end": 26.5,
+        "spoken": true
       },
       {
         "word": "little",
-        "start": 16.57,
-        "end": 16.82,
-        "whisper": true,
-        "singer": "singer1"
+        "start": 26.51,
+        "end": 26.76,
+        "spoken": true
       },
       {
         "word": "love",
-        "start": 16.946,
-        "end": 17.24,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 27.112,
+        "end": 27.34,
+        "spoken": true
       }
     ],
-    "time": 14.97,
-    "end": 17.24
+    "time": 24.87,
+    "end": 27.34
   },
   {
-    "text": "If you put it down, I'ma pick it up, up, up",
-    "startTime": 17.26,
-    "endTime": 20.05,
+    "text": "If he put it down, I'ma pick it up, up, up",
+    "startTime": 27.35,
+    "endTime": 29.94,
     "words": [
       {
         "word": "If",
-        "start": 17.26,
-        "end": 17.67,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 27.42,
+        "end": 27.84,
+        "spoken": true
       },
       {
-        "word": "you",
-        "start": 17.68,
-        "end": 17.85,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "he",
+        "start": 27.85,
+        "end": 28.0
       },
       {
         "word": "put",
-        "start": 17.86,
-        "end": 18.07,
-        "sung": true,
-        "singer": "singer1"
+        "start": 28.01,
+        "end": 28.2,
+        "spoken": true
       },
       {
         "word": "it",
-        "start": 18.08,
-        "end": 18.29,
-        "whisper": true,
-        "singer": "singer1"
+        "start": 28.372,
+        "end": 28.48,
+        "spoken": true
       },
       {
         "word": "down,",
-        "start": 18.45,
-        "end": 18.55,
-        "sung": true,
-        "singer": "singer2"
+        "start": 28.49,
+        "end": 28.72,
+        "spoken": true
       },
       {
         "word": "I'ma",
-        "start": 18.69,
-        "end": 18.85,
-        "whisper": true,
-        "singer": "singer1"
+        "start": 28.73,
+        "end": 29.0,
+        "spoken": true
       },
       {
         "word": "pick",
-        "start": 18.999,
-        "end": 19.11,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 29.136,
+        "end": 29.22,
+        "spoken": true
       },
       {
         "word": "it",
-        "start": 19.234,
-        "end": 19.31,
-        "whisper": true,
-        "singer": "singer1"
+        "start": 29.23,
+        "end": 29.46,
+        "spoken": true
       },
       {
         "word": "up,",
-        "start": 19.32,
-        "end": 19.57,
-        "singer": "singer2"
+        "start": 29.62,
+        "end": 29.72,
+        "spoken": true
       },
       {
         "word": "up,",
-        "start": 19.742,
-        "end": 19.85,
-        "singer": "singer2"
+        "start": 29.73,
+        "end": 29.83,
+        "spoken": true
       },
       {
         "word": "up",
-        "start": 20.05,
-        "end": 20.05,
-        "singer": "singer1"
+        "start": 29.84,
+        "end": 29.94
       }
     ],
-    "time": 17.26,
-    "end": 20.05
+    "time": 27.35,
+    "end": 29.94
   },
   {
-    "text": "Can't",
-    "startTime": 20.59,
-    "endTime": 22.02,
+    "text": "Can't you see it's just me and you?",
+    "startTime": 30.92,
+    "endTime": 33.28,
     "words": [
       {
         "word": "Can't",
-        "start": 20.799,
-        "end": 22.02,
-        "char_starts": [
-          20.799,
-          60.799,
-          61.03,
-          61.307,
-          61.618
-        ],
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 20.59,
-    "end": 22.02
-  },
-  {
-    "text": "Panoramic view, that's my point of view, bae",
-    "startTime": 22.99,
-    "endTime": 23.86,
-    "words": [
-      {
-        "word": "Panoramic",
-        "start": 22.99,
-        "end": 23.09,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 31.059,
+        "end": 31.4,
+        "spoken": true
       },
-      {
-        "word": "view,",
-        "start": 23.1,
-        "end": 23.2,
-        "whisper": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "that's",
-        "start": 23.27,
-        "end": 23.31,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "my",
-        "start": 23.32,
-        "end": 23.42,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "point",
-        "start": 23.43,
-        "end": 23.53,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "of",
-        "start": 23.54,
-        "end": 23.64,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "view,",
-        "start": 23.65,
-        "end": 23.75,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "bae",
-        "start": 23.76,
-        "end": 23.86,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 22.99,
-    "end": 23.86
-  },
-  {
-    "text": "a little thug",
-    "startTime": 24.44,
-    "endTime": 24.95,
-    "words": [
-      {
-        "word": "a",
-        "start": 24.44,
-        "end": 24.64,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "little",
-        "start": 24.65,
-        "end": 24.8,
-        "sung": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "thug",
-        "start": 24.85,
-        "end": 24.95,
-        "singer": "singer1"
-      }
-    ],
-    "time": 24.44,
-    "end": 24.95
-  },
-  {
-    "text": "All about me, that's the energy",
-    "startTime": 25.47,
-    "endTime": 26.12,
-    "words": [
-      {
-        "word": "All",
-        "start": 25.47,
-        "end": 25.57,
-        "singer": "singer1"
-      },
-      {
-        "word": "about",
-        "start": 25.58,
-        "end": 25.68,
-        "singer": "singer1"
-      },
-      {
-        "word": "me,",
-        "start": 25.69,
-        "end": 25.79,
-        "whisper": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "that's",
-        "start": 25.86,
-        "end": 25.9,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "the",
-        "start": 25.91,
-        "end": 26.01,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "energy",
-        "start": 26.02,
-        "end": 26.12,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 25.47,
-    "end": 26.12
-  },
-  {
-    "text": "That's that lemon pepper thing, I'm a ten-piece, baby",
-    "startTime": 27.62,
-    "endTime": 28.6,
-    "words": [
-      {
-        "word": "That's",
-        "start": 27.62,
-        "end": 27.72,
-        "singer": "singer1"
-      },
-      {
-        "word": "that",
-        "start": 27.73,
-        "end": 27.83,
-        "singer": "singer1"
-      },
-      {
-        "word": "lemon",
-        "start": 27.84,
-        "end": 27.94,
-        "singer": "singer1"
-      },
-      {
-        "word": "pepper",
-        "start": 27.95,
-        "end": 28.05,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "thing,",
-        "start": 28.06,
-        "end": 28.16,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "I'm",
-        "start": 28.17,
-        "end": 28.27,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "a",
-        "start": 28.34,
-        "end": 28.38,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "ten-piece,",
-        "start": 28.39,
-        "end": 28.49,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "baby",
-        "start": 28.5,
-        "end": 28.6,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 27.62,
-    "end": 28.6
-  },
-  {
-    "text": "you just",
-    "startTime": 28.32,
-    "endTime": 29.98,
-    "words": [
       {
         "word": "you",
-        "start": 28.32,
-        "end": 28.48,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "just",
-        "start": 28.676,
-        "end": 29.98,
+        "start": 32.2,
+        "end": 32.98,
         "char_starts": [
-          28.676,
-          68.83,
-          69.17,
-          69.578
-        ],
-        "sung": true,
-        "singer": "singer2",
-        "stretch": true
-      }
-    ],
-    "time": 28.32,
-    "end": 29.98
-  },
-  {
-    "text": "Bedroom bully in the bando",
-    "startTime": 30.33,
-    "endTime": 30.87,
-    "words": [
-      {
-        "word": "Bedroom",
-        "start": 30.33,
-        "end": 30.43,
-        "singer": "singer1"
+          32.2,
+          32.38,
+          32.746
+        ]
       },
       {
-        "word": "bully",
-        "start": 30.44,
-        "end": 30.54,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "in",
-        "start": 30.55,
-        "end": 30.65,
-        "singer": "singer1"
-      },
-      {
-        "word": "the",
-        "start": 30.66,
-        "end": 30.76,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "bando",
-        "start": 30.77,
-        "end": 30.87,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 30.33,
-    "end": 30.87
-  },
-  {
-    "text": "He gon' make it flip, do it with no handles",
-    "startTime": 32.76,
-    "endTime": 33.85,
-    "words": [
-      {
-        "word": "He",
-        "start": 32.76,
-        "end": 32.86,
-        "singer": "singer1"
-      },
-      {
-        "word": "gon'",
-        "start": 32.87,
-        "end": 32.97,
-        "singer": "singer1"
-      },
-      {
-        "word": "make",
-        "start": 32.98,
-        "end": 33.08,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 33.09,
-        "end": 33.19,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "flip,",
-        "start": 33.2,
-        "end": 33.3,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "do",
-        "start": 33.31,
-        "end": 33.41,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 33.42,
-        "end": 33.52,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "with",
-        "start": 33.53,
-        "end": 33.63,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "no",
-        "start": 33.7,
-        "end": 33.74,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "handles",
-        "start": 33.75,
-        "end": 33.85,
-        "singer": "singer2"
-      }
-    ],
-    "time": 32.76,
-    "end": 33.85
-  },
-  {
-    "text": "Never switchin' sides, only switchin' angles",
-    "startTime": 35.1,
-    "endTime": 35.75,
-    "words": [
-      {
-        "word": "Never",
-        "start": 35.1,
-        "end": 35.2,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "switchin'",
-        "start": 35.21,
-        "end": 35.31,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "sides,",
-        "start": 35.32,
-        "end": 35.42,
-        "singer": "singer1"
-      },
-      {
-        "word": "only",
-        "start": 35.43,
-        "end": 35.53,
-        "singer": "singer1"
-      },
-      {
-        "word": "switchin'",
-        "start": 35.54,
-        "end": 35.64,
-        "singer": "singer1"
-      },
-      {
-        "word": "angles",
-        "start": 35.65,
-        "end": 35.75,
-        "singer": "singer1"
-      }
-    ],
-    "time": 35.1,
-    "end": 35.75
-  },
-  {
-    "text": "Ooh, we go crazy like Rambo",
-    "startTime": 37.82,
-    "endTime": 38.47,
-    "words": [
-      {
-        "word": "Ooh,",
-        "start": 37.82,
-        "end": 37.92,
-        "singer": "singer1"
-      },
-      {
-        "word": "we",
-        "start": 37.93,
-        "end": 38.03,
-        "singer": "singer1"
-      },
-      {
-        "word": "go",
-        "start": 38.04,
-        "end": 38.14,
-        "singer": "singer1"
-      },
-      {
-        "word": "crazy",
-        "start": 38.15,
-        "end": 38.25,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "like",
-        "start": 38.32,
-        "end": 38.36,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "Rambo",
-        "start": 38.37,
-        "end": 38.47,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 37.82,
-    "end": 38.47
-  },
-  {
-    "text": "What it is, though? What's up?",
-    "startTime": 38.09,
-    "endTime": 39.64,
-    "words": [
-      {
-        "word": "What",
-        "start": 38.09,
-        "end": 38.24,
-        "char_starts": [
-          10.13,
-          0.221,
-          0.564,
-          0.975
-        ],
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 38.446,
-        "end": 38.55,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "is,",
-        "start": 38.77,
-        "end": 38.85,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "though?",
-        "start": 38.86,
-        "end": 39.216,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "What's",
-        "start": 39.296,
-        "end": 39.53,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "up?",
-        "start": 39.54,
-        "end": 39.64,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 38.09,
-    "end": 39.64
-  },
-  {
-    "text": "see, it's just me and you?",
-    "startTime": 38.6,
-    "endTime": 41.87,
-    "words": [
-      {
-        "word": "see,",
-        "start": 38.809,
-        "end": 38.96,
-        "spoken": true,
-        "singer": "singer2"
+        "word": "see",
+        "start": 32.99,
+        "end": 33.03
       },
       {
         "word": "it's",
-        "start": 39.636,
-        "end": 39.86,
-        "singer": "singer2"
+        "start": 33.04,
+        "end": 33.08
       },
       {
         "word": "just",
-        "start": 40.22,
-        "end": 41.36,
-        "char_starts": [
-          40.22,
-          80.21,
-          80.55,
-          80.959
-        ],
-        "spoken": true,
-        "singer": "singer2"
+        "start": 33.09,
+        "end": 33.13
       },
       {
         "word": "me",
-        "start": 41.37,
-        "end": 41.52,
-        "singer": "singer2"
+        "start": 33.14,
+        "end": 33.18
       },
       {
         "word": "and",
-        "start": 41.66,
-        "end": 41.72,
-        "singer": "singer1"
+        "start": 33.19,
+        "end": 33.23
       },
       {
         "word": "you?",
-        "start": 41.77,
-        "end": 41.87,
-        "singer": "singer1"
+        "start": 33.24,
+        "end": 33.28
       }
     ],
-    "time": 38.6,
-    "end": 41.87
+    "time": 30.92,
+    "end": 33.28
   },
   {
-    "text": "What it is, though? (What it is?) What's up? (What's up?)",
-    "startTime": 40.44,
-    "endTime": 41.64,
+    "text": "Panoramic view, that's my point of view, bae",
+    "startTime": 33.29,
+    "endTime": 35.54,
     "words": [
       {
-        "word": "What",
-        "start": 40.44,
-        "end": 40.54,
-        "spoken": true,
-        "singer": "singer2"
+        "word": "Panoramic",
+        "start": 33.29,
+        "end": 33.64,
+        "spoken": true
       },
       {
-        "word": "it",
-        "start": 40.55,
-        "end": 40.65,
-        "whisper": true,
-        "singer": "singer1"
+        "word": "view,",
+        "start": 34.972,
+        "end": 35.06,
+        "spoken": true
       },
       {
-        "word": "is,",
-        "start": 40.72,
-        "end": 40.76,
-        "singer": "singer1"
+        "word": "that's",
+        "start": 35.07,
+        "end": 35.11
       },
       {
-        "word": "though?",
-        "start": 40.77,
-        "end": 40.87,
-        "singer": "singer1"
+        "word": "my",
+        "start": 35.12,
+        "end": 35.16
       },
       {
-        "word": "(What",
-        "start": 40.88,
-        "end": 40.98,
-        "adlib": true,
-        "singer": "singer1"
+        "word": "point",
+        "start": 35.17,
+        "end": 35.21
       },
       {
-        "word": "it",
-        "start": 40.99,
-        "end": 41.09,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "of",
+        "start": 35.22,
+        "end": 35.32,
+        "spoken": true
       },
       {
-        "word": "is?)",
-        "start": 41.1,
-        "end": 41.2,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "view,",
+        "start": 35.33,
+        "end": 35.43
       },
       {
-        "word": "What's",
-        "start": 41.21,
-        "end": 41.31,
-        "singer": "singer1"
-      },
-      {
-        "word": "up?",
-        "start": 41.32,
-        "end": 41.42,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "(What's",
-        "start": 41.43,
-        "end": 41.53,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "up?)",
-        "start": 41.54,
-        "end": 41.64,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer2"
+        "word": "bae",
+        "start": 35.44,
+        "end": 35.54
       }
     ],
-    "time": 40.44,
-    "end": 41.64
+    "time": 33.29,
+    "end": 35.54
   },
   {
-    "text": "Every good girl needs a little thug (thug)",
-    "startTime": 42.9,
-    "endTime": 43.77,
-    "words": [
-      {
-        "word": "Every",
-        "start": 42.9,
-        "end": 43,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "good",
-        "start": 43.01,
-        "end": 43.11,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "girl",
-        "start": 43.12,
-        "end": 43.22,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "needs",
-        "start": 43.23,
-        "end": 43.33,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "a",
-        "start": 43.34,
-        "end": 43.44,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "little",
-        "start": 43.45,
-        "end": 43.55,
-        "singer": "singer2"
-      },
-      {
-        "word": "thug",
-        "start": 43.56,
-        "end": 43.66,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "(thug)",
-        "start": 43.67,
-        "end": 43.77,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 42.9,
-    "end": 43.77
-  },
-  {
-    "text": "Every block boy needs a little love (love)",
-    "startTime": 45.15,
-    "endTime": 46.02,
-    "words": [
-      {
-        "word": "Every",
-        "start": 45.15,
-        "end": 45.25,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "block",
-        "start": 45.26,
-        "end": 45.36,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "boy",
-        "start": 45.37,
-        "end": 45.47,
-        "singer": "singer1"
-      },
-      {
-        "word": "needs",
-        "start": 45.48,
-        "end": 45.58,
-        "singer": "singer1"
-      },
-      {
-        "word": "a",
-        "start": 45.59,
-        "end": 45.69,
-        "singer": "singer1"
-      },
-      {
-        "word": "little",
-        "start": 45.7,
-        "end": 45.8,
-        "singer": "singer1"
-      },
-      {
-        "word": "love",
-        "start": 45.81,
-        "end": 45.91,
-        "singer": "singer1"
-      },
-      {
-        "word": "(love)",
-        "start": 45.92,
-        "end": 46.02,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 45.15,
-    "end": 46.02
-  },
-  {
-    "text": "Every good girl needs a little thug (thug)",
-    "startTime": 52.82,
-    "endTime": 53.69,
-    "words": [
-      {
-        "word": "Every",
-        "start": 52.82,
-        "end": 52.92,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "good",
-        "start": 52.93,
-        "end": 53.03,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "girl",
-        "start": 53.04,
-        "end": 53.14,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "needs",
-        "start": 53.15,
-        "end": 53.25,
-        "singer": "singer1"
-      },
-      {
-        "word": "a",
-        "start": 53.26,
-        "end": 53.36,
-        "singer": "singer1"
-      },
-      {
-        "word": "little",
-        "start": 53.37,
-        "end": 53.47,
-        "singer": "singer1"
-      },
-      {
-        "word": "thug",
-        "start": 53.48,
-        "end": 53.58,
-        "singer": "singer1"
-      },
-      {
-        "word": "(thug)",
-        "start": 53.59,
-        "end": 53.69,
-        "adlib": true,
-        "whisper": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 52.82,
-    "end": 53.69
-  },
-  {
-    "text": "Every block boy needs a little love (love)",
-    "startTime": 55.53,
-    "endTime": 56.4,
-    "words": [
-      {
-        "word": "Every",
-        "start": 55.59,
-        "end": 55.63,
-        "singer": "singer1"
-      },
-      {
-        "word": "block",
-        "start": 55.64,
-        "end": 55.74,
-        "singer": "singer1"
-      },
-      {
-        "word": "boy",
-        "start": 55.75,
-        "end": 55.85,
-        "singer": "singer1"
-      },
-      {
-        "word": "needs",
-        "start": 55.86,
-        "end": 55.96,
-        "singer": "singer1"
-      },
-      {
-        "word": "a",
-        "start": 55.97,
-        "end": 56.07,
-        "singer": "singer1"
-      },
-      {
-        "word": "little",
-        "start": 56.08,
-        "end": 56.18,
-        "singer": "singer1"
-      },
-      {
-        "word": "love",
-        "start": 56.25,
-        "end": 56.29,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "(love)",
-        "start": 56.3,
-        "end": 56.4,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 55.53,
-    "end": 56.4
-  },
-  {
-    "text": "What it is, though? (What it is?) What's up? (What's up?)",
-    "startTime": 57.63,
-    "endTime": 60.25,
-    "words": [
-      {
-        "word": "What",
-        "start": 57.63,
-        "end": 57.78,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 57.83,
-        "end": 57.98,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "is,",
-        "start": 58.03,
-        "end": 58.18,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "though?",
-        "start": 58.23,
-        "end": 58.38,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "(What",
-        "start": 58.43,
-        "end": 58.58,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 58.774,
-        "end": 58.87,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "is?)",
-        "start": 58.95,
-        "end": 59.27,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "What's",
-        "start": 59.419,
-        "end": 59.87,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "up?",
-        "start": 60.006,
-        "end": 60.09,
-        "singer": "singer2"
-      },
-      {
-        "word": "(What's",
-        "start": 60.1,
-        "end": 60.14,
-        "adlib": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "up?)",
-        "start": 60.15,
-        "end": 60.25,
-        "adlib": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 57.63,
-    "end": 60.25
-  },
-  {
-    "text": "If you put it down, I'ma pick it up, up (ayy), up (ayy)",
-    "startTime": 58.12,
-    "endTime": 59.54,
-    "words": [
-      {
-        "word": "If",
-        "start": 58.12,
-        "end": 58.22,
-        "singer": "singer1"
-      },
-      {
-        "word": "you",
-        "start": 58.23,
-        "end": 58.33,
-        "singer": "singer1"
-      },
-      {
-        "word": "put",
-        "start": 58.34,
-        "end": 58.44,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 58.45,
-        "end": 58.55,
-        "singer": "singer1"
-      },
-      {
-        "word": "down,",
-        "start": 58.56,
-        "end": 58.66,
-        "singer": "singer1"
-      },
-      {
-        "word": "I'ma",
-        "start": 58.67,
-        "end": 58.77,
-        "singer": "singer2"
-      },
-      {
-        "word": "pick",
-        "start": 58.78,
-        "end": 58.88,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 58.95,
-        "end": 58.99,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "up,",
-        "start": 59,
-        "end": 59.1,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "up",
-        "start": 59.11,
-        "end": 59.21,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "(ayy),",
-        "start": 59.22,
-        "end": 59.32,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "up",
-        "start": 59.39,
-        "end": 59.43,
-        "singer": "singer2"
-      },
-      {
-        "word": "(ayy)",
-        "start": 59.44,
-        "end": 59.54,
-        "adlib": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 58.12,
-    "end": 59.54
-  },
-  {
-    "text": "Hit 'em up,",
-    "startTime": 61.03,
-    "endTime": 61.35,
-    "words": [
-      {
-        "word": "Hit",
-        "start": 61.03,
-        "end": 61.13,
-        "singer": "singer1"
-      },
-      {
-        "word": "'em",
-        "start": 61.14,
-        "end": 61.24,
-        "singer": "singer1"
-      },
-      {
-        "word": "up,",
-        "start": 61.25,
-        "end": 61.35,
-        "singer": "singer1"
-      }
-    ],
-    "time": 61.03,
-    "end": 61.35
-  },
-  {
-    "text": "hit 'em up",
-    "startTime": 61.36,
-    "endTime": 61.68,
-    "words": [
-      {
-        "word": "hit",
-        "start": 61.42,
-        "end": 61.46,
-        "singer": "singer2"
-      },
-      {
-        "word": "'em",
-        "start": 61.47,
-        "end": 61.57,
-        "singer": "singer1"
-      },
-      {
-        "word": "up",
-        "start": 61.58,
-        "end": 61.68,
-        "singer": "singer2"
-      }
-    ],
-    "time": 61.36,
-    "end": 61.68
-  },
-  {
-    "text": "In the truck, got it tucked",
-    "startTime": 62.91,
-    "endTime": 63.56,
-    "words": [
-      {
-        "word": "In",
-        "start": 62.91,
-        "end": 63.01,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "the",
-        "start": 63.02,
-        "end": 63.12,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "truck,",
-        "start": 63.13,
-        "end": 63.23,
-        "singer": "singer1"
-      },
-      {
-        "word": "got",
-        "start": 63.24,
-        "end": 63.34,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 63.35,
-        "end": 63.45,
-        "singer": "singer1"
-      },
-      {
-        "word": "tucked",
-        "start": 63.46,
-        "end": 63.56,
-        "singer": "singer1"
-      }
-    ],
-    "time": 62.91,
-    "end": 63.56
-  },
-  {
-    "text": "He get it up, like it's stuck",
-    "startTime": 64.34,
-    "endTime": 65.1,
-    "words": [
-      {
-        "word": "He",
-        "start": 64.34,
-        "end": 64.44,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "get",
-        "start": 64.51,
-        "end": 64.55,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 64.56,
-        "end": 64.66,
-        "singer": "singer1"
-      },
-      {
-        "word": "up,",
-        "start": 64.67,
-        "end": 64.77,
-        "singer": "singer1"
-      },
-      {
-        "word": "like",
-        "start": 64.84,
-        "end": 64.88,
-        "singer": "singer1"
-      },
-      {
-        "word": "it's",
-        "start": 64.89,
-        "end": 64.99,
-        "singer": "singer2"
-      },
-      {
-        "word": "stuck",
-        "start": 65,
-        "end": 65.1,
-        "singer": "singer2"
-      }
-    ],
-    "time": 64.34,
-    "end": 65.1
-  },
-  {
-    "text": "All night, I like",
-    "startTime": 66.28,
-    "endTime": 66.71,
+    "text": "All about me, that's the energy",
+    "startTime": 35.55,
+    "endTime": 37.7,
     "words": [
       {
         "word": "All",
-        "start": 66.28,
-        "end": 66.38,
-        "singer": "singer1"
+        "start": 35.55,
+        "end": 35.88
       },
       {
-        "word": "night,",
-        "start": 66.45,
-        "end": 66.49,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "about",
+        "start": 36.112,
+        "end": 36.26,
+        "spoken": true
       },
       {
-        "word": "I",
-        "start": 66.5,
-        "end": 66.6,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "me,",
+        "start": 36.27,
+        "end": 36.6,
+        "spoken": true
       },
       {
-        "word": "like",
-        "start": 66.61,
-        "end": 66.71,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 66.28,
-    "end": 66.71
-  },
-  {
-    "text": "You ain't gotta say it when you know it's on site",
-    "startTime": 68.1,
-    "endTime": 69.3,
-    "words": [
-      {
-        "word": "You",
-        "start": 68.1,
-        "end": 68.2,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "that's",
+        "start": 36.62,
+        "end": 36.84,
+        "spoken": true
       },
       {
-        "word": "ain't",
-        "start": 68.21,
-        "end": 68.31,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "the",
+        "start": 36.964,
+        "end": 37.04,
+        "spoken": true
       },
       {
-        "word": "gotta",
-        "start": 68.32,
-        "end": 68.42,
-        "singer": "singer1"
-      },
-      {
-        "word": "say",
-        "start": 68.43,
-        "end": 68.53,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 68.6,
-        "end": 68.64,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "when",
-        "start": 68.65,
-        "end": 68.75,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "you",
-        "start": 68.76,
-        "end": 68.86,
-        "singer": "singer2"
-      },
-      {
-        "word": "know",
-        "start": 68.93,
-        "end": 68.97,
-        "singer": "singer2"
-      },
-      {
-        "word": "it's",
-        "start": 69.04,
-        "end": 69.08,
-        "singer": "singer2"
-      },
-      {
-        "word": "on",
-        "start": 69.09,
-        "end": 69.19,
-        "singer": "singer1"
-      },
-      {
-        "word": "site",
-        "start": 69.2,
-        "end": 69.3,
-        "singer": "singer1"
-      }
-    ],
-    "time": 68.1,
-    "end": 69.3
-  },
-  {
-    "text": "If you put it down, I'ma pick it up, up (ayy), up (ayy)",
-    "startTime": 68.28,
-    "endTime": 71.26,
-    "words": [
-      {
-        "word": "If",
-        "start": 68.28,
-        "end": 68.43,
-        "singer": "singer1"
-      },
-      {
-        "word": "you",
-        "start": 68.57,
-        "end": 68.63,
-        "singer": "singer1"
-      },
-      {
-        "word": "put",
-        "start": 68.68,
-        "end": 68.83,
+        "word": "energy",
+        "start": 37.259,
+        "end": 37.7,
         "char_starts": [
-          113.33,
-          113.71,
-          114.298
-        ],
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 68.97,
-        "end": 69.03,
-        "singer": "singer2"
-      },
-      {
-        "word": "down,",
-        "start": 69.08,
-        "end": 69.58,
-        "singer": "singer2"
-      },
-      {
-        "word": "I'ma",
-        "start": 69.753,
-        "end": 69.86,
-        "singer": "singer1"
-      },
-      {
-        "word": "pick",
-        "start": 69.87,
-        "end": 70.06,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 70.209,
-        "end": 70.38,
-        "singer": "singer1"
-      },
-      {
-        "word": "up,",
-        "start": 70.516,
-        "end": 70.6,
-        "singer": "singer1"
-      },
-      {
-        "word": "up",
-        "start": 70.88,
-        "end": 70.9,
-        "singer": "singer1"
-      },
-      {
-        "word": "(ayy),",
-        "start": 70.91,
-        "end": 70.95,
-        "adlib": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "up",
-        "start": 70.96,
-        "end": 71.06,
-        "singer": "singer1"
-      },
-      {
-        "word": "(ayy)",
-        "start": 71.16,
-        "end": 71.26,
-        "adlib": true,
-        "singer": "singer1"
+          37.259,
+          37.085,
+          37.155,
+          37.251,
+          37.368,
+          37.505
+        ]
       }
     ],
-    "time": 68.28,
-    "end": 71.26
+    "time": 35.55,
+    "end": 37.7
+  },
+  {
+    "text": "That's that lemon pepper thing, I'm a ten-piece baby",
+    "startTime": 37.71,
+    "endTime": 40.64,
+    "words": [
+      {
+        "word": "That's",
+        "start": 37.71,
+        "end": 38.18
+      },
+      {
+        "word": "that",
+        "start": 38.19,
+        "end": 38.29,
+        "spoken": true
+      },
+      {
+        "word": "lemon",
+        "start": 38.37,
+        "end": 38.5,
+        "spoken": true
+      },
+      {
+        "word": "pepper",
+        "start": 38.51,
+        "end": 38.55
+      },
+      {
+        "word": "thing,",
+        "start": 38.56,
+        "end": 39.0,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 39.286,
+        "end": 39.44,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 39.45,
+        "end": 39.58,
+        "spoken": true
+      },
+      {
+        "word": "ten-piece",
+        "start": 39.59,
+        "end": 40.04
+      },
+      {
+        "word": "baby",
+        "start": 40.64,
+        "end": 40.64
+      }
+    ],
+    "time": 37.71,
+    "end": 40.64
   },
   {
     "text": "Bedroom bully in the bando",
+    "startTime": 40.65,
+    "endTime": 42.64,
+    "words": [
+      {
+        "word": "Bedroom",
+        "start": 40.743,
+        "end": 41.24,
+        "spoken": true
+      },
+      {
+        "word": "bully",
+        "start": 41.25,
+        "end": 41.62
+      },
+      {
+        "word": "in",
+        "start": 41.723,
+        "end": 41.9
+      },
+      {
+        "word": "the",
+        "start": 42.024,
+        "end": 42.1,
+        "spoken": true
+      },
+      {
+        "word": "bando",
+        "start": 42.342,
+        "end": 42.64,
+        "spoken": true
+      }
+    ],
+    "time": 40.65,
+    "end": 42.64
+  },
+  {
+    "text": "He gon' make it flip, do it with no handles",
+    "startTime": 42.65,
+    "endTime": 45.24,
+    "words": [
+      {
+        "word": "He",
+        "start": 42.696,
+        "end": 43.1,
+        "spoken": true
+      },
+      {
+        "word": "gon'",
+        "start": 43.11,
+        "end": 43.22,
+        "spoken": true
+      },
+      {
+        "word": "make",
+        "start": 43.28,
+        "end": 43.44,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 43.564,
+        "end": 43.64,
+        "spoken": true
+      },
+      {
+        "word": "flip,",
+        "start": 43.65,
+        "end": 43.84,
+        "spoken": true
+      },
+      {
+        "word": "do",
+        "start": 43.86,
+        "end": 44.04,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 44.05,
+        "end": 44.2,
+        "spoken": true
+      },
+      {
+        "word": "with",
+        "start": 44.312,
+        "end": 44.38,
+        "spoken": true
+      },
+      {
+        "word": "no",
+        "start": 44.39,
+        "end": 44.58,
+        "spoken": true
+      },
+      {
+        "word": "handles",
+        "start": 44.94,
+        "end": 45.24,
+        "spoken": true
+      }
+    ],
+    "time": 42.65,
+    "end": 45.24
+  },
+  {
+    "text": "Never switching sides, only switching angles",
+    "startTime": 45.25,
+    "endTime": 47.74,
+    "words": [
+      {
+        "word": "Never",
+        "start": 45.25,
+        "end": 45.74
+      },
+      {
+        "word": "switching",
+        "start": 45.82,
+        "end": 46.04
+      },
+      {
+        "word": "sides,",
+        "start": 46.296,
+        "end": 46.46,
+        "spoken": true
+      },
+      {
+        "word": "only",
+        "start": 46.48,
+        "end": 46.72,
+        "spoken": true
+      },
+      {
+        "word": "switching",
+        "start": 46.776,
+        "end": 47.08,
+        "spoken": true
+      },
+      {
+        "word": "angles",
+        "start": 47.392,
+        "end": 47.74,
+        "spoken": true
+      }
+    ],
+    "time": 45.25,
+    "end": 47.74
+  },
+  {
+    "text": "Ooh, we go crazy like Rambo",
+    "startTime": 51.54,
+    "endTime": 51.91,
+    "words": [
+      {
+        "word": "Ooh,",
+        "start": 51.54,
+        "end": 51.66
+      },
+      {
+        "word": "we",
+        "start": 51.67,
+        "end": 51.71
+      },
+      {
+        "word": "go",
+        "start": 51.72,
+        "end": 51.76
+      },
+      {
+        "word": "crazy",
+        "start": 51.77,
+        "end": 51.81
+      },
+      {
+        "word": "like",
+        "start": 51.82,
+        "end": 51.86
+      },
+      {
+        "word": "Rambo",
+        "start": 51.87,
+        "end": 51.91
+      }
+    ],
+    "time": 51.54,
+    "end": 51.91
+  },
+  {
+    "text": "●",
+    "startTime": 52.21,
+    "endTime": 59.84,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 52.21,
+    "end": 59.84
+  },
+  {
+    "text": "What it is, hoe? (What it is?) What's up? (What's",
+    "startTime": 59.84,
+    "endTime": 64.56,
+    "words": [
+      {
+        "word": "What",
+        "start": 59.84,
+        "end": 59.99
+      },
+      {
+        "word": "it",
+        "start": 60.086,
+        "end": 60.19
+      },
+      {
+        "word": "is,",
+        "start": 60.33,
+        "end": 60.39
+      },
+      {
+        "word": "hoe?",
+        "start": 60.44,
+        "end": 60.59
+      },
+      {
+        "word": "(What",
+        "start": 60.71,
+        "end": 60.9,
+        "adlib": true
+      },
+      {
+        "word": "it",
+        "start": 60.91,
+        "end": 61.18,
+        "adlib": true
+      },
+      {
+        "word": "is?)",
+        "start": 61.19,
+        "end": 61.36,
+        "adlib": true
+      },
+      {
+        "word": "What's",
+        "start": 62.14,
+        "end": 62.62,
+        "spoken": true
+      },
+      {
+        "word": "up?",
+        "start": 62.63,
+        "end": 63.06,
+        "spoken": true
+      },
+      {
+        "word": "(What's",
+        "start": 63.42,
+        "end": 64.56,
+        "char_starts": [
+          63.42,
+          63.156,
+          63.29,
+          63.45,
+          63.63,
+          63.827,
+          64.038
+        ],
+        "adlib": true,
+        "sung": true,
+        "stretch": true
+      }
+    ],
+    "time": 59.84,
+    "end": 64.56
+  },
+  {
+    "text": "●",
+    "startTime": 64.86,
+    "endTime": 70.06,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 64.86,
+    "end": 70.06
+  },
+  {
+    "text": "up?)",
+    "startTime": 70.06,
+    "endTime": 70.28,
+    "words": [
+      {
+        "word": "up?)",
+        "start": 70.192,
+        "end": 70.28
+      }
+    ],
+    "time": 70.06,
+    "end": 70.28
+  },
+  {
+    "text": "Every good girl needs a little thug (thug)",
+    "startTime": 70.29,
+    "endTime": 70.68,
+    "words": [
+      {
+        "word": "Every",
+        "start": 70.29,
+        "end": 70.33
+      },
+      {
+        "word": "good",
+        "start": 70.34,
+        "end": 70.38
+      },
+      {
+        "word": "girl",
+        "start": 70.39,
+        "end": 70.43
+      },
+      {
+        "word": "needs",
+        "start": 70.44,
+        "end": 70.48
+      },
+      {
+        "word": "a",
+        "start": 70.49,
+        "end": 70.53
+      },
+      {
+        "word": "little",
+        "start": 70.54,
+        "end": 70.58
+      },
+      {
+        "word": "thug",
+        "start": 70.59,
+        "end": 70.63
+      },
+      {
+        "word": "(thug)",
+        "start": 70.64,
+        "end": 70.68,
+        "adlib": true
+      }
+    ],
+    "time": 70.29,
+    "end": 70.68
+  },
+  {
+    "text": "Every block boy needs a little love (love)",
+    "startTime": 70.69,
+    "endTime": 71.08,
+    "words": [
+      {
+        "word": "Every",
+        "start": 70.69,
+        "end": 70.73
+      },
+      {
+        "word": "block",
+        "start": 70.74,
+        "end": 70.78
+      },
+      {
+        "word": "boy",
+        "start": 70.79,
+        "end": 70.83
+      },
+      {
+        "word": "needs",
+        "start": 70.84,
+        "end": 70.88
+      },
+      {
+        "word": "a",
+        "start": 70.89,
+        "end": 70.93
+      },
+      {
+        "word": "little",
+        "start": 70.94,
+        "end": 70.98
+      },
+      {
+        "word": "love",
+        "start": 70.99,
+        "end": 71.03
+      },
+      {
+        "word": "(love)",
+        "start": 71.04,
+        "end": 71.08,
+        "adlib": true
+      }
+    ],
+    "time": 70.69,
+    "end": 71.08
+  },
+  {
+    "text": "If he put it down, I'ma pick it up, up, up",
     "startTime": 71.09,
     "endTime": 71.63,
     "words": [
       {
-        "word": "Bedroom",
+        "word": "If",
         "start": 71.09,
-        "end": 71.19,
-        "singer": "singer1"
+        "end": 71.13
       },
       {
-        "word": "bully",
-        "start": 71.2,
-        "end": 71.3,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "he",
+        "start": 71.14,
+        "end": 71.18
       },
       {
-        "word": "in",
-        "start": 71.31,
-        "end": 71.41,
-        "spoken": true,
-        "singer": "singer2"
+        "word": "put",
+        "start": 71.19,
+        "end": 71.23
       },
       {
-        "word": "the",
-        "start": 71.42,
-        "end": 71.52,
-        "spoken": true,
-        "singer": "singer2"
+        "word": "it",
+        "start": 71.24,
+        "end": 71.28
       },
       {
-        "word": "bando",
-        "start": 71.53,
-        "end": 71.63,
-        "singer": "singer2"
+        "word": "down,",
+        "start": 71.29,
+        "end": 71.33
+      },
+      {
+        "word": "I'ma",
+        "start": 71.34,
+        "end": 71.38
+      },
+      {
+        "word": "pick",
+        "start": 71.39,
+        "end": 71.43
+      },
+      {
+        "word": "it",
+        "start": 71.44,
+        "end": 71.48
+      },
+      {
+        "word": "up,",
+        "start": 71.49,
+        "end": 71.53
+      },
+      {
+        "word": "up,",
+        "start": 71.54,
+        "end": 71.58
+      },
+      {
+        "word": "up",
+        "start": 71.59,
+        "end": 71.63
       }
     ],
     "time": 71.09,
     "end": 71.63
   },
   {
-    "text": "He gon' make it flip, do it with no handles",
-    "startTime": 73.08,
-    "endTime": 74.17,
+    "text": "What it is, hoe? (What it is?) What's up? (What's up?)",
+    "startTime": 71.64,
+    "endTime": 72.18,
     "words": [
       {
-        "word": "He",
-        "start": 73.08,
-        "end": 73.18,
-        "singer": "singer1"
+        "word": "What",
+        "start": 71.64,
+        "end": 71.68
       },
       {
-        "word": "gon'",
+        "word": "it",
+        "start": 71.69,
+        "end": 71.73
+      },
+      {
+        "word": "is,",
+        "start": 71.74,
+        "end": 71.78
+      },
+      {
+        "word": "hoe?",
+        "start": 71.79,
+        "end": 71.83
+      },
+      {
+        "word": "(What",
+        "start": 71.84,
+        "end": 71.88,
+        "adlib": true
+      },
+      {
+        "word": "it",
+        "start": 71.89,
+        "end": 71.93,
+        "adlib": true
+      },
+      {
+        "word": "is?)",
+        "start": 71.94,
+        "end": 71.98,
+        "adlib": true
+      },
+      {
+        "word": "What's",
+        "start": 71.99,
+        "end": 72.03
+      },
+      {
+        "word": "up?",
+        "start": 72.04,
+        "end": 72.08
+      },
+      {
+        "word": "(What's",
+        "start": 72.09,
+        "end": 72.13,
+        "adlib": true
+      },
+      {
+        "word": "up?)",
+        "start": 72.14,
+        "end": 72.18,
+        "adlib": true
+      }
+    ],
+    "time": 71.64,
+    "end": 72.18
+  },
+  {
+    "text": "Every good girl needs a little thug (thug)",
+    "startTime": 72.19,
+    "endTime": 72.58,
+    "words": [
+      {
+        "word": "Every",
+        "start": 72.19,
+        "end": 72.23
+      },
+      {
+        "word": "good",
+        "start": 72.24,
+        "end": 72.28
+      },
+      {
+        "word": "girl",
+        "start": 72.29,
+        "end": 72.33
+      },
+      {
+        "word": "needs",
+        "start": 72.34,
+        "end": 72.38
+      },
+      {
+        "word": "a",
+        "start": 72.39,
+        "end": 72.43
+      },
+      {
+        "word": "little",
+        "start": 72.44,
+        "end": 72.48
+      },
+      {
+        "word": "thug",
+        "start": 72.49,
+        "end": 72.53
+      },
+      {
+        "word": "(thug)",
+        "start": 72.54,
+        "end": 72.58,
+        "adlib": true
+      }
+    ],
+    "time": 72.19,
+    "end": 72.58
+  },
+  {
+    "text": "Every block boy needs a little love (love)",
+    "startTime": 72.59,
+    "endTime": 72.98,
+    "words": [
+      {
+        "word": "Every",
+        "start": 72.59,
+        "end": 72.63
+      },
+      {
+        "word": "block",
+        "start": 72.64,
+        "end": 72.68
+      },
+      {
+        "word": "boy",
+        "start": 72.69,
+        "end": 72.73
+      },
+      {
+        "word": "needs",
+        "start": 72.74,
+        "end": 72.78
+      },
+      {
+        "word": "a",
+        "start": 72.79,
+        "end": 72.83
+      },
+      {
+        "word": "little",
+        "start": 72.84,
+        "end": 72.88
+      },
+      {
+        "word": "love",
+        "start": 72.89,
+        "end": 72.93
+      },
+      {
+        "word": "(love)",
+        "start": 72.94,
+        "end": 72.98,
+        "adlib": true
+      }
+    ],
+    "time": 72.59,
+    "end": 72.98
+  },
+  {
+    "text": "If he put it down, I'ma pick it up, up, up",
+    "startTime": 72.99,
+    "endTime": 73.71,
+    "words": [
+      {
+        "word": "If",
+        "start": 72.99,
+        "end": 73.03
+      },
+      {
+        "word": "he",
+        "start": 73.04,
+        "end": 73.08
+      },
+      {
+        "word": "put",
+        "start": 73.09,
+        "end": 73.13
+      },
+      {
+        "word": "it",
+        "start": 73.14,
+        "end": 73.18
+      },
+      {
+        "word": "down,",
         "start": 73.19,
-        "end": 73.29,
-        "singer": "singer1"
-      },
-      {
-        "word": "make",
-        "start": 73.3,
-        "end": 73.4,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 73.41,
-        "end": 73.51,
-        "singer": "singer1"
-      },
-      {
-        "word": "flip,",
-        "start": 73.52,
-        "end": 73.62,
-        "singer": "singer1"
-      },
-      {
-        "word": "do",
-        "start": 73.63,
-        "end": 73.73,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 73.74,
-        "end": 73.84,
-        "singer": "singer2"
-      },
-      {
-        "word": "with",
-        "start": 73.85,
-        "end": 73.95,
-        "singer": "singer2"
-      },
-      {
-        "word": "no",
-        "start": 74.02,
-        "end": 74.06,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "handles",
-        "start": 74.07,
-        "end": 74.17,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 73.08,
-    "end": 74.17
-  },
-  {
-    "text": "Never switchin' sides, only switchin' angles",
-    "startTime": 75.65,
-    "endTime": 76.3,
-    "words": [
-      {
-        "word": "Never",
-        "start": 75.65,
-        "end": 75.75,
-        "singer": "singer1"
-      },
-      {
-        "word": "switchin'",
-        "start": 75.76,
-        "end": 75.86,
-        "singer": "singer1"
-      },
-      {
-        "word": "sides,",
-        "start": 75.87,
-        "end": 75.97,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "only",
-        "start": 75.98,
-        "end": 76.08,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "switchin'",
-        "start": 76.09,
-        "end": 76.19,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "angles",
-        "start": 76.2,
-        "end": 76.3,
-        "singer": "singer1"
-      }
-    ],
-    "time": 75.65,
-    "end": 76.3
-  },
-  {
-    "text": "Ooh, we go crazy like Rambo",
-    "startTime": 78.24,
-    "endTime": 78.89,
-    "words": [
-      {
-        "word": "Ooh,",
-        "start": 78.24,
-        "end": 78.34,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "we",
-        "start": 78.35,
-        "end": 78.45,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "go",
-        "start": 78.46,
-        "end": 78.56,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "crazy",
-        "start": 78.57,
-        "end": 78.67,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "like",
-        "start": 78.68,
-        "end": 78.78,
-        "singer": "singer1"
-      },
-      {
-        "word": "Rambo",
-        "start": 78.79,
-        "end": 78.89,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 78.24,
-    "end": 78.89
-  },
-  {
-    "text": "What it is, though? (What it is?) What's up? (What's up?)",
-    "startTime": 80.99,
-    "endTime": 82.19,
-    "words": [
-      {
-        "word": "What",
-        "start": 80.99,
-        "end": 81.09,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 81.1,
-        "end": 81.2,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "is,",
-        "start": 81.21,
-        "end": 81.31,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "though?",
-        "start": 81.32,
-        "end": 81.42,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "(What",
-        "start": 81.43,
-        "end": 81.53,
-        "adlib": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 81.54,
-        "end": 81.64,
-        "adlib": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "is?)",
-        "start": 81.65,
-        "end": 81.75,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "What's",
-        "start": 81.76,
-        "end": 81.86,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "up?",
-        "start": 81.93,
-        "end": 81.97,
-        "singer": "singer2"
-      },
-      {
-        "word": "(What's",
-        "start": 81.98,
-        "end": 82.08,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "up?)",
-        "start": 82.09,
-        "end": 82.19,
-        "adlib": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 80.99,
-    "end": 82.19
-  },
-  {
-    "text": "Every good girl needs a little thug (thug)",
-    "startTime": 83.55,
-    "endTime": 84.42,
-    "words": [
-      {
-        "word": "Every",
-        "start": 83.55,
-        "end": 83.65,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "good",
-        "start": 83.66,
-        "end": 83.76,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "girl",
-        "start": 83.77,
-        "end": 83.87,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "needs",
-        "start": 83.88,
-        "end": 83.98,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "a",
-        "start": 83.99,
-        "end": 84.09,
-        "singer": "singer2"
-      },
-      {
-        "word": "little",
-        "start": 84.1,
-        "end": 84.2,
-        "singer": "singer2"
-      },
-      {
-        "word": "thug",
-        "start": 84.21,
-        "end": 84.31,
-        "singer": "singer2"
-      },
-      {
-        "word": "(thug)",
-        "start": 84.32,
-        "end": 84.42,
-        "adlib": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 83.55,
-    "end": 84.42
-  },
-  {
-    "text": "Every block boy needs a little love (love)",
-    "startTime": 85.92,
-    "endTime": 86.79,
-    "words": [
-      {
-        "word": "Every",
-        "start": 85.92,
-        "end": 86.02,
-        "singer": "singer1"
-      },
-      {
-        "word": "block",
-        "start": 86.03,
-        "end": 86.13,
-        "singer": "singer1"
-      },
-      {
-        "word": "boy",
-        "start": 86.14,
-        "end": 86.24,
-        "singer": "singer1"
-      },
-      {
-        "word": "needs",
-        "start": 86.25,
-        "end": 86.35,
-        "singer": "singer1"
-      },
-      {
-        "word": "a",
-        "start": 86.36,
-        "end": 86.46,
-        "singer": "singer1"
-      },
-      {
-        "word": "little",
-        "start": 86.47,
-        "end": 86.57,
-        "singer": "singer2"
-      },
-      {
-        "word": "love",
-        "start": 86.58,
-        "end": 86.68,
-        "singer": "singer2"
-      },
-      {
-        "word": "(love)",
-        "start": 86.69,
-        "end": 86.79,
-        "adlib": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 85.92,
-    "end": 86.79
-  },
-  {
-    "text": "If you put it down, I'ma pick it up, up (ayy), up (ayy)",
-    "startTime": 88.59,
-    "endTime": 90.01,
-    "words": [
-      {
-        "word": "If",
-        "start": 88.59,
-        "end": 88.69,
-        "singer": "singer1"
-      },
-      {
-        "word": "you",
-        "start": 88.7,
-        "end": 88.8,
-        "singer": "singer1"
-      },
-      {
-        "word": "put",
-        "start": 88.81,
-        "end": 88.91,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 88.92,
-        "end": 89.02,
-        "singer": "singer2"
-      },
-      {
-        "word": "down,",
-        "start": 89.03,
-        "end": 89.13,
-        "singer": "singer2"
+        "end": 73.23
       },
       {
         "word": "I'ma",
-        "start": 89.14,
-        "end": 89.24,
-        "singer": "singer2"
+        "start": 73.24,
+        "end": 73.28
       },
       {
         "word": "pick",
-        "start": 89.25,
-        "end": 89.35,
-        "singer": "singer2"
+        "start": 73.29,
+        "end": 73.33
       },
       {
         "word": "it",
-        "start": 89.36,
-        "end": 89.46,
-        "singer": "singer2"
+        "start": 73.34,
+        "end": 73.38
       },
       {
         "word": "up,",
-        "start": 89.53,
-        "end": 89.57,
-        "singer": "singer2"
-      },
-      {
-        "word": "up",
-        "start": 89.58,
-        "end": 89.68,
-        "singer": "singer2"
-      },
-      {
-        "word": "(ayy),",
-        "start": 89.69,
-        "end": 89.79,
-        "adlib": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "up",
-        "start": 89.8,
-        "end": 89.9,
-        "whisper": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "(ayy)",
-        "start": 89.91,
-        "end": 90.01,
-        "adlib": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 88.59,
-    "end": 90.01
-  },
-  {
-    "text": "What it is, though? (What it is?) What's up? (What's up?)",
-    "startTime": 91.16,
-    "endTime": 92.36,
-    "words": [
-      {
-        "word": "What",
-        "start": 91.16,
-        "end": 91.26,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 91.27,
-        "end": 91.37,
-        "singer": "singer1"
-      },
-      {
-        "word": "is,",
-        "start": 91.38,
-        "end": 91.48,
-        "singer": "singer1"
-      },
-      {
-        "word": "though?",
-        "start": 91.49,
-        "end": 91.59,
-        "singer": "singer2"
-      },
-      {
-        "word": "(What",
-        "start": 91.6,
-        "end": 91.7,
-        "adlib": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 91.77,
-        "end": 91.81,
-        "adlib": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "is?)",
-        "start": 91.82,
-        "end": 91.92,
-        "adlib": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "What's",
-        "start": 91.93,
-        "end": 92.03,
-        "singer": "singer2"
-      },
-      {
-        "word": "up?",
-        "start": 92.1,
-        "end": 92.14,
-        "singer": "singer2"
-      },
-      {
-        "word": "(What's",
-        "start": 92.15,
-        "end": 92.25,
-        "adlib": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "up?)",
-        "start": 92.26,
-        "end": 92.36,
-        "adlib": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 91.16,
-    "end": 92.36
-  },
-  {
-    "text": "Every good girl needs a little thug (thug)",
-    "startTime": 93.42,
-    "endTime": 94.29,
-    "words": [
-      {
-        "word": "Every",
-        "start": 93.42,
-        "end": 93.52,
-        "singer": "singer1"
-      },
-      {
-        "word": "good",
-        "start": 93.53,
-        "end": 93.63,
-        "singer": "singer1"
-      },
-      {
-        "word": "girl",
-        "start": 93.64,
-        "end": 93.74,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "needs",
-        "start": 93.75,
-        "end": 93.85,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "a",
-        "start": 93.86,
-        "end": 93.96,
-        "singer": "singer1"
-      },
-      {
-        "word": "little",
-        "start": 93.97,
-        "end": 94.07,
-        "singer": "singer1"
-      },
-      {
-        "word": "thug",
-        "start": 94.08,
-        "end": 94.18,
-        "singer": "singer2"
-      },
-      {
-        "word": "(thug)",
-        "start": 94.19,
-        "end": 94.29,
-        "adlib": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 93.42,
-    "end": 94.29
-  },
-  {
-    "text": "Every block boy needs a little love (love)",
-    "startTime": 96.13,
-    "endTime": 97,
-    "words": [
-      {
-        "word": "Every",
-        "start": 96.13,
-        "end": 96.23,
-        "singer": "singer1"
-      },
-      {
-        "word": "block",
-        "start": 96.24,
-        "end": 96.34,
-        "singer": "singer1"
-      },
-      {
-        "word": "boy",
-        "start": 96.35,
-        "end": 96.45,
-        "singer": "singer1"
-      },
-      {
-        "word": "needs",
-        "start": 96.46,
-        "end": 96.56,
-        "singer": "singer1"
-      },
-      {
-        "word": "a",
-        "start": 96.57,
-        "end": 96.67,
-        "singer": "singer2"
-      },
-      {
-        "word": "little",
-        "start": 96.68,
-        "end": 96.78,
-        "singer": "singer2"
-      },
-      {
-        "word": "love",
-        "start": 96.79,
-        "end": 96.89,
-        "singer": "singer2"
-      },
-      {
-        "word": "(love)",
-        "start": 96.9,
-        "end": 97,
-        "adlib": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 96.13,
-    "end": 97
-  },
-  {
-    "text": "If you put it down, I'ma pick it up, up (ayy), up (ayy)",
-    "startTime": 98.64,
-    "endTime": 100.06,
-    "words": [
-      {
-        "word": "If",
-        "start": 98.64,
-        "end": 98.74,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "you",
-        "start": 98.75,
-        "end": 98.85,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "put",
-        "start": 98.86,
-        "end": 98.96,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 98.97,
-        "end": 99.07,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "down,",
-        "start": 99.08,
-        "end": 99.18,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "I'ma",
-        "start": 99.19,
-        "end": 99.29,
-        "singer": "singer2"
-      },
-      {
-        "word": "pick",
-        "start": 99.36,
-        "end": 99.4,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 99.41,
-        "end": 99.51,
-        "singer": "singer2"
+        "start": 73.39,
+        "end": 73.49
       },
       {
         "word": "up,",
-        "start": 99.52,
-        "end": 99.62,
-        "singer": "singer2"
+        "start": 73.5,
+        "end": 73.6,
+        "spoken": true
       },
       {
         "word": "up",
-        "start": 99.69,
-        "end": 99.73,
-        "singer": "singer2"
-      },
-      {
-        "word": "(ayy),",
-        "start": 99.74,
-        "end": 99.84,
-        "adlib": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "up",
-        "start": 99.85,
-        "end": 99.95,
-        "singer": "singer2"
-      },
-      {
-        "word": "(ayy)",
-        "start": 99.96,
-        "end": 100.06,
-        "adlib": true,
-        "singer": "singer2"
+        "start": 73.61,
+        "end": 73.71,
+        "spoken": true
       }
     ],
-    "time": 98.64,
-    "end": 100.06
+    "time": 72.99,
+    "end": 73.71
   },
   {
-    "text": "I don't care if you run the streets",
-    "startTime": 101.28,
-    "endTime": 102.15,
+    "text": "Hit 'em up, hit 'em up in a truck",
+    "startTime": 73.72,
+    "endTime": 74.84,
     "words": [
       {
-        "word": "I",
-        "start": 101.28,
-        "end": 101.38,
-        "singer": "singer2"
-      },
-      {
-        "word": "don't",
-        "start": 101.39,
-        "end": 101.49,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "care",
-        "start": 101.5,
-        "end": 101.6,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "if",
-        "start": 101.61,
-        "end": 101.71,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "you",
-        "start": 101.72,
-        "end": 101.82,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "run",
-        "start": 101.83,
-        "end": 101.93,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "the",
-        "start": 101.94,
-        "end": 102.04,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "streets",
-        "start": 102.05,
-        "end": 102.15,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 101.28,
-    "end": 102.15
-  },
-  {
-    "text": "Long as you're comin' home to me",
-    "startTime": 103.34,
-    "endTime": 104.1,
-    "words": [
-      {
-        "word": "Long",
-        "start": 103.34,
-        "end": 103.44,
-        "singer": "singer1"
-      },
-      {
-        "word": "as",
-        "start": 103.45,
-        "end": 103.55,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "you're",
-        "start": 103.56,
-        "end": 103.66,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "comin'",
-        "start": 103.67,
-        "end": 103.77,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "home",
-        "start": 103.78,
-        "end": 103.88,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "to",
-        "start": 103.89,
-        "end": 103.99,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "me",
-        "start": 104,
-        "end": 104.1,
-        "singer": "singer1"
-      }
-    ],
-    "time": 103.34,
-    "end": 104.1
-  },
-  {
-    "text": "I love the way you walk and the way you speak",
-    "startTime": 106.09,
-    "endTime": 107.29,
-    "words": [
-      {
-        "word": "I",
-        "start": 106.09,
-        "end": 106.19,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "love",
-        "start": 106.2,
-        "end": 106.3,
-        "singer": "singer1"
-      },
-      {
-        "word": "the",
-        "start": 106.31,
-        "end": 106.41,
-        "singer": "singer1"
-      },
-      {
-        "word": "way",
-        "start": 106.42,
-        "end": 106.52,
-        "singer": "singer1"
-      },
-      {
-        "word": "you",
-        "start": 106.53,
-        "end": 106.63,
-        "singer": "singer1"
-      },
-      {
-        "word": "walk",
-        "start": 106.64,
-        "end": 106.74,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "and",
-        "start": 106.75,
-        "end": 106.85,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "the",
-        "start": 106.86,
-        "end": 106.96,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "way",
-        "start": 106.97,
-        "end": 107.07,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "you",
-        "start": 107.14,
-        "end": 107.18,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "speak",
-        "start": 107.19,
-        "end": 107.29,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 106.09,
-    "end": 107.29
-  },
-  {
-    "text": "He gon' keep it real, that's the deal, that's the reason that I speed down, down (down, down, down, down)",
-    "startTime": 108.65,
-    "endTime": 110.84,
-    "words": [
-      {
-        "word": "He",
-        "start": 108.65,
-        "end": 108.75,
-        "singer": "singer1"
-      },
-      {
-        "word": "gon'",
-        "start": 108.76,
-        "end": 108.86,
-        "singer": "singer1"
-      },
-      {
-        "word": "keep",
-        "start": 108.87,
-        "end": 108.97,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 108.98,
-        "end": 109.08,
-        "singer": "singer1"
-      },
-      {
-        "word": "real,",
-        "start": 109.09,
-        "end": 109.19,
-        "singer": "singer1"
-      },
-      {
-        "word": "that's",
-        "start": 109.2,
-        "end": 109.3,
-        "singer": "singer1"
-      },
-      {
-        "word": "the",
-        "start": 109.31,
-        "end": 109.41,
-        "singer": "singer2"
-      },
-      {
-        "word": "deal,",
-        "start": 109.42,
-        "end": 109.52,
-        "singer": "singer2"
-      },
-      {
-        "word": "that's",
-        "start": 109.53,
-        "end": 109.63,
-        "singer": "singer2"
-      },
-      {
-        "word": "the",
-        "start": 109.64,
-        "end": 109.74,
-        "singer": "singer2"
-      },
-      {
-        "word": "reason",
-        "start": 109.81,
-        "end": 109.85,
-        "singer": "singer2"
-      },
-      {
-        "word": "that",
-        "start": 109.86,
-        "end": 109.96,
-        "singer": "singer2"
-      },
-      {
-        "word": "I",
-        "start": 109.97,
-        "end": 110.07,
-        "singer": "singer2"
-      },
-      {
-        "word": "speed",
-        "start": 110.08,
-        "end": 110.18,
-        "singer": "singer2"
-      },
-      {
-        "word": "down,",
-        "start": 110.19,
-        "end": 110.29,
-        "singer": "singer2"
-      },
-      {
-        "word": "down",
-        "start": 110.3,
-        "end": 110.4,
-        "singer": "singer2"
-      },
-      {
-        "word": "(down,",
-        "start": 110.41,
-        "end": 110.51,
-        "adlib": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "down,",
-        "start": 110.52,
-        "end": 110.62,
-        "adlib": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "down,",
-        "start": 110.63,
-        "end": 110.73,
-        "adlib": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "down)",
-        "start": 110.74,
-        "end": 110.84,
-        "adlib": true,
-        "whisper": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 108.65,
-    "end": 110.84
-  },
-  {
-    "text": "I put that all on my name (all on my name)",
-    "startTime": 113.34,
-    "endTime": 114.54,
-    "words": [
-      {
-        "word": "I",
-        "start": 113.34,
-        "end": 113.44,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "put",
-        "start": 113.45,
-        "end": 113.55,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "that",
-        "start": 113.56,
-        "end": 113.66,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "all",
-        "start": 113.67,
-        "end": 113.77,
-        "singer": "singer1"
-      },
-      {
-        "word": "on",
-        "start": 113.78,
-        "end": 113.88,
-        "singer": "singer1"
-      },
-      {
-        "word": "my",
-        "start": 113.89,
-        "end": 113.99,
-        "singer": "singer1"
-      },
-      {
-        "word": "name",
-        "start": 114,
-        "end": 114.1,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "(all",
-        "start": 114.11,
-        "end": 114.21,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "on",
-        "start": 114.22,
-        "end": 114.32,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "my",
-        "start": 114.33,
-        "end": 114.43,
-        "adlib": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "name)",
-        "start": 114.44,
-        "end": 114.54,
-        "adlib": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 113.34,
-    "end": 114.54
-  },
-  {
-    "text": "Yeah, that's an even exchange (tell me what it is)",
-    "startTime": 116.29,
-    "endTime": 117.38,
-    "words": [
-      {
-        "word": "Yeah,",
-        "start": 116.29,
-        "end": 116.39,
-        "singer": "singer1"
-      },
-      {
-        "word": "that's",
-        "start": 116.46,
-        "end": 116.5,
-        "singer": "singer1"
-      },
-      {
-        "word": "an",
-        "start": 116.51,
-        "end": 116.61,
-        "singer": "singer1"
-      },
-      {
-        "word": "even",
-        "start": 116.62,
-        "end": 116.72,
-        "singer": "singer1"
-      },
-      {
-        "word": "exchange",
-        "start": 116.73,
-        "end": 116.83,
-        "singer": "singer1"
-      },
-      {
-        "word": "(tell",
-        "start": 116.84,
-        "end": 116.94,
-        "adlib": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "me",
-        "start": 116.95,
-        "end": 117.05,
-        "adlib": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "what",
-        "start": 117.06,
-        "end": 117.16,
-        "adlib": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 117.17,
-        "end": 117.27,
-        "adlib": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "is)",
-        "start": 117.28,
-        "end": 117.38,
-        "adlib": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 116.29,
-    "end": 117.38
-  },
-  {
-    "text": "Stay on your deal, we gon' tell 'em, we gon' tell 'em what, babe",
-    "startTime": 118.89,
-    "endTime": 120.42,
-    "words": [
-      {
-        "word": "Stay",
-        "start": 118.89,
-        "end": 118.99,
-        "singer": "singer1"
-      },
-      {
-        "word": "on",
-        "start": 119,
-        "end": 119.1,
-        "singer": "singer1"
-      },
-      {
-        "word": "your",
-        "start": 119.11,
-        "end": 119.21,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "deal,",
-        "start": 119.22,
-        "end": 119.32,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "we",
-        "start": 119.33,
-        "end": 119.43,
-        "singer": "singer1"
-      },
-      {
-        "word": "gon'",
-        "start": 119.44,
-        "end": 119.54,
-        "singer": "singer2"
-      },
-      {
-        "word": "tell",
-        "start": 119.55,
-        "end": 119.65,
-        "singer": "singer2"
-      },
-      {
-        "word": "'em,",
-        "start": 119.66,
-        "end": 119.76,
-        "singer": "singer2"
-      },
-      {
-        "word": "we",
-        "start": 119.77,
-        "end": 119.87,
-        "singer": "singer2"
-      },
-      {
-        "word": "gon'",
-        "start": 119.94,
-        "end": 119.98,
-        "singer": "singer2"
-      },
-      {
-        "word": "tell",
-        "start": 119.99,
-        "end": 120.09,
-        "singer": "singer2"
+        "word": "Hit",
+        "start": 73.72,
+        "end": 73.82,
+        "spoken": true
       },
       {
         "word": "'em",
-        "start": 120.1,
-        "end": 120.2,
-        "singer": "singer2"
-      },
-      {
-        "word": "what,",
-        "start": 120.21,
-        "end": 120.31,
-        "singer": "singer1"
-      },
-      {
-        "word": "babe",
-        "start": 120.32,
-        "end": 120.42,
-        "singer": "singer1"
-      }
-    ],
-    "time": 118.89,
-    "end": 120.42
-  },
-  {
-    "text": "What it is, though? What's up?",
-    "startTime": 121.75,
-    "endTime": 122.4,
-    "words": [
-      {
-        "word": "What",
-        "start": 121.75,
-        "end": 121.85,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 121.86,
-        "end": 121.96,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "is,",
-        "start": 121.97,
-        "end": 122.07,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "though?",
-        "start": 122.08,
-        "end": 122.18,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "What's",
-        "start": 122.19,
-        "end": 122.29,
-        "singer": "singer1"
-      },
-      {
-        "word": "up?",
-        "start": 122.3,
-        "end": 122.4,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 121.75,
-    "end": 122.4
-  },
-  {
-    "text": "Every good girl needs a little thug (needs a little thug)",
-    "startTime": 123.95,
-    "endTime": 125.15,
-    "words": [
-      {
-        "word": "Every",
-        "start": 123.95,
-        "end": 124.05,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "good",
-        "start": 124.06,
-        "end": 124.16,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "girl",
-        "start": 124.17,
-        "end": 124.27,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "needs",
-        "start": 124.28,
-        "end": 124.38,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "a",
-        "start": 124.39,
-        "end": 124.49,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "little",
-        "start": 124.5,
-        "end": 124.6,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "thug",
-        "start": 124.61,
-        "end": 124.71,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "(needs",
-        "start": 124.72,
-        "end": 124.82,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "a",
-        "start": 124.83,
-        "end": 124.93,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "little",
-        "start": 124.94,
-        "end": 125.04,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "thug)",
-        "start": 125.05,
-        "end": 125.15,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 123.95,
-    "end": 125.15
-  },
-  {
-    "text": "Every block boy needs a little love (needs a little love, yeah)",
-    "startTime": 128.87,
-    "endTime": 131.52,
-    "words": [
-      {
-        "word": "Every",
-        "start": 128.87,
-        "end": 129.02,
-        "singer": "singer1"
-      },
-      {
-        "word": "block",
-        "start": 129.262,
-        "end": 129.39,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "boy",
-        "start": 129.4,
-        "end": 129.71,
-        "singer": "singer2"
-      },
-      {
-        "word": "needs",
-        "start": 129.846,
-        "end": 129.93,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "a",
-        "start": 129.94,
-        "end": 130.13,
-        "singer": "singer1"
-      },
-      {
-        "word": "little",
-        "start": 130.14,
-        "end": 130.33,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "love",
-        "start": 130.526,
-        "end": 130.97,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "(needs",
-        "start": 130.98,
-        "end": 131.08,
-        "adlib": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "a",
-        "start": 131.15,
-        "end": 131.19,
-        "adlib": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "little",
-        "start": 131.2,
-        "end": 131.3,
-        "adlib": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "love,",
-        "start": 131.31,
-        "end": 131.41,
-        "adlib": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "yeah)",
-        "start": 131.42,
-        "end": 131.52,
-        "adlib": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 128.87,
-    "end": 131.52
-  },
-  {
-    "text": "If you put it down, I'ma pick it up, up, up",
-    "startTime": 129.03,
-    "endTime": 130.23,
-    "words": [
-      {
-        "word": "If",
-        "start": 129.03,
-        "end": 129.13,
-        "singer": "singer1"
-      },
-      {
-        "word": "you",
-        "start": 129.14,
-        "end": 129.24,
-        "singer": "singer2"
-      },
-      {
-        "word": "put",
-        "start": 129.31,
-        "end": 129.35,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 129.42,
-        "end": 129.46,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "down,",
-        "start": 129.47,
-        "end": 129.57,
-        "singer": "singer1"
-      },
-      {
-        "word": "I'ma",
-        "start": 129.58,
-        "end": 129.68,
-        "singer": "singer2"
-      },
-      {
-        "word": "pick",
-        "start": 129.75,
-        "end": 129.79,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 129.86,
-        "end": 129.9,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 73.83,
+        "end": 73.93,
+        "spoken": true
       },
       {
         "word": "up,",
-        "start": 129.91,
-        "end": 130.01,
-        "singer": "singer1"
+        "start": 74.0,
+        "end": 74.04,
+        "spoken": true
       },
       {
-        "word": "up,",
-        "start": 130.02,
-        "end": 130.12,
-        "singer": "singer1"
+        "word": "hit",
+        "start": 74.05,
+        "end": 74.15,
+        "spoken": true
+      },
+      {
+        "word": "'em",
+        "start": 74.16,
+        "end": 74.26,
+        "spoken": true
       },
       {
         "word": "up",
-        "start": 130.13,
-        "end": 130.23,
-        "singer": "singer1"
-      }
-    ],
-    "time": 129.03,
-    "end": 130.23
-  },
-  {
-    "text": "What it is, though? What's up?",
-    "startTime": 131.77,
-    "endTime": 132.42,
-    "words": [
-      {
-        "word": "What",
-        "start": 131.83,
-        "end": 131.87,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 74.33,
+        "end": 74.37
       },
       {
-        "word": "it",
-        "start": 131.88,
-        "end": 131.98,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "is,",
-        "start": 131.99,
-        "end": 132.09,
-        "singer": "singer1"
-      },
-      {
-        "word": "though?",
-        "start": 132.1,
-        "end": 132.2,
-        "singer": "singer2"
-      },
-      {
-        "word": "What's",
-        "start": 132.27,
-        "end": 132.31,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "up?",
-        "start": 132.32,
-        "end": 132.42,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 131.77,
-    "end": 132.42
-  },
-  {
-    "text": "Every good girl needs a little thug (needs a little love)",
-    "startTime": 134.25,
-    "endTime": 135.45,
-    "words": [
-      {
-        "word": "Every",
-        "start": 134.31,
-        "end": 134.35,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "good",
-        "start": 134.36,
-        "end": 134.46,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "girl",
-        "start": 134.47,
-        "end": 134.57,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "needs",
-        "start": 134.58,
-        "end": 134.68,
-        "spoken": true,
-        "singer": "singer2"
+        "word": "in",
+        "start": 74.38,
+        "end": 74.48
       },
       {
         "word": "a",
-        "start": 134.69,
-        "end": 134.79,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 74.49,
+        "end": 74.64
       },
       {
-        "word": "little",
-        "start": 134.8,
-        "end": 134.9,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "thug",
-        "start": 134.97,
-        "end": 135.01,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "(needs",
-        "start": 135.02,
-        "end": 135.12,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "a",
-        "start": 135.19,
-        "end": 135.23,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "little",
-        "start": 135.24,
-        "end": 135.34,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "love)",
-        "start": 135.35,
-        "end": 135.45,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer2"
+        "word": "truck",
+        "start": 74.78,
+        "end": 74.84
       }
     ],
-    "time": 134.25,
-    "end": 135.45
+    "time": 73.72,
+    "end": 74.84
   },
   {
-    "text": "Every block boy needs a little love (needs a little love, thug)",
-    "startTime": 136.45,
-    "endTime": 137.76,
-    "words": [
-      {
-        "word": "Every",
-        "start": 136.51,
-        "end": 136.55,
-        "singer": "singer2"
-      },
-      {
-        "word": "block",
-        "start": 136.56,
-        "end": 136.66,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "boy",
-        "start": 136.67,
-        "end": 136.77,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "needs",
-        "start": 136.78,
-        "end": 136.88,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "a",
-        "start": 136.89,
-        "end": 136.99,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "little",
-        "start": 137,
-        "end": 137.1,
-        "singer": "singer1"
-      },
-      {
-        "word": "love",
-        "start": 137.11,
-        "end": 137.21,
-        "singer": "singer2"
-      },
-      {
-        "word": "(needs",
-        "start": 137.22,
-        "end": 137.32,
-        "adlib": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "a",
-        "start": 137.39,
-        "end": 137.43,
-        "adlib": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "little",
-        "start": 137.5,
-        "end": 137.54,
-        "adlib": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "love,",
-        "start": 137.55,
-        "end": 137.65,
-        "adlib": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "thug)",
-        "start": 137.66,
-        "end": 137.76,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 136.45,
-    "end": 137.76
+    "text": "●",
+    "startTime": 75.14,
+    "endTime": 83.014,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 75.14,
+    "end": 83.014
   },
   {
-    "text": "If you put it down, I'ma pick it up, up (ayy), up (ayy)",
-    "startTime": 139.2,
-    "endTime": 140.62,
+    "text": "In the truck, got it tucked",
+    "startTime": 83.014,
+    "endTime": 84.256,
     "words": [
       {
-        "word": "If",
-        "start": 139.2,
-        "end": 139.3,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "you",
-        "start": 139.37,
-        "end": 139.41,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "put",
-        "start": 139.42,
-        "end": 139.52,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 139.53,
-        "end": 139.63,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "down,",
-        "start": 139.64,
-        "end": 139.74,
-        "singer": "singer1"
-      },
-      {
-        "word": "I'ma",
-        "start": 139.75,
-        "end": 139.85,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "pick",
-        "start": 139.86,
-        "end": 139.96,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 140.03,
-        "end": 140.07,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "up,",
-        "start": 140.08,
-        "end": 140.18,
-        "singer": "singer1"
-      },
-      {
-        "word": "up",
-        "start": 140.19,
-        "end": 140.29,
-        "singer": "singer1"
-      },
-      {
-        "word": "(ayy),",
-        "start": 140.3,
-        "end": 140.4,
-        "adlib": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "up",
-        "start": 140.41,
-        "end": 140.51,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "(ayy)",
-        "start": 140.52,
-        "end": 140.62,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 139.2,
-    "end": 140.62
-  },
-  {
-    "text": "Back it up and do, and do it like that, yeah (what it is? What's up?)",
-    "startTime": 142.17,
-    "endTime": 143.92,
-    "words": [
-      {
-        "word": "Back",
-        "start": 142.17,
-        "end": 142.27,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 142.28,
-        "end": 142.38,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "up",
-        "start": 142.45,
-        "end": 142.49,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "and",
-        "start": 142.56,
-        "end": 142.6,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "do,",
-        "start": 142.61,
-        "end": 142.71,
-        "singer": "singer1"
-      },
-      {
-        "word": "and",
-        "start": 142.72,
-        "end": 142.82,
-        "singer": "singer1"
-      },
-      {
-        "word": "do",
-        "start": 142.83,
-        "end": 142.93,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 142.94,
-        "end": 143.04,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "like",
-        "start": 143.05,
-        "end": 143.15,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "that,",
-        "start": 143.22,
-        "end": 143.26,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "yeah",
-        "start": 143.27,
-        "end": 143.37,
-        "singer": "singer1"
-      },
-      {
-        "word": "(what",
-        "start": 143.38,
-        "end": 143.48,
-        "adlib": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 143.49,
-        "end": 143.59,
-        "adlib": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "is?",
-        "start": 143.6,
-        "end": 143.7,
-        "adlib": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "What's",
-        "start": 143.71,
-        "end": 143.81,
-        "adlib": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "up?)",
-        "start": 143.82,
-        "end": 143.92,
-        "adlib": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 142.17,
-    "end": 143.92
-  },
-  {
-    "text": "Back it up and do it like that, yeah (ho)",
-    "startTime": 144.8,
-    "endTime": 145.89,
-    "words": [
-      {
-        "word": "Back",
-        "start": 144.8,
-        "end": 144.9,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 144.91,
-        "end": 145.01,
-        "singer": "singer2"
-      },
-      {
-        "word": "up",
-        "start": 145.08,
-        "end": 145.12,
-        "singer": "singer2"
-      },
-      {
-        "word": "and",
-        "start": 145.13,
-        "end": 145.23,
-        "singer": "singer1"
-      },
-      {
-        "word": "do",
-        "start": 145.24,
-        "end": 145.34,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 145.35,
-        "end": 145.45,
-        "singer": "singer1"
-      },
-      {
-        "word": "like",
-        "start": 145.46,
-        "end": 145.56,
-        "singer": "singer2"
-      },
-      {
-        "word": "that,",
-        "start": 145.57,
-        "end": 145.67,
-        "singer": "singer2"
-      },
-      {
-        "word": "yeah",
-        "start": 145.74,
-        "end": 145.78,
-        "singer": "singer2"
-      },
-      {
-        "word": "(ho)",
-        "start": 145.79,
-        "end": 145.89,
-        "adlib": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 144.8,
-    "end": 145.89
-  },
-  {
-    "text": "Back it up, back it and do it like that, yeah",
-    "startTime": 147.69,
-    "endTime": 148.89,
-    "words": [
-      {
-        "word": "Back",
-        "start": 147.69,
-        "end": 147.79,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 147.8,
-        "end": 147.9,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "up,",
-        "start": 147.91,
-        "end": 148.01,
-        "singer": "singer2"
-      },
-      {
-        "word": "back",
-        "start": 148.02,
-        "end": 148.12,
-        "whisper": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 148.13,
-        "end": 148.23,
-        "whisper": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "and",
-        "start": 148.3,
-        "end": 148.34,
-        "singer": "singer2"
-      },
-      {
-        "word": "do",
-        "start": 148.35,
-        "end": 148.45,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 148.46,
-        "end": 148.56,
-        "whisper": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "like",
-        "start": 148.63,
-        "end": 148.67,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "that,",
-        "start": 148.68,
-        "end": 148.78,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "yeah",
-        "start": 148.79,
-        "end": 148.89,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 147.69,
-    "end": 148.89
-  },
-  {
-    "text": "Back it up, go'n and do it like that, yeah (woo)",
-    "startTime": 150.17,
-    "endTime": 151.37,
-    "words": [
-      {
-        "word": "Back",
-        "start": 150.17,
-        "end": 150.27,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 150.28,
-        "end": 150.38,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "up,",
-        "start": 150.39,
-        "end": 150.49,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "go'n",
-        "start": 150.5,
-        "end": 150.6,
-        "singer": "singer2"
-      },
-      {
-        "word": "and",
-        "start": 150.61,
-        "end": 150.71,
-        "singer": "singer2"
-      },
-      {
-        "word": "do",
-        "start": 150.78,
-        "end": 150.82,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 150.83,
-        "end": 150.93,
-        "singer": "singer1"
-      },
-      {
-        "word": "like",
-        "start": 150.94,
-        "end": 151.04,
-        "singer": "singer2"
-      },
-      {
-        "word": "that,",
-        "start": 151.11,
-        "end": 151.15,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "yeah",
-        "start": 151.16,
-        "end": 151.26,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "(woo)",
-        "start": 151.27,
-        "end": 151.37,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 150.17,
-    "end": 151.37
-  },
-  {
-    "text": "Hey, what it is? Hey, what's up?",
-    "startTime": 153.09,
-    "endTime": 153.85,
-    "words": [
-      {
-        "word": "Hey,",
-        "start": 153.15,
-        "end": 153.19,
-        "singer": "singer2"
-      },
-      {
-        "word": "what",
-        "start": 153.2,
-        "end": 153.3,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 153.37,
-        "end": 153.41,
-        "singer": "singer1"
-      },
-      {
-        "word": "is?",
-        "start": 153.42,
-        "end": 153.52,
-        "singer": "singer2"
-      },
-      {
-        "word": "Hey,",
-        "start": 153.53,
-        "end": 153.63,
-        "singer": "singer2"
-      },
-      {
-        "word": "what's",
-        "start": 153.64,
-        "end": 153.74,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "up?",
-        "start": 153.75,
-        "end": 153.85,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 153.09,
-    "end": 153.85
-  },
-  {
-    "text": "J. White Did It (yup, yup)",
-    "startTime": 155.07,
-    "endTime": 155.72,
-    "words": [
-      {
-        "word": "J.",
-        "start": 155.07,
-        "end": 155.17,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "White",
-        "start": 155.24,
-        "end": 155.28,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "Did",
-        "start": 155.29,
-        "end": 155.39,
-        "singer": "singer2"
-      },
-      {
-        "word": "It",
-        "start": 155.4,
-        "end": 155.5,
-        "singer": "singer2"
-      },
-      {
-        "word": "(yup,",
-        "start": 155.57,
-        "end": 155.61,
-        "adlib": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "yup)",
-        "start": 155.62,
-        "end": 155.72,
-        "adlib": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 155.07,
-    "end": 155.72
-  },
-  {
-    "text": "More is on the way (yup, yup, yeah)",
-    "startTime": 158.12,
-    "endTime": 158.99,
-    "words": [
-      {
-        "word": "More",
-        "start": 158.12,
-        "end": 158.22,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "is",
-        "start": 158.23,
-        "end": 158.33,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "on",
-        "start": 158.4,
-        "end": 158.44,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "In",
+        "start": 83.014,
+        "end": 83.118,
+        "spoken": true
       },
       {
         "word": "the",
-        "start": 158.45,
-        "end": 158.55,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 83.128,
+        "end": 83.289,
+        "spoken": true
       },
       {
-        "word": "way",
-        "start": 158.56,
-        "end": 158.66,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "truck,",
+        "start": 83.299,
+        "end": 83.63,
+        "spoken": true
       },
       {
-        "word": "(yup,",
-        "start": 158.67,
-        "end": 158.77,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "got",
+        "start": 83.64,
+        "end": 83.801,
+        "spoken": true
       },
       {
-        "word": "yup,",
-        "start": 158.78,
-        "end": 158.88,
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "it",
+        "start": 83.811,
+        "end": 83.914,
+        "spoken": true
       },
       {
-        "word": "yeah)",
-        "start": 158.89,
-        "end": 158.99,
-        "adlib": true,
-        "singer": "singer1"
+        "word": "tucked",
+        "start": 84.123,
+        "end": 84.256
       }
     ],
-    "time": 158.12,
-    "end": 158.99
+    "time": 83.014,
+    "end": 84.256
   },
   {
-    "text": "Ride out, woah",
-    "startTime": 163.38,
-    "endTime": 163.7,
+    "text": "He get it up, like it's stuck",
+    "startTime": 84.266,
+    "endTime": 84.82,
     "words": [
       {
-        "word": "Ride",
-        "start": 163.44,
-        "end": 163.48,
-        "singer": "singer1"
+        "word": "He",
+        "start": 84.266,
+        "end": 84.369
       },
       {
-        "word": "out,",
-        "start": 163.49,
-        "end": 163.59,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "get",
+        "start": 84.476,
+        "end": 84.54
       },
       {
-        "word": "woah",
-        "start": 163.6,
-        "end": 163.7,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "it",
+        "start": 84.55,
+        "end": 84.62
+      },
+      {
+        "word": "up,",
+        "start": 84.63,
+        "end": 84.67
+      },
+      {
+        "word": "like",
+        "start": 84.68,
+        "end": 84.72
+      },
+      {
+        "word": "it's",
+        "start": 84.73,
+        "end": 84.77
+      },
+      {
+        "word": "stuck",
+        "start": 84.78,
+        "end": 84.82
       }
     ],
-    "time": 163.38,
-    "end": 163.7
+    "time": 84.266,
+    "end": 84.82
   },
   {
-    "text": "We need a lil' love, you know what I mean? (Yeah, ayy, ayy, woo)",
-    "startTime": 164.15,
-    "endTime": 167.43,
+    "text": "All night, I like",
+    "startTime": 84.83,
+    "endTime": 85.02,
     "words": [
       {
-        "word": "We",
-        "start": 164.15,
-        "end": 164.3,
-        "singer": "singer1"
+        "word": "All",
+        "start": 84.83,
+        "end": 84.87
       },
       {
-        "word": "need",
-        "start": 164.35,
-        "end": 164.5,
-        "singer": "singer1"
+        "word": "night,",
+        "start": 84.88,
+        "end": 84.92
       },
       {
-        "word": "a",
-        "start": 164.55,
-        "end": 164.7,
-        "singer": "singer1"
+        "word": "I",
+        "start": 84.93,
+        "end": 84.97
       },
       {
-        "word": "lil'",
-        "start": 164.75,
-        "end": 164.9,
-        "singer": "singer1"
+        "word": "like",
+        "start": 84.98,
+        "end": 85.02
+      }
+    ],
+    "time": 84.83,
+    "end": 85.02
+  },
+  {
+    "text": "You ain't gotta say when you know it's on sight",
+    "startTime": 85.03,
+    "endTime": 85.58,
+    "words": [
+      {
+        "word": "You",
+        "start": 85.03,
+        "end": 85.07
       },
       {
-        "word": "love,",
-        "start": 164.95,
-        "end": 165.1,
-        "singer": "singer1"
+        "word": "ain't",
+        "start": 85.08,
+        "end": 85.12
+      },
+      {
+        "word": "gotta",
+        "start": 85.13,
+        "end": 85.17
+      },
+      {
+        "word": "say",
+        "start": 85.18,
+        "end": 85.22
+      },
+      {
+        "word": "when",
+        "start": 85.23,
+        "end": 85.27
       },
       {
         "word": "you",
-        "start": 165.15,
-        "end": 166.55,
+        "start": 85.28,
+        "end": 85.32
+      },
+      {
+        "word": "know",
+        "start": 85.33,
+        "end": 85.37
+      },
+      {
+        "word": "it's",
+        "start": 85.38,
+        "end": 85.42
+      },
+      {
+        "word": "on",
+        "start": 85.43,
+        "end": 85.47
+      },
+      {
+        "word": "sight",
+        "start": 85.48,
+        "end": 85.58,
+        "whisper": true
+      }
+    ],
+    "time": 85.03,
+    "end": 85.58
+  },
+  {
+    "text": "Bedroom bully in the bando",
+    "startTime": 87.58,
+    "endTime": 92.14,
+    "words": [
+      {
+        "word": "Bedroom",
+        "start": 87.832,
+        "end": 88.0
+      },
+      {
+        "word": "bully",
+        "start": 89.113,
+        "end": 89.24
+      },
+      {
+        "word": "in",
+        "start": 89.552,
+        "end": 90.74,
+        "char_starts": [
+          89.552,
+          90.218
+        ]
+      },
+      {
+        "word": "the",
+        "start": 91.3,
+        "end": 91.44
+      },
+      {
+        "word": "bando",
+        "start": 92.044,
+        "end": 92.14
+      }
+    ],
+    "time": 87.58,
+    "end": 92.14
+  },
+  {
+    "text": "●",
+    "startTime": 92.44,
+    "endTime": 106.78,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 92.44,
+    "end": 106.78
+  },
+  {
+    "text": "He gon' make it flip, do it with no handles",
+    "startTime": 106.78,
+    "endTime": 110.3,
+    "words": [
+      {
+        "word": "He",
+        "start": 106.78,
+        "end": 106.93,
+        "spoken": true
+      },
+      {
+        "word": "gon'",
+        "start": 107.07,
+        "end": 107.13,
+        "char_starts": [
+          107.07,
+          94.41,
+          94.75,
+          95.159
+        ],
+        "spoken": true
+      },
+      {
+        "word": "make",
+        "start": 107.18,
+        "end": 107.33,
+        "char_starts": [
+          95.69,
+          95.857,
+          96.196,
+          96.659
+        ],
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 107.38,
+        "end": 107.53,
+        "spoken": true
+      },
+      {
+        "word": "flip,",
+        "start": 107.65,
+        "end": 107.88,
+        "spoken": true
+      },
+      {
+        "word": "do",
+        "start": 108.24,
+        "end": 108.82,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 108.83,
+        "end": 109.0
+      },
+      {
+        "word": "with",
+        "start": 109.1,
+        "end": 109.3
+      },
+      {
+        "word": "no",
+        "start": 109.31,
+        "end": 109.41
+      },
+      {
+        "word": "handles",
+        "start": 109.82,
+        "end": 110.3
+      }
+    ],
+    "time": 106.78,
+    "end": 110.3
+  },
+  {
+    "text": "Never switching sides, only switching angles",
+    "startTime": 111.24,
+    "endTime": 115.88,
+    "words": [
+      {
+        "word": "Never",
+        "start": 111.286,
+        "end": 111.4,
+        "spoken": true
+      },
+      {
+        "word": "switching",
+        "start": 112.38,
+        "end": 112.76,
+        "spoken": true
+      },
+      {
+        "word": "sides,",
+        "start": 112.77,
+        "end": 112.94,
+        "spoken": true
+      },
+      {
+        "word": "only",
+        "start": 113.256,
+        "end": 113.36
+      },
+      {
+        "word": "switching",
+        "start": 115.68,
+        "end": 115.72
+      },
+      {
+        "word": "angles",
+        "start": 115.73,
+        "end": 115.88
+      }
+    ],
+    "time": 111.24,
+    "end": 115.88
+  },
+  {
+    "text": "●",
+    "startTime": 116.18,
+    "endTime": 127.1,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 116.18,
+    "end": 127.1
+  },
+  {
+    "text": "Ooh, we go crazy like Rambo",
+    "startTime": 127.1,
+    "endTime": 127.534,
+    "words": [
+      {
+        "word": "Ooh,",
+        "start": 127.1,
+        "end": 127.26
+      },
+      {
+        "word": "we",
+        "start": 127.27,
+        "end": 127.31
+      },
+      {
+        "word": "go",
+        "start": 127.32,
+        "end": 127.36
+      },
+      {
+        "word": "crazy",
+        "start": 127.37,
+        "end": 127.422
+      },
+      {
+        "word": "like",
+        "start": 127.432,
+        "end": 127.472
+      },
+      {
+        "word": "Rambo",
+        "start": 127.482,
+        "end": 127.534
+      }
+    ],
+    "time": 127.1,
+    "end": 127.534
+  },
+  {
+    "text": "What it is, hoe? (What it is?) What's up? (What's up?)",
+    "startTime": 127.544,
+    "endTime": 128.4,
+    "words": [
+      {
+        "word": "What",
+        "start": 127.544,
+        "end": 127.584
+      },
+      {
+        "word": "it",
+        "start": 127.594,
+        "end": 127.634
+      },
+      {
+        "word": "is,",
+        "start": 127.644,
+        "end": 127.684
+      },
+      {
+        "word": "hoe?",
+        "start": 127.694,
+        "end": 127.734
+      },
+      {
+        "word": "(What",
+        "start": 127.744,
+        "end": 127.796,
+        "adlib": true,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 127.806,
+        "end": 127.846,
+        "adlib": true
+      },
+      {
+        "word": "is?)",
+        "start": 127.856,
+        "end": 127.896,
+        "adlib": true
+      },
+      {
+        "word": "What's",
+        "start": 127.931,
+        "end": 127.971,
+        "spoken": true
+      },
+      {
+        "word": "up?",
+        "start": 127.981,
+        "end": 128.021
+      },
+      {
+        "word": "(What's",
+        "start": 128.031,
+        "end": 128.108,
+        "adlib": true
+      },
+      {
+        "word": "up?)",
+        "start": 128.287,
+        "end": 128.4,
+        "adlib": true
+      }
+    ],
+    "time": 127.544,
+    "end": 128.4
+  },
+  {
+    "text": "Every good girl needs a little thug (thug)",
+    "startTime": 128.74,
+    "endTime": 130.89,
+    "words": [
+      {
+        "word": "Every",
+        "start": 128.872,
+        "end": 128.96
+      },
+      {
+        "word": "good",
+        "start": 128.97,
+        "end": 129.28,
+        "spoken": true
+      },
+      {
+        "word": "girl",
+        "start": 129.429,
+        "end": 129.56,
+        "spoken": true
+      },
+      {
+        "word": "needs",
+        "start": 129.57,
+        "end": 129.76,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 129.908,
+        "end": 130.0,
+        "spoken": true
+      },
+      {
+        "word": "little",
+        "start": 130.056,
+        "end": 130.24,
+        "spoken": true
+      },
+      {
+        "word": "thug",
+        "start": 130.505,
+        "end": 130.84,
+        "spoken": true
+      },
+      {
+        "word": "(thug)",
+        "start": 130.85,
+        "end": 130.89,
+        "adlib": true
+      }
+    ],
+    "time": 128.74,
+    "end": 130.89
+  },
+  {
+    "text": "Every block boy needs a little love (love)",
+    "startTime": 130.9,
+    "endTime": 133.41,
+    "words": [
+      {
+        "word": "Every",
+        "start": 131.25,
+        "end": 131.5
+      },
+      {
+        "word": "block",
+        "start": 131.51,
+        "end": 131.8
+      },
+      {
+        "word": "boy",
+        "start": 131.949,
+        "end": 132.08,
+        "spoken": true
+      },
+      {
+        "word": "needs",
+        "start": 132.09,
+        "end": 132.3,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 132.436,
+        "end": 132.52,
+        "spoken": true
+      },
+      {
+        "word": "little",
+        "start": 132.6,
+        "end": 132.74,
+        "spoken": true
+      },
+      {
+        "word": "love",
+        "start": 133.075,
+        "end": 133.36,
+        "spoken": true
+      },
+      {
+        "word": "(love)",
+        "start": 133.37,
+        "end": 133.41,
+        "adlib": true
+      }
+    ],
+    "time": 130.9,
+    "end": 133.41
+  },
+  {
+    "text": "If he put it down, I'ma pick it up, up, up",
+    "startTime": 136.92,
+    "endTime": 137.79,
+    "words": [
+      {
+        "word": "If",
+        "start": 137.01,
+        "end": 137.07
+      },
+      {
+        "word": "he",
+        "start": 137.12,
+        "end": 137.34
+      },
+      {
+        "word": "put",
+        "start": 137.35,
+        "end": 137.39
+      },
+      {
+        "word": "it",
+        "start": 137.4,
+        "end": 137.44
+      },
+      {
+        "word": "down,",
+        "start": 137.45,
+        "end": 137.49
+      },
+      {
+        "word": "I'ma",
+        "start": 137.5,
+        "end": 137.54
+      },
+      {
+        "word": "pick",
+        "start": 137.55,
+        "end": 137.59
+      },
+      {
+        "word": "it",
+        "start": 137.6,
+        "end": 137.64
+      },
+      {
+        "word": "up,",
+        "start": 137.65,
+        "end": 137.69
+      },
+      {
+        "word": "up,",
+        "start": 137.7,
+        "end": 137.74
+      },
+      {
+        "word": "up",
+        "start": 137.75,
+        "end": 137.79
+      }
+    ],
+    "time": 136.92,
+    "end": 137.79
+  },
+  {
+    "text": "●",
+    "startTime": 138.09,
+    "endTime": 143.36,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 138.09,
+    "end": 143.36
+  },
+  {
+    "text": "What it is, hoe? (What it is?) What's up? (What's up?)",
+    "startTime": 143.36,
+    "endTime": 145.98,
+    "words": [
+      {
+        "word": "What",
+        "start": 143.36,
+        "end": 143.51,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 143.56,
+        "end": 143.71,
+        "spoken": true
+      },
+      {
+        "word": "is,",
+        "start": 143.76,
+        "end": 143.91
+      },
+      {
+        "word": "hoe?",
+        "start": 143.96,
+        "end": 144.11
+      },
+      {
+        "word": "(What",
+        "start": 144.16,
+        "end": 144.31,
+        "adlib": true
+      },
+      {
+        "word": "it",
+        "start": 144.499,
+        "end": 144.6,
+        "adlib": true
+      },
+      {
+        "word": "is?)",
+        "start": 145.34,
+        "end": 145.58,
+        "adlib": true
+      },
+      {
+        "word": "What's",
+        "start": 145.59,
+        "end": 145.63
+      },
+      {
+        "word": "up?",
+        "start": 145.736,
+        "end": 145.8
+      },
+      {
+        "word": "(What's",
+        "start": 145.81,
+        "end": 145.85,
+        "adlib": true
+      },
+      {
+        "word": "up?)",
+        "start": 145.86,
+        "end": 145.98,
+        "adlib": true
+      }
+    ],
+    "time": 143.36,
+    "end": 145.98
+  },
+  {
+    "text": "Every good girl needs a little thug (thug)",
+    "startTime": 145.99,
+    "endTime": 146.564,
+    "words": [
+      {
+        "word": "Every",
+        "start": 145.99,
+        "end": 146.059
+      },
+      {
+        "word": "good",
+        "start": 146.069,
+        "end": 146.121
+      },
+      {
+        "word": "girl",
+        "start": 146.131,
+        "end": 146.184
+      },
+      {
+        "word": "needs",
+        "start": 146.194,
+        "end": 146.263
+      },
+      {
+        "word": "a",
+        "start": 146.273,
+        "end": 146.313
+      },
+      {
+        "word": "little",
+        "start": 146.367,
+        "end": 146.407
+      },
+      {
+        "word": "thug",
+        "start": 146.417,
+        "end": 146.47,
+        "spoken": true
+      },
+      {
+        "word": "(thug)",
+        "start": 146.48,
+        "end": 146.564,
+        "adlib": true,
+        "spoken": true
+      }
+    ],
+    "time": 145.99,
+    "end": 146.564
+  },
+  {
+    "text": "Every block boy needs a little love (love)",
+    "startTime": 146.574,
+    "endTime": 147.151,
+    "words": [
+      {
+        "word": "Every",
+        "start": 146.574,
+        "end": 146.643
+      },
+      {
+        "word": "block",
+        "start": 146.653,
+        "end": 146.721
+      },
+      {
+        "word": "boy",
+        "start": 146.731,
+        "end": 146.771
+      },
+      {
+        "word": "needs",
+        "start": 146.781,
+        "end": 146.85
+      },
+      {
+        "word": "a",
+        "start": 146.86,
+        "end": 146.9
+      },
+      {
+        "word": "little",
+        "start": 146.91,
+        "end": 146.994,
+        "spoken": true
+      },
+      {
+        "word": "love",
+        "start": 147.004,
+        "end": 147.057,
+        "spoken": true
+      },
+      {
+        "word": "(love)",
+        "start": 147.067,
+        "end": 147.151,
+        "adlib": true,
+        "spoken": true
+      }
+    ],
+    "time": 146.574,
+    "end": 147.151
+  },
+  {
+    "text": "If he put it down, I'ma pick it up, up, up",
+    "startTime": 147.161,
+    "endTime": 147.85,
+    "words": [
+      {
+        "word": "If",
+        "start": 147.161,
+        "end": 147.26,
+        "spoken": true
+      },
+      {
+        "word": "he",
+        "start": 147.27,
+        "end": 147.4,
+        "spoken": true
+      },
+      {
+        "word": "put",
+        "start": 147.41,
+        "end": 147.45
+      },
+      {
+        "word": "it",
+        "start": 147.46,
+        "end": 147.5
+      },
+      {
+        "word": "down,",
+        "start": 147.51,
+        "end": 147.55
+      },
+      {
+        "word": "I'ma",
+        "start": 147.56,
+        "end": 147.6
+      },
+      {
+        "word": "pick",
+        "start": 147.61,
+        "end": 147.65
+      },
+      {
+        "word": "it",
+        "start": 147.66,
+        "end": 147.7
+      },
+      {
+        "word": "up,",
+        "start": 147.71,
+        "end": 147.75
+      },
+      {
+        "word": "up,",
+        "start": 147.76,
+        "end": 147.8
+      },
+      {
+        "word": "up",
+        "start": 147.81,
+        "end": 147.85
+      }
+    ],
+    "time": 147.161,
+    "end": 147.85
+  },
+  {
+    "text": "I don't care if you run the streets",
+    "startTime": 147.86,
+    "endTime": 148.55,
+    "words": [
+      {
+        "word": "I",
+        "start": 147.86,
+        "end": 147.9
+      },
+      {
+        "word": "don't",
+        "start": 147.91,
+        "end": 147.95
+      },
+      {
+        "word": "care",
+        "start": 147.96,
+        "end": 148.0
+      },
+      {
+        "word": "if",
+        "start": 148.01,
+        "end": 148.11
+      },
+      {
+        "word": "you",
+        "start": 148.12,
+        "end": 148.22,
+        "whisper": true
+      },
+      {
+        "word": "run",
+        "start": 148.29,
+        "end": 148.33
+      },
+      {
+        "word": "the",
+        "start": 148.34,
+        "end": 148.44
+      },
+      {
+        "word": "streets",
+        "start": 148.45,
+        "end": 148.55,
+        "whisper": true
+      }
+    ],
+    "time": 147.86,
+    "end": 148.55
+  },
+  {
+    "text": "As long as you're coming home to me",
+    "startTime": 149.0,
+    "endTime": 150.74,
+    "words": [
+      {
+        "word": "As",
+        "start": 149.0,
+        "end": 149.1,
+        "whisper": true
+      },
+      {
+        "word": "long",
+        "start": 149.17,
+        "end": 149.21
+      },
+      {
+        "word": "as",
+        "start": 149.22,
+        "end": 149.32
+      },
+      {
+        "word": "you're",
+        "start": 149.33,
+        "end": 149.42,
+        "spoken": true
+      },
+      {
+        "word": "coming",
+        "start": 149.652,
+        "end": 149.8,
+        "spoken": true
+      },
+      {
+        "word": "home",
+        "start": 149.81,
+        "end": 150.02,
+        "spoken": true
+      },
+      {
+        "word": "to",
+        "start": 150.168,
+        "end": 150.26,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 150.27,
+        "end": 150.74,
+        "spoken": true
+      }
+    ],
+    "time": 149.0,
+    "end": 150.74
+  },
+  {
+    "text": "I love the way you walk and the way you speak",
+    "startTime": 150.75,
+    "endTime": 153.36,
+    "words": [
+      {
+        "word": "I",
+        "start": 150.796,
+        "end": 151.2,
+        "spoken": true
+      },
+      {
+        "word": "love",
+        "start": 151.21,
+        "end": 151.36,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 151.37,
+        "end": 151.48,
+        "spoken": true
+      },
+      {
+        "word": "way",
+        "start": 151.49,
+        "end": 151.66,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 151.786,
+        "end": 151.98,
+        "spoken": true
+      },
+      {
+        "word": "walk",
+        "start": 151.99,
+        "end": 152.2,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 152.21,
+        "end": 152.34
+      },
+      {
+        "word": "the",
+        "start": 152.35,
+        "end": 152.507
+      },
+      {
+        "word": "way",
+        "start": 152.517,
+        "end": 152.673
+      },
+      {
+        "word": "you",
+        "start": 152.729,
+        "end": 152.84
+      },
+      {
+        "word": "speak",
+        "start": 152.85,
+        "end": 153.36
+      }
+    ],
+    "time": 150.75,
+    "end": 153.36
+  },
+  {
+    "text": "He gon' keep it real, that's the deal",
+    "startTime": 153.37,
+    "endTime": 155.26,
+    "words": [
+      {
+        "word": "He",
+        "start": 153.37,
+        "end": 153.9,
+        "sung": true
+      },
+      {
+        "word": "gon'",
+        "start": 153.91,
+        "end": 154.0,
+        "spoken": true
+      },
+      {
+        "word": "keep",
+        "start": 154.08,
+        "end": 154.2
+      },
+      {
+        "word": "it",
+        "start": 154.303,
+        "end": 154.48
+      },
+      {
+        "word": "real,",
+        "start": 154.49,
+        "end": 154.64,
+        "spoken": true
+      },
+      {
+        "word": "that's",
+        "start": 154.766,
+        "end": 154.94,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 154.95,
+        "end": 155.08,
+        "spoken": true
+      },
+      {
+        "word": "deal",
+        "start": 155.09,
+        "end": 155.26,
+        "spoken": true
+      }
+    ],
+    "time": 153.37,
+    "end": 155.26
+  },
+  {
+    "text": "That's the reason I speed down, down",
+    "startTime": 155.27,
+    "endTime": 158.664,
+    "words": [
+      {
+        "word": "That's",
+        "start": 155.27,
+        "end": 155.31
+      },
+      {
+        "word": "the",
+        "start": 155.32,
+        "end": 155.42
+      },
+      {
+        "word": "reason",
+        "start": 155.8,
+        "end": 155.88
+      },
+      {
+        "word": "I",
+        "start": 156.1,
+        "end": 156.3
+      },
+      {
+        "word": "speed",
+        "start": 156.31,
+        "end": 156.58
+      },
+      {
+        "word": "down,",
+        "start": 156.869,
+        "end": 157.24,
+        "char_starts": [
+          156.869,
+          156.668,
+          156.789,
+          156.934,
+          157.097
+        ]
+      },
+      {
+        "word": "down",
+        "start": 157.32,
+        "end": 158.664,
+        "char_starts": [
+          157.32,
+          157.459,
+          157.782,
+          158.169
+        ],
+        "sung": true,
+        "stretch": true
+      }
+    ],
+    "time": 155.27,
+    "end": 158.664
+  },
+  {
+    "text": "I put that all on my name",
+    "startTime": 158.674,
+    "endTime": 161.02,
+    "words": [
+      {
+        "word": "I",
+        "start": 158.674,
+        "end": 159.02
+      },
+      {
+        "word": "put",
+        "start": 159.03,
+        "end": 159.24
+      },
+      {
+        "word": "that",
+        "start": 159.25,
+        "end": 159.54
+      },
+      {
+        "word": "all",
+        "start": 159.55,
+        "end": 159.7
+      },
+      {
+        "word": "on",
+        "start": 159.71,
+        "end": 159.92
+      },
+      {
+        "word": "my",
+        "start": 160.28,
+        "end": 160.6
+      },
+      {
+        "word": "name",
+        "start": 160.856,
+        "end": 161.02
+      }
+    ],
+    "time": 158.674,
+    "end": 161.02
+  },
+  {
+    "text": "Yeah, that's an even exchange",
+    "startTime": 161.24,
+    "endTime": 163.5,
+    "words": [
+      {
+        "word": "Yeah,",
+        "start": 161.333,
+        "end": 161.54
+      },
+      {
+        "word": "that's",
+        "start": 161.796,
+        "end": 161.94
+      },
+      {
+        "word": "an",
+        "start": 161.95,
+        "end": 162.14
+      },
+      {
+        "word": "even",
+        "start": 162.312,
+        "end": 162.42
+      },
+      {
+        "word": "exchange",
+        "start": 162.43,
+        "end": 163.5,
+        "char_starts": [
+          162.43,
+          162.463,
+          162.531,
+          162.623,
+          162.736,
+          162.867,
+          163.015,
+          163.179
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 161.24,
+    "end": 163.5
+  },
+  {
+    "text": "Stay on your tail, we gon' tell 'em",
+    "startTime": 163.51,
+    "endTime": 165.39,
+    "words": [
+      {
+        "word": "Stay",
+        "start": 163.556,
+        "end": 164.04,
+        "spoken": true
+      },
+      {
+        "word": "on",
+        "start": 164.05,
+        "end": 164.24
+      },
+      {
+        "word": "your",
+        "start": 164.25,
+        "end": 164.74
+      },
+      {
+        "word": "tail,",
+        "start": 164.75,
+        "end": 164.8
+      },
+      {
+        "word": "we",
+        "start": 164.81,
+        "end": 165.0
+      },
+      {
+        "word": "gon'",
+        "start": 165.01,
+        "end": 165.18
+      },
+      {
+        "word": "tell",
+        "start": 165.22,
+        "end": 165.34
+      },
+      {
+        "word": "'em",
+        "start": 165.35,
+        "end": 165.39
+      }
+    ],
+    "time": 163.51,
+    "end": 165.39
+  },
+  {
+    "text": "●",
+    "startTime": 165.69,
+    "endTime": 174.7,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 165.69,
+    "end": 174.7
+  },
+  {
+    "text": "We gon' tell 'em what, babe",
+    "startTime": 174.7,
+    "endTime": 177.11,
+    "words": [
+      {
+        "word": "We",
+        "start": 174.7,
+        "end": 174.85
+      },
+      {
+        "word": "gon'",
+        "start": 174.9,
+        "end": 175.05,
+        "spoken": true
+      },
+      {
+        "word": "tell",
+        "start": 175.1,
+        "end": 175.25,
+        "char_starts": [
+          165.5,
+          165.67,
+          165.933,
+          166.249
+        ],
+        "spoken": true
+      },
+      {
+        "word": "'em",
+        "start": 175.3,
+        "end": 175.62,
+        "spoken": true
+      },
+      {
+        "word": "what,",
+        "start": 176.873,
+        "end": 177.06
+      },
+      {
+        "word": "babe",
+        "start": 177.07,
+        "end": 177.11
+      }
+    ],
+    "time": 174.7,
+    "end": 177.11
+  },
+  {
+    "text": "What it is, hoe? (What it is?) What's up?",
+    "startTime": 177.12,
+    "endTime": 177.56,
+    "words": [
+      {
+        "word": "What",
+        "start": 177.12,
+        "end": 177.16
+      },
+      {
+        "word": "it",
+        "start": 177.17,
+        "end": 177.21
+      },
+      {
+        "word": "is,",
+        "start": 177.22,
+        "end": 177.26
+      },
+      {
+        "word": "hoe?",
+        "start": 177.27,
+        "end": 177.31
+      },
+      {
+        "word": "(What",
+        "start": 177.32,
+        "end": 177.36,
+        "adlib": true
+      },
+      {
+        "word": "it",
+        "start": 177.37,
+        "end": 177.41,
+        "adlib": true
+      },
+      {
+        "word": "is?)",
+        "start": 177.42,
+        "end": 177.46,
+        "adlib": true
+      },
+      {
+        "word": "What's",
+        "start": 177.47,
+        "end": 177.51
+      },
+      {
+        "word": "up?",
+        "start": 177.52,
+        "end": 177.56
+      }
+    ],
+    "time": 177.12,
+    "end": 177.56
+  },
+  {
+    "text": "Every good girl needs a little thug (needs a little thug)",
+    "startTime": 177.57,
+    "endTime": 178.11,
+    "words": [
+      {
+        "word": "Every",
+        "start": 177.57,
+        "end": 177.61
+      },
+      {
+        "word": "good",
+        "start": 177.62,
+        "end": 177.66
+      },
+      {
+        "word": "girl",
+        "start": 177.67,
+        "end": 177.71
+      },
+      {
+        "word": "needs",
+        "start": 177.72,
+        "end": 177.76
+      },
+      {
+        "word": "a",
+        "start": 177.77,
+        "end": 177.81
+      },
+      {
+        "word": "little",
+        "start": 177.82,
+        "end": 177.86
+      },
+      {
+        "word": "thug",
+        "start": 177.87,
+        "end": 177.91
+      },
+      {
+        "word": "(needs",
+        "start": 177.92,
+        "end": 177.96,
+        "adlib": true
+      },
+      {
+        "word": "a",
+        "start": 177.97,
+        "end": 178.01,
+        "adlib": true
+      },
+      {
+        "word": "little",
+        "start": 178.02,
+        "end": 178.06,
+        "adlib": true
+      },
+      {
+        "word": "thug)",
+        "start": 178.07,
+        "end": 178.11,
+        "adlib": true
+      }
+    ],
+    "time": 177.57,
+    "end": 178.11
+  },
+  {
+    "text": "Every block boy needs a little love (needs a little love)",
+    "startTime": 178.12,
+    "endTime": 178.66,
+    "words": [
+      {
+        "word": "Every",
+        "start": 178.12,
+        "end": 178.16
+      },
+      {
+        "word": "block",
+        "start": 178.17,
+        "end": 178.21
+      },
+      {
+        "word": "boy",
+        "start": 178.22,
+        "end": 178.26
+      },
+      {
+        "word": "needs",
+        "start": 178.27,
+        "end": 178.31
+      },
+      {
+        "word": "a",
+        "start": 178.32,
+        "end": 178.36
+      },
+      {
+        "word": "little",
+        "start": 178.37,
+        "end": 178.41
+      },
+      {
+        "word": "love",
+        "start": 178.42,
+        "end": 178.46
+      },
+      {
+        "word": "(needs",
+        "start": 178.47,
+        "end": 178.51,
+        "adlib": true
+      },
+      {
+        "word": "a",
+        "start": 178.52,
+        "end": 178.56,
+        "adlib": true
+      },
+      {
+        "word": "little",
+        "start": 178.57,
+        "end": 178.61,
+        "adlib": true
+      },
+      {
+        "word": "love)",
+        "start": 178.62,
+        "end": 178.66,
+        "adlib": true
+      }
+    ],
+    "time": 178.12,
+    "end": 178.66
+  },
+  {
+    "text": "If he put it down, I'ma pick it up, up, up",
+    "startTime": 178.67,
+    "endTime": 179.81,
+    "words": [
+      {
+        "word": "If",
+        "start": 178.67,
+        "end": 178.71
+      },
+      {
+        "word": "he",
+        "start": 178.72,
+        "end": 178.82,
+        "spoken": true
+      },
+      {
+        "word": "put",
+        "start": 178.83,
+        "end": 178.93,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 178.94,
+        "end": 179.04,
+        "spoken": true
+      },
+      {
+        "word": "down,",
+        "start": 179.05,
+        "end": 179.15,
+        "spoken": true
+      },
+      {
+        "word": "I'ma",
+        "start": 179.16,
+        "end": 179.26
+      },
+      {
+        "word": "pick",
+        "start": 179.27,
+        "end": 179.37
+      },
+      {
+        "word": "it",
+        "start": 179.38,
+        "end": 179.48
+      },
+      {
+        "word": "up,",
+        "start": 179.49,
+        "end": 179.59
+      },
+      {
+        "word": "up,",
+        "start": 179.6,
+        "end": 179.7
+      },
+      {
+        "word": "up",
+        "start": 179.71,
+        "end": 179.81
+      }
+    ],
+    "time": 178.67,
+    "end": 179.81
+  },
+  {
+    "text": "What it is hoe? What's up?",
+    "startTime": 179.82,
+    "endTime": 180.47,
+    "words": [
+      {
+        "word": "What",
+        "start": 179.82,
+        "end": 179.92,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 179.99,
+        "end": 180.03,
+        "spoken": true
+      },
+      {
+        "word": "is",
+        "start": 180.04,
+        "end": 180.14,
+        "spoken": true
+      },
+      {
+        "word": "hoe?",
+        "start": 180.15,
+        "end": 180.25
+      },
+      {
+        "word": "What's",
+        "start": 180.26,
+        "end": 180.36
+      },
+      {
+        "word": "up?",
+        "start": 180.37,
+        "end": 180.47
+      }
+    ],
+    "time": 179.82,
+    "end": 180.47
+  },
+  {
+    "text": "Every good girl needs a little thug",
+    "startTime": 180.48,
+    "endTime": 181.74,
+    "words": [
+      {
+        "word": "Every",
+        "start": 180.48,
+        "end": 180.58
+      },
+      {
+        "word": "good",
+        "start": 180.65,
+        "end": 180.69
+      },
+      {
+        "word": "girl",
+        "start": 180.7,
+        "end": 180.8
+      },
+      {
+        "word": "needs",
+        "start": 180.81,
+        "end": 180.91
+      },
+      {
+        "word": "a",
+        "start": 180.98,
+        "end": 181.02
+      },
+      {
+        "word": "little",
+        "start": 181.03,
+        "end": 181.13
+      },
+      {
+        "word": "thug",
+        "start": 181.279,
+        "end": 181.74
+      }
+    ],
+    "time": 180.48,
+    "end": 181.74
+  },
+  {
+    "text": "Every block boy needs a little love (love)",
+    "startTime": 181.75,
+    "endTime": 184.21,
+    "words": [
+      {
+        "word": "Every",
+        "start": 182.044,
+        "end": 182.24
+      },
+      {
+        "word": "block",
+        "start": 182.25,
+        "end": 182.54
+      },
+      {
+        "word": "boy",
+        "start": 182.713,
+        "end": 182.86,
+        "spoken": true
+      },
+      {
+        "word": "needs",
+        "start": 182.87,
+        "end": 183.11,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 183.12,
+        "end": 183.16
+      },
+      {
+        "word": "little",
+        "start": 183.216,
+        "end": 183.46,
+        "spoken": true
+      },
+      {
+        "word": "love",
+        "start": 183.795,
+        "end": 184.16,
+        "char_starts": [
+          183.795,
+          183.553,
+          183.722,
+          183.953
+        ],
+        "spoken": true
+      },
+      {
+        "word": "(love)",
+        "start": 184.17,
+        "end": 184.21,
+        "adlib": true
+      }
+    ],
+    "time": 181.75,
+    "end": 184.21
+  },
+  {
+    "text": "If he put it down, I'ma pick it up, up, up",
+    "startTime": 184.22,
+    "endTime": 186.62,
+    "words": [
+      {
+        "word": "If",
+        "start": 184.22,
+        "end": 184.6
+      },
+      {
+        "word": "he",
+        "start": 184.61,
+        "end": 184.72,
+        "spoken": true
+      },
+      {
+        "word": "put",
+        "start": 184.776,
+        "end": 184.98,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 185.116,
+        "end": 185.2
+      },
+      {
+        "word": "down,",
+        "start": 185.256,
+        "end": 185.42
+      },
+      {
+        "word": "I'ma",
+        "start": 185.43,
+        "end": 185.7
+      },
+      {
+        "word": "pick",
+        "start": 185.71,
+        "end": 185.98
+      },
+      {
+        "word": "it",
+        "start": 185.99,
+        "end": 186.24
+      },
+      {
+        "word": "up,",
+        "start": 186.34,
+        "end": 186.4,
+        "spoken": true
+      },
+      {
+        "word": "up,",
+        "start": 186.41,
+        "end": 186.51,
+        "spoken": true
+      },
+      {
+        "word": "up",
+        "start": 186.52,
+        "end": 186.62
+      }
+    ],
+    "time": 184.22,
+    "end": 186.62
+  },
+  {
+    "text": "Back it up and even it like that, yeah",
+    "startTime": 186.63,
+    "endTime": 187.61,
+    "words": [
+      {
+        "word": "Back",
+        "start": 186.63,
+        "end": 186.73
+      },
+      {
+        "word": "it",
+        "start": 186.74,
+        "end": 186.84,
+        "spoken": true
+      },
+      {
+        "word": "up",
+        "start": 186.85,
+        "end": 186.95
+      },
+      {
+        "word": "and",
+        "start": 186.96,
+        "end": 187.06
+      },
+      {
+        "word": "even",
+        "start": 187.07,
+        "end": 187.17,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 187.18,
+        "end": 187.28,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 187.29,
+        "end": 187.39,
+        "spoken": true
+      },
+      {
+        "word": "that,",
+        "start": 187.4,
+        "end": 187.5,
+        "spoken": true
+      },
+      {
+        "word": "yeah",
+        "start": 187.51,
+        "end": 187.61
+      }
+    ],
+    "time": 186.63,
+    "end": 187.61
+  },
+  {
+    "text": "Back it up and do it like that, yeah",
+    "startTime": 187.62,
+    "endTime": 188.6,
+    "words": [
+      {
+        "word": "Back",
+        "start": 187.62,
+        "end": 187.72
+      },
+      {
+        "word": "it",
+        "start": 187.73,
+        "end": 187.83
+      },
+      {
+        "word": "up",
+        "start": 187.84,
+        "end": 187.94
+      },
+      {
+        "word": "and",
+        "start": 187.95,
+        "end": 188.05
+      },
+      {
+        "word": "do",
+        "start": 188.06,
+        "end": 188.16
+      },
+      {
+        "word": "it",
+        "start": 188.23,
+        "end": 188.27
+      },
+      {
+        "word": "like",
+        "start": 188.28,
+        "end": 188.38
+      },
+      {
+        "word": "that,",
+        "start": 188.39,
+        "end": 188.49
+      },
+      {
+        "word": "yeah",
+        "start": 188.5,
+        "end": 188.6
+      }
+    ],
+    "time": 187.62,
+    "end": 188.6
+  },
+  {
+    "text": "Back it up, back it and do it like that, yeah",
+    "startTime": 188.61,
+    "endTime": 189.81,
+    "words": [
+      {
+        "word": "Back",
+        "start": 188.61,
+        "end": 188.71,
+        "whisper": true
+      },
+      {
+        "word": "it",
+        "start": 188.72,
+        "end": 188.82
+      },
+      {
+        "word": "up,",
+        "start": 188.89,
+        "end": 188.93,
+        "spoken": true
+      },
+      {
+        "word": "back",
+        "start": 188.94,
+        "end": 189.04,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 189.05,
+        "end": 189.15,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 189.16,
+        "end": 189.26,
+        "spoken": true
+      },
+      {
+        "word": "do",
+        "start": 189.27,
+        "end": 189.37,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 189.38,
+        "end": 189.48,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 189.49,
+        "end": 189.59,
+        "spoken": true
+      },
+      {
+        "word": "that,",
+        "start": 189.6,
+        "end": 189.7,
+        "spoken": true
+      },
+      {
+        "word": "yeah",
+        "start": 189.71,
+        "end": 189.81
+      }
+    ],
+    "time": 188.61,
+    "end": 189.81
+  },
+  {
+    "text": "Back it up, go on and do it like that, yeah",
+    "startTime": 189.82,
+    "endTime": 191.02,
+    "words": [
+      {
+        "word": "Back",
+        "start": 189.82,
+        "end": 189.92
+      },
+      {
+        "word": "it",
+        "start": 189.93,
+        "end": 190.03
+      },
+      {
+        "word": "up,",
+        "start": 190.04,
+        "end": 190.14
+      },
+      {
+        "word": "go",
+        "start": 190.15,
+        "end": 190.25
+      },
+      {
+        "word": "on",
+        "start": 190.32,
+        "end": 190.36
+      },
+      {
+        "word": "and",
+        "start": 190.37,
+        "end": 190.47
+      },
+      {
+        "word": "do",
+        "start": 190.48,
+        "end": 190.58
+      },
+      {
+        "word": "it",
+        "start": 190.59,
+        "end": 190.69,
+        "whisper": true
+      },
+      {
+        "word": "like",
+        "start": 190.76,
+        "end": 190.8
+      },
+      {
+        "word": "that,",
+        "start": 190.81,
+        "end": 190.91
+      },
+      {
+        "word": "yeah",
+        "start": 190.92,
+        "end": 191.02
+      }
+    ],
+    "time": 189.82,
+    "end": 191.02
+  },
+  {
+    "text": "Ay, what it is? Ay, what's up?",
+    "startTime": 191.03,
+    "endTime": 191.79,
+    "words": [
+      {
+        "word": "Ay,",
+        "start": 191.03,
+        "end": 191.13
+      },
+      {
+        "word": "what",
+        "start": 191.2,
+        "end": 191.24
+      },
+      {
+        "word": "it",
+        "start": 191.25,
+        "end": 191.35
+      },
+      {
+        "word": "is?",
+        "start": 191.42,
+        "end": 191.46
+      },
+      {
+        "word": "Ay,",
+        "start": 191.47,
+        "end": 191.57
+      },
+      {
+        "word": "what's",
+        "start": 191.58,
+        "end": 191.68,
+        "whisper": true
+      },
+      {
+        "word": "up?",
+        "start": 191.75,
+        "end": 191.79
+      }
+    ],
+    "time": 191.03,
+    "end": 191.79
+  },
+  {
+    "text": "J. White Did It",
+    "startTime": 191.8,
+    "endTime": 192.23,
+    "words": [
+      {
+        "word": "J.",
+        "start": 191.8,
+        "end": 191.9
+      },
+      {
+        "word": "White",
+        "start": 191.91,
+        "end": 192.01
+      },
+      {
+        "word": "Did",
+        "start": 192.02,
+        "end": 192.12,
+        "spoken": true
+      },
+      {
+        "word": "It",
+        "start": 192.13,
+        "end": 192.23,
+        "spoken": true
+      }
+    ],
+    "time": 191.8,
+    "end": 192.23
+  },
+  {
+    "text": "More hits on the way, yeah",
+    "startTime": 192.24,
+    "endTime": 196.904,
+    "words": [
+      {
+        "word": "More",
+        "start": 192.24,
+        "end": 192.34
+      },
+      {
+        "word": "hits",
+        "start": 192.35,
+        "end": 193.136,
+        "char_starts": [
+          192.35,
+          192.489,
+          192.705,
+          192.963
+        ],
+        "spoken": true
+      },
+      {
+        "word": "on",
+        "start": 193.309,
+        "end": 193.716
+      },
+      {
+        "word": "the",
+        "start": 193.981,
+        "end": 194.585,
+        "char_starts": [
+          193.981,
+          193.924,
+          194.327
+        ],
+        "whisper": true
+      },
+      {
+        "word": "way,",
+        "start": 194.595,
+        "end": 195.744,
+        "char_starts": [
+          194.595,
+          194.798,
+          195.113,
+          195.491
+        ],
+        "whisper": true
+      },
+      {
+        "word": "yeah",
+        "start": 195.754,
+        "end": 196.904,
+        "char_starts": [
+          195.754,
+          195.958,
+          196.273,
+          196.651
+        ],
+        "whisper": true
+      }
+    ],
+    "time": 192.24,
+    "end": 196.904
+  },
+  {
+    "text": "We need a little love, you know what I mean?",
+    "startTime": 196.914,
+    "endTime": 203.547,
+    "words": [
+      {
+        "word": "We",
+        "start": 197.255,
+        "end": 197.483,
+        "whisper": true
+      },
+      {
+        "word": "need",
+        "start": 197.493,
+        "end": 198.642,
+        "char_starts": [
+          197.493,
+          197.696,
+          198.011,
+          198.389
+        ],
+        "whisper": true
+      },
+      {
+        "word": "a",
+        "start": 198.652,
+        "end": 198.932,
+        "whisper": true
+      },
+      {
+        "word": "little",
+        "start": 198.942,
+        "end": 200.432,
+        "char_starts": [
+          198.942,
+          199.016,
+          199.166,
+          199.37,
+          199.62,
+          199.91
+        ],
+        "whisper": true
+      },
+      {
+        "word": "love,",
+        "start": 200.442,
+        "end": 201.881,
+        "char_starts": [
+          200.442,
+          200.586,
+          200.809,
+          201.076,
+          201.377
+        ]
+      },
+      {
+        "word": "you",
+        "start": 202.12,
+        "end": 203.52,
         "char_starts": [
           202.12,
           202.42,
           203.03
-        ],
-        "spoken": true,
-        "singer": "singer1"
+        ]
       },
       {
         "word": "know",
-        "start": 166.56,
-        "end": 166.66,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 203.447,
+        "end": 203.547
       },
       {
         "word": "what",
-        "start": 166.67,
-        "end": 166.77,
-        "singer": "singer2"
+        "start": 203.447,
+        "end": 203.547
       },
       {
         "word": "I",
-        "start": 166.78,
-        "end": 166.88,
-        "singer": "singer2"
+        "start": 203.447,
+        "end": 203.547
       },
       {
         "word": "mean?",
-        "start": 166.95,
-        "end": 166.99,
-        "singer": "singer2"
-      },
-      {
-        "word": "(Yeah,",
-        "start": 167,
-        "end": 167.1,
-        "adlib": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "ayy,",
-        "start": 167.11,
-        "end": 167.21,
-        "adlib": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "ayy,",
-        "start": 167.22,
-        "end": 167.32,
-        "adlib": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "woo)",
-        "start": 167.33,
-        "end": 167.43,
-        "adlib": true,
-        "singer": "singer1"
+        "start": 203.447,
+        "end": 203.547
       }
     ],
-    "time": 164.15,
-    "end": 167.43
+    "time": 196.914,
+    "end": 203.547
+  },
+  {
+    "text": "Ride out, whoa",
+    "startTime": 203.447,
+    "endTime": 203.547,
+    "words": [
+      {
+        "word": "Ride",
+        "start": 203.447,
+        "end": 203.547
+      },
+      {
+        "word": "out,",
+        "start": 203.447,
+        "end": 203.547
+      },
+      {
+        "word": "whoa",
+        "start": 203.447,
+        "end": 203.547
+      }
+    ],
+    "time": 203.447,
+    "end": 203.547
   }
 ]

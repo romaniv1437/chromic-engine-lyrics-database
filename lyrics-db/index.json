@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T17:43:36.390639+00:00",
+  "generatedAt": "2026-06-23T18:20:34.726702+00:00",
   "totalTracks": 752,
   "roots": [
     "lyrics-db/tracks"
@@ -10542,20 +10542,6 @@
       "sourcePath": "https://soundcloud.com/b-a-s-i-l-516407819/hafiz-tahir-qadri-1500-sala",
       "mtimeMs": 1782206090646
     },
-    "what it is::what it is - doechii (faster & higher).m4a": {
-      "title": "What It Is - Doechii (Faster & Higher).m4a",
-      "artist": "What It Is",
-      "originalTrackName": "What It Is - What It Is - Doechii (Faster & Higher).m4a",
-      "source": "syncedlyrics",
-      "file": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
-      "files": {
-        "lyrics": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
-        "meta": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
-      "mtimeMs": 1782231805013
-    },
     "☆lil peep☆::gbc": {
       "title": "GBC",
       "artist": "☆LiL PEEP☆",
@@ -10569,6 +10555,20 @@
       },
       "sourcePath": "https://soundcloud.com/gooseyhoe/gbc",
       "mtimeMs": 1782236617516
+    },
+    "what it is::what it is - doechii (faster & higher).m4a": {
+      "title": "What It Is - Doechii (Faster & Higher).m4a",
+      "artist": "What It Is",
+      "originalTrackName": "What It Is - What It Is - Doechii (Faster & Higher).m4a",
+      "source": "syncedlyrics",
+      "file": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
+      "files": {
+        "lyrics": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
+        "meta": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
+      "mtimeMs": 1782238835239
     }
   },
   "tracks": [
@@ -21129,20 +21129,6 @@
       "mtimeMs": 1782206090646
     },
     {
-      "title": "What It Is - Doechii (Faster & Higher).m4a",
-      "artist": "What It Is",
-      "originalTrackName": "What It Is - What It Is - Doechii (Faster & Higher).m4a",
-      "source": "syncedlyrics",
-      "file": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
-      "files": {
-        "lyrics": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
-        "meta": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
-      "mtimeMs": 1782231805013
-    },
-    {
       "title": "GBC",
       "artist": "☆LiL PEEP☆",
       "originalTrackName": "☆LiL PEEP☆ - GBC",
@@ -21155,6 +21141,20 @@
       },
       "sourcePath": "https://soundcloud.com/gooseyhoe/gbc",
       "mtimeMs": 1782236617516
+    },
+    {
+      "title": "What It Is - Doechii (Faster & Higher).m4a",
+      "artist": "What It Is",
+      "originalTrackName": "What It Is - What It Is - Doechii (Faster & Higher).m4a",
+      "source": "syncedlyrics",
+      "file": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
+      "files": {
+        "lyrics": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
+        "meta": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
+      "mtimeMs": 1782238835239
     }
   ]
 }

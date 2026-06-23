@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-22T17:10:13.456379+00:00",
-  "totalTracks": 747,
+  "generatedAt": "2026-06-23T01:59:05.960783+00:00",
+  "totalTracks": 748,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10499,6 +10499,20 @@
       },
       "sourcePath": "https://soundcloud.com/trapgooose/never-sober-prod-mikey-the",
       "mtimeMs": 1782148213987
+    },
+    "eric::alizée - moi... lolita (slowed)": {
+      "title": "Alizée - Moi... Lolita (slowed)",
+      "artist": "Eric",
+      "originalTrackName": "Eric - Alizée - Moi... Lolita (slowed)",
+      "source": "syncedlyrics",
+      "file": "tracks/eric-aliz-e-moi-lolita-slowed-62d984cca20b.json",
+      "files": {
+        "lyrics": "tracks/eric-aliz-e-moi-lolita-slowed-62d984cca20b.json",
+        "meta": "tracks/eric-aliz-e-moi-lolita-slowed-62d984cca20b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ericmonsen/alizee-moi-lolita-slowed",
+      "mtimeMs": 1782179946610
     }
   },
   "tracks": [
@@ -21015,6 +21029,20 @@
       },
       "sourcePath": "https://soundcloud.com/trapgooose/never-sober-prod-mikey-the",
       "mtimeMs": 1782148213987
+    },
+    {
+      "title": "Alizée - Moi... Lolita (slowed)",
+      "artist": "Eric",
+      "originalTrackName": "Eric - Alizée - Moi... Lolita (slowed)",
+      "source": "syncedlyrics",
+      "file": "tracks/eric-aliz-e-moi-lolita-slowed-62d984cca20b.json",
+      "files": {
+        "lyrics": "tracks/eric-aliz-e-moi-lolita-slowed-62d984cca20b.json",
+        "meta": "tracks/eric-aliz-e-moi-lolita-slowed-62d984cca20b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ericmonsen/alizee-moi-lolita-slowed",
+      "mtimeMs": 1782179946610
     }
   ]
 }

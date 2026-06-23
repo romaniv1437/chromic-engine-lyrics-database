@@ -2,60 +2,1715 @@
   {
     "text": "●",
     "startTime": 0.3,
-    "endTime": 118.52,
+    "endTime": 17.22,
     "words": [],
     "type": "vocal_cue",
     "time": 0.3,
-    "end": 118.52
+    "end": 17.22
   },
   {
     "text": "GothBoiClique, yeah",
-    "startTime": 118.52,
-    "endTime": 121.14,
+    "startTime": 17.22,
+    "endTime": 18.72,
     "words": [
       {
         "word": "GothBoiClique,",
-        "start": 118.566,
-        "end": 119.64,
-        "char_starts": [
-          118.566,
-          118.547,
-          118.59,
-          118.641,
-          118.698,
-          118.76,
-          118.828,
-          118.899,
-          118.974,
-          119.052,
-          119.133,
-          119.217,
-          119.304,
-          119.394
-        ]
+        "start": 17.22,
+        "end": 17.22,
+        "singer": "singer1"
       },
       {
         "word": "yeah",
-        "start": 119.72,
-        "end": 121.14,
+        "start": 17.23,
+        "end": 18.72,
         "char_starts": [
-          119.72,
-          119.87,
-          120.21,
-          120.618
-        ]
+          17.23,
+          17.45,
+          17.79,
+          18.198
+        ],
+        "whisper": true,
+        "singer": "singer1"
       }
     ],
-    "time": 118.52,
-    "end": 121.14
+    "time": 17.22,
+    "end": 18.72
   },
   {
     "text": "●",
-    "startTime": 121.44,
+    "startTime": 19.02,
+    "endTime": 41.64,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 19.02,
+    "end": 41.64
+  },
+  {
+    "text": "I see you lookin', baby, tell me why?",
+    "startTime": 41.64,
+    "endTime": 45.08,
+    "words": [
+      {
+        "word": "I",
+        "start": 41.64,
+        "end": 42.28,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "see",
+        "start": 42.522,
+        "end": 42.7,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 42.71,
+        "end": 42.92,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lookin',",
+        "start": 42.93,
+        "end": 43.26,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "baby,",
+        "start": 43.58,
+        "end": 43.66,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "tell",
+        "start": 43.74,
+        "end": 44.02,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 44.03,
+        "end": 44.18,
+        "singer": "singer1"
+      },
+      {
+        "word": "why?",
+        "start": 44.19,
+        "end": 45.08,
+        "char_starts": [
+          44.19,
+          44.348,
+          44.592,
+          44.884
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 41.64,
+    "end": 45.08
+  },
+  {
+    "text": "Why you stay lookin' like you wanna die?",
+    "startTime": 45.09,
+    "endTime": 47.88,
+    "words": [
+      {
+        "word": "Why",
+        "start": 45.44,
+        "end": 45.7,
+        "char_starts": [
+          45.44,
+          45.231,
+          45.517
+        ],
+        "singer": "singer2"
+      },
+      {
+        "word": "you",
+        "start": 45.932,
+        "end": 46.08,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "stay",
+        "start": 46.09,
+        "end": 46.28,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lookin'",
+        "start": 46.5,
+        "end": 46.64,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "like",
+        "start": 46.65,
+        "end": 47.02,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 47.03,
+        "end": 47.24,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 47.25,
+        "end": 47.56,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "die?",
+        "start": 47.663,
+        "end": 47.88,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 45.09,
+    "end": 47.88
+  },
+  {
+    "text": "Crybaby, I'on ever cry",
+    "startTime": 49.06,
+    "endTime": 52.3,
+    "words": [
+      {
+        "word": "Crybaby,",
+        "start": 49.339,
+        "end": 50.22,
+        "char_starts": [
+          49.339,
+          49.125,
+          49.227,
+          49.348,
+          49.485,
+          49.634,
+          49.795,
+          49.965
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'on",
+        "start": 50.26,
+        "end": 50.58,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ever",
+        "start": 50.66,
+        "end": 51.04,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "cry",
+        "start": 51.05,
+        "end": 52.3,
+        "char_starts": [
+          51.05,
+          51.318,
+          51.862
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 49.06,
+    "end": 52.3
+  },
+  {
+    "text": "GBC I keep 'em by my side",
+    "startTime": 52.31,
+    "endTime": 55.22,
+    "words": [
+      {
+        "word": "GBC",
+        "start": 52.66,
+        "end": 53.36,
+        "char_starts": [
+          52.66,
+          52.631,
+          53.129
+        ],
+        "singer": "singer2"
+      },
+      {
+        "word": "I",
+        "start": 53.6,
+        "end": 53.62,
+        "singer": "singer1"
+      },
+      {
+        "word": "keep",
+        "start": 53.63,
+        "end": 53.88,
+        "singer": "singer2"
+      },
+      {
+        "word": "'em",
+        "start": 54.32,
+        "end": 54.64,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "by",
+        "start": 54.65,
+        "end": 54.75,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "my",
+        "start": 54.76,
+        "end": 54.86,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "side",
+        "start": 54.87,
+        "end": 55.22,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 52.31,
+    "end": 55.22
+  },
+  {
+    "text": "I see you lookin', baby, tell me why?",
+    "startTime": 55.23,
+    "endTime": 58.52,
+    "words": [
+      {
+        "word": "I",
+        "start": 55.23,
+        "end": 55.36,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "see",
+        "start": 55.72,
+        "end": 56.38,
+        "char_starts": [
+          55.72,
+          55.563,
+          55.956
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "you",
+        "start": 56.39,
+        "end": 56.8,
+        "singer": "singer2"
+      },
+      {
+        "word": "lookin',",
+        "start": 56.81,
+        "end": 56.94,
+        "singer": "singer2"
+      },
+      {
+        "word": "baby,",
+        "start": 57.08,
+        "end": 57.36,
+        "singer": "singer2"
+      },
+      {
+        "word": "tell",
+        "start": 57.44,
+        "end": 57.72,
+        "singer": "singer2"
+      },
+      {
+        "word": "me",
+        "start": 57.73,
+        "end": 57.92,
+        "singer": "singer2"
+      },
+      {
+        "word": "why?",
+        "start": 57.93,
+        "end": 58.52,
+        "char_starts": [
+          57.93,
+          58.034,
+          58.196,
+          58.39
+        ],
+        "singer": "singer2"
+      }
+    ],
+    "time": 55.23,
+    "end": 58.52
+  },
+  {
+    "text": "She like why you stay lookin' like you wanna die?",
+    "startTime": 58.53,
+    "endTime": 62.54,
+    "words": [
+      {
+        "word": "She",
+        "start": 58.762,
+        "end": 59.0,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "like",
+        "start": 59.01,
+        "end": 59.14,
+        "singer": "singer2"
+      },
+      {
+        "word": "why",
+        "start": 59.46,
+        "end": 59.46,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 59.633,
+        "end": 59.76,
+        "singer": "singer2"
+      },
+      {
+        "word": "stay",
+        "start": 59.77,
+        "end": 60.0,
+        "singer": "singer2"
+      },
+      {
+        "word": "lookin'",
+        "start": 60.232,
+        "end": 60.38,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "like",
+        "start": 60.483,
+        "end": 60.689,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 60.699,
+        "end": 60.92,
+        "singer": "singer2"
+      },
+      {
+        "word": "wanna",
+        "start": 61.139,
+        "end": 61.28,
+        "singer": "singer2"
+      },
+      {
+        "word": "die?",
+        "start": 61.336,
+        "end": 62.54,
+        "char_starts": [
+          61.336,
+          61.474,
+          61.76,
+          62.102
+        ],
+        "sung": true,
+        "singer": "singer2",
+        "stretch": true
+      }
+    ],
+    "time": 58.53,
+    "end": 62.54
+  },
+  {
+    "text": "Crybaby, I'on ever cry",
+    "startTime": 62.55,
+    "endTime": 66.1,
+    "words": [
+      {
+        "word": "Crybaby,",
+        "start": 62.9,
+        "end": 63.9,
+        "char_starts": [
+          62.9,
+          62.613,
+          62.712,
+          62.83,
+          62.962,
+          63.107,
+          63.263,
+          63.427
+        ],
+        "sung": true,
+        "singer": "singer2",
+        "stretch": true
+      },
+      {
+        "word": "I'on",
+        "start": 63.96,
+        "end": 64.2,
+        "singer": "singer1"
+      },
+      {
+        "word": "ever",
+        "start": 64.406,
+        "end": 64.76,
+        "singer": "singer2"
+      },
+      {
+        "word": "cry",
+        "start": 65.12,
+        "end": 66.1,
+        "char_starts": [
+          65.12,
+          65.055,
+          65.634
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 62.55,
+    "end": 66.1
+  },
+  {
+    "text": "GBC I keep 'em by my side",
+    "startTime": 66.11,
+    "endTime": 68.96,
+    "words": [
+      {
+        "word": "GBC",
+        "start": 66.46,
+        "end": 67.06,
+        "char_starts": [
+          66.46,
+          66.401,
+          66.851
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "I",
+        "start": 67.3,
+        "end": 67.36,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "keep",
+        "start": 67.37,
+        "end": 67.64,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "'em",
+        "start": 68.264,
+        "end": 68.4,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "by",
+        "start": 68.41,
+        "end": 68.56,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 68.61,
+        "end": 68.76,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "side",
+        "start": 68.81,
+        "end": 68.96,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 66.11,
+    "end": 68.96
+  },
+  {
+    "text": "●",
+    "startTime": 69.26,
+    "endTime": 85.46,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 69.26,
+    "end": 85.46
+  },
+  {
+    "text": "Baby crying 'cause I gotta go",
+    "startTime": 85.46,
+    "endTime": 85.75,
+    "words": [
+      {
+        "word": "Baby",
+        "start": 85.46,
+        "end": 85.5,
+        "singer": "singer1"
+      },
+      {
+        "word": "crying",
+        "start": 85.51,
+        "end": 85.55,
+        "singer": "singer1"
+      },
+      {
+        "word": "'cause",
+        "start": 85.56,
+        "end": 85.6,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 85.61,
+        "end": 85.65,
+        "singer": "singer1"
+      },
+      {
+        "word": "gotta",
+        "start": 85.66,
+        "end": 85.7,
+        "singer": "singer1"
+      },
+      {
+        "word": "go",
+        "start": 85.71,
+        "end": 85.75,
+        "singer": "singer1"
+      }
+    ],
+    "time": 85.46,
+    "end": 85.75
+  },
+  {
+    "text": "Make a few racks off a rap show",
+    "startTime": 85.76,
+    "endTime": 86.15,
+    "words": [
+      {
+        "word": "Make",
+        "start": 85.76,
+        "end": 85.8,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 85.81,
+        "end": 85.85,
+        "singer": "singer1"
+      },
+      {
+        "word": "few",
+        "start": 85.86,
+        "end": 85.9,
+        "singer": "singer1"
+      },
+      {
+        "word": "racks",
+        "start": 85.91,
+        "end": 85.95,
+        "singer": "singer1"
+      },
+      {
+        "word": "off",
+        "start": 85.96,
+        "end": 86.0,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 86.01,
+        "end": 86.05,
+        "singer": "singer1"
+      },
+      {
+        "word": "rap",
+        "start": 86.06,
+        "end": 86.1,
+        "singer": "singer1"
+      },
+      {
+        "word": "show",
+        "start": 86.11,
+        "end": 86.15,
+        "singer": "singer1"
+      }
+    ],
+    "time": 85.76,
+    "end": 86.15
+  },
+  {
+    "text": "I don't rap though, I sing slow",
+    "startTime": 86.16,
+    "endTime": 86.5,
+    "words": [
+      {
+        "word": "I",
+        "start": 86.16,
+        "end": 86.2,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 86.21,
+        "end": 86.25,
+        "singer": "singer1"
+      },
+      {
+        "word": "rap",
+        "start": 86.26,
+        "end": 86.3,
+        "singer": "singer1"
+      },
+      {
+        "word": "though,",
+        "start": 86.31,
+        "end": 86.35,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 86.36,
+        "end": 86.4,
+        "singer": "singer1"
+      },
+      {
+        "word": "sing",
+        "start": 86.41,
+        "end": 86.45,
+        "singer": "singer1"
+      },
+      {
+        "word": "slow",
+        "start": 86.46,
+        "end": 86.5,
+        "singer": "singer1"
+      }
+    ],
+    "time": 86.16,
+    "end": 86.5
+  },
+  {
+    "text": "GothBoi with a trap phone",
+    "startTime": 86.51,
+    "endTime": 86.75,
+    "words": [
+      {
+        "word": "GothBoi",
+        "start": 86.51,
+        "end": 86.55,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 86.56,
+        "end": 86.6,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 86.61,
+        "end": 86.65,
+        "singer": "singer1"
+      },
+      {
+        "word": "trap",
+        "start": 86.66,
+        "end": 86.7,
+        "singer": "singer1"
+      },
+      {
+        "word": "phone",
+        "start": 86.71,
+        "end": 86.75,
+        "singer": "singer1"
+      }
+    ],
+    "time": 86.51,
+    "end": 86.75
+  },
+  {
+    "text": "I see you lookin', baby, tell me why?",
+    "startTime": 86.76,
+    "endTime": 87.27,
+    "words": [
+      {
+        "word": "I",
+        "start": 86.76,
+        "end": 86.8,
+        "singer": "singer1"
+      },
+      {
+        "word": "see",
+        "start": 86.81,
+        "end": 86.85,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 86.86,
+        "end": 86.9,
+        "singer": "singer1"
+      },
+      {
+        "word": "lookin',",
+        "start": 86.91,
+        "end": 86.95,
+        "singer": "singer1"
+      },
+      {
+        "word": "baby,",
+        "start": 86.96,
+        "end": 87.0,
+        "singer": "singer1"
+      },
+      {
+        "word": "tell",
+        "start": 87.01,
+        "end": 87.05,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 87.06,
+        "end": 87.16,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "why?",
+        "start": 87.17,
+        "end": 87.27,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 86.76,
+    "end": 87.27
+  },
+  {
+    "text": "I remember every fuckin' night",
+    "startTime": 87.28,
+    "endTime": 89.12,
+    "words": [
+      {
+        "word": "I",
+        "start": 87.28,
+        "end": 87.34,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "remember",
+        "start": 87.7,
+        "end": 87.94,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "every",
+        "start": 87.95,
+        "end": 88.34,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fuckin'",
+        "start": 88.56,
+        "end": 88.7,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "night",
+        "start": 88.803,
+        "end": 89.12,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 87.28,
+    "end": 89.12
+  },
+  {
+    "text": "Girl I'm faded, I ain't tryna fight",
+    "startTime": 90.2,
+    "endTime": 93.64,
+    "words": [
+      {
+        "word": "Girl",
+        "start": 90.479,
+        "end": 90.8,
+        "singer": "singer2"
+      },
+      {
+        "word": "I'm",
+        "start": 90.88,
+        "end": 91.08,
+        "singer": "singer2"
+      },
+      {
+        "word": "faded,",
+        "start": 91.09,
+        "end": 91.34,
+        "singer": "singer2"
+      },
+      {
+        "word": "I",
+        "start": 91.5,
+        "end": 91.62,
+        "singer": "singer2"
+      },
+      {
+        "word": "ain't",
+        "start": 91.63,
+        "end": 91.82,
+        "singer": "singer2"
+      },
+      {
+        "word": "tryna",
+        "start": 91.83,
+        "end": 92.18,
+        "singer": "singer2"
+      },
+      {
+        "word": "fight",
+        "start": 92.19,
+        "end": 93.64,
+        "char_starts": [
+          92.19,
+          92.335,
+          92.56,
+          92.829,
+          93.132
+        ],
+        "singer": "singer2"
+      }
+    ],
+    "time": 90.2,
+    "end": 93.64
+  },
+  {
+    "text": "Plus you know I'm 'bout to fuckin' die",
+    "startTime": 93.65,
+    "endTime": 95.92,
+    "words": [
+      {
+        "word": "Plus",
+        "start": 93.905,
+        "end": 94.18,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 94.19,
+        "end": 94.38,
+        "singer": "singer1"
+      },
+      {
+        "word": "know",
+        "start": 94.564,
+        "end": 94.68,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 94.69,
+        "end": 94.9,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "'bout",
+        "start": 94.91,
+        "end": 95.12,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 95.13,
+        "end": 95.2,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fuckin'",
+        "start": 95.419,
+        "end": 95.62,
+        "singer": "singer1"
+      },
+      {
+        "word": "die",
+        "start": 95.63,
+        "end": 95.92,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 93.65,
+    "end": 95.92
+  },
+  {
+    "text": "You see me shinin' in the club lights",
+    "startTime": 96.8,
+    "endTime": 99.8,
+    "words": [
+      {
+        "word": "You",
+        "start": 97.15,
+        "end": 97.4,
+        "char_starts": [
+          97.15,
+          96.939,
+          97.22
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "see",
+        "start": 97.41,
+        "end": 97.54,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 97.55,
+        "end": 97.86,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "shinin'",
+        "start": 97.87,
+        "end": 98.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "in",
+        "start": 98.236,
+        "end": 98.54,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 98.55,
+        "end": 98.8,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "club",
+        "start": 98.81,
+        "end": 99.1,
+        "singer": "singer1"
+      },
+      {
+        "word": "lights",
+        "start": 99.11,
+        "end": 99.8,
+        "char_starts": [
+          99.11,
+          99.171,
+          99.266,
+          99.38,
+          99.508,
+          99.648
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 96.8,
+    "end": 99.8
+  },
+  {
+    "text": "You know I hate it, but I'm lovin' life",
+    "startTime": 99.81,
+    "endTime": 103.16,
+    "words": [
+      {
+        "word": "You",
+        "start": 99.926,
+        "end": 100.78,
+        "char_starts": [
+          99.926,
+          100.034,
+          100.489
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "know",
+        "start": 100.79,
+        "end": 101.12,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 101.13,
+        "end": 101.32,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "hate",
+        "start": 101.42,
+        "end": 101.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "it,",
+        "start": 101.49,
+        "end": 101.72,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "but",
+        "start": 101.73,
+        "end": 101.86,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 101.87,
+        "end": 102.14,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lovin'",
+        "start": 102.313,
+        "end": 102.44,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "life",
+        "start": 102.52,
+        "end": 103.16,
+        "char_starts": [
+          102.52,
+          102.536,
+          102.71,
+          102.947
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 99.81,
+    "end": 103.16
+  },
+  {
+    "text": "You don't gotta do a thing right",
+    "startTime": 103.96,
+    "endTime": 107.18,
+    "words": [
+      {
+        "word": "You",
+        "start": 104.169,
+        "end": 104.34,
+        "singer": "singer2"
+      },
+      {
+        "word": "don't",
+        "start": 104.572,
+        "end": 104.72,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "gotta",
+        "start": 104.73,
+        "end": 105.04,
+        "singer": "singer2"
+      },
+      {
+        "word": "do",
+        "start": 105.12,
+        "end": 105.4,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 105.526,
+        "end": 105.68,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "thing",
+        "start": 105.69,
+        "end": 105.92,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "right",
+        "start": 106.28,
+        "end": 107.18,
+        "char_starts": [
+          106.28,
+          106.055,
+          106.249,
+          106.481,
+          106.743
+        ],
+        "sung": true,
+        "singer": "singer2",
+        "stretch": true
+      }
+    ],
+    "time": 103.96,
+    "end": 107.18
+  },
+  {
+    "text": "Hit the gas, now I'm out of sight",
+    "startTime": 107.19,
+    "endTime": 110.82,
+    "words": [
+      {
+        "word": "Hit",
+        "start": 107.54,
+        "end": 107.84,
+        "char_starts": [
+          107.54,
+          107.389,
+          107.697
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 107.85,
+        "end": 108.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "gas,",
+        "start": 108.306,
+        "end": 108.48,
+        "singer": "singer1"
+      },
+      {
+        "word": "now",
+        "start": 108.72,
+        "end": 108.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 108.83,
+        "end": 109.1,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 109.308,
+        "end": 109.44,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 109.45,
+        "end": 109.6,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "sight",
+        "start": 109.61,
+        "end": 110.82,
+        "char_starts": [
+          109.61,
+          109.731,
+          109.919,
+          110.143,
+          110.396
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 107.19,
+    "end": 110.82
+  },
+  {
+    "text": "Black jeans and it's skin tight",
+    "startTime": 110.83,
+    "endTime": 114.2,
+    "words": [
+      {
+        "word": "Black",
+        "start": 111.062,
+        "end": 111.5,
+        "char_starts": [
+          111.062,
+          110.91,
+          111.035,
+          111.184,
+          111.353
+        ],
+        "singer": "singer1"
+      },
+      {
+        "word": "jeans",
+        "start": 111.51,
+        "end": 111.92,
+        "singer": "singer2"
+      },
+      {
+        "word": "and",
+        "start": 111.93,
+        "end": 112.2,
+        "singer": "singer2"
+      },
+      {
+        "word": "it's",
+        "start": 112.21,
+        "end": 112.48,
+        "singer": "singer2"
+      },
+      {
+        "word": "skin",
+        "start": 112.49,
+        "end": 112.94,
+        "singer": "singer2"
+      },
+      {
+        "word": "tight",
+        "start": 112.95,
+        "end": 114.2,
+        "char_starts": [
+          112.95,
+          113.075,
+          113.269,
+          113.501,
+          113.763
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 110.83,
+    "end": 114.2
+  },
+  {
+    "text": "Type shit that your bitch like",
+    "startTime": 114.21,
+    "endTime": 116.67,
+    "words": [
+      {
+        "word": "Type",
+        "start": 114.489,
+        "end": 114.8,
+        "singer": "singer2"
+      },
+      {
+        "word": "shit",
+        "start": 114.81,
+        "end": 115.32,
+        "singer": "singer2"
+      },
+      {
+        "word": "that",
+        "start": 115.33,
+        "end": 115.66,
+        "singer": "singer2"
+      },
+      {
+        "word": "your",
+        "start": 115.82,
+        "end": 115.92,
+        "singer": "singer2"
+      },
+      {
+        "word": "bitch",
+        "start": 115.93,
+        "end": 116.3,
+        "singer": "singer2"
+      },
+      {
+        "word": "like",
+        "start": 116.31,
+        "end": 116.67,
+        "singer": "singer2"
+      }
+    ],
+    "time": 114.21,
+    "end": 116.67
+  },
+  {
+    "text": "You fuckin' with the GothBoiCliquе, right?",
+    "startTime": 116.68,
+    "endTime": 120.68,
+    "words": [
+      {
+        "word": "You",
+        "start": 116.68,
+        "end": 116.96,
+        "singer": "singer2"
+      },
+      {
+        "word": "fuckin'",
+        "start": 117.32,
+        "end": 117.8,
+        "char_starts": [
+          117.32,
+          117.028,
+          117.117,
+          117.224,
+          117.344,
+          117.476,
+          117.617
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "with",
+        "start": 118.02,
+        "end": 118.24,
+        "singer": "singer2"
+      },
+      {
+        "word": "the",
+        "start": 118.424,
+        "end": 118.54,
+        "singer": "singer2"
+      },
+      {
+        "word": "GothBoiCliquе,",
+        "start": 118.55,
+        "end": 119.64,
+        "char_starts": [
+          118.55,
+          118.577,
+          118.618,
+          118.667,
+          118.723,
+          118.784,
+          118.849,
+          118.919,
+          118.991,
+          119.068,
+          119.147,
+          119.229,
+          119.313,
+          119.4
+        ],
+        "singer": "singer2"
+      },
+      {
+        "word": "right?",
+        "start": 119.743,
+        "end": 120.68,
+        "char_starts": [
+          119.743,
+          119.741,
+          119.883,
+          120.053,
+          120.244,
+          120.453
+        ],
+        "singer": "singer2"
+      }
+    ],
+    "time": 116.68,
+    "end": 120.68
+  },
+  {
+    "text": "We been off the shits like six nights",
+    "startTime": 120.69,
+    "endTime": 123.45,
+    "words": [
+      {
+        "word": "We",
+        "start": 120.969,
+        "end": 121.3,
+        "singer": "singer2"
+      },
+      {
+        "word": "been",
+        "start": 121.31,
+        "end": 121.46,
+        "singer": "singer2"
+      },
+      {
+        "word": "off",
+        "start": 121.47,
+        "end": 121.62,
+        "singer": "singer2"
+      },
+      {
+        "word": "the",
+        "start": 121.63,
+        "end": 121.86,
+        "singer": "singer2"
+      },
+      {
+        "word": "shits",
+        "start": 121.87,
+        "end": 122.14,
+        "singer": "singer2"
+      },
+      {
+        "word": "like",
+        "start": 122.15,
+        "end": 122.56,
+        "singer": "singer2"
+      },
+      {
+        "word": "six",
+        "start": 122.57,
+        "end": 123.08,
+        "char_starts": [
+          122.57,
+          122.726,
+          122.968
+        ],
+        "singer": "singer2"
+      },
+      {
+        "word": "nights",
+        "start": 123.09,
+        "end": 123.45,
+        "singer": "singer2"
+      }
+    ],
+    "time": 120.69,
+    "end": 123.45
+  },
+  {
+    "text": "Black jеans and it's skin tight",
+    "startTime": 124.54,
+    "endTime": 127.94,
+    "words": [
+      {
+        "word": "Black",
+        "start": 124.819,
+        "end": 125.28,
+        "char_starts": [
+          124.819,
+          124.629,
+          124.766,
+          124.931,
+          125.117
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "jеans",
+        "start": 125.29,
+        "end": 125.66,
+        "singer": "singer2"
+      },
+      {
+        "word": "and",
+        "start": 125.67,
+        "end": 125.9,
+        "singer": "singer2"
+      },
+      {
+        "word": "it's",
+        "start": 125.91,
+        "end": 126.26,
+        "singer": "singer2"
+      },
+      {
+        "word": "skin",
+        "start": 126.27,
+        "end": 126.58,
+        "singer": "singer2"
+      },
+      {
+        "word": "tight",
+        "start": 126.59,
+        "end": 127.94,
+        "char_starts": [
+          126.59,
+          126.725,
+          126.934,
+          127.185,
+          127.468
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 124.54,
+    "end": 127.94
+  },
+  {
+    "text": "Type shit that your bitch like",
+    "startTime": 127.95,
+    "endTime": 130.25,
+    "words": [
+      {
+        "word": "Type",
+        "start": 128.252,
+        "end": 128.64,
+        "char_starts": [
+          128.252,
+          128.033,
+          128.202,
+          128.433
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "shit",
+        "start": 128.65,
+        "end": 129.04,
+        "singer": "singer2"
+      },
+      {
+        "word": "that",
+        "start": 129.096,
+        "end": 129.46,
+        "singer": "singer2"
+      },
+      {
+        "word": "your",
+        "start": 129.47,
+        "end": 129.54,
+        "singer": "singer2"
+      },
+      {
+        "word": "bitch",
+        "start": 129.55,
+        "end": 129.88,
+        "singer": "singer2"
+      },
+      {
+        "word": "like",
+        "start": 129.89,
+        "end": 130.25,
+        "singer": "singer2"
+      }
+    ],
+    "time": 127.95,
+    "end": 130.25
+  },
+  {
+    "text": "You fuckin' with the GothBoiClique, right?",
+    "startTime": 130.81,
+    "endTime": 133.67,
+    "words": [
+      {
+        "word": "You",
+        "start": 130.81,
+        "end": 131.17,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "fuckin'",
+        "start": 131.25,
+        "end": 131.51,
+        "singer": "singer2"
+      },
+      {
+        "word": "with",
+        "start": 131.65,
+        "end": 131.87,
+        "singer": "singer2"
+      },
+      {
+        "word": "the",
+        "start": 132.078,
+        "end": 132.21,
+        "singer": "singer2"
+      },
+      {
+        "word": "GothBoiClique,",
+        "start": 132.266,
+        "end": 133.35,
+        "char_starts": [
+          132.266,
+          132.248,
+          132.29,
+          132.342,
+          132.4,
+          132.463,
+          132.53,
+          132.602,
+          132.678,
+          132.757,
+          132.839,
+          132.923,
+          133.011,
+          133.101
+        ],
+        "singer": "singer2"
+      },
+      {
+        "word": "right?",
+        "start": 133.36,
+        "end": 133.67,
+        "singer": "singer2"
+      }
+    ],
+    "time": 130.81,
+    "end": 133.67
+  },
+  {
+    "text": "●",
+    "startTime": 133.97,
     "endTime": 142.91,
     "words": [],
     "type": "vocal_cue",
-    "time": 121.44,
+    "time": 133.97,
     "end": 142.91
   },
   {
@@ -67,38 +1722,45 @@
         "word": "I",
         "start": 143.26,
         "end": 143.55,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "see",
         "start": 143.56,
-        "end": 143.85
+        "end": 143.85,
+        "singer": "singer2"
       },
       {
         "word": "you",
         "start": 143.86,
-        "end": 144.21
+        "end": 144.21,
+        "singer": "singer2"
       },
       {
         "word": "lookin',",
         "start": 144.22,
-        "end": 144.37
+        "end": 144.39,
+        "singer": "singer2"
       },
       {
         "word": "baby,",
-        "start": 144.63,
-        "end": 144.81,
-        "spoken": true
+        "start": 144.55,
+        "end": 144.83,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "tell",
         "start": 144.85,
-        "end": 145.19
+        "end": 145.19,
+        "singer": "singer2"
       },
       {
         "word": "me",
         "start": 145.2,
-        "end": 145.39
+        "end": 145.39,
+        "singer": "singer2"
       },
       {
         "word": "why?",
@@ -110,7 +1772,8 @@
           145.765,
           146.032
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 142.91,
@@ -129,49 +1792,57 @@
           146.22,
           146.37,
           146.675
-        ]
+        ],
+        "singer": "singer1"
       },
       {
         "word": "you",
         "start": 147.066,
         "end": 147.19,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "stay",
         "start": 147.2,
-        "end": 147.43,
-        "spoken": true
+        "end": 147.41,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "lookin'",
-        "start": 147.44,
-        "end": 147.81,
-        "spoken": true
+        "start": 147.42,
+        "end": 147.79,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "like",
-        "start": 147.936,
+        "start": 147.916,
         "end": 148.15,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "you",
         "start": 148.16,
-        "end": 148.43,
-        "spoken": true
+        "end": 148.41,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "wanna",
-        "start": 148.44,
+        "start": 148.42,
         "end": 148.71,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "die?",
         "start": 148.72,
         "end": 149.05,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 146.22,
@@ -185,28 +1856,31 @@
       {
         "word": "Crybaby,",
         "start": 150.489,
-        "end": 151.33,
+        "end": 151.37,
         "char_starts": [
           150.489,
-          150.273,
-          150.371,
-          150.488,
-          150.62,
-          150.765,
-          150.919,
-          151.084
+          150.275,
+          150.377,
+          150.498,
+          150.635,
+          150.784,
+          150.945,
+          151.115
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "I'on",
-        "start": 151.37,
-        "end": 151.69
+        "start": 151.38,
+        "end": 151.69,
+        "singer": "singer1"
       },
       {
         "word": "ever",
-        "start": 151.81,
-        "end": 152.17
+        "start": 151.79,
+        "end": 152.17,
+        "singer": "singer1"
       },
       {
         "word": "cry",
@@ -217,7 +1891,8 @@
           152.444,
           152.98
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 150.21,
@@ -226,7 +1901,7 @@
   {
     "text": "GBC I keep 'em by my side",
     "startTime": 153.42,
-    "endTime": 156.39,
+    "endTime": 156.37,
     "words": [
       {
         "word": "GBC",
@@ -237,89 +1912,103 @@
           153.747,
           154.255
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "I",
         "start": 154.73,
-        "end": 154.81
+        "end": 154.79,
+        "singer": "singer1"
       },
       {
         "word": "keep",
-        "start": 154.82,
-        "end": 155.05
+        "start": 154.8,
+        "end": 155.07,
+        "singer": "singer2"
       },
       {
         "word": "'em",
         "start": 155.47,
         "end": 155.81,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "by",
         "start": 155.82,
         "end": 155.92,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "my",
         "start": 155.93,
         "end": 156.03,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "side",
         "start": 156.04,
-        "end": 156.39,
-        "spoken": true
+        "end": 156.37,
+        "spoken": true,
+        "singer": "singer2"
       }
     ],
     "time": 153.42,
-    "end": 156.39
+    "end": 156.37
   },
   {
     "text": "I see you lookin', baby, tell me why?",
-    "startTime": 156.91,
+    "startTime": 156.93,
     "endTime": 159.69,
     "words": [
       {
         "word": "I",
-        "start": 157.102,
+        "start": 157.11,
         "end": 157.23,
-        "sung": true
+        "sung": true,
+        "singer": "singer2"
       },
       {
         "word": "see",
-        "start": 157.379,
-        "end": 157.55,
-        "spoken": true
+        "start": 157.403,
+        "end": 157.53,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "you",
-        "start": 157.722,
-        "end": 157.83,
-        "spoken": true
+        "start": 157.75,
+        "end": 157.89,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "lookin',",
-        "start": 157.84,
-        "end": 158.09,
-        "spoken": true
+        "start": 157.9,
+        "end": 158.11,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "baby,",
-        "start": 158.31,
-        "end": 158.51
+        "start": 158.35,
+        "end": 158.53,
+        "singer": "singer1"
       },
       {
         "word": "tell",
-        "start": 158.52,
-        "end": 158.89
+        "start": 158.59,
+        "end": 158.89,
+        "singer": "singer1"
       },
       {
         "word": "me",
         "start": 159.002,
-        "end": 159.07
+        "end": 159.07,
+        "singer": "singer1"
       },
       {
         "word": "why?",
@@ -331,122 +2020,136 @@
           159.355,
           159.556
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 156.91,
+    "time": 156.93,
     "end": 159.69
   },
   {
     "text": "She like why you stay lookin' like you wanna die?",
     "startTime": 159.7,
-    "endTime": 162.79,
+    "endTime": 162.77,
     "words": [
       {
         "word": "She",
         "start": 159.932,
-        "end": 160.27,
+        "end": 160.29,
         "char_starts": [
           159.932,
-          159.832,
-          160.099
+          159.836,
+          160.113
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "like",
-        "start": 161.69,
-        "end": 161.85,
-        "spoken": true
+        "start": 161.693,
+        "end": 161.87,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "why",
-        "start": 161.86,
-        "end": 161.9
+        "start": 161.88,
+        "end": 161.92,
+        "singer": "singer1"
       },
       {
         "word": "you",
-        "start": 161.91,
-        "end": 161.95
+        "start": 161.93,
+        "end": 161.97,
+        "singer": "singer1"
       },
       {
         "word": "stay",
-        "start": 161.96,
-        "end": 162.0
+        "start": 161.98,
+        "end": 162.02,
+        "singer": "singer1"
       },
       {
         "word": "lookin'",
-        "start": 162.01,
-        "end": 162.05
+        "start": 162.03,
+        "end": 162.07,
+        "singer": "singer1"
       },
       {
         "word": "like",
-        "start": 162.06,
-        "end": 162.16
+        "start": 162.08,
+        "end": 162.18,
+        "singer": "singer1"
       },
       {
         "word": "you",
-        "start": 162.17,
-        "end": 162.27
+        "start": 162.19,
+        "end": 162.29,
+        "singer": "singer1"
       },
       {
         "word": "wanna",
-        "start": 162.28,
-        "end": 162.43
+        "start": 162.3,
+        "end": 162.43,
+        "singer": "singer1"
       },
       {
         "word": "die?",
         "start": 162.44,
-        "end": 162.79
+        "end": 162.77,
+        "singer": "singer2"
       }
     ],
     "time": 159.7,
-    "end": 162.79
+    "end": 162.77
   },
   {
     "text": "Crybaby, I'on ever cry",
-    "startTime": 163.89,
+    "startTime": 163.93,
     "endTime": 167.23,
     "words": [
       {
         "word": "Crybaby,",
-        "start": 164.053,
-        "end": 165.03,
+        "start": 164.069,
+        "end": 165.11,
         "char_starts": [
-          164.053,
-          163.954,
-          164.054,
-          164.173,
-          164.308,
-          164.455,
-          164.612,
-          164.779
+          164.069,
+          163.997,
+          164.1,
+          164.223,
+          164.362,
+          164.514,
+          164.677,
+          164.85
         ],
-        "spoken": true
+        "singer": "singer1"
       },
       {
         "word": "I'on",
-        "start": 165.11,
-        "end": 165.41
+        "start": 165.31,
+        "end": 165.39,
+        "singer": "singer1"
       },
       {
         "word": "ever",
         "start": 165.53,
-        "end": 165.91
+        "end": 165.91,
+        "singer": "singer1"
       },
       {
         "word": "cry",
-        "start": 165.92,
+        "start": 165.966,
         "end": 167.23,
         "char_starts": [
-          165.92,
+          165.966,
           166.201,
           166.772
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 163.89,
+    "time": 163.93,
     "end": 167.23
   },
   {
@@ -463,38 +2166,45 @@
           167.537,
           167.997
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "I",
         "start": 168.45,
-        "end": 168.49
+        "end": 168.47,
+        "singer": "singer1"
       },
       {
         "word": "keep",
-        "start": 168.5,
+        "start": 168.48,
         "end": 168.75,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "'em",
         "start": 169.19,
-        "end": 169.53
+        "end": 169.55,
+        "singer": "singer2"
       },
       {
         "word": "by",
-        "start": 169.54,
-        "end": 169.64
+        "start": 169.56,
+        "end": 169.66,
+        "singer": "singer2"
       },
       {
         "word": "my",
-        "start": 169.65,
-        "end": 169.75
+        "start": 169.67,
+        "end": 169.77,
+        "singer": "singer2"
       },
       {
         "word": "side",
-        "start": 169.76,
-        "end": 169.85
+        "start": 169.78,
+        "end": 169.85,
+        "singer": "singer2"
       }
     ],
     "time": 167.24,
@@ -502,141 +2212,161 @@
   },
   {
     "text": "Baby crying 'cause I gotta go",
-    "startTime": 170.93,
-    "endTime": 173.45,
+    "startTime": 170.97,
+    "endTime": 173.61,
     "words": [
       {
         "word": "Baby",
-        "start": 171.093,
+        "start": 171.086,
         "end": 171.57,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "crying",
         "start": 171.58,
-        "end": 172.03,
-        "spoken": true
+        "end": 171.87,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "'cause",
-        "start": 172.07,
-        "end": 172.17,
-        "spoken": true
+        "start": 171.88,
+        "end": 172.15,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 172.18,
+        "start": 172.16,
         "end": 172.49,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "gotta",
         "start": 172.782,
-        "end": 172.97
+        "end": 172.97,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "go",
         "start": 172.98,
-        "end": 173.45
+        "end": 173.61,
+        "singer": "singer1"
       }
     ],
-    "time": 170.93,
-    "end": 173.45
+    "time": 170.97,
+    "end": 173.61
   },
   {
     "text": "Make a few racks off a rap show",
-    "startTime": 173.46,
-    "endTime": 176.47,
+    "startTime": 173.62,
+    "endTime": 176.45,
     "words": [
       {
         "word": "Make",
-        "start": 173.646,
+        "start": 173.62,
         "end": 174.35,
         "char_starts": [
-          173.646,
-          173.567,
-          173.786,
-          174.083
+          173.62,
+          173.708,
+          173.887,
+          174.131
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "a",
         "start": 174.36,
-        "end": 174.53
+        "end": 174.57,
+        "singer": "singer2"
       },
       {
         "word": "few",
-        "start": 174.54,
-        "end": 174.91
+        "start": 174.58,
+        "end": 174.91,
+        "singer": "singer2"
       },
       {
         "word": "racks",
         "start": 174.92,
-        "end": 175.31
+        "end": 175.31,
+        "singer": "singer2"
       },
       {
         "word": "off",
         "start": 175.366,
         "end": 175.69,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "a",
         "start": 175.7,
-        "end": 175.89
+        "end": 175.91,
+        "singer": "singer2"
       },
       {
         "word": "rap",
-        "start": 175.9,
-        "end": 176.15
+        "start": 175.92,
+        "end": 176.15,
+        "singer": "singer2"
       },
       {
         "word": "show",
         "start": 176.23,
-        "end": 176.47
+        "end": 176.45,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 173.46,
-    "end": 176.47
+    "time": 173.62,
+    "end": 176.45
   },
   {
     "text": "I don't rap though, I sing slow",
-    "startTime": 177.71,
+    "startTime": 177.75,
     "endTime": 181.15,
     "words": [
       {
         "word": "I",
-        "start": 177.71,
+        "start": 177.75,
         "end": 178.35,
-        "sung": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "don't",
         "start": 178.36,
-        "end": 178.4
+        "end": 178.4,
+        "singer": "singer1"
       },
       {
         "word": "rap",
         "start": 178.41,
-        "end": 178.73,
-        "spoken": true
+        "end": 178.75,
+        "singer": "singer2"
       },
       {
         "word": "though,",
-        "start": 178.74,
+        "start": 178.91,
         "end": 179.13,
-        "spoken": true
+        "singer": "singer2"
       },
       {
         "word": "I",
         "start": 179.14,
-        "end": 179.39
+        "end": 179.37,
+        "singer": "singer2"
       },
       {
         "word": "sing",
-        "start": 179.4,
-        "end": 179.55
+        "start": 179.38,
+        "end": 179.55,
+        "singer": "singer2"
       },
       {
         "word": "slow",
@@ -648,10 +2378,11 @@
           180.158,
           180.594
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       }
     ],
-    "time": 177.71,
+    "time": 177.75,
     "end": 181.15
   },
   {
@@ -671,28 +2402,33 @@
           181.53,
           181.688,
           181.867
-        ]
+        ],
+        "singer": "singer2"
       },
       {
         "word": "with",
         "start": 182.18,
-        "end": 182.47
+        "end": 182.47,
+        "singer": "singer2"
       },
       {
         "word": "a",
         "start": 182.48,
-        "end": 182.77
+        "end": 182.77,
+        "singer": "singer2"
       },
       {
         "word": "trap",
         "start": 182.78,
-        "end": 183.03
+        "end": 183.03,
+        "singer": "singer2"
       },
       {
         "word": "phone",
         "start": 183.086,
         "end": 183.63,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 181.16,
@@ -700,47 +2436,54 @@
   },
   {
     "text": "I see you lookin', baby, tell me why?",
-    "startTime": 184.3,
+    "startTime": 184.31,
     "endTime": 187.33,
     "words": [
       {
         "word": "I",
-        "start": 184.3,
-        "end": 184.61
+        "start": 184.31,
+        "end": 184.61,
+        "singer": "singer1"
       },
       {
         "word": "see",
-        "start": 184.806,
+        "start": 184.783,
         "end": 184.97,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "you",
         "start": 184.98,
         "end": 185.19,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "lookin',",
-        "start": 185.27,
+        "start": 185.246,
         "end": 185.53,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "baby,",
-        "start": 185.73,
-        "end": 185.95
+        "start": 185.81,
+        "end": 186.01,
+        "singer": "singer1"
       },
       {
         "word": "tell",
-        "start": 185.96,
-        "end": 186.31
+        "start": 186.03,
+        "end": 186.31,
+        "singer": "singer1"
       },
       {
         "word": "me",
         "start": 186.47,
         "end": 186.57,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "why?",
@@ -752,91 +2495,99 @@
           186.918,
           187.165
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 184.3,
+    "time": 184.31,
     "end": 187.33
   },
   {
     "text": "I remember every fuckin' night",
     "startTime": 187.34,
-    "endTime": 191.27,
+    "endTime": 190.35,
     "words": [
       {
         "word": "I",
         "start": 187.34,
         "end": 188.47,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "remember",
-        "start": 188.48,
-        "end": 189.05
+        "start": 188.83,
+        "end": 189.07,
+        "singer": "singer1"
       },
       {
         "word": "every",
-        "start": 189.13,
+        "start": 189.15,
         "end": 189.49,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "fuckin'",
-        "start": 189.5,
-        "end": 189.85
+        "start": 189.83,
+        "end": 190.05,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "night",
-        "start": 191.27,
-        "end": 191.27
+        "start": 190.06,
+        "end": 190.35,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 187.34,
-    "end": 191.27
+    "end": 190.35
   },
   {
     "text": "Girl I'm faded, I ain't tryna fight",
-    "startTime": 191.28,
+    "startTime": 191.33,
     "endTime": 194.71,
     "words": [
       {
         "word": "Girl",
-        "start": 191.489,
+        "start": 191.493,
         "end": 191.93,
-        "char_starts": [
-          191.489,
-          191.395,
-          191.573,
-          191.787
-        ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "I'm",
-        "start": 192.103,
-        "end": 192.27,
-        "spoken": true
+        "start": 192.146,
+        "end": 192.29,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "faded,",
-        "start": 192.28,
+        "start": 192.3,
         "end": 192.49,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 192.5,
-        "end": 192.73
+        "start": 192.55,
+        "end": 192.77,
+        "singer": "singer1"
       },
       {
         "word": "ain't",
-        "start": 192.74,
-        "end": 193.03
+        "start": 192.78,
+        "end": 192.99,
+        "singer": "singer1"
       },
       {
         "word": "tryna",
-        "start": 193.04,
-        "end": 193.31
+        "start": 193.0,
+        "end": 193.31,
+        "singer": "singer1"
       },
       {
         "word": "fight",
@@ -849,16 +2600,17 @@
           193.933,
           194.224
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 191.28,
+    "time": 191.33,
     "end": 194.71
   },
   {
     "text": "Plus you know I'm 'bout to fuckin' die",
     "startTime": 194.72,
-    "endTime": 197.63,
+    "endTime": 197.05,
     "words": [
       {
         "word": "Plus",
@@ -869,166 +2621,198 @@
           194.835,
           195.013,
           195.227
-        ]
+        ],
+        "singer": "singer2"
       },
       {
         "word": "you",
         "start": 195.38,
-        "end": 195.55
+        "end": 195.53,
+        "singer": "singer2"
       },
       {
         "word": "know",
-        "start": 195.56,
-        "end": 195.83
+        "start": 195.54,
+        "end": 195.83,
+        "singer": "singer2"
       },
       {
         "word": "I'm",
         "start": 195.84,
-        "end": 196.07
+        "end": 196.07,
+        "singer": "singer2"
       },
       {
         "word": "'bout",
         "start": 196.08,
-        "end": 196.25
+        "end": 196.25,
+        "singer": "singer2"
       },
       {
         "word": "to",
-        "start": 196.326,
-        "end": 196.37
+        "start": 196.26,
+        "end": 196.43,
+        "singer": "singer2"
       },
       {
         "word": "fuckin'",
-        "start": 196.38,
-        "end": 196.75
+        "start": 196.44,
+        "end": 196.75,
+        "singer": "singer2"
       },
       {
         "word": "die",
-        "start": 197.63,
-        "end": 197.63
+        "start": 196.83,
+        "end": 197.05,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 194.72,
-    "end": 197.63
+    "end": 197.05
   },
   {
     "text": "You see me shinin' in the club lights",
-    "startTime": 197.64,
+    "startTime": 197.89,
     "endTime": 200.91,
     "words": [
       {
         "word": "You",
-        "start": 197.64,
+        "start": 198.24,
         "end": 198.49,
         "char_starts": [
-          197.64,
-          197.836,
-          198.235
+          198.24,
+          198.029,
+          198.31
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "see",
         "start": 198.5,
         "end": 198.71,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "me",
-        "start": 198.894,
-        "end": 199.01,
-        "spoken": true
+        "start": 198.87,
+        "end": 198.97,
+        "singer": "singer1"
       },
       {
         "word": "shinin'",
-        "start": 199.02,
-        "end": 199.39,
-        "spoken": true
+        "start": 198.98,
+        "end": 199.35,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "in",
-        "start": 199.49,
-        "end": 199.69
+        "start": 199.36,
+        "end": 199.67,
+        "singer": "singer2"
       },
       {
         "word": "the",
-        "start": 199.7,
-        "end": 199.97
+        "start": 199.68,
+        "end": 199.97,
+        "singer": "singer2"
       },
       {
         "word": "club",
         "start": 200.166,
-        "end": 200.29
+        "end": 200.29,
+        "singer": "singer2"
       },
       {
         "word": "lights",
         "start": 200.3,
-        "end": 200.91
+        "end": 200.91,
+        "singer": "singer2"
       }
     ],
-    "time": 197.64,
+    "time": 197.89,
     "end": 200.91
   },
   {
     "text": "You know I hate it, but I'm lovin' life",
     "startTime": 200.92,
-    "endTime": 204.39,
+    "endTime": 204.37,
     "words": [
       {
         "word": "You",
         "start": 201.059,
-        "end": 201.97,
+        "end": 201.95,
         "char_starts": [
           201.059,
-          201.162,
-          201.655
+          201.158,
+          201.641
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "know",
-        "start": 201.98,
-        "end": 202.21
+        "start": 201.96,
+        "end": 202.23,
+        "singer": "singer2"
       },
       {
         "word": "I",
-        "start": 202.22,
-        "end": 202.47
+        "start": 202.24,
+        "end": 202.47,
+        "singer": "singer2"
       },
       {
         "word": "hate",
         "start": 202.48,
-        "end": 202.61
+        "end": 202.61,
+        "singer": "singer2"
       },
       {
         "word": "it,",
-        "start": 202.794,
-        "end": 202.91,
-        "spoken": true
+        "start": 202.77,
+        "end": 202.87,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "but",
-        "start": 202.92,
-        "end": 203.01,
-        "spoken": true
+        "start": 202.88,
+        "end": 203.05,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "I'm",
-        "start": 203.02,
-        "end": 203.35
+        "start": 203.06,
+        "end": 203.27,
+        "singer": "singer2"
       },
       {
         "word": "lovin'",
-        "start": 203.36,
-        "end": 203.63
+        "start": 203.28,
+        "end": 203.61,
+        "singer": "singer2"
       },
       {
         "word": "life",
-        "start": 204.39,
-        "end": 204.39
+        "start": 203.62,
+        "end": 204.37,
+        "char_starts": [
+          203.62,
+          203.711,
+          203.894,
+          204.145
+        ],
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 200.92,
-    "end": 204.39
+    "end": 204.37
   },
   {
     "text": "You don't gotta do a thing right",
@@ -1038,32 +2822,38 @@
       {
         "word": "You",
         "start": 205.15,
-        "end": 205.57
+        "end": 205.57,
+        "singer": "singer1"
       },
       {
         "word": "don't",
         "start": 205.766,
-        "end": 205.89
+        "end": 205.89,
+        "singer": "singer2"
       },
       {
         "word": "gotta",
         "start": 205.9,
-        "end": 206.15
+        "end": 206.15,
+        "singer": "singer2"
       },
       {
         "word": "do",
         "start": 206.16,
-        "end": 206.51
+        "end": 206.51,
+        "singer": "singer2"
       },
       {
         "word": "a",
-        "start": 206.658,
-        "end": 206.75
+        "start": 206.67,
+        "end": 206.77,
+        "singer": "singer2"
       },
       {
         "word": "thing",
-        "start": 206.76,
-        "end": 207.05
+        "start": 206.78,
+        "end": 207.05,
+        "singer": "singer2"
       },
       {
         "word": "right",
@@ -1076,7 +2866,8 @@
           207.531,
           207.754
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       }
     ],
     "time": 205.15,
@@ -1085,7 +2876,7 @@
   {
     "text": "Hit the gas, now I'm out of sight",
     "startTime": 207.96,
-    "endTime": 211.02,
+    "endTime": 211.01,
     "words": [
       {
         "word": "Hit",
@@ -1096,1797 +2887,521 @@
           208.287,
           208.795
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "the",
         "start": 209.166,
-        "end": 209.25
+        "end": 209.25,
+        "singer": "singer2"
       },
       {
         "word": "gas,",
         "start": 209.26,
-        "end": 209.63
+        "end": 209.63,
+        "singer": "singer2"
       },
       {
         "word": "now",
         "start": 209.64,
-        "end": 209.89
+        "end": 209.91,
+        "singer": "singer2"
       },
       {
         "word": "I'm",
-        "start": 209.9,
-        "end": 210.23
+        "start": 209.92,
+        "end": 210.21,
+        "singer": "singer2"
       },
       {
         "word": "out",
-        "start": 210.24,
-        "end": 210.47
+        "start": 210.22,
+        "end": 210.47,
+        "singer": "singer2"
       },
       {
         "word": "of",
         "start": 210.573,
         "end": 210.71,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "sight",
         "start": 210.72,
-        "end": 211.02,
-        "spoken": true
+        "end": 211.01,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 207.96,
-    "end": 211.02
+    "end": 211.01
   },
   {
     "text": "Black jeans and it's skin tight",
-    "startTime": 211.86,
-    "endTime": 215.3,
+    "startTime": 211.89,
+    "endTime": 215.33,
     "words": [
       {
         "word": "Black",
-        "start": 212.046,
-        "end": 212.64,
+        "start": 212.053,
+        "end": 212.65,
         "char_starts": [
-          212.046,
-          211.954,
-          212.099,
-          212.273,
-          212.468
+          212.053,
+          211.981,
+          212.123,
+          212.292,
+          212.483
         ],
-        "spoken": true
+        "singer": "singer1"
       },
       {
         "word": "jeans",
-        "start": 212.65,
-        "end": 213.06,
-        "spoken": true
+        "start": 212.66,
+        "end": 213.05,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "and",
-        "start": 213.07,
-        "end": 213.32,
-        "spoken": true
+        "start": 213.06,
+        "end": 213.33,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "it's",
-        "start": 213.33,
-        "end": 213.68
+        "start": 213.34,
+        "end": 213.67,
+        "singer": "singer1"
       },
       {
         "word": "skin",
-        "start": 213.924,
-        "end": 214.08,
-        "spoken": true
+        "start": 213.926,
+        "end": 214.09,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "tight",
-        "start": 214.09,
-        "end": 215.3,
+        "start": 214.45,
+        "end": 215.33,
         "char_starts": [
-          214.09,
-          214.211,
-          214.399,
-          214.623,
-          214.877
+          214.45,
+          214.223,
+          214.414,
+          214.642,
+          214.9
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 211.86,
-    "end": 215.3
+    "time": 211.89,
+    "end": 215.33
   },
   {
     "text": "Type shit that your bitch like",
-    "startTime": 215.31,
-    "endTime": 217.85,
+    "startTime": 215.34,
+    "endTime": 217.83,
     "words": [
       {
         "word": "Type",
-        "start": 215.658,
-        "end": 216.0,
+        "start": 215.642,
+        "end": 216.01,
         "char_starts": [
-          215.658,
-          215.393,
-          215.562,
-          215.793
-        ]
+          215.642,
+          215.421,
+          215.585,
+          215.809
+        ],
+        "singer": "singer2"
       },
       {
         "word": "shit",
-        "start": 216.01,
-        "end": 216.48
+        "start": 216.02,
+        "end": 216.47,
+        "singer": "singer2"
       },
       {
         "word": "that",
-        "start": 216.49,
-        "end": 216.9
+        "start": 216.53,
+        "end": 216.89,
+        "singer": "singer2"
       },
       {
         "word": "your",
-        "start": 217.012,
-        "end": 217.08
+        "start": 216.9,
+        "end": 217.09,
+        "singer": "singer2"
       },
       {
         "word": "bitch",
-        "start": 217.09,
-        "end": 217.46
+        "start": 217.1,
+        "end": 217.45,
+        "singer": "singer2"
       },
       {
         "word": "like",
-        "start": 217.47,
-        "end": 217.85
+        "start": 217.46,
+        "end": 217.83,
+        "singer": "singer2"
       }
     ],
-    "time": 215.31,
-    "end": 217.85
-  },
-  {
-    "text": "You fuckin' with the GothBoiCliquе, right?",
-    "startTime": 217.86,
-    "endTime": 221.62,
-    "words": [
-      {
-        "word": "You",
-        "start": 218.023,
-        "end": 218.92,
-        "char_starts": [
-          218.023,
-          218.105,
-          218.602
-        ],
-        "spoken": true
-      },
-      {
-        "word": "fuckin'",
-        "start": 218.93,
-        "end": 219.04
-      },
-      {
-        "word": "with",
-        "start": 219.26,
-        "end": 219.4,
-        "spoken": true
-      },
-      {
-        "word": "the",
-        "start": 219.549,
-        "end": 219.66,
-        "spoken": true
-      },
-      {
-        "word": "GothBoiCliquе,",
-        "start": 219.67,
-        "end": 220.82,
-        "char_starts": [
-          219.67,
-          219.698,
-          219.742,
-          219.794,
-          219.853,
-          219.917,
-          219.986,
-          220.059,
-          220.136,
-          220.216,
-          220.299,
-          220.386,
-          220.475,
-          220.567
-        ],
-        "spoken": true
-      },
-      {
-        "word": "right?",
-        "start": 220.83,
-        "end": 221.62,
-        "char_starts": [
-          220.83,
-          220.9,
-          221.009,
-          221.139,
-          221.286,
-          221.446
-        ],
-        "spoken": true
-      }
-    ],
-    "time": 217.86,
-    "end": 221.62
-  },
-  {
-    "text": "We been off the shits like six nights",
-    "startTime": 221.63,
-    "endTime": 224.62,
-    "words": [
-      {
-        "word": "We",
-        "start": 221.63,
-        "end": 222.32,
-        "spoken": true
-      },
-      {
-        "word": "been",
-        "start": 222.33,
-        "end": 222.58
-      },
-      {
-        "word": "off",
-        "start": 222.59,
-        "end": 222.76
-      },
-      {
-        "word": "the",
-        "start": 222.77,
-        "end": 223.04
-      },
-      {
-        "word": "shits",
-        "start": 223.05,
-        "end": 223.44
-      },
-      {
-        "word": "like",
-        "start": 223.45,
-        "end": 223.8
-      },
-      {
-        "word": "six",
-        "start": 223.81,
-        "end": 224.22
-      },
-      {
-        "word": "nights",
-        "start": 224.23,
-        "end": 224.62,
-        "spoken": true
-      }
-    ],
-    "time": 221.63,
-    "end": 224.62
-  },
-  {
-    "text": "Black jеans and it's skin tight",
-    "startTime": 225.58,
-    "endTime": 228.74,
-    "words": [
-      {
-        "word": "Black",
-        "start": 225.766,
-        "end": 226.36,
-        "char_starts": [
-          225.766,
-          225.674,
-          225.819,
-          225.993,
-          226.188
-        ]
-      },
-      {
-        "word": "jеans",
-        "start": 226.37,
-        "end": 226.84,
-        "spoken": true
-      },
-      {
-        "word": "and",
-        "start": 226.85,
-        "end": 227.06
-      },
-      {
-        "word": "it's",
-        "start": 227.07,
-        "end": 227.42
-      },
-      {
-        "word": "skin",
-        "start": 227.604,
-        "end": 227.72,
-        "spoken": true
-      },
-      {
-        "word": "tight",
-        "start": 227.73,
-        "end": 228.74,
-        "char_starts": [
-          227.73,
-          227.851,
-          228.039,
-          228.264,
-          228.518
-        ],
-        "spoken": true
-      }
-    ],
-    "time": 225.58,
-    "end": 228.74
-  },
-  {
-    "text": "Type shit that your bitch like",
-    "startTime": 228.75,
-    "endTime": 231.43,
-    "words": [
-      {
-        "word": "Type",
-        "start": 228.75,
-        "end": 229.78,
-        "char_starts": [
-          228.75,
-          228.874,
-          229.127,
-          229.471
-        ],
-        "spoken": true
-      },
-      {
-        "word": "shit",
-        "start": 229.79,
-        "end": 230.18,
-        "spoken": true
-      },
-      {
-        "word": "that",
-        "start": 230.283,
-        "end": 230.54,
-        "spoken": true
-      },
-      {
-        "word": "your",
-        "start": 230.55,
-        "end": 230.66,
-        "spoken": true
-      },
-      {
-        "word": "bitch",
-        "start": 230.67,
-        "end": 231.04,
-        "spoken": true
-      },
-      {
-        "word": "like",
-        "start": 231.096,
-        "end": 231.43,
-        "spoken": true
-      }
-    ],
-    "time": 228.75,
-    "end": 231.43
+    "time": 215.34,
+    "end": 217.83
   },
   {
     "text": "You fuckin' with the GothBoiClique, right?",
-    "startTime": 231.44,
-    "endTime": 233.347,
+    "startTime": 218.19,
+    "endTime": 221.59,
     "words": [
       {
         "word": "You",
-        "start": 231.719,
-        "end": 232.52,
+        "start": 218.19,
+        "end": 218.79,
         "char_starts": [
-          231.719,
-          231.689,
-          232.196
+          218.19,
+          218.329,
+          218.61
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "fuckin'",
-        "start": 232.646,
-        "end": 232.74
+        "start": 218.916,
+        "end": 219.01,
+        "singer": "singer1"
       },
       {
         "word": "with",
-        "start": 232.86,
-        "end": 232.98,
-        "spoken": true
+        "start": 219.15,
+        "end": 219.39,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 232.99,
-        "end": 233.22,
-        "spoken": true
+        "start": 219.539,
+        "end": 219.69,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "GothBoiClique,",
-        "start": 233.23,
-        "end": 233.297,
-        "spoken": true
+        "start": 220.05,
+        "end": 220.81,
+        "char_starts": [
+          220.05,
+          219.727,
+          219.769,
+          219.82,
+          219.876,
+          219.938,
+          220.005,
+          220.075,
+          220.15,
+          220.227,
+          220.308,
+          220.391,
+          220.477,
+          220.566
+        ],
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "right?",
-        "start": 233.307,
-        "end": 233.347
+        "start": 220.82,
+        "end": 221.59,
+        "char_starts": [
+          220.82,
+          220.888,
+          220.994,
+          221.121,
+          221.264,
+          221.421
+        ],
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 231.44,
-    "end": 233.347
-  },
-  {
-    "text": "I see you lookin', baby, tell me why?",
-    "startTime": 233.357,
-    "endTime": 233.747,
-    "words": [
-      {
-        "word": "I",
-        "start": 233.357,
-        "end": 233.397
-      },
-      {
-        "word": "see",
-        "start": 233.407,
-        "end": 233.447
-      },
-      {
-        "word": "you",
-        "start": 233.457,
-        "end": 233.497
-      },
-      {
-        "word": "lookin',",
-        "start": 233.507,
-        "end": 233.547
-      },
-      {
-        "word": "baby,",
-        "start": 233.557,
-        "end": 233.597
-      },
-      {
-        "word": "tell",
-        "start": 233.607,
-        "end": 233.647
-      },
-      {
-        "word": "me",
-        "start": 233.657,
-        "end": 233.697
-      },
-      {
-        "word": "why?",
-        "start": 233.707,
-        "end": 233.747
-      }
-    ],
-    "time": 233.357,
-    "end": 233.747
-  },
-  {
-    "text": "Why you stay lookin' like you wanna die?",
-    "startTime": 233.757,
-    "endTime": 234.147,
-    "words": [
-      {
-        "word": "Why",
-        "start": 233.757,
-        "end": 233.797
-      },
-      {
-        "word": "you",
-        "start": 233.807,
-        "end": 233.847
-      },
-      {
-        "word": "stay",
-        "start": 233.857,
-        "end": 233.897
-      },
-      {
-        "word": "lookin'",
-        "start": 233.907,
-        "end": 233.947
-      },
-      {
-        "word": "like",
-        "start": 233.957,
-        "end": 233.997
-      },
-      {
-        "word": "you",
-        "start": 234.007,
-        "end": 234.047
-      },
-      {
-        "word": "wanna",
-        "start": 234.057,
-        "end": 234.097
-      },
-      {
-        "word": "die?",
-        "start": 234.107,
-        "end": 234.147
-      }
-    ],
-    "time": 233.757,
-    "end": 234.147
-  },
-  {
-    "text": "Crybaby, I'on ever cry",
-    "startTime": 234.157,
-    "endTime": 234.347,
-    "words": [
-      {
-        "word": "Crybaby,",
-        "start": 234.157,
-        "end": 234.197
-      },
-      {
-        "word": "I'on",
-        "start": 234.207,
-        "end": 234.247
-      },
-      {
-        "word": "ever",
-        "start": 234.257,
-        "end": 234.297
-      },
-      {
-        "word": "cry",
-        "start": 234.307,
-        "end": 234.347
-      }
-    ],
-    "time": 234.157,
-    "end": 234.347
-  },
-  {
-    "text": "GBC I keep 'em by my side",
-    "startTime": 234.357,
-    "endTime": 234.877,
-    "words": [
-      {
-        "word": "GBC",
-        "start": 234.357,
-        "end": 234.397
-      },
-      {
-        "word": "I",
-        "start": 234.407,
-        "end": 234.447
-      },
-      {
-        "word": "keep",
-        "start": 234.457,
-        "end": 234.497
-      },
-      {
-        "word": "'em",
-        "start": 234.507,
-        "end": 234.547
-      },
-      {
-        "word": "by",
-        "start": 234.557,
-        "end": 234.657
-      },
-      {
-        "word": "my",
-        "start": 234.667,
-        "end": 234.767
-      },
-      {
-        "word": "side",
-        "start": 234.777,
-        "end": 234.877
-      }
-    ],
-    "time": 234.357,
-    "end": 234.877
-  },
-  {
-    "text": "I see you lookin', baby, tell me why?",
-    "startTime": 234.887,
-    "endTime": 235.757,
-    "words": [
-      {
-        "word": "I",
-        "start": 234.887,
-        "end": 234.987
-      },
-      {
-        "word": "see",
-        "start": 234.997,
-        "end": 235.097
-      },
-      {
-        "word": "you",
-        "start": 235.107,
-        "end": 235.207
-      },
-      {
-        "word": "lookin',",
-        "start": 235.217,
-        "end": 235.317
-      },
-      {
-        "word": "baby,",
-        "start": 235.327,
-        "end": 235.427
-      },
-      {
-        "word": "tell",
-        "start": 235.437,
-        "end": 235.537
-      },
-      {
-        "word": "me",
-        "start": 235.547,
-        "end": 235.647,
-        "whisper": true
-      },
-      {
-        "word": "why?",
-        "start": 235.657,
-        "end": 235.757,
-        "whisper": true
-      }
-    ],
-    "time": 234.887,
-    "end": 235.757
-  },
-  {
-    "text": "She like why you stay lookin' like you wanna die?",
-    "startTime": 235.767,
-    "endTime": 236.857,
-    "words": [
-      {
-        "word": "She",
-        "start": 235.767,
-        "end": 235.867
-      },
-      {
-        "word": "like",
-        "start": 235.877,
-        "end": 235.977
-      },
-      {
-        "word": "why",
-        "start": 235.987,
-        "end": 236.087,
-        "whisper": true
-      },
-      {
-        "word": "you",
-        "start": 236.097,
-        "end": 236.197,
-        "whisper": true
-      },
-      {
-        "word": "stay",
-        "start": 236.207,
-        "end": 236.307,
-        "whisper": true
-      },
-      {
-        "word": "lookin'",
-        "start": 236.317,
-        "end": 236.417,
-        "whisper": true
-      },
-      {
-        "word": "like",
-        "start": 236.427,
-        "end": 236.527,
-        "whisper": true
-      },
-      {
-        "word": "you",
-        "start": 236.537,
-        "end": 236.637,
-        "whisper": true
-      },
-      {
-        "word": "wanna",
-        "start": 236.647,
-        "end": 236.747
-      },
-      {
-        "word": "die?",
-        "start": 236.757,
-        "end": 236.857,
-        "whisper": true
-      }
-    ],
-    "time": 235.767,
-    "end": 236.857
-  },
-  {
-    "text": "Crybaby, I'on ever cry",
-    "startTime": 236.867,
-    "endTime": 237.297,
-    "words": [
-      {
-        "word": "Crybaby,",
-        "start": 236.867,
-        "end": 236.967,
-        "whisper": true
-      },
-      {
-        "word": "I'on",
-        "start": 236.977,
-        "end": 237.077,
-        "whisper": true
-      },
-      {
-        "word": "ever",
-        "start": 237.087,
-        "end": 237.187,
-        "whisper": true
-      },
-      {
-        "word": "cry",
-        "start": 237.197,
-        "end": 237.297,
-        "whisper": true
-      }
-    ],
-    "time": 236.867,
-    "end": 237.297
-  },
-  {
-    "text": "GBC I keep 'em by my side",
-    "startTime": 237.307,
-    "endTime": 238.067,
-    "words": [
-      {
-        "word": "GBC",
-        "start": 237.307,
-        "end": 237.407,
-        "whisper": true
-      },
-      {
-        "word": "I",
-        "start": 237.417,
-        "end": 237.517,
-        "whisper": true
-      },
-      {
-        "word": "keep",
-        "start": 237.527,
-        "end": 237.627,
-        "whisper": true
-      },
-      {
-        "word": "'em",
-        "start": 237.637,
-        "end": 237.737,
-        "whisper": true
-      },
-      {
-        "word": "by",
-        "start": 237.747,
-        "end": 237.847,
-        "whisper": true
-      },
-      {
-        "word": "my",
-        "start": 237.857,
-        "end": 237.957,
-        "whisper": true
-      },
-      {
-        "word": "side",
-        "start": 237.967,
-        "end": 238.067
-      }
-    ],
-    "time": 237.307,
-    "end": 238.067
-  },
-  {
-    "text": "Baby crying 'cause I gotta go",
-    "startTime": 238.077,
-    "endTime": 238.727,
-    "words": [
-      {
-        "word": "Baby",
-        "start": 238.077,
-        "end": 238.177,
-        "whisper": true
-      },
-      {
-        "word": "crying",
-        "start": 238.187,
-        "end": 238.287,
-        "whisper": true
-      },
-      {
-        "word": "'cause",
-        "start": 238.297,
-        "end": 238.397,
-        "whisper": true
-      },
-      {
-        "word": "I",
-        "start": 238.407,
-        "end": 238.507,
-        "whisper": true
-      },
-      {
-        "word": "gotta",
-        "start": 238.517,
-        "end": 238.617,
-        "whisper": true
-      },
-      {
-        "word": "go",
-        "start": 238.627,
-        "end": 238.727,
-        "spoken": true
-      }
-    ],
-    "time": 238.077,
-    "end": 238.727
-  },
-  {
-    "text": "Make a few racks off a rap show",
-    "startTime": 238.737,
-    "endTime": 239.607,
-    "words": [
-      {
-        "word": "Make",
-        "start": 238.737,
-        "end": 238.837,
-        "whisper": true
-      },
-      {
-        "word": "a",
-        "start": 238.847,
-        "end": 238.947,
-        "whisper": true
-      },
-      {
-        "word": "few",
-        "start": 238.957,
-        "end": 239.057,
-        "whisper": true
-      },
-      {
-        "word": "racks",
-        "start": 239.067,
-        "end": 239.167,
-        "spoken": true
-      },
-      {
-        "word": "off",
-        "start": 239.177,
-        "end": 239.277,
-        "whisper": true
-      },
-      {
-        "word": "a",
-        "start": 239.287,
-        "end": 239.387,
-        "whisper": true
-      },
-      {
-        "word": "rap",
-        "start": 239.397,
-        "end": 239.497,
-        "whisper": true
-      },
-      {
-        "word": "show",
-        "start": 239.507,
-        "end": 239.607,
-        "whisper": true
-      }
-    ],
-    "time": 238.737,
-    "end": 239.607
-  },
-  {
-    "text": "I don't rap though, I sing slow",
-    "startTime": 239.617,
-    "endTime": 240.377,
-    "words": [
-      {
-        "word": "I",
-        "start": 239.617,
-        "end": 239.717,
-        "whisper": true
-      },
-      {
-        "word": "don't",
-        "start": 239.727,
-        "end": 239.827,
-        "whisper": true
-      },
-      {
-        "word": "rap",
-        "start": 239.837,
-        "end": 239.937,
-        "whisper": true
-      },
-      {
-        "word": "though,",
-        "start": 239.947,
-        "end": 240.047,
-        "spoken": true
-      },
-      {
-        "word": "I",
-        "start": 240.057,
-        "end": 240.157
-      },
-      {
-        "word": "sing",
-        "start": 240.167,
-        "end": 240.267,
-        "whisper": true
-      },
-      {
-        "word": "slow",
-        "start": 240.277,
-        "end": 240.377,
-        "whisper": true
-      }
-    ],
-    "time": 239.617,
-    "end": 240.377
-  },
-  {
-    "text": "GothBoi with a trap phone",
-    "startTime": 240.387,
-    "endTime": 240.927,
-    "words": [
-      {
-        "word": "GothBoi",
-        "start": 240.387,
-        "end": 240.487,
-        "whisper": true
-      },
-      {
-        "word": "with",
-        "start": 240.497,
-        "end": 240.597,
-        "whisper": true
-      },
-      {
-        "word": "a",
-        "start": 240.607,
-        "end": 240.707,
-        "whisper": true
-      },
-      {
-        "word": "trap",
-        "start": 240.717,
-        "end": 240.817,
-        "whisper": true
-      },
-      {
-        "word": "phone",
-        "start": 240.827,
-        "end": 240.927,
-        "whisper": true
-      }
-    ],
-    "time": 240.387,
-    "end": 240.927
-  },
-  {
-    "text": "I see you lookin', baby, tell me why?",
-    "startTime": 240.937,
-    "endTime": 241.807,
-    "words": [
-      {
-        "word": "I",
-        "start": 240.937,
-        "end": 241.037,
-        "whisper": true
-      },
-      {
-        "word": "see",
-        "start": 241.047,
-        "end": 241.147,
-        "whisper": true
-      },
-      {
-        "word": "you",
-        "start": 241.157,
-        "end": 241.257,
-        "whisper": true
-      },
-      {
-        "word": "lookin',",
-        "start": 241.267,
-        "end": 241.367,
-        "whisper": true
-      },
-      {
-        "word": "baby,",
-        "start": 241.377,
-        "end": 241.477,
-        "spoken": true
-      },
-      {
-        "word": "tell",
-        "start": 241.487,
-        "end": 241.587,
-        "whisper": true
-      },
-      {
-        "word": "me",
-        "start": 241.597,
-        "end": 241.697,
-        "whisper": true
-      },
-      {
-        "word": "why?",
-        "start": 241.707,
-        "end": 241.807,
-        "whisper": true
-      }
-    ],
-    "time": 240.937,
-    "end": 241.807
-  },
-  {
-    "text": "I remember every fuckin' night",
-    "startTime": 241.817,
-    "endTime": 242.357,
-    "words": [
-      {
-        "word": "I",
-        "start": 241.817,
-        "end": 241.917,
-        "whisper": true
-      },
-      {
-        "word": "remember",
-        "start": 241.927,
-        "end": 242.027,
-        "whisper": true
-      },
-      {
-        "word": "every",
-        "start": 242.037,
-        "end": 242.137,
-        "whisper": true
-      },
-      {
-        "word": "fuckin'",
-        "start": 242.147,
-        "end": 242.247,
-        "whisper": true
-      },
-      {
-        "word": "night",
-        "start": 242.257,
-        "end": 242.357,
-        "whisper": true
-      }
-    ],
-    "time": 241.817,
-    "end": 242.357
-  },
-  {
-    "text": "Girl I'm faded, I ain't tryna fight",
-    "startTime": 242.367,
-    "endTime": 243.127,
-    "words": [
-      {
-        "word": "Girl",
-        "start": 242.367,
-        "end": 242.467,
-        "whisper": true
-      },
-      {
-        "word": "I'm",
-        "start": 242.477,
-        "end": 242.577,
-        "whisper": true
-      },
-      {
-        "word": "faded,",
-        "start": 242.587,
-        "end": 242.687,
-        "whisper": true
-      },
-      {
-        "word": "I",
-        "start": 242.697,
-        "end": 242.797,
-        "whisper": true
-      },
-      {
-        "word": "ain't",
-        "start": 242.807,
-        "end": 242.907,
-        "whisper": true
-      },
-      {
-        "word": "tryna",
-        "start": 242.917,
-        "end": 243.017,
-        "whisper": true
-      },
-      {
-        "word": "fight",
-        "start": 243.027,
-        "end": 243.127,
-        "whisper": true
-      }
-    ],
-    "time": 242.367,
-    "end": 243.127
-  },
-  {
-    "text": "Plus you know I'm 'bout to fuckin' die",
-    "startTime": 243.137,
-    "endTime": 244.007,
-    "words": [
-      {
-        "word": "Plus",
-        "start": 243.137,
-        "end": 243.237,
-        "whisper": true
-      },
-      {
-        "word": "you",
-        "start": 243.247,
-        "end": 243.347,
-        "whisper": true
-      },
-      {
-        "word": "know",
-        "start": 243.357,
-        "end": 243.457,
-        "whisper": true
-      },
-      {
-        "word": "I'm",
-        "start": 243.467,
-        "end": 243.567,
-        "whisper": true
-      },
-      {
-        "word": "'bout",
-        "start": 243.577,
-        "end": 243.677,
-        "whisper": true
-      },
-      {
-        "word": "to",
-        "start": 243.687,
-        "end": 243.787,
-        "whisper": true
-      },
-      {
-        "word": "fuckin'",
-        "start": 243.797,
-        "end": 243.897,
-        "whisper": true
-      },
-      {
-        "word": "die",
-        "start": 243.907,
-        "end": 244.007,
-        "whisper": true
-      }
-    ],
-    "time": 243.137,
-    "end": 244.007
-  },
-  {
-    "text": "You see me shinin' in the club lights",
-    "startTime": 244.017,
-    "endTime": 244.887,
-    "words": [
-      {
-        "word": "You",
-        "start": 244.017,
-        "end": 244.117,
-        "whisper": true
-      },
-      {
-        "word": "see",
-        "start": 244.127,
-        "end": 244.227,
-        "whisper": true
-      },
-      {
-        "word": "me",
-        "start": 244.237,
-        "end": 244.337,
-        "whisper": true
-      },
-      {
-        "word": "shinin'",
-        "start": 244.347,
-        "end": 244.447,
-        "whisper": true
-      },
-      {
-        "word": "in",
-        "start": 244.457,
-        "end": 244.557,
-        "whisper": true
-      },
-      {
-        "word": "the",
-        "start": 244.567,
-        "end": 244.667,
-        "whisper": true
-      },
-      {
-        "word": "club",
-        "start": 244.677,
-        "end": 244.777,
-        "whisper": true
-      },
-      {
-        "word": "lights",
-        "start": 244.787,
-        "end": 244.887,
-        "whisper": true
-      }
-    ],
-    "time": 244.017,
-    "end": 244.887
-  },
-  {
-    "text": "You know I hate it, but I'm lovin' life",
-    "startTime": 244.897,
-    "endTime": 245.877,
-    "words": [
-      {
-        "word": "You",
-        "start": 244.897,
-        "end": 244.997,
-        "whisper": true
-      },
-      {
-        "word": "know",
-        "start": 245.007,
-        "end": 245.107,
-        "whisper": true
-      },
-      {
-        "word": "I",
-        "start": 245.117,
-        "end": 245.217,
-        "whisper": true
-      },
-      {
-        "word": "hate",
-        "start": 245.227,
-        "end": 245.327,
-        "whisper": true
-      },
-      {
-        "word": "it,",
-        "start": 245.337,
-        "end": 245.437,
-        "whisper": true
-      },
-      {
-        "word": "but",
-        "start": 245.447,
-        "end": 245.547,
-        "whisper": true
-      },
-      {
-        "word": "I'm",
-        "start": 245.557,
-        "end": 245.657,
-        "whisper": true
-      },
-      {
-        "word": "lovin'",
-        "start": 245.667,
-        "end": 245.767,
-        "whisper": true
-      },
-      {
-        "word": "life",
-        "start": 245.777,
-        "end": 245.877,
-        "whisper": true
-      }
-    ],
-    "time": 244.897,
-    "end": 245.877
-  },
-  {
-    "text": "You don't gotta do a thing right",
-    "startTime": 245.887,
-    "endTime": 246.647,
-    "words": [
-      {
-        "word": "You",
-        "start": 245.887,
-        "end": 245.987,
-        "whisper": true
-      },
-      {
-        "word": "don't",
-        "start": 245.997,
-        "end": 246.097,
-        "whisper": true
-      },
-      {
-        "word": "gotta",
-        "start": 246.107,
-        "end": 246.207,
-        "whisper": true
-      },
-      {
-        "word": "do",
-        "start": 246.217,
-        "end": 246.317,
-        "whisper": true
-      },
-      {
-        "word": "a",
-        "start": 246.327,
-        "end": 246.427,
-        "whisper": true
-      },
-      {
-        "word": "thing",
-        "start": 246.437,
-        "end": 246.537,
-        "whisper": true
-      },
-      {
-        "word": "right",
-        "start": 246.547,
-        "end": 246.647,
-        "whisper": true
-      }
-    ],
-    "time": 245.887,
-    "end": 246.647
-  },
-  {
-    "text": "Hit the gas, now I'm out of sight",
-    "startTime": 246.657,
-    "endTime": 247.527,
-    "words": [
-      {
-        "word": "Hit",
-        "start": 246.657,
-        "end": 246.757,
-        "whisper": true
-      },
-      {
-        "word": "the",
-        "start": 246.767,
-        "end": 246.867,
-        "whisper": true
-      },
-      {
-        "word": "gas,",
-        "start": 246.877,
-        "end": 246.977,
-        "whisper": true
-      },
-      {
-        "word": "now",
-        "start": 246.987,
-        "end": 247.087,
-        "whisper": true
-      },
-      {
-        "word": "I'm",
-        "start": 247.097,
-        "end": 247.197,
-        "whisper": true
-      },
-      {
-        "word": "out",
-        "start": 247.207,
-        "end": 247.307,
-        "whisper": true
-      },
-      {
-        "word": "of",
-        "start": 247.317,
-        "end": 247.417,
-        "whisper": true
-      },
-      {
-        "word": "sight",
-        "start": 247.427,
-        "end": 247.527,
-        "whisper": true
-      }
-    ],
-    "time": 246.657,
-    "end": 247.527
-  },
-  {
-    "text": "Black jeans and it's skin tight",
-    "startTime": 247.537,
-    "endTime": 248.187,
-    "words": [
-      {
-        "word": "Black",
-        "start": 247.537,
-        "end": 247.637,
-        "whisper": true
-      },
-      {
-        "word": "jeans",
-        "start": 247.647,
-        "end": 247.747,
-        "whisper": true
-      },
-      {
-        "word": "and",
-        "start": 247.757,
-        "end": 247.857,
-        "whisper": true
-      },
-      {
-        "word": "it's",
-        "start": 247.867,
-        "end": 247.967,
-        "whisper": true
-      },
-      {
-        "word": "skin",
-        "start": 247.977,
-        "end": 248.077,
-        "whisper": true
-      },
-      {
-        "word": "tight",
-        "start": 248.087,
-        "end": 248.187,
-        "whisper": true
-      }
-    ],
-    "time": 247.537,
-    "end": 248.187
-  },
-  {
-    "text": "Type shit that your bitch like",
-    "startTime": 248.197,
-    "endTime": 248.847,
-    "words": [
-      {
-        "word": "Type",
-        "start": 248.197,
-        "end": 248.297,
-        "whisper": true
-      },
-      {
-        "word": "shit",
-        "start": 248.307,
-        "end": 248.407,
-        "whisper": true
-      },
-      {
-        "word": "that",
-        "start": 248.417,
-        "end": 248.517,
-        "whisper": true
-      },
-      {
-        "word": "your",
-        "start": 248.527,
-        "end": 248.627,
-        "whisper": true
-      },
-      {
-        "word": "bitch",
-        "start": 248.637,
-        "end": 248.737,
-        "whisper": true
-      },
-      {
-        "word": "like",
-        "start": 248.747,
-        "end": 248.847,
-        "whisper": true
-      }
-    ],
-    "time": 248.197,
-    "end": 248.847
-  },
-  {
-    "text": "You fuckin' with the GothBoiClique, right?",
-    "startTime": 248.857,
-    "endTime": 249.507,
-    "words": [
-      {
-        "word": "You",
-        "start": 248.857,
-        "end": 248.957,
-        "whisper": true
-      },
-      {
-        "word": "fuckin'",
-        "start": 248.967,
-        "end": 249.067,
-        "whisper": true
-      },
-      {
-        "word": "with",
-        "start": 249.077,
-        "end": 249.177,
-        "whisper": true
-      },
-      {
-        "word": "the",
-        "start": 249.187,
-        "end": 249.287,
-        "whisper": true
-      },
-      {
-        "word": "GothBoiClique,",
-        "start": 249.297,
-        "end": 249.397,
-        "whisper": true
-      },
-      {
-        "word": "right?",
-        "start": 249.407,
-        "end": 249.507,
-        "whisper": true
-      }
-    ],
-    "time": 248.857,
-    "end": 249.507
+    "time": 218.19,
+    "end": 221.59
   },
   {
     "text": "We been off the shits like 6 nights",
-    "startTime": 249.517,
-    "endTime": 252.872,
+    "startTime": 221.6,
+    "endTime": 224.61,
     "words": [
       {
         "word": "We",
-        "start": 249.517,
-        "end": 249.587,
-        "whisper": true
+        "start": 221.646,
+        "end": 222.47,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "been",
-        "start": 249.597,
-        "end": 250.092,
-        "whisper": true
+        "start": 222.48,
+        "end": 222.61,
+        "singer": "singer2"
       },
       {
         "word": "off",
-        "start": 250.102,
-        "end": 250.471,
-        "whisper": true
+        "start": 222.62,
+        "end": 222.77,
+        "singer": "singer2"
       },
       {
         "word": "the",
-        "start": 250.481,
-        "end": 250.85,
-        "whisper": true
+        "start": 222.78,
+        "end": 223.03,
+        "singer": "singer2"
       },
       {
         "word": "shits",
-        "start": 250.86,
-        "end": 251.482,
-        "whisper": true
+        "start": 223.04,
+        "end": 223.45,
+        "singer": "singer2"
       },
       {
         "word": "like",
-        "start": 251.492,
-        "end": 251.988,
-        "whisper": true
+        "start": 223.46,
+        "end": 223.79,
+        "singer": "singer2"
       },
       {
         "word": "6",
-        "start": 251.998,
-        "end": 252.114,
-        "whisper": true
+        "start": 223.8,
+        "end": 224.23,
+        "singer": "singer2"
       },
       {
         "word": "nights",
-        "start": 252.124,
-        "end": 252.872,
-        "char_starts": [
-          252.124,
-          252.19,
-          252.293,
-          252.417,
-          252.556,
-          252.707
-        ],
-        "whisper": true
+        "start": 224.24,
+        "end": 224.61,
+        "spoken": true,
+        "singer": "singer2"
       }
     ],
-    "time": 249.517,
-    "end": 252.872
+    "time": 221.6,
+    "end": 224.61
   },
   {
     "text": "Black jeans and it's skin tight",
-    "startTime": 252.882,
-    "endTime": 256.157,
+    "startTime": 225.63,
+    "endTime": 228.63,
     "words": [
       {
         "word": "Black",
-        "start": 252.882,
-        "end": 253.504,
-        "whisper": true
+        "start": 225.769,
+        "end": 226.39,
+        "char_starts": [
+          225.769,
+          225.721,
+          225.863,
+          226.032,
+          226.223
+        ],
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "jeans",
-        "start": 253.514,
-        "end": 254.135,
-        "whisper": true
+        "start": 226.4,
+        "end": 226.83,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "and",
-        "start": 254.145,
-        "end": 254.514,
-        "whisper": true
+        "start": 226.84,
+        "end": 227.05,
+        "singer": "singer1"
       },
       {
         "word": "it's",
-        "start": 254.524,
-        "end": 255.02,
-        "char_starts": [
-          254.524,
-          254.612,
-          254.748,
-          254.911
-        ],
-        "whisper": true
+        "start": 227.06,
+        "end": 227.43,
+        "singer": "singer1"
       },
       {
         "word": "skin",
-        "start": 255.03,
-        "end": 255.525,
-        "whisper": true
+        "start": 227.614,
+        "end": 227.73,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "tight",
-        "start": 255.535,
-        "end": 256.157,
-        "whisper": true
+        "start": 227.74,
+        "end": 228.63,
+        "char_starts": [
+          227.74,
+          227.847,
+          228.012,
+          228.211,
+          228.434
+        ],
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 252.882,
-    "end": 256.157
+    "time": 225.63,
+    "end": 228.63
   },
   {
     "text": "Type shit that your bitch like",
-    "startTime": 256.167,
-    "endTime": 259.315,
+    "startTime": 228.64,
+    "endTime": 231.81,
     "words": [
       {
         "word": "Type",
-        "start": 256.167,
-        "end": 256.662,
-        "whisper": true
+        "start": 228.64,
+        "end": 229.79,
+        "char_starts": [
+          228.64,
+          228.779,
+          229.061,
+          229.445
+        ],
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "shit",
-        "start": 256.672,
-        "end": 257.168,
-        "whisper": true
+        "start": 229.8,
+        "end": 230.19,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "that",
-        "start": 257.178,
-        "end": 257.673,
-        "whisper": true
+        "start": 230.27,
+        "end": 230.57,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "your",
-        "start": 257.683,
-        "end": 258.178,
-        "whisper": true
+        "start": 230.58,
+        "end": 230.69,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "bitch",
-        "start": 258.188,
-        "end": 258.81,
-        "whisper": true
+        "start": 230.7,
+        "end": 231.05,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "like",
-        "start": 258.82,
-        "end": 259.315,
-        "whisper": true
+        "start": 231.106,
+        "end": 231.81,
+        "char_starts": [
+          231.106,
+          231.151,
+          231.334,
+          231.585
+        ],
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 256.167,
-    "end": 259.315
+    "time": 228.64,
+    "end": 231.81
   },
   {
     "text": "You fuckin' with the GothBoiClique, right?",
-    "startTime": 259.325,
-    "endTime": 263.721,
+    "startTime": 231.82,
+    "endTime": 235.35,
     "words": [
       {
         "word": "You",
-        "start": 259.325,
-        "end": 259.695,
-        "whisper": true
+        "start": 231.936,
+        "end": 232.33,
+        "char_starts": [
+          231.936,
+          231.938,
+          232.177
+        ],
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "fuckin'",
-        "start": 259.705,
-        "end": 260.579,
-        "char_starts": [
-          259.705,
-          259.766,
-          259.86,
-          259.972,
-          260.099,
-          260.238,
-          260.387
-        ],
-        "whisper": true
+        "start": 232.55,
+        "end": 232.69,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "with",
-        "start": 260.589,
-        "end": 261.084,
-        "whisper": true
+        "start": 232.87,
+        "end": 232.97,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 261.094,
-        "end": 261.463,
-        "whisper": true
+        "start": 232.98,
+        "end": 233.23,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "GothBoiClique,",
-        "start": 261.473,
-        "end": 262.963,
+        "start": 233.24,
+        "end": 234.49,
         "char_starts": [
-          261.473,
-          261.503,
-          261.55,
-          261.607,
-          261.67,
-          261.74,
-          261.814,
-          261.893,
-          261.976,
-          262.063,
-          262.153,
-          262.246,
-          262.342,
-          262.442
+          233.24,
+          233.265,
+          233.305,
+          233.352,
+          233.405,
+          233.464,
+          233.526,
+          233.592,
+          233.662,
+          233.735,
+          233.81,
+          233.888,
+          233.969,
+          234.053
         ],
-        "whisper": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "right?",
-        "start": 262.973,
-        "end": 263.721,
+        "start": 234.546,
+        "end": 235.35,
         "char_starts": [
-          262.973,
-          263.039,
-          263.142,
-          263.266,
-          263.405,
-          263.556
+          234.546,
+          234.575,
+          234.692,
+          234.833,
+          234.991,
+          235.163
         ],
-        "whisper": true
+        "singer": "singer1"
       }
     ],
-    "time": 259.325,
-    "end": 263.721
+    "time": 231.82,
+    "end": 235.35
+  },
+  {
+    "text": "●",
+    "startTime": 235.65,
+    "endTime": 269.259,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 235.65,
+    "end": 269.259
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-23T19:32:39.389024+00:00",
-  "totalTracks": 753,
+  "generatedAt": "2026-06-24T13:36:03.539905+00:00",
+  "totalTracks": 754,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10583,6 +10583,20 @@
       },
       "sourcePath": "https://soundcloud.com/1keith/lil-peep-pray-i-die",
       "mtimeMs": 1782243162665
+    },
+    "spellscasted::snakes prod cight vaiku *rare must collect*": {
+      "title": "snakes prod cight vaiku *RARE MUST COLLECT*",
+      "artist": "spellscasted",
+      "originalTrackName": "spellscasted - snakes prod cight vaiku *RARE MUST COLLECT*",
+      "source": "whisper_only",
+      "file": "tracks/spellscasted-snakes-prod-cight-vaiku-rare-must-collect-938d350baa67.json",
+      "files": {
+        "lyrics": "tracks/spellscasted-snakes-prod-cight-vaiku-rare-must-collect-938d350baa67.json",
+        "meta": "tracks/spellscasted-snakes-prod-cight-vaiku-rare-must-collect-938d350baa67.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/spellscasted/snakes-prod-cight-vaiku",
+      "mtimeMs": 1782308164581
     }
   },
   "tracks": [
@@ -21183,6 +21197,20 @@
       },
       "sourcePath": "https://soundcloud.com/1keith/lil-peep-pray-i-die",
       "mtimeMs": 1782243162665
+    },
+    {
+      "title": "snakes prod cight vaiku *RARE MUST COLLECT*",
+      "artist": "spellscasted",
+      "originalTrackName": "spellscasted - snakes prod cight vaiku *RARE MUST COLLECT*",
+      "source": "whisper_only",
+      "file": "tracks/spellscasted-snakes-prod-cight-vaiku-rare-must-collect-938d350baa67.json",
+      "files": {
+        "lyrics": "tracks/spellscasted-snakes-prod-cight-vaiku-rare-must-collect-938d350baa67.json",
+        "meta": "tracks/spellscasted-snakes-prod-cight-vaiku-rare-must-collect-938d350baa67.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/spellscasted/snakes-prod-cight-vaiku",
+      "mtimeMs": 1782308164581
     }
   ]
 }

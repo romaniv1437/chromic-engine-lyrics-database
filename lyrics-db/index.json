@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-24T13:36:33.516412+00:00",
-  "totalTracks": 755,
+  "generatedAt": "2026-06-24T22:19:39.075595+00:00",
+  "totalTracks": 756,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10611,6 +10611,20 @@
       },
       "sourcePath": "https://soundcloud.com/bladee1000/4-34-edit",
       "mtimeMs": 1782308196868
+    },
+    "spellscasted::sorry to dissapoint prod me w4ah": {
+      "title": "sorry to dissapoint prod me w4ah",
+      "artist": "spellscasted",
+      "originalTrackName": "spellscasted - sorry to dissapoint prod me w4ah",
+      "source": "whisper_only",
+      "file": "tracks/spellscasted-sorry-to-dissapoint-prod-me-w4ah-21638bcf490f.json",
+      "files": {
+        "lyrics": "tracks/spellscasted-sorry-to-dissapoint-prod-me-w4ah-21638bcf490f.json",
+        "meta": "tracks/spellscasted-sorry-to-dissapoint-prod-me-w4ah-21638bcf490f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/spellscasted/sorry-to-dissapoint-prod-me",
+      "mtimeMs": 1782339580213
     }
   },
   "tracks": [
@@ -21239,6 +21253,20 @@
       },
       "sourcePath": "https://soundcloud.com/bladee1000/4-34-edit",
       "mtimeMs": 1782308196868
+    },
+    {
+      "title": "sorry to dissapoint prod me w4ah",
+      "artist": "spellscasted",
+      "originalTrackName": "spellscasted - sorry to dissapoint prod me w4ah",
+      "source": "whisper_only",
+      "file": "tracks/spellscasted-sorry-to-dissapoint-prod-me-w4ah-21638bcf490f.json",
+      "files": {
+        "lyrics": "tracks/spellscasted-sorry-to-dissapoint-prod-me-w4ah-21638bcf490f.json",
+        "meta": "tracks/spellscasted-sorry-to-dissapoint-prod-me-w4ah-21638bcf490f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/spellscasted/sorry-to-dissapoint-prod-me",
+      "mtimeMs": 1782339580213
     }
   ]
 }

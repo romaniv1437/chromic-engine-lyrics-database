@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-24T13:36:17.487107+00:00",
-  "totalTracks": 754,
+  "generatedAt": "2026-06-24T13:36:23.796905+00:00",
+  "totalTracks": 755,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10597,6 +10597,20 @@
       },
       "sourcePath": "https://soundcloud.com/spellscasted/snakes-prod-cight-vaiku",
       "mtimeMs": 1782308180616
+    },
+    "bladee::be nice to me": {
+      "title": "BE NICE TO ME",
+      "artist": "Bladee",
+      "originalTrackName": "Bladee - BE NICE TO ME",
+      "source": "lrclib_plain",
+      "file": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
+      "files": {
+        "lyrics": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
+        "meta": "tracks/bladee-be-nice-to-me-d7442d0c219c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bladee1000/4-34-edit",
+      "mtimeMs": 1782308185054
     }
   },
   "tracks": [
@@ -21211,6 +21225,20 @@
       },
       "sourcePath": "https://soundcloud.com/spellscasted/snakes-prod-cight-vaiku",
       "mtimeMs": 1782308180616
+    },
+    {
+      "title": "BE NICE TO ME",
+      "artist": "Bladee",
+      "originalTrackName": "Bladee - BE NICE TO ME",
+      "source": "lrclib_plain",
+      "file": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
+      "files": {
+        "lyrics": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
+        "meta": "tracks/bladee-be-nice-to-me-d7442d0c219c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bladee1000/4-34-edit",
+      "mtimeMs": 1782308185054
     }
   ]
 }

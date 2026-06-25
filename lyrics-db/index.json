@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-24T22:19:39.075595+00:00",
-  "totalTracks": 756,
+  "generatedAt": "2026-06-25T22:19:09.313606+00:00",
+  "totalTracks": 757,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10625,6 +10625,20 @@
       },
       "sourcePath": "https://soundcloud.com/spellscasted/sorry-to-dissapoint-prod-me",
       "mtimeMs": 1782339580213
+    },
+    "☆lil peep☆::gods (w/ lil tracy)": {
+      "title": "GODS (w/ Lil Tracy)",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - GODS (w/ Lil Tracy)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+        "meta": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
+      "mtimeMs": 1782425950554
     }
   },
   "tracks": [
@@ -21267,6 +21281,20 @@
       },
       "sourcePath": "https://soundcloud.com/spellscasted/sorry-to-dissapoint-prod-me",
       "mtimeMs": 1782339580213
+    },
+    {
+      "title": "GODS (w/ Lil Tracy)",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - GODS (w/ Lil Tracy)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+        "meta": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
+      "mtimeMs": 1782425950554
     }
   ]
 }

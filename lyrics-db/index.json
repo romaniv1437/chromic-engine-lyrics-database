@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-26T11:19:45.869464+00:00",
-  "totalTracks": 758,
+  "generatedAt": "2026-06-26T21:04:31.105468+00:00",
+  "totalTracks": 759,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10653,6 +10653,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/give-u-the-moon",
       "mtimeMs": 1782472789343
+    },
+    "lil peep::witchblades w/ lil tracy": {
+      "title": "witchblades w/ lil tracy",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - witchblades w/ lil tracy",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+        "meta": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
+      "mtimeMs": 1782507872321
     }
   },
   "tracks": [
@@ -21323,6 +21337,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/give-u-the-moon",
       "mtimeMs": 1782472789343
+    },
+    {
+      "title": "witchblades w/ lil tracy",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - witchblades w/ lil tracy",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+        "meta": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
+      "mtimeMs": 1782507872321
     }
   ]
 }

@@ -1,0 +1,3060 @@
+[
+  {
+    "text": "What is it you want, Mary?",
+    "startTime": 4.12,
+    "endTime": 5.66,
+    "words": [
+      {
+        "word": "What",
+        "start": 4.348,
+        "end": 4.5,
+        "singer": "singer2"
+      },
+      {
+        "word": "is",
+        "start": 4.5,
+        "end": 4.68,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 4.68,
+        "end": 4.8,
+        "singer": "singer2"
+      },
+      {
+        "word": "you",
+        "start": 4.8,
+        "end": 4.92,
+        "singer": "singer2"
+      },
+      {
+        "word": "want,",
+        "start": 4.92,
+        "end": 5.06,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Mary?",
+        "start": 5.06,
+        "end": 5.66,
+        "whisper": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 4.12,
+    "end": 5.66
+  },
+  {
+    "text": "What do you want?",
+    "startTime": 6.2,
+    "endTime": 7.18,
+    "words": [
+      {
+        "word": "What",
+        "start": 6.2,
+        "end": 6.36,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "do",
+        "start": 6.36,
+        "end": 6.58,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 6.58,
+        "end": 6.68,
+        "singer": "singer2"
+      },
+      {
+        "word": "want?",
+        "start": 6.69,
+        "end": 7.18,
+        "whisper": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 6.2,
+    "end": 7.18
+  },
+  {
+    "text": "You, you want the Moon?",
+    "startTime": 7.45,
+    "endTime": 8.72,
+    "words": [
+      {
+        "word": "You,",
+        "start": 7.45,
+        "end": 7.55,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 7.656,
+        "end": 7.72,
+        "singer": "singer2"
+      },
+      {
+        "word": "want",
+        "start": 7.72,
+        "end": 7.86,
+        "singer": "singer2"
+      },
+      {
+        "word": "the",
+        "start": 7.86,
+        "end": 8.12,
+        "singer": "singer2"
+      },
+      {
+        "word": "Moon?",
+        "start": 8.12,
+        "end": 8.72,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 7.45,
+    "end": 8.72
+  },
+  {
+    "text": "Just say the word and I'll throw a lasso around it and pull it down",
+    "startTime": 9.1,
+    "endTime": 12.349,
+    "words": [
+      {
+        "word": "Just",
+        "start": 9.1,
+        "end": 9.32,
+        "singer": "singer2"
+      },
+      {
+        "word": "say",
+        "start": 9.32,
+        "end": 9.54,
+        "singer": "singer2"
+      },
+      {
+        "word": "the",
+        "start": 9.54,
+        "end": 9.74,
+        "singer": "singer2"
+      },
+      {
+        "word": "word",
+        "start": 9.74,
+        "end": 9.9,
+        "singer": "singer2"
+      },
+      {
+        "word": "and",
+        "start": 9.9,
+        "end": 10.02,
+        "singer": "singer2"
+      },
+      {
+        "word": "I'll",
+        "start": 10.02,
+        "end": 10.3,
+        "singer": "singer2"
+      },
+      {
+        "word": "throw",
+        "start": 10.3,
+        "end": 10.48,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 10.48,
+        "end": 10.64,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "lasso",
+        "start": 10.64,
+        "end": 10.96,
+        "singer": "singer2"
+      },
+      {
+        "word": "around",
+        "start": 10.96,
+        "end": 11.34,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "it",
+        "start": 11.34,
+        "end": 11.505,
+        "singer": "singer2"
+      },
+      {
+        "word": "and",
+        "start": 11.505,
+        "end": 11.753,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "pull",
+        "start": 11.753,
+        "end": 12.084,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "it",
+        "start": 12.084,
+        "end": 12.249,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "down",
+        "start": 12.249,
+        "end": 12.349,
+        "singer": "singer2"
+      }
+    ],
+    "time": 9.1,
+    "end": 12.349
+  },
+  {
+    "text": "Hey, that's a pretty good idea",
+    "startTime": 12.16,
+    "endTime": 13.9,
+    "words": [
+      {
+        "word": "Hey,",
+        "start": 12.16,
+        "end": 12.8,
+        "char_starts": [
+          12.16,
+          12.273,
+          12.449,
+          12.659
+        ],
+        "singer": "singer2"
+      },
+      {
+        "word": "that's",
+        "start": 12.8,
+        "end": 13.04,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 13.04,
+        "end": 13.08,
+        "singer": "singer1"
+      },
+      {
+        "word": "pretty",
+        "start": 13.08,
+        "end": 13.22,
+        "singer": "singer2"
+      },
+      {
+        "word": "good",
+        "start": 13.22,
+        "end": 13.38,
+        "singer": "singer2"
+      },
+      {
+        "word": "idea",
+        "start": 13.38,
+        "end": 13.9,
+        "singer": "singer2"
+      }
+    ],
+    "time": 12.16,
+    "end": 13.9
+  },
+  {
+    "text": "I'll give you the Moon, Mary",
+    "startTime": 13.92,
+    "endTime": 16.4,
+    "words": [
+      {
+        "word": "I'll",
+        "start": 14.27,
+        "end": 15.2,
+        "char_starts": [
+          14.27,
+          14.109,
+          14.401,
+          14.752
+        ],
+        "sung": true,
+        "singer": "singer2",
+        "stretch": true
+      },
+      {
+        "word": "give",
+        "start": 15.2,
+        "end": 15.28,
+        "singer": "singer2"
+      },
+      {
+        "word": "you",
+        "start": 15.28,
+        "end": 15.38,
+        "singer": "singer2"
+      },
+      {
+        "word": "the",
+        "start": 15.38,
+        "end": 15.58,
+        "singer": "singer2"
+      },
+      {
+        "word": "Moon,",
+        "start": 15.58,
+        "end": 15.8,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "Mary",
+        "start": 15.8,
+        "end": 16.4,
+        "singer": "singer2"
+      }
+    ],
+    "time": 13.92,
+    "end": 16.4
+  },
+  {
+    "text": "I'll take it",
+    "startTime": 16.42,
+    "endTime": 17.72,
+    "words": [
+      {
+        "word": "I'll",
+        "start": 16.583,
+        "end": 17.02,
+        "char_starts": [
+          16.583,
+          16.526,
+          16.691,
+          16.888
+        ],
+        "singer": "singer2"
+      },
+      {
+        "word": "take",
+        "start": 17.368,
+        "end": 17.62,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 17.62,
+        "end": 17.72,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 16.42,
+    "end": 17.72
+  },
+  {
+    "text": "Baby, I could give you the Moon",
+    "startTime": 17.28,
+    "endTime": 22.22,
+    "words": [
+      {
+        "word": "Baby,",
+        "start": 17.373,
+        "end": 17.62,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 17.62,
+        "end": 19.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "could",
+        "start": 19.18,
+        "end": 19.64,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "give",
+        "start": 19.64,
+        "end": 20.04,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 20.04,
+        "end": 20.26,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 20.26,
+        "end": 20.68,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Moon",
+        "start": 20.68,
+        "end": 22.22,
+        "char_starts": [
+          20.68,
+          20.907,
+          21.259,
+          21.681
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 17.28,
+    "end": 22.22
+  },
+  {
+    "text": "You know he can't do what I do, yeah, It's true (It's true)",
+    "startTime": 22.22,
+    "endTime": 27.1,
+    "words": [
+      {
+        "word": "You",
+        "start": 22.22,
+        "end": 23.16,
+        "char_starts": [
+          22.22,
+          22.437,
+          22.878
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "know",
+        "start": 23.16,
+        "end": 23.32,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "he",
+        "start": 23.32,
+        "end": 23.58,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "can't",
+        "start": 23.58,
+        "end": 23.94,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "do",
+        "start": 23.94,
+        "end": 24.14,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "what",
+        "start": 24.14,
+        "end": 24.42,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 24.42,
+        "end": 24.76,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "do,",
+        "start": 24.76,
+        "end": 25.24,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "yeah,",
+        "start": 25.24,
+        "end": 25.64,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "It's",
+        "start": 25.64,
+        "end": 26.04,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "true",
+        "start": 26.04,
+        "end": 26.44,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "(It's",
+        "start": 26.44,
+        "end": 27.08,
+        "char_starts": [
+          26.44,
+          26.517,
+          26.636,
+          26.779,
+          26.939
+        ],
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "true)",
+        "start": 27.08,
+        "end": 27.1,
+        "adlib": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 22.22,
+    "end": 27.1
+  },
+  {
+    "text": "Girl, I think I'm dyin' real soon",
+    "startTime": 27.12,
+    "endTime": 29.48,
+    "words": [
+      {
+        "word": "Girl,",
+        "start": 27.12,
+        "end": 27.56,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 27.56,
+        "end": 27.7,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "think",
+        "start": 27.7,
+        "end": 28.0,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 28.0,
+        "end": 28.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "dyin'",
+        "start": 28.48,
+        "end": 28.92,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "real",
+        "start": 28.92,
+        "end": 29.1,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "soon",
+        "start": 29.1,
+        "end": 29.48,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 27.12,
+    "end": 29.48
+  },
+  {
+    "text": "We could die in my room, me and you (me and you)",
+    "startTime": 29.5,
+    "endTime": 32.62,
+    "words": [
+      {
+        "word": "We",
+        "start": 29.5,
+        "end": 30.08,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "could",
+        "start": 30.08,
+        "end": 30.44,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "die",
+        "start": 30.44,
+        "end": 30.72,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "in",
+        "start": 30.72,
+        "end": 30.92,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 30.92,
+        "end": 31.28,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "room,",
+        "start": 31.28,
+        "end": 31.62,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 31.62,
+        "end": 31.675,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 31.675,
+        "end": 31.758,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 31.768,
+        "end": 31.84,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "(me",
+        "start": 31.84,
+        "end": 32.1,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 32.1,
+        "end": 32.3,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you)",
+        "start": 32.3,
+        "end": 32.62,
+        "char_starts": [
+          32.3,
+          32.406,
+          32.571,
+          32.768
+        ],
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 29.5,
+    "end": 32.62
+  },
+  {
+    "text": "Baby, I could give you the Moon",
+    "startTime": 32.64,
+    "endTime": 38.68,
+    "words": [
+      {
+        "word": "Baby,",
+        "start": 32.64,
+        "end": 32.74,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 32.75,
+        "end": 36.46,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "could",
+        "start": 36.46,
+        "end": 36.84,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "give",
+        "start": 36.84,
+        "end": 37.24,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 37.24,
+        "end": 37.52,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 37.52,
+        "end": 37.78,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Moon",
+        "start": 37.943,
+        "end": 38.68,
+        "char_starts": [
+          37.943,
+          37.939,
+          38.186,
+          38.482
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 32.64,
+    "end": 38.68
+  },
+  {
+    "text": "You know he can't do what I do, yeah, It's true (It's true)",
+    "startTime": 38.68,
+    "endTime": 44.31,
+    "words": [
+      {
+        "word": "You",
+        "start": 38.68,
+        "end": 40.46,
+        "char_starts": [
+          38.68,
+          39.062,
+          39.837
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "know",
+        "start": 40.46,
+        "end": 40.6,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "he",
+        "start": 40.6,
+        "end": 40.8,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "can't",
+        "start": 40.8,
+        "end": 41.22,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "do",
+        "start": 41.22,
+        "end": 41.42,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "what",
+        "start": 41.42,
+        "end": 41.72,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 41.72,
+        "end": 42.06,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "do,",
+        "start": 42.06,
+        "end": 42.4,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "yeah,",
+        "start": 42.4,
+        "end": 43.0,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "It's",
+        "start": 43.0,
+        "end": 43.14,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "true",
+        "start": 43.14,
+        "end": 43.6,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "(It's",
+        "start": 43.6,
+        "end": 44.16,
+        "char_starts": [
+          43.6,
+          43.667,
+          43.771,
+          43.896,
+          44.037
+        ],
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "true)",
+        "start": 44.16,
+        "end": 44.31,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 38.68,
+    "end": 44.31
+  },
+  {
+    "text": "Girl, I think I'm dyin' real soon",
+    "startTime": 44.46,
+    "endTime": 46.78,
+    "words": [
+      {
+        "word": "Girl,",
+        "start": 44.46,
+        "end": 44.86,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 44.86,
+        "end": 44.92,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "think",
+        "start": 44.92,
+        "end": 45.28,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 45.28,
+        "end": 45.7,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "dyin'",
+        "start": 45.7,
+        "end": 46.1,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "real",
+        "start": 46.1,
+        "end": 46.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "soon",
+        "start": 46.38,
+        "end": 46.78,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 44.46,
+    "end": 46.78
+  },
+  {
+    "text": "We could die in my room, me and you (me and you)",
+    "startTime": 46.8,
+    "endTime": 51.44,
+    "words": [
+      {
+        "word": "We",
+        "start": 46.8,
+        "end": 47.32,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "could",
+        "start": 47.32,
+        "end": 47.74,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "die",
+        "start": 47.74,
+        "end": 47.98,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "in",
+        "start": 47.98,
+        "end": 48.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 48.18,
+        "end": 48.56,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "room,",
+        "start": 48.56,
+        "end": 49.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 49.18,
+        "end": 49.42,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 49.42,
+        "end": 49.54,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 49.54,
+        "end": 50.12,
+        "char_starts": [
+          49.54,
+          49.674,
+          49.946
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "(me",
+        "start": 50.12,
+        "end": 50.48,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 50.48,
+        "end": 50.84,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you)",
+        "start": 50.85,
+        "end": 51.44,
+        "char_starts": [
+          50.85,
+          50.954,
+          51.116,
+          51.31
+        ],
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 46.8,
+    "end": 51.44
+  },
+  {
+    "text": "I'ma keep you in mind",
+    "startTime": 52.32,
+    "endTime": 54.5,
+    "words": [
+      {
+        "word": "I'ma",
+        "start": 52.32,
+        "end": 53.0,
+        "char_starts": [
+          52.32,
+          52.402,
+          52.569,
+          52.796
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "keep",
+        "start": 53.0,
+        "end": 53.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 53.38,
+        "end": 53.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "in",
+        "start": 53.82,
+        "end": 54.08,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind",
+        "start": 54.08,
+        "end": 54.5,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 52.32,
+    "end": 54.5
+  },
+  {
+    "text": "While I drive right by",
+    "startTime": 54.56,
+    "endTime": 56.73,
+    "words": [
+      {
+        "word": "While",
+        "start": 54.56,
+        "end": 54.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 54.96,
+        "end": 55.26,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "drive",
+        "start": 55.26,
+        "end": 55.56,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "right",
+        "start": 55.56,
+        "end": 56.14,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "by",
+        "start": 56.14,
+        "end": 56.73,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 54.56,
+    "end": 56.73
+  },
+  {
+    "text": "Say goodbye to the nice guy",
+    "startTime": 56.82,
+    "endTime": 59.3,
+    "words": [
+      {
+        "word": "Say",
+        "start": 56.82,
+        "end": 57.14,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "goodbye",
+        "start": 57.14,
+        "end": 57.76,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 57.76,
+        "end": 57.98,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 57.98,
+        "end": 58.32,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "nice",
+        "start": 58.32,
+        "end": 58.7,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "guy",
+        "start": 58.7,
+        "end": 59.3,
+        "char_starts": [
+          58.7,
+          58.839,
+          59.12
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 56.82,
+    "end": 59.3
+  },
+  {
+    "text": "I'm wastin' my time",
+    "startTime": 59.47,
+    "endTime": 61.44,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 59.47,
+        "end": 59.617,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wastin'",
+        "start": 59.617,
+        "end": 59.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 59.96,
+        "end": 60.46,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 60.46,
+        "end": 61.44,
+        "char_starts": [
+          60.46,
+          60.583,
+          60.833,
+          61.174
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 59.47,
+    "end": 61.44
+  },
+  {
+    "text": "Givin' you rhymes",
+    "startTime": 61.83,
+    "endTime": 63.22,
+    "words": [
+      {
+        "word": "Givin'",
+        "start": 61.83,
+        "end": 62.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 62.18,
+        "end": 62.72,
+        "char_starts": [
+          62.18,
+          62.305,
+          62.558
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "rhymes",
+        "start": 62.72,
+        "end": 63.22,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 61.83,
+    "end": 63.22
+  },
+  {
+    "text": "You gotta give me a dime",
+    "startTime": 63.34,
+    "endTime": 65.22,
+    "words": [
+      {
+        "word": "You",
+        "start": 63.34,
+        "end": 63.46,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "gotta",
+        "start": 63.46,
+        "end": 63.78,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "give",
+        "start": 63.78,
+        "end": 64.24,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 64.24,
+        "end": 64.6,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 64.6,
+        "end": 64.724,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "dime",
+        "start": 64.734,
+        "end": 65.22,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 63.34,
+    "end": 65.22
+  },
+  {
+    "text": "Before I do that again",
+    "startTime": 65.18,
+    "endTime": 67.32,
+    "words": [
+      {
+        "word": "Before",
+        "start": 65.18,
+        "end": 65.76,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 65.76,
+        "end": 66.08,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "do",
+        "start": 66.08,
+        "end": 66.32,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "that",
+        "start": 66.32,
+        "end": 66.72,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "again",
+        "start": 66.72,
+        "end": 67.32,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 65.18,
+    "end": 67.32
+  },
+  {
+    "text": "And I ain't trippin', I'm high",
+    "startTime": 67.48,
+    "endTime": 69.72,
+    "words": [
+      {
+        "word": "And",
+        "start": 67.48,
+        "end": 67.84,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 67.84,
+        "end": 68.04,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ain't",
+        "start": 68.04,
+        "end": 68.22,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "trippin',",
+        "start": 68.22,
+        "end": 68.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 68.82,
+        "end": 69.22,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "high",
+        "start": 69.22,
+        "end": 69.72,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 67.48,
+    "end": 69.72
+  },
+  {
+    "text": "In the trunk of the Benz",
+    "startTime": 69.74,
+    "endTime": 71.8,
+    "words": [
+      {
+        "word": "In",
+        "start": 69.879,
+        "end": 70.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 70.18,
+        "end": 70.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "trunk",
+        "start": 70.48,
+        "end": 70.76,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 70.76,
+        "end": 71.02,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 71.02,
+        "end": 71.36,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Benz",
+        "start": 71.36,
+        "end": 71.8,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 69.74,
+    "end": 71.8
+  },
+  {
+    "text": "Is where my women reside",
+    "startTime": 71.8,
+    "endTime": 73.88,
+    "words": [
+      {
+        "word": "Is",
+        "start": 71.908,
+        "end": 71.98,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "where",
+        "start": 71.98,
+        "end": 72.32,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 72.32,
+        "end": 72.6,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "women",
+        "start": 72.6,
+        "end": 73.0,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "reside",
+        "start": 73.0,
+        "end": 73.88,
+        "char_starts": [
+          73.0,
+          73.047,
+          73.142,
+          73.272,
+          73.431,
+          73.616
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 71.8,
+    "end": 73.88
+  },
+  {
+    "text": "Where my women will die",
+    "startTime": 74.14,
+    "endTime": 76.06,
+    "words": [
+      {
+        "word": "Where",
+        "start": 74.14,
+        "end": 74.42,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 74.42,
+        "end": 74.78,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "women",
+        "start": 74.78,
+        "end": 75.26,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "will",
+        "start": 75.26,
+        "end": 75.68,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "die",
+        "start": 75.68,
+        "end": 76.06,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 74.14,
+    "end": 76.06
+  },
+  {
+    "text": "I ain't got no friends",
+    "startTime": 76.04,
+    "endTime": 78.26,
+    "words": [
+      {
+        "word": "I",
+        "start": 76.04,
+        "end": 76.54,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ain't",
+        "start": 76.54,
+        "end": 76.84,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "got",
+        "start": 76.84,
+        "end": 77.24,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "no",
+        "start": 77.24,
+        "end": 77.66,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "friends",
+        "start": 77.66,
+        "end": 78.26,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 76.04,
+    "end": 78.26
+  },
+  {
+    "text": "And I don't listen to y'all",
+    "startTime": 78.24,
+    "endTime": 80.58,
+    "words": [
+      {
+        "word": "And",
+        "start": 78.24,
+        "end": 78.66,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 78.66,
+        "end": 78.8,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 78.8,
+        "end": 79.2,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "listen",
+        "start": 79.2,
+        "end": 79.56,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 79.56,
+        "end": 79.98,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "y'all",
+        "start": 79.98,
+        "end": 80.58,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 78.24,
+    "end": 80.58
+  },
+  {
+    "text": "I'm equipped for the fall",
+    "startTime": 80.78,
+    "endTime": 82.51,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 80.78,
+        "end": 80.971,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "equipped",
+        "start": 80.981,
+        "end": 81.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "for",
+        "start": 81.48,
+        "end": 81.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 81.82,
+        "end": 82.16,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fall",
+        "start": 82.16,
+        "end": 82.51,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 80.78,
+    "end": 82.51
+  },
+  {
+    "text": "And the winter and all",
+    "startTime": 83.02,
+    "endTime": 84.7,
+    "words": [
+      {
+        "word": "And",
+        "start": 83.02,
+        "end": 83.2,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 83.2,
+        "end": 83.5,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "winter",
+        "start": 83.5,
+        "end": 84.1,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 84.1,
+        "end": 84.4,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "all",
+        "start": 84.41,
+        "end": 84.7,
+        "char_starts": [
+          84.41,
+          84.584,
+          84.855
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 83.02,
+    "end": 84.7
+  },
+  {
+    "text": "When the summer come",
+    "startTime": 84.72,
+    "endTime": 86.58,
+    "words": [
+      {
+        "word": "When",
+        "start": 84.72,
+        "end": 85.32,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 85.32,
+        "end": 85.56,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "summer",
+        "start": 85.56,
+        "end": 85.84,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "come",
+        "start": 86.049,
+        "end": 86.58,
+        "char_starts": [
+          86.049,
+          85.929,
+          86.111,
+          86.358
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 84.72,
+    "end": 86.58
+  },
+  {
+    "text": "I'ma have enough to get the fuck out",
+    "startTime": 86.68,
+    "endTime": 89.54,
+    "words": [
+      {
+        "word": "I'ma",
+        "start": 86.68,
+        "end": 87.2,
+        "char_starts": [
+          86.68,
+          86.743,
+          86.87,
+          87.044
+        ],
+        "singer": "singer1"
+      },
+      {
+        "word": "have",
+        "start": 87.2,
+        "end": 87.52,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "enough",
+        "start": 87.52,
+        "end": 87.92,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 87.92,
+        "end": 88.24,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "get",
+        "start": 88.24,
+        "end": 88.58,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 88.58,
+        "end": 88.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fuck",
+        "start": 88.82,
+        "end": 89.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 89.18,
+        "end": 89.54,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 86.68,
+    "end": 89.54
+  },
+  {
+    "text": "I could buy a truck and",
+    "startTime": 89.56,
+    "endTime": 91.5,
+    "words": [
+      {
+        "word": "I",
+        "start": 89.56,
+        "end": 90.1,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "could",
+        "start": 90.1,
+        "end": 90.42,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "buy",
+        "start": 90.42,
+        "end": 90.76,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 90.76,
+        "end": 91.0,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "truck",
+        "start": 91.0,
+        "end": 91.24,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 91.24,
+        "end": 91.5,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 89.56,
+    "end": 91.5
+  },
+  {
+    "text": "Drive that motherfuckin' truck out (skrr)",
+    "startTime": 91.52,
+    "endTime": 93.83,
+    "words": [
+      {
+        "word": "Drive",
+        "start": 91.52,
+        "end": 91.72,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "that",
+        "start": 91.72,
+        "end": 92.16,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "motherfuckin'",
+        "start": 92.16,
+        "end": 93.26,
+        "char_starts": [
+          92.16,
+          92.19,
+          92.236,
+          92.292,
+          92.355,
+          92.423,
+          92.497,
+          92.574,
+          92.656,
+          92.742,
+          92.831,
+          92.923,
+          93.018
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "truck",
+        "start": 93.26,
+        "end": 93.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 93.48,
+        "end": 93.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "(skrr)",
+        "start": 93.82,
+        "end": 93.83,
+        "adlib": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 91.52,
+    "end": 93.83
+  },
+  {
+    "text": "Tryna buy luck",
+    "startTime": 93.82,
+    "endTime": 95.53,
+    "words": [
+      {
+        "word": "Tryna",
+        "start": 94.17,
+        "end": 94.58,
+        "char_starts": [
+          94.17,
+          93.878,
+          93.995,
+          94.156,
+          94.352
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "buy",
+        "start": 94.766,
+        "end": 95.14,
+        "char_starts": [
+          94.766,
+          94.709,
+          94.972
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "luck",
+        "start": 95.14,
+        "end": 95.53,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 93.82,
+    "end": 95.53
+  },
+  {
+    "text": "If you don't die that means you lucked out",
+    "startTime": 95.56,
+    "endTime": 98.2,
+    "words": [
+      {
+        "word": "If",
+        "start": 95.56,
+        "end": 95.76,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 95.76,
+        "end": 96.04,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 96.04,
+        "end": 96.36,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "die",
+        "start": 96.36,
+        "end": 96.58,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "that",
+        "start": 96.58,
+        "end": 96.88,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "means",
+        "start": 96.88,
+        "end": 97.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 97.18,
+        "end": 97.387,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lucked",
+        "start": 97.397,
+        "end": 97.8,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 97.8,
+        "end": 98.2,
+        "char_starts": [
+          97.8,
+          97.974,
+          98.245
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 95.56,
+    "end": 98.2
+  },
+  {
+    "text": "I ain't tryna fuck",
+    "startTime": 98.22,
+    "endTime": 99.9,
+    "words": [
+      {
+        "word": "I",
+        "start": 98.22,
+        "end": 98.7,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ain't",
+        "start": 98.7,
+        "end": 98.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "tryna",
+        "start": 99.053,
+        "end": 99.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fuck",
+        "start": 99.38,
+        "end": 99.9,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 98.22,
+    "end": 99.9
+  },
+  {
+    "text": "I see the Moon and bug the fuck out",
+    "startTime": 99.92,
+    "endTime": 102.74,
+    "words": [
+      {
+        "word": "I",
+        "start": 99.92,
+        "end": 100.1,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "see",
+        "start": 100.1,
+        "end": 100.42,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 100.42,
+        "end": 100.74,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Moon",
+        "start": 100.74,
+        "end": 100.94,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 100.94,
+        "end": 101.29,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bug",
+        "start": 101.3,
+        "end": 101.64,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 101.64,
+        "end": 101.78,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fuck",
+        "start": 101.78,
+        "end": 102.14,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 102.14,
+        "end": 102.74,
+        "char_starts": [
+          102.14,
+          102.324,
+          102.608
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 99.92,
+    "end": 102.74
+  },
+  {
+    "text": "Mary, I know what I'm going to do tomorrow and the next day and the next year and the year after that",
+    "startTime": 103.84,
+    "endTime": 108.58,
+    "words": [
+      {
+        "word": "Mary,",
+        "start": 103.84,
+        "end": 104.3,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 104.3,
+        "end": 104.44,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "know",
+        "start": 104.44,
+        "end": 104.6,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "what",
+        "start": 104.6,
+        "end": 104.72,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 104.72,
+        "end": 104.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "going",
+        "start": 104.96,
+        "end": 105.06,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 105.07,
+        "end": 105.1,
+        "singer": "singer1"
+      },
+      {
+        "word": "do",
+        "start": 105.1,
+        "end": 105.34,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "tomorrow",
+        "start": 105.34,
+        "end": 105.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 105.82,
+        "end": 106.02,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 106.02,
+        "end": 106.14,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "next",
+        "start": 106.14,
+        "end": 106.46,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "day",
+        "start": 106.46,
+        "end": 106.9,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 106.9,
+        "end": 106.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 106.96,
+        "end": 107.06,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "next",
+        "start": 107.07,
+        "end": 107.28,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "year",
+        "start": 107.28,
+        "end": 107.62,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 107.62,
+        "end": 107.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 107.82,
+        "end": 107.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "year",
+        "start": 107.96,
+        "end": 108.16,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "after",
+        "start": 108.16,
+        "end": 108.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "that",
+        "start": 108.48,
+        "end": 108.58,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 103.84,
+    "end": 108.58
+  },
+  {
+    "text": "I'm shaking the dust of this crummy little town off my feet and I'm going to see the world",
+    "startTime": 108.6,
+    "endTime": 113.14,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 108.6,
+        "end": 108.94,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "shaking",
+        "start": 108.94,
+        "end": 109.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 109.38,
+        "end": 109.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "dust",
+        "start": 109.48,
+        "end": 109.66,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 109.66,
+        "end": 109.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "this",
+        "start": 109.82,
+        "end": 110.06,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "crummy",
+        "start": 110.06,
+        "end": 110.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "little",
+        "start": 110.38,
+        "end": 110.64,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "town",
+        "start": 110.64,
+        "end": 110.88,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "off",
+        "start": 110.88,
+        "end": 111.1,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 111.1,
+        "end": 111.46,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "feet",
+        "start": 111.46,
+        "end": 111.62,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 111.62,
+        "end": 111.74,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 111.74,
+        "end": 111.86,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "going",
+        "start": 111.86,
+        "end": 111.974,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 111.974,
+        "end": 112.02,
+        "singer": "singer1"
+      },
+      {
+        "word": "see",
+        "start": 112.02,
+        "end": 112.28,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 112.28,
+        "end": 112.54,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "world",
+        "start": 112.54,
+        "end": 113.14,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 108.6,
+    "end": 113.14
+  },
+  {
+    "text": "Italy, Greece, the Parthenon, the Coliseum. Then I'm coming back here and I'll go to college and see what they know and then I'm going to build things",
+    "startTime": 113.68,
+    "endTime": 120.92,
+    "words": [
+      {
+        "word": "Italy,",
+        "start": 113.68,
+        "end": 114.22,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Greece,",
+        "start": 114.22,
+        "end": 114.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 114.82,
+        "end": 114.98,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Parthenon,",
+        "start": 114.98,
+        "end": 115.68,
+        "char_starts": [
+          114.98,
+          115.008,
+          115.052,
+          115.104,
+          115.163,
+          115.227,
+          115.296,
+          115.369,
+          115.446,
+          115.526
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 115.68,
+        "end": 115.94,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Coliseum.",
+        "start": 115.94,
+        "end": 116.56,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Then",
+        "start": 116.56,
+        "end": 116.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 116.96,
+        "end": 117.12,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "coming",
+        "start": 117.12,
+        "end": 117.36,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "back",
+        "start": 117.36,
+        "end": 117.52,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "here",
+        "start": 117.52,
+        "end": 117.68,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 117.68,
+        "end": 117.76,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'll",
+        "start": 117.76,
+        "end": 117.86,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "go",
+        "start": 117.87,
+        "end": 117.88,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 117.88,
+        "end": 118.02,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "college",
+        "start": 118.02,
+        "end": 118.22,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 118.22,
+        "end": 118.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "see",
+        "start": 118.38,
+        "end": 118.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "what",
+        "start": 118.48,
+        "end": 118.64,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "they",
+        "start": 118.64,
+        "end": 118.88,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "know",
+        "start": 118.88,
+        "end": 119.22,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 119.22,
+        "end": 119.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "then",
+        "start": 119.48,
+        "end": 119.66,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 119.66,
+        "end": 119.76,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "going",
+        "start": 119.76,
+        "end": 119.931,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 119.931,
+        "end": 120.0,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "build",
+        "start": 120.0,
+        "end": 120.32,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "things",
+        "start": 120.32,
+        "end": 120.92,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 113.68,
+    "end": 120.92
+  },
+  {
+    "text": "I'm going to build air fields. I'm going to build skyscrapers a hundred stories high",
+    "startTime": 121.28,
+    "endTime": 125.12,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 121.28,
+        "end": 121.36,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "going",
+        "start": 121.36,
+        "end": 121.503,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "to",
+        "start": 121.513,
+        "end": 121.56,
+        "singer": "singer1"
+      },
+      {
+        "word": "build",
+        "start": 121.56,
+        "end": 121.74,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "air",
+        "start": 121.74,
+        "end": 121.974,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "fields.",
+        "start": 122.263,
+        "end": 122.52,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "I'm",
+        "start": 122.52,
+        "end": 122.58,
+        "singer": "singer2"
+      },
+      {
+        "word": "going",
+        "start": 122.58,
+        "end": 122.737,
+        "singer": "singer2"
+      },
+      {
+        "word": "to",
+        "start": 122.737,
+        "end": 122.8,
+        "singer": "singer2"
+      },
+      {
+        "word": "build",
+        "start": 122.8,
+        "end": 123.04,
+        "singer": "singer2"
+      },
+      {
+        "word": "skyscrapers",
+        "start": 123.179,
+        "end": 123.7,
+        "char_starts": [
+          123.179,
+          123.063,
+          123.099,
+          123.141,
+          123.189,
+          123.242,
+          123.298,
+          123.358,
+          123.421,
+          123.487,
+          123.555
+        ],
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 123.7,
+        "end": 123.88,
+        "singer": "singer2"
+      },
+      {
+        "word": "hundred",
+        "start": 123.996,
+        "end": 124.12,
+        "singer": "singer2"
+      },
+      {
+        "word": "stories",
+        "start": 124.283,
+        "end": 124.52,
+        "singer": "singer2"
+      },
+      {
+        "word": "high",
+        "start": 124.613,
+        "end": 125.12,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 121.28,
+    "end": 125.12
+  },
+  {
+    "text": "I'm going to build bridges a mile long. Well, are you going to throw a rock?",
+    "startTime": 125.14,
+    "endTime": 129.053,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 125.233,
+        "end": 125.38,
+        "singer": "singer2"
+      },
+      {
+        "word": "going",
+        "start": 125.38,
+        "end": 125.494,
+        "singer": "singer2"
+      },
+      {
+        "word": "to",
+        "start": 125.494,
+        "end": 125.54,
+        "singer": "singer1"
+      },
+      {
+        "word": "build",
+        "start": 125.54,
+        "end": 125.78,
+        "singer": "singer2"
+      },
+      {
+        "word": "bridges",
+        "start": 125.85,
+        "end": 126.12,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 126.324,
+        "end": 126.46,
+        "sung": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "mile",
+        "start": 126.46,
+        "end": 126.74,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "long.",
+        "start": 126.74,
+        "end": 127.22,
+        "sung": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "Well,",
+        "start": 127.57,
+        "end": 127.86,
+        "char_starts": [
+          127.57,
+          127.297,
+          127.416,
+          127.559,
+          127.719
+        ],
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "are",
+        "start": 127.86,
+        "end": 127.88,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 127.88,
+        "end": 127.98,
+        "singer": "singer2"
+      },
+      {
+        "word": "going",
+        "start": 127.98,
+        "end": 128.08,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "to",
+        "start": 128.08,
+        "end": 128.12,
+        "singer": "singer1"
+      },
+      {
+        "word": "throw",
+        "start": 128.12,
+        "end": 128.32,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 128.32,
+        "end": 128.453,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "rock?",
+        "start": 128.453,
+        "end": 129.053,
+        "whisper": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 125.14,
+    "end": 129.053
+  },
+  {
+    "text": "Hey, that's pretty good. What'd you wish, Mary?",
+    "startTime": 133.8,
+    "endTime": 137.82,
+    "words": [
+      {
+        "word": "Hey,",
+        "start": 134.064,
+        "end": 134.24,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "that's",
+        "start": 134.24,
+        "end": 134.48,
+        "singer": "singer2"
+      },
+      {
+        "word": "pretty",
+        "start": 134.48,
+        "end": 134.64,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "good.",
+        "start": 134.71,
+        "end": 135.82,
+        "char_starts": [
+          134.71,
+          134.782,
+          135.001,
+          135.264,
+          135.56
+        ],
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "What'd",
+        "start": 136.17,
+        "end": 136.64,
+        "char_starts": [
+          136.17,
+          135.893,
+          136.006,
+          136.141,
+          136.293,
+          136.46
+        ],
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 136.64,
+        "end": 136.82,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wish,",
+        "start": 136.82,
+        "end": 137.22,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Mary?",
+        "start": 137.22,
+        "end": 137.82,
+        "whisper": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 133.8,
+    "end": 137.82
+  }
+]

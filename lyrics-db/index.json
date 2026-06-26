@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-25T22:19:23.795137+00:00",
-  "totalTracks": 757,
+  "generatedAt": "2026-06-26T11:19:32.325240+00:00",
+  "totalTracks": 758,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10639,6 +10639,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
       "mtimeMs": 1782425967148
+    },
+    "lil peep::give u the moon (prod. kryptik)": {
+      "title": "give u the moon (prod. kryptik)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - give u the moon (prod. kryptik)",
+      "source": "lrclib_plain",
+      "file": "tracks/lil-peep-give-u-the-moon-prod-kryptik-dec10816de30.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-give-u-the-moon-prod-kryptik-dec10816de30.json",
+        "meta": "tracks/lil-peep-give-u-the-moon-prod-kryptik-dec10816de30.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/give-u-the-moon",
+      "mtimeMs": 1782472772933
     }
   },
   "tracks": [
@@ -21295,6 +21309,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
       "mtimeMs": 1782425967148
+    },
+    {
+      "title": "give u the moon (prod. kryptik)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - give u the moon (prod. kryptik)",
+      "source": "lrclib_plain",
+      "file": "tracks/lil-peep-give-u-the-moon-prod-kryptik-dec10816de30.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-give-u-the-moon-prod-kryptik-dec10816de30.json",
+        "meta": "tracks/lil-peep-give-u-the-moon-prod-kryptik-dec10816de30.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/give-u-the-moon",
+      "mtimeMs": 1782472772933
     }
   ]
 }

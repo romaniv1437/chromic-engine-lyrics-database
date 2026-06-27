@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-26T21:04:45.403073+00:00",
-  "totalTracks": 759,
+  "generatedAt": "2026-06-27T21:57:46.488982+00:00",
+  "totalTracks": 760,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10667,6 +10667,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
       "mtimeMs": 1782507887587
+    },
+    "nh::banger": {
+      "title": "BANGER",
+      "artist": "NH",
+      "originalTrackName": "NH - BANGER",
+      "source": "whisper_only",
+      "file": "tracks/nh-banger-f2e45bebc31a.json",
+      "files": {
+        "lyrics": "tracks/nh-banger-f2e45bebc31a.json",
+        "meta": "tracks/nh-banger-f2e45bebc31a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/niels-henrik-westengaard-nielsen/banger-108-bpm-c-minor",
+      "mtimeMs": 1782597467178
     }
   },
   "tracks": [
@@ -21351,6 +21365,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
       "mtimeMs": 1782507887587
+    },
+    {
+      "title": "BANGER",
+      "artist": "NH",
+      "originalTrackName": "NH - BANGER",
+      "source": "whisper_only",
+      "file": "tracks/nh-banger-f2e45bebc31a.json",
+      "files": {
+        "lyrics": "tracks/nh-banger-f2e45bebc31a.json",
+        "meta": "tracks/nh-banger-f2e45bebc31a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/niels-henrik-westengaard-nielsen/banger-108-bpm-c-minor",
+      "mtimeMs": 1782597467178
     }
   ]
 }

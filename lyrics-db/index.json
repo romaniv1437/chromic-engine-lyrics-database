@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-29T21:46:25.930736+00:00",
-  "totalTracks": 762,
+  "generatedAt": "2026-06-29T23:03:24.453326+00:00",
+  "totalTracks": 763,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10709,6 +10709,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/no-respect-freestyle-prod-greaf",
       "mtimeMs": 1782769589303
+    },
+    "thies, haftverbot, so ein bennet::telepatía (hoodtrap remix) feat. haftverbot": {
+      "title": "Telepatía (hoodtrap remix) feat. Haftverbot",
+      "artist": "Thies, Haftverbot, So ein Bennet",
+      "originalTrackName": "Thies, Haftverbot, So ein Bennet - Telepatía (hoodtrap remix) feat. Haftverbot",
+      "source": "whisper_only",
+      "file": "tracks/thies-haftverbot-so-ein-bennet-telepat-a-hoodtrap-remix-feat-haftverbo-9441fdfa179f.json",
+      "files": {
+        "lyrics": "tracks/thies-haftverbot-so-ein-bennet-telepat-a-hoodtrap-remix-feat-haftverbo-9441fdfa179f.json",
+        "meta": "tracks/thies-haftverbot-so-ein-bennet-telepat-a-hoodtrap-remix-feat-haftverbo-9441fdfa179f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/thies-brammer-373586348/telepatia-hoodtrap-remix-1",
+      "mtimeMs": 1782774205455
     }
   },
   "tracks": [
@@ -21435,6 +21449,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/no-respect-freestyle-prod-greaf",
       "mtimeMs": 1782769589303
+    },
+    {
+      "title": "Telepatía (hoodtrap remix) feat. Haftverbot",
+      "artist": "Thies, Haftverbot, So ein Bennet",
+      "originalTrackName": "Thies, Haftverbot, So ein Bennet - Telepatía (hoodtrap remix) feat. Haftverbot",
+      "source": "whisper_only",
+      "file": "tracks/thies-haftverbot-so-ein-bennet-telepat-a-hoodtrap-remix-feat-haftverbo-9441fdfa179f.json",
+      "files": {
+        "lyrics": "tracks/thies-haftverbot-so-ein-bennet-telepat-a-hoodtrap-remix-feat-haftverbo-9441fdfa179f.json",
+        "meta": "tracks/thies-haftverbot-so-ein-bennet-telepat-a-hoodtrap-remix-feat-haftverbo-9441fdfa179f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/thies-brammer-373586348/telepatia-hoodtrap-remix-1",
+      "mtimeMs": 1782774205455
     }
   ]
 }

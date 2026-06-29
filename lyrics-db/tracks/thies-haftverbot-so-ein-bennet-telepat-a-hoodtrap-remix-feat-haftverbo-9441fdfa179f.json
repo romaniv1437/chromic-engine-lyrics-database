@@ -1,0 +1,87 @@
+[
+  {
+    "text": "DE NOCHE DE DÍA",
+    "startTime": 0.02,
+    "endTime": 1.84,
+    "words": [
+      {
+        "word": "DE",
+        "start": 0.229,
+        "end": 0.6,
+        "stretch": true,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "NOCHE",
+        "start": 0.6,
+        "end": 1.18,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "DE",
+        "start": 1.18,
+        "end": 1.36,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "DÍA",
+        "start": 1.36,
+        "end": 1.84,
+        "stretch": true,
+        "whisper": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 0.02,
+    "end": 1.84
+  },
+  {
+    "text": "DE NOCHE DE DÍA",
+    "startTime": 1.84,
+    "endTime": 2.92,
+    "words": [
+      {
+        "word": "DE",
+        "start": 1.84,
+        "end": 2.0,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "NOCHE",
+        "start": 2.0,
+        "end": 2.82,
+        "stretch": true,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "DE",
+        "start": 2.82,
+        "end": 2.82,
+        "singer": "singer1"
+      },
+      {
+        "word": "DÍA",
+        "start": 2.82,
+        "end": 2.92,
+        "whisper": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 1.84,
+    "end": 2.92
+  },
+  {
+    "text": "●",
+    "startTime": 3.22,
+    "endTime": 60.349,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 3.22,
+    "end": 60.349
+  }
+]

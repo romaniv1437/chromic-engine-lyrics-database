@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-27T21:57:55.623949+00:00",
-  "totalTracks": 760,
+  "generatedAt": "2026-06-29T11:36:31.772747+00:00",
+  "totalTracks": 761,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10681,6 +10681,20 @@
       },
       "sourcePath": "https://soundcloud.com/niels-henrik-westengaard-nielsen/banger-108-bpm-c-minor",
       "mtimeMs": 1782597478762
+    },
+    "kronik williams::the kronik ft lil peep": {
+      "title": "The Kronik ft Lil Peep",
+      "artist": "KRONIK WILLIAMS",
+      "originalTrackName": "KRONIK WILLIAMS - The Kronik ft Lil Peep",
+      "source": "whisper_only",
+      "file": "tracks/kronik-williams-the-kronik-ft-lil-peep-f433470661aa.json",
+      "files": {
+        "lyrics": "tracks/kronik-williams-the-kronik-ft-lil-peep-f433470661aa.json",
+        "meta": "tracks/kronik-williams-the-kronik-ft-lil-peep-f433470661aa.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/kronik-williams/the-kronik-ft-lil-peep",
+      "mtimeMs": 1782732993274
     }
   },
   "tracks": [
@@ -21379,6 +21393,20 @@
       },
       "sourcePath": "https://soundcloud.com/niels-henrik-westengaard-nielsen/banger-108-bpm-c-minor",
       "mtimeMs": 1782597478762
+    },
+    {
+      "title": "The Kronik ft Lil Peep",
+      "artist": "KRONIK WILLIAMS",
+      "originalTrackName": "KRONIK WILLIAMS - The Kronik ft Lil Peep",
+      "source": "whisper_only",
+      "file": "tracks/kronik-williams-the-kronik-ft-lil-peep-f433470661aa.json",
+      "files": {
+        "lyrics": "tracks/kronik-williams-the-kronik-ft-lil-peep-f433470661aa.json",
+        "meta": "tracks/kronik-williams-the-kronik-ft-lil-peep-f433470661aa.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/kronik-williams/the-kronik-ft-lil-peep",
+      "mtimeMs": 1782732993274
     }
   ]
 }

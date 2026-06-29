@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-29T11:36:31.772747+00:00",
-  "totalTracks": 761,
+  "generatedAt": "2026-06-29T21:45:25.345847+00:00",
+  "totalTracks": 762,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10695,6 +10695,20 @@
       },
       "sourcePath": "https://soundcloud.com/kronik-williams/the-kronik-ft-lil-peep",
       "mtimeMs": 1782732993274
+    },
+    "lil peep::no respect freestyle [prod. greaf]": {
+      "title": "no respect freestyle [prod. greaf]",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - no respect freestyle [prod. greaf]",
+      "source": "lrclib_plain",
+      "file": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
+        "meta": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/no-respect-freestyle-prod-greaf",
+      "mtimeMs": 1782769526231
     }
   },
   "tracks": [
@@ -21407,6 +21421,20 @@
       },
       "sourcePath": "https://soundcloud.com/kronik-williams/the-kronik-ft-lil-peep",
       "mtimeMs": 1782732993274
+    },
+    {
+      "title": "no respect freestyle [prod. greaf]",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - no respect freestyle [prod. greaf]",
+      "source": "lrclib_plain",
+      "file": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
+        "meta": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/no-respect-freestyle-prod-greaf",
+      "mtimeMs": 1782769526231
     }
   ]
 }

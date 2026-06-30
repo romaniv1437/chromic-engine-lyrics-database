@@ -51,26 +51,26 @@
   {
     "text": "●",
     "startTime": 15.7,
-    "endTime": 90.0,
+    "endTime": 90,
     "words": [],
     "type": "vocal_cue",
     "time": 15.7,
-    "end": 90.0
+    "end": 90
   },
   {
     "text": "B and it get rich and I 'm a spend it how",
-    "startTime": 90.0,
+    "startTime": 90,
     "endTime": 92.72,
     "words": [
       {
         "word": "B",
-        "start": 90.0,
-        "end": 90.0
+        "start": 90,
+        "end": 90
       },
       {
         "word": "and",
-        "start": 90.0,
-        "end": 90.0
+        "start": 90,
+        "end": 90
       },
       {
         "word": "it",
@@ -125,7 +125,7 @@
         "end": 92.72
       }
     ],
-    "time": 90.0,
+    "time": 90,
     "end": 92.72
   },
   {
@@ -229,7 +229,7 @@
   {
     "text": "All you know about me is that people know me",
     "startTime": 98.08,
-    "endTime": 102.0,
+    "endTime": 102,
     "words": [
       {
         "word": "All",
@@ -284,13 +284,13 @@
       {
         "word": "me",
         "start": 101.47,
-        "end": 102.0,
+        "end": 102,
         "stretch": true,
         "sung": true
       }
     ],
     "time": 98.08,
-    "end": 102.0
+    "end": 102
   },
   {
     "text": "You don 't really know me",
@@ -393,13 +393,13 @@
       {
         "word": "know",
         "start": 108.569,
-        "end": 109.0,
+        "end": 109,
         "stretch": true,
         "spoken": true
       },
       {
         "word": "me",
-        "start": 109.0,
+        "start": 109,
         "end": 109.28
       }
     ],
@@ -800,7 +800,7 @@
   {
     "text": "But I love it",
     "startTime": 127.48,
-    "endTime": 129.0,
+    "endTime": 129,
     "words": [
       {
         "word": "But",
@@ -824,17 +824,17 @@
       {
         "word": "it",
         "start": 128.75,
-        "end": 129.0,
+        "end": 129,
         "stretch": true,
         "spoken": true
       }
     ],
     "time": 127.48,
-    "end": 129.0
+    "end": 129
   },
   {
     "text": "D ope got me famous",
-    "startTime": 129.0,
+    "startTime": 129,
     "endTime": 131.08,
     "words": [
       {
@@ -870,7 +870,7 @@
         "spoken": true
       }
     ],
-    "time": 129.0,
+    "time": 129,
     "end": 131.08
   },
   {
@@ -952,7 +952,7 @@
       {
         "word": "some",
         "start": 134.03,
-        "end": 135.0,
+        "end": 135,
         "stretch": true,
         "spoken": true
       },
@@ -1126,13 +1126,13 @@
       {
         "word": "C",
         "start": 144.713,
-        "end": 145.0,
+        "end": 145,
         "stretch": true,
         "spoken": true
       },
       {
         "word": "oke",
-        "start": 145.0,
+        "start": 145,
         "end": 145.1
       },
       {
@@ -1222,12 +1222,12 @@
       {
         "word": "gon'",
         "start": 148.74,
-        "end": 149.0,
+        "end": 149,
         "spoken": true
       },
       {
         "word": "get",
-        "start": 149.0,
+        "start": 149,
         "end": 149.24,
         "spoken": true
       },

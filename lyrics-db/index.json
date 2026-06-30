@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-29T23:03:24.453326+00:00",
-  "totalTracks": 763,
+  "generatedAt": "2026-06-30T13:11:53.016814+00:00",
+  "totalTracks": 764,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10723,6 +10723,20 @@
       },
       "sourcePath": "https://soundcloud.com/thies-brammer-373586348/telepatia-hoodtrap-remix-1",
       "mtimeMs": 1782774205455
+    },
+    "sasha dith & blue affair feat. carlprit::ты ушел, и я одна (dance radio edit) хит лета 2010 года": {
+      "title": "Ты ушел, и я одна (Dance Radio Edit) ХИТ ЛЕТА 2010 года",
+      "artist": "Sasha Dith & Blue Affair feat. Carlprit",
+      "originalTrackName": "Sasha Dith & Blue Affair feat. Carlprit - Ты ушел, и я одна (Dance Radio Edit) ХИТ ЛЕТА 2010 года",
+      "source": "whisper_only",
+      "file": "tracks/sasha-dith-blue-affair-feat-carlprit-dance-radio-edit-2010-49531e6c4f4d.json",
+      "files": {
+        "lyrics": "tracks/sasha-dith-blue-affair-feat-carlprit-dance-radio-edit-2010-49531e6c4f4d.json",
+        "meta": "tracks/sasha-dith-blue-affair-feat-carlprit-dance-radio-edit-2010-49531e6c4f4d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/slavik-405005223/dance-radio-edit-2010",
+      "mtimeMs": 1782825113969
     }
   },
   "tracks": [
@@ -21463,6 +21477,20 @@
       },
       "sourcePath": "https://soundcloud.com/thies-brammer-373586348/telepatia-hoodtrap-remix-1",
       "mtimeMs": 1782774205455
+    },
+    {
+      "title": "Ты ушел, и я одна (Dance Radio Edit) ХИТ ЛЕТА 2010 года",
+      "artist": "Sasha Dith & Blue Affair feat. Carlprit",
+      "originalTrackName": "Sasha Dith & Blue Affair feat. Carlprit - Ты ушел, и я одна (Dance Radio Edit) ХИТ ЛЕТА 2010 года",
+      "source": "whisper_only",
+      "file": "tracks/sasha-dith-blue-affair-feat-carlprit-dance-radio-edit-2010-49531e6c4f4d.json",
+      "files": {
+        "lyrics": "tracks/sasha-dith-blue-affair-feat-carlprit-dance-radio-edit-2010-49531e6c4f4d.json",
+        "meta": "tracks/sasha-dith-blue-affair-feat-carlprit-dance-radio-edit-2010-49531e6c4f4d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/slavik-405005223/dance-radio-edit-2010",
+      "mtimeMs": 1782825113969
     }
   ]
 }

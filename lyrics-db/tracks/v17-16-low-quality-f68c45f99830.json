@@ -1,0 +1,331 @@
+[
+  {
+    "text": "Я же не знаю, как в старейшем дне, что как сигаретка",
+    "startTime": 0.3,
+    "endTime": 5.3,
+    "words": [
+      {
+        "word": "Я",
+        "start": 0.6,
+        "end": 0.8,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "же",
+        "start": 0.8,
+        "end": 1.58,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "не",
+        "start": 1.58,
+        "end": 1.92,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "знаю,",
+        "start": 1.92,
+        "end": 2.24,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "как",
+        "start": 2.44,
+        "end": 2.6,
+        "singer": "singer1"
+      },
+      {
+        "word": "в",
+        "start": 2.6,
+        "end": 2.94,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "старейшем",
+        "start": 2.94,
+        "end": 3.34,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "дне,",
+        "start": 3.34,
+        "end": 3.8,
+        "singer": "singer1"
+      },
+      {
+        "word": "что",
+        "start": 4.04,
+        "end": 4.14,
+        "singer": "singer1"
+      },
+      {
+        "word": "как",
+        "start": 4.14,
+        "end": 4.32,
+        "singer": "singer1"
+      },
+      {
+        "word": "сигаретка",
+        "start": 4.32,
+        "end": 5.3,
+        "stretch": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 0.3,
+    "end": 5.3
+  },
+  {
+    "text": "Боль не вычиняет, хотя зачем?",
+    "startTime": 6.12,
+    "endTime": 9.58,
+    "words": [
+      {
+        "word": "Боль",
+        "start": 6.12,
+        "end": 6.86,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "не",
+        "start": 6.86,
+        "end": 7.22,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "вычиняет,",
+        "start": 7.22,
+        "end": 8.2,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "хотя",
+        "start": 8.52,
+        "end": 8.9,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "зачем?",
+        "start": 8.9,
+        "end": 9.58,
+        "sung": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 6.12,
+    "end": 9.58
+  },
+  {
+    "text": "Зачем мне всё это?",
+    "startTime": 9.88,
+    "endTime": 11.14,
+    "words": [
+      {
+        "word": "Зачем",
+        "start": 9.88,
+        "end": 10.22,
+        "singer": "singer1"
+      },
+      {
+        "word": "мне",
+        "start": 10.22,
+        "end": 10.34,
+        "singer": "singer1"
+      },
+      {
+        "word": "всё",
+        "start": 10.34,
+        "end": 10.64,
+        "singer": "singer1"
+      },
+      {
+        "word": "это?",
+        "start": 10.64,
+        "end": 11.14,
+        "singer": "singer1"
+      }
+    ],
+    "time": 9.88,
+    "end": 11.14
+  },
+  {
+    "text": "Всё меня не жалеют, и будет жизнь похожа на сказку",
+    "startTime": 11.9,
+    "endTime": 17.02,
+    "words": [
+      {
+        "word": "Всё",
+        "start": 11.9,
+        "end": 12.46,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "меня",
+        "start": 12.46,
+        "end": 13.0,
+        "singer": "singer2"
+      },
+      {
+        "word": "не",
+        "start": 13.0,
+        "end": 13.28,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "жалеют,",
+        "start": 13.28,
+        "end": 14.16,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "и",
+        "start": 14.4,
+        "end": 14.42,
+        "singer": "singer1"
+      },
+      {
+        "word": "будет",
+        "start": 14.42,
+        "end": 14.84,
+        "singer": "singer1"
+      },
+      {
+        "word": "жизнь",
+        "start": 14.84,
+        "end": 15.52,
+        "singer": "singer1"
+      },
+      {
+        "word": "похожа",
+        "start": 15.52,
+        "end": 16.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "на",
+        "start": 16.18,
+        "end": 16.34,
+        "singer": "singer1"
+      },
+      {
+        "word": "сказку",
+        "start": 16.34,
+        "end": 17.02,
+        "singer": "singer1"
+      }
+    ],
+    "time": 11.9,
+    "end": 17.02
+  },
+  {
+    "text": "И может быть я сам умею, а пока, пока мне шестнадцать",
+    "startTime": 17.02,
+    "endTime": 22.31,
+    "words": [
+      {
+        "word": "И",
+        "start": 17.02,
+        "end": 17.38,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "может",
+        "start": 17.38,
+        "end": 17.86,
+        "singer": "singer1"
+      },
+      {
+        "word": "быть",
+        "start": 17.86,
+        "end": 18.5,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "я",
+        "start": 18.5,
+        "end": 18.82,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "сам",
+        "start": 18.82,
+        "end": 19.12,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "умею,",
+        "start": 19.12,
+        "end": 20.14,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "а",
+        "start": 20.34,
+        "end": 20.54,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "пока,",
+        "start": 20.54,
+        "end": 21.26,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "пока",
+        "start": 21.74,
+        "end": 21.74,
+        "singer": "singer1"
+      },
+      {
+        "word": "мне",
+        "start": 21.74,
+        "end": 21.94,
+        "singer": "singer1"
+      },
+      {
+        "word": "шестнадцать",
+        "start": 21.94,
+        "end": 22.31,
+        "singer": "singer1"
+      }
+    ],
+    "time": 17.02,
+    "end": 22.31
+  },
+  {
+    "text": "●",
+    "startTime": 22.61,
+    "endTime": 209.491,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 22.61,
+    "end": 209.491
+  }
+]

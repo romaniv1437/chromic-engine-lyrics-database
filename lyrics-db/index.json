@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-30T13:11:53.016814+00:00",
-  "totalTracks": 764,
+  "generatedAt": "2026-06-30T13:12:06.276415+00:00",
+  "totalTracks": 765,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10737,6 +10737,20 @@
       },
       "sourcePath": "https://soundcloud.com/slavik-405005223/dance-radio-edit-2010",
       "mtimeMs": 1782825113969
+    },
+    "🎀::v17 - а пока мне 16, low quality": {
+      "title": "v17 - а пока мне 16, low quality",
+      "artist": "🎀",
+      "originalTrackName": "🎀 - v17 - а пока мне 16, low quality",
+      "source": "whisper_only",
+      "file": "tracks/v17-16-low-quality-f68c45f99830.json",
+      "files": {
+        "lyrics": "tracks/v17-16-low-quality-f68c45f99830.json",
+        "meta": "tracks/v17-16-low-quality-f68c45f99830.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/takemichi-real/v17-a-poka-mne-16-low-quality",
+      "mtimeMs": 1782825126927
     }
   },
   "tracks": [
@@ -21491,6 +21505,20 @@
       },
       "sourcePath": "https://soundcloud.com/slavik-405005223/dance-radio-edit-2010",
       "mtimeMs": 1782825113969
+    },
+    {
+      "title": "v17 - а пока мне 16, low quality",
+      "artist": "🎀",
+      "originalTrackName": "🎀 - v17 - а пока мне 16, low quality",
+      "source": "whisper_only",
+      "file": "tracks/v17-16-low-quality-f68c45f99830.json",
+      "files": {
+        "lyrics": "tracks/v17-16-low-quality-f68c45f99830.json",
+        "meta": "tracks/v17-16-low-quality-f68c45f99830.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/takemichi-real/v17-a-poka-mne-16-low-quality",
+      "mtimeMs": 1782825126927
     }
   ]
 }

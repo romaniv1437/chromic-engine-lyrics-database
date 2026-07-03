@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-02T23:22:25.954540+00:00",
-  "totalTracks": 768,
+  "generatedAt": "2026-07-03T07:57:55.387547+00:00",
+  "totalTracks": 769,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10793,6 +10793,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-538322163/lil-peep-ps-fuck-you-cunt",
       "mtimeMs": 1783034548974
+    },
+    "ibeantrill::lil peep - told ya": {
+      "title": "LiL PEEP - Told Ya",
+      "artist": "ibeantrill",
+      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
+      "source": "whisper_only",
+      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+      "files": {
+        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
+      "mtimeMs": 1783065476447
     }
   },
   "tracks": [
@@ -21603,6 +21617,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-538322163/lil-peep-ps-fuck-you-cunt",
       "mtimeMs": 1783034548974
+    },
+    {
+      "title": "LiL PEEP - Told Ya",
+      "artist": "ibeantrill",
+      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
+      "source": "whisper_only",
+      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+      "files": {
+        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
+      "mtimeMs": 1783065476447
     }
   ]
 }

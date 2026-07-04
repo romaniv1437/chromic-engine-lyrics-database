@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-03T07:58:04.787547+00:00",
-  "totalTracks": 769,
+  "generatedAt": "2026-07-04T09:47:53.165040+00:00",
+  "totalTracks": 770,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10807,6 +10807,20 @@
       },
       "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
       "mtimeMs": 1783065487407
+    },
+    "lil peep::lil peep - mud on my gucci": {
+      "title": "Lil Peep - Mud On My Gucci",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep - Mud On My Gucci",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-lil-peep-mud-on-my-gucci-89bcb0bfd9a5.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-mud-on-my-gucci-89bcb0bfd9a5.json",
+        "meta": "tracks/lil-peep-lil-peep-mud-on-my-gucci-89bcb0bfd9a5.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/zapte_peep/lil-peep-mud-on-my-gucci",
+      "mtimeMs": 1783158474436
     }
   },
   "tracks": [
@@ -21631,6 +21645,20 @@
       },
       "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
       "mtimeMs": 1783065487407
+    },
+    {
+      "title": "Lil Peep - Mud On My Gucci",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep - Mud On My Gucci",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-lil-peep-mud-on-my-gucci-89bcb0bfd9a5.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-mud-on-my-gucci-89bcb0bfd9a5.json",
+        "meta": "tracks/lil-peep-lil-peep-mud-on-my-gucci-89bcb0bfd9a5.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/zapte_peep/lil-peep-mud-on-my-gucci",
+      "mtimeMs": 1783158474436
     }
   ]
 }

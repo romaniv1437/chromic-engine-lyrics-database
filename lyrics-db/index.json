@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-04T09:48:04.393630+00:00",
-  "totalTracks": 770,
+  "generatedAt": "2026-07-04T17:41:01.392617+00:00",
+  "totalTracks": 771,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10821,6 +10821,20 @@
       },
       "sourcePath": "https://soundcloud.com/zapte_peep/lil-peep-mud-on-my-gucci",
       "mtimeMs": 1783158486472
+    },
+    "playboi carti, vory::made it this far (outro)": {
+      "title": "MADE IT THIS FAR (OUTRO)",
+      "artist": "PLAYBOI CARTI, VORY",
+      "originalTrackName": "PLAYBOI CARTI, VORY - MADE IT THIS FAR (OUTRO)",
+      "source": "syncedlyrics",
+      "file": "tracks/playboi-carti-vory-made-it-this-far-outro-f2c4aa65d9f3.json",
+      "files": {
+        "lyrics": "tracks/playboi-carti-vory-made-it-this-far-outro-f2c4aa65d9f3.json",
+        "meta": "tracks/playboi-carti-vory-made-it-this-far-outro-f2c4aa65d9f3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/opiumcarti900245550/made-it-this-far-outro",
+      "mtimeMs": 1783186861885
     }
   },
   "tracks": [
@@ -21659,6 +21673,20 @@
       },
       "sourcePath": "https://soundcloud.com/zapte_peep/lil-peep-mud-on-my-gucci",
       "mtimeMs": 1783158486472
+    },
+    {
+      "title": "MADE IT THIS FAR (OUTRO)",
+      "artist": "PLAYBOI CARTI, VORY",
+      "originalTrackName": "PLAYBOI CARTI, VORY - MADE IT THIS FAR (OUTRO)",
+      "source": "syncedlyrics",
+      "file": "tracks/playboi-carti-vory-made-it-this-far-outro-f2c4aa65d9f3.json",
+      "files": {
+        "lyrics": "tracks/playboi-carti-vory-made-it-this-far-outro-f2c4aa65d9f3.json",
+        "meta": "tracks/playboi-carti-vory-made-it-this-far-outro-f2c4aa65d9f3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/opiumcarti900245550/made-it-this-far-outro",
+      "mtimeMs": 1783186861885
     }
   ]
 }

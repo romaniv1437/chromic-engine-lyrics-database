@@ -90,7 +90,7 @@
   {
     "text": "It's just another Hollywood weekend",
     "startTime": 28.16,
-    "endTime": 31.0,
+    "endTime": 31,
     "words": [
       {
         "word": "It's",
@@ -134,7 +134,7 @@
       {
         "word": "weekend",
         "start": 30.47,
-        "end": 31.0,
+        "end": 31,
         "char_starts": [
           30.47,
           30.184,
@@ -149,7 +149,7 @@
       }
     ],
     "time": 28.16,
-    "end": 31.0
+    "end": 31
   },
   {
     "text": "I'm just another Hollywood demon",
@@ -240,13 +240,13 @@
       {
         "word": "ain't",
         "start": 35.8,
-        "end": 36.0,
+        "end": 36,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "got",
-        "start": 36.0,
+        "start": 36,
         "end": 36.26,
         "spoken": true,
         "singer": "singer2"
@@ -458,16 +458,16 @@
       {
         "word": "keep",
         "start": 46.62,
-        "end": 47.0,
+        "end": 47,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "screamin',",
-        "start": 47.0,
+        "start": 47,
         "end": 47.725,
         "char_starts": [
-          47.0,
+          47,
           47.029,
           47.074,
           47.128,
@@ -1369,12 +1369,12 @@
   },
   {
     "text": "It's just another Hollywood weekend",
-    "startTime": 90.0,
+    "startTime": 90,
     "endTime": 92.54,
     "words": [
       {
         "word": "It's",
-        "start": 90.0,
+        "start": 90,
         "end": 90.16,
         "spoken": true,
         "singer": "singer1"
@@ -1427,7 +1427,7 @@
         "singer": "singer1"
       }
     ],
-    "time": 90.0,
+    "time": 90,
     "end": 92.54
   },
   {
@@ -1452,16 +1452,16 @@
       {
         "word": "another",
         "start": 93.56,
-        "end": 94.0,
+        "end": 94,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "Hollywood",
-        "start": 94.0,
+        "start": 94,
         "end": 94.78,
         "char_starts": [
-          94.0,
+          94,
           94.037,
           94.094,
           94.162,
@@ -1639,7 +1639,7 @@
       {
         "word": "Hollywood",
         "start": 103.415,
-        "end": 104.0,
+        "end": 104,
         "char_starts": [
           103.415,
           103.2,

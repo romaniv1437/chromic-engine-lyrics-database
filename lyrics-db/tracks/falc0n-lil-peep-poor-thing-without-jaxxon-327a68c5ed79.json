@@ -1,0 +1,906 @@
+[
+  {
+    "text": "I've been getting by thanks to a thing or two",
+    "startTime": 0.093,
+    "endTime": 4.22,
+    "words": [
+      {
+        "word": "I've",
+        "start": 0.093,
+        "end": 1.03,
+        "char_starts": [
+          0.093,
+          0.124,
+          0.377,
+          0.721
+        ],
+        "singer": "singer1"
+      },
+      {
+        "word": "been",
+        "start": 1.04,
+        "end": 2.06,
+        "char_starts": [
+          1.04,
+          1.221,
+          1.5,
+          1.836
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "getting",
+        "start": 2.07,
+        "end": 2.42,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "by",
+        "start": 2.43,
+        "end": 2.47,
+        "singer": "singer1"
+      },
+      {
+        "word": "thanks",
+        "start": 2.48,
+        "end": 2.52,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 2.53,
+        "end": 2.57,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 2.58,
+        "end": 2.62,
+        "singer": "singer1"
+      },
+      {
+        "word": "thing",
+        "start": 2.63,
+        "end": 2.67,
+        "singer": "singer1"
+      },
+      {
+        "word": "or",
+        "start": 2.68,
+        "end": 2.72,
+        "singer": "singer1"
+      },
+      {
+        "word": "two",
+        "start": 2.73,
+        "end": 4.22,
+        "char_starts": [
+          2.73,
+          3.049,
+          3.699
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 0.093,
+    "end": 4.22
+  },
+  {
+    "text": "●",
+    "startTime": 4.52,
+    "endTime": 20.7,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 4.52,
+    "end": 20.7
+  },
+  {
+    "text": "I've got a thing for a",
+    "startTime": 20.7,
+    "endTime": 26.46,
+    "words": [
+      {
+        "word": "I've",
+        "start": 20.7,
+        "end": 20.85,
+        "char_starts": [
+          4.23,
+          4.397,
+          4.736,
+          5.199
+        ],
+        "singer": "singer2"
+      },
+      {
+        "word": "got",
+        "start": 20.9,
+        "end": 21.22,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 21.76,
+        "end": 22.06,
+        "singer": "singer2"
+      },
+      {
+        "word": "thing",
+        "start": 24.48,
+        "end": 24.68,
+        "singer": "singer2"
+      },
+      {
+        "word": "for",
+        "start": 24.69,
+        "end": 24.96,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 24.97,
+        "end": 26.46,
+        "singer": "singer2"
+      }
+    ],
+    "time": 20.7,
+    "end": 26.46
+  },
+  {
+    "text": "poor thing I'm such a fool, yeah",
+    "startTime": 31.18,
+    "endTime": 38.76,
+    "words": [
+      {
+        "word": "poor",
+        "start": 31.18,
+        "end": 31.48,
+        "singer": "singer2"
+      },
+      {
+        "word": "thing",
+        "start": 31.49,
+        "end": 32.98,
+        "char_starts": [
+          31.49,
+          31.639,
+          31.87,
+          32.147,
+          32.459
+        ],
+        "singer": "singer2"
+      },
+      {
+        "word": "I'm",
+        "start": 32.99,
+        "end": 34.351,
+        "char_starts": [
+          32.99,
+          33.337,
+          33.875
+        ],
+        "singer": "singer2"
+      },
+      {
+        "word": "such",
+        "start": 34.361,
+        "end": 35.851,
+        "char_starts": [
+          34.361,
+          34.581,
+          34.921,
+          35.329
+        ],
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 35.861,
+        "end": 36.308,
+        "singer": "singer2"
+      },
+      {
+        "word": "fool,",
+        "start": 37.42,
+        "end": 37.72,
+        "singer": "singer2"
+      },
+      {
+        "word": "yeah",
+        "start": 38.6,
+        "end": 38.76,
+        "singer": "singer2"
+      }
+    ],
+    "time": 31.18,
+    "end": 38.76
+  },
+  {
+    "text": "Love don't work, what",
+    "startTime": 38.77,
+    "endTime": 40.4,
+    "words": [
+      {
+        "word": "Love",
+        "start": 38.77,
+        "end": 39.086,
+        "singer": "singer2"
+      },
+      {
+        "word": "don't",
+        "start": 39.096,
+        "end": 39.493,
+        "singer": "singer2"
+      },
+      {
+        "word": "work,",
+        "start": 39.503,
+        "end": 39.9,
+        "singer": "singer2"
+      },
+      {
+        "word": "what",
+        "start": 39.91,
+        "end": 40.4,
+        "singer": "singer2"
+      }
+    ],
+    "time": 38.77,
+    "end": 40.4
+  },
+  {
+    "text": "●",
+    "startTime": 40.7,
+    "endTime": 46.94,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 40.7,
+    "end": 46.94
+  },
+  {
+    "text": "it do, boo?",
+    "startTime": 46.94,
+    "endTime": 47.48,
+    "words": [
+      {
+        "word": "it",
+        "start": 46.94,
+        "end": 47.12,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "do,",
+        "start": 47.13,
+        "end": 47.28,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "boo?",
+        "start": 47.33,
+        "end": 47.48,
+        "char_starts": [
+          67.89,
+          68.088,
+          68.394,
+          68.761
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 46.94,
+    "end": 47.48
+  },
+  {
+    "text": "●",
+    "startTime": 47.78,
+    "endTime": 69.24,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 47.78,
+    "end": 69.24
+  },
+  {
+    "text": "Love don't work, love just desert you, whoa",
+    "startTime": 69.24,
+    "endTime": 71.84,
+    "words": [
+      {
+        "word": "Love",
+        "start": 69.24,
+        "end": 70.58,
+        "char_starts": [
+          69.24,
+          69.39,
+          69.695,
+          70.111
+        ],
+        "singer": "singer2"
+      },
+      {
+        "word": "don't",
+        "start": 70.59,
+        "end": 70.78,
+        "singer": "singer2"
+      },
+      {
+        "word": "work,",
+        "start": 70.79,
+        "end": 70.995,
+        "singer": "singer2"
+      },
+      {
+        "word": "love",
+        "start": 71.005,
+        "end": 71.168,
+        "singer": "singer2"
+      },
+      {
+        "word": "just",
+        "start": 71.178,
+        "end": 71.34,
+        "singer": "singer2"
+      },
+      {
+        "word": "desert",
+        "start": 71.35,
+        "end": 71.48,
+        "singer": "singer2"
+      },
+      {
+        "word": "you,",
+        "start": 71.49,
+        "end": 71.64,
+        "singer": "singer2"
+      },
+      {
+        "word": "whoa",
+        "start": 71.69,
+        "end": 71.84,
+        "singer": "singer2"
+      }
+    ],
+    "time": 69.24,
+    "end": 71.84
+  },
+  {
+    "text": "●",
+    "startTime": 72.14,
+    "endTime": 79.134,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 72.14,
+    "end": 79.134
+  },
+  {
+    "text": "I'm seeing red, my cup is full of meds",
+    "startTime": 79.134,
+    "endTime": 82.9,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 79.134,
+        "end": 79.501,
+        "singer": "singer2"
+      },
+      {
+        "word": "seeing",
+        "start": 79.511,
+        "end": 80.256,
+        "char_starts": [
+          79.511,
+          79.577,
+          79.68,
+          79.803,
+          79.941,
+          80.092
+        ],
+        "singer": "singer2"
+      },
+      {
+        "word": "red,",
+        "start": 80.266,
+        "end": 80.76,
+        "char_starts": [
+          80.266,
+          80.353,
+          80.489,
+          80.651
+        ],
+        "singer": "singer2"
+      },
+      {
+        "word": "my",
+        "start": 80.77,
+        "end": 81.012,
+        "singer": "singer2"
+      },
+      {
+        "word": "cup",
+        "start": 81.022,
+        "end": 81.389,
+        "singer": "singer2"
+      },
+      {
+        "word": "is",
+        "start": 81.399,
+        "end": 81.641,
+        "singer": "singer2"
+      },
+      {
+        "word": "full",
+        "start": 81.651,
+        "end": 82.145,
+        "singer": "singer2"
+      },
+      {
+        "word": "of",
+        "start": 82.155,
+        "end": 82.396,
+        "singer": "singer2"
+      },
+      {
+        "word": "meds",
+        "start": 82.406,
+        "end": 82.9,
+        "singer": "singer2"
+      }
+    ],
+    "time": 79.134,
+    "end": 82.9
+  },
+  {
+    "text": "●",
+    "startTime": 83.2,
+    "endTime": 94.44,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 83.2,
+    "end": 94.44
+  },
+  {
+    "text": "I might",
+    "startTime": 94.44,
+    "endTime": 94.9,
+    "words": [
+      {
+        "word": "I",
+        "start": 94.44,
+        "end": 94.59,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "might",
+        "start": 94.64,
+        "end": 94.9,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 94.44,
+    "end": 94.9
+  },
+  {
+    "text": "hit her mans, when her mans, I'm the man",
+    "startTime": 98.14,
+    "endTime": 101.45,
+    "words": [
+      {
+        "word": "hit",
+        "start": 98.14,
+        "end": 98.14,
+        "singer": "singer1"
+      },
+      {
+        "word": "her",
+        "start": 98.15,
+        "end": 98.44,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mans,",
+        "start": 98.45,
+        "end": 98.94,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "when",
+        "start": 98.95,
+        "end": 99.34,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "her",
+        "start": 99.524,
+        "end": 99.64,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mans,",
+        "start": 99.65,
+        "end": 100.14,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 100.15,
+        "end": 100.56,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 101.14,
+        "end": 101.4,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "man",
+        "start": 101.41,
+        "end": 101.45,
+        "singer": "singer1"
+      }
+    ],
+    "time": 98.14,
+    "end": 101.45
+  },
+  {
+    "text": "Love don't work but the xans do",
+    "startTime": 101.46,
+    "endTime": 101.8,
+    "words": [
+      {
+        "word": "Love",
+        "start": 101.46,
+        "end": 101.5,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 101.51,
+        "end": 101.55,
+        "singer": "singer1"
+      },
+      {
+        "word": "work",
+        "start": 101.56,
+        "end": 101.6,
+        "singer": "singer1"
+      },
+      {
+        "word": "but",
+        "start": 101.61,
+        "end": 101.65,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 101.66,
+        "end": 101.7,
+        "singer": "singer1"
+      },
+      {
+        "word": "xans",
+        "start": 101.71,
+        "end": 101.75,
+        "singer": "singer1"
+      },
+      {
+        "word": "do",
+        "start": 101.76,
+        "end": 101.8,
+        "singer": "singer1"
+      }
+    ],
+    "time": 101.46,
+    "end": 101.8
+  },
+  {
+    "text": "Love don't work but I got a thing or two to do, yuh",
+    "startTime": 101.81,
+    "endTime": 102.63,
+    "words": [
+      {
+        "word": "Love",
+        "start": 101.81,
+        "end": 101.85,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 101.86,
+        "end": 101.9,
+        "singer": "singer1"
+      },
+      {
+        "word": "work",
+        "start": 101.91,
+        "end": 101.95,
+        "singer": "singer1"
+      },
+      {
+        "word": "but",
+        "start": 101.96,
+        "end": 102.0,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 102.01,
+        "end": 102.05,
+        "singer": "singer1"
+      },
+      {
+        "word": "got",
+        "start": 102.06,
+        "end": 102.1,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 102.11,
+        "end": 102.15,
+        "singer": "singer1"
+      },
+      {
+        "word": "thing",
+        "start": 102.16,
+        "end": 102.2,
+        "singer": "singer1"
+      },
+      {
+        "word": "or",
+        "start": 102.21,
+        "end": 102.25,
+        "singer": "singer1"
+      },
+      {
+        "word": "two",
+        "start": 102.26,
+        "end": 102.3,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 102.31,
+        "end": 102.41,
+        "singer": "singer1"
+      },
+      {
+        "word": "do,",
+        "start": 102.42,
+        "end": 102.52,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "yuh",
+        "start": 102.53,
+        "end": 102.63,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 101.81,
+    "end": 102.63
+  },
+  {
+    "text": "Love don't work, it should've stayed in school",
+    "startTime": 102.64,
+    "endTime": 103.51,
+    "words": [
+      {
+        "word": "Love",
+        "start": 102.64,
+        "end": 102.74,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 102.75,
+        "end": 102.85,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "work,",
+        "start": 102.86,
+        "end": 102.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 102.97,
+        "end": 103.07,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "should've",
+        "start": 103.08,
+        "end": 103.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "stayed",
+        "start": 103.19,
+        "end": 103.29,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "in",
+        "start": 103.3,
+        "end": 103.4,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "school",
+        "start": 103.41,
+        "end": 103.51,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 102.64,
+    "end": 103.51
+  },
+  {
+    "text": "I don't even work but I'm in the field",
+    "startTime": 103.52,
+    "endTime": 104.5,
+    "words": [
+      {
+        "word": "I",
+        "start": 103.58,
+        "end": 103.62,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 103.63,
+        "end": 103.73,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "even",
+        "start": 103.8,
+        "end": 103.84,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "work",
+        "start": 103.85,
+        "end": 103.95,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "but",
+        "start": 103.96,
+        "end": 104.06,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 104.07,
+        "end": 104.17,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "in",
+        "start": 104.18,
+        "end": 104.28,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 104.29,
+        "end": 104.39,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "field",
+        "start": 104.4,
+        "end": 104.5,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 103.52,
+    "end": 104.5
+  },
+  {
+    "text": "Love is in the air so I'm blowing smoke",
+    "startTime": 104.51,
+    "endTime": 105.49,
+    "words": [
+      {
+        "word": "Love",
+        "start": 104.51,
+        "end": 104.61,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "is",
+        "start": 104.62,
+        "end": 104.72,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "in",
+        "start": 104.79,
+        "end": 104.83,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 104.84,
+        "end": 104.94,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "air",
+        "start": 104.95,
+        "end": 105.05,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "so",
+        "start": 105.06,
+        "end": 105.16,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 105.17,
+        "end": 105.27,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "blowing",
+        "start": 105.28,
+        "end": 105.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "smoke",
+        "start": 105.39,
+        "end": 105.49,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 104.51,
+    "end": 105.49
+  }
+]

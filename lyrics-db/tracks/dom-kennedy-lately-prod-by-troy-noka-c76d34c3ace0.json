@@ -28,7 +28,7 @@
       {
         "word": "forgiving",
         "start": 19.51,
-        "end": 21.0,
+        "end": 21,
         "char_starts": [
           19.51,
           19.568,
@@ -144,12 +144,12 @@
   },
   {
     "text": "and I'm late",
-    "startTime": 62.0,
+    "startTime": 62,
     "endTime": 66.86,
     "words": [
       {
         "word": "and",
-        "start": 62.0,
+        "start": 62,
         "end": 62.26,
         "spoken": true
       },
@@ -164,7 +164,7 @@
         "end": 66.86
       }
     ],
-    "time": 62.0,
+    "time": 62,
     "end": 66.86
   },
   {
@@ -620,7 +620,7 @@
       {
         "word": "I'm",
         "start": 203.399,
-        "end": 204.0,
+        "end": 204,
         "whisper": true
       },
       {

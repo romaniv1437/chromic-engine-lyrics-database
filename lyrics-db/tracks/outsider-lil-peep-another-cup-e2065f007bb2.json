@@ -50,7 +50,7 @@
       {
         "word": "used",
         "start": 17.9,
-        "end": 18.0,
+        "end": 18,
         "spoken": true
       },
       {
@@ -222,7 +222,7 @@
   {
     "text": "know I'm ugly (I know I'm ugly)",
     "startTime": 50.94,
-    "endTime": 55.0,
+    "endTime": 55,
     "words": [
       {
         "word": "know",
@@ -270,13 +270,13 @@
       {
         "word": "ugly)",
         "start": 54.81,
-        "end": 55.0,
+        "end": 55,
         "adlib": true,
         "spoken": true
       }
     ],
     "time": 50.94,
-    "end": 55.0
+    "end": 55
   },
   {
     "text": "Now I'm swervin' in the Ghost, and I'm okay, I'm gettin' money (I'm gettin' money)",
@@ -1130,7 +1130,7 @@
   {
     "text": "I don't want to break my legs and have to carry on (hey)",
     "startTime": 67.58,
-    "endTime": 69.0,
+    "endTime": 69,
     "words": [
       {
         "word": "I",
@@ -1207,13 +1207,13 @@
       {
         "word": "(hey)",
         "start": 68.9,
-        "end": 69.0,
+        "end": 69,
         "adlib": true,
         "whisper": true
       }
     ],
     "time": 67.58,
-    "end": 69.0
+    "end": 69
   },
   {
     "text": "If I carry on, I'm gon' need some marijuana",
@@ -1280,12 +1280,12 @@
   },
   {
     "text": "Put it in my bong, then I make another song",
-    "startTime": 70.0,
+    "startTime": 70,
     "endTime": 71.82,
     "words": [
       {
         "word": "Put",
-        "start": 70.0,
+        "start": 70,
         "end": 70.1,
         "whisper": true
       },
@@ -1344,7 +1344,7 @@
         "whisper": true
       }
     ],
-    "time": 70.0,
+    "time": 70,
     "end": 71.82
   }
 ]

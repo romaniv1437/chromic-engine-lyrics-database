@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-05T19:57:08.055451+00:00",
-  "totalTracks": 774,
+  "generatedAt": "2026-07-06T11:39:16.216957+00:00",
+  "totalTracks": 775,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10877,6 +10877,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-698629407/lil-peep-poor-thing-without-jaxxon",
       "mtimeMs": 1783281432806
+    },
+    "outsider::lil peep - another cup": {
+      "title": "Lil Peep - Another Cup",
+      "artist": "Outsider",
+      "originalTrackName": "Outsider - Lil Peep - Another Cup",
+      "source": "syncedlyrics",
+      "file": "tracks/outsider-lil-peep-another-cup-e2065f007bb2.json",
+      "files": {
+        "lyrics": "tracks/outsider-lil-peep-another-cup-e2065f007bb2.json",
+        "meta": "tracks/outsider-lil-peep-another-cup-e2065f007bb2.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/theeking-431104483/lil-peep-another-cup",
+      "mtimeMs": 1783337957405
     }
   },
   "tracks": [
@@ -21771,6 +21785,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-698629407/lil-peep-poor-thing-without-jaxxon",
       "mtimeMs": 1783281432806
+    },
+    {
+      "title": "Lil Peep - Another Cup",
+      "artist": "Outsider",
+      "originalTrackName": "Outsider - Lil Peep - Another Cup",
+      "source": "syncedlyrics",
+      "file": "tracks/outsider-lil-peep-another-cup-e2065f007bb2.json",
+      "files": {
+        "lyrics": "tracks/outsider-lil-peep-another-cup-e2065f007bb2.json",
+        "meta": "tracks/outsider-lil-peep-another-cup-e2065f007bb2.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/theeking-431104483/lil-peep-another-cup",
+      "mtimeMs": 1783337957405
     }
   ]
 }

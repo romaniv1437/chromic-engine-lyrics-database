@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-06T15:29:52.284435+00:00",
-  "totalTracks": 776,
+  "generatedAt": "2026-07-06T15:30:18.443417+00:00",
+  "totalTracks": 777,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10905,6 +10905,20 @@
       },
       "sourcePath": "https://soundcloud.com/phan-1600/lil-uzi-vert-heavy-no-open",
       "mtimeMs": 1783351796078
+    },
+    "dom kennedy::lately (prod by troy noka)": {
+      "title": "Lately (Prod By Troy Noka)",
+      "artist": "Dom Kennedy",
+      "originalTrackName": "Dom Kennedy - Lately (Prod By Troy Noka)",
+      "source": "syncedlyrics",
+      "file": "tracks/dom-kennedy-lately-prod-by-troy-noka-c76d34c3ace0.json",
+      "files": {
+        "lyrics": "tracks/dom-kennedy-lately-prod-by-troy-noka-c76d34c3ace0.json",
+        "meta": "tracks/dom-kennedy-lately-prod-by-troy-noka-c76d34c3ace0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-566622558/lately-prod-by-troy-noka",
+      "mtimeMs": 1783351819455
     }
   },
   "tracks": [
@@ -21827,6 +21841,20 @@
       },
       "sourcePath": "https://soundcloud.com/phan-1600/lil-uzi-vert-heavy-no-open",
       "mtimeMs": 1783351796078
+    },
+    {
+      "title": "Lately (Prod By Troy Noka)",
+      "artist": "Dom Kennedy",
+      "originalTrackName": "Dom Kennedy - Lately (Prod By Troy Noka)",
+      "source": "syncedlyrics",
+      "file": "tracks/dom-kennedy-lately-prod-by-troy-noka-c76d34c3ace0.json",
+      "files": {
+        "lyrics": "tracks/dom-kennedy-lately-prod-by-troy-noka-c76d34c3ace0.json",
+        "meta": "tracks/dom-kennedy-lately-prod-by-troy-noka-c76d34c3ace0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-566622558/lately-prod-by-troy-noka",
+      "mtimeMs": 1783351819455
     }
   ]
 }

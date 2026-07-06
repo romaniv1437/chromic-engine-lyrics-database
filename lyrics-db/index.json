@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-06T11:39:28.291259+00:00",
-  "totalTracks": 775,
+  "generatedAt": "2026-07-06T15:29:40.705765+00:00",
+  "totalTracks": 776,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10891,6 +10891,20 @@
       },
       "sourcePath": "https://soundcloud.com/theeking-431104483/lil-peep-another-cup",
       "mtimeMs": 1783337971322
+    },
+    "phan 1600::lil uzi vert - heavy (no open)": {
+      "title": "Lil Uzi Vert - Heavy (No Open)",
+      "artist": "Phan 1600",
+      "originalTrackName": "Phan 1600 - Lil Uzi Vert - Heavy (No Open)",
+      "source": "syncedlyrics",
+      "file": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
+      "files": {
+        "lyrics": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
+        "meta": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/phan-1600/lil-uzi-vert-heavy-no-open",
+      "mtimeMs": 1783351781998
     }
   },
   "tracks": [
@@ -21799,6 +21813,20 @@
       },
       "sourcePath": "https://soundcloud.com/theeking-431104483/lil-peep-another-cup",
       "mtimeMs": 1783337971322
+    },
+    {
+      "title": "Lil Uzi Vert - Heavy (No Open)",
+      "artist": "Phan 1600",
+      "originalTrackName": "Phan 1600 - Lil Uzi Vert - Heavy (No Open)",
+      "source": "syncedlyrics",
+      "file": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
+      "files": {
+        "lyrics": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
+        "meta": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/phan-1600/lil-uzi-vert-heavy-no-open",
+      "mtimeMs": 1783351781998
     }
   ]
 }

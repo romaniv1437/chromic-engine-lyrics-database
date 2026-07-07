@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T15:32:04.330092+00:00",
+  "generatedAt": "2026-07-07T11:55:19.861952+00:00",
   "totalTracks": 778,
   "roots": [
     "lyrics-db/tracks"
@@ -10626,20 +10626,6 @@
       "sourcePath": "https://soundcloud.com/spellscasted/sorry-to-dissapoint-prod-me",
       "mtimeMs": 1782339580213
     },
-    "☆lil peep☆::gods (w/ lil tracy)": {
-      "title": "GODS (w/ Lil Tracy)",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - GODS (w/ Lil Tracy)",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
-        "meta": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
-      "mtimeMs": 1782425967148
-    },
     "lil peep::give u the moon (prod. kryptik)": {
       "title": "give u the moon (prod. kryptik)",
       "artist": "Lil Peep",
@@ -10933,6 +10919,20 @@
       },
       "sourcePath": "https://soundcloud.com/oodaredevil/tikiman-prod-fuurrg",
       "mtimeMs": 1783351926917
+    },
+    "☆lil peep☆::gods (w/ lil tracy)": {
+      "title": "GODS (w/ Lil Tracy)",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - GODS (w/ Lil Tracy)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+        "meta": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
+      "mtimeMs": 1783425320731
     }
   },
   "tracks": [
@@ -21577,20 +21577,6 @@
       "mtimeMs": 1782339580213
     },
     {
-      "title": "GODS (w/ Lil Tracy)",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - GODS (w/ Lil Tracy)",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
-        "meta": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
-      "mtimeMs": 1782425967148
-    },
-    {
       "title": "give u the moon (prod. kryptik)",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - give u the moon (prod. kryptik)",
@@ -21883,6 +21869,20 @@
       },
       "sourcePath": "https://soundcloud.com/oodaredevil/tikiman-prod-fuurrg",
       "mtimeMs": 1783351926917
+    },
+    {
+      "title": "GODS (w/ Lil Tracy)",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - GODS (w/ Lil Tracy)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+        "meta": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
+      "mtimeMs": 1783425320731
     }
   ]
 }

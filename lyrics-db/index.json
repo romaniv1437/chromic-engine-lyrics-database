@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T11:55:19.861952+00:00",
+  "generatedAt": "2026-07-07T12:24:16.823282+00:00",
   "totalTracks": 778,
   "roots": [
     "lyrics-db/tracks"
@@ -10836,20 +10836,6 @@
       "sourcePath": "https://soundcloud.com/gab3omg/gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse",
       "mtimeMs": 1783280843288
     },
-    "lil peep, lil tracy, pollari::lil peep x pollàri x lil tracy - same shit(prod by horse head x bighead x lederrick)": {
-      "title": "Lil Peep x Pollàri x Lil Tracy - SAME SHIT(prod by Horse Head x Bighead x Lederrick)",
-      "artist": "lil peep, lil tracy, pollari",
-      "originalTrackName": "lil peep, lil tracy, pollari - Lil Peep x Pollàri x Lil Tracy - SAME SHIT(prod by Horse Head x Bighead x Lederrick)",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-lil-tracy-pollari-lil-peep-x-poll-ri-x-lil-tracy-same-shit-pr-87572d29fa99.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-lil-tracy-pollari-lil-peep-x-poll-ri-x-lil-tracy-same-shit-pr-87572d29fa99.json",
-        "meta": "tracks/lil-peep-lil-tracy-pollari-lil-peep-x-poll-ri-x-lil-tracy-same-shit-pr-87572d29fa99.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/bigheadonthebeat/lil-peep-x-lil-tracy-x-pollari-same-shitprod-by-horsehead-x-bighead-x-ledderick",
-      "mtimeMs": 1783281310741
-    },
     "falc0n::lil peep poor thing without jaxxon": {
       "title": "Lil peep Poor thing without Jaxxon",
       "artist": "falc0n",
@@ -10933,6 +10919,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
       "mtimeMs": 1783425320731
+    },
+    "lil peep, lil tracy, pollari::lil peep x pollàri x lil tracy - same shit(prod by horse head x bighead x lederrick)": {
+      "title": "Lil Peep x Pollàri x Lil Tracy - SAME SHIT(prod by Horse Head x Bighead x Lederrick)",
+      "artist": "lil peep, lil tracy, pollari",
+      "originalTrackName": "lil peep, lil tracy, pollari - Lil Peep x Pollàri x Lil Tracy - SAME SHIT(prod by Horse Head x Bighead x Lederrick)",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-lil-tracy-pollari-lil-peep-x-poll-ri-x-lil-tracy-same-shit-pr-87572d29fa99.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-tracy-pollari-lil-peep-x-poll-ri-x-lil-tracy-same-shit-pr-87572d29fa99.json",
+        "meta": "tracks/lil-peep-lil-tracy-pollari-lil-peep-x-poll-ri-x-lil-tracy-same-shit-pr-87572d29fa99.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bigheadonthebeat/lil-peep-x-lil-tracy-x-pollari-same-shitprod-by-horsehead-x-bighead-x-ledderick",
+      "mtimeMs": 1783427058619
     }
   },
   "tracks": [
@@ -21787,20 +21787,6 @@
       "mtimeMs": 1783280843288
     },
     {
-      "title": "Lil Peep x Pollàri x Lil Tracy - SAME SHIT(prod by Horse Head x Bighead x Lederrick)",
-      "artist": "lil peep, lil tracy, pollari",
-      "originalTrackName": "lil peep, lil tracy, pollari - Lil Peep x Pollàri x Lil Tracy - SAME SHIT(prod by Horse Head x Bighead x Lederrick)",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-lil-tracy-pollari-lil-peep-x-poll-ri-x-lil-tracy-same-shit-pr-87572d29fa99.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-lil-tracy-pollari-lil-peep-x-poll-ri-x-lil-tracy-same-shit-pr-87572d29fa99.json",
-        "meta": "tracks/lil-peep-lil-tracy-pollari-lil-peep-x-poll-ri-x-lil-tracy-same-shit-pr-87572d29fa99.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/bigheadonthebeat/lil-peep-x-lil-tracy-x-pollari-same-shitprod-by-horsehead-x-bighead-x-ledderick",
-      "mtimeMs": 1783281310741
-    },
-    {
       "title": "Lil peep Poor thing without Jaxxon",
       "artist": "falc0n",
       "originalTrackName": "falc0n - Lil peep Poor thing without Jaxxon",
@@ -21883,6 +21869,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
       "mtimeMs": 1783425320731
+    },
+    {
+      "title": "Lil Peep x Pollàri x Lil Tracy - SAME SHIT(prod by Horse Head x Bighead x Lederrick)",
+      "artist": "lil peep, lil tracy, pollari",
+      "originalTrackName": "lil peep, lil tracy, pollari - Lil Peep x Pollàri x Lil Tracy - SAME SHIT(prod by Horse Head x Bighead x Lederrick)",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-lil-tracy-pollari-lil-peep-x-poll-ri-x-lil-tracy-same-shit-pr-87572d29fa99.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-tracy-pollari-lil-peep-x-poll-ri-x-lil-tracy-same-shit-pr-87572d29fa99.json",
+        "meta": "tracks/lil-peep-lil-tracy-pollari-lil-peep-x-poll-ri-x-lil-tracy-same-shit-pr-87572d29fa99.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bigheadonthebeat/lil-peep-x-lil-tracy-x-pollari-same-shitprod-by-horsehead-x-bighead-x-ledderick",
+      "mtimeMs": 1783427058619
     }
   ]
 }

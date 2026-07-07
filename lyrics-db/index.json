@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-07T12:25:43.471126+00:00",
-  "totalTracks": 778,
+  "generatedAt": "2026-07-07T16:01:40.181115+00:00",
+  "totalTracks": 779,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10933,6 +10933,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-566622558/lately-prod-by-troy-noka",
       "mtimeMs": 1783427145597
+    },
+    "wh1t3ph0nyfu6k::☆lil peep☆ x lil tracy - backseat": {
+      "title": "☆LiL PEEP☆ x Lil Tracy - Backseat",
+      "artist": "wh1t3ph0nyfu6k",
+      "originalTrackName": "wh1t3ph0nyfu6k - ☆LiL PEEP☆ x Lil Tracy - Backseat",
+      "source": "whisper_only",
+      "file": "tracks/wh1t3ph0nyfu6k-lil-peep-x-lil-tracy-backseat-6f391f808f5d.json",
+      "files": {
+        "lyrics": "tracks/wh1t3ph0nyfu6k-lil-peep-x-lil-tracy-backseat-6f391f808f5d.json",
+        "meta": "tracks/wh1t3ph0nyfu6k-lil-peep-x-lil-tracy-backseat-6f391f808f5d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/wh1t3ph0nyfu6k/lil-peep-x-lil-tracy-backseat",
+      "mtimeMs": 1783440101079
     }
   },
   "tracks": [
@@ -21883,6 +21897,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-566622558/lately-prod-by-troy-noka",
       "mtimeMs": 1783427145597
+    },
+    {
+      "title": "☆LiL PEEP☆ x Lil Tracy - Backseat",
+      "artist": "wh1t3ph0nyfu6k",
+      "originalTrackName": "wh1t3ph0nyfu6k - ☆LiL PEEP☆ x Lil Tracy - Backseat",
+      "source": "whisper_only",
+      "file": "tracks/wh1t3ph0nyfu6k-lil-peep-x-lil-tracy-backseat-6f391f808f5d.json",
+      "files": {
+        "lyrics": "tracks/wh1t3ph0nyfu6k-lil-peep-x-lil-tracy-backseat-6f391f808f5d.json",
+        "meta": "tracks/wh1t3ph0nyfu6k-lil-peep-x-lil-tracy-backseat-6f391f808f5d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/wh1t3ph0nyfu6k/lil-peep-x-lil-tracy-backseat",
+      "mtimeMs": 1783440101079
     }
   ]
 }

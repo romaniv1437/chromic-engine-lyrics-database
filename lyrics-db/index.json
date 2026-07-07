@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-07T16:47:44.337227+00:00",
-  "totalTracks": 781,
+  "generatedAt": "2026-07-07T21:35:19.263172+00:00",
+  "totalTracks": 782,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10975,6 +10975,20 @@
       },
       "sourcePath": "https://soundcloud.com/bladee1000/10-starr",
       "mtimeMs": 1783442865670
+    },
+    "bladee::waster": {
+      "title": "WASTER",
+      "artist": "Bladee",
+      "originalTrackName": "Bladee - WASTER",
+      "source": "lrclib_plain",
+      "file": "tracks/bladee-waster-5fb04c5444c5.json",
+      "files": {
+        "lyrics": "tracks/bladee-waster-5fb04c5444c5.json",
+        "meta": "tracks/bladee-waster-5fb04c5444c5.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bladee1000/12-waster",
+      "mtimeMs": 1783460120867
     }
   },
   "tracks": [
@@ -21967,6 +21981,20 @@
       },
       "sourcePath": "https://soundcloud.com/bladee1000/10-starr",
       "mtimeMs": 1783442865670
+    },
+    {
+      "title": "WASTER",
+      "artist": "Bladee",
+      "originalTrackName": "Bladee - WASTER",
+      "source": "lrclib_plain",
+      "file": "tracks/bladee-waster-5fb04c5444c5.json",
+      "files": {
+        "lyrics": "tracks/bladee-waster-5fb04c5444c5.json",
+        "meta": "tracks/bladee-waster-5fb04c5444c5.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bladee1000/12-waster",
+      "mtimeMs": 1783460120867
     }
   ]
 }

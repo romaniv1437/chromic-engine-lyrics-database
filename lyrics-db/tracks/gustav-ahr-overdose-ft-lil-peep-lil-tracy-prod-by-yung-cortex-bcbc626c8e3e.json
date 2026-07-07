@@ -1,0 +1,1608 @@
+[
+  {
+    "text": "Let's get it",
+    "startTime": 0.35,
+    "endTime": 3.0,
+    "words": [
+      {
+        "word": "Let's",
+        "start": 0.35,
+        "end": 1.76,
+        "stretch": true,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "get",
+        "start": 1.76,
+        "end": 2.12,
+        "singer": "singer2"
+      },
+      {
+        "word": "it",
+        "start": 2.12,
+        "end": 3.0,
+        "stretch": true,
+        "whisper": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 0.35,
+    "end": 3.0
+  },
+  {
+    "text": "●",
+    "startTime": 3.3,
+    "endTime": 13.18,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 3.3,
+    "end": 13.18
+  },
+  {
+    "text": "I don't wanna die in L .A.",
+    "startTime": 13.18,
+    "endTime": 18.34,
+    "words": [
+      {
+        "word": "I",
+        "start": 13.53,
+        "end": 14.2,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "don't",
+        "start": 14.2,
+        "end": 14.46,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "wanna",
+        "start": 14.46,
+        "end": 14.72,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "die",
+        "start": 14.72,
+        "end": 15.22,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "in",
+        "start": 15.22,
+        "end": 15.8,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "L",
+        "start": 15.8,
+        "end": 16.16,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": ".A.",
+        "start": 16.51,
+        "end": 18.34,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 13.18,
+    "end": 18.34
+  },
+  {
+    "text": "I don't wanna die in L .A.",
+    "startTime": 22.36,
+    "endTime": 25.68,
+    "words": [
+      {
+        "word": "I",
+        "start": 22.36,
+        "end": 22.36,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 22.36,
+        "end": 22.74,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 22.74,
+        "end": 23.0,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "die",
+        "start": 23.0,
+        "end": 23.54,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "in",
+        "start": 23.54,
+        "end": 24.06,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "L",
+        "start": 24.41,
+        "end": 25.26,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": ".A.",
+        "start": 25.26,
+        "end": 25.68,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 22.36,
+    "end": 25.68
+  },
+  {
+    "text": "●",
+    "startTime": 25.98,
+    "endTime": 33.64,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 25.98,
+    "end": 33.64
+  },
+  {
+    "text": "I won't get fucked and fucked",
+    "startTime": 33.64,
+    "endTime": 38.38,
+    "words": [
+      {
+        "word": "I",
+        "start": 33.64,
+        "end": 34.94,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "won't",
+        "start": 34.94,
+        "end": 35.76,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "get",
+        "start": 35.83,
+        "end": 36.48,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fucked",
+        "start": 36.48,
+        "end": 37.34,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 37.652,
+        "end": 37.86,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fucked",
+        "start": 37.86,
+        "end": 38.38,
+        "singer": "singer1"
+      }
+    ],
+    "time": 33.64,
+    "end": 38.38
+  },
+  {
+    "text": "I don't wanna die alone this way",
+    "startTime": 38.38,
+    "endTime": 42.84,
+    "words": [
+      {
+        "word": "I",
+        "start": 38.473,
+        "end": 38.94,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 39.242,
+        "end": 39.52,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 39.52,
+        "end": 39.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "die",
+        "start": 39.82,
+        "end": 40.48,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "alone",
+        "start": 40.55,
+        "end": 41.14,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "this",
+        "start": 41.349,
+        "end": 41.72,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "way",
+        "start": 41.72,
+        "end": 42.84,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 38.38,
+    "end": 42.84
+  },
+  {
+    "text": "I don't wanna over lose today",
+    "startTime": 42.84,
+    "endTime": 46.18,
+    "words": [
+      {
+        "word": "I",
+        "start": 43.19,
+        "end": 43.56,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 43.56,
+        "end": 43.78,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 43.78,
+        "end": 44.16,
+        "singer": "singer1"
+      },
+      {
+        "word": "over",
+        "start": 44.23,
+        "end": 44.86,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lose",
+        "start": 44.86,
+        "end": 45.22,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "today",
+        "start": 45.57,
+        "end": 46.18,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 42.84,
+    "end": 46.18
+  },
+  {
+    "text": "I don't wanna die alone in L .A.",
+    "startTime": 46.91,
+    "endTime": 50.98,
+    "words": [
+      {
+        "word": "I",
+        "start": 46.91,
+        "end": 47.56,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 47.56,
+        "end": 47.88,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 47.88,
+        "end": 48.16,
+        "singer": "singer1"
+      },
+      {
+        "word": "die",
+        "start": 48.16,
+        "end": 48.86,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "alone",
+        "start": 48.906,
+        "end": 49.5,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "in",
+        "start": 49.5,
+        "end": 49.9,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "L",
+        "start": 49.9,
+        "end": 50.26,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": ".A.",
+        "start": 50.26,
+        "end": 50.98,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 46.91,
+    "end": 50.98
+  },
+  {
+    "text": "I don't wanna die alone this way",
+    "startTime": 51.64,
+    "endTime": 54.9,
+    "words": [
+      {
+        "word": "I",
+        "start": 51.64,
+        "end": 51.64,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 51.64,
+        "end": 51.98,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 51.98,
+        "end": 52.28,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "die",
+        "start": 52.559,
+        "end": 52.98,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "alone",
+        "start": 53.073,
+        "end": 53.56,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "this",
+        "start": 53.56,
+        "end": 54.22,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "way",
+        "start": 54.22,
+        "end": 54.9,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 51.64,
+    "end": 54.9
+  },
+  {
+    "text": "You wanna stand, you wanna walk, you stand",
+    "startTime": 54.9,
+    "endTime": 58.96,
+    "words": [
+      {
+        "word": "You",
+        "start": 54.9,
+        "end": 55.44,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 55.788,
+        "end": 56.02,
+        "singer": "singer1"
+      },
+      {
+        "word": "stand,",
+        "start": 56.206,
+        "end": 56.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 56.48,
+        "end": 57.14,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 57.14,
+        "end": 57.52,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "walk,",
+        "start": 57.52,
+        "end": 57.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 58.42,
+        "end": 58.42,
+        "singer": "singer1"
+      },
+      {
+        "word": "stand",
+        "start": 58.42,
+        "end": 58.96,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 54.9,
+    "end": 58.96
+  },
+  {
+    "text": "I'm at the top of the wave, I'm feeling pain",
+    "startTime": 58.96,
+    "endTime": 63.34,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 58.96,
+        "end": 59.72,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "at",
+        "start": 59.72,
+        "end": 59.92,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 59.92,
+        "end": 60.2,
+        "singer": "singer1"
+      },
+      {
+        "word": "top",
+        "start": 60.2,
+        "end": 60.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 60.48,
+        "end": 60.74,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 60.74,
+        "end": 60.98,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wave,",
+        "start": 60.98,
+        "end": 61.26,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 61.3,
+        "end": 61.64,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "feeling",
+        "start": 61.64,
+        "end": 62.3,
+        "singer": "singer1"
+      },
+      {
+        "word": "pain",
+        "start": 62.3,
+        "end": 63.34,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 58.96,
+    "end": 63.34
+  },
+  {
+    "text": "I swear I don't belong to the flames",
+    "startTime": 63.34,
+    "endTime": 67.68,
+    "words": [
+      {
+        "word": "I",
+        "start": 63.34,
+        "end": 64.0,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "swear",
+        "start": 64.0,
+        "end": 64.52,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 64.52,
+        "end": 64.88,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 64.88,
+        "end": 65.2,
+        "singer": "singer1"
+      },
+      {
+        "word": "belong",
+        "start": 65.455,
+        "end": 66.02,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 66.332,
+        "end": 66.54,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 66.54,
+        "end": 67.16,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "flames",
+        "start": 67.16,
+        "end": 67.68,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 63.34,
+    "end": 67.68
+  },
+  {
+    "text": "I don't wanna die alone this way",
+    "startTime": 67.68,
+    "endTime": 71.84,
+    "words": [
+      {
+        "word": "I",
+        "start": 67.68,
+        "end": 68.24,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 68.24,
+        "end": 68.56,
+        "singer": "singer2"
+      },
+      {
+        "word": "wanna",
+        "start": 68.8,
+        "end": 68.96,
+        "singer": "singer2"
+      },
+      {
+        "word": "die",
+        "start": 68.96,
+        "end": 69.68,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "alone",
+        "start": 70.004,
+        "end": 70.22,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "this",
+        "start": 70.22,
+        "end": 70.9,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "way",
+        "start": 71.086,
+        "end": 71.84,
+        "stretch": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 67.68,
+    "end": 71.84
+  },
+  {
+    "text": "Read the tattoos on my face",
+    "startTime": 71.84,
+    "endTime": 75.82,
+    "words": [
+      {
+        "word": "Read",
+        "start": 71.84,
+        "end": 72.62,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 72.62,
+        "end": 73.02,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "tattoos",
+        "start": 73.37,
+        "end": 73.84,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 73.84,
+        "end": 74.4,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 74.725,
+        "end": 75.14,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "face",
+        "start": 75.14,
+        "end": 75.82,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 71.84,
+    "end": 75.82
+  },
+  {
+    "text": "I wanna die young but I get caked",
+    "startTime": 75.82,
+    "endTime": 79.88,
+    "words": [
+      {
+        "word": "I",
+        "start": 75.82,
+        "end": 76.56,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 76.8,
+        "end": 76.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "die",
+        "start": 76.96,
+        "end": 77.36,
+        "singer": "singer1"
+      },
+      {
+        "word": "young",
+        "start": 77.592,
+        "end": 77.82,
+        "singer": "singer1"
+      },
+      {
+        "word": "but",
+        "start": 77.82,
+        "end": 78.16,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 78.16,
+        "end": 78.68,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "get",
+        "start": 78.68,
+        "end": 79.14,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "caked",
+        "start": 79.465,
+        "end": 79.88,
+        "singer": "singer1"
+      }
+    ],
+    "time": 75.82,
+    "end": 79.88
+  },
+  {
+    "text": "I spit it on the drugs, they act okay",
+    "startTime": 79.88,
+    "endTime": 83.78,
+    "words": [
+      {
+        "word": "I",
+        "start": 79.88,
+        "end": 80.56,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "spit",
+        "start": 80.56,
+        "end": 80.86,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 80.86,
+        "end": 81.2,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 81.2,
+        "end": 81.32,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 81.32,
+        "end": 81.66,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "drugs,",
+        "start": 81.66,
+        "end": 82.02,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "they",
+        "start": 82.02,
+        "end": 82.46,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "act",
+        "start": 82.46,
+        "end": 82.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "okay",
+        "start": 83.17,
+        "end": 83.78,
+        "stretch": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 79.88,
+    "end": 83.78
+  },
+  {
+    "text": "I don't wanna overdose in LA",
+    "startTime": 83.78,
+    "endTime": 88.24,
+    "words": [
+      {
+        "word": "I",
+        "start": 83.826,
+        "end": 84.76,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "don't",
+        "start": 84.76,
+        "end": 85.2,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "wanna",
+        "start": 85.2,
+        "end": 85.6,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "overdose",
+        "start": 85.6,
+        "end": 86.36,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "in",
+        "start": 86.36,
+        "end": 86.84,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "LA",
+        "start": 87.19,
+        "end": 88.24,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 83.78,
+    "end": 88.24
+  },
+  {
+    "text": "Cocaine, champagne",
+    "startTime": 90.06,
+    "endTime": 92.22,
+    "words": [
+      {
+        "word": "Cocaine,",
+        "start": 90.06,
+        "end": 91.14,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "champagne",
+        "start": 91.442,
+        "end": 92.22,
+        "stretch": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 90.06,
+    "end": 92.22
+  },
+  {
+    "text": "I don't wanna overdose in LA",
+    "startTime": 92.74,
+    "endTime": 95.86,
+    "words": [
+      {
+        "word": "I",
+        "start": 92.74,
+        "end": 93.28,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 93.28,
+        "end": 93.6,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 93.6,
+        "end": 94.0,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "overdose",
+        "start": 94.302,
+        "end": 94.76,
+        "singer": "singer1"
+      },
+      {
+        "word": "in",
+        "start": 94.76,
+        "end": 95.32,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "LA",
+        "start": 95.32,
+        "end": 95.86,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 92.74,
+    "end": 95.86
+  },
+  {
+    "text": "Love game, baby, I don't wanna die today",
+    "startTime": 96.4,
+    "endTime": 100.58,
+    "words": [
+      {
+        "word": "Love",
+        "start": 96.516,
+        "end": 97.14,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "game,",
+        "start": 97.14,
+        "end": 97.54,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "baby,",
+        "start": 97.62,
+        "end": 98.16,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "I",
+        "start": 98.16,
+        "end": 98.4,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "don't",
+        "start": 98.4,
+        "end": 98.8,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "wanna",
+        "start": 98.8,
+        "end": 99.2,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "die",
+        "start": 99.2,
+        "end": 99.52,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "today",
+        "start": 99.87,
+        "end": 100.58,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 96.4,
+    "end": 100.58
+  },
+  {
+    "text": "I love when I'm getting fucked up",
+    "startTime": 100.58,
+    "endTime": 104.58,
+    "words": [
+      {
+        "word": "I",
+        "start": 100.58,
+        "end": 101.9,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "love",
+        "start": 101.9,
+        "end": 102.28,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "when",
+        "start": 102.28,
+        "end": 102.66,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 102.66,
+        "end": 103.08,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "getting",
+        "start": 103.15,
+        "end": 103.54,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fucked",
+        "start": 103.54,
+        "end": 104.04,
+        "singer": "singer1"
+      },
+      {
+        "word": "up",
+        "start": 104.364,
+        "end": 104.58,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 100.58,
+    "end": 104.58
+  },
+  {
+    "text": "I don't wanna die alone this way",
+    "startTime": 104.58,
+    "endTime": 109.06,
+    "words": [
+      {
+        "word": "I",
+        "start": 104.93,
+        "end": 105.88,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 106.012,
+        "end": 106.1,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 106.286,
+        "end": 106.56,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "die",
+        "start": 106.56,
+        "end": 107.26,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "alone",
+        "start": 107.33,
+        "end": 107.94,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "this",
+        "start": 108.126,
+        "end": 108.52,
+        "singer": "singer1"
+      },
+      {
+        "word": "way",
+        "start": 108.52,
+        "end": 109.06,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 104.58,
+    "end": 109.06
+  },
+  {
+    "text": "I don't wanna overdose today",
+    "startTime": 109.42,
+    "endTime": 112.92,
+    "words": [
+      {
+        "word": "I",
+        "start": 109.42,
+        "end": 110.18,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 110.18,
+        "end": 110.44,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 110.44,
+        "end": 110.5,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "overdose",
+        "start": 110.85,
+        "end": 111.94,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "today",
+        "start": 111.94,
+        "end": 112.92,
+        "stretch": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 109.42,
+    "end": 112.92
+  },
+  {
+    "text": "I don't wanna die alone this way",
+    "startTime": 112.92,
+    "endTime": 118.34,
+    "words": [
+      {
+        "word": "I",
+        "start": 112.92,
+        "end": 114.1,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 114.1,
+        "end": 115.66,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 115.66,
+        "end": 116.0,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "die",
+        "start": 116.0,
+        "end": 116.84,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "alone",
+        "start": 116.84,
+        "end": 117.14,
+        "singer": "singer1"
+      },
+      {
+        "word": "this",
+        "start": 117.14,
+        "end": 117.24,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "way",
+        "start": 117.24,
+        "end": 118.34,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 112.92,
+    "end": 118.34
+  },
+  {
+    "text": "I don't wanna die alone this way",
+    "startTime": 118.34,
+    "endTime": 121.78,
+    "words": [
+      {
+        "word": "I",
+        "start": 118.34,
+        "end": 118.34,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 118.34,
+        "end": 119.06,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 119.06,
+        "end": 119.06,
+        "singer": "singer1"
+      },
+      {
+        "word": "die",
+        "start": 119.06,
+        "end": 119.64,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "alone",
+        "start": 119.64,
+        "end": 120.54,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "this",
+        "start": 120.54,
+        "end": 121.0,
+        "singer": "singer1"
+      },
+      {
+        "word": "way",
+        "start": 121.0,
+        "end": 121.78,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 118.34,
+    "end": 121.78
+  },
+  {
+    "text": "You wanna stand, you wanna walk, you stand",
+    "startTime": 121.78,
+    "endTime": 126.0,
+    "words": [
+      {
+        "word": "You",
+        "start": 121.78,
+        "end": 122.38,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 122.38,
+        "end": 122.6,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "stand,",
+        "start": 122.6,
+        "end": 123.2,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 123.28,
+        "end": 123.94,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 123.94,
+        "end": 124.34,
+        "singer": "singer1"
+      },
+      {
+        "word": "walk,",
+        "start": 124.34,
+        "end": 124.7,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 125.62,
+        "end": 125.62,
+        "singer": "singer1"
+      },
+      {
+        "word": "stand",
+        "start": 125.62,
+        "end": 126.0,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 121.78,
+    "end": 126.0
+  },
+  {
+    "text": "I'm at the top of the wave, I'm feeling pain",
+    "startTime": 126.0,
+    "endTime": 129.74,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 126.0,
+        "end": 126.74,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "at",
+        "start": 126.74,
+        "end": 126.74,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 126.74,
+        "end": 126.94,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "top",
+        "start": 126.94,
+        "end": 127.24,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 127.24,
+        "end": 127.52,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 127.52,
+        "end": 127.66,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wave,",
+        "start": 127.66,
+        "end": 128.08,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 128.08,
+        "end": 128.3,
+        "singer": "singer1"
+      },
+      {
+        "word": "feeling",
+        "start": 128.3,
+        "end": 129.06,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "pain",
+        "start": 129.41,
+        "end": 129.74,
+        "stretch": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 126.0,
+    "end": 129.74
+  },
+  {
+    "text": "I swear I don't belong to the flames",
+    "startTime": 129.74,
+    "endTime": 134.58,
+    "words": [
+      {
+        "word": "I",
+        "start": 129.74,
+        "end": 130.58,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "swear",
+        "start": 130.58,
+        "end": 131.26,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 131.26,
+        "end": 131.42,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 131.42,
+        "end": 132.08,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "belong",
+        "start": 132.08,
+        "end": 132.84,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 132.84,
+        "end": 133.68,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 133.68,
+        "end": 133.96,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "flames",
+        "start": 133.96,
+        "end": 134.58,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 129.74,
+    "end": 134.58
+  },
+  {
+    "text": "●",
+    "startTime": 134.88,
+    "endTime": 142.734,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 134.88,
+    "end": 142.734
+  }
+]

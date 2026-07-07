@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-07T16:01:50.590328+00:00",
-  "totalTracks": 779,
+  "generatedAt": "2026-07-07T16:06:14.144663+00:00",
+  "totalTracks": 780,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10947,6 +10947,20 @@
       },
       "sourcePath": "https://soundcloud.com/wh1t3ph0nyfu6k/lil-peep-x-lil-tracy-backseat",
       "mtimeMs": 1783440114470
+    },
+    "gustav ahr::overdose ft lil peep & lil tracy (prod by yung cortex)": {
+      "title": "overdose ft lil peep & lil tracy (prod by yung cortex)",
+      "artist": "Gustav Ahr",
+      "originalTrackName": "Gustav Ahr - overdose ft lil peep & lil tracy (prod by yung cortex)",
+      "source": "whisper_only",
+      "file": "tracks/gustav-ahr-overdose-ft-lil-peep-lil-tracy-prod-by-yung-cortex-bcbc626c8e3e.json",
+      "files": {
+        "lyrics": "tracks/gustav-ahr-overdose-ft-lil-peep-lil-tracy-prod-by-yung-cortex-bcbc626c8e3e.json",
+        "meta": "tracks/gustav-ahr-overdose-ft-lil-peep-lil-tracy-prod-by-yung-cortex-bcbc626c8e3e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/smokeasac/overdose-ft-lil-peep-lil-tracy-prod-by-yungcortex",
+      "mtimeMs": 1783440375349
     }
   },
   "tracks": [
@@ -21911,6 +21925,20 @@
       },
       "sourcePath": "https://soundcloud.com/wh1t3ph0nyfu6k/lil-peep-x-lil-tracy-backseat",
       "mtimeMs": 1783440114470
+    },
+    {
+      "title": "overdose ft lil peep & lil tracy (prod by yung cortex)",
+      "artist": "Gustav Ahr",
+      "originalTrackName": "Gustav Ahr - overdose ft lil peep & lil tracy (prod by yung cortex)",
+      "source": "whisper_only",
+      "file": "tracks/gustav-ahr-overdose-ft-lil-peep-lil-tracy-prod-by-yung-cortex-bcbc626c8e3e.json",
+      "files": {
+        "lyrics": "tracks/gustav-ahr-overdose-ft-lil-peep-lil-tracy-prod-by-yung-cortex-bcbc626c8e3e.json",
+        "meta": "tracks/gustav-ahr-overdose-ft-lil-peep-lil-tracy-prod-by-yung-cortex-bcbc626c8e3e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/smokeasac/overdose-ft-lil-peep-lil-tracy-prod-by-yungcortex",
+      "mtimeMs": 1783440375349
     }
   ]
 }

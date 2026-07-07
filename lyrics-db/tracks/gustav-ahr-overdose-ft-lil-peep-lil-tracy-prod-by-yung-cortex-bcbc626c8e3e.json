@@ -2,7 +2,7 @@
   {
     "text": "Let's get it",
     "startTime": 0.35,
-    "endTime": 3.0,
+    "endTime": 3,
     "words": [
       {
         "word": "Let's",
@@ -21,14 +21,14 @@
       {
         "word": "it",
         "start": 2.12,
-        "end": 3.0,
+        "end": 3,
         "stretch": true,
         "whisper": true,
         "singer": "singer1"
       }
     ],
     "time": 0.35,
-    "end": 3.0
+    "end": 3
   },
   {
     "text": "●",
@@ -122,13 +122,13 @@
       {
         "word": "wanna",
         "start": 22.74,
-        "end": 23.0,
+        "end": 23,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "die",
-        "start": 23.0,
+        "start": 23,
         "end": 23.54,
         "stretch": true,
         "singer": "singer1"
@@ -606,14 +606,14 @@
       {
         "word": "I",
         "start": 63.34,
-        "end": 64.0,
+        "end": 64,
         "stretch": true,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "swear",
-        "start": 64.0,
+        "start": 64,
         "end": 64.52,
         "singer": "singer1"
       },
@@ -1011,7 +1011,7 @@
       {
         "word": "wanna",
         "start": 93.6,
-        "end": 94.0,
+        "end": 94,
         "spoken": true,
         "singer": "singer1"
       },
@@ -1293,13 +1293,13 @@
       {
         "word": "wanna",
         "start": 115.66,
-        "end": 116.0,
+        "end": 116,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "die",
-        "start": 116.0,
+        "start": 116,
         "end": 116.84,
         "stretch": true,
         "singer": "singer1"
@@ -1373,12 +1373,12 @@
       {
         "word": "this",
         "start": 120.54,
-        "end": 121.0,
+        "end": 121,
         "singer": "singer1"
       },
       {
         "word": "way",
-        "start": 121.0,
+        "start": 121,
         "end": 121.78,
         "stretch": true,
         "spoken": true,
@@ -1391,7 +1391,7 @@
   {
     "text": "You wanna stand, you wanna walk, you stand",
     "startTime": 121.78,
-    "endTime": 126.0,
+    "endTime": 126,
     "words": [
       {
         "word": "You",
@@ -1444,22 +1444,22 @@
       {
         "word": "stand",
         "start": 125.62,
-        "end": 126.0,
+        "end": 126,
         "spoken": true,
         "singer": "singer1"
       }
     ],
     "time": 121.78,
-    "end": 126.0
+    "end": 126
   },
   {
     "text": "I'm at the top of the wave, I'm feeling pain",
-    "startTime": 126.0,
+    "startTime": 126,
     "endTime": 129.74,
     "words": [
       {
         "word": "I'm",
-        "start": 126.0,
+        "start": 126,
         "end": 126.74,
         "stretch": true,
         "singer": "singer1"
@@ -1526,7 +1526,7 @@
         "singer": "singer1"
       }
     ],
-    "time": 126.0,
+    "time": 126,
     "end": 129.74
   },
   {

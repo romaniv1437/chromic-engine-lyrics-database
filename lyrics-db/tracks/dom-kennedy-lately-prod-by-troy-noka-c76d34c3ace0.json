@@ -2,191 +2,1155 @@
   {
     "text": "●",
     "startTime": 0.3,
-    "endTime": 18.94,
+    "endTime": 10.26,
     "words": [],
     "type": "vocal_cue",
     "time": 0.3,
-    "end": 18.94
+    "end": 10.26
   },
   {
-    "text": "I'm endlessly forgiving of the way I live my life",
-    "startTime": 18.94,
-    "endTime": 26.92,
+    "text": "i grew up sandwiched up between my older sister and my youngest",
+    "startTime": 10.26,
+    "endTime": 15.22,
     "words": [
       {
-        "word": "I'm",
-        "start": 18.986,
-        "end": 19.09,
+        "word": "i",
+        "start": 10.306,
+        "end": 10.92,
+        "stretch": true,
         "spoken": true
       },
       {
-        "word": "endlessly",
-        "start": 19.186,
+        "word": "grew",
+        "start": 10.99,
+        "end": 11.58,
+        "stretch": true
+      },
+      {
+        "word": "up",
+        "start": 11.719,
+        "end": 12.06,
+        "stretch": true
+      },
+      {
+        "word": "sandwiched",
+        "start": 12.06,
+        "end": 12.72
+      },
+      {
+        "word": "up",
+        "start": 12.72,
+        "end": 12.9
+      },
+      {
+        "word": "between",
+        "start": 13.086,
+        "end": 13.24,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 13.24,
+        "end": 13.56,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "older",
+        "start": 13.692,
+        "end": 13.78,
+        "spoken": true
+      },
+      {
+        "word": "sister",
+        "start": 13.78,
+        "end": 14.28,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 14.443,
+        "end": 14.68,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 14.68,
+        "end": 14.88
+      },
+      {
+        "word": "youngest",
+        "start": 14.88,
+        "end": 15.22
+      }
+    ],
+    "time": 10.26,
+    "end": 15.22
+  },
+  {
+    "text": "one danica i didn't have plans",
+    "startTime": 15.22,
+    "endTime": 17.76,
+    "words": [
+      {
+        "word": "one",
+        "start": 15.406,
+        "end": 15.58,
+        "spoken": true
+      },
+      {
+        "word": "danica",
+        "start": 15.58,
+        "end": 16.24
+      },
+      {
+        "word": "i",
+        "start": 16.449,
+        "end": 16.98,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "didn't",
+        "start": 17.166,
+        "end": 17.3
+      },
+      {
+        "word": "have",
+        "start": 17.456,
+        "end": 17.56
+      },
+      {
+        "word": "plans",
+        "start": 17.56,
+        "end": 17.76
+      }
+    ],
+    "time": 15.22,
+    "end": 17.76
+  },
+  {
+    "text": "for much just lapping up and used to confuse nice things with",
+    "startTime": 17.76,
+    "endTime": 21.2,
+    "words": [
+      {
+        "word": "for",
+        "start": 17.916,
+        "end": 18.02,
+        "spoken": true
+      },
+      {
+        "word": "much",
+        "start": 18.128,
+        "end": 18.2
+      },
+      {
+        "word": "just",
+        "start": 18.2,
+        "end": 18.5,
+        "spoken": true
+      },
+      {
+        "word": "lapping",
+        "start": 18.5,
+        "end": 18.88,
+        "spoken": true
+      },
+      {
+        "word": "up",
+        "start": 18.95,
+        "end": 19.14,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 19.14,
+        "end": 19.3,
+        "spoken": true
+      },
+      {
+        "word": "used",
+        "start": 19.3,
         "end": 19.5,
         "spoken": true
       },
       {
-        "word": "forgiving",
-        "start": 19.51,
-        "end": 21,
-        "char_starts": [
-          19.51,
-          19.568,
-          19.659,
-          19.768,
-          19.89,
-          20.023,
-          20.167,
-          20.319,
-          20.479
-        ]
+        "word": "to",
+        "start": 19.5,
+        "end": 19.72
       },
       {
-        "word": "of",
-        "start": 21.219,
-        "end": 21.691,
+        "word": "confuse",
+        "start": 19.883,
+        "end": 20.08
+      },
+      {
+        "word": "nice",
+        "start": 20.196,
+        "end": 20.46,
         "spoken": true
+      },
+      {
+        "word": "things",
+        "start": 20.553,
+        "end": 20.82
+      },
+      {
+        "word": "with",
+        "start": 20.89,
+        "end": 21.2
+      }
+    ],
+    "time": 17.76,
+    "end": 21.2
+  },
+  {
+    "text": "fancy stuff imma back in the",
+    "startTime": 21.2,
+    "endTime": 23.46,
+    "words": [
+      {
+        "word": "fancy",
+        "start": 21.246,
+        "end": 21.5,
+        "spoken": true
+      },
+      {
+        "word": "stuff",
+        "start": 21.812,
+        "end": 22.02,
+        "spoken": true
+      },
+      {
+        "word": "imma",
+        "start": 22.345,
+        "end": 22.78,
+        "stretch": true
+      },
+      {
+        "word": "back",
+        "start": 22.919,
+        "end": 23.04
+      },
+      {
+        "word": "in",
+        "start": 23.04,
+        "end": 23.3
       },
       {
         "word": "the",
         "start": 23.3,
-        "end": 23.46
-      },
+        "end": 23.46,
+        "spoken": true
+      }
+    ],
+    "time": 21.2,
+    "end": 23.46
+  },
+  {
+    "text": "nigga i'm a westside crash official la nigga money still don't make",
+    "startTime": 23.46,
+    "endTime": 29.1,
+    "words": [
       {
-        "word": "way",
-        "start": 23.577,
-        "end": 23.648
-      },
-      {
-        "word": "I",
-        "start": 23.658,
-        "end": 23.71
-      },
-      {
-        "word": "live",
-        "start": 23.72,
-        "end": 23.96
-      },
-      {
-        "word": "my",
-        "start": 23.97,
-        "end": 24.66,
+        "word": "nigga",
+        "start": 23.599,
+        "end": 23.96,
         "spoken": true
       },
       {
-        "word": "life",
-        "start": 26.44,
-        "end": 26.92
-      }
-    ],
-    "time": 18.94,
-    "end": 26.92
-  },
-  {
-    "text": "●",
-    "startTime": 27.22,
-    "endTime": 55.56,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 27.22,
-    "end": 55.56
-  },
-  {
-    "text": "I'm late to come to wisdom",
-    "startTime": 55.56,
-    "endTime": 58.1,
-    "words": [
-      {
-        "word": "I'm",
-        "start": 55.65,
-        "end": 55.71
+        "word": "i'm",
+        "start": 23.96,
+        "end": 24.66,
+        "stretch": true,
+        "spoken": true
       },
       {
-        "word": "late",
-        "start": 55.76,
-        "end": 55.91,
+        "word": "a",
+        "start": 24.66,
+        "end": 24.82,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "westside",
+        "start": 25.029,
+        "end": 25.46,
+        "spoken": true
+      },
+      {
+        "word": "crash",
+        "start": 25.628,
+        "end": 25.74,
+        "spoken": true
+      },
+      {
+        "word": "official",
+        "start": 25.74,
+        "end": 26.44
+      },
+      {
+        "word": "la",
+        "start": 26.44,
+        "end": 26.92,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "nigga",
+        "start": 27.27,
+        "end": 27.64
+      },
+      {
+        "word": "money",
+        "start": 27.892,
+        "end": 28.06
+      },
+      {
+        "word": "still",
+        "start": 28.288,
+        "end": 28.44
+      },
+      {
+        "word": "don't",
+        "start": 28.44,
+        "end": 28.78
+      },
+      {
+        "word": "make",
+        "start": 28.972,
+        "end": 29.1
+      }
+    ],
+    "time": 23.46,
+    "end": 29.1
+  },
+  {
+    "text": "me you don't want to see a nigga",
+    "startTime": 29.1,
+    "endTime": 31.12,
+    "words": [
+      {
+        "word": "me",
+        "start": 29.146,
+        "end": 29.74,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 29.74,
+        "end": 29.92,
+        "spoken": true
+      },
+      {
+        "word": "don't",
+        "start": 30.052,
+        "end": 30.14,
+        "spoken": true
+      },
+      {
+        "word": "want",
+        "start": 30.14,
+        "end": 30.32,
         "spoken": true
       },
       {
         "word": "to",
-        "start": 55.96,
-        "end": 56.11,
+        "start": 30.416,
+        "end": 30.48,
         "spoken": true
+      },
+      {
+        "word": "see",
+        "start": 30.48,
+        "end": 30.72,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 30.72,
+        "end": 30.9,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "nigga",
+        "start": 31.032,
+        "end": 31.12,
+        "spoken": true
+      }
+    ],
+    "time": 29.1,
+    "end": 31.12
+  },
+  {
+    "text": "full out all safely your girl still want to date me she",
+    "startTime": 31.12,
+    "endTime": 35.56,
+    "words": [
+      {
+        "word": "full",
+        "start": 31.166,
+        "end": 31.6,
+        "spoken": true
+      },
+      {
+        "word": "out",
+        "start": 31.792,
+        "end": 31.92,
+        "sung": true
+      },
+      {
+        "word": "all",
+        "start": 32.1,
+        "end": 32.22
+      },
+      {
+        "word": "safely",
+        "start": 32.22,
+        "end": 32.76,
+        "spoken": true
+      },
+      {
+        "word": "your",
+        "start": 32.806,
+        "end": 33.28,
+        "sung": true
+      },
+      {
+        "word": "girl",
+        "start": 33.28,
+        "end": 33.48,
+        "spoken": true
+      },
+      {
+        "word": "still",
+        "start": 33.708,
+        "end": 33.86
+      },
+      {
+        "word": "want",
+        "start": 33.86,
+        "end": 34.08
+      },
+      {
+        "word": "to",
+        "start": 34.224,
+        "end": 34.32
+      },
+      {
+        "word": "date",
+        "start": 34.44,
+        "end": 34.52
+      },
+      {
+        "word": "me",
+        "start": 34.52,
+        "end": 35.2,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "she",
+        "start": 35.416,
+        "end": 35.56,
+        "spoken": true
+      }
+    ],
+    "time": 31.12,
+    "end": 35.56
+  },
+  {
+    "text": "want to hit the mall i'm here come take me",
+    "startTime": 35.56,
+    "endTime": 38.64,
+    "words": [
+      {
+        "word": "want",
+        "start": 35.606,
+        "end": 35.8,
+        "spoken": true
+      },
+      {
+        "word": "to",
+        "start": 35.8,
+        "end": 35.96,
+        "spoken": true
+      },
+      {
+        "word": "hit",
+        "start": 35.96,
+        "end": 36.08
+      },
+      {
+        "word": "the",
+        "start": 36.26,
+        "end": 36.38
+      },
+      {
+        "word": "mall",
+        "start": 36.512,
+        "end": 36.6
+      },
+      {
+        "word": "i'm",
+        "start": 36.6,
+        "end": 36.94,
+        "stretch": true
+      },
+      {
+        "word": "here",
+        "start": 37.132,
+        "end": 37.26
       },
       {
         "word": "come",
-        "start": 56.25,
-        "end": 56.31,
+        "start": 37.26,
+        "end": 37.54
+      },
+      {
+        "word": "take",
+        "start": 37.61,
+        "end": 37.92,
         "spoken": true
       },
       {
-        "word": "to",
-        "start": 56.36,
-        "end": 56.6
+        "word": "me",
+        "start": 38.245,
+        "end": 38.64,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 35.56,
+    "end": 38.64
+  },
+  {
+    "text": "tell her just don't rape me bust a nut give a dab",
+    "startTime": 38.64,
+    "endTime": 42.02,
+    "words": [
+      {
+        "word": "tell",
+        "start": 38.71,
+        "end": 38.88
       },
       {
-        "word": "wisdom",
-        "start": 56.96,
-        "end": 58.1,
-        "char_starts": [
-          56.96,
-          56.72,
-          56.891,
-          57.096,
-          57.327,
-          57.578
-        ],
+        "word": "her",
+        "start": 38.976,
+        "end": 39.04
+      },
+      {
+        "word": "just",
+        "start": 39.208,
+        "end": 39.32
+      },
+      {
+        "word": "don't",
+        "start": 39.32,
+        "end": 39.66
+      },
+      {
+        "word": "rape",
+        "start": 39.876,
+        "end": 40.02
+      },
+      {
+        "word": "me",
+        "start": 40.02,
+        "end": 40.68,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "bust",
+        "start": 40.872,
+        "end": 41.0,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 41.0,
+        "end": 41.18,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "nut",
+        "start": 41.288,
+        "end": 41.36,
+        "spoken": true
+      },
+      {
+        "word": "give",
+        "start": 41.36,
+        "end": 41.6
+      },
+      {
+        "word": "a",
+        "start": 41.739,
+        "end": 41.84,
+        "stretch": true
+      },
+      {
+        "word": "dab",
+        "start": 41.84,
+        "end": 42.02
+      }
+    ],
+    "time": 38.64,
+    "end": 42.02
+  },
+  {
+    "text": "tell her get home safely lately lately when i roll",
+    "startTime": 42.02,
+    "endTime": 46.56,
+    "words": [
+      {
+        "word": "tell",
+        "start": 42.066,
+        "end": 42.28
+      },
+      {
+        "word": "her",
+        "start": 42.388,
+        "end": 42.46,
+        "spoken": true
+      },
+      {
+        "word": "get",
+        "start": 42.604,
+        "end": 42.7
+      },
+      {
+        "word": "home",
+        "start": 42.7,
+        "end": 43.08,
+        "sung": true
+      },
+      {
+        "word": "safely",
+        "start": 43.08,
+        "end": 43.62,
+        "spoken": true
+      },
+      {
+        "word": "lately",
+        "start": 43.759,
+        "end": 44.28,
+        "spoken": true
+      },
+      {
+        "word": "lately",
+        "start": 44.63,
+        "end": 45.7,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "when",
+        "start": 45.892,
+        "end": 46.02
+      },
+      {
+        "word": "i",
+        "start": 46.02,
+        "end": 46.32,
+        "stretch": true
+      },
+      {
+        "word": "roll",
+        "start": 46.464,
+        "end": 46.56,
         "spoken": true
       }
     ],
-    "time": 55.56,
-    "end": 58.1
+    "time": 42.02,
+    "end": 46.56
   },
   {
-    "text": "and I'm late",
-    "startTime": 62,
-    "endTime": 66.86,
+    "text": "heads turn my tops up lately lately niggas don't really want no",
+    "startTime": 46.56,
+    "endTime": 53.46,
     "words": [
       {
-        "word": "and",
-        "start": 62,
-        "end": 62.26,
+        "word": "heads",
+        "start": 46.815,
+        "end": 47.08,
         "spoken": true
       },
       {
-        "word": "I'm",
-        "start": 64.868,
-        "end": 64.94
+        "word": "turn",
+        "start": 47.344,
+        "end": 47.52,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 47.52,
+        "end": 48.0,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "tops",
+        "start": 48.139,
+        "end": 48.64,
+        "stretch": true
+      },
+      {
+        "word": "up",
+        "start": 48.64,
+        "end": 49.12,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "lately",
+        "start": 49.213,
+        "end": 50.18,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "lately",
+        "start": 50.226,
+        "end": 51.24,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "niggas",
+        "start": 51.24,
+        "end": 51.58,
+        "spoken": true
+      },
+      {
+        "word": "don't",
+        "start": 51.58,
+        "end": 52.04,
+        "spoken": true
+      },
+      {
+        "word": "really",
+        "start": 52.295,
+        "end": 52.68,
+        "spoken": true
+      },
+      {
+        "word": "want",
+        "start": 52.68,
+        "end": 52.92,
+        "spoken": true
+      },
+      {
+        "word": "no",
+        "start": 52.966,
+        "end": 53.46,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 46.56,
+    "end": 53.46
+  },
+  {
+    "text": "problems we make all the girls strip",
+    "startTime": 53.46,
+    "endTime": 56.36,
+    "words": [
+      {
+        "word": "problems",
+        "start": 53.623,
+        "end": 54.34,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "we",
+        "start": 54.34,
+        "end": 55.12,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "make",
+        "start": 55.12,
+        "end": 55.46,
+        "spoken": true
+      },
+      {
+        "word": "all",
+        "start": 55.46,
+        "end": 55.62,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 55.62,
+        "end": 55.82,
+        "spoken": true
+      },
+      {
+        "word": "girls",
+        "start": 55.82,
+        "end": 56.02,
+        "spoken": true
+      },
+      {
+        "word": "strip",
+        "start": 56.224,
+        "end": 56.36,
+        "spoken": true
+      }
+    ],
+    "time": 53.46,
+    "end": 56.36
+  },
+  {
+    "text": "at the food party summertime talking about lately talking about lately and",
+    "startTime": 56.36,
+    "endTime": 62.26,
+    "words": [
+      {
+        "word": "at",
+        "start": 56.36,
+        "end": 56.6,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 56.6,
+        "end": 56.86,
+        "spoken": true
+      },
+      {
+        "word": "food",
+        "start": 57.016,
+        "end": 57.12
+      },
+      {
+        "word": "party",
+        "start": 57.399,
+        "end": 57.9,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "summertime",
+        "start": 58.086,
+        "end": 58.8,
+        "stretch": true
+      },
+      {
+        "word": "talking",
+        "start": 59.055,
+        "end": 59.86,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "about",
+        "start": 59.992,
+        "end": 60.08
+      },
+      {
+        "word": "lately",
+        "start": 60.08,
+        "end": 60.62,
+        "spoken": true
+      },
+      {
+        "word": "talking",
+        "start": 60.62,
+        "end": 61.1
+      },
+      {
+        "word": "about",
+        "start": 61.146,
+        "end": 61.5,
+        "spoken": true
+      },
+      {
+        "word": "lately",
+        "start": 61.8,
+        "end": 62.0,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 62.0,
+        "end": 62.26,
+        "spoken": true
+      }
+    ],
+    "time": 56.36,
+    "end": 62.26
+  },
+  {
+    "text": "ripping that late lately",
+    "startTime": 62.26,
+    "endTime": 64.06,
+    "words": [
+      {
+        "word": "ripping",
+        "start": 62.416,
+        "end": 62.52
+      },
+      {
+        "word": "that",
+        "start": 62.832,
+        "end": 63.04
       },
       {
         "word": "late",
-        "start": 66.66,
-        "end": 66.86
+        "start": 63.156,
+        "end": 63.38
+      },
+      {
+        "word": "lately",
+        "start": 63.543,
+        "end": 64.06
       }
     ],
-    "time": 62,
-    "end": 66.86
+    "time": 62.26,
+    "end": 64.06
   },
   {
-    "text": "to see the light",
-    "startTime": 71.74,
-    "endTime": 77.84,
+    "text": "that's what i'm talking about i've been up but it don't mean",
+    "startTime": 64.06,
+    "endTime": 67.34,
     "words": [
+      {
+        "word": "that's",
+        "start": 64.41,
+        "end": 64.7
+      },
+      {
+        "word": "what",
+        "start": 64.7,
+        "end": 64.76
+      },
+      {
+        "word": "i'm",
+        "start": 64.868,
+        "end": 64.94,
+        "spoken": true
+      },
+      {
+        "word": "talking",
+        "start": 64.94,
+        "end": 65.22,
+        "spoken": true
+      },
+      {
+        "word": "about",
+        "start": 65.22,
+        "end": 65.72,
+        "spoken": true
+      },
+      {
+        "word": "i've",
+        "start": 65.813,
+        "end": 66.12
+      },
+      {
+        "word": "been",
+        "start": 66.192,
+        "end": 66.24
+      },
+      {
+        "word": "up",
+        "start": 66.24,
+        "end": 66.5
+      },
+      {
+        "word": "but",
+        "start": 66.5,
+        "end": 66.66
+      },
+      {
+        "word": "it",
+        "start": 66.66,
+        "end": 66.86
+      },
+      {
+        "word": "don't",
+        "start": 66.86,
+        "end": 67.1
+      },
+      {
+        "word": "mean",
+        "start": 67.244,
+        "end": 67.34
+      }
+    ],
+    "time": 64.06,
+    "end": 67.34
+  },
+  {
+    "text": "much what's the good of being on when",
+    "startTime": 67.34,
+    "endTime": 69.56,
+    "words": [
+      {
+        "word": "much",
+        "start": 67.592,
+        "end": 67.76,
+        "spoken": true
+      },
+      {
+        "word": "what's",
+        "start": 67.992,
+        "end": 68.28,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 68.28,
+        "end": 68.48
+      },
+      {
+        "word": "good",
+        "start": 68.564,
+        "end": 68.62
+      },
+      {
+        "word": "of",
+        "start": 68.62,
+        "end": 68.7
+      },
+      {
+        "word": "being",
+        "start": 68.892,
+        "end": 69.02
+      },
+      {
+        "word": "on",
+        "start": 69.02,
+        "end": 69.36,
+        "stretch": true
+      },
+      {
+        "word": "when",
+        "start": 69.36,
+        "end": 69.56
+      }
+    ],
+    "time": 67.34,
+    "end": 69.56
+  },
+  {
+    "text": "your whole fucking team stuck i'm trying to help lift their dreams",
+    "startTime": 69.56,
+    "endTime": 72.86,
+    "words": [
+      {
+        "word": "your",
+        "start": 69.56,
+        "end": 69.78,
+        "spoken": true
+      },
+      {
+        "word": "whole",
+        "start": 69.912,
+        "end": 70.0,
+        "spoken": true
+      },
+      {
+        "word": "fucking",
+        "start": 70.0,
+        "end": 70.34
+      },
+      {
+        "word": "team",
+        "start": 70.34,
+        "end": 70.72,
+        "spoken": true
+      },
+      {
+        "word": "stuck",
+        "start": 70.936,
+        "end": 71.08
+      },
+      {
+        "word": "i'm",
+        "start": 71.08,
+        "end": 71.46,
+        "stretch": true
+      },
+      {
+        "word": "trying",
+        "start": 71.628,
+        "end": 71.74
+      },
       {
         "word": "to",
         "start": 71.74,
         "end": 71.98
       },
       {
-        "word": "see",
-        "start": 71.99,
-        "end": 73.48,
-        "char_starts": [
-          71.99,
-          72.275,
-          72.854
-        ],
+        "word": "help",
+        "start": 71.98,
+        "end": 72.12
+      },
+      {
+        "word": "lift",
+        "start": 72.12,
+        "end": 72.26
+      },
+      {
+        "word": "their",
+        "start": 72.26,
+        "end": 72.54
+      },
+      {
+        "word": "dreams",
+        "start": 72.703,
+        "end": 72.86,
         "spoken": true
+      }
+    ],
+    "time": 69.56,
+    "end": 72.86
+  },
+  {
+    "text": "up i'm not happy in the playoffs",
+    "startTime": 72.86,
+    "endTime": 74.92,
+    "words": [
+      {
+        "word": "up",
+        "start": 72.86,
+        "end": 73.18,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "i'm",
+        "start": 73.432,
+        "end": 73.6,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "not",
+        "start": 73.756,
+        "end": 73.86,
+        "sung": true
+      },
+      {
+        "word": "happy",
+        "start": 74.052,
+        "end": 74.18,
+        "spoken": true
+      },
+      {
+        "word": "in",
+        "start": 74.18,
+        "end": 74.38
       },
       {
         "word": "the",
@@ -194,717 +1158,1513 @@
         "end": 74.56
       },
       {
-        "word": "light",
-        "start": 77.52,
-        "end": 77.84
+        "word": "playoffs",
+        "start": 74.746,
+        "end": 74.92
       }
     ],
-    "time": 71.74,
-    "end": 77.84
+    "time": 72.86,
+    "end": 74.92
   },
   {
-    "text": "I asked you for your favourite song, you played it to me twice",
-    "startTime": 81.68,
-    "endTime": 83.88,
+    "text": "i'm trying to pick some wings up when life's hard get harder",
+    "startTime": 74.92,
+    "endTime": 78.14,
     "words": [
       {
-        "word": "I",
-        "start": 81.773,
-        "end": 82.56,
-        "sung": true
+        "word": "i'm",
+        "start": 74.92,
+        "end": 75.16
       },
       {
-        "word": "asked",
-        "start": 82.616,
-        "end": 82.86,
-        "spoken": true
-      },
-      {
-        "word": "you",
-        "start": 82.87,
-        "end": 82.91
-      },
-      {
-        "word": "for",
-        "start": 82.92,
-        "end": 82.96
-      },
-      {
-        "word": "your",
-        "start": 82.97,
-        "end": 83.01
-      },
-      {
-        "word": "favourite",
-        "start": 83.02,
-        "end": 83.06
-      },
-      {
-        "word": "song,",
-        "start": 83.07,
-        "end": 83.11
-      },
-      {
-        "word": "you",
-        "start": 83.12,
-        "end": 83.16
-      },
-      {
-        "word": "played",
-        "start": 83.17,
-        "end": 83.21
-      },
-      {
-        "word": "it",
-        "start": 83.22,
-        "end": 83.32
+        "word": "trying",
+        "start": 75.316,
+        "end": 75.42
       },
       {
         "word": "to",
-        "start": 83.33,
-        "end": 83.48
+        "start": 75.466,
+        "end": 75.64
       },
       {
-        "word": "me",
-        "start": 83.53,
-        "end": 83.68,
-        "char_starts": [
-          86.73,
-          87.698
-        ]
+        "word": "pick",
+        "start": 75.64,
+        "end": 75.68
       },
       {
-        "word": "twice",
-        "start": 83.73,
-        "end": 83.88
+        "word": "some",
+        "start": 75.824,
+        "end": 75.92
+      },
+      {
+        "word": "wings",
+        "start": 75.92,
+        "end": 76.24,
+        "spoken": true
+      },
+      {
+        "word": "up",
+        "start": 76.456,
+        "end": 76.6,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "when",
+        "start": 76.6,
+        "end": 76.9
+      },
+      {
+        "word": "life's",
+        "start": 77.164,
+        "end": 77.34,
+        "spoken": true
+      },
+      {
+        "word": "hard",
+        "start": 77.448,
+        "end": 77.52,
+        "sung": true
+      },
+      {
+        "word": "get",
+        "start": 77.52,
+        "end": 77.84
+      },
+      {
+        "word": "harder",
+        "start": 77.886,
+        "end": 78.14,
+        "spoken": true
       }
     ],
-    "time": 81.68,
-    "end": 83.88
+    "time": 74.92,
+    "end": 78.14
   },
   {
-    "text": "●",
-    "startTime": 84.18,
-    "endTime": 90.9,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 84.18,
-    "end": 90.9
-  },
-  {
-    "text": "I knew the words by",
-    "startTime": 90.9,
-    "endTime": 98.4,
+    "text": "think big think smarter be a boy be a",
+    "startTime": 78.14,
+    "endTime": 80.66,
     "words": [
       {
-        "word": "I",
-        "start": 91.02,
-        "end": 91.1
+        "word": "think",
+        "start": 78.14,
+        "end": 78.54,
+        "spoken": true
       },
       {
-        "word": "knew",
+        "word": "big",
+        "start": 78.54,
+        "end": 78.88,
+        "spoken": true
+      },
+      {
+        "word": "think",
+        "start": 79.048,
+        "end": 79.16,
+        "spoken": true
+      },
+      {
+        "word": "smarter",
+        "start": 79.23,
+        "end": 79.54
+      },
+      {
+        "word": "be",
+        "start": 79.54,
+        "end": 79.82
+      },
+      {
+        "word": "a",
+        "start": 79.82,
+        "end": 80.06,
+        "stretch": true
+      },
+      {
+        "word": "boy",
+        "start": 80.168,
+        "end": 80.24
+      },
+      {
+        "word": "be",
+        "start": 80.24,
+        "end": 80.5
+      },
+      {
+        "word": "a",
+        "start": 80.5,
+        "end": 80.66,
+        "stretch": true
+      }
+    ],
+    "time": 78.14,
+    "end": 80.66
+  },
+  {
+    "text": "man be a martyr i used to catch a game with my",
+    "startTime": 80.66,
+    "endTime": 84.08,
+    "words": [
+      {
+        "word": "man",
+        "start": 80.792,
+        "end": 80.88
+      },
+      {
+        "word": "be",
+        "start": 80.926,
+        "end": 81.18,
+        "stretch": true
+      },
+      {
+        "word": "a",
+        "start": 81.18,
+        "end": 81.4,
+        "stretch": true
+      },
+      {
+        "word": "martyr",
+        "start": 81.4,
+        "end": 81.68,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 81.796,
+        "end": 82.56,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "used",
+        "start": 82.63,
+        "end": 82.86
+      },
+      {
+        "word": "to",
+        "start": 82.968,
+        "end": 83.04,
+        "spoken": true
+      },
+      {
+        "word": "catch",
+        "start": 83.04,
+        "end": 83.26
+      },
+      {
+        "word": "a",
+        "start": 83.392,
+        "end": 83.48,
+        "stretch": true
+      },
+      {
+        "word": "game",
+        "start": 83.576,
+        "end": 83.64
+      },
+      {
+        "word": "with",
+        "start": 83.64,
+        "end": 83.82
+      },
+      {
+        "word": "my",
+        "start": 83.976,
+        "end": 84.08
+      }
+    ],
+    "time": 80.66,
+    "end": 84.08
+  },
+  {
+    "text": "father and i catch planes to chicago a nigga felt",
+    "startTime": 84.08,
+    "endTime": 88.64,
+    "words": [
+      {
+        "word": "father",
+        "start": 84.08,
+        "end": 84.44,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 84.626,
+        "end": 85.38,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "i",
+        "start": 85.38,
+        "end": 85.68,
+        "stretch": true
+      },
+      {
+        "word": "catch",
+        "start": 85.68,
+        "end": 86.02
+      },
+      {
+        "word": "planes",
+        "start": 86.236,
+        "end": 86.38
+      },
+      {
+        "word": "to",
+        "start": 86.38,
+        "end": 86.72,
+        "stretch": true
+      },
+      {
+        "word": "chicago",
+        "start": 86.72,
+        "end": 87.8,
+        "stretch": true
+      },
+      {
+        "word": "a",
+        "start": 88.028,
+        "end": 88.18,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "nigga",
+        "start": 88.18,
+        "end": 88.34
+      },
+      {
+        "word": "felt",
+        "start": 88.386,
+        "end": 88.64
+      }
+    ],
+    "time": 84.08,
+    "end": 88.64
+  },
+  {
+    "text": "the pain at the bottom and i chopped game up in harlem",
+    "startTime": 88.64,
+    "endTime": 93.28,
+    "words": [
+      {
+        "word": "the",
+        "start": 88.772,
+        "end": 88.86,
+        "spoken": true
+      },
+      {
+        "word": "pain",
+        "start": 89.016,
+        "end": 89.12,
+        "sung": true
+      },
+      {
+        "word": "at",
+        "start": 89.12,
+        "end": 89.32,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 89.436,
+        "end": 89.58,
+        "spoken": true
+      },
+      {
+        "word": "bottom",
+        "start": 89.58,
+        "end": 89.92,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 90.083,
+        "end": 90.9,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "i",
+        "start": 90.9,
+        "end": 91.1,
+        "stretch": true
+      },
+      {
+        "word": "chopped",
+        "start": 91.1,
+        "end": 91.48
+      },
+      {
+        "word": "game",
+        "start": 91.708,
+        "end": 91.86
+      },
+      {
+        "word": "up",
+        "start": 91.86,
+        "end": 92.12
+      },
+      {
+        "word": "in",
         "start": 92.12,
         "end": 92.28
       },
       {
+        "word": "harlem",
+        "start": 92.28,
+        "end": 93.28,
+        "stretch": true
+      }
+    ],
+    "time": 88.64,
+    "end": 93.28
+  },
+  {
+    "text": "two gold chains was the problem a nigga",
+    "startTime": 93.28,
+    "endTime": 96.58,
+    "words": [
+      {
+        "word": "two",
+        "start": 93.535,
+        "end": 93.94,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "gold",
+        "start": 93.94,
+        "end": 94.26
+      },
+      {
+        "word": "chains",
+        "start": 94.452,
+        "end": 94.58
+      },
+      {
+        "word": "was",
+        "start": 94.58,
+        "end": 94.8,
+        "spoken": true
+      },
+      {
         "word": "the",
-        "start": 94.939,
+        "start": 94.916,
         "end": 95.04,
         "sung": true
       },
       {
-        "word": "words",
-        "start": 96.58,
+        "word": "problem",
+        "start": 95.04,
+        "end": 95.4,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 95.539,
+        "end": 96.32,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "nigga",
+        "start": 96.32,
+        "end": 96.58
+      }
+    ],
+    "time": 93.28,
+    "end": 96.58
+  },
+  {
+    "text": "worked hard so i got them yeah them joints go hard so",
+    "startTime": 96.58,
+    "endTime": 100.24,
+    "words": [
+      {
+        "word": "worked",
+        "start": 96.626,
         "end": 96.9,
         "spoken": true
       },
       {
-        "word": "by",
-        "start": 97.258,
-        "end": 98.4,
-        "char_starts": [
-          97.258,
-          97.879
-        ],
-        "sung": true,
-        "stretch": true
+        "word": "hard",
+        "start": 97.14,
+        "end": 97.3,
+        "sung": true
+      },
+      {
+        "word": "so",
+        "start": 97.3,
+        "end": 97.6
+      },
+      {
+        "word": "i",
+        "start": 97.6,
+        "end": 97.72,
+        "spoken": true
+      },
+      {
+        "word": "got",
+        "start": 97.72,
+        "end": 97.86,
+        "sung": true
+      },
+      {
+        "word": "them",
+        "start": 98.004,
+        "end": 98.1,
+        "spoken": true
+      },
+      {
+        "word": "yeah",
+        "start": 98.239,
+        "end": 98.8,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "them",
+        "start": 98.944,
+        "end": 99.04
+      },
+      {
+        "word": "joints",
+        "start": 99.22,
+        "end": 99.34
+      },
+      {
+        "word": "go",
+        "start": 99.34,
+        "end": 99.7,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "hard",
+        "start": 99.892,
+        "end": 100.02,
+        "sung": true
+      },
+      {
+        "word": "so",
+        "start": 100.02,
+        "end": 100.24
       }
     ],
-    "time": 90.9,
-    "end": 98.4
+    "time": 96.58,
+    "end": 100.24
   },
   {
-    "text": "●",
-    "startTime": 98.7,
-    "endTime": 118.38,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 98.7,
-    "end": 118.38
-  },
-  {
-    "text": "the",
-    "startTime": 118.38,
-    "endTime": 118.88,
+    "text": "i got them that nigga seen mine then he got",
+    "startTime": 100.24,
+    "endTime": 103.38,
     "words": [
+      {
+        "word": "i",
+        "start": 100.324,
+        "end": 100.38,
+        "spoken": true
+      },
+      {
+        "word": "got",
+        "start": 100.38,
+        "end": 100.66,
+        "spoken": true
+      },
+      {
+        "word": "them",
+        "start": 100.66,
+        "end": 100.9,
+        "spoken": true
+      },
+      {
+        "word": "that",
+        "start": 100.993,
+        "end": 101.74,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "nigga",
+        "start": 101.74,
+        "end": 102.04,
+        "spoken": true
+      },
+      {
+        "word": "seen",
+        "start": 102.04,
+        "end": 102.44,
+        "spoken": true
+      },
+      {
+        "word": "mine",
+        "start": 102.632,
+        "end": 102.76,
+        "sung": true
+      },
+      {
+        "word": "then",
+        "start": 102.76,
+        "end": 102.94
+      },
+      {
+        "word": "he",
+        "start": 103.079,
+        "end": 103.2
+      },
+      {
+        "word": "got",
+        "start": 103.2,
+        "end": 103.38
+      }
+    ],
+    "time": 100.24,
+    "end": 103.38
+  },
+  {
+    "text": "them so in us we trust hoes damn she's up spend money",
+    "startTime": 103.38,
+    "endTime": 110.48,
+    "words": [
+      {
+        "word": "them",
+        "start": 103.38,
+        "end": 103.58,
+        "spoken": true
+      },
+      {
+        "word": "so",
+        "start": 103.719,
+        "end": 103.86,
+        "sung": true
+      },
+      {
+        "word": "in",
+        "start": 103.86,
+        "end": 104.34,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "us",
+        "start": 104.456,
+        "end": 105.02,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "we",
+        "start": 105.37,
+        "end": 105.78,
+        "stretch": true
+      },
+      {
+        "word": "trust",
+        "start": 105.78,
+        "end": 106.28,
+        "spoken": true
+      },
+      {
+        "word": "hoes",
+        "start": 106.466,
+        "end": 107.2,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "damn",
+        "start": 107.2,
+        "end": 107.72,
+        "spoken": true
+      },
+      {
+        "word": "she's",
+        "start": 108.07,
+        "end": 108.62,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "up",
+        "start": 108.62,
+        "end": 109.04,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "spend",
+        "start": 109.04,
+        "end": 109.56,
+        "sung": true
+      },
+      {
+        "word": "money",
+        "start": 109.91,
+        "end": 110.48,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 103.38,
+    "end": 110.48
+  },
+  {
+    "text": "read up school days free lunch never quit",
+    "startTime": 110.48,
+    "endTime": 115.72,
+    "words": [
+      {
+        "word": "read",
+        "start": 110.83,
+        "end": 111.32,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "up",
+        "start": 111.436,
+        "end": 111.82,
+        "stretch": true
+      },
+      {
+        "word": "school",
+        "start": 111.936,
+        "end": 112.48
+      },
+      {
+        "word": "days",
+        "start": 112.83,
+        "end": 113.16,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "free",
+        "start": 113.51,
+        "end": 113.94,
+        "stretch": true
+      },
+      {
+        "word": "lunch",
+        "start": 113.94,
+        "end": 114.34
+      },
+      {
+        "word": "never",
+        "start": 114.665,
+        "end": 115.24,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "quit",
+        "start": 115.24,
+        "end": 115.72,
+        "spoken": true
+      }
+    ],
+    "time": 110.48,
+    "end": 115.72
+  },
+  {
+    "text": "keep up got it with the weed once sky high reach up",
+    "startTime": 115.72,
+    "endTime": 122.8,
+    "words": [
+      {
+        "word": "keep",
+        "start": 116.07,
+        "end": 116.64,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "up",
+        "start": 116.686,
+        "end": 117.44,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "got",
+        "start": 117.44,
+        "end": 117.7,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 117.7,
+        "end": 118.16,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "with",
+        "start": 118.16,
+        "end": 118.38,
+        "spoken": true
+      },
       {
         "word": "the",
         "start": 118.38,
         "end": 118.88,
-        "char_starts": [
-          118.38,
-          118.495,
-          118.73
-        ],
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "weed",
+        "start": 119.089,
+        "end": 119.48,
+        "stretch": true
+      },
+      {
+        "word": "once",
+        "start": 119.48,
+        "end": 119.84,
+        "spoken": true
+      },
+      {
+        "word": "sky",
+        "start": 120.119,
+        "end": 120.54,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "high",
+        "start": 120.89,
+        "end": 121.52,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "reach",
+        "start": 121.799,
+        "end": 122.04
+      },
+      {
+        "word": "up",
+        "start": 122.156,
+        "end": 122.8,
+        "stretch": true,
         "spoken": true
       }
     ],
-    "time": 118.38,
-    "end": 118.88
+    "time": 115.72,
+    "end": 122.8
   },
   {
-    "text": "time you",
-    "startTime": 123.56,
-    "endTime": 125.34,
+    "text": "we don't like police much one nation teach us",
+    "startTime": 122.8,
+    "endTime": 128.18,
     "words": [
       {
-        "word": "time",
-        "start": 123.728,
+        "word": "we",
+        "start": 122.8,
+        "end": 123.12,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "don't",
+        "start": 123.19,
+        "end": 123.56,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 123.56,
         "end": 123.84,
         "spoken": true
       },
       {
-        "word": "you",
-        "start": 123.85,
-        "end": 125.34,
-        "char_starts": [
-          123.85,
-          124.169,
-          124.819
-        ]
-      }
-    ],
-    "time": 123.56,
-    "end": 125.34
-  },
-  {
-    "text": "●",
-    "startTime": 125.64,
-    "endTime": 133.64,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 125.64,
-    "end": 133.64
-  },
-  {
-    "text": "dropped me home",
-    "startTime": 133.64,
-    "endTime": 135.42,
-    "words": [
-      {
-        "word": "dropped",
-        "start": 133.733,
-        "end": 134.4,
-        "char_starts": [
-          133.733,
-          133.693,
-          133.775,
-          133.873,
-          133.983,
-          134.103,
-          134.233
-        ],
-        "spoken": true
+        "word": "police",
+        "start": 123.84,
+        "end": 124.54
       },
       {
-        "word": "me",
-        "start": 134.78,
-        "end": 135.26,
-        "spoken": true
-      },
-      {
-        "word": "home",
-        "start": 135.27,
-        "end": 135.42,
-        "char_starts": [
-          166.46,
-          166.552,
-          166.738,
-          166.992
-        ],
-        "spoken": true
-      }
-    ],
-    "time": 133.64,
-    "end": 135.42
-  },
-  {
-    "text": "●",
-    "startTime": 135.72,
-    "endTime": 186.56,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 135.72,
-    "end": 186.56
-  },
-  {
-    "text": "Now those memories",
-    "startTime": 186.56,
-    "endTime": 189.76,
-    "words": [
-      {
-        "word": "Now",
-        "start": 186.56,
-        "end": 186.71,
-        "char_starts": [
-          167.23,
-          167.61,
-          168.198
-        ],
-        "spoken": true
-      },
-      {
-        "word": "those",
-        "start": 186.992,
-        "end": 188.26,
-        "char_starts": [
-          186.992,
-          186.866,
-          187.082,
-          187.375,
-          187.735
-        ],
-        "sung": true,
+        "word": "much",
+        "start": 124.54,
+        "end": 125.46,
         "stretch": true
       },
       {
-        "word": "memories",
-        "start": 188.316,
-        "end": 189.76,
-        "char_starts": [
-          188.316,
-          188.34,
-          188.448,
-          188.579,
-          188.725,
-          188.885,
-          189.057,
-          189.238
-        ],
+        "word": "one",
+        "start": 125.46,
+        "end": 126.2,
+        "stretch": true
+      },
+      {
+        "word": "nation",
+        "start": 126.548,
+        "end": 126.78
+      },
+      {
+        "word": "teach",
+        "start": 127.13,
+        "end": 127.48,
+        "spoken": true
+      },
+      {
+        "word": "us",
+        "start": 127.619,
+        "end": 128.18,
+        "stretch": true,
         "spoken": true
       }
     ],
-    "time": 186.56,
-    "end": 189.76
+    "time": 122.8,
+    "end": 128.18
   },
   {
-    "text": "●",
-    "startTime": 190.06,
+    "text": "god bless peace up lately lately when i roll up heads turn",
+    "startTime": 128.18,
+    "endTime": 134.78,
+    "words": [
+      {
+        "word": "god",
+        "start": 128.273,
+        "end": 128.84,
+        "stretch": true
+      },
+      {
+        "word": "bless",
+        "start": 129.19,
+        "end": 129.44,
+        "spoken": true
+      },
+      {
+        "word": "peace",
+        "start": 129.79,
+        "end": 130.34,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "up",
+        "start": 130.34,
+        "end": 130.8,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "lately",
+        "start": 131.009,
+        "end": 131.4
+      },
+      {
+        "word": "lately",
+        "start": 131.75,
+        "end": 133.0,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "when",
+        "start": 133.192,
+        "end": 133.32
+      },
+      {
+        "word": "i",
+        "start": 133.32,
+        "end": 133.64,
+        "stretch": true
+      },
+      {
+        "word": "roll",
+        "start": 133.64,
+        "end": 133.82,
+        "spoken": true
+      },
+      {
+        "word": "up",
+        "start": 133.82,
+        "end": 134.14,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "heads",
+        "start": 134.14,
+        "end": 134.4,
+        "spoken": true
+      },
+      {
+        "word": "turn",
+        "start": 134.4,
+        "end": 134.78,
+        "spoken": true
+      }
+    ],
+    "time": 128.18,
+    "end": 134.78
+  },
+  {
+    "text": "my tops up lately lately niggas don't",
+    "startTime": 134.78,
+    "endTime": 139.32,
+    "words": [
+      {
+        "word": "my",
+        "start": 134.826,
+        "end": 135.26,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "tops",
+        "start": 135.469,
+        "end": 135.96,
+        "stretch": true
+      },
+      {
+        "word": "up",
+        "start": 135.96,
+        "end": 136.44,
+        "stretch": true
+      },
+      {
+        "word": "lately",
+        "start": 136.44,
+        "end": 137.12,
+        "sung": true
+      },
+      {
+        "word": "lately",
+        "start": 137.47,
+        "end": 138.5,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "niggas",
+        "start": 138.5,
+        "end": 138.86,
+        "spoken": true
+      },
+      {
+        "word": "don't",
+        "start": 139.136,
+        "end": 139.32,
+        "spoken": true
+      }
+    ],
+    "time": 134.78,
+    "end": 139.32
+  },
+  {
+    "text": "really want no problem",
+    "startTime": 139.32,
+    "endTime": 141.52,
+    "words": [
+      {
+        "word": "really",
+        "start": 139.529,
+        "end": 139.74,
+        "spoken": true
+      },
+      {
+        "word": "want",
+        "start": 139.903,
+        "end": 140.22,
+        "spoken": true
+      },
+      {
+        "word": "no",
+        "start": 140.22,
+        "end": 140.76,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "problem",
+        "start": 140.946,
+        "end": 141.52,
+        "spoken": true
+      }
+    ],
+    "time": 139.32,
+    "end": 141.52
+  },
+  {
+    "text": "in us we trust hoes damn",
+    "startTime": 141.52,
+    "endTime": 167.72,
+    "words": [
+      {
+        "word": "in",
+        "start": 141.87,
+        "end": 142.58,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "us",
+        "start": 142.58,
+        "end": 164.84,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "we",
+        "start": 165.188,
+        "end": 165.84,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "trust",
+        "start": 165.84,
+        "end": 166.46,
+        "spoken": true
+      },
+      {
+        "word": "hoes",
+        "start": 166.506,
+        "end": 167.22,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "damn",
+        "start": 167.22,
+        "end": 167.72,
+        "spoken": true
+      }
+    ],
+    "time": 141.52,
+    "end": 167.72
+  },
+  {
+    "text": "up spend money read up school days free lunch never quit keep",
+    "startTime": 168.24,
+    "endTime": 176.8,
+    "words": [
+      {
+        "word": "up",
+        "start": 168.519,
+        "end": 168.88,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "spend",
+        "start": 169.23,
+        "end": 169.58,
+        "spoken": true
+      },
+      {
+        "word": "money",
+        "start": 169.882,
+        "end": 170.48,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "read",
+        "start": 170.596,
+        "end": 171.1,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "up",
+        "start": 171.263,
+        "end": 171.88,
+        "stretch": true
+      },
+      {
+        "word": "school",
+        "start": 171.95,
+        "end": 172.56,
+        "sung": true
+      },
+      {
+        "word": "days",
+        "start": 172.63,
+        "end": 173.1
+      },
+      {
+        "word": "free",
+        "start": 173.402,
+        "end": 173.94,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "lunch",
+        "start": 173.986,
+        "end": 174.38
+      },
+      {
+        "word": "never",
+        "start": 174.659,
+        "end": 175.26,
+        "stretch": true
+      },
+      {
+        "word": "quit",
+        "start": 175.376,
+        "end": 175.92,
+        "stretch": true
+      },
+      {
+        "word": "keep",
+        "start": 176.083,
+        "end": 176.8,
+        "stretch": true
+      }
+    ],
+    "time": 168.24,
+    "end": 176.8
+  },
+  {
+    "text": "up gotta hit the weed once sky high",
+    "startTime": 176.8,
+    "endTime": 181.38,
+    "words": [
+      {
+        "word": "up",
+        "start": 176.8,
+        "end": 177.4,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "gotta",
+        "start": 177.446,
+        "end": 177.92,
+        "sung": true
+      },
+      {
+        "word": "hit",
+        "start": 178.083,
+        "end": 178.38,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 178.668,
+        "end": 178.86,
+        "stretch": true
+      },
+      {
+        "word": "weed",
+        "start": 178.86,
+        "end": 179.48,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "once",
+        "start": 179.48,
+        "end": 179.92
+      },
+      {
+        "word": "sky",
+        "start": 180.152,
+        "end": 180.56,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "high",
+        "start": 180.815,
+        "end": 181.38,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 176.8,
+    "end": 181.38
+  },
+  {
+    "text": "reach up we don't like police much one nation teach us god",
+    "startTime": 181.38,
+    "endTime": 188.98,
+    "words": [
+      {
+        "word": "reach",
+        "start": 181.496,
+        "end": 181.98,
+        "spoken": true
+      },
+      {
+        "word": "up",
+        "start": 182.166,
+        "end": 182.8,
+        "stretch": true
+      },
+      {
+        "word": "we",
+        "start": 182.8,
+        "end": 183.14,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "don't",
+        "start": 183.14,
+        "end": 183.48,
+        "sung": true
+      },
+      {
+        "word": "like",
+        "start": 183.526,
+        "end": 183.88
+      },
+      {
+        "word": "police",
+        "start": 183.88,
+        "end": 184.6,
+        "spoken": true
+      },
+      {
+        "word": "much",
+        "start": 184.855,
+        "end": 185.24,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "one",
+        "start": 185.588,
+        "end": 186.2,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "nation",
+        "start": 186.246,
+        "end": 186.76
+      },
+      {
+        "word": "teach",
+        "start": 186.969,
+        "end": 187.52,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "us",
+        "start": 187.613,
+        "end": 188.26,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "god",
+        "start": 188.33,
+        "end": 188.98,
+        "stretch": true
+      }
+    ],
+    "time": 181.38,
+    "end": 188.98
+  },
+  {
+    "text": "bless peace up",
+    "startTime": 188.98,
+    "endTime": 190.84,
+    "words": [
+      {
+        "word": "bless",
+        "start": 189.026,
+        "end": 189.5
+      },
+      {
+        "word": "peace",
+        "start": 189.85,
+        "end": 190.44,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "up",
+        "start": 190.44,
+        "end": 190.84,
+        "stretch": true
+      }
+    ],
+    "time": 188.98,
+    "end": 190.84
+  },
+  {
+    "text": "up",
+    "startTime": 193.98,
     "endTime": 194.96,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 190.06,
+    "words": [
+      {
+        "word": "up",
+        "start": 194.33,
+        "end": 194.96,
+        "stretch": true,
+        "whisper": true
+      }
+    ],
+    "time": 193.98,
     "end": 194.96
   },
   {
-    "text": "are",
+    "text": "put your peace",
     "startTime": 194.96,
-    "endTime": 195.24,
+    "endTime": 195.48,
     "words": [
       {
-        "word": "are",
+        "word": "put",
+        "start": 194.96,
+        "end": 194.96
+      },
+      {
+        "word": "your",
         "start": 195.128,
-        "end": 195.24
+        "end": 195.24,
+        "spoken": true
+      },
+      {
+        "word": "peace",
+        "start": 195.24,
+        "end": 195.48,
+        "spoken": true
       }
     ],
     "time": 194.96,
-    "end": 195.24
+    "end": 195.48
   },
   {
-    "text": "distant but those memories are nice",
-    "startTime": 199.68,
-    "endTime": 200.53,
+    "text": "lately when i roll up heads turn my tops up lately lately",
+    "startTime": 195.48,
+    "endTime": 204.0,
     "words": [
       {
-        "word": "distant",
-        "start": 200.03,
+        "word": "lately",
+        "start": 195.83,
+        "end": 196.52,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "when",
+        "start": 196.52,
+        "end": 198.72,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 198.72,
+        "end": 199.36,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "roll",
+        "start": 199.36,
+        "end": 199.36
+      },
+      {
+        "word": "up",
+        "start": 199.36,
+        "end": 199.68,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "heads",
+        "start": 199.68,
+        "end": 199.9,
+        "spoken": true
+      },
+      {
+        "word": "turn",
+        "start": 200.128,
         "end": 200.28,
         "spoken": true
       },
       {
-        "word": "but",
-        "start": 200.29,
-        "end": 200.33
-      },
-      {
-        "word": "those",
-        "start": 200.34,
-        "end": 200.38
-      },
-      {
-        "word": "memories",
-        "start": 200.39,
-        "end": 200.43
-      },
-      {
-        "word": "are",
-        "start": 200.44,
-        "end": 200.48
-      },
-      {
-        "word": "nice",
-        "start": 200.49,
-        "end": 200.53
-      }
-    ],
-    "time": 199.68,
-    "end": 200.53
-  },
-  {
-    "text": "Sustained me for a minute but I'm running out of time",
-    "startTime": 200.54,
-    "endTime": 204.51,
-    "words": [
-      {
-        "word": "Sustained",
-        "start": 200.54,
-        "end": 200.58
-      },
-      {
-        "word": "me",
-        "start": 200.59,
+        "word": "my",
+        "start": 200.28,
         "end": 200.74,
+        "stretch": true,
         "spoken": true
       },
       {
-        "word": "for",
-        "start": 200.889,
-        "end": 201.351,
-        "char_starts": [
-          200.889,
-          200.934,
-          201.219
-        ]
+        "word": "tops",
+        "start": 200.903,
+        "end": 201.36,
+        "stretch": true
       },
       {
-        "word": "a",
-        "start": 201.361,
-        "end": 201.555,
+        "word": "up",
+        "start": 201.36,
+        "end": 201.9,
+        "stretch": true,
         "whisper": true
       },
       {
-        "word": "minute",
-        "start": 201.915,
-        "end": 202.778,
-        "char_starts": [
-          201.915,
-          201.625,
-          201.747,
-          201.913,
-          202.117,
-          202.353
-        ],
+        "word": "lately",
+        "start": 201.946,
+        "end": 203.82,
+        "stretch": true,
         "whisper": true
       },
       {
-        "word": "but",
-        "start": 202.788,
-        "end": 203.389,
-        "char_starts": [
-          202.788,
-          202.972,
-          203.257
-        ],
+        "word": "lately",
+        "start": 203.82,
+        "end": 204.0,
         "whisper": true
-      },
+      }
+    ],
+    "time": 195.48,
+    "end": 204.0
+  },
+  {
+    "text": "niggas don't really want no problem",
+    "startTime": 204.0,
+    "endTime": 206.86,
+    "words": [
       {
-        "word": "I'm",
-        "start": 203.399,
-        "end": 204,
-        "whisper": true
-      },
-      {
-        "word": "running",
-        "start": 204.01,
+        "word": "niggas",
+        "start": 204.0,
         "end": 204.36,
         "whisper": true
       },
       {
-        "word": "out",
-        "start": 204.37,
-        "end": 204.41
-      },
-      {
-        "word": "of",
-        "start": 204.42,
-        "end": 204.46
-      },
-      {
-        "word": "time",
-        "start": 204.47,
-        "end": 204.51
-      }
-    ],
-    "time": 200.54,
-    "end": 204.51
-  },
-  {
-    "text": "I'm worried about the losses and the love I've left behind",
-    "startTime": 204.52,
-    "endTime": 205.06,
-    "words": [
-      {
-        "word": "I'm",
-        "start": 204.52,
-        "end": 204.56
-      },
-      {
-        "word": "worried",
-        "start": 204.57,
-        "end": 204.61
-      },
-      {
-        "word": "about",
-        "start": 204.62,
-        "end": 204.66
-      },
-      {
-        "word": "the",
-        "start": 204.67,
-        "end": 204.71
-      },
-      {
-        "word": "losses",
-        "start": 204.72,
-        "end": 204.76
-      },
-      {
-        "word": "and",
-        "start": 204.77,
-        "end": 204.81
-      },
-      {
-        "word": "the",
-        "start": 204.82,
-        "end": 204.86
-      },
-      {
-        "word": "love",
-        "start": 204.87,
-        "end": 204.91
-      },
-      {
-        "word": "I've",
-        "start": 204.92,
-        "end": 204.96
-      },
-      {
-        "word": "left",
-        "start": 204.97,
-        "end": 205.01
-      },
-      {
-        "word": "behind",
-        "start": 205.02,
-        "end": 205.06
-      }
-    ],
-    "time": 204.52,
-    "end": 205.06
-  },
-  {
-    "text": "I know I'm gone, but I don't know where I'm going",
-    "startTime": 205.07,
-    "endTime": 205.91,
-    "words": [
-      {
-        "word": "I",
-        "start": 205.07,
-        "end": 205.11
-      },
-      {
-        "word": "know",
-        "start": 205.12,
-        "end": 205.16
-      },
-      {
-        "word": "I'm",
-        "start": 205.17,
-        "end": 205.21
-      },
-      {
-        "word": "gone,",
-        "start": 205.22,
-        "end": 205.26
-      },
-      {
-        "word": "but",
-        "start": 205.27,
-        "end": 205.31
-      },
-      {
-        "word": "I",
-        "start": 205.32,
-        "end": 205.36
-      },
-      {
         "word": "don't",
-        "start": 205.37,
-        "end": 205.47,
+        "start": 204.36,
+        "end": 204.88,
         "whisper": true
       },
       {
-        "word": "know",
-        "start": 205.48,
-        "end": 205.58,
+        "word": "really",
+        "start": 204.88,
+        "end": 205.34,
         "whisper": true
       },
       {
-        "word": "where",
-        "start": 205.59,
-        "end": 205.69,
+        "word": "want",
+        "start": 205.34,
+        "end": 205.68,
         "whisper": true
       },
       {
-        "word": "I'm",
-        "start": 205.7,
-        "end": 205.8,
+        "word": "no",
+        "start": 205.68,
+        "end": 206.2,
+        "stretch": true,
         "whisper": true
       },
       {
-        "word": "going",
-        "start": 205.81,
-        "end": 205.91,
+        "word": "problem",
+        "start": 206.2,
+        "end": 206.86,
         "whisper": true
       }
     ],
-    "time": 205.07,
-    "end": 205.91
-  },
-  {
-    "text": "I could have sworn I heard it this morning",
-    "startTime": 205.92,
-    "endTime": 206.9,
-    "words": [
-      {
-        "word": "I",
-        "start": 205.92,
-        "end": 206.02,
-        "whisper": true
-      },
-      {
-        "word": "could",
-        "start": 206.03,
-        "end": 206.13,
-        "whisper": true
-      },
-      {
-        "word": "have",
-        "start": 206.14,
-        "end": 206.24,
-        "whisper": true
-      },
-      {
-        "word": "sworn",
-        "start": 206.25,
-        "end": 206.35,
-        "whisper": true
-      },
-      {
-        "word": "I",
-        "start": 206.36,
-        "end": 206.46,
-        "whisper": true
-      },
-      {
-        "word": "heard",
-        "start": 206.47,
-        "end": 206.57,
-        "whisper": true
-      },
-      {
-        "word": "it",
-        "start": 206.58,
-        "end": 206.68,
-        "whisper": true
-      },
-      {
-        "word": "this",
-        "start": 206.69,
-        "end": 206.79,
-        "whisper": true
-      },
-      {
-        "word": "morning",
-        "start": 206.8,
-        "end": 206.9,
-        "whisper": true
-      }
-    ],
-    "time": 205.92,
-    "end": 206.9
-  },
-  {
-    "text": "Like your voice was a part of that wind",
-    "startTime": 206.91,
-    "endTime": 207.89,
-    "words": [
-      {
-        "word": "Like",
-        "start": 206.91,
-        "end": 207.01,
-        "whisper": true
-      },
-      {
-        "word": "your",
-        "start": 207.02,
-        "end": 207.12,
-        "whisper": true
-      },
-      {
-        "word": "voice",
-        "start": 207.13,
-        "end": 207.23,
-        "whisper": true
-      },
-      {
-        "word": "was",
-        "start": 207.24,
-        "end": 207.34,
-        "whisper": true
-      },
-      {
-        "word": "a",
-        "start": 207.35,
-        "end": 207.45,
-        "whisper": true
-      },
-      {
-        "word": "part",
-        "start": 207.46,
-        "end": 207.56,
-        "whisper": true
-      },
-      {
-        "word": "of",
-        "start": 207.57,
-        "end": 207.67,
-        "whisper": true
-      },
-      {
-        "word": "that",
-        "start": 207.68,
-        "end": 207.78,
-        "whisper": true
-      },
-      {
-        "word": "wind",
-        "start": 207.79,
-        "end": 207.89,
-        "whisper": true
-      }
-    ],
-    "time": 206.91,
-    "end": 207.89
+    "time": 204.0,
+    "end": 206.86
   }
 ]

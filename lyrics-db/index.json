@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-07T16:06:25.467495+00:00",
-  "totalTracks": 780,
+  "generatedAt": "2026-07-07T16:13:48.783014+00:00",
+  "totalTracks": 781,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10961,6 +10961,20 @@
       },
       "sourcePath": "https://soundcloud.com/smokeasac/overdose-ft-lil-peep-lil-tracy-prod-by-yungcortex",
       "mtimeMs": 1783440388954
+    },
+    "bladee::side by side (ft. thaiboy digital)": {
+      "title": "SIDE BY SIDE (FT. THAIBOY DIGITAL)",
+      "artist": "Bladee",
+      "originalTrackName": "Bladee - SIDE BY SIDE (FT. THAIBOY DIGITAL)",
+      "source": "syncedlyrics",
+      "file": "tracks/bladee-side-by-side-ft-thaiboy-digital-440388cb0316.json",
+      "files": {
+        "lyrics": "tracks/bladee-side-by-side-ft-thaiboy-digital-440388cb0316.json",
+        "meta": "tracks/bladee-side-by-side-ft-thaiboy-digital-440388cb0316.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bladee1000/10-starr",
+      "mtimeMs": 1783440831021
     }
   },
   "tracks": [
@@ -21939,6 +21953,20 @@
       },
       "sourcePath": "https://soundcloud.com/smokeasac/overdose-ft-lil-peep-lil-tracy-prod-by-yungcortex",
       "mtimeMs": 1783440388954
+    },
+    {
+      "title": "SIDE BY SIDE (FT. THAIBOY DIGITAL)",
+      "artist": "Bladee",
+      "originalTrackName": "Bladee - SIDE BY SIDE (FT. THAIBOY DIGITAL)",
+      "source": "syncedlyrics",
+      "file": "tracks/bladee-side-by-side-ft-thaiboy-digital-440388cb0316.json",
+      "files": {
+        "lyrics": "tracks/bladee-side-by-side-ft-thaiboy-digital-440388cb0316.json",
+        "meta": "tracks/bladee-side-by-side-ft-thaiboy-digital-440388cb0316.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bladee1000/10-starr",
+      "mtimeMs": 1783440831021
     }
   ]
 }

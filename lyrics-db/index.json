@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T17:11:53.749442+00:00",
+  "generatedAt": "2026-07-08T17:13:13.723416+00:00",
   "totalTracks": 787,
   "roots": [
     "lyrics-db/tracks"
@@ -10514,20 +10514,6 @@
       "sourcePath": "https://soundcloud.com/spellscasted/sorry-to-dissapoint-prod-me",
       "mtimeMs": 1782339580213
     },
-    "lil peep::give u the moon (prod. kryptik)": {
-      "title": "give u the moon (prod. kryptik)",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - give u the moon (prod. kryptik)",
-      "source": "lrclib_plain",
-      "file": "tracks/lil-peep-give-u-the-moon-prod-kryptik-dec10816de30.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-give-u-the-moon-prod-kryptik-dec10816de30.json",
-        "meta": "tracks/lil-peep-give-u-the-moon-prod-kryptik-dec10816de30.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/give-u-the-moon",
-      "mtimeMs": 1782472789343
-    },
     "nh::banger": {
       "title": "BANGER",
       "artist": "NH",
@@ -11061,6 +11047,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/2008-prod-hector-vae",
       "mtimeMs": 1783530714188
+    },
+    "lil peep::give u the moon (prod. kryptik)": {
+      "title": "give u the moon (prod. kryptik)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - give u the moon (prod. kryptik)",
+      "source": "lrclib_plain",
+      "file": "tracks/lil-peep-give-u-the-moon-prod-kryptik-dec10816de30.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-give-u-the-moon-prod-kryptik-dec10816de30.json",
+        "meta": "tracks/lil-peep-give-u-the-moon-prod-kryptik-dec10816de30.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/give-u-the-moon",
+      "mtimeMs": 1783530794452
     }
   },
   "tracks": [
@@ -21593,20 +21593,6 @@
       "mtimeMs": 1782339580213
     },
     {
-      "title": "give u the moon (prod. kryptik)",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - give u the moon (prod. kryptik)",
-      "source": "lrclib_plain",
-      "file": "tracks/lil-peep-give-u-the-moon-prod-kryptik-dec10816de30.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-give-u-the-moon-prod-kryptik-dec10816de30.json",
-        "meta": "tracks/lil-peep-give-u-the-moon-prod-kryptik-dec10816de30.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/give-u-the-moon",
-      "mtimeMs": 1782472789343
-    },
-    {
       "title": "BANGER",
       "artist": "NH",
       "originalTrackName": "NH - BANGER",
@@ -22139,6 +22125,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/2008-prod-hector-vae",
       "mtimeMs": 1783530714188
+    },
+    {
+      "title": "give u the moon (prod. kryptik)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - give u the moon (prod. kryptik)",
+      "source": "lrclib_plain",
+      "file": "tracks/lil-peep-give-u-the-moon-prod-kryptik-dec10816de30.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-give-u-the-moon-prod-kryptik-dec10816de30.json",
+        "meta": "tracks/lil-peep-give-u-the-moon-prod-kryptik-dec10816de30.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/give-u-the-moon",
+      "mtimeMs": 1783530794452
     }
   ]
 }

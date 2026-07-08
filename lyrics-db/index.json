@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T19:42:14.052583+00:00",
+  "generatedAt": "2026-07-08T20:14:51.061128+00:00",
   "totalTracks": 788,
   "roots": [
     "lyrics-db/tracks"
@@ -10908,20 +10908,6 @@
       "sourcePath": "https://soundcloud.com/gab3omg/gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse",
       "mtimeMs": 1783530569610
     },
-    "lil peep::2008 (prod. hector vae)": {
-      "title": "2008 (prod. hector vae)",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - 2008 (prod. hector vae)",
-      "source": "lrclib_plain",
-      "file": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.json",
-        "meta": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/2008-prod-hector-vae",
-      "mtimeMs": 1783530714188
-    },
     "lil peep::give u the moon (prod. kryptik)": {
       "title": "give u the moon (prod. kryptik)",
       "artist": "Lil Peep",
@@ -11075,6 +11061,20 @@
       },
       "sourcePath": "https://soundcloud.com/bladee1000/10-starr",
       "mtimeMs": 1783539735051
+    },
+    "lil peep::2008 (prod. hector vae)": {
+      "title": "2008 (prod. hector vae)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - 2008 (prod. hector vae)",
+      "source": "lrclib_plain",
+      "file": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.json",
+        "meta": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/2008-prod-hector-vae",
+      "mtimeMs": 1783541691729
     }
   },
   "tracks": [
@@ -22001,20 +22001,6 @@
       "mtimeMs": 1783530569610
     },
     {
-      "title": "2008 (prod. hector vae)",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - 2008 (prod. hector vae)",
-      "source": "lrclib_plain",
-      "file": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.json",
-        "meta": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/2008-prod-hector-vae",
-      "mtimeMs": 1783530714188
-    },
-    {
       "title": "give u the moon (prod. kryptik)",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - give u the moon (prod. kryptik)",
@@ -22167,6 +22153,20 @@
       },
       "sourcePath": "https://soundcloud.com/bladee1000/10-starr",
       "mtimeMs": 1783539735051
+    },
+    {
+      "title": "2008 (prod. hector vae)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - 2008 (prod. hector vae)",
+      "source": "lrclib_plain",
+      "file": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.json",
+        "meta": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/2008-prod-hector-vae",
+      "mtimeMs": 1783541691729
     }
   ]
 }

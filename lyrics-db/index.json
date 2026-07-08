@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T20:17:52.340369+00:00",
+  "generatedAt": "2026-07-08T20:19:21.298331+00:00",
   "totalTracks": 788,
   "roots": [
     "lyrics-db/tracks"
@@ -10936,20 +10936,6 @@
       "sourcePath": "https://soundcloud.com/lil_peep/lil-peep-harry-fraud-old-me",
       "mtimeMs": 1783531043145
     },
-    "ibeantrill::lil peep pray i die": {
-      "title": "Lil Peep Pray I Die",
-      "artist": "ibeantrill",
-      "originalTrackName": "ibeantrill - Lil Peep Pray I Die",
-      "source": "syncedlyrics",
-      "file": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
-      "files": {
-        "lyrics": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
-        "meta": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/1keith/lil-peep-pray-i-die",
-      "mtimeMs": 1783531191398
-    },
     "lil peep::right here w/ horsehead (prod. nedarb)": {
       "title": "right here w/ horsehead (prod. nedarb)",
       "artist": "Lil Peep",
@@ -11075,6 +11061,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/dont-panic",
       "mtimeMs": 1783541872775
+    },
+    "ibeantrill::lil peep pray i die": {
+      "title": "Lil Peep Pray I Die",
+      "artist": "ibeantrill",
+      "originalTrackName": "ibeantrill - Lil Peep Pray I Die",
+      "source": "whisper_only",
+      "file": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
+      "files": {
+        "lyrics": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
+        "meta": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1keith/lil-peep-pray-i-die",
+      "mtimeMs": 1783541961771
     }
   },
   "tracks": [
@@ -22029,20 +22029,6 @@
       "mtimeMs": 1783531043145
     },
     {
-      "title": "Lil Peep Pray I Die",
-      "artist": "ibeantrill",
-      "originalTrackName": "ibeantrill - Lil Peep Pray I Die",
-      "source": "syncedlyrics",
-      "file": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
-      "files": {
-        "lyrics": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
-        "meta": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/1keith/lil-peep-pray-i-die",
-      "mtimeMs": 1783531191398
-    },
-    {
       "title": "right here w/ horsehead (prod. nedarb)",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - right here w/ horsehead (prod. nedarb)",
@@ -22167,6 +22153,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/dont-panic",
       "mtimeMs": 1783541872775
+    },
+    {
+      "title": "Lil Peep Pray I Die",
+      "artist": "ibeantrill",
+      "originalTrackName": "ibeantrill - Lil Peep Pray I Die",
+      "source": "whisper_only",
+      "file": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
+      "files": {
+        "lyrics": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
+        "meta": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1keith/lil-peep-pray-i-die",
+      "mtimeMs": 1783541961771
     }
   ]
 }

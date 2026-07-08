@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T11:56:13.983321+00:00",
+  "generatedAt": "2026-07-08T15:19:04.552374+00:00",
   "totalTracks": 785,
   "roots": [
     "lyrics-db/tracks"
@@ -11022,15 +11022,17 @@
       "title": "Unfair neighborhood x Darth Vader(I am what you made me)",
       "artist": "Oktix",
       "originalTrackName": "Oktix - Unfair neighborhood x Darth Vader(I am what you made me)",
-      "source": "whisper_only",
+      "source": "soundcloud_extension_translate",
       "file": "tracks/oktix-unfair-neighborhood-x-darth-vader-i-am-what-you-made-me-ffa79fffac98.json",
       "files": {
         "lyrics": "tracks/oktix-unfair-neighborhood-x-darth-vader-i-am-what-you-made-me-ffa79fffac98.json",
         "meta": "tracks/oktix-unfair-neighborhood-x-darth-vader-i-am-what-you-made-me-ffa79fffac98.meta.json",
-        "translations": {}
+        "translations": {
+          "uk": "tracks/oktix-unfair-neighborhood-x-darth-vader-i-am-what-you-made-me-ffa79fffac98.uk.json"
+        }
       },
       "sourcePath": "https://soundcloud.com/playek-123/unfair-neighborhood-x-darth",
-      "mtimeMs": 1783511776167
+      "mtimeMs": 1783523944552
     }
   },
   "tracks": [
@@ -22070,15 +22072,17 @@
       "title": "Unfair neighborhood x Darth Vader(I am what you made me)",
       "artist": "Oktix",
       "originalTrackName": "Oktix - Unfair neighborhood x Darth Vader(I am what you made me)",
-      "source": "whisper_only",
+      "source": "soundcloud_extension_translate",
       "file": "tracks/oktix-unfair-neighborhood-x-darth-vader-i-am-what-you-made-me-ffa79fffac98.json",
       "files": {
         "lyrics": "tracks/oktix-unfair-neighborhood-x-darth-vader-i-am-what-you-made-me-ffa79fffac98.json",
         "meta": "tracks/oktix-unfair-neighborhood-x-darth-vader-i-am-what-you-made-me-ffa79fffac98.meta.json",
-        "translations": {}
+        "translations": {
+          "uk": "tracks/oktix-unfair-neighborhood-x-darth-vader-i-am-what-you-made-me-ffa79fffac98.uk.json"
+        }
       },
       "sourcePath": "https://soundcloud.com/playek-123/unfair-neighborhood-x-darth",
-      "mtimeMs": 1783511776167
+      "mtimeMs": 1783523944552
     }
   ]
 }

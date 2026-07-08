@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T17:23:38.680314+00:00",
+  "generatedAt": "2026-07-08T17:25:29.333434+00:00",
   "totalTracks": 787,
   "roots": [
     "lyrics-db/tracks"
@@ -10388,20 +10388,6 @@
       "sourcePath": "https://soundcloud.com/lil_peep/prada-prod-lederrick",
       "mtimeMs": 1782033408916
     },
-    "☆lil peep☆::boba on the rocks": {
-      "title": "boba on the rocks",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - boba on the rocks",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
-        "meta": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/45116ca6-d610-4d61-bc1f-8bf9ec6c171e",
-      "mtimeMs": 1782146225548
-    },
     "lil peep::white tee w/ yung bruh (prod. nedarb)": {
       "title": "white tee w/ yung bruh (prod. nedarb)",
       "artist": "Lil Peep",
@@ -11061,6 +11047,20 @@
       },
       "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
       "mtimeMs": 1783531420327
+    },
+    "☆lil peep☆::boba on the rocks": {
+      "title": "boba on the rocks",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - boba on the rocks",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
+        "meta": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/45116ca6-d610-4d61-bc1f-8bf9ec6c171e",
+      "mtimeMs": 1783531529867
     }
   },
   "tracks": [
@@ -21467,20 +21467,6 @@
       "mtimeMs": 1782033408916
     },
     {
-      "title": "boba on the rocks",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - boba on the rocks",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
-        "meta": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/45116ca6-d610-4d61-bc1f-8bf9ec6c171e",
-      "mtimeMs": 1782146225548
-    },
-    {
       "title": "white tee w/ yung bruh (prod. nedarb)",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - white tee w/ yung bruh (prod. nedarb)",
@@ -22139,6 +22125,20 @@
       },
       "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
       "mtimeMs": 1783531420327
+    },
+    {
+      "title": "boba on the rocks",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - boba on the rocks",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
+        "meta": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/45116ca6-d610-4d61-bc1f-8bf9ec6c171e",
+      "mtimeMs": 1783531529867
     }
   ]
 }

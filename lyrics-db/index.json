@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T16:32:03.406309+00:00",
+  "generatedAt": "2026-07-08T16:33:14.705729+00:00",
   "totalTracks": 785,
   "roots": [
     "lyrics-db/tracks"
@@ -10668,20 +10668,6 @@
       "sourcePath": "https://soundcloud.com/6hours/lil-peep-x-lil-tracy-fuck-fame-prod-dj-smokey",
       "mtimeMs": 1782860456785
     },
-    "☆lil peep☆ archives::every weekend w/ slug christ (prod lederrick x lil peep)": {
-      "title": "every weekend w/ slug christ (prod lederrick x lil peep)",
-      "artist": "☆LiL PEEP☆ ARCHIVES",
-      "originalTrackName": "☆LiL PEEP☆ ARCHIVES - every weekend w/ slug christ (prod lederrick x lil peep)",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-archives-every-weekend-w-slug-christ-prod-lederrick-x-lil-pee-4c6708ef0855.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-archives-every-weekend-w-slug-christ-prod-lederrick-x-lil-pee-4c6708ef0855.json",
-        "meta": "tracks/lil-peep-archives-every-weekend-w-slug-christ-prod-lederrick-x-lil-pee-4c6708ef0855.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lill_peep/every-weekend-w-slug-christ-prod-lederrick-x-lil-peep",
-      "mtimeMs": 1782990240510
-    },
     "broken soul x kill me::lil peep - p.s fuck you cunt": {
       "title": "Lil Peep - P.S Fuck You Cunt",
       "artist": "Broken Soul x kill me",
@@ -11033,6 +11019,20 @@
       },
       "sourcePath": "https://soundcloud.com/phan-1600/lil-uzi-vert-heavy-no-open",
       "mtimeMs": 1783528323887
+    },
+    "☆lil peep☆ archives::every weekend w/ slug christ (prod lederrick x lil peep)": {
+      "title": "every weekend w/ slug christ (prod lederrick x lil peep)",
+      "artist": "☆LiL PEEP☆ ARCHIVES",
+      "originalTrackName": "☆LiL PEEP☆ ARCHIVES - every weekend w/ slug christ (prod lederrick x lil peep)",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-archives-every-weekend-w-slug-christ-prod-lederrick-x-lil-pee-4c6708ef0855.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-archives-every-weekend-w-slug-christ-prod-lederrick-x-lil-pee-4c6708ef0855.json",
+        "meta": "tracks/lil-peep-archives-every-weekend-w-slug-christ-prod-lederrick-x-lil-pee-4c6708ef0855.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lill_peep/every-weekend-w-slug-christ-prod-lederrick-x-lil-peep",
+      "mtimeMs": 1783528395287
     }
   },
   "tracks": [
@@ -21719,20 +21719,6 @@
       "mtimeMs": 1782860456785
     },
     {
-      "title": "every weekend w/ slug christ (prod lederrick x lil peep)",
-      "artist": "☆LiL PEEP☆ ARCHIVES",
-      "originalTrackName": "☆LiL PEEP☆ ARCHIVES - every weekend w/ slug christ (prod lederrick x lil peep)",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-archives-every-weekend-w-slug-christ-prod-lederrick-x-lil-pee-4c6708ef0855.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-archives-every-weekend-w-slug-christ-prod-lederrick-x-lil-pee-4c6708ef0855.json",
-        "meta": "tracks/lil-peep-archives-every-weekend-w-slug-christ-prod-lederrick-x-lil-pee-4c6708ef0855.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lill_peep/every-weekend-w-slug-christ-prod-lederrick-x-lil-peep",
-      "mtimeMs": 1782990240510
-    },
-    {
       "title": "Lil Peep - P.S Fuck You Cunt",
       "artist": "Broken Soul x kill me",
       "originalTrackName": "Broken Soul x kill me - Lil Peep - P.S Fuck You Cunt",
@@ -22083,6 +22069,20 @@
       },
       "sourcePath": "https://soundcloud.com/phan-1600/lil-uzi-vert-heavy-no-open",
       "mtimeMs": 1783528323887
+    },
+    {
+      "title": "every weekend w/ slug christ (prod lederrick x lil peep)",
+      "artist": "☆LiL PEEP☆ ARCHIVES",
+      "originalTrackName": "☆LiL PEEP☆ ARCHIVES - every weekend w/ slug christ (prod lederrick x lil peep)",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-archives-every-weekend-w-slug-christ-prod-lederrick-x-lil-pee-4c6708ef0855.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-archives-every-weekend-w-slug-christ-prod-lederrick-x-lil-pee-4c6708ef0855.json",
+        "meta": "tracks/lil-peep-archives-every-weekend-w-slug-christ-prod-lederrick-x-lil-pee-4c6708ef0855.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lill_peep/every-weekend-w-slug-christ-prod-lederrick-x-lil-peep",
+      "mtimeMs": 1783528395287
     }
   ]
 }

@@ -1,1538 +1,513 @@
 [
   {
-    "text": "●",
-    "startTime": 0.3,
-    "endTime": 22.44,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 0.3,
-    "end": 22.44
-  },
-  {
-    "text": "Aye yo Keith, how do you say alone in Korean ?",
-    "startTime": 22.44,
-    "endTime": 24.58,
+    "text": "Every weekend, every fucking weekend",
+    "startTime": 0.35,
+    "endTime": 3.28,
     "words": [
       {
-        "word": "Aye",
-        "start": 22.44,
-        "end": 22.59,
-        "char_starts": [
-          3.44,
-          3.74,
-          4.35
-        ],
+        "word": "Every",
+        "start": 0.35,
+        "end": 0.7,
         "spoken": true
       },
       {
-        "word": "yo",
-        "start": 22.64,
-        "end": 23.14,
+        "word": "weekend,",
+        "start": 0.7,
+        "end": 1.28
+      },
+      {
+        "word": "every",
+        "start": 1.42,
+        "end": 1.76
+      },
+      {
+        "word": "fucking",
+        "start": 1.76,
+        "end": 2.22
+      },
+      {
+        "word": "weekend",
+        "start": 2.266,
+        "end": 3.28,
+        "stretch": true
+      }
+    ],
+    "time": 0.35,
+    "end": 3.28
+  },
+  {
+    "text": "Every weekend, every fucking weekend",
+    "startTime": 7.9,
+    "endTime": 11.42,
+    "words": [
+      {
+        "word": "Every",
+        "start": 8.25,
+        "end": 8.82,
+        "stretch": true,
         "spoken": true
       },
       {
-        "word": "Keith,",
-        "start": 23.266,
-        "end": 23.565
-      },
-      {
-        "word": "how",
-        "start": 23.575,
-        "end": 23.778
-      },
-      {
-        "word": "do",
-        "start": 23.788,
-        "end": 23.92
-      },
-      {
-        "word": "you",
-        "start": 23.93,
-        "end": 24.03
-      },
-      {
-        "word": "say",
-        "start": 24.04,
-        "end": 24.14
-      },
-      {
-        "word": "alone",
-        "start": 24.15,
-        "end": 24.25
-      },
-      {
-        "word": "in",
-        "start": 24.26,
-        "end": 24.36
-      },
-      {
-        "word": "Korean",
-        "start": 24.37,
-        "end": 24.47
-      },
-      {
-        "word": "?",
-        "start": 24.48,
-        "end": 24.58
-      }
-    ],
-    "time": 22.44,
-    "end": 24.58
-  },
-  {
-    "text": "(Korean ?)",
-    "startTime": 24.59,
-    "endTime": 24.8,
-    "words": [
-      {
-        "word": "(Korean",
-        "start": 24.59,
-        "end": 24.69,
-        "adlib": true
-      },
-      {
-        "word": "?)",
-        "start": 24.7,
-        "end": 24.8
-      }
-    ],
-    "time": 24.59,
-    "end": 24.8
-  },
-  {
-    "text": "Yeah",
-    "startTime": 24.81,
-    "endTime": 24.91,
-    "words": [
-      {
-        "word": "Yeah",
-        "start": 24.81,
-        "end": 24.91,
-        "spoken": true
-      }
-    ],
-    "time": 24.81,
-    "end": 24.91
-  },
-  {
-    "text": "(혼자)",
-    "startTime": 24.92,
-    "endTime": 25.02,
-    "words": [
-      {
-        "word": "(혼자)",
-        "start": 24.92,
-        "end": 25.02,
-        "adlib": true
-      }
-    ],
-    "time": 24.92,
-    "end": 25.02
-  },
-  {
-    "text": "Honja?",
-    "startTime": 25.03,
-    "endTime": 25.13,
-    "words": [
-      {
-        "word": "Honja?",
-        "start": 25.03,
-        "end": 25.13,
-        "spoken": true
-      }
-    ],
-    "time": 25.03,
-    "end": 25.13
-  },
-  {
-    "text": "(Yeah, Honja)",
-    "startTime": 25.14,
-    "endTime": 25.35,
-    "words": [
-      {
-        "word": "(Yeah,",
-        "start": 25.14,
-        "end": 25.24,
-        "adlib": true
-      },
-      {
-        "word": "Honja)",
-        "start": 25.25,
-        "end": 25.35,
-        "adlib": true
-      }
-    ],
-    "time": 25.14,
-    "end": 25.35
-  },
-  {
-    "text": "Honja aye",
-    "startTime": 25.36,
-    "endTime": 25.57,
-    "words": [
-      {
-        "word": "Honja",
-        "start": 25.36,
-        "end": 25.46
-      },
-      {
-        "word": "aye",
-        "start": 25.47,
-        "end": 25.57
-      }
-    ],
-    "time": 25.36,
-    "end": 25.57
-  },
-  {
-    "text": "(Honja)",
-    "startTime": 25.58,
-    "endTime": 25.68,
-    "words": [
-      {
-        "word": "(Honja)",
-        "start": 25.58,
-        "end": 25.68,
-        "adlib": true,
-        "spoken": true
-      }
-    ],
-    "time": 25.58,
-    "end": 25.68
-  },
-  {
-    "text": "Honja?",
-    "startTime": 25.69,
-    "endTime": 25.79,
-    "words": [
-      {
-        "word": "Honja?",
-        "start": 25.69,
-        "end": 25.79
-      }
-    ],
-    "time": 25.69,
-    "end": 25.79
-  },
-  {
-    "text": "(Honja)",
-    "startTime": 25.8,
-    "endTime": 25.9,
-    "words": [
-      {
-        "word": "(Honja)",
-        "start": 25.8,
-        "end": 25.9,
-        "adlib": true
-      }
-    ],
-    "time": 25.8,
-    "end": 25.9
-  },
-  {
-    "text": "Ok",
-    "startTime": 25.91,
-    "endTime": 26.01,
-    "words": [
-      {
-        "word": "Ok",
-        "start": 25.91,
-        "end": 26.01,
-        "spoken": true
-      }
-    ],
-    "time": 25.91,
-    "end": 26.01
-  },
-  {
-    "text": "(Honja) Honja",
-    "startTime": 26.02,
-    "endTime": 26.23,
-    "words": [
-      {
-        "word": "(Honja)",
-        "start": 26.02,
-        "end": 26.12,
-        "adlib": true
-      },
-      {
-        "word": "Honja",
-        "start": 26.13,
-        "end": 26.23
-      }
-    ],
-    "time": 26.02,
-    "end": 26.23
-  },
-  {
-    "text": "(Honja) Honja",
-    "startTime": 26.24,
-    "endTime": 26.45,
-    "words": [
-      {
-        "word": "(Honja)",
-        "start": 26.3,
-        "end": 26.34,
-        "adlib": true,
+        "word": "weekend,",
+        "start": 8.82,
+        "end": 9.52,
         "spoken": true
       },
       {
-        "word": "Honja",
-        "start": 26.35,
-        "end": 26.45,
-        "spoken": true
-      }
-    ],
-    "time": 26.24,
-    "end": 26.45
-  },
-  {
-    "text": "(Honjaaa) Aloneee",
-    "startTime": 26.46,
-    "endTime": 26.67,
-    "words": [
-      {
-        "word": "(Honjaaa)",
-        "start": 26.46,
-        "end": 26.56,
-        "adlib": true
+        "word": "every",
+        "start": 9.66,
+        "end": 9.98
       },
       {
-        "word": "Aloneee",
-        "start": 26.57,
-        "end": 26.67
-      }
-    ],
-    "time": 26.46,
-    "end": 26.67
-  },
-  {
-    "text": "Alone (yeah)",
-    "startTime": 26.68,
-    "endTime": 26.89,
-    "words": [
-      {
-        "word": "Alone",
-        "start": 26.68,
-        "end": 26.78
+        "word": "fucking",
+        "start": 9.98,
+        "end": 10.5
       },
       {
-        "word": "(yeah)",
-        "start": 26.79,
-        "end": 26.89,
-        "adlib": true
+        "word": "weekend",
+        "start": 10.5,
+        "end": 11.42,
+        "stretch": true
       }
     ],
-    "time": 26.68,
-    "end": 26.89
+    "time": 7.9,
+    "end": 11.42
   },
   {
-    "text": "Alone",
-    "startTime": 26.9,
-    "endTime": 27.28,
+    "text": "Yeah, yeah, yeah",
+    "startTime": 11.42,
+    "endTime": 16.44,
     "words": [
       {
-        "word": "Alone",
-        "start": 26.9,
-        "end": 27.28,
-        "spoken": true
-      }
-    ],
-    "time": 26.9,
-    "end": 27.28
-  },
-  {
-    "text": "(yeah)",
-    "startTime": 30.78,
-    "endTime": 30.78,
-    "words": [
-      {
-        "word": "(yeah)",
-        "start": 30.78,
-        "end": 30.78,
-        "adlib": true
-      }
-    ],
-    "time": 30.78,
-    "end": 30.78
-  },
-  {
-    "text": "●",
-    "startTime": 31.08,
-    "endTime": 94.6,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 31.08,
-    "end": 94.6
-  },
-  {
-    "text": "Honja honja",
-    "startTime": 94.6,
-    "endTime": 95.34,
-    "words": [
-      {
-        "word": "Honja",
-        "start": 94.6,
-        "end": 94.75,
-        "char_starts": [
-          32.78,
-          32.872,
-          33.059,
-          33.313,
-          33.625
-        ],
+        "word": "Yeah,",
+        "start": 11.42,
+        "end": 11.84,
         "spoken": true
       },
       {
-        "word": "honja",
-        "start": 94.8,
-        "end": 95.34,
+        "word": "yeah,",
+        "start": 12.19,
+        "end": 13.4,
+        "stretch": true,
         "spoken": true
-      }
-    ],
-    "time": 94.6,
-    "end": 95.34
-  },
-  {
-    "text": "●",
-    "startTime": 95.64,
-    "endTime": 134.46,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 95.64,
-    "end": 134.46
-  },
-  {
-    "text": "honja honja honja honja...",
-    "startTime": 134.46,
-    "endTime": 139.364,
-    "words": [
-      {
-        "word": "honja",
-        "start": 134.46,
-        "end": 134.92
-      },
-      {
-        "word": "honja",
-        "start": 134.93,
-        "end": 136.392,
-        "char_starts": [
-          134.93,
-          135.033,
-          135.243,
-          135.53,
-          135.88
-        ],
-        "spoken": true
-      },
-      {
-        "word": "honja",
-        "start": 136.752,
-        "end": 137.864,
-        "char_starts": [
-          136.752,
-          136.505,
-          136.715,
-          137.002,
-          137.352
-        ],
-        "spoken": true
-      },
-      {
-        "word": "honja...",
-        "start": 137.99,
-        "end": 139.364,
-        "char_starts": [
-          137.99,
-          137.944,
-          138.052,
-          138.183,
-          138.329,
-          138.489,
-          138.661,
-          138.843
-        ]
-      }
-    ],
-    "time": 134.46,
-    "end": 139.364
-  },
-  {
-    "text": "Honja honja honja",
-    "startTime": 140.22,
-    "endTime": 141.5,
-    "words": [
-      {
-        "word": "Honja",
-        "start": 140.22,
-        "end": 140.8,
-        "spoken": true
-      },
-      {
-        "word": "honja",
-        "start": 140.81,
-        "end": 141.15,
-        "spoken": true
-      },
-      {
-        "word": "honja",
-        "start": 141.16,
-        "end": 141.5
-      }
-    ],
-    "time": 140.22,
-    "end": 141.5
-  },
-  {
-    "text": "honja honja honja...",
-    "startTime": 141.51,
-    "endTime": 142.84,
-    "words": [
-      {
-        "word": "honja",
-        "start": 141.696,
-        "end": 141.85
-      },
-      {
-        "word": "honja",
-        "start": 141.86,
-        "end": 142.2
-      },
-      {
-        "word": "honja...",
-        "start": 142.489,
-        "end": 142.84
-      }
-    ],
-    "time": 141.51,
-    "end": 142.84
-  },
-  {
-    "text": "Honja alonel alone",
-    "startTime": 142.85,
-    "endTime": 144.1,
-    "words": [
-      {
-        "word": "Honja",
-        "start": 143.08,
-        "end": 143.234
-      },
-      {
-        "word": "alonel",
-        "start": 143.244,
-        "end": 143.706
-      },
-      {
-        "word": "alone",
-        "start": 143.946,
-        "end": 144.1
-      }
-    ],
-    "time": 142.85,
-    "end": 144.1
-  },
-  {
-    "text": "●",
-    "startTime": 144.4,
-    "endTime": 155.06,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 144.4,
-    "end": 155.06
-  },
-  {
-    "text": "I'm smokin' alone like Cudi, Solo Dolo",
-    "startTime": 155.06,
-    "endTime": 161.501,
-    "words": [
-      {
-        "word": "I'm",
-        "start": 155.06,
-        "end": 155.21,
-        "spoken": true
-      },
-      {
-        "word": "smokin'",
-        "start": 155.26,
-        "end": 155.4,
-        "spoken": true
-      },
-      {
-        "word": "alone",
-        "start": 155.41,
-        "end": 156.787,
-        "char_starts": [
-          155.41,
-          155.507,
-          155.705,
-          155.975,
-          156.305
-        ],
-        "spoken": true
-      },
-      {
-        "word": "like",
-        "start": 156.797,
-        "end": 157.896,
-        "char_starts": [
-          156.797,
-          156.93,
-          157.199,
-          157.566
-        ]
-      },
-      {
-        "word": "Cudi,",
-        "start": 157.906,
-        "end": 159.283,
-        "char_starts": [
-          157.906,
-          158.044,
-          158.257,
-          158.513,
-          158.801
-        ],
-        "spoken": true
-      },
-      {
-        "word": "Solo",
-        "start": 159.293,
-        "end": 160.392,
-        "char_starts": [
-          159.293,
-          159.426,
-          159.695,
-          160.062
-        ],
-        "spoken": true
-      },
-      {
-        "word": "Dolo",
-        "start": 160.402,
-        "end": 161.501,
-        "char_starts": [
-          160.402,
-          160.535,
-          160.804,
-          161.171
-        ],
-        "spoken": true
-      }
-    ],
-    "time": 155.06,
-    "end": 161.501
-  },
-  {
-    "text": "●",
-    "startTime": 161.801,
-    "endTime": 171.94,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 161.801,
-    "end": 171.94
-  },
-  {
-    "text": "Thinkin' bout myself, all these snakes wanna 꽐라 (꽐라)",
-    "startTime": 171.94,
-    "endTime": 173.44,
-    "words": [
-      {
-        "word": "Thinkin'",
-        "start": 171.94,
-        "end": 172.09,
-        "char_starts": [
-          161.511,
-          161.581,
-          161.689,
-          161.82,
-          161.966,
-          162.126,
-          162.298,
-          162.48
-        ]
-      },
-      {
-        "word": "bout",
-        "start": 172.14,
-        "end": 172.29
-      },
-      {
-        "word": "myself,",
-        "start": 172.34,
-        "end": 172.49,
-        "char_starts": [
-          164.25,
-          164.336,
-          164.47,
-          164.63,
-          164.81,
-          165.007,
-          165.219
-        ]
-      },
-      {
-        "word": "all",
-        "start": 172.54,
-        "end": 172.9
-      },
-      {
-        "word": "these",
-        "start": 172.91,
-        "end": 173.022
-      },
-      {
-        "word": "snakes",
-        "start": 173.032,
-        "end": 173.169
-      },
-      {
-        "word": "wanna",
-        "start": 173.179,
-        "end": 173.292
-      },
-      {
-        "word": "꽐라",
-        "start": 173.302,
-        "end": 173.342
-      },
-      {
-        "word": "(꽐라)",
-        "start": 173.352,
-        "end": 173.44,
-        "adlib": true
-      }
-    ],
-    "time": 171.94,
-    "end": 173.44
-  },
-  {
-    "text": "brother's ninjas, y'all don't have a color, y'all don't not a trendsetter demons whatever",
-    "startTime": 173.45,
-    "endTime": 175.352,
-    "words": [
-      {
-        "word": "brother's",
-        "start": 173.576,
-        "end": 173.66
-      },
-      {
-        "word": "ninjas,",
-        "start": 173.67,
-        "end": 173.832
-      },
-      {
-        "word": "y'all",
-        "start": 173.909,
-        "end": 173.954
-      },
-      {
-        "word": "don't",
-        "start": 173.964,
-        "end": 174.076
-      },
-      {
-        "word": "have",
-        "start": 174.086,
-        "end": 174.174
-      },
-      {
-        "word": "a",
-        "start": 174.184,
-        "end": 174.224
-      },
-      {
-        "word": "color,",
-        "start": 174.234,
-        "end": 174.371
-      },
-      {
-        "word": "y'all",
-        "start": 174.381,
-        "end": 174.494,
-        "spoken": true
-      },
-      {
-        "word": "don't",
-        "start": 174.571,
-        "end": 174.616
-      },
-      {
-        "word": "not",
-        "start": 174.626,
-        "end": 174.69
-      },
-      {
-        "word": "a",
-        "start": 174.7,
-        "end": 174.74
-      },
-      {
-        "word": "trendsetter",
-        "start": 174.75,
-        "end": 175.009
-      },
-      {
-        "word": "demons",
-        "start": 175.019,
-        "end": 175.156
-      },
-      {
-        "word": "whatever",
-        "start": 175.166,
-        "end": 175.352
-      }
-    ],
-    "time": 173.45,
-    "end": 175.352
-  },
-  {
-    "text": "폐쇄된 곳에서 나는",
-    "startTime": 175.362,
-    "endTime": 175.549,
-    "words": [
-      {
-        "word": "폐쇄된",
-        "start": 175.362,
-        "end": 175.425
-      },
-      {
-        "word": "곳에서",
-        "start": 175.435,
-        "end": 175.499
-      },
-      {
-        "word": "나는",
-        "start": 175.509,
-        "end": 175.549
-      }
-    ],
-    "time": 175.362,
-    "end": 175.549
-  },
-  {
-    "text": "혼자 찍어냈지, 공장",
-    "startTime": 175.559,
-    "endTime": 175.771,
-    "words": [
-      {
-        "word": "혼자",
-        "start": 175.559,
-        "end": 175.599
-      },
-      {
-        "word": "찍어냈지,",
-        "start": 175.609,
-        "end": 175.721,
-        "spoken": true
-      },
-      {
-        "word": "공장",
-        "start": 175.731,
-        "end": 175.771
-      }
-    ],
-    "time": 175.559,
-    "end": 175.771
-  },
-  {
-    "text": "그래도 너보단 나으니까 걱정마",
-    "startTime": 175.781,
-    "endTime": 176.09,
-    "words": [
-      {
-        "word": "그래도",
-        "start": 175.781,
-        "end": 175.845
-      },
-      {
-        "word": "너보단",
-        "start": 175.855,
-        "end": 175.918
-      },
-      {
-        "word": "나으니까",
-        "start": 175.976,
-        "end": 176.016
-      },
-      {
-        "word": "걱정마",
-        "start": 176.026,
-        "end": 176.09
-      }
-    ],
-    "time": 175.781,
-    "end": 176.09
-  },
-  {
-    "text": "점점 커진 Cohort, 알려졌지 worldwide",
-    "startTime": 176.1,
-    "endTime": 176.679,
-    "words": [
-      {
-        "word": "점점",
-        "start": 176.1,
-        "end": 176.14
-      },
-      {
-        "word": "커진",
-        "start": 176.15,
-        "end": 176.19
-      },
-      {
-        "word": "Cohort,",
-        "start": 176.2,
-        "end": 176.361
-      },
-      {
-        "word": "알려졌지",
-        "start": 176.371,
-        "end": 176.459
-      },
-      {
-        "word": "worldwide",
-        "start": 176.562,
-        "end": 176.679
-      }
-    ],
-    "time": 176.1,
-    "end": 176.679
-  },
-  {
-    "text": "그게 내가 이룬 성과, 결국에는 내가 정답",
-    "startTime": 176.689,
-    "endTime": 177.101,
-    "words": [
-      {
-        "word": "그게",
-        "start": 176.689,
-        "end": 176.729
-      },
-      {
-        "word": "내가",
-        "start": 176.739,
-        "end": 176.779
-      },
-      {
-        "word": "이룬",
-        "start": 176.789,
-        "end": 176.829
-      },
-      {
-        "word": "성과,",
-        "start": 176.839,
-        "end": 176.903
-      },
-      {
-        "word": "결국에는",
-        "start": 176.913,
-        "end": 177.001
-      },
-      {
-        "word": "내가",
-        "start": 177.011,
-        "end": 177.051
-      },
-      {
-        "word": "정답",
-        "start": 177.061,
-        "end": 177.101
-      }
-    ],
-    "time": 176.689,
-    "end": 177.101
-  },
-  {
-    "text": "예언해줘도 걔네는 절대로 못 봐",
-    "startTime": 177.111,
-    "endTime": 177.47,
-    "words": [
-      {
-        "word": "예언해줘도",
-        "start": 177.111,
-        "end": 177.223
-      },
-      {
-        "word": "걔네는",
-        "start": 177.233,
-        "end": 177.297
-      },
-      {
-        "word": "절대로",
-        "start": 177.307,
-        "end": 177.37
-      },
-      {
-        "word": "못",
-        "start": 177.38,
-        "end": 177.42
-      },
-      {
-        "word": "봐",
-        "start": 177.43,
-        "end": 177.47
-      }
-    ],
-    "time": 177.111,
-    "end": 177.47
-  },
-  {
-    "text": "아마도 모두 귀가 멀었거나 바보와 천재 중에서 전자인",
-    "startTime": 177.48,
-    "endTime": 178.012,
-    "words": [
-      {
-        "word": "아마도",
-        "start": 177.48,
-        "end": 177.544
-      },
-      {
-        "word": "모두",
-        "start": 177.554,
-        "end": 177.594
-      },
-      {
-        "word": "귀가",
-        "start": 177.604,
-        "end": 177.644
-      },
-      {
-        "word": "멀었거나",
-        "start": 177.654,
-        "end": 177.741
-      },
-      {
-        "word": "바보와",
-        "start": 177.751,
-        "end": 177.815
-      },
-      {
-        "word": "천재",
-        "start": 177.825,
-        "end": 177.865
-      },
-      {
-        "word": "중에서",
-        "start": 177.875,
-        "end": 177.938
-      },
-      {
-        "word": "전자인",
-        "start": 177.948,
-        "end": 178.012
-      }
-    ],
-    "time": 177.48,
-    "end": 178.012
-  },
-  {
-    "text": "애들이 뭘 알겠어 그냥 저리가서 너네들끼리 놀아",
-    "startTime": 178.022,
-    "endTime": 178.529,
-    "words": [
-      {
-        "word": "애들이",
-        "start": 178.022,
-        "end": 178.085
-      },
-      {
-        "word": "뭘",
-        "start": 178.095,
-        "end": 178.135
-      },
-      {
-        "word": "알겠어",
-        "start": 178.145,
-        "end": 178.209
-      },
-      {
-        "word": "그냥",
-        "start": 178.219,
-        "end": 178.259
-      },
-      {
-        "word": "저리가서",
-        "start": 178.269,
-        "end": 178.357
-      },
-      {
-        "word": "너네들끼리",
-        "start": 178.367,
-        "end": 178.479
-      },
-      {
-        "word": "놀아",
-        "start": 178.489,
-        "end": 178.529
-      }
-    ],
-    "time": 178.022,
-    "end": 178.529
-  },
-  {
-    "text": "난 어울리기 싫어 너네랑, 차라리 혼자가 더 나아, 나는 지구를 떠나 (쳇)",
-    "startTime": 178.539,
-    "endTime": 179.342,
-    "words": [
-      {
-        "word": "난",
-        "start": 178.539,
-        "end": 178.579
-      },
-      {
-        "word": "어울리기",
-        "start": 178.589,
-        "end": 178.677
-      },
-      {
-        "word": "싫어",
-        "start": 178.687,
-        "end": 178.727
-      },
-      {
-        "word": "너네랑,",
-        "start": 178.737,
-        "end": 178.825
-      },
-      {
-        "word": "차라리",
-        "start": 178.835,
-        "end": 178.899
-      },
-      {
-        "word": "혼자가",
-        "start": 178.909,
-        "end": 178.972
-      },
-      {
-        "word": "더",
-        "start": 178.982,
-        "end": 179.022
-      },
-      {
-        "word": "나아,",
-        "start": 179.032,
-        "end": 179.095
-      },
-      {
-        "word": "나는",
-        "start": 179.105,
-        "end": 179.145
-      },
-      {
-        "word": "지구를",
-        "start": 179.155,
-        "end": 179.219
-      },
-      {
-        "word": "떠나",
-        "start": 179.229,
-        "end": 179.269
-      },
-      {
-        "word": "(쳇)",
-        "start": 179.279,
-        "end": 179.342,
-        "adlib": true
-      }
-    ],
-    "time": 178.539,
-    "end": 179.342
-  },
-  {
-    "text": "Honja honja honja",
-    "startTime": 179.352,
-    "endTime": 179.71,
-    "words": [
-      {
-        "word": "Honja",
-        "start": 179.352,
-        "end": 179.465
-      },
-      {
-        "word": "honja",
-        "start": 179.475,
-        "end": 179.587
-      },
-      {
-        "word": "honja",
-        "start": 179.597,
-        "end": 179.71
-      }
-    ],
-    "time": 179.352,
-    "end": 179.71
-  },
-  {
-    "text": "honja honja honja...",
-    "startTime": 179.72,
-    "endTime": 180.15,
-    "words": [
-      {
-        "word": "honja",
-        "start": 179.72,
-        "end": 179.832,
-        "spoken": true
-      },
-      {
-        "word": "honja",
-        "start": 179.842,
-        "end": 179.955,
-        "spoken": true
-      },
-      {
-        "word": "honja...",
-        "start": 179.965,
-        "end": 180.15,
-        "spoken": true
-      }
-    ],
-    "time": 179.72,
-    "end": 180.15
-  },
-  {
-    "text": "Honja honja honja",
-    "startTime": 180.16,
-    "endTime": 180.518,
-    "words": [
-      {
-        "word": "Honja",
-        "start": 180.16,
-        "end": 180.273,
-        "spoken": true
-      },
-      {
-        "word": "honja",
-        "start": 180.283,
-        "end": 180.395,
-        "spoken": true
-      },
-      {
-        "word": "honja",
-        "start": 180.405,
-        "end": 180.518,
-        "spoken": true
-      }
-    ],
-    "time": 180.16,
-    "end": 180.518
-  },
-  {
-    "text": "honja honja honja...",
-    "startTime": 180.528,
-    "endTime": 180.959,
-    "words": [
-      {
-        "word": "honja",
-        "start": 180.528,
-        "end": 180.64
-      },
-      {
-        "word": "honja",
-        "start": 180.65,
-        "end": 180.763,
-        "spoken": true
-      },
-      {
-        "word": "honja...",
-        "start": 180.773,
-        "end": 180.959,
-        "spoken": true
-      }
-    ],
-    "time": 180.528,
-    "end": 180.959
-  },
-  {
-    "text": "Honja alone alone",
-    "startTime": 180.969,
-    "endTime": 181.326,
-    "words": [
-      {
-        "word": "Honja",
-        "start": 180.969,
-        "end": 181.081
-      },
-      {
-        "word": "alone",
-        "start": 181.091,
-        "end": 181.203
-      },
-      {
-        "word": "alone",
-        "start": 181.213,
-        "end": 181.326
-      }
-    ],
-    "time": 180.969,
-    "end": 181.326
-  },
-  {
-    "text": "She said Slugger Slugger can I hold ya? (Nah)",
-    "startTime": 181.336,
-    "endTime": 185.582,
-    "words": [
-      {
-        "word": "She",
-        "start": 181.336,
-        "end": 181.399
-      },
-      {
-        "word": "said",
-        "start": 181.409,
-        "end": 181.497
-      },
-      {
-        "word": "Slugger",
-        "start": 181.604,
-        "end": 181.669
-      },
-      {
-        "word": "Slugger",
-        "start": 181.679,
-        "end": 181.84
-      },
-      {
-        "word": "can",
-        "start": 181.85,
-        "end": 181.914
-      },
-      {
-        "word": "I",
-        "start": 181.924,
-        "end": 181.964
-      },
-      {
-        "word": "hold",
-        "start": 182.324,
-        "end": 182.68,
-        "char_starts": [
-          182.324,
-          182.099,
-          182.293,
-          182.525
-        ]
-      },
-      {
-        "word": "ya?",
-        "start": 182.69,
-        "end": 184.082,
-        "char_starts": [
-          182.69,
-          183.045,
-          183.595
-        ],
-        "spoken": true
-      },
-      {
-        "word": "(Nah)",
-        "start": 184.208,
-        "end": 185.582,
-        "char_starts": [
-          184.208,
-          184.241,
-          184.472,
-          184.749,
-          185.06
-        ],
-        "adlib": true
-      }
-    ],
-    "time": 181.336,
-    "end": 185.582
-  },
-  {
-    "text": "●",
-    "startTime": 185.882,
-    "endTime": 210.46,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 185.882,
-    "end": 210.46
-  },
-  {
-    "text": "I'm not baby girl, I'm too honja , yeah",
-    "startTime": 210.46,
-    "endTime": 216.58,
-    "words": [
-      {
-        "word": "I'm",
-        "start": 210.46,
-        "end": 210.61
-      },
-      {
-        "word": "not",
-        "start": 210.869,
-        "end": 211.4,
-        "char_starts": [
-          210.869,
-          210.886,
-          211.237
-        ],
-        "spoken": true
-      },
-      {
-        "word": "baby",
-        "start": 211.526,
-        "end": 212.9,
-        "char_starts": [
-          211.526,
-          211.577,
-          211.916,
-          212.379
-        ]
-      },
-      {
-        "word": "girl,",
-        "start": 212.91,
-        "end": 214.4,
-        "char_starts": [
-          212.91,
-          213.059,
-          213.29,
-          213.567,
-          213.879
-        ],
-        "whisper": true
-      },
-      {
-        "word": "I'm",
-        "start": 216.16,
-        "end": 216.38,
-        "whisper": true
-      },
-      {
-        "word": "too",
-        "start": 216.39,
-        "end": 216.43
-      },
-      {
-        "word": "honja",
-        "start": 216.44,
-        "end": 216.48
-      },
-      {
-        "word": ",",
-        "start": 216.49,
-        "end": 216.53
       },
       {
         "word": "yeah",
-        "start": 216.54,
-        "end": 216.58
+        "start": 13.586,
+        "end": 16.44,
+        "stretch": true,
+        "spoken": true
       }
     ],
-    "time": 210.46,
-    "end": 216.58
+    "time": 11.42,
+    "end": 16.44
   },
   {
-    "text": "Alone, alone, I'm always all alone (Skrr)",
-    "startTime": 216.59,
-    "endTime": 217.11,
+    "text": "I've been on my OD in a long time",
+    "startTime": 17.04,
+    "endTime": 21.18,
     "words": [
       {
-        "word": "Alone,",
-        "start": 216.59,
-        "end": 216.63
+        "word": "I've",
+        "start": 17.295,
+        "end": 17.76,
+        "stretch": true
       },
       {
-        "word": "alone,",
-        "start": 216.64,
-        "end": 216.68
-      },
-      {
-        "word": "I'm",
-        "start": 216.69,
-        "end": 216.73
-      },
-      {
-        "word": "always",
-        "start": 216.74,
-        "end": 216.78
-      },
-      {
-        "word": "all",
-        "start": 216.79,
-        "end": 216.89,
-        "whisper": true
-      },
-      {
-        "word": "alone",
-        "start": 216.9,
-        "end": 217,
-        "whisper": true
-      },
-      {
-        "word": "(Skrr)",
-        "start": 217.01,
-        "end": 217.11,
-        "adlib": true,
-        "whisper": true
-      }
-    ],
-    "time": 216.59,
-    "end": 217.11
-  },
-  {
-    "text": "Airplane mode on my Iphone, I won't pick up",
-    "startTime": 217.12,
-    "endTime": 217.688,
-    "words": [
-      {
-        "word": "Airplane",
-        "start": 217.12,
-        "end": 217.22,
-        "whisper": true
-      },
-      {
-        "word": "mode",
-        "start": 217.23,
-        "end": 217.33,
-        "whisper": true
+        "word": "been",
+        "start": 17.76,
+        "end": 17.76
       },
       {
         "word": "on",
-        "start": 217.34,
-        "end": 217.44,
-        "whisper": true
+        "start": 17.76,
+        "end": 17.76
       },
       {
         "word": "my",
-        "start": 217.45,
-        "end": 217.55,
-        "whisper": true
+        "start": 17.76,
+        "end": 17.96
       },
       {
-        "word": "Iphone,",
-        "start": 217.56,
-        "end": 217.66,
-        "whisper": true
+        "word": "OD",
+        "start": 18.076,
+        "end": 18.92,
+        "stretch": true,
+        "spoken": true
       },
       {
-        "word": "I",
-        "start": 217.588,
-        "end": 217.688,
-        "whisper": true
+        "word": "in",
+        "start": 19.129,
+        "end": 19.3,
+        "stretch": true
       },
       {
-        "word": "won't",
-        "start": 217.588,
-        "end": 217.688,
-        "whisper": true
+        "word": "a",
+        "start": 19.393,
+        "end": 19.6,
+        "stretch": true
       },
       {
-        "word": "pick",
-        "start": 217.588,
-        "end": 217.688,
-        "whisper": true
+        "word": "long",
+        "start": 19.6,
+        "end": 20.16
       },
       {
-        "word": "up",
-        "start": 217.588,
-        "end": 217.688,
-        "whisper": true
+        "word": "time",
+        "start": 20.51,
+        "end": 21.18,
+        "stretch": true,
+        "spoken": true
       }
     ],
-    "time": 217.12,
+    "time": 17.04,
+    "end": 21.18
+  },
+  {
+    "text": "I",
+    "startTime": 21.18,
+    "endTime": 21.64,
+    "words": [
+      {
+        "word": "I",
+        "start": 21.412,
+        "end": 21.64,
+        "stretch": true
+      }
+    ],
+    "time": 21.18,
+    "end": 21.64
+  },
+  {
+    "text": "●",
+    "startTime": 21.94,
+    "endTime": 63.78,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 21.94,
+    "end": 63.78
+  },
+  {
+    "text": "lost a demon",
+    "startTime": 63.78,
+    "endTime": 64.62,
+    "words": [
+      {
+        "word": "lost",
+        "start": 63.78,
+        "end": 64.14
+      },
+      {
+        "word": "a",
+        "start": 64.279,
+        "end": 64.42,
+        "stretch": true
+      },
+      {
+        "word": "demon",
+        "start": 64.42,
+        "end": 64.62,
+        "spoken": true
+      }
+    ],
+    "time": 63.78,
+    "end": 64.62
+  },
+  {
+    "text": "●",
+    "startTime": 64.92,
+    "endTime": 84.94,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 64.92,
+    "end": 84.94
+  },
+  {
+    "text": "I've been on my OD in every fucking weekend",
+    "startTime": 84.94,
+    "endTime": 87.58,
+    "words": [
+      {
+        "word": "I've",
+        "start": 85.01,
+        "end": 85.46,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "been",
+        "start": 85.46,
+        "end": 85.46
+      },
+      {
+        "word": "on",
+        "start": 85.46,
+        "end": 85.76,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 85.76,
+        "end": 85.78
+      },
+      {
+        "word": "OD",
+        "start": 85.78,
+        "end": 85.78
+      },
+      {
+        "word": "in",
+        "start": 85.78,
+        "end": 86.06,
+        "spoken": true
+      },
+      {
+        "word": "every",
+        "start": 86.264,
+        "end": 86.4,
+        "spoken": true
+      },
+      {
+        "word": "fucking",
+        "start": 86.4,
+        "end": 86.9
+      },
+      {
+        "word": "weekend",
+        "start": 86.9,
+        "end": 87.58,
+        "spoken": true
+      }
+    ],
+    "time": 84.94,
+    "end": 87.58
+  },
+  {
+    "text": "I've been on my OD in every fucking weekend",
+    "startTime": 87.58,
+    "endTime": 91.64,
+    "words": [
+      {
+        "word": "I've",
+        "start": 87.93,
+        "end": 88.84,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "been",
+        "start": 88.84,
+        "end": 89.08
+      },
+      {
+        "word": "on",
+        "start": 89.08,
+        "end": 89.48,
+        "stretch": true
+      },
+      {
+        "word": "my",
+        "start": 89.48,
+        "end": 89.74
+      },
+      {
+        "word": "OD",
+        "start": 89.74,
+        "end": 89.74
+      },
+      {
+        "word": "in",
+        "start": 89.74,
+        "end": 90.06,
+        "stretch": true
+      },
+      {
+        "word": "every",
+        "start": 90.06,
+        "end": 90.6
+      },
+      {
+        "word": "fucking",
+        "start": 90.6,
+        "end": 90.84
+      },
+      {
+        "word": "weekend",
+        "start": 90.91,
+        "end": 91.64,
+        "spoken": true
+      }
+    ],
+    "time": 87.58,
+    "end": 91.64
+  },
+  {
+    "text": "I've been doin' zany bars and heroin everyday",
+    "startTime": 91.64,
+    "endTime": 96.64,
+    "words": [
+      {
+        "word": "I've",
+        "start": 91.99,
+        "end": 92.88,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "been",
+        "start": 92.88,
+        "end": 93.08,
+        "spoken": true
+      },
+      {
+        "word": "doin'",
+        "start": 93.08,
+        "end": 93.36,
+        "spoken": true
+      },
+      {
+        "word": "zany",
+        "start": 93.68,
+        "end": 93.98,
+        "spoken": true
+      },
+      {
+        "word": "bars",
+        "start": 93.98,
+        "end": 94.38,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 94.38,
+        "end": 94.78,
+        "spoken": true
+      },
+      {
+        "word": "heroin",
+        "start": 94.78,
+        "end": 95.3,
+        "spoken": true
+      },
+      {
+        "word": "everyday",
+        "start": 95.65,
+        "end": 96.64,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 91.64,
+    "end": 96.64
+  },
+  {
+    "text": "I've been fuckin' hard, sittin' out the stuff",
+    "startTime": 97.36,
+    "endTime": 100.38,
+    "words": [
+      {
+        "word": "I've",
+        "start": 97.36,
+        "end": 98.0,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "been",
+        "start": 98.06,
+        "end": 98.1
+      },
+      {
+        "word": "fuckin'",
+        "start": 98.1,
+        "end": 98.42
+      },
+      {
+        "word": "hard,",
+        "start": 98.78,
+        "end": 99.08
+      },
+      {
+        "word": "sittin'",
+        "start": 99.34,
+        "end": 99.72
+      },
+      {
+        "word": "out",
+        "start": 99.78,
+        "end": 99.9
+      },
+      {
+        "word": "the",
+        "start": 100.128,
+        "end": 100.28,
+        "spoken": true
+      },
+      {
+        "word": "stuff",
+        "start": 100.28,
+        "end": 100.38,
+        "spoken": true
+      }
+    ],
+    "time": 97.36,
+    "end": 100.38
+  },
+  {
+    "text": "●",
+    "startTime": 100.68,
+    "endTime": 106.53,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 100.68,
+    "end": 106.53
+  },
+  {
+    "text": "Been dreamin', I've been dreamin'",
+    "startTime": 106.53,
+    "endTime": 108.71,
+    "words": [
+      {
+        "word": "Been",
+        "start": 106.6,
+        "end": 106.91,
+        "spoken": true
+      },
+      {
+        "word": "dreamin',",
+        "start": 106.91,
+        "end": 107.47,
+        "spoken": true
+      },
+      {
+        "word": "I've",
+        "start": 107.47,
+        "end": 107.79
+      },
+      {
+        "word": "been",
+        "start": 107.79,
+        "end": 107.99,
+        "spoken": true
+      },
+      {
+        "word": "dreamin'",
+        "start": 107.99,
+        "end": 108.71,
+        "spoken": true
+      }
+    ],
+    "time": 106.53,
+    "end": 108.71
+  },
+  {
+    "text": "●",
+    "startTime": 109.01,
+    "endTime": 217.688,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 109.01,
     "end": 217.688
   }
 ]

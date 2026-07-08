@@ -2,271 +2,287 @@
   {
     "text": "●",
     "startTime": 0.3,
-    "endTime": 103.42,
+    "endTime": 100.62,
     "words": [],
     "type": "vocal_cue",
     "time": 0.3,
-    "end": 103.42
+    "end": 100.62
   },
   {
-    "text": "Treat me gently",
-    "startTime": 103.42,
-    "endTime": 105.5,
+    "text": "I'm running away",
+    "startTime": 100.62,
+    "endTime": 103.3,
     "words": [
       {
-        "word": "Treat",
-        "start": 103.51,
-        "end": 103.57,
+        "word": "I'm",
+        "start": 100.97,
+        "end": 101.86,
         "char_starts": [
-          103.51,
-          103.51,
-          103.51,
-          103.51,
-          103.51
+          100.97,
+          101.149,
+          101.426
         ]
       },
       {
-        "word": "me",
-        "start": 103.62,
-        "end": 104
+        "word": "running",
+        "start": 101.87,
+        "end": 101.91
       },
       {
-        "word": "gently",
+        "word": "away",
+        "start": 102.27,
+        "end": 103.3,
+        "char_starts": [
+          102.27,
+          102.365,
+          102.556,
+          102.817
+        ]
+      }
+    ],
+    "time": 100.62,
+    "end": 103.3
+  },
+  {
+    "text": "Don't go away",
+    "startTime": 103.31,
+    "endTime": 103.62,
+    "words": [
+      {
+        "word": "Don't",
+        "start": 103.31,
+        "end": 103.445
+      },
+      {
+        "word": "go",
+        "start": 103.455,
+        "end": 103.504
+      },
+      {
+        "word": "away",
+        "start": 103.514,
+        "end": 103.62
+      }
+    ],
+    "time": 103.31,
+    "end": 103.62
+  },
+  {
+    "text": "I'm here to stay",
+    "startTime": 103.63,
+    "endTime": 108.5,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 103.63,
+        "end": 104.0
+      },
+      {
+        "word": "here",
         "start": 104.36,
         "end": 105.5,
         "char_starts": [
           104.36,
-          104.407,
-          104.503,
-          104.633,
-          104.793,
+          104.467,
+          104.683,
           104.978
         ],
         "spoken": true
-      }
-    ],
-    "time": 103.42,
-    "end": 105.5
-  },
-  {
-    "text": "●",
-    "startTime": 105.8,
-    "endTime": 119.8,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 105.8,
-    "end": 119.8
-  },
-  {
-    "text": "For I cannot sleep",
-    "startTime": 119.8,
-    "endTime": 120.14,
-    "words": [
+      },
       {
-        "word": "For",
-        "start": 119.8,
-        "end": 119.95,
+        "word": "to",
+        "start": 105.51,
+        "end": 107.0,
         "char_starts": [
           105.51,
-          105.89,
           106.478
         ],
         "spoken": true
       },
       {
+        "word": "stay",
+        "start": 107.335,
+        "end": 108.5,
+        "char_starts": [
+          107.335,
+          107.446,
+          107.671,
+          107.978
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 103.63,
+    "end": 108.5
+  },
+  {
+    "text": "●",
+    "startTime": 108.8,
+    "endTime": 120.0,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 108.8,
+    "end": 120.0
+  },
+  {
+    "text": "I need you to save me",
+    "startTime": 120.0,
+    "endTime": 123.72,
+    "words": [
+      {
         "word": "I",
-        "start": 120,
+        "start": 120.0,
         "end": 120.04
       },
       {
-        "word": "cannot",
+        "word": "need",
         "start": 120.05,
-        "end": 120.09
-      },
-      {
-        "word": "sleep",
-        "start": 120.1,
-        "end": 120.14
-      }
-    ],
-    "time": 119.8,
-    "end": 120.14
-  },
-  {
-    "text": "My hearts left empty",
-    "startTime": 120.15,
-    "endTime": 122.98,
-    "words": [
-      {
-        "word": "My",
-        "start": 120.15,
-        "end": 121.26,
-        "spoken": true
-      },
-      {
-        "word": "hearts",
-        "start": 121.27,
-        "end": 122.88,
+        "end": 121.54,
         "char_starts": [
-          121.27,
-          121.389,
-          121.574,
-          121.795,
-          122.044,
-          122.316
+          120.05,
+          120.27,
+          120.61,
+          121.019
         ],
         "spoken": true
       },
       {
-        "word": "left",
+        "word": "you",
+        "start": 122.88,
+        "end": 122.88
+      },
+      {
+        "word": "to",
         "start": 122.89,
         "end": 122.93
       },
       {
-        "word": "empty",
+        "word": "save",
         "start": 122.94,
-        "end": 122.98
-      }
-    ],
-    "time": 120.15,
-    "end": 122.98
-  },
-  {
-    "text": "For you to see",
-    "startTime": 122.99,
-    "endTime": 123.36,
-    "words": [
-      {
-        "word": "For",
-        "start": 122.99,
-        "end": 123.03
-      },
-      {
-        "word": "you",
-        "start": 123.04,
-        "end": 123.14,
+        "end": 123.04,
         "spoken": true
       },
       {
-        "word": "to",
-        "start": 123.15,
-        "end": 123.25,
-        "spoken": true
-      },
-      {
-        "word": "see",
-        "start": 123.26,
-        "end": 123.36,
+        "word": "me",
+        "start": 123.05,
+        "end": 123.72,
         "spoken": true
       }
     ],
-    "time": 122.99,
-    "end": 123.36
+    "time": 120.0,
+    "end": 123.72
   },
   {
-    "text": "Time grows heavy",
-    "startTime": 123.37,
-    "endTime": 123.69,
+    "text": "Cover these faces",
+    "startTime": 123.73,
+    "endTime": 128.22,
     "words": [
       {
-        "word": "Time",
-        "start": 123.37,
-        "end": 123.47
-      },
-      {
-        "word": "grows",
-        "start": 123.48,
-        "end": 123.58,
-        "spoken": true
-      },
-      {
-        "word": "heavy",
-        "start": 123.59,
-        "end": 123.69,
-        "spoken": true
-      }
-    ],
-    "time": 123.37,
-    "end": 123.69
-  },
-  {
-    "text": "It carves its thorns",
-    "startTime": 123.7,
-    "endTime": 124.13,
-    "words": [
-      {
-        "word": "It",
-        "start": 123.7,
-        "end": 123.8,
-        "spoken": true
-      },
-      {
-        "word": "carves",
-        "start": 123.81,
-        "end": 123.91,
-        "spoken": true
-      },
-      {
-        "word": "its",
-        "start": 123.92,
-        "end": 124.02,
-        "spoken": true
-      },
-      {
-        "word": "thorns",
-        "start": 124.03,
-        "end": 124.13,
-        "spoken": true
-      }
-    ],
-    "time": 123.7,
-    "end": 124.13
-  },
-  {
-    "text": "In my daydreams",
-    "startTime": 124.14,
-    "endTime": 125.22,
-    "words": [
-      {
-        "word": "In",
-        "start": 124.14,
-        "end": 124.24,
-        "spoken": true
-      },
-      {
-        "word": "my",
-        "start": 124.25,
-        "end": 124.35,
-        "spoken": true
-      },
-      {
-        "word": "daydreams",
-        "start": 124.36,
+        "word": "Cover",
+        "start": 123.776,
         "end": 125.22,
         "char_starts": [
-          124.36,
-          124.4,
-          124.463,
-          124.538,
-          124.623,
-          124.716,
-          124.815,
-          124.92,
-          125.031
+          123.776,
+          123.918,
+          124.138,
+          124.402,
+          124.698
+        ],
+        "spoken": true
+      },
+      {
+        "word": "these",
+        "start": 125.23,
+        "end": 126.72,
+        "char_starts": [
+          125.23,
+          125.335,
+          125.549,
+          125.841,
+          126.198
+        ]
+      },
+      {
+        "word": "faces",
+        "start": 126.73,
+        "end": 128.22,
+        "char_starts": [
+          126.73,
+          126.879,
+          127.11,
+          127.387,
+          127.698
         ],
         "spoken": true
       }
     ],
-    "time": 124.14,
-    "end": 125.22
+    "time": 123.73,
+    "end": 128.22
   },
   {
     "text": "●",
-    "startTime": 125.52,
-    "endTime": 152.804,
+    "startTime": 128.52,
+    "endTime": 151.46,
     "words": [],
     "type": "vocal_cue",
-    "time": 125.52,
-    "end": 152.804
+    "time": 128.52,
+    "end": 151.46
+  },
+  {
+    "text": "I need you to be my last breath",
+    "startTime": 151.46,
+    "endTime": 152.904,
+    "words": [
+      {
+        "word": "I",
+        "start": 151.46,
+        "end": 152.86,
+        "whisper": true
+      },
+      {
+        "word": "need",
+        "start": 152.804,
+        "end": 152.904,
+        "whisper": true
+      },
+      {
+        "word": "you",
+        "start": 152.804,
+        "end": 152.904,
+        "whisper": true
+      },
+      {
+        "word": "to",
+        "start": 152.804,
+        "end": 152.904,
+        "whisper": true
+      },
+      {
+        "word": "be",
+        "start": 152.804,
+        "end": 152.904,
+        "whisper": true
+      },
+      {
+        "word": "my",
+        "start": 152.804,
+        "end": 152.904,
+        "whisper": true
+      },
+      {
+        "word": "last",
+        "start": 152.804,
+        "end": 152.904,
+        "whisper": true
+      },
+      {
+        "word": "breath",
+        "start": 152.804,
+        "end": 152.904,
+        "whisper": true
+      }
+    ],
+    "time": 151.46,
+    "end": 152.904
   }
 ]

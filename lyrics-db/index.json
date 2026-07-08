@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T17:03:29.306107+00:00",
+  "generatedAt": "2026-07-08T17:04:52.899380+00:00",
   "totalTracks": 785,
   "roots": [
     "lyrics-db/tracks"
@@ -10388,20 +10388,6 @@
       "sourcePath": "https://soundcloud.com/lil_peep/lil-peep-harry-fraud-old-me",
       "mtimeMs": 1781881575058
     },
-    "☆lil peep☆::latitude": {
-      "title": "Latitude",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - Latitude",
-      "source": "Modal align_from_file",
-      "file": "tracks/lil-peep-latitude-a8462ab7ba56.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-latitude-a8462ab7ba56.json",
-        "meta": "tracks/lil-peep-latitude-a8462ab7ba56.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/latitude",
-      "mtimeMs": 1781881779413
-    },
     "rock3t::ярмак - баскетбол": {
       "title": "Ярмак - Баскетбол",
       "artist": "RoCk3T",
@@ -11033,6 +11019,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/no-respect-freestyle-prod-greaf",
       "mtimeMs": 1783530209952
+    },
+    "☆lil peep☆::latitude": {
+      "title": "Latitude",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - Latitude",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-latitude-a8462ab7ba56.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-latitude-a8462ab7ba56.json",
+        "meta": "tracks/lil-peep-latitude-a8462ab7ba56.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/latitude",
+      "mtimeMs": 1783530293349
     }
   },
   "tracks": [
@@ -21439,20 +21439,6 @@
       "mtimeMs": 1781881575058
     },
     {
-      "title": "Latitude",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - Latitude",
-      "source": "Modal align_from_file",
-      "file": "tracks/lil-peep-latitude-a8462ab7ba56.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-latitude-a8462ab7ba56.json",
-        "meta": "tracks/lil-peep-latitude-a8462ab7ba56.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/latitude",
-      "mtimeMs": 1781881779413
-    },
-    {
       "title": "Ярмак - Баскетбол",
       "artist": "RoCk3T",
       "originalTrackName": "RoCk3T - Ярмак - Баскетбол",
@@ -22083,6 +22069,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/no-respect-freestyle-prod-greaf",
       "mtimeMs": 1783530209952
+    },
+    {
+      "title": "Latitude",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - Latitude",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-latitude-a8462ab7ba56.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-latitude-a8462ab7ba56.json",
+        "meta": "tracks/lil-peep-latitude-a8462ab7ba56.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/latitude",
+      "mtimeMs": 1783530293349
     }
   ]
 }

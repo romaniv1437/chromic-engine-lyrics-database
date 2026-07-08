@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T20:22:32.433079+00:00",
+  "generatedAt": "2026-07-08T20:24:55.669253+00:00",
   "totalTracks": 788,
   "roots": [
     "lyrics-db/tracks"
@@ -10894,20 +10894,6 @@
       "sourcePath": "https://soundcloud.com/bladee1000/4-34-edit",
       "mtimeMs": 1783530957517
     },
-    "lil peep::lil peep & harry fraud - old me": {
-      "title": "Lil Peep & Harry Fraud - Old Me",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - Lil Peep & Harry Fraud - Old Me",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-lil-peep-harry-fraud-old-me-63aeaee935bb.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-lil-peep-harry-fraud-old-me-63aeaee935bb.json",
-        "meta": "tracks/lil-peep-lil-peep-harry-fraud-old-me-63aeaee935bb.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/lil-peep-harry-fraud-old-me",
-      "mtimeMs": 1783531043145
-    },
     "lil peep::right here w/ horsehead (prod. nedarb)": {
       "title": "right here w/ horsehead (prod. nedarb)",
       "artist": "Lil Peep",
@@ -11075,6 +11061,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/no-respect-freestyle-prod-greaf",
       "mtimeMs": 1783542152945
+    },
+    "lil peep::lil peep & harry fraud - old me": {
+      "title": "Lil Peep & Harry Fraud - Old Me",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep & Harry Fraud - Old Me",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-lil-peep-harry-fraud-old-me-63aeaee935bb.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-harry-fraud-old-me-63aeaee935bb.json",
+        "meta": "tracks/lil-peep-lil-peep-harry-fraud-old-me-63aeaee935bb.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/lil-peep-harry-fraud-old-me",
+      "mtimeMs": 1783542296069
     }
   },
   "tracks": [
@@ -21987,20 +21987,6 @@
       "mtimeMs": 1783530957517
     },
     {
-      "title": "Lil Peep & Harry Fraud - Old Me",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - Lil Peep & Harry Fraud - Old Me",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-lil-peep-harry-fraud-old-me-63aeaee935bb.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-lil-peep-harry-fraud-old-me-63aeaee935bb.json",
-        "meta": "tracks/lil-peep-lil-peep-harry-fraud-old-me-63aeaee935bb.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/lil-peep-harry-fraud-old-me",
-      "mtimeMs": 1783531043145
-    },
-    {
       "title": "right here w/ horsehead (prod. nedarb)",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - right here w/ horsehead (prod. nedarb)",
@@ -22167,6 +22153,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/no-respect-freestyle-prod-greaf",
       "mtimeMs": 1783542152945
+    },
+    {
+      "title": "Lil Peep & Harry Fraud - Old Me",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep & Harry Fraud - Old Me",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-lil-peep-harry-fraud-old-me-63aeaee935bb.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-harry-fraud-old-me-63aeaee935bb.json",
+        "meta": "tracks/lil-peep-lil-peep-harry-fraud-old-me-63aeaee935bb.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/lil-peep-harry-fraud-old-me",
+      "mtimeMs": 1783542296069
     }
   ]
 }

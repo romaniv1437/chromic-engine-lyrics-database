@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T16:33:14.705729+00:00",
+  "generatedAt": "2026-07-08T16:34:22.522002+00:00",
   "totalTracks": 785,
   "roots": [
     "lyrics-db/tracks"
@@ -10766,20 +10766,6 @@
       "sourcePath": "https://soundcloud.com/oodaredevil/tikiman-prod-fuurrg",
       "mtimeMs": 1783351926917
     },
-    "☆lil peep☆::gods (w/ lil tracy)": {
-      "title": "GODS (w/ Lil Tracy)",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - GODS (w/ Lil Tracy)",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
-        "meta": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
-      "mtimeMs": 1783425320731
-    },
     "lil peep, lil tracy, pollari::lil peep x pollàri x lil tracy - same shit(prod by horse head x bighead x lederrick)": {
       "title": "Lil Peep x Pollàri x Lil Tracy - SAME SHIT(prod by Horse Head x Bighead x Lederrick)",
       "artist": "lil peep, lil tracy, pollari",
@@ -11033,6 +11019,20 @@
       },
       "sourcePath": "https://soundcloud.com/lill_peep/every-weekend-w-slug-christ-prod-lederrick-x-lil-peep",
       "mtimeMs": 1783528395287
+    },
+    "☆lil peep☆::gods (w/ lil tracy)": {
+      "title": "GODS (w/ Lil Tracy)",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - GODS (w/ Lil Tracy)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+        "meta": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
+      "mtimeMs": 1783528463155
     }
   },
   "tracks": [
@@ -21817,20 +21817,6 @@
       "mtimeMs": 1783351926917
     },
     {
-      "title": "GODS (w/ Lil Tracy)",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - GODS (w/ Lil Tracy)",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
-        "meta": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
-      "mtimeMs": 1783425320731
-    },
-    {
       "title": "Lil Peep x Pollàri x Lil Tracy - SAME SHIT(prod by Horse Head x Bighead x Lederrick)",
       "artist": "lil peep, lil tracy, pollari",
       "originalTrackName": "lil peep, lil tracy, pollari - Lil Peep x Pollàri x Lil Tracy - SAME SHIT(prod by Horse Head x Bighead x Lederrick)",
@@ -22083,6 +22069,20 @@
       },
       "sourcePath": "https://soundcloud.com/lill_peep/every-weekend-w-slug-christ-prod-lederrick-x-lil-peep",
       "mtimeMs": 1783528395287
+    },
+    {
+      "title": "GODS (w/ Lil Tracy)",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - GODS (w/ Lil Tracy)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+        "meta": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
+      "mtimeMs": 1783528463155
     }
   ]
 }

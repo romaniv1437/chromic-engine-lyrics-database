@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T16:38:55.628673+00:00",
+  "generatedAt": "2026-07-08T17:03:29.306107+00:00",
   "totalTracks": 785,
   "roots": [
     "lyrics-db/tracks"
@@ -10598,20 +10598,6 @@
       "sourcePath": "https://soundcloud.com/kronik-williams/the-kronik-ft-lil-peep",
       "mtimeMs": 1782732993274
     },
-    "lil peep::no respect freestyle [prod. greaf]": {
-      "title": "no respect freestyle [prod. greaf]",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - no respect freestyle [prod. greaf]",
-      "source": "lrclib_plain",
-      "file": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
-        "meta": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/no-respect-freestyle-prod-greaf",
-      "mtimeMs": 1782769589303
-    },
     "thies, haftverbot, so ein bennet::telepatía (hoodtrap remix) feat. haftverbot": {
       "title": "Telepatía (hoodtrap remix) feat. Haftverbot",
       "artist": "Thies, Haftverbot, So ein Bennet",
@@ -11033,6 +11019,20 @@
       },
       "sourcePath": "https://soundcloud.com/theeking-431104483/lil-peep-another-cup",
       "mtimeMs": 1783528736170
+    },
+    "lil peep::no respect freestyle [prod. greaf]": {
+      "title": "no respect freestyle [prod. greaf]",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - no respect freestyle [prod. greaf]",
+      "source": "lrclib_plain",
+      "file": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
+        "meta": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/no-respect-freestyle-prod-greaf",
+      "mtimeMs": 1783530209952
     }
   },
   "tracks": [
@@ -21649,20 +21649,6 @@
       "mtimeMs": 1782732993274
     },
     {
-      "title": "no respect freestyle [prod. greaf]",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - no respect freestyle [prod. greaf]",
-      "source": "lrclib_plain",
-      "file": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
-        "meta": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/no-respect-freestyle-prod-greaf",
-      "mtimeMs": 1782769589303
-    },
-    {
       "title": "Telepatía (hoodtrap remix) feat. Haftverbot",
       "artist": "Thies, Haftverbot, So ein Bennet",
       "originalTrackName": "Thies, Haftverbot, So ein Bennet - Telepatía (hoodtrap remix) feat. Haftverbot",
@@ -22083,6 +22069,20 @@
       },
       "sourcePath": "https://soundcloud.com/theeking-431104483/lil-peep-another-cup",
       "mtimeMs": 1783528736170
+    },
+    {
+      "title": "no respect freestyle [prod. greaf]",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - no respect freestyle [prod. greaf]",
+      "source": "lrclib_plain",
+      "file": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
+        "meta": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/no-respect-freestyle-prod-greaf",
+      "mtimeMs": 1783530209952
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T20:20:57.792522+00:00",
+  "generatedAt": "2026-07-08T20:22:32.433079+00:00",
   "totalTracks": 788,
   "roots": [
     "lyrics-db/tracks"
@@ -10810,20 +10810,6 @@
       "sourcePath": "https://soundcloud.com/theeking-431104483/lil-peep-another-cup",
       "mtimeMs": 1783528736170
     },
-    "lil peep::no respect freestyle [prod. greaf]": {
-      "title": "no respect freestyle [prod. greaf]",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - no respect freestyle [prod. greaf]",
-      "source": "lrclib_plain",
-      "file": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
-        "meta": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/no-respect-freestyle-prod-greaf",
-      "mtimeMs": 1783530209952
-    },
     "kyston::obito x it's snowing like it's the end of the world": {
       "title": "Obito x It's Snowing Like It's The End Of The World",
       "artist": "Kyston",
@@ -11075,6 +11061,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
       "mtimeMs": 1783542058237
+    },
+    "lil peep::no respect freestyle [prod. greaf]": {
+      "title": "no respect freestyle [prod. greaf]",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - no respect freestyle [prod. greaf]",
+      "source": "lrclib_plain",
+      "file": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
+        "meta": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/no-respect-freestyle-prod-greaf",
+      "mtimeMs": 1783542152945
     }
   },
   "tracks": [
@@ -21903,20 +21903,6 @@
       "mtimeMs": 1783528736170
     },
     {
-      "title": "no respect freestyle [prod. greaf]",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - no respect freestyle [prod. greaf]",
-      "source": "lrclib_plain",
-      "file": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
-        "meta": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/no-respect-freestyle-prod-greaf",
-      "mtimeMs": 1783530209952
-    },
-    {
       "title": "Obito x It's Snowing Like It's The End Of The World",
       "artist": "Kyston",
       "originalTrackName": "Kyston - Obito x It's Snowing Like It's The End Of The World",
@@ -22167,6 +22153,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
       "mtimeMs": 1783542058237
+    },
+    {
+      "title": "no respect freestyle [prod. greaf]",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - no respect freestyle [prod. greaf]",
+      "source": "lrclib_plain",
+      "file": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.json",
+        "meta": "tracks/lil-peep-no-respect-freestyle-prod-greaf-dba8f99eb7ba.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/no-respect-freestyle-prod-greaf",
+      "mtimeMs": 1783542152945
     }
   ]
 }

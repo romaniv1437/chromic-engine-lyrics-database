@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T17:29:07.609940+00:00",
+  "generatedAt": "2026-07-08T19:42:14.052583+00:00",
   "totalTracks": 788,
   "roots": [
     "lyrics-db/tracks"
@@ -10908,20 +10908,6 @@
       "sourcePath": "https://soundcloud.com/gab3omg/gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse",
       "mtimeMs": 1783530569610
     },
-    "bladee::side by side (ft. thaiboy digital)": {
-      "title": "SIDE BY SIDE (FT. THAIBOY DIGITAL)",
-      "artist": "Bladee",
-      "originalTrackName": "Bladee - SIDE BY SIDE (FT. THAIBOY DIGITAL)",
-      "source": "lrclib_plain",
-      "file": "tracks/bladee-side-by-side-ft-thaiboy-digital-440388cb0316.json",
-      "files": {
-        "lyrics": "tracks/bladee-side-by-side-ft-thaiboy-digital-440388cb0316.json",
-        "meta": "tracks/bladee-side-by-side-ft-thaiboy-digital-440388cb0316.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/bladee1000/10-starr",
-      "mtimeMs": 1783530640891
-    },
     "lil peep::2008 (prod. hector vae)": {
       "title": "2008 (prod. hector vae)",
       "artist": "Lil Peep",
@@ -11075,6 +11061,20 @@
       },
       "sourcePath": "https://soundcloud.com/abidinkesknn/addiction-ultra-slowed",
       "mtimeMs": 1783531748059
+    },
+    "bladee::side by side (ft. thaiboy digital)": {
+      "title": "SIDE BY SIDE (FT. THAIBOY DIGITAL)",
+      "artist": "Bladee",
+      "originalTrackName": "Bladee - SIDE BY SIDE (FT. THAIBOY DIGITAL)",
+      "source": "lrclib_plain",
+      "file": "tracks/bladee-side-by-side-ft-thaiboy-digital-440388cb0316.json",
+      "files": {
+        "lyrics": "tracks/bladee-side-by-side-ft-thaiboy-digital-440388cb0316.json",
+        "meta": "tracks/bladee-side-by-side-ft-thaiboy-digital-440388cb0316.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bladee1000/10-starr",
+      "mtimeMs": 1783539735051
     }
   },
   "tracks": [
@@ -22001,20 +22001,6 @@
       "mtimeMs": 1783530569610
     },
     {
-      "title": "SIDE BY SIDE (FT. THAIBOY DIGITAL)",
-      "artist": "Bladee",
-      "originalTrackName": "Bladee - SIDE BY SIDE (FT. THAIBOY DIGITAL)",
-      "source": "lrclib_plain",
-      "file": "tracks/bladee-side-by-side-ft-thaiboy-digital-440388cb0316.json",
-      "files": {
-        "lyrics": "tracks/bladee-side-by-side-ft-thaiboy-digital-440388cb0316.json",
-        "meta": "tracks/bladee-side-by-side-ft-thaiboy-digital-440388cb0316.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/bladee1000/10-starr",
-      "mtimeMs": 1783530640891
-    },
-    {
       "title": "2008 (prod. hector vae)",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - 2008 (prod. hector vae)",
@@ -22167,6 +22153,20 @@
       },
       "sourcePath": "https://soundcloud.com/abidinkesknn/addiction-ultra-slowed",
       "mtimeMs": 1783531748059
+    },
+    {
+      "title": "SIDE BY SIDE (FT. THAIBOY DIGITAL)",
+      "artist": "Bladee",
+      "originalTrackName": "Bladee - SIDE BY SIDE (FT. THAIBOY DIGITAL)",
+      "source": "lrclib_plain",
+      "file": "tracks/bladee-side-by-side-ft-thaiboy-digital-440388cb0316.json",
+      "files": {
+        "lyrics": "tracks/bladee-side-by-side-ft-thaiboy-digital-440388cb0316.json",
+        "meta": "tracks/bladee-side-by-side-ft-thaiboy-digital-440388cb0316.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bladee1000/10-starr",
+      "mtimeMs": 1783539735051
     }
   ]
 }

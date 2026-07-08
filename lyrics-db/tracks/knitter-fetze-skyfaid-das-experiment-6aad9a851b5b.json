@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Thanks",
+    "startTime": 0.35,
+    "endTime": 1.44,
+    "words": [
+      {
+        "word": "Thanks",
+        "start": 0.35,
+        "end": 1.44,
+        "stretch": true
+      }
+    ],
+    "time": 0.35,
+    "end": 1.44
+  },
+  {
+    "text": "●",
+    "startTime": 1.74,
+    "endTime": 15.94,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 1.74,
+    "end": 15.94
+  },
+  {
+    "text": "for watching!",
+    "startTime": 15.94,
+    "endTime": 20.36,
+    "words": [
+      {
+        "word": "for",
+        "start": 16.29,
+        "end": 20.34,
+        "stretch": true
+      },
+      {
+        "word": "watching!",
+        "start": 20.34,
+        "end": 20.36
+      }
+    ],
+    "time": 15.94,
+    "end": 20.36
+  },
+  {
+    "text": "●",
+    "startTime": 20.66,
+    "endTime": 115.566,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 20.66,
+    "end": 115.566
+  }
+]

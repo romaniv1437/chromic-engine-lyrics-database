@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-08T20:55:33.425704+00:00",
-  "totalTracks": 789,
+  "generatedAt": "2026-07-08T21:32:47.445951+00:00",
+  "totalTracks": 790,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11089,6 +11089,20 @@
       },
       "sourcePath": "https://soundcloud.com/dontkillme_ru/lida-radi-boga-slowed-version-2024",
       "mtimeMs": 1783544134232
+    },
+    "knitter&fetze, skyfaid::das experiment": {
+      "title": "Das Experiment",
+      "artist": "Knitter&Fetze, SKYFAiD",
+      "originalTrackName": "Knitter&Fetze, SKYFAiD - Das Experiment",
+      "source": "whisper_only",
+      "file": "tracks/knitter-fetze-skyfaid-das-experiment-6aad9a851b5b.json",
+      "files": {
+        "lyrics": "tracks/knitter-fetze-skyfaid-das-experiment-6aad9a851b5b.json",
+        "meta": "tracks/knitter-fetze-skyfaid-das-experiment-6aad9a851b5b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/knitter-fetze/das-experiment",
+      "mtimeMs": 1783546368589
     }
   },
   "tracks": [
@@ -22195,6 +22209,20 @@
       },
       "sourcePath": "https://soundcloud.com/dontkillme_ru/lida-radi-boga-slowed-version-2024",
       "mtimeMs": 1783544134232
+    },
+    {
+      "title": "Das Experiment",
+      "artist": "Knitter&Fetze, SKYFAiD",
+      "originalTrackName": "Knitter&Fetze, SKYFAiD - Das Experiment",
+      "source": "whisper_only",
+      "file": "tracks/knitter-fetze-skyfaid-das-experiment-6aad9a851b5b.json",
+      "files": {
+        "lyrics": "tracks/knitter-fetze-skyfaid-das-experiment-6aad9a851b5b.json",
+        "meta": "tracks/knitter-fetze-skyfaid-das-experiment-6aad9a851b5b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/knitter-fetze/das-experiment",
+      "mtimeMs": 1783546368589
     }
   ]
 }

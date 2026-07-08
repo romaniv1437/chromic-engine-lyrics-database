@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T16:22:22.775966+00:00",
+  "generatedAt": "2026-07-08T16:23:46.923695+00:00",
   "totalTracks": 785,
   "roots": [
     "lyrics-db/tracks"
@@ -10626,20 +10626,6 @@
       "sourcePath": "https://soundcloud.com/lil_peep/give-u-the-moon",
       "mtimeMs": 1782472789343
     },
-    "lil peep::witchblades w/ lil tracy": {
-      "title": "witchblades w/ lil tracy",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - witchblades w/ lil tracy",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
-        "meta": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
-      "mtimeMs": 1782507887587
-    },
     "nh::banger": {
       "title": "BANGER",
       "artist": "NH",
@@ -11033,6 +11019,20 @@
       },
       "sourcePath": "https://soundcloud.com/gooseyhoe/gbc",
       "mtimeMs": 1783527743417
+    },
+    "lil peep::witchblades w/ lil tracy": {
+      "title": "witchblades w/ lil tracy",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - witchblades w/ lil tracy",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+        "meta": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
+      "mtimeMs": 1783527827355
     }
   },
   "tracks": [
@@ -21677,20 +21677,6 @@
       "mtimeMs": 1782472789343
     },
     {
-      "title": "witchblades w/ lil tracy",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - witchblades w/ lil tracy",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
-        "meta": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
-      "mtimeMs": 1782507887587
-    },
-    {
       "title": "BANGER",
       "artist": "NH",
       "originalTrackName": "NH - BANGER",
@@ -22083,6 +22069,20 @@
       },
       "sourcePath": "https://soundcloud.com/gooseyhoe/gbc",
       "mtimeMs": 1783527743417
+    },
+    {
+      "title": "witchblades w/ lil tracy",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - witchblades w/ lil tracy",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+        "meta": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
+      "mtimeMs": 1783527827355
     }
   ]
 }

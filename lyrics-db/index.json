@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T17:05:55.967635+00:00",
+  "generatedAt": "2026-07-08T17:06:37.932598+00:00",
   "totalTracks": 786,
   "roots": [
     "lyrics-db/tracks"
@@ -10430,20 +10430,6 @@
       "sourcePath": "https://soundcloud.com/lil_peep/prada-prod-lederrick",
       "mtimeMs": 1782033408916
     },
-    "☆lil peep☆::don't panic": {
-      "title": "DON'T PANIC",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - DON'T PANIC",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
-        "meta": "tracks/lil-peep-don-t-panic-a32bba08c6c7.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/dont-panic",
-      "mtimeMs": 1782146134625
-    },
     "☆lil peep☆::boba on the rocks": {
       "title": "boba on the rocks",
       "artist": "☆LiL PEEP☆",
@@ -11047,6 +11033,20 @@
       },
       "sourcePath": "https://soundcloud.com/joshua-malone-388547748/obito-x-its-snowing-like-its",
       "mtimeMs": 1783530356876
+    },
+    "☆lil peep☆::don't panic": {
+      "title": "DON'T PANIC",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - DON'T PANIC",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
+        "meta": "tracks/lil-peep-don-t-panic-a32bba08c6c7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/dont-panic",
+      "mtimeMs": 1783530398366
     }
   },
   "tracks": [
@@ -21495,20 +21495,6 @@
       "mtimeMs": 1782033408916
     },
     {
-      "title": "DON'T PANIC",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - DON'T PANIC",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
-        "meta": "tracks/lil-peep-don-t-panic-a32bba08c6c7.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/dont-panic",
-      "mtimeMs": 1782146134625
-    },
-    {
       "title": "boba on the rocks",
       "artist": "☆LiL PEEP☆",
       "originalTrackName": "☆LiL PEEP☆ - boba on the rocks",
@@ -22111,6 +22097,20 @@
       },
       "sourcePath": "https://soundcloud.com/joshua-malone-388547748/obito-x-its-snowing-like-its",
       "mtimeMs": 1783530356876
+    },
+    {
+      "title": "DON'T PANIC",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - DON'T PANIC",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-don-t-panic-a32bba08c6c7.json",
+        "meta": "tracks/lil-peep-don-t-panic-a32bba08c6c7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/dont-panic",
+      "mtimeMs": 1783530398366
     }
   ]
 }

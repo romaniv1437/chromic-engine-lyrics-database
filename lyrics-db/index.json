@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T17:07:50.911113+00:00",
+  "generatedAt": "2026-07-08T17:08:14.873386+00:00",
   "totalTracks": 787,
   "roots": [
     "lyrics-db/tracks"
@@ -10810,20 +10810,6 @@
       "sourcePath": "https://soundcloud.com/gooseyhoe/gbc",
       "mtimeMs": 1783527743417
     },
-    "lil peep::witchblades w/ lil tracy": {
-      "title": "witchblades w/ lil tracy",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - witchblades w/ lil tracy",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
-        "meta": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
-      "mtimeMs": 1783527827355
-    },
     "eric::alizée - moi... lolita (slowed)": {
       "title": "Alizée - Moi... Lolita (slowed)",
       "artist": "Eric",
@@ -11061,6 +11047,20 @@
       },
       "sourcePath": "https://soundcloud.com/caiman-2-68369149/eren-yaeger-its-snowing-like",
       "mtimeMs": 1783530471570
+    },
+    "lil peep::witchblades w/ lil tracy": {
+      "title": "witchblades w/ lil tracy",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - witchblades w/ lil tracy",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+        "meta": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
+      "mtimeMs": 1783530495438
     }
   },
   "tracks": [
@@ -21889,20 +21889,6 @@
       "mtimeMs": 1783527743417
     },
     {
-      "title": "witchblades w/ lil tracy",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - witchblades w/ lil tracy",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
-        "meta": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
-      "mtimeMs": 1783527827355
-    },
-    {
       "title": "Alizée - Moi... Lolita (slowed)",
       "artist": "Eric",
       "originalTrackName": "Eric - Alizée - Moi... Lolita (slowed)",
@@ -22139,6 +22125,20 @@
       },
       "sourcePath": "https://soundcloud.com/caiman-2-68369149/eren-yaeger-its-snowing-like",
       "mtimeMs": 1783530471570
+    },
+    {
+      "title": "witchblades w/ lil tracy",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - witchblades w/ lil tracy",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+        "meta": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
+      "mtimeMs": 1783530495438
     }
   ]
 }

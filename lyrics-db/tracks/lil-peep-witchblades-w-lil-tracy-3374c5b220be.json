@@ -10,15 +10,15 @@
         "end": 8.04,
         "char_starts": [
           6.88,
-          6.904,
-          6.953,
-          7.02,
-          7.102,
-          7.197,
-          7.304,
-          7.423,
-          7.553,
-          7.692
+          6.926,
+          6.975,
+          7.041,
+          7.122,
+          7.215,
+          7.32,
+          7.437,
+          7.564,
+          7.7
         ],
         "spoken": true,
         "singer": "singer1"
@@ -95,18 +95,18 @@
         "end": 15.88,
         "char_starts": [
           14.57,
-          14.595,
-          14.634,
-          14.679,
-          14.731,
-          14.787,
-          14.848,
-          14.912,
-          14.98,
-          15.05,
-          15.123,
-          15.2,
-          15.278
+          14.61,
+          14.65,
+          14.695,
+          14.747,
+          14.803,
+          14.864,
+          14.928,
+          14.995,
+          15.064,
+          15.136,
+          15.212,
+          15.289
         ],
         "spoken": true,
         "singer": "singer1"
@@ -118,11 +118,11 @@
         "char_starts": [
           16.505,
           16.561,
-          16.675,
-          16.83,
-          17.02,
-          17.241,
-          17.49
+          16.67,
+          16.816,
+          16.994,
+          17.201,
+          17.433
         ],
         "spoken": true,
         "singer": "singer1"
@@ -149,9 +149,9 @@
         "end": 18.95,
         "char_starts": [
           18.17,
-          18.305,
-          18.578,
-          18.95
+          18.297,
+          18.542,
+          18.872
         ],
         "spoken": true,
         "singer": "singer1"
@@ -169,8 +169,8 @@
         "end": 20.55,
         "char_starts": [
           19.846,
-          20.078,
-          20.55
+          20.053,
+          20.456
         ],
         "spoken": true,
         "singer": "singer1"
@@ -203,9 +203,9 @@
         "end": 22.602,
         "char_starts": [
           21.482,
-          21.737,
-          22.13,
-          22.602
+          21.717,
+          22.07,
+          22.491
         ],
         "spoken": true,
         "singer": "singer1"
@@ -237,18 +237,18 @@
         "end": 25.66,
         "char_starts": [
           24.839,
-          24.848,
-          24.867,
-          24.893,
-          24.924,
+          24.869,
+          24.899,
+          24.929,
           24.96,
-          25.001,
-          25.046,
-          25.095,
-          25.149,
-          25.206,
-          25.266,
-          25.33
+          24.996,
+          25.036,
+          25.08,
+          25.128,
+          25.18,
+          25.235,
+          25.293,
+          25.354
         ],
         "spoken": true,
         "singer": "singer2"
@@ -299,21 +299,6 @@
         "word": "Switchblades,",
         "start": 28.1,
         "end": 28.37,
-        "char_starts": [
-          28.1,
-          28.11,
-          28.124,
-          28.142,
-          28.161,
-          28.183,
-          28.206,
-          28.23,
-          28.256,
-          28.283,
-          28.311,
-          28.34,
-          28.37
-        ],
         "spoken": true,
         "singer": "singer1"
       },
@@ -338,18 +323,18 @@
         "end": 32.748,
         "char_starts": [
           30.94,
-          30.974,
-          31.043,
-          31.137,
-          31.253,
-          31.385,
-          31.537,
-          31.703,
-          31.885,
-          32.081,
-          32.291,
-          32.513,
-          32.748
+          30.996,
+          31.064,
+          31.155,
+          31.267,
+          31.394,
+          31.54,
+          31.699,
+          31.873,
+          32.06,
+          32.26,
+          32.471,
+          32.694
         ],
         "spoken": true,
         "singer": "singer1"
@@ -445,18 +430,18 @@
         "end": 38.96,
         "char_starts": [
           38.25,
-          38.257,
-          38.272,
-          38.293,
-          38.318,
-          38.347,
-          38.379,
-          38.415,
-          38.455,
-          38.497,
-          38.543,
-          38.591,
-          38.642
+          38.28,
+          38.31,
+          38.34,
+          38.37,
+          38.4,
+          38.432,
+          38.467,
+          38.506,
+          38.546,
+          38.59,
+          38.635,
+          38.683
         ],
         "spoken": true,
         "singer": "singer2"
@@ -481,11 +466,11 @@
         "end": 40.22,
         "char_starts": [
           39.84,
-          39.852,
-          39.877,
-          39.911,
-          39.953,
-          40.001
+          39.87,
+          39.9,
+          39.934,
+          39.975,
+          40.021
         ],
         "spoken": true,
         "singer": "singer2"
@@ -633,19 +618,19 @@
         "end": 48.3,
         "char_starts": [
           47.529,
-          47.546,
-          47.572,
-          47.604,
-          47.639,
-          47.677,
-          47.719,
-          47.763,
-          47.809,
-          47.858,
-          47.908,
-          47.96,
-          48.014,
-          48.069
+          47.559,
+          47.589,
+          47.621,
+          47.656,
+          47.694,
+          47.735,
+          47.778,
+          47.823,
+          47.871,
+          47.92,
+          47.971,
+          48.024,
+          48.078
         ],
         "spoken": true,
         "singer": "singer1"
@@ -759,42 +744,30 @@
   {
     "text": "Witchcraft, love chants",
     "startTime": 53.96,
-    "endTime": 55.9,
+    "endTime": 55.86,
     "words": [
       {
         "word": "Witchcraft,",
         "start": 54.31,
-        "end": 54.58,
-        "char_starts": [
-          54.31,
-          54.322,
-          54.34,
-          54.363,
-          54.388,
-          54.416,
-          54.445,
-          54.477,
-          54.51,
-          54.544,
-          54.58
-        ],
+        "end": 54.56,
         "singer": "singer1"
       },
       {
         "word": "love",
-        "start": 55.12,
-        "end": 55.32,
-        "singer": "singer1"
+        "start": 55.1,
+        "end": 55.3,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "chants",
-        "start": 55.33,
-        "end": 55.9,
+        "start": 55.31,
+        "end": 55.86,
         "singer": "singer1"
       }
     ],
     "time": 53.96,
-    "end": 55.9
+    "end": 55.86
   },
   {
     "text": "Whisper in my ear, put me in a trance",
@@ -833,7 +806,7 @@
       },
       {
         "word": "put",
-        "start": 59.08,
+        "start": 59.06,
         "end": 59.1,
         "singer": "singer1"
       },
@@ -863,11 +836,11 @@
         "end": 60.88,
         "char_starts": [
           60.185,
-          60.216,
-          60.28,
-          60.366,
-          60.472,
-          60.595
+          60.231,
+          60.294,
+          60.379,
+          60.483,
+          60.603
         ],
         "spoken": true,
         "singer": "singer1"
@@ -879,72 +852,75 @@
   {
     "text": "Cocaine all night long",
     "startTime": 61.84,
-    "endTime": 63.64,
+    "endTime": 63.68,
     "words": [
       {
         "word": "Cocaine",
         "start": 61.84,
-        "end": 61.9,
-        "spoken": true,
-        "singer": "singer2"
+        "end": 61.88,
+        "singer": "singer1"
       },
       {
         "word": "all",
-        "start": 62.66,
-        "end": 62.78,
-        "spoken": true,
+        "start": 62.24,
+        "end": 62.72,
+        "char_starts": [
+          62.24,
+          62.357,
+          62.537
+        ],
         "singer": "singer2"
       },
       {
         "word": "night",
-        "start": 62.79,
-        "end": 63.16,
+        "start": 62.73,
+        "end": 63.18,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "long",
-        "start": 63.452,
-        "end": 63.64,
-        "spoken": true,
+        "start": 63.484,
+        "end": 63.68,
+        "sung": true,
         "singer": "singer2"
       }
     ],
     "time": 61.84,
-    "end": 63.64
+    "end": 63.68
   },
   {
     "text": "When I die bury with all my ice on",
-    "startTime": 64.06,
+    "startTime": 64.04,
     "endTime": 66.54,
     "words": [
       {
         "word": "When",
-        "start": 64.06,
+        "start": 64.04,
         "end": 64.14,
         "singer": "singer1"
       },
       {
         "word": "I",
         "start": 64.15,
-        "end": 64.48,
+        "end": 64.5,
         "singer": "singer1"
       },
       {
         "word": "die",
-        "start": 64.49,
+        "start": 64.51,
         "end": 64.74,
         "singer": "singer1"
       },
       {
         "word": "bury",
-        "start": 64.75,
-        "end": 65.1,
+        "start": 65.1,
+        "end": 65.12,
         "singer": "singer1"
       },
       {
         "word": "with",
-        "start": 65.11,
+        "start": 65.13,
         "end": 65.38,
         "singer": "singer1"
       },
@@ -965,41 +941,41 @@
       {
         "word": "ice",
         "start": 65.87,
-        "end": 66.12,
+        "end": 66.14,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "on",
-        "start": 66.13,
+        "start": 66.15,
         "end": 66.54,
         "singer": "singer2"
       }
     ],
-    "time": 64.06,
+    "time": 64.04,
     "end": 66.54
   },
   {
     "text": "Witchcraft, love chants",
-    "startTime": 68.14,
-    "endTime": 70.32,
+    "startTime": 68.16,
+    "endTime": 70.34,
     "words": [
       {
         "word": "Witchcraft,",
-        "start": 68.14,
+        "start": 68.16,
         "end": 68.82,
         "char_starts": [
-          68.14,
-          68.164,
-          68.2,
-          68.244,
-          68.294,
-          68.348,
-          68.406,
-          68.468,
-          68.532,
-          68.6,
-          68.67
+          68.16,
+          68.19,
+          68.226,
+          68.268,
+          68.316,
+          68.369,
+          68.424,
+          68.483,
+          68.545,
+          68.61,
+          68.677
         ],
         "sung": true,
         "singer": "singer2",
@@ -1007,48 +983,58 @@
       },
       {
         "word": "love",
-        "start": 69.62,
+        "start": 69.68,
         "end": 69.78,
         "singer": "singer1"
       },
       {
         "word": "chants",
-        "start": 70.108,
-        "end": 70.32,
+        "start": 70.12,
+        "end": 70.34,
         "spoken": true,
         "singer": "singer1"
       }
     ],
-    "time": 68.14,
-    "end": 70.32
+    "time": 68.16,
+    "end": 70.34
   },
   {
     "text": "Whisper in my ear, put me in a trance",
-    "startTime": 70.78,
-    "endTime": 74.14,
+    "startTime": 70.84,
+    "endTime": 74.18,
     "words": [
       {
         "word": "Whisper",
-        "start": 70.78,
+        "start": 70.84,
         "end": 71.04,
+        "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "in",
         "start": 71.05,
-        "end": 71.28,
+        "end": 71.3,
+        "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "my",
-        "start": 71.29,
+        "start": 71.31,
         "end": 71.62,
+        "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "ear,",
         "start": 71.63,
-        "end": 72.06,
+        "end": 72.12,
+        "char_starts": [
+          71.63,
+          71.717,
+          71.851,
+          72.012
+        ],
+        "spoken": true,
         "singer": "singer2"
       },
       {
@@ -1067,118 +1053,124 @@
       {
         "word": "in",
         "start": 72.87,
-        "end": 72.98,
+        "end": 73.0,
         "singer": "singer2"
       },
       {
         "word": "a",
-        "start": 72.99,
+        "start": 73.01,
         "end": 73.24,
         "singer": "singer2"
       },
       {
         "word": "trance",
         "start": 73.529,
-        "end": 74.14,
+        "end": 74.18,
         "char_starts": [
           73.529,
-          73.555,
-          73.609,
-          73.681,
-          73.77,
-          73.873
+          73.572,
+          73.629,
+          73.706,
+          73.801,
+          73.91
         ],
+        "spoken": true,
         "singer": "singer1"
       }
     ],
-    "time": 70.78,
-    "end": 74.14
+    "time": 70.84,
+    "end": 74.18
   },
   {
     "text": "Cocaine all night long",
-    "startTime": 74.88,
-    "endTime": 77.04,
+    "startTime": 74.9,
+    "endTime": 77.08,
     "words": [
       {
         "word": "Cocaine",
-        "start": 74.88,
-        "end": 75.3,
+        "start": 74.9,
+        "end": 75.32,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "all",
-        "start": 75.984,
+        "start": 75.678,
         "end": 76.08,
+        "char_starts": [
+          75.678,
+          75.771,
+          75.915
+        ],
         "sung": true,
         "singer": "singer2"
       },
       {
         "word": "night",
         "start": 76.09,
-        "end": 76.48,
+        "end": 76.5,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "long",
-        "start": 76.82,
-        "end": 77.04,
+        "start": 76.852,
+        "end": 77.08,
         "sung": true,
         "singer": "singer1"
       }
     ],
-    "time": 74.88,
-    "end": 77.04
+    "time": 74.9,
+    "end": 77.08
   },
   {
     "text": "When I die bury with all my ice on",
-    "startTime": 77.35,
-    "endTime": 79.9,
+    "startTime": 77.38,
+    "endTime": 79.92,
     "words": [
       {
         "word": "When",
-        "start": 77.35,
+        "start": 77.38,
         "end": 77.5,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "I",
-        "start": 77.672,
-        "end": 77.78,
-        "spoken": true,
+        "start": 77.648,
+        "end": 77.74,
         "singer": "singer2"
       },
       {
         "word": "die",
-        "start": 77.79,
+        "start": 77.75,
         "end": 78.1,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "bury",
-        "start": 78.11,
-        "end": 78.44,
+        "start": 78.4,
+        "end": 78.48,
+        "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "with",
-        "start": 78.45,
+        "start": 78.49,
         "end": 78.78,
+        "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "all",
         "start": 78.79,
-        "end": 79.04,
-        "spoken": true,
+        "end": 79.06,
         "singer": "singer2"
       },
       {
         "word": "my",
-        "start": 79.05,
+        "start": 79.07,
         "end": 79.24,
         "spoken": true,
         "singer": "singer2"
@@ -1192,1188 +1184,1080 @@
       {
         "word": "on",
         "start": 79.49,
-        "end": 79.9,
+        "end": 79.92,
         "spoken": true,
         "singer": "singer2"
       }
     ],
-    "time": 77.35,
-    "end": 79.9
+    "time": 77.38,
+    "end": 79.92
   },
   {
     "text": "When I die, bury me with all my ice on",
-    "startTime": 80.47,
-    "endTime": 83.8,
+    "startTime": 79.93,
+    "endTime": 83.2,
     "words": [
       {
         "word": "When",
-        "start": 80.752,
-        "end": 80.94,
+        "start": 80.209,
+        "end": 80.42,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 80.95,
-        "end": 81.18,
+        "start": 80.7,
+        "end": 80.88,
+        "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "die,",
-        "start": 81.19,
-        "end": 81.46,
+        "start": 80.89,
+        "end": 81.2,
+        "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "bury",
-        "start": 81.64,
-        "end": 81.8,
+        "start": 81.21,
+        "end": 81.44,
         "singer": "singer1"
       },
       {
         "word": "me",
-        "start": 81.81,
-        "end": 82.06,
+        "start": 81.52,
+        "end": 81.78,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "with",
-        "start": 82.07,
-        "end": 82.34,
-        "spoken": true,
+        "start": 81.79,
+        "end": 82.08,
         "singer": "singer1"
       },
       {
         "word": "all",
-        "start": 82.35,
-        "end": 82.56,
+        "start": 82.09,
+        "end": 82.36,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "my",
+        "start": 82.37,
+        "end": 82.56,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ice",
         "start": 82.57,
         "end": 82.8,
         "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "ice",
-        "start": 83.056,
-        "end": 83.22,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
         "word": "on",
-        "start": 83.23,
-        "end": 83.8,
+        "start": 83.044,
+        "end": 83.2,
         "spoken": true,
         "singer": "singer1"
       }
     ],
-    "time": 80.47,
-    "end": 83.8
+    "time": 79.93,
+    "end": 83.2
   },
   {
     "text": "When I die, bury me without the lights on",
-    "startTime": 83.89,
-    "endTime": 87.46,
+    "startTime": 83.21,
+    "endTime": 88.35,
     "words": [
       {
         "word": "When",
-        "start": 83.89,
-        "end": 84.24,
+        "start": 83.21,
+        "end": 83.78,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 84.25,
-        "end": 84.5,
+        "start": 83.79,
+        "end": 83.957,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "die,",
-        "start": 84.696,
-        "end": 84.82,
+        "start": 83.967,
+        "end": 84.666,
+        "char_starts": [
+          83.967,
+          84.091,
+          84.282,
+          84.512
+        ],
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "bury",
-        "start": 84.96,
-        "end": 85.14,
+        "start": 84.815,
+        "end": 85.374,
+        "char_starts": [
+          84.815,
+          84.875,
+          84.998,
+          85.165
+        ],
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "me",
-        "start": 85.36,
-        "end": 85.5,
+        "start": 85.384,
+        "end": 85.729,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "without",
-        "start": 85.696,
-        "end": 85.82,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "the",
-        "start": 85.83,
-        "end": 86.16,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "lights",
-        "start": 86.17,
-        "end": 86.54,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "on",
-        "start": 86.898,
-        "end": 87.46,
-        "sung": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 83.89,
-    "end": 87.46
-  },
-  {
-    "text": "Lights off, nightlights",
-    "startTime": 87.53,
-    "endTime": 89.72,
-    "words": [
-      {
-        "word": "Lights",
-        "start": 87.576,
-        "end": 88.18,
+        "start": 85.739,
+        "end": 86.969,
         "char_starts": [
-          87.576,
-          87.627,
-          87.707,
-          87.801,
-          87.908,
-          88.024
-        ],
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "off,",
-        "start": 88.19,
-        "end": 89.12,
-        "char_starts": [
-          88.19,
-          88.355,
-          88.61,
-          88.915
-        ],
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "nightlights",
-        "start": 89.54,
-        "end": 89.72,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 87.53,
-    "end": 89.72
-  },
-  {
-    "text": "Clothes off, baby, I got good white",
-    "startTime": 90.81,
-    "endTime": 93.66,
-    "words": [
-      {
-        "word": "Clothes",
-        "start": 91.16,
-        "end": 91.48,
-        "char_starts": [
-          91.16,
-          91.175,
-          91.197,
-          91.223,
-          91.254,
-          91.287,
-          91.322
-        ],
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "off,",
-        "start": 91.49,
-        "end": 91.82,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "baby,",
-        "start": 91.84,
-        "end": 92.26,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "I",
-        "start": 92.28,
-        "end": 92.54,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "got",
-        "start": 92.55,
-        "end": 92.8,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "good",
-        "start": 92.81,
-        "end": 93.24,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "white",
-        "start": 93.25,
-        "end": 93.66,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 90.81,
-    "end": 93.66
-  },
-  {
-    "text": "When I die, bury me with all my ice on",
-    "startTime": 93.98,
-    "endTime": 97.16,
-    "words": [
-      {
-        "word": "When",
-        "start": 94.148,
-        "end": 94.26,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "I",
-        "start": 94.27,
-        "end": 94.52,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "die,",
-        "start": 94.53,
-        "end": 94.78,
-        "singer": "singer1"
-      },
-      {
-        "word": "bury",
-        "start": 95.0,
-        "end": 95.16,
-        "singer": "singer1"
-      },
-      {
-        "word": "me",
-        "start": 95.17,
-        "end": 95.44,
-        "singer": "singer1"
-      },
-      {
-        "word": "with",
-        "start": 95.45,
-        "end": 95.7,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "all",
-        "start": 95.71,
-        "end": 95.9,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "my",
-        "start": 95.91,
-        "end": 96.14,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "ice",
-        "start": 96.396,
-        "end": 96.56,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "on",
-        "start": 96.57,
-        "end": 97.16,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 93.98,
-    "end": 97.16
-  },
-  {
-    "text": "When I die, bury me without the lights on",
-    "startTime": 97.28,
-    "endTime": 100.76,
-    "words": [
-      {
-        "word": "When",
-        "start": 97.28,
-        "end": 97.52,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "I",
-        "start": 97.53,
-        "end": 97.88,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "die,",
-        "start": 97.89,
-        "end": 98.14,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "bury",
-        "start": 98.28,
-        "end": 98.46,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "me",
-        "start": 98.47,
-        "end": 98.74,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "without",
-        "start": 98.75,
-        "end": 99.14,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "the",
-        "start": 99.15,
-        "end": 99.52,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "lights",
-        "start": 99.728,
-        "end": 99.86,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "on",
-        "start": 99.87,
-        "end": 100.76,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 97.28,
-    "end": 100.76
-  },
-  {
-    "text": "Lights off, nightlights",
-    "startTime": 100.77,
-    "endTime": 103.1,
-    "words": [
-      {
-        "word": "Lights",
-        "start": 100.77,
-        "end": 101.46,
-        "char_starts": [
-          100.77,
-          100.831,
-          100.926,
-          101.04,
-          101.168,
-          101.308
-        ],
-        "singer": "singer2"
-      },
-      {
-        "word": "off,",
-        "start": 101.47,
-        "end": 102.3,
-        "char_starts": [
-          101.47,
-          101.617,
-          101.844,
-          102.117
-        ],
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "nightlights",
-        "start": 102.86,
-        "end": 103.1,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 100.77,
-    "end": 103.1
-  },
-  {
-    "text": "Clothes off baby I got good white",
-    "startTime": 104.05,
-    "endTime": 107.28,
-    "words": [
-      {
-        "word": "Clothes",
-        "start": 104.096,
-        "end": 104.84,
-        "char_starts": [
-          104.096,
-          104.144,
-          104.217,
-          104.305,
-          104.404,
-          104.512,
-          104.629
+          85.739,
+          85.81,
+          85.92,
+          86.053,
+          86.201,
+          86.364,
+          86.538
         ],
         "sung": true,
         "singer": "singer2",
         "stretch": true
       },
       {
-        "word": "off",
-        "start": 104.85,
-        "end": 105.2,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "baby",
-        "start": 105.42,
-        "end": 105.6,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "I",
-        "start": 105.74,
-        "end": 105.86,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "got",
-        "start": 105.87,
-        "end": 106.08,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "good",
-        "start": 106.42,
-        "end": 106.64,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "white",
-        "start": 106.882,
-        "end": 107.28,
-        "sung": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 104.05,
-    "end": 107.28
-  },
-  {
-    "text": "Clothes off baby I got good white",
-    "startTime": 107.46,
-    "endTime": 110.18,
-    "words": [
-      {
-        "word": "Clothes",
-        "start": 107.506,
-        "end": 108.032,
+        "word": "the",
+        "start": 86.979,
+        "end": 87.5,
         "char_starts": [
-          107.506,
-          107.539,
-          107.589,
-          107.648,
-          107.716,
-          107.789,
-          107.869
+          86.979,
+          87.099,
+          87.344
         ],
         "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "off",
-        "start": 108.158,
-        "end": 108.354,
+        "word": "lights",
+        "start": 87.86,
+        "end": 88.24,
+        "char_starts": [
+          87.86,
+          87.89,
+          87.929,
+          87.975,
+          88.026,
+          88.082
+        ],
         "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "baby",
-        "start": 108.616,
-        "end": 108.784,
+        "word": "on",
+        "start": 88.25,
+        "end": 88.35,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 83.21,
+    "end": 88.35
+  },
+  {
+    "text": "Lights off, nightlights",
+    "startTime": 87.47,
+    "endTime": 87.79,
+    "words": [
+      {
+        "word": "Lights",
+        "start": 87.47,
+        "end": 87.57,
+        "singer": "singer1"
+      },
+      {
+        "word": "off,",
+        "start": 87.58,
+        "end": 87.68,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "nightlights",
+        "start": 87.69,
+        "end": 87.79,
+        "singer": "singer1"
+      }
+    ],
+    "time": 87.47,
+    "end": 87.79
+  },
+  {
+    "text": "Clothes off, baby, I got good white",
+    "startTime": 90.75,
+    "endTime": 91.51,
+    "words": [
+      {
+        "word": "Clothes",
+        "start": 90.75,
+        "end": 90.85,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "off,",
+        "start": 90.86,
+        "end": 90.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "baby,",
+        "start": 90.97,
+        "end": 91.07,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 108.794,
-        "end": 108.891,
+        "start": 91.08,
+        "end": 91.18,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "got",
-        "start": 108.994,
-        "end": 109.213,
+        "start": 91.19,
+        "end": 91.29,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "good",
-        "start": 109.223,
-        "end": 109.643,
+        "start": 91.3,
+        "end": 91.4,
+        "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "white",
-        "start": 109.839,
-        "end": 110.18,
+        "start": 91.41,
+        "end": 91.51,
         "spoken": true,
         "singer": "singer1"
       }
     ],
-    "time": 107.46,
-    "end": 110.18
+    "time": 90.75,
+    "end": 91.51
   },
   {
-    "text": "Tell me a secret, and I'll tell one of mines",
-    "startTime": 110.19,
-    "endTime": 113.98,
+    "text": "When I",
+    "startTime": 93.92,
+    "endTime": 94.13,
     "words": [
       {
-        "word": "Tell",
-        "start": 110.236,
-        "end": 110.6,
+        "word": "When",
+        "start": 93.92,
+        "end": 94.02,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 94.03,
+        "end": 94.13,
+        "singer": "singer1"
+      }
+    ],
+    "time": 93.92,
+    "end": 94.13
+  },
+  {
+    "text": "When I die, bury me without the lights on",
+    "startTime": 97.22,
+    "endTime": 98.03,
+    "words": [
+      {
+        "word": "When",
+        "start": 97.22,
+        "end": 97.31,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 97.32,
+        "end": 97.49,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "die,",
+        "start": 97.5,
+        "end": 97.55,
+        "singer": "singer1"
+      },
+      {
+        "word": "bury",
+        "start": 97.56,
+        "end": 97.6,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 97.61,
+        "end": 97.65,
+        "singer": "singer1"
+      },
+      {
+        "word": "without",
+        "start": 97.66,
+        "end": 97.7,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 97.71,
+        "end": 97.81,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lights",
+        "start": 97.82,
+        "end": 97.92,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 97.93,
+        "end": 98.03,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 97.22,
+    "end": 98.03
+  },
+  {
+    "text": "die, bury me with all my ice on",
+    "startTime": 98.51,
+    "endTime": 100.9,
+    "words": [
+      {
+        "word": "die,",
+        "start": 98.678,
+        "end": 98.79,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bury",
+        "start": 98.8,
+        "end": 99.19,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "me",
-        "start": 110.61,
-        "end": 110.86,
+        "start": 99.2,
+        "end": 99.45,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 99.46,
+        "end": 99.55,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "all",
+        "start": 99.839,
+        "end": 100.39,
+        "char_starts": [
+          99.839,
+          100.029,
+          100.316
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 100.4,
+        "end": 100.55,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ice",
+        "start": 100.6,
+        "end": 100.75,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 100.8,
+        "end": 100.9,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 98.51,
+    "end": 100.9
+  },
+  {
+    "text": "Lights off, nightlights",
+    "startTime": 100.58,
+    "endTime": 100.9,
+    "words": [
+      {
+        "word": "Lights",
+        "start": 100.58,
+        "end": 100.68,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "off,",
+        "start": 100.69,
+        "end": 100.79,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "nightlights",
+        "start": 100.8,
+        "end": 100.9,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 100.58,
+    "end": 100.9
+  },
+  {
+    "text": "Clothes off baby I got good white",
+    "startTime": 103.99,
+    "endTime": 104.75,
+    "words": [
+      {
+        "word": "Clothes",
+        "start": 103.99,
+        "end": 104.09,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "off",
+        "start": 104.1,
+        "end": 104.2,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "baby",
+        "start": 104.21,
+        "end": 104.31,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 104.32,
+        "end": 104.42,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "got",
+        "start": 104.43,
+        "end": 104.53,
+        "singer": "singer2"
+      },
+      {
+        "word": "good",
+        "start": 104.54,
+        "end": 104.64,
+        "singer": "singer2"
+      },
+      {
+        "word": "white",
+        "start": 104.65,
+        "end": 104.75,
+        "singer": "singer2"
+      }
+    ],
+    "time": 103.99,
+    "end": 104.75
+  },
+  {
+    "text": "Clothes off baby I got good white",
+    "startTime": 107.4,
+    "endTime": 108.16,
+    "words": [
+      {
+        "word": "Clothes",
+        "start": 107.46,
+        "end": 107.5,
+        "singer": "singer1"
+      },
+      {
+        "word": "off",
+        "start": 107.51,
+        "end": 107.61,
+        "singer": "singer1"
+      },
+      {
+        "word": "baby",
+        "start": 107.62,
+        "end": 107.72,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 107.73,
+        "end": 107.83,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "got",
+        "start": 107.84,
+        "end": 107.94,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "good",
+        "start": 107.95,
+        "end": 108.05,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "white",
+        "start": 108.06,
+        "end": 108.16,
+        "singer": "singer1"
+      }
+    ],
+    "time": 107.4,
+    "end": 108.16
+  },
+  {
+    "text": "Tell me a secret, and I'll tell one of mines",
+    "startTime": 110.43,
+    "endTime": 111.52,
+    "words": [
+      {
+        "word": "Tell",
+        "start": 110.43,
+        "end": 110.53,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 110.54,
+        "end": 110.64,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "a",
-        "start": 110.87,
-        "end": 111.16,
+        "start": 110.65,
+        "end": 110.75,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "secret,",
-        "start": 111.472,
-        "end": 111.8,
+        "start": 110.76,
+        "end": 110.86,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "and",
-        "start": 112.092,
-        "end": 112.28,
+        "start": 110.87,
+        "end": 110.97,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "I'll",
-        "start": 112.29,
-        "end": 112.52,
+        "start": 110.98,
+        "end": 111.08,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "tell",
-        "start": 112.53,
-        "end": 112.68,
+        "start": 111.09,
+        "end": 111.19,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "one",
-        "start": 112.69,
-        "end": 113.02,
-        "sung": true,
-        "singer": "singer2"
+        "start": 111.2,
+        "end": 111.3,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "of",
-        "start": 113.03,
-        "end": 113.28,
+        "start": 111.31,
+        "end": 111.41,
         "spoken": true,
-        "singer": "singer2"
+        "singer": "singer1"
       },
       {
         "word": "mines",
-        "start": 113.545,
-        "end": 113.98,
-        "char_starts": [
-          113.545,
-          113.589,
-          113.656,
-          113.737,
-          113.828
-        ],
-        "sung": true,
+        "start": 111.42,
+        "end": 111.52,
         "singer": "singer1"
       }
     ],
-    "time": 110.19,
-    "end": 113.98
+    "time": 110.43,
+    "end": 111.52
   },
   {
     "text": "I just wanna talk, I don't wanna fight",
-    "startTime": 113.99,
-    "endTime": 116.78,
+    "startTime": 113.86,
+    "endTime": 114.73,
     "words": [
       {
         "word": "I",
-        "start": 113.99,
-        "end": 114.12,
+        "start": 113.86,
+        "end": 113.96,
+        "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "just",
-        "start": 114.2,
-        "end": 114.44,
-        "spoken": true,
+        "start": 113.97,
+        "end": 114.07,
         "singer": "singer1"
       },
       {
         "word": "wanna",
-        "start": 114.45,
-        "end": 114.7,
+        "start": 114.14,
+        "end": 114.18,
         "singer": "singer1"
       },
       {
         "word": "talk,",
-        "start": 114.803,
-        "end": 115.26,
+        "start": 114.19,
+        "end": 114.29,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 115.6,
-        "end": 115.8,
+        "start": 114.3,
+        "end": 114.4,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "don't",
-        "start": 115.81,
-        "end": 116.06,
+        "start": 114.41,
+        "end": 114.51,
         "singer": "singer1"
       },
       {
         "word": "wanna",
-        "start": 116.07,
-        "end": 116.4,
+        "start": 114.52,
+        "end": 114.62,
         "singer": "singer1"
       },
       {
         "word": "fight",
-        "start": 116.41,
-        "end": 116.78,
-        "spoken": true,
+        "start": 114.63,
+        "end": 114.73,
         "singer": "singer1"
       }
     ],
-    "time": 113.99,
-    "end": 116.78
+    "time": 113.86,
+    "end": 114.73
   },
   {
     "text": "Ask me if I'm alright, do you want me to lie?",
-    "startTime": 116.79,
-    "endTime": 120.66,
+    "startTime": 117.16,
+    "endTime": 118.36,
     "words": [
       {
         "word": "Ask",
-        "start": 116.906,
-        "end": 117.1,
+        "start": 117.16,
+        "end": 117.26,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "me",
-        "start": 117.11,
-        "end": 117.36,
+        "start": 117.27,
+        "end": 117.37,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "if",
-        "start": 117.37,
-        "end": 117.54,
+        "start": 117.38,
+        "end": 117.48,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "I'm",
-        "start": 117.55,
-        "end": 117.94,
+        "start": 117.49,
+        "end": 117.59,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "alright,",
-        "start": 118.159,
-        "end": 118.5,
+        "start": 117.6,
+        "end": 117.7,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "do",
-        "start": 118.7,
-        "end": 119.0,
-        "spoken": true,
+        "start": 117.71,
+        "end": 117.81,
         "singer": "singer1"
       },
       {
         "word": "you",
-        "start": 119.01,
-        "end": 119.18,
-        "spoken": true,
+        "start": 117.82,
+        "end": 117.92,
         "singer": "singer1"
       },
       {
         "word": "want",
-        "start": 119.19,
-        "end": 119.4,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 117.93,
+        "end": 118.03,
+        "singer": "singer1"
       },
       {
         "word": "me",
-        "start": 119.41,
-        "end": 119.64,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 118.1,
+        "end": 118.14,
+        "singer": "singer1"
       },
       {
         "word": "to",
-        "start": 119.65,
-        "end": 119.98,
+        "start": 118.15,
+        "end": 118.25,
         "spoken": true,
-        "singer": "singer2"
+        "singer": "singer1"
       },
       {
         "word": "lie?",
-        "start": 119.99,
-        "end": 120.66,
-        "char_starts": [
-          119.99,
-          120.109,
-          120.292,
-          120.513
-        ],
+        "start": 118.26,
+        "end": 118.36,
         "spoken": true,
-        "singer": "singer2"
+        "singer": "singer1"
       }
     ],
-    "time": 116.79,
-    "end": 120.66
+    "time": 117.16,
+    "end": 118.36
   },
   {
     "text": "Switchblades, cocaine",
-    "startTime": 121.2,
-    "endTime": 122.28,
+    "startTime": 120.99,
+    "endTime": 121.2,
     "words": [
       {
         "word": "Switchblades,",
-        "start": 121.2,
-        "end": 121.4,
+        "start": 120.99,
+        "end": 121.09,
+        "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "cocaine",
-        "start": 121.573,
-        "end": 122.28,
-        "char_starts": [
-          121.573,
-          121.599,
-          121.65,
-          121.72,
-          121.806,
-          121.906,
-          122.019
-        ],
+        "start": 121.1,
+        "end": 121.2,
         "spoken": true,
         "singer": "singer2"
       }
     ],
-    "time": 121.2,
-    "end": 122.28
+    "time": 120.99,
+    "end": 121.2
   },
   {
     "text": "GothBoiClique make a hoe shake",
-    "startTime": 124.28,
-    "endTime": 126.22,
+    "startTime": 124.22,
+    "endTime": 124.76,
     "words": [
       {
         "word": "GothBoiClique",
-        "start": 124.373,
-        "end": 124.84,
-        "char_starts": [
-          124.373,
-          124.378,
-          124.388,
-          124.402,
-          124.42,
-          124.439,
-          124.461,
-          124.487,
-          124.513,
-          124.543,
-          124.574,
-          124.607,
-          124.642
-        ],
+        "start": 124.22,
+        "end": 124.32,
         "singer": "singer1"
       },
       {
         "word": "make",
-        "start": 124.85,
-        "end": 125.16,
+        "start": 124.33,
+        "end": 124.43,
         "singer": "singer1"
       },
       {
         "word": "a",
-        "start": 125.17,
-        "end": 125.54,
-        "spoken": true,
+        "start": 124.44,
+        "end": 124.54,
         "singer": "singer1"
       },
       {
         "word": "hoe",
-        "start": 125.74,
-        "end": 125.94,
-        "spoken": true,
+        "start": 124.55,
+        "end": 124.65,
         "singer": "singer1"
       },
       {
         "word": "shake",
-        "start": 125.95,
-        "end": 126.22,
+        "start": 124.66,
+        "end": 124.76,
         "singer": "singer1"
       }
     ],
-    "time": 124.28,
-    "end": 126.22
+    "time": 124.22,
+    "end": 124.76
   },
   {
     "text": "Black fur, black coat",
-    "startTime": 127.64,
-    "endTime": 130.56,
+    "startTime": 127.58,
+    "endTime": 128.01,
     "words": [
       {
         "word": "Black",
         "start": 127.64,
-        "end": 128.06,
-        "char_starts": [
-          127.64,
-          127.68,
-          127.743,
-          127.818,
-          127.902
-        ],
-        "spoken": true,
+        "end": 127.68,
         "singer": "singer1"
       },
       {
         "word": "fur,",
-        "start": 128.07,
-        "end": 128.78,
-        "char_starts": [
-          128.07,
-          128.196,
-          128.39,
-          128.624
-        ],
-        "spoken": true,
+        "start": 127.69,
+        "end": 127.79,
         "singer": "singer1"
       },
       {
         "word": "black",
-        "start": 129.7,
-        "end": 129.82,
-        "singer": "singer2"
+        "start": 127.8,
+        "end": 127.9,
+        "singer": "singer1"
       },
       {
         "word": "coat",
-        "start": 130.18,
-        "end": 130.56,
-        "char_starts": [
-          130.18,
-          130.23,
-          130.307,
-          130.399
-        ],
-        "spoken": true,
+        "start": 127.91,
+        "end": 128.01,
         "singer": "singer1"
       }
     ],
-    "time": 127.64,
-    "end": 130.56
+    "time": 127.58,
+    "end": 128.01
   },
   {
     "text": "GothBoiClique in the back hoe",
-    "startTime": 131.46,
-    "endTime": 133.26,
+    "startTime": 131.08,
+    "endTime": 131.62,
     "words": [
       {
         "word": "GothBoiClique",
-        "start": 131.623,
-        "end": 131.86,
+        "start": 131.08,
+        "end": 131.18,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "in",
-        "start": 131.94,
-        "end": 132.26,
+        "start": 131.19,
+        "end": 131.29,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "the",
-        "start": 132.27,
-        "end": 132.56,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 131.3,
+        "end": 131.4,
+        "whisper": true,
+        "singer": "singer1"
       },
       {
         "word": "back",
-        "start": 132.733,
-        "end": 132.92,
+        "start": 131.41,
+        "end": 131.51,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "hoe",
-        "start": 132.93,
-        "end": 133.26,
-        "singer": "singer2"
-      }
-    ],
-    "time": 131.46,
-    "end": 133.26
-  },
-  {
-    "text": "Switchblades, cocaine",
-    "startTime": 134.42,
-    "endTime": 135.66,
-    "words": [
-      {
-        "word": "Switchblades,",
-        "start": 134.42,
-        "end": 134.74,
-        "char_starts": [
-          134.42,
-          134.425,
-          134.434,
-          134.444,
-          134.456,
-          134.468,
-          134.481,
-          134.496,
-          134.511,
-          134.526,
-          134.543,
-          134.56,
-          134.577
-        ],
-        "singer": "singer1"
-      },
-      {
-        "word": "cocaine",
-        "start": 134.889,
-        "end": 135.66,
-        "char_starts": [
-          134.889,
-          134.917,
-          134.975,
-          135.053,
-          135.149,
-          135.261,
-          135.387
-        ],
+        "start": 131.52,
+        "end": 131.62,
         "spoken": true,
         "singer": "singer2"
       }
     ],
-    "time": 134.42,
-    "end": 135.66
+    "time": 131.08,
+    "end": 131.62
+  },
+  {
+    "text": "Switchblades, cocaine",
+    "startTime": 134.36,
+    "endTime": 134.57,
+    "words": [
+      {
+        "word": "Switchblades,",
+        "start": 134.36,
+        "end": 134.46,
+        "singer": "singer1"
+      },
+      {
+        "word": "cocaine",
+        "start": 134.47,
+        "end": 134.57,
+        "singer": "singer1"
+      }
+    ],
+    "time": 134.36,
+    "end": 134.57
   },
   {
     "text": "GothBoiClique 'til my soul take",
-    "startTime": 138.14,
-    "endTime": 139.82,
+    "startTime": 137.73,
+    "endTime": 138.27,
     "words": [
       {
         "word": "GothBoiClique",
-        "start": 138.186,
-        "end": 138.5,
+        "start": 137.73,
+        "end": 137.83,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "'til",
-        "start": 138.51,
-        "end": 138.86,
+        "start": 137.84,
+        "end": 137.94,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "my",
-        "start": 138.986,
-        "end": 139.14,
-        "singer": "singer1"
+        "start": 137.95,
+        "end": 138.05,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "soul",
-        "start": 139.15,
-        "end": 139.5,
+        "start": 138.06,
+        "end": 138.16,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "take",
-        "start": 139.51,
-        "end": 139.82,
+        "start": 138.17,
+        "end": 138.27,
         "spoken": true,
         "singer": "singer2"
       }
     ],
-    "time": 138.14,
-    "end": 139.82
+    "time": 137.73,
+    "end": 138.27
   },
   {
     "text": "Black jeans, half black hoes",
-    "startTime": 141.09,
-    "endTime": 143.86,
+    "startTime": 141.03,
+    "endTime": 141.57,
     "words": [
       {
         "word": "Black",
-        "start": 141.183,
-        "end": 141.44,
+        "start": 141.03,
+        "end": 141.13,
         "singer": "singer1"
       },
       {
         "word": "jeans,",
-        "start": 141.45,
-        "end": 142.04,
+        "start": 141.14,
+        "end": 141.24,
         "singer": "singer1"
       },
       {
         "word": "half",
-        "start": 142.6,
-        "end": 142.66,
-        "whisper": true,
+        "start": 141.25,
+        "end": 141.35,
         "singer": "singer1"
       },
       {
         "word": "black",
-        "start": 142.67,
-        "end": 143.22,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 141.36,
+        "end": 141.46,
+        "singer": "singer1"
       },
       {
         "word": "hoes",
-        "start": 143.23,
-        "end": 143.86,
-        "spoken": true,
+        "start": 141.47,
+        "end": 141.57,
         "singer": "singer2"
       }
     ],
-    "time": 141.09,
-    "end": 143.86
+    "time": 141.03,
+    "end": 141.57
   },
   {
     "text": "GothBoiClique in the castle",
-    "startTime": 144.8,
-    "endTime": 146.18,
+    "startTime": 144.45,
+    "endTime": 144.88,
     "words": [
       {
         "word": "GothBoiClique",
-        "start": 144.87,
-        "end": 145.16,
+        "start": 144.45,
+        "end": 144.55,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "in",
-        "start": 145.17,
-        "end": 145.58,
+        "start": 144.56,
+        "end": 144.66,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "the",
-        "start": 145.59,
-        "end": 145.9,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 144.73,
+        "end": 144.77,
+        "whisper": true,
+        "singer": "singer1"
       },
       {
         "word": "castle",
-        "start": 145.91,
-        "end": 146.18,
+        "start": 144.78,
+        "end": 144.88,
         "spoken": true,
         "singer": "singer2"
       }
     ],
-    "time": 144.8,
-    "end": 146.18
+    "time": 144.45,
+    "end": 144.88
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-08T11:45:48.280133+00:00",
-  "totalTracks": 783,
+  "generatedAt": "2026-07-08T11:54:24.519673+00:00",
+  "totalTracks": 784,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11003,6 +11003,20 @@
       },
       "sourcePath": "https://soundcloud.com/autisticlifter/i-am-what-you-made-me-darth-1",
       "mtimeMs": 1783511149107
+    },
+    "lucha::i am what you made me / unfair the neighbourhood": {
+      "title": "I am what you made me / Unfair The Neighbourhood",
+      "artist": "Lucha",
+      "originalTrackName": "Lucha - I am what you made me / Unfair The Neighbourhood",
+      "source": "syncedlyrics",
+      "file": "tracks/lucha-i-am-what-you-made-me-unfair-the-neighbourhood-244d6c7e4198.json",
+      "files": {
+        "lyrics": "tracks/lucha-i-am-what-you-made-me-unfair-the-neighbourhood-244d6c7e4198.json",
+        "meta": "tracks/lucha-i-am-what-you-made-me-unfair-the-neighbourhood-244d6c7e4198.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-524119404/i-am-what-you-made-me-unfair-the-neighbourhood",
+      "mtimeMs": 1783511665575
     }
   },
   "tracks": [
@@ -22023,6 +22037,20 @@
       },
       "sourcePath": "https://soundcloud.com/autisticlifter/i-am-what-you-made-me-darth-1",
       "mtimeMs": 1783511149107
+    },
+    {
+      "title": "I am what you made me / Unfair The Neighbourhood",
+      "artist": "Lucha",
+      "originalTrackName": "Lucha - I am what you made me / Unfair The Neighbourhood",
+      "source": "syncedlyrics",
+      "file": "tracks/lucha-i-am-what-you-made-me-unfair-the-neighbourhood-244d6c7e4198.json",
+      "files": {
+        "lyrics": "tracks/lucha-i-am-what-you-made-me-unfair-the-neighbourhood-244d6c7e4198.json",
+        "meta": "tracks/lucha-i-am-what-you-made-me-unfair-the-neighbourhood-244d6c7e4198.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-524119404/i-am-what-you-made-me-unfair-the-neighbourhood",
+      "mtimeMs": 1783511665575
     }
   ]
 }

@@ -2,346 +2,644 @@
   {
     "text": "●",
     "startTime": 0.3,
-    "endTime": 200.04,
+    "endTime": 27.84,
     "words": [],
     "type": "vocal_cue",
     "time": 0.3,
-    "end": 200.04
+    "end": 27.84
   },
   {
-    "text": "You are my addiction",
-    "startTime": 200.04,
-    "endTime": 205.24,
+    "text": "You",
+    "startTime": 27.84,
+    "endTime": 28.84,
     "words": [
       {
         "word": "You",
-        "start": 200.04,
-        "end": 200.74,
+        "start": 28.19,
+        "end": 28.84,
         "char_starts": [
-          200.04,
-          200.202,
-          200.53
-        ],
-        "spoken": true
-      },
+          28.19,
+          28.32,
+          28.549
+        ]
+      }
+    ],
+    "time": 27.84,
+    "end": 28.84
+  },
+  {
+    "text": "●",
+    "startTime": 29.14,
+    "endTime": 40.38,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 29.14,
+    "end": 40.38
+  },
+  {
+    "text": "are",
+    "startTime": 40.38,
+    "endTime": 40.96,
+    "words": [
       {
         "word": "are",
-        "start": 200.913,
-        "end": 202.24,
+        "start": 40.728,
+        "end": 40.96,
         "char_starts": [
-          200.913,
-          201.178,
-          201.719
-        ],
-        "sung": true,
-        "stretch": true
-      },
-      {
-        "word": "my",
-        "start": 202.25,
-        "end": 203.74,
-        "char_starts": [
-          202.25,
-          203.219
-        ],
-        "spoken": true
-      },
-      {
-        "word": "addiction",
-        "start": 203.75,
-        "end": 205.24,
-        "char_starts": [
-          203.75,
-          203.816,
-          203.907,
-          204.016,
-          204.137,
-          204.269,
-          204.412,
-          204.563,
-          204.722
+          40.728,
+          40.774,
+          40.82
         ],
         "spoken": true
       }
     ],
-    "time": 200.04,
-    "end": 205.24
+    "time": 40.38,
+    "end": 40.96
   },
   {
     "text": "●",
-    "startTime": 205.54,
-    "endTime": 211.78,
+    "startTime": 41.26,
+    "endTime": 51.72,
     "words": [],
     "type": "vocal_cue",
-    "time": 205.54,
-    "end": 211.78
+    "time": 41.26,
+    "end": 51.72
+  },
+  {
+    "text": "my addiction",
+    "startTime": 51.72,
+    "endTime": 52.44,
+    "words": [
+      {
+        "word": "my",
+        "start": 51.975,
+        "end": 52.28
+      },
+      {
+        "word": "addiction",
+        "start": 52.29,
+        "end": 52.44
+      }
+    ],
+    "time": 51.72,
+    "end": 52.44
+  },
+  {
+    "text": "●",
+    "startTime": 52.74,
+    "endTime": 150.95,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 52.74,
+    "end": 150.95
   },
   {
     "text": "It feels like it's fiction",
-    "startTime": 211.78,
-    "endTime": 215.84,
+    "startTime": 150.95,
+    "endTime": 151.84,
     "words": [
       {
         "word": "It",
-        "start": 212.13,
-        "end": 212.48
+        "start": 150.95,
+        "end": 150.99
       },
       {
         "word": "feels",
-        "start": 212.49,
-        "end": 213.98,
-        "char_starts": [
-          212.49,
-          212.639,
-          212.87,
-          213.147,
-          213.458
-        ]
+        "start": 151.0,
+        "end": 151.04
       },
       {
         "word": "like",
-        "start": 214.34,
-        "end": 215.48,
+        "start": 151.05,
+        "end": 151.74,
         "char_starts": [
-          214.34,
-          214.454,
-          214.669,
-          214.962
+          151.05,
+          151.154,
+          151.318,
+          151.54
         ],
         "spoken": true
       },
       {
         "word": "it's",
-        "start": 215.49,
-        "end": 215.64,
+        "start": 151.75,
+        "end": 151.79
+      },
+      {
+        "word": "fiction",
+        "start": 151.8,
+        "end": 151.84
+      }
+    ],
+    "time": 150.95,
+    "end": 151.84
+  },
+  {
+    "text": "But I will go away from you",
+    "startTime": 151.85,
+    "endTime": 152.19,
+    "words": [
+      {
+        "word": "But",
+        "start": 151.85,
+        "end": 151.89
+      },
+      {
+        "word": "I",
+        "start": 151.9,
+        "end": 151.94
+      },
+      {
+        "word": "will",
+        "start": 151.95,
+        "end": 151.99
+      },
+      {
+        "word": "go",
+        "start": 152.0,
+        "end": 152.04
+      },
+      {
+        "word": "away",
+        "start": 152.05,
+        "end": 152.09
+      },
+      {
+        "word": "from",
+        "start": 152.1,
+        "end": 152.14
+      },
+      {
+        "word": "you",
+        "start": 152.15,
+        "end": 152.19
+      }
+    ],
+    "time": 151.85,
+    "end": 152.19
+  },
+  {
+    "text": "You just make me",
+    "startTime": 152.2,
+    "endTime": 152.39,
+    "words": [
+      {
+        "word": "You",
+        "start": 152.2,
+        "end": 152.24
+      },
+      {
+        "word": "just",
+        "start": 152.25,
+        "end": 152.29
+      },
+      {
+        "word": "make",
+        "start": 152.3,
+        "end": 152.34
+      },
+      {
+        "word": "me",
+        "start": 152.35,
+        "end": 152.39
+      }
+    ],
+    "time": 152.2,
+    "end": 152.39
+  },
+  {
+    "text": "You just make me",
+    "startTime": 152.4,
+    "endTime": 156.64,
+    "words": [
+      {
+        "word": "You",
+        "start": 152.4,
+        "end": 152.5
+      },
+      {
+        "word": "just",
+        "start": 154.3,
+        "end": 154.98,
         "char_starts": [
-          215.49,
-          215.526,
-          215.567,
-          215.61
+          154.3,
+          154.42,
+          154.607,
+          154.83
+        ]
+      },
+      {
+        "word": "make",
+        "start": 154.99,
+        "end": 156.48,
+        "char_starts": [
+          154.99,
+          155.214,
+          155.543,
+          155.984
+        ]
+      },
+      {
+        "word": "me",
+        "start": 156.49,
+        "end": 156.64,
+        "spoken": true
+      }
+    ],
+    "time": 152.4,
+    "end": 156.64
+  },
+  {
+    "text": "●",
+    "startTime": 156.94,
+    "endTime": 167.97,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 156.94,
+    "end": 167.97
+  },
+  {
+    "text": "You are my addiction",
+    "startTime": 167.97,
+    "endTime": 168.8,
+    "words": [
+      {
+        "word": "You",
+        "start": 167.97,
+        "end": 168.01
+      },
+      {
+        "word": "are",
+        "start": 168.02,
+        "end": 168.06
+      },
+      {
+        "word": "my",
+        "start": 168.07,
+        "end": 168.17,
+        "spoken": true
+      },
+      {
+        "word": "addiction",
+        "start": 168.18,
+        "end": 168.8
+      }
+    ],
+    "time": 167.97,
+    "end": 168.8
+  },
+  {
+    "text": "It feels like it's fiction",
+    "startTime": 168.81,
+    "endTime": 170.18,
+    "words": [
+      {
+        "word": "It",
+        "start": 168.81,
+        "end": 168.925,
+        "spoken": true
+      },
+      {
+        "word": "feels",
+        "start": 168.935,
+        "end": 169.239,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 169.249,
+        "end": 169.49
+      },
+      {
+        "word": "it's",
+        "start": 169.5,
+        "end": 169.741
+      },
+      {
+        "word": "fiction",
+        "start": 169.751,
+        "end": 170.18,
+        "spoken": true
+      }
+    ],
+    "time": 168.81,
+    "end": 170.18
+  },
+  {
+    "text": "But I will go away from you",
+    "startTime": 170.19,
+    "endTime": 172.98,
+    "words": [
+      {
+        "word": "But",
+        "start": 170.19,
+        "end": 170.82,
+        "char_starts": [
+          170.19,
+          170.383,
+          170.681
         ],
         "spoken": true
       },
       {
-        "word": "fiction",
-        "start": 215.69,
-        "end": 215.84,
-        "spoken": true
-      }
-    ],
-    "time": 211.78,
-    "end": 215.84
-  },
-  {
-    "text": "●",
-    "startTime": 216.14,
-    "endTime": 228.248,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 216.14,
-    "end": 228.248
-  },
-  {
-    "text": "But I will go away from you",
-    "startTime": 228.248,
-    "endTime": 236.22,
-    "words": [
-      {
-        "word": "But",
-        "start": 228.248,
-        "end": 228.52
-      },
-      {
         "word": "I",
-        "start": 228.53,
-        "end": 230.06,
+        "start": 171.07,
+        "end": 171.88,
         "spoken": true
       },
       {
         "word": "will",
-        "start": 230.42,
-        "end": 231.56,
-        "char_starts": [
-          230.42,
-          230.56,
-          230.778,
-          231.038
-        ],
-        "spoken": true
+        "start": 171.89,
+        "end": 171.93
       },
       {
         "word": "go",
-        "start": 231.57,
-        "end": 233.06,
-        "char_starts": [
-          231.57,
-          232.538
-        ],
-        "spoken": true
+        "start": 171.94,
+        "end": 171.98
       },
       {
         "word": "away",
-        "start": 233.42,
-        "end": 234.56,
-        "char_starts": [
-          233.42,
-          233.534,
-          233.749,
-          234.042
-        ]
+        "start": 171.99,
+        "end": 172.03
       },
       {
         "word": "from",
-        "start": 234.64,
-        "end": 236.06,
-        "char_starts": [
-          234.64,
-          234.844,
-          235.16,
-          235.538
-        ],
+        "start": 172.04,
+        "end": 172.34,
         "spoken": true
       },
       {
         "word": "you",
-        "start": 236.07,
-        "end": 236.22,
+        "start": 172.35,
+        "end": 172.98,
         "char_starts": [
-          236.07,
-          236.118,
-          236.19
-        ]
+          172.35,
+          172.495,
+          172.791
+        ],
+        "spoken": true
       }
     ],
-    "time": 228.248,
-    "end": 236.22
-  },
-  {
-    "text": "●",
-    "startTime": 236.52,
-    "endTime": 250.0,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 236.52,
-    "end": 250.0
+    "time": 170.19,
+    "end": 172.98
   },
   {
     "text": "You just make me",
-    "startTime": 250.0,
-    "endTime": 254.5,
+    "startTime": 174.62,
+    "endTime": 177.32,
     "words": [
       {
         "word": "You",
-        "start": 250.0,
-        "end": 250.0
+        "start": 174.62,
+        "end": 175.14,
+        "char_starts": [
+          174.62,
+          174.74,
+          174.984
+        ],
+        "spoken": true
       },
       {
         "word": "just",
-        "start": 250.242,
-        "end": 251.5,
+        "start": 175.475,
+        "end": 176.012,
         "char_starts": [
-          250.242,
-          250.409,
-          250.668,
-          250.978
+          175.475,
+          175.556,
+          175.678,
+          175.824
         ],
         "spoken": true
       },
       {
         "word": "make",
-        "start": 251.51,
-        "end": 253.0,
+        "start": 176.022,
+        "end": 176.884,
         "char_starts": [
-          251.51,
-          251.677,
-          252.016,
-          252.478
+          176.022,
+          176.151,
+          176.356,
+          176.633
         ],
         "spoken": true
       },
       {
         "word": "me",
-        "start": 253.36,
-        "end": 254.5,
-        "char_starts": [
-          253.36,
-          253.978
-        ]
+        "start": 176.894,
+        "end": 177.32
       }
     ],
-    "time": 250.0,
-    "end": 254.5
+    "time": 174.62,
+    "end": 177.32
   },
   {
-    "text": "●",
-    "startTime": 254.8,
-    "endTime": 280.14,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 254.8,
-    "end": 280.14
-  },
-  {
-    "text": "You just make me",
-    "startTime": 280.14,
-    "endTime": 285.36,
+    "text": "You are my addiction",
+    "startTime": 177.33,
+    "endTime": 178.78,
     "words": [
       {
         "word": "You",
-        "start": 280.14,
-        "end": 280.86,
+        "start": 177.33,
+        "end": 178.14,
         "char_starts": [
-          280.14,
-          280.306,
-          280.644
-        ]
+          177.33,
+          177.517,
+          177.897
+        ],
+        "spoken": true
+      },
+      {
+        "word": "are",
+        "start": 178.15,
+        "end": 178.25,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 178.26,
+        "end": 178.36,
+        "spoken": true
+      },
+      {
+        "word": "addiction",
+        "start": 178.37,
+        "end": 178.78,
+        "spoken": true
+      }
+    ],
+    "time": 177.33,
+    "end": 178.78
+  },
+  {
+    "text": "It feels like it's fiction",
+    "startTime": 178.79,
+    "endTime": 179.64,
+    "words": [
+      {
+        "word": "It",
+        "start": 178.79,
+        "end": 178.896
+      },
+      {
+        "word": "feels",
+        "start": 178.906,
+        "end": 179.187,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 179.197,
+        "end": 179.42,
+        "spoken": true
+      },
+      {
+        "word": "it's",
+        "start": 179.43,
+        "end": 179.53,
+        "spoken": true
+      },
+      {
+        "word": "fiction",
+        "start": 179.54,
+        "end": 179.64,
+        "spoken": true
+      }
+    ],
+    "time": 178.79,
+    "end": 179.64
+  },
+  {
+    "text": "But I will go away from you",
+    "startTime": 179.65,
+    "endTime": 180.41,
+    "words": [
+      {
+        "word": "But",
+        "start": 179.65,
+        "end": 179.75,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 179.76,
+        "end": 179.86
+      },
+      {
+        "word": "will",
+        "start": 179.87,
+        "end": 179.97
+      },
+      {
+        "word": "go",
+        "start": 179.98,
+        "end": 180.08
+      },
+      {
+        "word": "away",
+        "start": 180.09,
+        "end": 180.19
+      },
+      {
+        "word": "from",
+        "start": 180.2,
+        "end": 180.3
+      },
+      {
+        "word": "you",
+        "start": 180.31,
+        "end": 180.41
+      }
+    ],
+    "time": 179.65,
+    "end": 180.41
+  },
+  {
+    "text": "You just make me",
+    "startTime": 180.42,
+    "endTime": 180.76,
+    "words": [
+      {
+        "word": "You",
+        "start": 180.42,
+        "end": 180.52
       },
       {
         "word": "just",
-        "start": 280.87,
-        "end": 282.36,
+        "start": 180.53,
+        "end": 180.63,
+        "spoken": true
+      },
+      {
+        "word": "make",
+        "start": 180.64,
+        "end": 180.74,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 180.75,
+        "end": 180.76
+      }
+    ],
+    "time": 180.42,
+    "end": 180.76
+  },
+  {
+    "text": "You just make me",
+    "startTime": 180.77,
+    "endTime": 185.72,
+    "words": [
+      {
+        "word": "You",
+        "start": 180.77,
+        "end": 181.22,
+        "spoken": true
+      },
+      {
+        "word": "just",
+        "start": 181.23,
+        "end": 182.72,
         "char_starts": [
-          280.87,
-          281.09,
-          281.43,
-          281.839
+          181.23,
+          181.453,
+          181.792,
+          182.199
         ],
         "spoken": true
       },
       {
         "word": "make",
-        "start": 282.37,
-        "end": 283.86,
+        "start": 182.73,
+        "end": 184.22,
         "char_starts": [
-          282.37,
-          282.537,
-          282.876,
-          283.339
+          182.73,
+          182.953,
+          183.282,
+          183.723
         ],
         "spoken": true
       },
       {
         "word": "me",
-        "start": 283.87,
-        "end": 285.36,
+        "start": 184.23,
+        "end": 185.72,
         "char_starts": [
-          283.87,
-          284.839
+          184.23,
+          185.198
         ],
-        "sung": true,
-        "stretch": true
+        "spoken": true
       }
     ],
-    "time": 280.14,
-    "end": 285.36
+    "time": 180.77,
+    "end": 185.72
   },
   {
     "text": "●",
-    "startTime": 285.66,
-    "endTime": 294.353,
+    "startTime": 186.02,
+    "endTime": 294.453,
     "words": [],
     "type": "vocal_cue",
-    "time": 285.66,
-    "end": 294.353
+    "time": 186.02,
+    "end": 294.453
   }
 ]

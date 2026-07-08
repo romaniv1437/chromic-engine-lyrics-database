@@ -1,906 +1,1876 @@
 [
   {
-    "text": "I've been getting by thanks to a thing or two",
-    "startTime": 0.093,
-    "endTime": 4.22,
+    "text": "ive had a white girl, owe me not a similar note ive",
+    "startTime": 0.66,
+    "endTime": 4.6,
     "words": [
       {
-        "word": "I've",
-        "start": 0.093,
-        "end": 1.03,
-        "char_starts": [
-          0.093,
-          0.124,
-          0.377,
-          0.721
-        ],
-        "singer": "singer1"
+        "word": "ive",
+        "start": 0.996,
+        "end": 1.22,
+        "stretch": true,
+        "spoken": true
       },
       {
-        "word": "been",
-        "start": 1.04,
-        "end": 2.06,
-        "char_starts": [
-          1.04,
-          1.221,
-          1.5,
-          1.836
-        ],
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "getting",
-        "start": 2.07,
-        "end": 2.42,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "by",
-        "start": 2.43,
-        "end": 2.47,
-        "singer": "singer1"
-      },
-      {
-        "word": "thanks",
-        "start": 2.48,
-        "end": 2.52,
-        "singer": "singer1"
-      },
-      {
-        "word": "to",
-        "start": 2.53,
-        "end": 2.57,
-        "singer": "singer1"
+        "word": "had",
+        "start": 1.22,
+        "end": 1.62,
+        "spoken": true
       },
       {
         "word": "a",
-        "start": 2.58,
-        "end": 2.62,
-        "singer": "singer1"
+        "start": 1.62,
+        "end": 1.62
       },
       {
-        "word": "thing",
-        "start": 2.63,
-        "end": 2.67,
-        "singer": "singer1"
+        "word": "white",
+        "start": 1.62,
+        "end": 2.06,
+        "spoken": true
       },
       {
-        "word": "or",
-        "start": 2.68,
+        "word": "girl,",
+        "start": 2.06,
+        "end": 2.42,
+        "spoken": true
+      },
+      {
+        "word": "owe",
+        "start": 2.44,
         "end": 2.72,
-        "singer": "singer1"
+        "spoken": true
       },
       {
-        "word": "two",
-        "start": 2.73,
+        "word": "me",
+        "start": 2.72,
+        "end": 3.04,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "not",
+        "start": 3.04,
+        "end": 3.24,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 3.24,
+        "end": 3.42,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "similar",
+        "start": 3.42,
+        "end": 3.74,
+        "spoken": true
+      },
+      {
+        "word": "note",
+        "start": 3.74,
         "end": 4.22,
-        "char_starts": [
-          2.73,
-          3.049,
-          3.699
-        ],
-        "spoken": true,
-        "singer": "singer1"
+        "spoken": true
+      },
+      {
+        "word": "ive",
+        "start": 4.22,
+        "end": 4.6,
+        "spoken": true
       }
     ],
-    "time": 0.093,
-    "end": 4.22
+    "time": 0.66,
+    "end": 4.6
   },
   {
-    "text": "●",
-    "startTime": 4.52,
-    "endTime": 20.7,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 4.52,
-    "end": 20.7
-  },
-  {
-    "text": "I've got a thing for a",
-    "startTime": 20.7,
-    "endTime": 26.46,
+    "text": "had a white girl, shoppin' buyin' all my clothes little P2Fate, i",
+    "startTime": 4.6,
+    "endTime": 9.62,
     "words": [
       {
-        "word": "I've",
-        "start": 20.7,
-        "end": 20.85,
-        "char_starts": [
-          4.23,
-          4.397,
-          4.736,
-          5.199
-        ],
-        "singer": "singer2"
+        "word": "had",
+        "start": 4.6,
+        "end": 4.74
       },
       {
-        "word": "got",
+        "word": "a",
+        "start": 4.74,
+        "end": 4.98,
+        "stretch": true
+      },
+      {
+        "word": "white",
+        "start": 4.98,
+        "end": 5.32
+      },
+      {
+        "word": "girl,",
+        "start": 5.32,
+        "end": 5.62
+      },
+      {
+        "word": "shoppin'",
+        "start": 5.78,
+        "end": 6.24
+      },
+      {
+        "word": "buyin'",
+        "start": 6.3,
+        "end": 6.58
+      },
+      {
+        "word": "all",
+        "start": 6.68,
+        "end": 6.76
+      },
+      {
+        "word": "my",
+        "start": 6.76,
+        "end": 7.02
+      },
+      {
+        "word": "clothes",
+        "start": 7.02,
+        "end": 7.44
+      },
+      {
+        "word": "little",
+        "start": 7.44,
+        "end": 8.1
+      },
+      {
+        "word": "P2Fate,",
+        "start": 8.1,
+        "end": 9.44,
+        "stretch": true
+      },
+      {
+        "word": "i",
+        "start": 9.44,
+        "end": 9.62,
+        "stretch": true
+      }
+    ],
+    "time": 4.6,
+    "end": 9.62
+  },
+  {
+    "text": "ain't goin' home now she doin' cocaine on my iPhone when i",
+    "startTime": 9.62,
+    "endTime": 14.7,
+    "words": [
+      {
+        "word": "ain't",
+        "start": 9.62,
+        "end": 9.8
+      },
+      {
+        "word": "goin'",
+        "start": 9.8,
+        "end": 10.08
+      },
+      {
+        "word": "home",
+        "start": 10.7,
+        "end": 10.86
+      },
+      {
+        "word": "now",
+        "start": 10.86,
+        "end": 11.14
+      },
+      {
+        "word": "she",
+        "start": 11.14,
+        "end": 11.34
+      },
+      {
+        "word": "doin'",
+        "start": 11.34,
+        "end": 11.66
+      },
+      {
+        "word": "cocaine",
+        "start": 11.94,
+        "end": 12.52
+      },
+      {
+        "word": "on",
+        "start": 12.52,
+        "end": 12.86,
+        "stretch": true
+      },
+      {
+        "word": "my",
+        "start": 12.86,
+        "end": 13.14
+      },
+      {
+        "word": "iPhone",
+        "start": 13.14,
+        "end": 13.82
+      },
+      {
+        "word": "when",
+        "start": 13.82,
+        "end": 14.58,
+        "stretch": true
+      },
+      {
+        "word": "i",
+        "start": 14.58,
+        "end": 14.7
+      }
+    ],
+    "time": 9.62,
+    "end": 14.7
+  },
+  {
+    "text": "die with the devil where i'm gonna go i don't lie, i",
+    "startTime": 14.7,
+    "endTime": 18.48,
+    "words": [
+      {
+        "word": "die",
+        "start": 14.7,
+        "end": 15.0
+      },
+      {
+        "word": "with",
+        "start": 15.0,
+        "end": 15.3
+      },
+      {
+        "word": "the",
+        "start": 15.3,
+        "end": 15.5
+      },
+      {
+        "word": "devil",
+        "start": 15.5,
+        "end": 15.8
+      },
+      {
+        "word": "where",
+        "start": 15.8,
+        "end": 16.06
+      },
+      {
+        "word": "i'm",
+        "start": 16.06,
+        "end": 16.34
+      },
+      {
+        "word": "gonna",
+        "start": 16.34,
+        "end": 16.54
+      },
+      {
+        "word": "go",
+        "start": 16.54,
+        "end": 17.38,
+        "stretch": true
+      },
+      {
+        "word": "i",
+        "start": 17.38,
+        "end": 17.98,
+        "stretch": true
+      },
+      {
+        "word": "don't",
+        "start": 17.98,
+        "end": 18.0
+      },
+      {
+        "word": "lie,",
+        "start": 18.0,
+        "end": 18.28
+      },
+      {
+        "word": "i",
+        "start": 18.46,
+        "end": 18.48
+      }
+    ],
+    "time": 14.7,
+    "end": 18.48
+  },
+  {
+    "text": "don't tell her when i'm fuckin' hoes i get high, pop a",
+    "startTime": 18.48,
+    "endTime": 22.06,
+    "words": [
+      {
+        "word": "don't",
+        "start": 18.48,
+        "end": 18.64,
+        "spoken": true
+      },
+      {
+        "word": "tell",
+        "start": 18.64,
+        "end": 18.98
+      },
+      {
+        "word": "her",
+        "start": 18.98,
+        "end": 19.1
+      },
+      {
+        "word": "when",
+        "start": 19.1,
+        "end": 19.38
+      },
+      {
+        "word": "i'm",
+        "start": 19.38,
+        "end": 19.84,
+        "stretch": true
+      },
+      {
+        "word": "fuckin'",
+        "start": 19.84,
+        "end": 19.84
+      },
+      {
+        "word": "hoes",
+        "start": 20.2,
+        "end": 20.58
+      },
+      {
+        "word": "i",
+        "start": 20.58,
+        "end": 20.9,
+        "stretch": true
+      },
+      {
+        "word": "get",
         "start": 20.9,
-        "end": 21.22,
-        "singer": "singer2"
+        "end": 21.22
+      },
+      {
+        "word": "high,",
+        "start": 21.22,
+        "end": 21.5
+      },
+      {
+        "word": "pop",
+        "start": 21.64,
+        "end": 21.76
       },
       {
         "word": "a",
         "start": 21.76,
         "end": 22.06,
-        "singer": "singer2"
+        "stretch": true
+      }
+    ],
+    "time": 18.48,
+    "end": 22.06
+  },
+  {
+    "text": "cedar in a pro phone i get high for the pain you",
+    "startTime": 22.06,
+    "endTime": 25.72,
+    "words": [
+      {
+        "word": "cedar",
+        "start": 22.06,
+        "end": 22.34
       },
       {
-        "word": "thing",
+        "word": "in",
+        "start": 22.34,
+        "end": 22.58
+      },
+      {
+        "word": "a",
+        "start": 22.58,
+        "end": 22.9,
+        "stretch": true
+      },
+      {
+        "word": "pro",
+        "start": 22.9,
+        "end": 23.22
+      },
+      {
+        "word": "phone",
+        "start": 23.22,
+        "end": 23.86
+      },
+      {
+        "word": "i",
+        "start": 23.86,
+        "end": 24.12,
+        "stretch": true
+      },
+      {
+        "word": "get",
+        "start": 24.12,
+        "end": 24.48
+      },
+      {
+        "word": "high",
         "start": 24.48,
-        "end": 24.68,
-        "singer": "singer2"
+        "end": 24.68
       },
       {
         "word": "for",
-        "start": 24.69,
-        "end": 24.96,
-        "singer": "singer2"
+        "start": 24.68,
+        "end": 24.96
       },
       {
-        "word": "a",
-        "start": 24.97,
-        "end": 26.46,
-        "singer": "singer2"
+        "word": "the",
+        "start": 24.96,
+        "end": 25.3
+      },
+      {
+        "word": "pain",
+        "start": 25.3,
+        "end": 25.5
+      },
+      {
+        "word": "you",
+        "start": 25.5,
+        "end": 25.72
       }
     ],
-    "time": 20.7,
-    "end": 26.46
+    "time": 22.06,
+    "end": 25.72
   },
   {
-    "text": "poor thing I'm such a fool, yeah",
-    "startTime": 31.18,
-    "endTime": 38.76,
+    "text": "would never know you would never know, you would never know",
+    "startTime": 25.72,
+    "endTime": 29.98,
     "words": [
       {
-        "word": "poor",
+        "word": "would",
+        "start": 25.72,
+        "end": 25.98
+      },
+      {
+        "word": "never",
+        "start": 25.98,
+        "end": 26.36
+      },
+      {
+        "word": "know",
+        "start": 26.36,
+        "end": 26.74
+      },
+      {
+        "word": "you",
+        "start": 26.74,
+        "end": 27.36,
+        "stretch": true
+      },
+      {
+        "word": "would",
+        "start": 27.36,
+        "end": 27.68
+      },
+      {
+        "word": "never",
+        "start": 27.68,
+        "end": 27.94
+      },
+      {
+        "word": "know,",
+        "start": 27.94,
+        "end": 28.68
+      },
+      {
+        "word": "you",
+        "start": 28.74,
+        "end": 28.96
+      },
+      {
+        "word": "would",
+        "start": 28.96,
+        "end": 29.28
+      },
+      {
+        "word": "never",
+        "start": 29.28,
+        "end": 29.6
+      },
+      {
+        "word": "know",
+        "start": 29.6,
+        "end": 29.98
+      }
+    ],
+    "time": 25.72,
+    "end": 29.98
+  },
+  {
+    "text": "i get high for the pain you would never know where you",
+    "startTime": 30.0,
+    "endTime": 34.14,
+    "words": [
+      {
+        "word": "i",
+        "start": 30.0,
+        "end": 30.6,
+        "stretch": true
+      },
+      {
+        "word": "get",
+        "start": 30.6,
+        "end": 30.88
+      },
+      {
+        "word": "high",
+        "start": 30.88,
+        "end": 31.18
+      },
+      {
+        "word": "for",
         "start": 31.18,
-        "end": 31.48,
-        "singer": "singer2"
+        "end": 31.48
       },
       {
-        "word": "thing",
-        "start": 31.49,
-        "end": 32.98,
-        "char_starts": [
-          31.49,
-          31.639,
-          31.87,
-          32.147,
-          32.459
-        ],
-        "singer": "singer2"
+        "word": "the",
+        "start": 31.48,
+        "end": 31.82
       },
       {
-        "word": "I'm",
-        "start": 32.99,
-        "end": 34.351,
-        "char_starts": [
-          32.99,
-          33.337,
-          33.875
-        ],
-        "singer": "singer2"
+        "word": "pain",
+        "start": 31.82,
+        "end": 32.04
       },
       {
-        "word": "such",
-        "start": 34.361,
-        "end": 35.851,
-        "char_starts": [
-          34.361,
-          34.581,
-          34.921,
-          35.329
-        ],
-        "singer": "singer2"
+        "word": "you",
+        "start": 32.04,
+        "end": 32.26
       },
       {
-        "word": "a",
-        "start": 35.861,
-        "end": 36.308,
-        "singer": "singer2"
+        "word": "would",
+        "start": 32.26,
+        "end": 32.54
       },
       {
-        "word": "fool,",
-        "start": 37.42,
-        "end": 37.72,
-        "singer": "singer2"
+        "word": "never",
+        "start": 32.54,
+        "end": 32.84
       },
       {
-        "word": "yeah",
-        "start": 38.6,
-        "end": 38.76,
-        "singer": "singer2"
+        "word": "know",
+        "start": 32.84,
+        "end": 33.38
+      },
+      {
+        "word": "where",
+        "start": 33.38,
+        "end": 33.86
+      },
+      {
+        "word": "you",
+        "start": 33.86,
+        "end": 34.14
       }
     ],
-    "time": 31.18,
-    "end": 38.76
+    "time": 30.0,
+    "end": 34.14
   },
   {
-    "text": "Love don't work, what",
-    "startTime": 38.77,
-    "endTime": 40.4,
+    "text": "wanna go, where you wanna go i could fly, i could take",
+    "startTime": 34.14,
+    "endTime": 38.44,
     "words": [
       {
-        "word": "Love",
-        "start": 38.77,
-        "end": 39.086,
-        "singer": "singer2"
+        "word": "wanna",
+        "start": 34.14,
+        "end": 34.4
       },
       {
-        "word": "don't",
-        "start": 39.096,
-        "end": 39.493,
-        "singer": "singer2"
+        "word": "go,",
+        "start": 34.4,
+        "end": 35.24,
+        "stretch": true
       },
       {
-        "word": "work,",
-        "start": 39.503,
+        "word": "where",
+        "start": 35.26,
+        "end": 35.52
+      },
+      {
+        "word": "you",
+        "start": 35.52,
+        "end": 35.82
+      },
+      {
+        "word": "wanna",
+        "start": 35.82,
+        "end": 36.06
+      },
+      {
+        "word": "go",
+        "start": 36.06,
+        "end": 36.56,
+        "stretch": true
+      },
+      {
+        "word": "i",
+        "start": 36.56,
+        "end": 37.16,
+        "stretch": true
+      },
+      {
+        "word": "could",
+        "start": 37.16,
+        "end": 37.42
+      },
+      {
+        "word": "fly,",
+        "start": 37.42,
+        "end": 37.72
+      },
+      {
+        "word": "i",
+        "start": 37.94,
+        "end": 37.94
+      },
+      {
+        "word": "could",
+        "start": 37.94,
+        "end": 38.12,
+        "spoken": true
+      },
+      {
+        "word": "take",
+        "start": 38.12,
+        "end": 38.44
+      }
+    ],
+    "time": 34.14,
+    "end": 38.44
+  },
+  {
+    "text": "you where you wanna go what you wanna know, what you wanna",
+    "startTime": 38.44,
+    "endTime": 42.54,
+    "words": [
+      {
+        "word": "you",
+        "start": 38.44,
+        "end": 38.6
+      },
+      {
+        "word": "where",
+        "start": 38.6,
+        "end": 38.76
+      },
+      {
+        "word": "you",
+        "start": 38.76,
+        "end": 39.08
+      },
+      {
+        "word": "wanna",
+        "start": 39.08,
+        "end": 39.28
+      },
+      {
+        "word": "go",
+        "start": 39.28,
         "end": 39.9,
-        "singer": "singer2"
+        "stretch": true
       },
       {
         "word": "what",
-        "start": 39.91,
-        "end": 40.4,
-        "singer": "singer2"
+        "start": 39.9,
+        "end": 40.4
+      },
+      {
+        "word": "you",
+        "start": 40.4,
+        "end": 40.74
+      },
+      {
+        "word": "wanna",
+        "start": 40.74,
+        "end": 40.84
+      },
+      {
+        "word": "know,",
+        "start": 40.84,
+        "end": 41.7,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "what",
+        "start": 41.74,
+        "end": 42.0,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 42.0,
+        "end": 42.32,
+        "spoken": true
+      },
+      {
+        "word": "wanna",
+        "start": 42.32,
+        "end": 42.54,
+        "spoken": true
       }
     ],
-    "time": 38.77,
-    "end": 40.4
+    "time": 38.44,
+    "end": 42.54
   },
   {
-    "text": "●",
-    "startTime": 40.7,
+    "text": "know ive been rollin', ive been geekin' out that good coke put",
+    "startTime": 42.54,
     "endTime": 46.94,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 40.7,
+    "words": [
+      {
+        "word": "know",
+        "start": 42.633,
+        "end": 43.04,
+        "spoken": true
+      },
+      {
+        "word": "ive",
+        "start": 43.39,
+        "end": 43.68,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "been",
+        "start": 43.68,
+        "end": 43.88,
+        "spoken": true
+      },
+      {
+        "word": "rollin',",
+        "start": 43.88,
+        "end": 44.32,
+        "spoken": true
+      },
+      {
+        "word": "ive",
+        "start": 44.32,
+        "end": 44.54,
+        "spoken": true
+      },
+      {
+        "word": "been",
+        "start": 44.612,
+        "end": 44.66,
+        "spoken": true
+      },
+      {
+        "word": "geekin'",
+        "start": 44.66,
+        "end": 45.12,
+        "spoken": true
+      },
+      {
+        "word": "out",
+        "start": 45.18,
+        "end": 45.26,
+        "spoken": true
+      },
+      {
+        "word": "that",
+        "start": 45.26,
+        "end": 45.54,
+        "spoken": true
+      },
+      {
+        "word": "good",
+        "start": 45.78,
+        "end": 45.94,
+        "spoken": true
+      },
+      {
+        "word": "coke",
+        "start": 45.94,
+        "end": 46.32,
+        "spoken": true
+      },
+      {
+        "word": "put",
+        "start": 46.67,
+        "end": 46.94,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 42.54,
     "end": 46.94
   },
   {
-    "text": "it do, boo?",
+    "text": "it on my soul, put it on my soul ain't nobody fuckin'",
     "startTime": 46.94,
-    "endTime": 47.48,
+    "endTime": 50.98,
     "words": [
       {
         "word": "it",
         "start": 46.94,
         "end": 47.12,
-        "spoken": true,
-        "singer": "singer1"
+        "spoken": true
       },
       {
-        "word": "do,",
-        "start": 47.13,
-        "end": 47.28,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "boo?",
-        "start": 47.33,
-        "end": 47.48,
-        "char_starts": [
-          67.89,
-          68.088,
-          68.394,
-          68.761
-        ],
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 46.94,
-    "end": 47.48
-  },
-  {
-    "text": "●",
-    "startTime": 47.78,
-    "endTime": 69.24,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 47.78,
-    "end": 69.24
-  },
-  {
-    "text": "Love don't work, love just desert you, whoa",
-    "startTime": 69.24,
-    "endTime": 71.84,
-    "words": [
-      {
-        "word": "Love",
-        "start": 69.24,
-        "end": 70.58,
-        "char_starts": [
-          69.24,
-          69.39,
-          69.695,
-          70.111
-        ],
-        "singer": "singer2"
-      },
-      {
-        "word": "don't",
-        "start": 70.59,
-        "end": 70.78,
-        "singer": "singer2"
-      },
-      {
-        "word": "work,",
-        "start": 70.79,
-        "end": 70.995,
-        "singer": "singer2"
-      },
-      {
-        "word": "love",
-        "start": 71.005,
-        "end": 71.168,
-        "singer": "singer2"
-      },
-      {
-        "word": "just",
-        "start": 71.178,
-        "end": 71.34,
-        "singer": "singer2"
-      },
-      {
-        "word": "desert",
-        "start": 71.35,
-        "end": 71.48,
-        "singer": "singer2"
-      },
-      {
-        "word": "you,",
-        "start": 71.49,
-        "end": 71.64,
-        "singer": "singer2"
-      },
-      {
-        "word": "whoa",
-        "start": 71.69,
-        "end": 71.84,
-        "singer": "singer2"
-      }
-    ],
-    "time": 69.24,
-    "end": 71.84
-  },
-  {
-    "text": "●",
-    "startTime": 72.14,
-    "endTime": 79.134,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 72.14,
-    "end": 79.134
-  },
-  {
-    "text": "I'm seeing red, my cup is full of meds",
-    "startTime": 79.134,
-    "endTime": 82.9,
-    "words": [
-      {
-        "word": "I'm",
-        "start": 79.134,
-        "end": 79.501,
-        "singer": "singer2"
-      },
-      {
-        "word": "seeing",
-        "start": 79.511,
-        "end": 80.256,
-        "char_starts": [
-          79.511,
-          79.577,
-          79.68,
-          79.803,
-          79.941,
-          80.092
-        ],
-        "singer": "singer2"
-      },
-      {
-        "word": "red,",
-        "start": 80.266,
-        "end": 80.76,
-        "char_starts": [
-          80.266,
-          80.353,
-          80.489,
-          80.651
-        ],
-        "singer": "singer2"
+        "word": "on",
+        "start": 47.12,
+        "end": 47.26,
+        "spoken": true
       },
       {
         "word": "my",
-        "start": 80.77,
-        "end": 81.012,
-        "singer": "singer2"
+        "start": 47.26,
+        "end": 47.7,
+        "stretch": true,
+        "spoken": true
       },
       {
-        "word": "cup",
-        "start": 81.022,
-        "end": 81.389,
-        "singer": "singer2"
+        "word": "soul,",
+        "start": 47.7,
+        "end": 48.2,
+        "spoken": true
       },
       {
-        "word": "is",
-        "start": 81.399,
-        "end": 81.641,
-        "singer": "singer2"
-      },
-      {
-        "word": "full",
-        "start": 81.651,
-        "end": 82.145,
-        "singer": "singer2"
-      },
-      {
-        "word": "of",
-        "start": 82.155,
-        "end": 82.396,
-        "singer": "singer2"
-      },
-      {
-        "word": "meds",
-        "start": 82.406,
-        "end": 82.9,
-        "singer": "singer2"
-      }
-    ],
-    "time": 79.134,
-    "end": 82.9
-  },
-  {
-    "text": "●",
-    "startTime": 83.2,
-    "endTime": 94.44,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 83.2,
-    "end": 94.44
-  },
-  {
-    "text": "I might",
-    "startTime": 94.44,
-    "endTime": 94.9,
-    "words": [
-      {
-        "word": "I",
-        "start": 94.44,
-        "end": 94.59,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "might",
-        "start": 94.64,
-        "end": 94.9,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 94.44,
-    "end": 94.9
-  },
-  {
-    "text": "hit her mans, when her mans, I'm the man",
-    "startTime": 98.14,
-    "endTime": 101.45,
-    "words": [
-      {
-        "word": "hit",
-        "start": 98.14,
-        "end": 98.14,
-        "singer": "singer1"
-      },
-      {
-        "word": "her",
-        "start": 98.15,
-        "end": 98.44,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "mans,",
-        "start": 98.45,
-        "end": 98.94,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "when",
-        "start": 98.95,
-        "end": 99.34,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "her",
-        "start": 99.524,
-        "end": 99.64,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "mans,",
-        "start": 99.65,
-        "end": 100.14,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "I'm",
-        "start": 100.15,
-        "end": 100.56,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "the",
-        "start": 101.14,
-        "end": 101.4,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "man",
-        "start": 101.41,
-        "end": 101.45,
-        "singer": "singer1"
-      }
-    ],
-    "time": 98.14,
-    "end": 101.45
-  },
-  {
-    "text": "Love don't work but the xans do",
-    "startTime": 101.46,
-    "endTime": 101.8,
-    "words": [
-      {
-        "word": "Love",
-        "start": 101.46,
-        "end": 101.5,
-        "singer": "singer1"
-      },
-      {
-        "word": "don't",
-        "start": 101.51,
-        "end": 101.55,
-        "singer": "singer1"
-      },
-      {
-        "word": "work",
-        "start": 101.56,
-        "end": 101.6,
-        "singer": "singer1"
-      },
-      {
-        "word": "but",
-        "start": 101.61,
-        "end": 101.65,
-        "singer": "singer1"
-      },
-      {
-        "word": "the",
-        "start": 101.66,
-        "end": 101.7,
-        "singer": "singer1"
-      },
-      {
-        "word": "xans",
-        "start": 101.71,
-        "end": 101.75,
-        "singer": "singer1"
-      },
-      {
-        "word": "do",
-        "start": 101.76,
-        "end": 101.8,
-        "singer": "singer1"
-      }
-    ],
-    "time": 101.46,
-    "end": 101.8
-  },
-  {
-    "text": "Love don't work but I got a thing or two to do, yuh",
-    "startTime": 101.81,
-    "endTime": 102.63,
-    "words": [
-      {
-        "word": "Love",
-        "start": 101.81,
-        "end": 101.85,
-        "singer": "singer1"
-      },
-      {
-        "word": "don't",
-        "start": 101.86,
-        "end": 101.9,
-        "singer": "singer1"
-      },
-      {
-        "word": "work",
-        "start": 101.91,
-        "end": 101.95,
-        "singer": "singer1"
-      },
-      {
-        "word": "but",
-        "start": 101.96,
-        "end": 102,
-        "singer": "singer1"
-      },
-      {
-        "word": "I",
-        "start": 102.01,
-        "end": 102.05,
-        "singer": "singer1"
-      },
-      {
-        "word": "got",
-        "start": 102.06,
-        "end": 102.1,
-        "singer": "singer1"
-      },
-      {
-        "word": "a",
-        "start": 102.11,
-        "end": 102.15,
-        "singer": "singer1"
-      },
-      {
-        "word": "thing",
-        "start": 102.16,
-        "end": 102.2,
-        "singer": "singer1"
-      },
-      {
-        "word": "or",
-        "start": 102.21,
-        "end": 102.25,
-        "singer": "singer1"
-      },
-      {
-        "word": "two",
-        "start": 102.26,
-        "end": 102.3,
-        "singer": "singer1"
-      },
-      {
-        "word": "to",
-        "start": 102.31,
-        "end": 102.41,
-        "singer": "singer1"
-      },
-      {
-        "word": "do,",
-        "start": 102.42,
-        "end": 102.52,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "yuh",
-        "start": 102.53,
-        "end": 102.63,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 101.81,
-    "end": 102.63
-  },
-  {
-    "text": "Love don't work, it should've stayed in school",
-    "startTime": 102.64,
-    "endTime": 103.51,
-    "words": [
-      {
-        "word": "Love",
-        "start": 102.64,
-        "end": 102.74,
-        "singer": "singer1"
-      },
-      {
-        "word": "don't",
-        "start": 102.75,
-        "end": 102.85,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "work,",
-        "start": 102.86,
-        "end": 102.96,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "put",
+        "start": 48.22,
+        "end": 48.52,
+        "spoken": true
       },
       {
         "word": "it",
-        "start": 102.97,
-        "end": 103.07,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 48.52,
+        "end": 48.68,
+        "spoken": true
       },
       {
-        "word": "should've",
-        "start": 103.08,
-        "end": 103.18,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "on",
+        "start": 48.68,
+        "end": 48.86,
+        "spoken": true
       },
       {
-        "word": "stayed",
-        "start": 103.19,
-        "end": 103.29,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "my",
+        "start": 49.088,
+        "end": 49.24,
+        "stretch": true,
+        "spoken": true
       },
       {
-        "word": "in",
-        "start": 103.3,
-        "end": 103.4,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "soul",
+        "start": 49.24,
+        "end": 49.8,
+        "spoken": true
       },
       {
-        "word": "school",
-        "start": 103.41,
-        "end": 103.51,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "ain't",
+        "start": 49.8,
+        "end": 50.2,
+        "spoken": true
+      },
+      {
+        "word": "nobody",
+        "start": 50.339,
+        "end": 50.6,
+        "spoken": true
+      },
+      {
+        "word": "fuckin'",
+        "start": 50.739,
+        "end": 50.98,
+        "spoken": true
       }
     ],
-    "time": 102.64,
-    "end": 103.51
+    "time": 46.94,
+    "end": 50.98
   },
   {
-    "text": "I don't even work but I'm in the field",
-    "startTime": 103.52,
-    "endTime": 104.5,
+    "text": "with me and my fuckin' bros, yo",
+    "startTime": 51.14,
+    "endTime": 53.7,
     "words": [
       {
-        "word": "I",
-        "start": 103.58,
-        "end": 103.62,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "with",
+        "start": 51.14,
+        "end": 51.26,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 51.26,
+        "end": 51.6,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 51.6,
+        "end": 51.68,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 51.848,
+        "end": 51.96,
+        "spoken": true
+      },
+      {
+        "word": "fuckin'",
+        "start": 51.96,
+        "end": 52.22,
+        "spoken": true
+      },
+      {
+        "word": "bros,",
+        "start": 52.772,
+        "end": 53.2,
+        "spoken": true
+      },
+      {
+        "word": "yo",
+        "start": 53.2,
+        "end": 53.7,
+        "stretch": true
+      }
+    ],
+    "time": 51.14,
+    "end": 53.7
+  },
+  {
+    "text": "ive had a white girl, owe me not a similar note ive",
+    "startTime": 53.7,
+    "endTime": 57.46,
+    "words": [
+      {
+        "word": "ive",
+        "start": 53.932,
+        "end": 54.24,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "had",
+        "start": 54.24,
+        "end": 54.48,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 54.48,
+        "end": 54.62,
+        "spoken": true
+      },
+      {
+        "word": "white",
+        "start": 54.62,
+        "end": 54.96,
+        "spoken": true
+      },
+      {
+        "word": "girl,",
+        "start": 54.96,
+        "end": 55.3,
+        "spoken": true
+      },
+      {
+        "word": "owe",
+        "start": 55.4,
+        "end": 55.6,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 55.6,
+        "end": 55.88,
+        "spoken": true
+      },
+      {
+        "word": "not",
+        "start": 55.88,
+        "end": 56.16,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 56.16,
+        "end": 56.3,
+        "spoken": true
+      },
+      {
+        "word": "similar",
+        "start": 56.3,
+        "end": 56.64,
+        "spoken": true
+      },
+      {
+        "word": "note",
+        "start": 56.64,
+        "end": 57.12,
+        "spoken": true
+      },
+      {
+        "word": "ive",
+        "start": 57.12,
+        "end": 57.46,
+        "spoken": true
+      }
+    ],
+    "time": 53.7,
+    "end": 57.46
+  },
+  {
+    "text": "had a white girl, shoppin' buyin' all my clothes little P2Fate, i",
+    "startTime": 57.46,
+    "endTime": 62.5,
+    "words": [
+      {
+        "word": "had",
+        "start": 57.46,
+        "end": 57.66
+      },
+      {
+        "word": "a",
+        "start": 57.66,
+        "end": 57.86,
+        "stretch": true
+      },
+      {
+        "word": "white",
+        "start": 57.86,
+        "end": 58.2
+      },
+      {
+        "word": "girl,",
+        "start": 58.2,
+        "end": 58.5
+      },
+      {
+        "word": "shoppin'",
+        "start": 58.66,
+        "end": 59.1
+      },
+      {
+        "word": "buyin'",
+        "start": 59.2,
+        "end": 59.48
+      },
+      {
+        "word": "all",
+        "start": 59.56,
+        "end": 59.64
+      },
+      {
+        "word": "my",
+        "start": 59.64,
+        "end": 59.92
+      },
+      {
+        "word": "clothes",
+        "start": 59.92,
+        "end": 60.36
+      },
+      {
+        "word": "little",
+        "start": 60.36,
+        "end": 60.98
+      },
+      {
+        "word": "P2Fate,",
+        "start": 60.98,
+        "end": 62.32,
+        "stretch": true
+      },
+      {
+        "word": "i",
+        "start": 62.32,
+        "end": 62.5,
+        "stretch": true
+      }
+    ],
+    "time": 57.46,
+    "end": 62.5
+  },
+  {
+    "text": "ain't goin' home now she doin' cocaine on my iPhone when i",
+    "startTime": 62.5,
+    "endTime": 67.56,
+    "words": [
+      {
+        "word": "ain't",
+        "start": 62.5,
+        "end": 62.7
+      },
+      {
+        "word": "goin'",
+        "start": 62.7,
+        "end": 62.96
+      },
+      {
+        "word": "home",
+        "start": 63.5,
+        "end": 63.74
+      },
+      {
+        "word": "now",
+        "start": 63.74,
+        "end": 64.02
+      },
+      {
+        "word": "she",
+        "start": 64.02,
+        "end": 64.24
+      },
+      {
+        "word": "doin'",
+        "start": 64.24,
+        "end": 64.56
+      },
+      {
+        "word": "cocaine",
+        "start": 64.82,
+        "end": 65.42
+      },
+      {
+        "word": "on",
+        "start": 65.42,
+        "end": 65.72
+      },
+      {
+        "word": "my",
+        "start": 65.72,
+        "end": 66.0
+      },
+      {
+        "word": "iPhone",
+        "start": 66.0,
+        "end": 66.68
+      },
+      {
+        "word": "when",
+        "start": 66.68,
+        "end": 67.46,
+        "stretch": true
+      },
+      {
+        "word": "i",
+        "start": 67.46,
+        "end": 67.56
+      }
+    ],
+    "time": 62.5,
+    "end": 67.56
+  },
+  {
+    "text": "die with the devil where i'm gonna go i don't lie, i",
+    "startTime": 67.56,
+    "endTime": 71.34,
+    "words": [
+      {
+        "word": "die",
+        "start": 67.56,
+        "end": 67.88
+      },
+      {
+        "word": "with",
+        "start": 67.88,
+        "end": 68.22
+      },
+      {
+        "word": "the",
+        "start": 68.22,
+        "end": 68.4
+      },
+      {
+        "word": "devil",
+        "start": 68.4,
+        "end": 68.68
+      },
+      {
+        "word": "where",
+        "start": 68.68,
+        "end": 68.96
+      },
+      {
+        "word": "i'm",
+        "start": 68.96,
+        "end": 69.24
+      },
+      {
+        "word": "gonna",
+        "start": 69.24,
+        "end": 69.44
+      },
+      {
+        "word": "go",
+        "start": 69.44,
+        "end": 70.26,
+        "stretch": true
+      },
+      {
+        "word": "i",
+        "start": 70.26,
+        "end": 70.58,
+        "stretch": true
       },
       {
         "word": "don't",
-        "start": 103.63,
-        "end": 103.73,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 70.58,
+        "end": 70.78
       },
       {
-        "word": "even",
-        "start": 103.8,
-        "end": 103.84,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "lie,",
+        "start": 70.78,
+        "end": 71.2
       },
       {
-        "word": "work",
-        "start": 103.85,
-        "end": 103.95,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "but",
-        "start": 103.96,
-        "end": 104.06,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "I'm",
-        "start": 104.07,
-        "end": 104.17,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "in",
-        "start": 104.18,
-        "end": 104.28,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "the",
-        "start": 104.29,
-        "end": 104.39,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "field",
-        "start": 104.4,
-        "end": 104.5,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "i",
+        "start": 71.3,
+        "end": 71.34
       }
     ],
-    "time": 103.52,
-    "end": 104.5
+    "time": 67.56,
+    "end": 71.34
   },
   {
-    "text": "Love is in the air so I'm blowing smoke",
-    "startTime": 104.51,
-    "endTime": 105.49,
+    "text": "don't tell her when i'm fuckin' hoes i get high, pop a",
+    "startTime": 71.34,
+    "endTime": 74.94,
     "words": [
       {
-        "word": "Love",
-        "start": 104.51,
-        "end": 104.61,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "don't",
+        "start": 71.34,
+        "end": 71.48
       },
       {
-        "word": "is",
-        "start": 104.62,
-        "end": 104.72,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "tell",
+        "start": 71.48,
+        "end": 71.86
+      },
+      {
+        "word": "her",
+        "start": 71.86,
+        "end": 72.04
+      },
+      {
+        "word": "when",
+        "start": 72.04,
+        "end": 72.16
+      },
+      {
+        "word": "i'm",
+        "start": 72.16,
+        "end": 72.72,
+        "stretch": true
+      },
+      {
+        "word": "fuckin'",
+        "start": 72.72,
+        "end": 72.72
+      },
+      {
+        "word": "hoes",
+        "start": 73.08,
+        "end": 73.46
+      },
+      {
+        "word": "i",
+        "start": 73.46,
+        "end": 73.78,
+        "stretch": true
+      },
+      {
+        "word": "get",
+        "start": 73.78,
+        "end": 74.1
+      },
+      {
+        "word": "high,",
+        "start": 74.1,
+        "end": 74.42
+      },
+      {
+        "word": "pop",
+        "start": 74.52,
+        "end": 74.66
+      },
+      {
+        "word": "a",
+        "start": 74.66,
+        "end": 74.94,
+        "stretch": true
+      }
+    ],
+    "time": 71.34,
+    "end": 74.94
+  },
+  {
+    "text": "cedar in a pro phone i get high for the pain you",
+    "startTime": 74.94,
+    "endTime": 78.62,
+    "words": [
+      {
+        "word": "cedar",
+        "start": 74.94,
+        "end": 75.22
       },
       {
         "word": "in",
-        "start": 104.79,
-        "end": 104.83,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 75.22,
+        "end": 75.48
+      },
+      {
+        "word": "a",
+        "start": 75.48,
+        "end": 75.76,
+        "stretch": true
+      },
+      {
+        "word": "pro",
+        "start": 75.76,
+        "end": 76.06
+      },
+      {
+        "word": "phone",
+        "start": 76.06,
+        "end": 76.74
+      },
+      {
+        "word": "i",
+        "start": 76.74,
+        "end": 77.02,
+        "stretch": true
+      },
+      {
+        "word": "get",
+        "start": 77.02,
+        "end": 77.36
+      },
+      {
+        "word": "high",
+        "start": 77.36,
+        "end": 77.56
+      },
+      {
+        "word": "for",
+        "start": 77.56,
+        "end": 77.84
       },
       {
         "word": "the",
-        "start": 104.84,
-        "end": 104.94,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 77.84,
+        "end": 78.2
       },
       {
-        "word": "air",
-        "start": 104.95,
-        "end": 105.05,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "pain",
+        "start": 78.2,
+        "end": 78.38
       },
       {
-        "word": "so",
-        "start": 105.06,
-        "end": 105.16,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "I'm",
-        "start": 105.17,
-        "end": 105.27,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "blowing",
-        "start": 105.28,
-        "end": 105.38,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "smoke",
-        "start": 105.39,
-        "end": 105.49,
-        "spoken": true,
-        "singer": "singer1"
+        "word": "you",
+        "start": 78.38,
+        "end": 78.62
       }
     ],
-    "time": 104.51,
-    "end": 105.49
+    "time": 74.94,
+    "end": 78.62
+  },
+  {
+    "text": "would never know you would never know, you would never know",
+    "startTime": 78.62,
+    "endTime": 82.9,
+    "words": [
+      {
+        "word": "would",
+        "start": 78.62,
+        "end": 78.9
+      },
+      {
+        "word": "never",
+        "start": 78.9,
+        "end": 79.2
+      },
+      {
+        "word": "know",
+        "start": 79.2,
+        "end": 79.64
+      },
+      {
+        "word": "you",
+        "start": 79.64,
+        "end": 80.26,
+        "stretch": true
+      },
+      {
+        "word": "would",
+        "start": 80.26,
+        "end": 80.56
+      },
+      {
+        "word": "never",
+        "start": 80.56,
+        "end": 80.82
+      },
+      {
+        "word": "know,",
+        "start": 80.82,
+        "end": 81.62,
+        "stretch": true
+      },
+      {
+        "word": "you",
+        "start": 81.62,
+        "end": 81.84
+      },
+      {
+        "word": "would",
+        "start": 81.84,
+        "end": 82.18
+      },
+      {
+        "word": "never",
+        "start": 82.18,
+        "end": 82.54
+      },
+      {
+        "word": "know",
+        "start": 82.54,
+        "end": 82.9
+      }
+    ],
+    "time": 78.62,
+    "end": 82.9
+  },
+  {
+    "text": "i get high for the pain you would never know where you",
+    "startTime": 82.9,
+    "endTime": 87.0,
+    "words": [
+      {
+        "word": "i",
+        "start": 82.9,
+        "end": 83.56,
+        "stretch": true
+      },
+      {
+        "word": "get",
+        "start": 83.56,
+        "end": 83.82
+      },
+      {
+        "word": "high",
+        "start": 83.82,
+        "end": 84.04
+      },
+      {
+        "word": "for",
+        "start": 84.04,
+        "end": 84.38
+      },
+      {
+        "word": "the",
+        "start": 84.38,
+        "end": 84.68
+      },
+      {
+        "word": "pain",
+        "start": 84.68,
+        "end": 84.92
+      },
+      {
+        "word": "you",
+        "start": 84.92,
+        "end": 85.22
+      },
+      {
+        "word": "would",
+        "start": 85.22,
+        "end": 85.38
+      },
+      {
+        "word": "never",
+        "start": 85.38,
+        "end": 85.78
+      },
+      {
+        "word": "know",
+        "start": 85.78,
+        "end": 86.26
+      },
+      {
+        "word": "where",
+        "start": 86.26,
+        "end": 86.76
+      },
+      {
+        "word": "you",
+        "start": 86.76,
+        "end": 87.0
+      }
+    ],
+    "time": 82.9,
+    "end": 87.0
+  },
+  {
+    "text": "wanna go, where you wanna go i could fly, i could take",
+    "startTime": 87.0,
+    "endTime": 91.34,
+    "words": [
+      {
+        "word": "wanna",
+        "start": 87.0,
+        "end": 87.28
+      },
+      {
+        "word": "go,",
+        "start": 87.28,
+        "end": 88.14,
+        "stretch": true
+      },
+      {
+        "word": "where",
+        "start": 88.16,
+        "end": 88.42
+      },
+      {
+        "word": "you",
+        "start": 88.42,
+        "end": 88.58
+      },
+      {
+        "word": "wanna",
+        "start": 88.58,
+        "end": 88.96
+      },
+      {
+        "word": "go",
+        "start": 88.96,
+        "end": 89.54,
+        "stretch": true
+      },
+      {
+        "word": "i",
+        "start": 89.54,
+        "end": 90.06,
+        "stretch": true
+      },
+      {
+        "word": "could",
+        "start": 90.06,
+        "end": 90.34
+      },
+      {
+        "word": "fly,",
+        "start": 90.34,
+        "end": 90.58
+      },
+      {
+        "word": "i",
+        "start": 90.82,
+        "end": 90.84
+      },
+      {
+        "word": "could",
+        "start": 90.84,
+        "end": 90.98
+      },
+      {
+        "word": "take",
+        "start": 90.98,
+        "end": 91.34
+      }
+    ],
+    "time": 87.0,
+    "end": 91.34
+  },
+  {
+    "text": "you where you wanna go what you wanna know, what you wanna",
+    "startTime": 91.34,
+    "endTime": 95.42,
+    "words": [
+      {
+        "word": "you",
+        "start": 91.34,
+        "end": 91.48
+      },
+      {
+        "word": "where",
+        "start": 91.48,
+        "end": 91.66
+      },
+      {
+        "word": "you",
+        "start": 91.66,
+        "end": 91.96
+      },
+      {
+        "word": "wanna",
+        "start": 91.96,
+        "end": 92.16
+      },
+      {
+        "word": "go",
+        "start": 92.16,
+        "end": 92.88,
+        "stretch": true
+      },
+      {
+        "word": "what",
+        "start": 92.88,
+        "end": 93.28
+      },
+      {
+        "word": "you",
+        "start": 93.28,
+        "end": 93.62
+      },
+      {
+        "word": "wanna",
+        "start": 93.62,
+        "end": 93.76
+      },
+      {
+        "word": "know,",
+        "start": 93.76,
+        "end": 94.58,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "what",
+        "start": 94.64,
+        "end": 94.9,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 94.9,
+        "end": 95.2,
+        "spoken": true
+      },
+      {
+        "word": "wanna",
+        "start": 95.2,
+        "end": 95.42,
+        "spoken": true
+      }
+    ],
+    "time": 91.34,
+    "end": 95.42
+  },
+  {
+    "text": "know ive been rollin', ive been geekin' out that good coke put",
+    "startTime": 95.42,
+    "endTime": 99.86,
+    "words": [
+      {
+        "word": "know",
+        "start": 95.513,
+        "end": 96.02,
+        "spoken": true
+      },
+      {
+        "word": "ive",
+        "start": 96.345,
+        "end": 96.6,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "been",
+        "start": 96.6,
+        "end": 96.78,
+        "spoken": true
+      },
+      {
+        "word": "rollin',",
+        "start": 96.78,
+        "end": 97.28,
+        "spoken": true
+      },
+      {
+        "word": "ive",
+        "start": 97.28,
+        "end": 97.4,
+        "spoken": true
+      },
+      {
+        "word": "been",
+        "start": 97.484,
+        "end": 97.54,
+        "spoken": true
+      },
+      {
+        "word": "geekin'",
+        "start": 97.54,
+        "end": 98.04,
+        "spoken": true
+      },
+      {
+        "word": "out",
+        "start": 98.14,
+        "end": 98.14
+      },
+      {
+        "word": "that",
+        "start": 98.14,
+        "end": 98.42,
+        "spoken": true
+      },
+      {
+        "word": "good",
+        "start": 98.66,
+        "end": 98.82,
+        "spoken": true
+      },
+      {
+        "word": "coke",
+        "start": 98.82,
+        "end": 99.24,
+        "spoken": true
+      },
+      {
+        "word": "put",
+        "start": 99.588,
+        "end": 99.86,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 95.42,
+    "end": 99.86
+  },
+  {
+    "text": "it on my soul, put it on my soul ain't nobody fuckin'",
+    "startTime": 99.86,
+    "endTime": 103.86,
+    "words": [
+      {
+        "word": "it",
+        "start": 99.86,
+        "end": 99.98,
+        "spoken": true
+      },
+      {
+        "word": "on",
+        "start": 99.98,
+        "end": 100.14,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 100.14,
+        "end": 100.56,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "soul,",
+        "start": 100.56,
+        "end": 101.08,
+        "spoken": true
+      },
+      {
+        "word": "put",
+        "start": 101.14,
+        "end": 101.4,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 101.4,
+        "end": 101.58,
+        "spoken": true
+      },
+      {
+        "word": "on",
+        "start": 101.58,
+        "end": 101.76,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 101.976,
+        "end": 102.12,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "soul",
+        "start": 102.12,
+        "end": 102.64,
+        "spoken": true
+      },
+      {
+        "word": "ain't",
+        "start": 102.94,
+        "end": 103.14,
+        "spoken": true
+      },
+      {
+        "word": "nobody",
+        "start": 103.14,
+        "end": 103.48,
+        "spoken": true
+      },
+      {
+        "word": "fuckin'",
+        "start": 103.643,
+        "end": 103.86,
+        "spoken": true
+      }
+    ],
+    "time": 99.86,
+    "end": 103.86
+  },
+  {
+    "text": "with me and my fuckin' bros",
+    "startTime": 104.08,
+    "endTime": 105.6,
+    "words": [
+      {
+        "word": "with",
+        "start": 104.08,
+        "end": 104.16,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 104.16,
+        "end": 104.48,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 104.48,
+        "end": 104.6,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 104.6,
+        "end": 104.82,
+        "spoken": true
+      },
+      {
+        "word": "fuckin'",
+        "start": 104.866,
+        "end": 105.1,
+        "spoken": true
+      },
+      {
+        "word": "bros",
+        "start": 105.44,
+        "end": 105.6,
+        "spoken": true
+      }
+    ],
+    "time": 104.08,
+    "end": 105.6
   }
 ]

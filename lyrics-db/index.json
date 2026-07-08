@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T16:35:26.285145+00:00",
+  "generatedAt": "2026-07-08T16:36:34.233517+00:00",
   "totalTracks": 785,
   "roots": [
     "lyrics-db/tracks"
@@ -10710,20 +10710,6 @@
       "sourcePath": "https://soundcloud.com/gab3omg/gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse",
       "mtimeMs": 1783280843288
     },
-    "falc0n::lil peep poor thing without jaxxon": {
-      "title": "Lil peep Poor thing without Jaxxon",
-      "artist": "falc0n",
-      "originalTrackName": "falc0n - Lil peep Poor thing without Jaxxon",
-      "source": "syncedlyrics",
-      "file": "tracks/falc0n-lil-peep-poor-thing-without-jaxxon-327a68c5ed79.json",
-      "files": {
-        "lyrics": "tracks/falc0n-lil-peep-poor-thing-without-jaxxon-327a68c5ed79.json",
-        "meta": "tracks/falc0n-lil-peep-poor-thing-without-jaxxon-327a68c5ed79.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/user-698629407/lil-peep-poor-thing-without-jaxxon",
-      "mtimeMs": 1783281432806
-    },
     "outsider::lil peep - another cup": {
       "title": "Lil Peep - Another Cup",
       "artist": "Outsider",
@@ -11033,6 +11019,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-538322163/lil-peep-ps-fuck-you-cunt",
       "mtimeMs": 1783528526725
+    },
+    "falc0n::lil peep poor thing without jaxxon": {
+      "title": "Lil peep Poor thing without Jaxxon",
+      "artist": "falc0n",
+      "originalTrackName": "falc0n - Lil peep Poor thing without Jaxxon",
+      "source": "whisper_only",
+      "file": "tracks/falc0n-lil-peep-poor-thing-without-jaxxon-327a68c5ed79.json",
+      "files": {
+        "lyrics": "tracks/falc0n-lil-peep-poor-thing-without-jaxxon-327a68c5ed79.json",
+        "meta": "tracks/falc0n-lil-peep-poor-thing-without-jaxxon-327a68c5ed79.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-698629407/lil-peep-poor-thing-without-jaxxon",
+      "mtimeMs": 1783528594724
     }
   },
   "tracks": [
@@ -21761,20 +21761,6 @@
       "mtimeMs": 1783280843288
     },
     {
-      "title": "Lil peep Poor thing without Jaxxon",
-      "artist": "falc0n",
-      "originalTrackName": "falc0n - Lil peep Poor thing without Jaxxon",
-      "source": "syncedlyrics",
-      "file": "tracks/falc0n-lil-peep-poor-thing-without-jaxxon-327a68c5ed79.json",
-      "files": {
-        "lyrics": "tracks/falc0n-lil-peep-poor-thing-without-jaxxon-327a68c5ed79.json",
-        "meta": "tracks/falc0n-lil-peep-poor-thing-without-jaxxon-327a68c5ed79.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/user-698629407/lil-peep-poor-thing-without-jaxxon",
-      "mtimeMs": 1783281432806
-    },
-    {
       "title": "Lil Peep - Another Cup",
       "artist": "Outsider",
       "originalTrackName": "Outsider - Lil Peep - Another Cup",
@@ -22083,6 +22069,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-538322163/lil-peep-ps-fuck-you-cunt",
       "mtimeMs": 1783528526725
+    },
+    {
+      "title": "Lil peep Poor thing without Jaxxon",
+      "artist": "falc0n",
+      "originalTrackName": "falc0n - Lil peep Poor thing without Jaxxon",
+      "source": "whisper_only",
+      "file": "tracks/falc0n-lil-peep-poor-thing-without-jaxxon-327a68c5ed79.json",
+      "files": {
+        "lyrics": "tracks/falc0n-lil-peep-poor-thing-without-jaxxon-327a68c5ed79.json",
+        "meta": "tracks/falc0n-lil-peep-poor-thing-without-jaxxon-327a68c5ed79.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-698629407/lil-peep-poor-thing-without-jaxxon",
+      "mtimeMs": 1783528594724
     }
   ]
 }

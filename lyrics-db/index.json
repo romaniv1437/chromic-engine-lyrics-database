@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T16:28:24.513472+00:00",
+  "generatedAt": "2026-07-08T16:29:43.427075+00:00",
   "totalTracks": 785,
   "roots": [
     "lyrics-db/tracks"
@@ -10724,20 +10724,6 @@
       "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
       "mtimeMs": 1783065487407
     },
-    "lil peep::lil peep - mud on my gucci": {
-      "title": "Lil Peep - Mud On My Gucci",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - Lil Peep - Mud On My Gucci",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-lil-peep-mud-on-my-gucci-89bcb0bfd9a5.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-lil-peep-mud-on-my-gucci-89bcb0bfd9a5.json",
-        "meta": "tracks/lil-peep-lil-peep-mud-on-my-gucci-89bcb0bfd9a5.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/zapte_peep/lil-peep-mud-on-my-gucci",
-      "mtimeMs": 1783158486472
-    },
     "playboi carti, vory::made it this far (outro)": {
       "title": "MADE IT THIS FAR (OUTRO)",
       "artist": "PLAYBOI CARTI, VORY",
@@ -11033,6 +11019,20 @@
       },
       "sourcePath": "https://soundcloud.com/bladee1000/4-34-edit",
       "mtimeMs": 1783528104937
+    },
+    "lil peep::lil peep - mud on my gucci": {
+      "title": "Lil Peep - Mud On My Gucci",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep - Mud On My Gucci",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-lil-peep-mud-on-my-gucci-89bcb0bfd9a5.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-mud-on-my-gucci-89bcb0bfd9a5.json",
+        "meta": "tracks/lil-peep-lil-peep-mud-on-my-gucci-89bcb0bfd9a5.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/zapte_peep/lil-peep-mud-on-my-gucci",
+      "mtimeMs": 1783528183921
     }
   },
   "tracks": [
@@ -21775,20 +21775,6 @@
       "mtimeMs": 1783065487407
     },
     {
-      "title": "Lil Peep - Mud On My Gucci",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - Lil Peep - Mud On My Gucci",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-lil-peep-mud-on-my-gucci-89bcb0bfd9a5.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-lil-peep-mud-on-my-gucci-89bcb0bfd9a5.json",
-        "meta": "tracks/lil-peep-lil-peep-mud-on-my-gucci-89bcb0bfd9a5.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/zapte_peep/lil-peep-mud-on-my-gucci",
-      "mtimeMs": 1783158486472
-    },
-    {
       "title": "MADE IT THIS FAR (OUTRO)",
       "artist": "PLAYBOI CARTI, VORY",
       "originalTrackName": "PLAYBOI CARTI, VORY - MADE IT THIS FAR (OUTRO)",
@@ -22083,6 +22069,20 @@
       },
       "sourcePath": "https://soundcloud.com/bladee1000/4-34-edit",
       "mtimeMs": 1783528104937
+    },
+    {
+      "title": "Lil Peep - Mud On My Gucci",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep - Mud On My Gucci",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-lil-peep-mud-on-my-gucci-89bcb0bfd9a5.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-mud-on-my-gucci-89bcb0bfd9a5.json",
+        "meta": "tracks/lil-peep-lil-peep-mud-on-my-gucci-89bcb0bfd9a5.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/zapte_peep/lil-peep-mud-on-my-gucci",
+      "mtimeMs": 1783528183921
     }
   ]
 }

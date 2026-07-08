@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T20:14:51.061128+00:00",
+  "generatedAt": "2026-07-08T20:16:27.188064+00:00",
   "totalTracks": 788,
   "roots": [
     "lyrics-db/tracks"
@@ -10824,20 +10824,6 @@
       "sourcePath": "https://soundcloud.com/lil_peep/no-respect-freestyle-prod-greaf",
       "mtimeMs": 1783530209952
     },
-    "☆lil peep☆::latitude": {
-      "title": "Latitude",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - Latitude",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-latitude-a8462ab7ba56.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-latitude-a8462ab7ba56.json",
-        "meta": "tracks/lil-peep-latitude-a8462ab7ba56.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/latitude",
-      "mtimeMs": 1783530293349
-    },
     "kyston::obito x it's snowing like it's the end of the world": {
       "title": "Obito x It's Snowing Like It's The End Of The World",
       "artist": "Kyston",
@@ -11075,6 +11061,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/2008-prod-hector-vae",
       "mtimeMs": 1783541691729
+    },
+    "☆lil peep☆::latitude": {
+      "title": "Latitude",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - Latitude",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-latitude-a8462ab7ba56.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-latitude-a8462ab7ba56.json",
+        "meta": "tracks/lil-peep-latitude-a8462ab7ba56.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/latitude",
+      "mtimeMs": 1783541787673
     }
   },
   "tracks": [
@@ -21917,20 +21917,6 @@
       "mtimeMs": 1783530209952
     },
     {
-      "title": "Latitude",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - Latitude",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-latitude-a8462ab7ba56.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-latitude-a8462ab7ba56.json",
-        "meta": "tracks/lil-peep-latitude-a8462ab7ba56.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/latitude",
-      "mtimeMs": 1783530293349
-    },
-    {
       "title": "Obito x It's Snowing Like It's The End Of The World",
       "artist": "Kyston",
       "originalTrackName": "Kyston - Obito x It's Snowing Like It's The End Of The World",
@@ -22167,6 +22153,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/2008-prod-hector-vae",
       "mtimeMs": 1783541691729
+    },
+    {
+      "title": "Latitude",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - Latitude",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-latitude-a8462ab7ba56.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-latitude-a8462ab7ba56.json",
+        "meta": "tracks/lil-peep-latitude-a8462ab7ba56.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/latitude",
+      "mtimeMs": 1783541787673
     }
   ]
 }

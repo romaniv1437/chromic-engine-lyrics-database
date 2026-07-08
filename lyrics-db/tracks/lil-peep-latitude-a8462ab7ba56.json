@@ -53,21 +53,21 @@
     "end": 1.96
   },
   {
-    "text": "I think you should, I, I think, you know",
-    "startTime": 2.18,
-    "endTime": 3.613,
+    "text": "I think you should, I think you know",
+    "startTime": 2.08,
+    "endTime": 3.82,
     "words": [
       {
         "word": "I",
-        "start": 2.18,
-        "end": 2.28,
+        "start": 2.08,
+        "end": 2.18,
         "spoken": true
       },
       {
         "word": "think",
-        "start": 2.29,
+        "start": 2.18,
         "end": 2.38,
-        "spoken": true
+        "sung": true
       },
       {
         "word": "you",
@@ -77,72 +77,66 @@
       },
       {
         "word": "should,",
-        "start": 2.6,
-        "end": 2.84,
-        "spoken": true
-      },
-      {
-        "word": "I,",
-        "start": 2.84,
-        "end": 3.12,
+        "start": 2.646,
+        "end": 2.86,
         "spoken": true
       },
       {
         "word": "I",
-        "start": 3.12,
-        "end": 3.22
+        "start": 2.86,
+        "end": 3.12,
+        "spoken": true
       },
       {
-        "word": "think,",
-        "start": 3.276,
-        "end": 3.46
+        "word": "think",
+        "start": 3.259,
+        "end": 3.48
       },
       {
         "word": "you",
-        "start": 3.46,
-        "end": 3.503
+        "start": 3.55,
+        "end": 3.72
       },
       {
         "word": "know",
-        "start": 3.513,
-        "end": 3.613,
-        "spoken": true
+        "start": 3.72,
+        "end": 3.82
       }
     ],
-    "time": 2.18,
-    "end": 3.613
+    "time": 2.08,
+    "end": 3.82
   },
   {
     "text": "You should, you should look at yourself in the mirror sometimes",
-    "startTime": 3.46,
+    "startTime": 3.86,
     "endTime": 6.32,
     "words": [
       {
         "word": "You",
-        "start": 3.53,
-        "end": 3.76,
-        "sung": true
+        "start": 3.86,
+        "end": 3.96,
+        "spoken": true
       },
       {
         "word": "should,",
-        "start": 3.853,
+        "start": 3.97,
         "end": 4.08,
         "spoken": true
       },
       {
         "word": "you",
         "start": 4.08,
-        "end": 4.32,
+        "end": 4.34,
         "spoken": true
       },
       {
         "word": "should",
-        "start": 4.366,
-        "end": 4.62
+        "start": 4.34,
+        "end": 4.66
       },
       {
         "word": "look",
-        "start": 4.806,
+        "start": 4.799,
         "end": 4.94
       },
       {
@@ -166,12 +160,11 @@
       {
         "word": "the",
         "start": 5.64,
-        "end": 5.7,
-        "spoken": true
+        "end": 5.68
       },
       {
         "word": "mirror",
-        "start": 5.7,
+        "start": 5.68,
         "end": 5.88,
         "spoken": true
       },
@@ -181,7 +174,7 @@
         "end": 6.32
       }
     ],
-    "time": 3.46,
+    "time": 3.86,
     "end": 6.32
   },
   {
@@ -192,26 +185,26 @@
       {
         "word": "And",
         "start": 6.346,
-        "end": 6.54
+        "end": 6.5
       },
       {
         "word": "say,",
-        "start": 6.726,
-        "end": 6.94
+        "start": 6.5,
+        "end": 6.76
       },
       {
         "word": "\"Look,",
-        "start": 6.94,
-        "end": 7.1
+        "start": 6.76,
+        "end": 7.14
       },
       {
         "word": "what",
-        "start": 7.244,
-        "end": 7.34
+        "start": 7.248,
+        "end": 7.32
       },
       {
         "word": "am",
-        "start": 7.34,
+        "start": 7.32,
         "end": 7.52
       },
       {
@@ -233,11 +226,11 @@
       {
         "word": "why",
         "start": 8.476,
-        "end": 8.62
+        "end": 8.64
       },
       {
         "word": "am",
-        "start": 8.62,
+        "start": 8.64,
         "end": 8.8
       },
       {
@@ -258,10 +251,10 @@
         "end": 9.82,
         "char_starts": [
           9.266,
-          9.331,
-          9.432,
-          9.552,
-          9.688
+          9.332,
+          9.433,
+          9.553,
+          9.689
         ]
       }
     ],
@@ -279,23 +272,18 @@
   },
   {
     "text": "You ain't going nowhere with that attitude",
-    "startTime": 18.7,
-    "endTime": 23.58,
+    "startTime": 18.86,
+    "endTime": 23.14,
     "words": [
       {
         "word": "You",
-        "start": 19.012,
-        "end": 19.22,
-        "char_starts": [
-          19.012,
-          19.042,
-          19.077
-        ],
+        "start": 19.124,
+        "end": 19.3,
         "sung": true
       },
       {
         "word": "ain't",
-        "start": 19.22,
+        "start": 19.3,
         "end": 19.74,
         "spoken": true
       },
@@ -311,12 +299,12 @@
         "end": 21.52,
         "char_starts": [
           20.71,
-          20.756,
-          20.81,
-          20.881,
-          20.968,
-          21.07,
-          21.184
+          20.779,
+          20.848,
+          20.92,
+          21.006,
+          21.105,
+          21.215
         ],
         "spoken": true
       },
@@ -326,9 +314,9 @@
         "end": 22.5,
         "char_starts": [
           21.87,
-          21.964,
-          22.11,
-          22.284
+          21.965,
+          22.111,
+          22.285
         ],
         "spoken": true
       },
@@ -341,191 +329,164 @@
       {
         "word": "attitude",
         "start": 22.94,
-        "end": 23.58,
+        "end": 23.14,
         "spoken": true
       }
     ],
-    "time": 18.7,
-    "end": 23.58
+    "time": 18.86,
+    "end": 23.14
   },
   {
-    "text": "I can't find anyone that's like me at this latitude (at this latitude)",
-    "startTime": 23.58,
-    "endTime": 28.44,
+    "text": "I can't find anyone that's like me at this latitude",
+    "startTime": 23.16,
+    "endTime": 28.22,
     "words": [
       {
         "word": "I",
-        "start": 23.772,
-        "end": 23.9,
+        "start": 23.16,
+        "end": 23.88,
         "spoken": true
       },
       {
         "word": "can't",
-        "start": 23.9,
-        "end": 24.6,
+        "start": 23.88,
+        "end": 24.62,
         "char_starts": [
-          23.9,
-          23.984,
-          24.114,
-          24.27,
-          24.446
+          23.88,
+          23.969,
+          24.106,
+          24.271,
+          24.457
         ],
         "spoken": true
       },
       {
         "word": "find",
-        "start": 24.6,
-        "end": 25.14,
+        "start": 24.62,
+        "end": 25.06,
         "spoken": true
       },
       {
         "word": "anyone",
-        "start": 25.49,
-        "end": 25.92,
+        "start": 25.41,
+        "end": 25.96,
         "char_starts": [
-          25.49,
+          25.41,
+          25.465,
           25.52,
-          25.55,
-          25.591,
-          25.64,
-          25.697
+          25.579,
+          25.648,
+          25.727
         ],
         "spoken": true
       },
       {
         "word": "that's",
-        "start": 26.036,
-        "end": 26.48,
+        "start": 26.03,
+        "end": 26.46,
         "spoken": true
       },
       {
         "word": "like",
-        "start": 26.48,
-        "end": 26.58,
+        "start": 26.46,
+        "end": 26.54,
         "spoken": true
       },
       {
         "word": "me",
-        "start": 26.868,
-        "end": 27.06,
+        "start": 26.816,
+        "end": 27.0,
         "spoken": true
       },
       {
         "word": "at",
-        "start": 27.06,
-        "end": 27.3,
+        "start": 27.0,
+        "end": 27.24,
         "spoken": true
       },
       {
         "word": "this",
-        "start": 27.3,
-        "end": 27.66,
+        "start": 27.24,
+        "end": 27.62,
         "spoken": true
       },
       {
         "word": "latitude",
-        "start": 27.66,
-        "end": 28.16,
-        "spoken": true
-      },
-      {
-        "word": "(at",
-        "start": 28.16,
-        "end": 28.212,
-        "adlib": true,
-        "spoken": true
-      },
-      {
-        "word": "this",
-        "start": 28.212,
-        "end": 28.282,
-        "adlib": true,
-        "spoken": true
-      },
-      {
-        "word": "latitude)",
-        "start": 28.282,
-        "end": 28.44,
-        "adlib": true,
+        "start": 27.62,
+        "end": 28.22,
         "spoken": true
       }
     ],
-    "time": 23.58,
-    "end": 28.44
+    "time": 23.16,
+    "end": 28.22
   },
   {
-    "text": "Ain't going nowhere when I'm mad at you",
-    "startTime": 28.56,
+    "text": "Ain't going nowhere, when I'm mad at you",
+    "startTime": 28.6,
     "endTime": 33.16,
     "words": [
       {
         "word": "Ain't",
-        "start": 28.56,
-        "end": 29.22,
-        "char_starts": [
-          28.56,
-          28.639,
-          28.762,
-          28.909,
-          29.075
-        ],
+        "start": 28.6,
+        "end": 29.2,
         "spoken": true
       },
       {
         "word": "going",
-        "start": 29.22,
+        "start": 29.2,
         "end": 29.88,
         "char_starts": [
-          29.22,
-          29.299,
-          29.422,
-          29.569,
-          29.735
+          29.2,
+          29.282,
+          29.408,
+          29.56,
+          29.73
         ],
         "spoken": true
       },
       {
-        "word": "nowhere",
+        "word": "nowhere,",
         "start": 30.23,
         "end": 30.96,
         "char_starts": [
           30.23,
-          30.272,
-          30.319,
-          30.382,
-          30.459,
-          30.548,
-          30.648
+          30.285,
+          30.34,
+          30.405,
+          30.478,
+          30.558,
+          30.643,
+          30.733
         ],
         "spoken": true
       },
       {
         "word": "when",
         "start": 31.31,
-        "end": 31.92,
+        "end": 31.94,
         "char_starts": [
           31.31,
-          31.401,
-          31.541,
-          31.709
+          31.404,
+          31.55,
+          31.724
         ],
         "spoken": true
       },
       {
         "word": "I'm",
-        "start": 31.92,
-        "end": 32.54,
+        "start": 31.94,
+        "end": 32.52,
         "spoken": true
       },
       {
         "word": "mad",
-        "start": 32.54,
-        "end": 32.64,
+        "start": 32.52,
+        "end": 32.62,
         "spoken": true
       },
       {
         "word": "at",
-        "start": 32.64,
+        "start": 32.62,
         "end": 32.84,
         "spoken": true
       },
@@ -536,195 +497,203 @@
         "spoken": true
       }
     ],
-    "time": 28.56,
+    "time": 28.6,
     "end": 33.16
   },
   {
     "text": "I can't find anyone that's like me on this avenue",
-    "startTime": 33.14,
-    "endTime": 37.72,
+    "startTime": 33.12,
+    "endTime": 38.44,
     "words": [
       {
         "word": "I",
-        "start": 33.296,
+        "start": 33.288,
         "end": 33.4,
         "spoken": true
       },
       {
         "word": "can't",
         "start": 33.4,
-        "end": 34.08,
+        "end": 34.12,
         "char_starts": [
           33.4,
-          33.482,
-          33.608,
-          33.76,
-          33.93
+          33.486,
+          33.62,
+          33.781,
+          33.962
         ],
         "spoken": true
       },
       {
         "word": "find",
-        "start": 34.08,
-        "end": 34.56,
+        "start": 34.12,
+        "end": 34.66,
         "spoken": true
       },
       {
         "word": "anyone",
-        "start": 34.91,
-        "end": 35.42,
+        "start": 35.01,
+        "end": 35.44,
         "char_starts": [
-          34.91,
-          34.944,
-          34.983,
-          35.035,
-          35.099,
-          35.173
+          35.01,
+          35.053,
+          35.096,
+          35.139,
+          35.188,
+          35.244
         ],
         "spoken": true
       },
       {
         "word": "that's",
-        "start": 35.513,
+        "start": 35.533,
         "end": 35.96,
         "spoken": true
       },
       {
         "word": "like",
         "start": 35.96,
-        "end": 36.04,
+        "end": 36.08,
         "spoken": true
       },
       {
         "word": "me",
-        "start": 36.28,
-        "end": 36.44,
+        "start": 36.332,
+        "end": 36.5,
         "spoken": true
       },
       {
         "word": "on",
-        "start": 36.44,
-        "end": 36.8,
+        "start": 36.5,
+        "end": 36.78,
         "spoken": true
       },
       {
         "word": "this",
-        "start": 36.8,
-        "end": 37.12,
+        "start": 36.78,
+        "end": 37.14,
         "spoken": true
       },
       {
         "word": "avenue",
-        "start": 37.12,
-        "end": 37.72,
+        "start": 37.49,
+        "end": 38.44,
+        "char_starts": [
+          37.49,
+          37.585,
+          37.68,
+          37.783,
+          37.905,
+          38.045
+        ],
         "spoken": true
       }
     ],
-    "time": 33.14,
-    "end": 37.72
+    "time": 33.12,
+    "end": 38.44
   },
   {
     "text": "Going nowhere with that attitude",
-    "startTime": 38.5,
-    "endTime": 42.54,
+    "startTime": 38.44,
+    "endTime": 42.56,
     "words": [
       {
         "word": "Going",
-        "start": 38.5,
-        "end": 39.54,
+        "start": 38.44,
+        "end": 39.4,
         "char_starts": [
-          38.5,
-          38.625,
-          38.818,
-          39.05,
-          39.311
+          38.44,
+          38.555,
+          38.734,
+          38.948,
+          39.189
         ],
         "spoken": true
       },
       {
         "word": "nowhere",
-        "start": 39.89,
-        "end": 40.58,
+        "start": 39.75,
+        "end": 40.56,
         "char_starts": [
-          39.89,
-          39.929,
-          39.973,
-          40.032,
-          40.104,
-          40.186,
-          40.28
+          39.75,
+          39.819,
+          39.888,
+          39.96,
+          40.046,
+          40.145,
+          40.255
         ],
         "spoken": true
       },
       {
         "word": "with",
-        "start": 40.93,
-        "end": 41.5,
+        "start": 40.91,
+        "end": 41.52,
         "char_starts": [
-          40.93,
-          41.014,
-          41.143,
-          41.298
+          40.91,
+          41.002,
+          41.142,
+          41.31
         ],
         "spoken": true
       },
       {
         "word": "that",
-        "start": 41.5,
-        "end": 41.9,
+        "start": 41.52,
+        "end": 41.96,
         "spoken": true
       },
       {
         "word": "attitude",
-        "start": 41.9,
-        "end": 42.54,
+        "start": 41.96,
+        "end": 42.56,
         "spoken": true
       }
     ],
-    "time": 38.5,
-    "end": 42.54
+    "time": 38.44,
+    "end": 42.56
   },
   {
     "text": "I can't find anyone that's like me at this latitude",
-    "startTime": 42.54,
-    "endTime": 47.58,
+    "startTime": 42.52,
+    "endTime": 47.62,
     "words": [
       {
         "word": "I",
-        "start": 42.54,
-        "end": 42.9,
+        "start": 42.52,
+        "end": 42.88,
         "spoken": true
       },
       {
         "word": "can't",
-        "start": 42.9,
+        "start": 42.88,
         "end": 43.62,
         "char_starts": [
-          42.9,
-          42.986,
-          43.12,
-          43.281,
-          43.462
+          42.88,
+          42.969,
+          43.106,
+          43.271,
+          43.457
         ],
         "spoken": true
       },
       {
         "word": "find",
         "start": 43.62,
-        "end": 44.18,
+        "end": 44.14,
         "spoken": true
       },
       {
         "word": "anyone",
-        "start": 44.53,
+        "start": 44.49,
         "end": 44.94,
         "char_starts": [
-          44.53,
-          44.56,
-          44.59,
-          44.627,
-          44.673,
-          44.726
+          44.49,
+          44.535,
+          44.58,
+          44.625,
+          44.677,
+          44.737
         ],
         "spoken": true
       },
@@ -742,349 +711,359 @@
       },
       {
         "word": "me",
-        "start": 45.86,
-        "end": 46.02,
+        "start": 45.896,
+        "end": 46.08,
         "spoken": true
       },
       {
         "word": "at",
-        "start": 46.02,
-        "end": 46.28,
+        "start": 46.08,
+        "end": 46.26,
         "spoken": true
       },
       {
         "word": "this",
-        "start": 46.28,
+        "start": 46.26,
         "end": 46.62,
         "spoken": true
       },
       {
         "word": "latitude",
         "start": 46.62,
-        "end": 47.58,
+        "end": 47.62,
         "char_starts": [
           46.62,
-          46.668,
-          46.729,
-          46.81,
-          46.909,
-          47.025,
-          47.155,
-          47.299
+          46.695,
+          46.77,
+          46.855,
+          46.957,
+          47.074,
+          47.204,
+          47.347
         ],
         "spoken": true
       }
     ],
-    "time": 42.54,
-    "end": 47.58
+    "time": 42.52,
+    "end": 47.62
   },
   {
     "text": "Going nowhere when I'm mad at you",
-    "startTime": 48.16,
+    "startTime": 47.62,
     "endTime": 52.16,
     "words": [
       {
         "word": "Going",
-        "start": 48.16,
-        "end": 48.9,
+        "start": 47.62,
+        "end": 49.0,
         "char_starts": [
-          48.16,
-          48.249,
-          48.386,
-          48.551,
-          48.737
+          47.62,
+          47.786,
+          47.998,
+          48.25,
+          48.533
         ],
         "spoken": true
       },
       {
         "word": "nowhere",
-        "start": 49.25,
-        "end": 49.88,
+        "start": 49.35,
+        "end": 50.16,
         "char_starts": [
-          49.25,
-          49.286,
-          49.325,
-          49.377,
-          49.441,
-          49.514,
-          49.597
+          49.35,
+          49.419,
+          49.488,
+          49.56,
+          49.646,
+          49.745,
+          49.855
         ],
         "spoken": true
       },
       {
         "word": "when",
-        "start": 49.88,
-        "end": 50.94,
+        "start": 50.51,
+        "end": 50.98,
         "char_starts": [
-          49.88,
-          50.068,
-          50.358,
-          50.707
+          50.51,
+          50.581,
+          50.682,
+          50.803
         ],
         "spoken": true
       },
       {
         "word": "I'm",
-        "start": 50.94,
-        "end": 51.26,
+        "start": 50.98,
+        "end": 51.52,
         "spoken": true
       },
       {
         "word": "mad",
-        "start": 51.26,
-        "end": 51.66,
+        "start": 51.52,
+        "end": 51.64,
         "spoken": true
       },
       {
         "word": "at",
-        "start": 51.66,
-        "end": 51.86,
+        "start": 51.64,
+        "end": 51.88,
         "spoken": true
       },
       {
         "word": "you",
-        "start": 51.86,
+        "start": 51.88,
         "end": 52.16,
         "spoken": true
       }
     ],
-    "time": 48.16,
+    "time": 47.62,
     "end": 52.16
   },
   {
-    "text": "I can't find anyone that's like me on this avenue",
-    "startTime": 52.14,
-    "endTime": 56.8,
+    "text": "I can't find anyone that's like me on this avenue, hey",
+    "startTime": 52.12,
+    "endTime": 57.5,
     "words": [
       {
         "word": "I",
-        "start": 52.14,
-        "end": 52.4,
+        "start": 52.12,
+        "end": 52.36,
         "spoken": true
       },
       {
         "word": "can't",
-        "start": 52.4,
-        "end": 53.12,
+        "start": 52.36,
+        "end": 53.02,
         "char_starts": [
-          52.4,
-          52.486,
-          52.62,
-          52.781,
-          52.962
+          52.36,
+          52.439,
+          52.562,
+          52.709,
+          52.875
         ],
         "spoken": true
       },
       {
         "word": "find",
-        "start": 53.12,
-        "end": 53.64,
+        "start": 53.02,
+        "end": 53.58,
         "spoken": true
       },
       {
         "word": "anyone",
-        "start": 53.99,
-        "end": 54.46,
+        "start": 53.93,
+        "end": 54.44,
         "char_starts": [
-          53.99,
-          54.021,
-          54.056,
-          54.102,
-          54.159,
-          54.224
+          53.93,
+          53.981,
+          54.032,
+          54.085,
+          54.148,
+          54.22
         ],
         "spoken": true
       },
       {
         "word": "that's",
-        "start": 54.553,
-        "end": 55.0,
+        "start": 54.533,
+        "end": 54.94,
         "spoken": true
       },
       {
         "word": "like",
-        "start": 55.0,
-        "end": 55.12,
+        "start": 54.94,
+        "end": 55.08,
         "spoken": true
       },
       {
         "word": "me",
-        "start": 55.12,
+        "start": 55.08,
         "end": 55.5,
         "spoken": true
       },
       {
         "word": "on",
         "start": 55.5,
-        "end": 55.74
+        "end": 55.82
       },
       {
         "word": "this",
-        "start": 55.992,
+        "start": 56.024,
         "end": 56.16,
         "spoken": true
       },
       {
-        "word": "avenue",
+        "word": "avenue,",
         "start": 56.16,
-        "end": 56.8,
+        "end": 56.9,
+        "char_starts": [
+          56.16,
+          56.223,
+          56.302,
+          56.396,
+          56.502,
+          56.617,
+          56.74
+        ],
+        "spoken": true
+      },
+      {
+        "word": "hey",
+        "start": 57.063,
+        "end": 57.5,
+        "char_starts": [
+          57.063,
+          57.15,
+          57.321
+        ],
         "spoken": true
       }
     ],
-    "time": 52.14,
-    "end": 56.8
+    "time": 52.12,
+    "end": 57.5
   },
   {
-    "text": "Hey, \"Just walk with me this time,\" she said",
-    "startTime": 58.55,
+    "text": "Just walk with me this time, she said",
+    "startTime": 57.96,
     "endTime": 62.52,
     "words": [
       {
-        "word": "Hey,",
-        "start": 58.55,
-        "end": 58.65,
-        "whisper": true
-      },
-      {
-        "word": "\"Just",
-        "start": 58.828,
-        "end": 58.94,
-        "spoken": true
+        "word": "Just",
+        "start": 58.31,
+        "end": 58.96,
+        "char_starts": [
+          58.31,
+          58.408,
+          58.559,
+          58.74
+        ],
+        "sung": true,
+        "stretch": true
       },
       {
         "word": "walk",
-        "start": 58.94,
-        "end": 59.28,
+        "start": 58.96,
+        "end": 59.3,
         "spoken": true
       },
       {
         "word": "with",
-        "start": 59.28,
-        "end": 59.6,
+        "start": 59.3,
+        "end": 59.58,
         "spoken": true
       },
       {
         "word": "me",
-        "start": 59.6,
+        "start": 59.58,
         "end": 60.08,
         "spoken": true
       },
       {
         "word": "this",
         "start": 60.08,
-        "end": 60.6,
-        "spoken": true
+        "end": 60.54
       },
       {
-        "word": "time,\"",
-        "start": 60.739,
-        "end": 61.06
+        "word": "time,",
+        "start": 60.726,
+        "end": 61.06,
+        "spoken": true
       },
       {
         "word": "she",
         "start": 61.06,
-        "end": 61.66,
+        "end": 61.64,
         "char_starts": [
           61.06,
-          61.199,
-          61.48
-        ],
-        "spoken": true
-      },
-      {
-        "word": "said",
-        "start": 62.01,
-        "end": 62.52,
-        "char_starts": [
-          62.01,
-          62.083,
-          62.196,
-          62.331
-        ],
-        "spoken": true
-      }
-    ],
-    "time": 58.55,
-    "end": 62.52
-  },
-  {
-    "text": "\"Don't talk to me this time\"",
-    "startTime": 62.52,
-    "endTime": 66.16,
-    "words": [
-      {
-        "word": "\"Don't",
-        "start": 62.87,
-        "end": 63.64,
-        "char_starts": [
-          62.87,
-          62.929,
-          63.022,
-          63.133,
-          63.257,
-          63.394
+          61.194,
+          61.466
         ]
       },
       {
+        "word": "said",
+        "start": 61.99,
+        "end": 62.52,
+        "char_starts": [
+          61.99,
+          62.07,
+          62.187,
+          62.328
+        ]
+      }
+    ],
+    "time": 57.96,
+    "end": 62.52
+  },
+  {
+    "text": "Don't talk to me this time",
+    "startTime": 63.12,
+    "endTime": 67.8,
+    "words": [
+      {
+        "word": "Don't",
+        "start": 63.12,
+        "end": 63.64
+      },
+      {
         "word": "talk",
-        "start": 63.71,
-        "end": 64.0
+        "start": 63.733,
+        "end": 64.02
       },
       {
         "word": "to",
-        "start": 64.0,
-        "end": 64.22,
+        "start": 64.02,
+        "end": 64.3,
         "spoken": true
       },
       {
         "word": "me",
-        "start": 64.22,
-        "end": 64.64,
+        "start": 64.3,
+        "end": 64.66,
         "spoken": true
       },
       {
         "word": "this",
-        "start": 64.64,
-        "end": 65.36,
+        "start": 64.66,
+        "end": 65.38,
         "char_starts": [
-          64.64,
-          64.767,
-          64.965,
-          65.202
+          64.66,
+          64.787,
+          64.985,
+          65.222
         ],
         "spoken": true
       },
       {
-        "word": "time\"",
-        "start": 65.476,
-        "end": 66.16,
+        "word": "time",
+        "start": 65.473,
+        "end": 67.8,
         "char_starts": [
-          65.476,
-          65.554,
-          65.675,
-          65.82,
-          65.984
+          65.473,
+          65.822,
+          66.324,
+          66.998
         ],
         "spoken": true
       }
     ],
-    "time": 62.52,
-    "end": 66.16
+    "time": 63.12,
+    "end": 67.8
   },
   {
     "text": "Fuck me right here, baby, fuck it",
-    "startTime": 67.68,
-    "endTime": 73.09,
+    "startTime": 67.8,
+    "endTime": 73.0,
     "words": [
       {
         "word": "Fuck",
-        "start": 67.866,
+        "start": 67.893,
         "end": 68.64,
         "char_starts": [
-          67.866,
-          67.994,
-          68.191,
-          68.429
+          67.893,
+          68.021,
+          68.218,
+          68.455
         ],
         "sung": true,
         "stretch": true
@@ -1093,350 +1072,367 @@
         "word": "me",
         "start": 68.64,
         "end": 69.0,
-        "spoken": true
+        "sung": true
       },
       {
         "word": "right",
         "start": 69.0,
-        "end": 69.74,
-        "char_starts": [
-          69.0,
-          69.089,
-          69.226,
-          69.391,
-          69.577
-        ],
+        "end": 69.54,
         "spoken": true
       },
       {
         "word": "here,",
-        "start": 70.064,
-        "end": 70.28
+        "start": 69.819,
+        "end": 70.54,
+        "char_starts": [
+          69.819,
+          69.906,
+          70.025,
+          70.166,
+          70.325
+        ],
+        "spoken": true
       },
       {
         "word": "baby,",
-        "start": 70.28,
-        "end": 70.9,
+        "start": 70.78,
+        "end": 70.94,
         "spoken": true
       },
       {
         "word": "fuck",
-        "start": 70.9,
+        "start": 70.94,
         "end": 71.2
       },
       {
         "word": "it",
         "start": 71.55,
-        "end": 73.09,
+        "end": 73.0,
         "char_starts": [
           71.55,
-          72.448
+          72.37
         ]
       }
     ],
-    "time": 67.68,
-    "end": 73.09
+    "time": 67.8,
+    "end": 73.0
   },
   {
     "text": "One more night here, baby, then I'm gone",
-    "startTime": 73.12,
+    "startTime": 73.0,
     "endTime": 77.6,
     "words": [
       {
         "word": "One",
-        "start": 73.12,
-        "end": 73.54
+        "start": 73.0,
+        "end": 73.52,
+        "char_starts": [
+          73.0,
+          73.12,
+          73.364
+        ]
       },
       {
         "word": "more",
-        "start": 73.54,
-        "end": 73.88,
+        "start": 73.52,
+        "end": 73.82,
         "spoken": true
       },
       {
         "word": "night",
-        "start": 73.88,
-        "end": 74.4,
+        "start": 73.82,
+        "end": 74.38,
         "spoken": true
       },
       {
         "word": "here,",
-        "start": 74.75,
-        "end": 75.1,
+        "start": 74.73,
+        "end": 75.06,
         "char_starts": [
-          74.75,
-          74.78,
-          74.827,
-          74.883,
-          74.946
+          74.73,
+          74.77,
+          74.813,
+          74.863,
+          74.92
         ],
         "sung": true
       },
       {
         "word": "baby,",
-        "start": 75.402,
-        "end": 75.7,
+        "start": 75.06,
+        "end": 75.84,
+        "char_starts": [
+          75.06,
+          75.154,
+          75.299,
+          75.473,
+          75.668
+        ],
         "spoken": true
       },
       {
         "word": "then",
-        "start": 75.868,
+        "start": 75.924,
         "end": 75.98,
         "spoken": true
       },
       {
         "word": "I'm",
         "start": 75.98,
-        "end": 76.8,
+        "end": 76.82,
         "sung": true
       },
       {
         "word": "gone",
-        "start": 76.8,
+        "start": 76.82,
         "end": 77.6,
         "char_starts": [
-          76.8,
-          76.897,
-          77.093,
-          77.36
+          76.82,
+          76.937,
+          77.123,
+          77.374
         ],
         "spoken": true
       }
     ],
-    "time": 73.12,
+    "time": 73.0,
     "end": 77.6
   },
   {
     "text": "Everything you ever wanted from me",
-    "startTime": 78.16,
-    "endTime": 81.8,
+    "startTime": 77.6,
+    "endTime": 81.48,
     "words": [
       {
         "word": "Everything",
-        "start": 78.369,
-        "end": 78.76,
+        "start": 77.95,
+        "end": 78.78,
+        "char_starts": [
+          77.95,
+          78.0,
+          78.05,
+          78.104,
+          78.165,
+          78.231,
+          78.301,
+          78.375,
+          78.453,
+          78.535
+        ],
         "spoken": true
       },
       {
         "word": "you",
-        "start": 79.048,
-        "end": 79.24,
+        "start": 79.032,
+        "end": 79.2,
         "spoken": true
       },
       {
         "word": "ever",
-        "start": 79.24,
-        "end": 79.78,
+        "start": 79.2,
+        "end": 79.76,
         "spoken": true
       },
       {
         "word": "wanted",
-        "start": 79.78,
-        "end": 80.24,
+        "start": 79.76,
+        "end": 80.22,
         "spoken": true
       },
       {
         "word": "from",
-        "start": 80.24,
-        "end": 80.82,
+        "start": 80.22,
+        "end": 80.8,
         "spoken": true
       },
       {
         "word": "me",
-        "start": 80.82,
-        "end": 81.8,
+        "start": 80.8,
+        "end": 81.48,
         "spoken": true
       }
     ],
-    "time": 78.16,
-    "end": 81.8
+    "time": 77.6,
+    "end": 81.48
   },
   {
-    "text": "I could give it to you right now, ay",
-    "startTime": 81.8,
-    "endTime": 86.26,
+    "text": "I could give it to you right now, ayy",
+    "startTime": 81.48,
+    "endTime": 86.76,
     "words": [
       {
         "word": "I",
-        "start": 82.15,
-        "end": 82.92,
+        "start": 81.83,
+        "end": 82.9,
         "spoken": true
       },
       {
         "word": "could",
-        "start": 82.92,
-        "end": 83.3,
+        "start": 82.9,
+        "end": 83.32,
         "spoken": true
       },
       {
         "word": "give",
-        "start": 83.3,
-        "end": 83.62,
+        "start": 83.32,
+        "end": 83.6,
         "spoken": true
       },
       {
         "word": "it",
-        "start": 83.836,
+        "start": 83.828,
         "end": 83.98,
         "spoken": true
       },
       {
         "word": "to",
         "start": 83.98,
-        "end": 84.18,
+        "end": 84.2,
         "spoken": true
       },
       {
         "word": "you",
-        "start": 84.18,
-        "end": 84.5,
+        "start": 84.2,
+        "end": 84.48,
         "spoken": true
       },
       {
         "word": "right",
-        "start": 84.5,
-        "end": 85.02,
+        "start": 84.48,
+        "end": 85.08,
         "spoken": true
       },
       {
         "word": "now,",
-        "start": 85.37,
+        "start": 85.43,
         "end": 86.16,
         "char_starts": [
-          85.37,
-          85.492,
-          85.682,
-          85.909
+          85.43,
+          85.542,
+          85.715,
+          85.922
         ],
         "spoken": true
       },
       {
-        "word": "ay",
+        "word": "ayy",
         "start": 86.16,
-        "end": 86.26,
+        "end": 86.76,
+        "char_starts": [
+          86.16,
+          86.28,
+          86.511
+        ],
         "spoken": true
       }
     ],
-    "time": 81.8,
-    "end": 86.26
+    "time": 81.48,
+    "end": 86.76
   },
   {
-    "text": "Watch my hands move, baby, it's me (it's me)",
-    "startTime": 86.16,
-    "endTime": 91.464,
+    "text": "Watch my hands move, baby it's me (it's me)",
+    "startTime": 87.22,
+    "endTime": 91.427,
     "words": [
       {
         "word": "Watch",
-        "start": 86.51,
-        "end": 87.7,
-        "char_starts": [
-          86.51,
-          86.61,
-          86.766,
-          86.952,
-          87.161
-        ],
+        "start": 87.532,
+        "end": 87.74,
         "spoken": true
       },
       {
         "word": "my",
-        "start": 87.7,
+        "start": 87.879,
         "end": 88.2,
         "spoken": true
       },
       {
         "word": "hands",
-        "start": 88.2,
+        "start": 88.464,
         "end": 88.64,
         "spoken": true
       },
       {
         "word": "move,",
         "start": 88.64,
-        "end": 89.18,
+        "end": 89.16,
         "spoken": true
       },
       {
-        "word": "baby,",
-        "start": 89.18,
-        "end": 89.706,
+        "word": "baby",
+        "start": 89.16,
+        "end": 89.604,
         "spoken": true
       },
       {
         "word": "it's",
-        "start": 89.706,
-        "end": 90.127,
+        "start": 89.604,
+        "end": 90.049,
         "spoken": true
       },
       {
         "word": "me",
-        "start": 90.127,
-        "end": 90.338,
+        "start": 90.059,
+        "end": 90.271,
         "spoken": true
       },
       {
         "word": "(it's",
-        "start": 90.348,
-        "end": 90.864,
+        "start": 90.271,
+        "end": 90.827,
         "char_starts": [
-          90.348,
-          90.41,
-          90.506,
-          90.621,
-          90.75
+          90.271,
+          90.338,
+          90.441,
+          90.565,
+          90.705
         ],
         "adlib": true,
         "spoken": true
       },
       {
         "word": "me)",
-        "start": 90.864,
-        "end": 91.464,
+        "start": 90.837,
+        "end": 91.427,
         "adlib": true,
         "spoken": true
       }
     ],
-    "time": 86.16,
-    "end": 91.464
+    "time": 87.22,
+    "end": 91.427
   },
   {
-    "text": "And I'm about to knock your lights out, yeah",
-    "startTime": 92.03,
-    "endTime": 95.76,
+    "text": "I'm about to knock your lights out, yeah",
+    "startTime": 91.72,
+    "endTime": 96.2,
     "words": [
       {
-        "word": "And",
-        "start": 92.03,
-        "end": 92.13,
-        "spoken": true
-      },
-      {
         "word": "I'm",
-        "start": 92.303,
-        "end": 92.66,
+        "start": 92.07,
+        "end": 92.64,
         "spoken": true
       },
       {
         "word": "about",
-        "start": 92.776,
-        "end": 93.12,
+        "start": 92.64,
+        "end": 93.08,
         "spoken": true
       },
       {
         "word": "to",
-        "start": 93.36,
-        "end": 93.52,
+        "start": 93.356,
+        "end": 93.54,
         "spoken": true
       },
       {
         "word": "knock",
-        "start": 93.52,
-        "end": 93.74,
+        "start": 93.54,
+        "end": 93.7,
         "spoken": true
       },
       {
         "word": "your",
-        "start": 93.74,
+        "start": 93.7,
         "end": 94.14,
         "spoken": true
       },
@@ -1448,40 +1444,48 @@
       },
       {
         "word": "out,",
-        "start": 94.64,
-        "end": 95.16,
+        "start": 94.99,
+        "end": 95.6,
         "char_starts": [
-          94.64,
-          94.732,
-          94.875,
-          95.046
+          94.99,
+          95.081,
+          95.221,
+          95.389
         ],
         "spoken": true
       },
       {
         "word": "yeah",
-        "start": 95.16,
-        "end": 95.76,
+        "start": 95.6,
+        "end": 96.2,
         "spoken": true
       }
     ],
-    "time": 92.03,
-    "end": 95.76
+    "time": 91.72,
+    "end": 96.2
   },
   {
     "text": "Bitch, it's cold in my own city",
-    "startTime": 96.88,
-    "endTime": 100.04,
+    "startTime": 96.36,
+    "endTime": 99.903,
     "words": [
       {
         "word": "Bitch,",
-        "start": 97.135,
-        "end": 97.38,
+        "start": 96.71,
+        "end": 97.36,
+        "char_starts": [
+          96.71,
+          96.775,
+          96.85,
+          96.939,
+          97.039,
+          97.148
+        ],
         "spoken": true
       },
       {
         "word": "it's",
-        "start": 97.38,
+        "start": 97.36,
         "end": 97.72,
         "spoken": true
       },
@@ -1500,175 +1504,180 @@
       {
         "word": "my",
         "start": 98.52,
-        "end": 99.02,
+        "end": 98.96,
         "spoken": true
       },
       {
         "word": "own",
-        "start": 99.02,
-        "end": 99.42,
+        "start": 98.96,
+        "end": 99.303,
         "spoken": true
       },
       {
         "word": "city",
-        "start": 99.77,
-        "end": 100.04,
+        "start": 99.313,
+        "end": 99.903,
         "spoken": true
       }
     ],
-    "time": 96.88,
-    "end": 100.04
+    "time": 96.36,
+    "end": 99.903
   },
   {
     "text": "You were there with me, used to want the whole scene, hey",
-    "startTime": 100.04,
-    "endTime": 105.213,
+    "startTime": 100.12,
+    "endTime": 105.02,
     "words": [
       {
         "word": "You",
-        "start": 100.04,
-        "end": 100.82,
+        "start": 100.12,
+        "end": 100.84,
         "char_starts": [
-          100.04,
-          100.22,
-          100.586
+          100.12,
+          100.286,
+          100.624
         ],
         "spoken": true
       },
       {
         "word": "were",
-        "start": 100.82,
-        "end": 101.3,
+        "start": 100.84,
+        "end": 101.32,
         "spoken": true
       },
       {
         "word": "there",
-        "start": 101.3,
-        "end": 101.7,
+        "start": 101.32,
+        "end": 101.68,
         "spoken": true
       },
       {
         "word": "with",
-        "start": 101.7,
-        "end": 102.123,
+        "start": 101.68,
+        "end": 102.103,
         "spoken": true
       },
       {
         "word": "me,",
-        "start": 102.133,
-        "end": 102.44,
+        "start": 102.113,
+        "end": 102.42,
         "spoken": true
       },
       {
         "word": "used",
-        "start": 102.44,
+        "start": 102.42,
         "end": 102.74,
         "spoken": true
       },
       {
         "word": "to",
-        "start": 102.896,
-        "end": 103.0,
+        "start": 102.884,
+        "end": 102.98,
         "spoken": true
       },
       {
         "word": "want",
-        "start": 103.0,
-        "end": 103.26,
+        "start": 102.98,
+        "end": 103.22,
         "spoken": true
       },
       {
         "word": "the",
-        "start": 103.26,
-        "end": 103.74,
+        "start": 103.22,
+        "end": 103.72,
+        "char_starts": [
+          103.22,
+          103.335,
+          103.57
+        ],
         "spoken": true
       },
       {
         "word": "whole",
-        "start": 103.74,
-        "end": 104.08,
+        "start": 103.72,
+        "end": 104.149,
         "spoken": true
       },
       {
         "word": "scene,",
-        "start": 104.08,
-        "end": 104.613,
+        "start": 104.159,
+        "end": 104.663,
         "spoken": true
       },
       {
         "word": "hey",
-        "start": 104.613,
-        "end": 105.213,
+        "start": 104.673,
+        "end": 105.02,
         "char_starts": [
-          104.613,
-          104.752,
-          105.033
+          104.673,
+          104.776,
+          104.95
         ],
         "spoken": true
       }
     ],
-    "time": 100.04,
-    "end": 105.213
+    "time": 100.12,
+    "end": 105.02
   },
   {
     "text": "I admit I never hated it",
-    "startTime": 106.14,
-    "endTime": 109.34,
+    "startTime": 105.04,
+    "endTime": 109.35,
     "words": [
       {
         "word": "I",
-        "start": 106.49,
-        "end": 106.98,
+        "start": 105.39,
+        "end": 106.78,
         "spoken": true
       },
       {
         "word": "admit",
-        "start": 106.98,
-        "end": 107.3,
+        "start": 106.896,
+        "end": 107.28,
         "spoken": true
       },
       {
         "word": "I",
-        "start": 107.528,
-        "end": 107.68,
+        "start": 107.28,
+        "end": 107.64,
         "spoken": true
       },
       {
         "word": "never",
-        "start": 107.68,
+        "start": 107.64,
         "end": 108.28,
         "spoken": true
       },
       {
         "word": "hated",
         "start": 108.28,
-        "end": 108.78,
+        "end": 108.8,
         "spoken": true
       },
       {
         "word": "it",
-        "start": 108.78,
-        "end": 109.34,
+        "start": 108.8,
+        "end": 109.35,
         "spoken": true
       }
     ],
-    "time": 106.14,
-    "end": 109.34
+    "time": 105.04,
+    "end": 109.35
   },
   {
     "text": "We were just some stupid fucking kids, hated everything",
-    "startTime": 109.42,
-    "endTime": 113.4,
+    "startTime": 109.32,
+    "endTime": 114.1,
     "words": [
       {
         "word": "We",
-        "start": 109.42,
-        "end": 109.72,
+        "start": 109.32,
+        "end": 109.76,
         "spoken": true
       },
       {
         "word": "were",
-        "start": 109.72,
+        "start": 109.76,
         "end": 110.1,
         "spoken": true
       },
@@ -1681,93 +1690,105 @@
       {
         "word": "some",
         "start": 110.4,
-        "end": 110.66,
+        "end": 110.64,
         "spoken": true
       },
       {
         "word": "stupid",
-        "start": 110.66,
-        "end": 111.16,
+        "start": 110.64,
+        "end": 111.18,
         "spoken": true
       },
       {
         "word": "fucking",
-        "start": 111.323,
-        "end": 111.72,
+        "start": 111.296,
+        "end": 111.74,
         "spoken": true
       },
       {
         "word": "kids,",
-        "start": 112.07,
-        "end": 112.66,
+        "start": 111.74,
+        "end": 112.38,
         "char_starts": [
-          112.07,
-          112.129,
-          112.22,
-          112.33,
-          112.453
+          111.74,
+          111.817,
+          111.936,
+          112.079,
+          112.239
         ],
         "spoken": true
       },
       {
         "word": "hated",
-        "start": 112.66,
+        "start": 112.38,
         "end": 113.0,
         "spoken": true
       },
       {
         "word": "everything",
         "start": 113.0,
-        "end": 113.4,
+        "end": 114.1,
+        "char_starts": [
+          113.0,
+          113.066,
+          113.135,
+          113.216,
+          113.307,
+          113.406,
+          113.512,
+          113.625,
+          113.743,
+          113.866
+        ],
         "spoken": true
       }
     ],
-    "time": 109.42,
-    "end": 113.4
+    "time": 109.32,
+    "end": 114.1
   },
   {
     "text": "Going nowhere with that attitude",
-    "startTime": 113.42,
-    "endTime": 118.51,
+    "startTime": 114.1,
+    "endTime": 118.52,
     "words": [
       {
         "word": "Going",
-        "start": 113.42,
-        "end": 115.32,
+        "start": 114.146,
+        "end": 115.34,
         "char_starts": [
-          113.42,
-          113.61,
-          113.904,
-          114.258,
-          114.655
+          114.146,
+          114.289,
+          114.468,
+          114.682,
+          114.921
         ],
         "spoken": true
       },
       {
         "word": "nowhere",
-        "start": 115.32,
-        "end": 116.54,
+        "start": 115.34,
+        "end": 116.5,
         "char_starts": [
-          115.32,
-          115.39,
-          115.481,
-          115.604,
-          115.754,
-          115.927,
-          116.124
+          115.34,
+          115.439,
+          115.538,
+          115.663,
+          115.813,
+          115.987,
+          116.18
         ],
         "sung": true,
         "stretch": true
       },
       {
         "word": "with",
-        "start": 116.89,
+        "start": 116.85,
         "end": 117.54,
         "char_starts": [
-          116.89,
-          116.988,
-          117.139,
-          117.32
+          116.85,
+          116.955,
+          117.117,
+          117.311
         ],
         "sung": true,
         "stretch": true
@@ -1775,69 +1796,58 @@
       {
         "word": "that",
         "start": 117.54,
-        "end": 117.9,
+        "end": 117.92,
         "spoken": true
       },
       {
         "word": "attitude",
-        "start": 117.9,
-        "end": 118.51,
-        "char_starts": [
-          117.9,
-          117.931,
-          117.975,
-          118.034,
-          118.107,
-          118.192,
-          118.287,
-          118.392
-        ],
-        "sung": true,
-        "stretch": true
+        "start": 117.92,
+        "end": 118.52,
+        "sung": true
       }
     ],
-    "time": 113.42,
-    "end": 118.51
+    "time": 114.1,
+    "end": 118.52
   },
   {
-    "text": "I can't find anyone that's like me at this latitude (at this latitude)",
-    "startTime": 118.6,
-    "endTime": 123.55,
+    "text": "I can't find anyone that's like me at this latitude",
+    "startTime": 118.62,
+    "endTime": 123.4,
     "words": [
       {
         "word": "I",
-        "start": 118.6,
+        "start": 118.62,
         "end": 118.98
       },
       {
         "word": "can't",
         "start": 118.98,
-        "end": 119.64,
+        "end": 119.62,
         "char_starts": [
           118.98,
-          119.059,
-          119.182,
-          119.329,
-          119.495
+          119.057,
+          119.176,
+          119.319,
+          119.479
         ],
         "spoken": true
       },
       {
         "word": "find",
-        "start": 119.64,
-        "end": 120.06
+        "start": 119.62,
+        "end": 120.08
       },
       {
         "word": "anyone",
-        "start": 120.06,
+        "start": 120.08,
         "end": 120.98,
         "char_starts": [
-          120.06,
-          120.121,
-          120.22,
-          120.353,
-          120.518,
-          120.708
+          120.08,
+          120.17,
+          120.266,
+          120.395,
+          120.55,
+          120.729
         ],
         "spoken": true
       },
@@ -1850,232 +1860,168 @@
       {
         "word": "like",
         "start": 121.52,
-        "end": 121.64,
+        "end": 121.62,
         "spoken": true
       },
       {
         "word": "me",
-        "start": 121.64,
-        "end": 122.02,
+        "start": 121.62,
+        "end": 122.0,
         "spoken": true
       },
       {
         "word": "at",
-        "start": 122.02,
-        "end": 122.36,
+        "start": 122.0,
+        "end": 122.32,
         "spoken": true
       },
       {
         "word": "this",
-        "start": 122.588,
-        "end": 122.74,
+        "start": 122.584,
+        "end": 122.76,
         "spoken": true
       },
       {
         "word": "latitude",
-        "start": 122.74,
-        "end": 123.46,
-        "char_starts": [
-          122.74,
-          122.776,
-          122.822,
-          122.883,
-          122.958,
-          123.044,
-          123.142,
-          123.25
-        ],
+        "start": 122.76,
+        "end": 123.4,
         "spoken": true
-      },
-      {
-        "word": "(at",
-        "start": 123.46,
-        "end": 123.479,
-        "adlib": true
-      },
-      {
-        "word": "this",
-        "start": 123.489,
-        "end": 123.504,
-        "adlib": true
-      },
-      {
-        "word": "latitude)",
-        "start": 123.514,
-        "end": 123.55,
-        "adlib": true
       }
     ],
-    "time": 118.6,
-    "end": 123.55
+    "time": 118.62,
+    "end": 123.4
   },
   {
-    "text": "I can't go nowhere (yeah) when I'm mad at you (when I'm mad at you)",
-    "startTime": 123.79,
+    "text": "I can't go nowhere when I'm mad at you",
+    "startTime": 123.61,
     "endTime": 128.12,
     "words": [
       {
         "word": "I",
-        "start": 123.79,
-        "end": 124.14,
+        "start": 123.61,
+        "end": 123.96,
         "spoken": true
       },
       {
         "word": "can't",
-        "start": 124.14,
-        "end": 124.44,
+        "start": 123.96,
+        "end": 124.46,
         "spoken": true
       },
       {
         "word": "go",
-        "start": 124.44,
+        "start": 124.46,
         "end": 124.86,
         "spoken": true
       },
       {
         "word": "nowhere",
         "start": 125.21,
-        "end": 125.9,
+        "end": 126.04,
         "char_starts": [
           125.21,
-          125.249,
-          125.293,
+          125.281,
           125.352,
-          125.424,
-          125.506,
-          125.6
+          125.426,
+          125.515,
+          125.616,
+          125.728
         ],
         "spoken": true
       },
       {
-        "word": "(yeah)",
-        "start": 125.9,
-        "end": 126.0,
-        "adlib": true,
-        "spoken": true
-      },
-      {
         "word": "when",
-        "start": 126.01,
-        "end": 126.11,
-        "spoken": true
-      },
-      {
-        "word": "I'm",
-        "start": 126.12,
-        "end": 126.22,
-        "spoken": true
-      },
-      {
-        "word": "mad",
-        "start": 126.23,
-        "end": 126.33,
-        "spoken": true
-      },
-      {
-        "word": "at",
-        "start": 126.34,
-        "end": 126.44,
-        "spoken": true
-      },
-      {
-        "word": "you",
-        "start": 126.45,
-        "end": 126.55,
-        "spoken": true
-      },
-      {
-        "word": "(when",
-        "start": 126.56,
+        "start": 126.39,
         "end": 126.98,
-        "adlib": true,
+        "char_starts": [
+          126.39,
+          126.478,
+          126.613,
+          126.774
+        ],
         "spoken": true
       },
       {
         "word": "I'm",
         "start": 126.98,
-        "end": 127.54,
-        "adlib": true,
+        "end": 127.58,
         "spoken": true
       },
       {
         "word": "mad",
-        "start": 127.54,
+        "start": 127.58,
         "end": 127.76,
-        "adlib": true,
         "spoken": true
       },
       {
         "word": "at",
         "start": 127.76,
-        "end": 127.96,
-        "adlib": true,
+        "end": 127.94,
         "spoken": true
       },
       {
-        "word": "you)",
-        "start": 127.96,
+        "word": "you",
+        "start": 127.94,
         "end": 128.12,
-        "adlib": true,
         "spoken": true
       }
     ],
-    "time": 123.79,
+    "time": 123.61,
     "end": 128.12
   },
   {
-    "text": "I can't find anyone that's like me at this avenue (at this avenue)",
-    "startTime": 128.18,
-    "endTime": 132.965,
+    "text": "I can't find anyone that's like me at this avenue",
+    "startTime": 128.14,
+    "endTime": 132.62,
     "words": [
       {
         "word": "I",
-        "start": 128.372,
-        "end": 128.5,
+        "start": 128.14,
+        "end": 128.44,
         "spoken": true
       },
       {
         "word": "can't",
-        "start": 128.5,
+        "start": 128.44,
         "end": 129.2,
         "char_starts": [
-          128.5,
-          128.584,
-          128.714,
-          128.87,
-          129.046
+          128.44,
+          128.531,
+          128.673,
+          128.842,
+          129.033
         ],
         "spoken": true
       },
       {
         "word": "find",
         "start": 129.2,
-        "end": 129.68,
+        "end": 129.7,
         "spoken": true
       },
       {
         "word": "anyone",
-        "start": 130.03,
+        "start": 130.05,
         "end": 130.5,
         "char_starts": [
-          130.03,
-          130.061,
-          130.096,
-          130.142,
-          130.199,
-          130.264
+          130.05,
+          130.095,
+          130.14,
+          130.185,
+          130.237,
+          130.297
         ],
         "spoken": true
       },
       {
         "word": "that's",
-        "start": 130.593,
-        "end": 131.0,
+        "start": 130.57,
+        "end": 131.02,
         "spoken": true
       },
       {
         "word": "like",
-        "start": 131.0,
+        "start": 131.02,
         "end": 131.16,
         "spoken": true
       },
@@ -2088,459 +2034,359 @@
       {
         "word": "at",
         "start": 131.58,
-        "end": 131.82,
+        "end": 131.8,
         "spoken": true
       },
       {
         "word": "this",
-        "start": 131.82,
+        "start": 131.8,
         "end": 132.22,
         "spoken": true
       },
       {
         "word": "avenue",
         "start": 132.22,
-        "end": 132.8,
-        "spoken": true
-      },
-      {
-        "word": "(at",
-        "start": 132.8,
-        "end": 132.828,
-        "adlib": true
-      },
-      {
-        "word": "this",
-        "start": 132.838,
-        "end": 132.865,
-        "adlib": true
-      },
-      {
-        "word": "avenue)",
-        "start": 132.865,
-        "end": 132.965,
-        "adlib": true,
+        "end": 132.62,
         "spoken": true
       }
     ],
-    "time": 128.18,
-    "end": 132.965
+    "time": 128.14,
+    "end": 132.62
   },
   {
-    "text": "Ain't going nowhere with that attitude (that attitude)",
-    "startTime": 132.8,
+    "text": "Ain't going nowhere with that attitude",
+    "startTime": 132.64,
     "endTime": 137.53,
     "words": [
       {
         "word": "Ain't",
-        "start": 133.15,
+        "start": 132.99,
         "end": 133.84,
         "char_starts": [
-          133.15,
-          133.221,
-          133.331,
-          133.463,
-          133.611
+          132.99,
+          133.092,
+          133.195,
+          133.316,
+          133.451
         ],
         "spoken": true
       },
       {
         "word": "going",
         "start": 133.84,
-        "end": 134.48,
+        "end": 134.44,
         "spoken": true
       },
       {
         "word": "nowhere",
-        "start": 134.83,
-        "end": 135.56,
+        "start": 134.79,
+        "end": 135.48,
         "char_starts": [
-          134.83,
-          134.872,
-          134.919,
-          134.982,
-          135.059,
-          135.148,
-          135.248
+          134.79,
+          134.849,
+          134.908,
+          134.968,
+          135.039,
+          135.119,
+          135.209
         ],
         "spoken": true
       },
       {
         "word": "with",
-        "start": 135.91,
-        "end": 136.54,
+        "start": 135.83,
+        "end": 136.5,
         "char_starts": [
-          135.91,
-          136.004,
-          136.15,
-          136.324
+          135.83,
+          135.931,
+          136.088,
+          136.276
         ],
         "spoken": true
       },
       {
         "word": "that",
-        "start": 136.54,
-        "end": 136.64,
+        "start": 136.5,
+        "end": 136.92,
         "spoken": true
       },
       {
         "word": "attitude",
-        "start": 136.65,
-        "end": 136.75,
-        "spoken": true
-      },
-      {
-        "word": "(that",
-        "start": 136.76,
-        "end": 137.04,
-        "adlib": true,
-        "spoken": true
-      },
-      {
-        "word": "attitude)",
-        "start": 137.04,
+        "start": 136.92,
         "end": 137.53,
-        "adlib": true,
+        "char_starts": [
+          136.92,
+          136.966,
+          137.012,
+          137.07,
+          137.138,
+          137.218,
+          137.307,
+          137.405
+        ],
         "spoken": true
       }
     ],
-    "time": 132.8,
+    "time": 132.64,
     "end": 137.53
   },
   {
-    "text": "I can't find anyone that's like me at this latitude (at this latitude)",
+    "text": "I can't find anyone that's like me at this latitude",
     "startTime": 137.6,
-    "endTime": 142.31,
+    "endTime": 142.09,
     "words": [
       {
         "word": "I",
-        "start": 137.828,
-        "end": 137.98,
+        "start": 137.816,
+        "end": 137.96,
         "spoken": true
       },
       {
         "word": "can't",
-        "start": 137.98,
-        "end": 138.68,
-        "char_starts": [
-          137.98,
-          138.064,
-          138.194,
-          138.35,
-          138.526
-        ],
+        "start": 137.96,
+        "end": 138.58,
         "spoken": true
       },
       {
         "word": "find",
-        "start": 138.68,
+        "start": 138.58,
         "end": 139.14,
         "spoken": true
       },
       {
         "word": "anyone",
         "start": 139.49,
-        "end": 140.02,
+        "end": 139.96,
         "char_starts": [
           139.49,
-          139.525,
-          139.566,
-          139.621,
-          139.688,
-          139.766
+          139.537,
+          139.584,
+          139.631,
+          139.687,
+          139.75
         ],
         "spoken": true
       },
       {
         "word": "that's",
-        "start": 140.066,
+        "start": 140.099,
         "end": 140.52,
         "spoken": true
       },
       {
         "word": "like",
         "start": 140.52,
-        "end": 140.72,
+        "end": 140.6,
         "spoken": true
       },
       {
         "word": "me",
-        "start": 140.924,
-        "end": 141.06,
+        "start": 140.828,
+        "end": 140.98,
         "spoken": true
       },
       {
         "word": "at",
-        "start": 141.06,
-        "end": 141.28,
+        "start": 140.98,
+        "end": 141.3,
         "spoken": true
       },
       {
         "word": "this",
-        "start": 141.28,
-        "end": 141.76,
+        "start": 141.3,
+        "end": 141.72,
         "spoken": true
       },
       {
         "word": "latitude",
-        "start": 141.76,
-        "end": 142.24,
+        "start": 141.72,
+        "end": 142.09,
         "spoken": true
-      },
-      {
-        "word": "(at",
-        "start": 142.24,
-        "end": 142.259,
-        "adlib": true
-      },
-      {
-        "word": "this",
-        "start": 142.269,
-        "end": 142.284,
-        "adlib": true
-      },
-      {
-        "word": "latitude)",
-        "start": 142.294,
-        "end": 142.31,
-        "adlib": true
       }
     ],
     "time": 137.6,
-    "end": 142.31
+    "end": 142.09
   },
   {
-    "text": "I can't go nowhere when I'm mad at you (when I'm mad at you)",
-    "startTime": 142.33,
+    "text": "I can't go nowhere when I'm mad at you",
+    "startTime": 142.61,
     "endTime": 146.99,
     "words": [
       {
         "word": "I",
-        "start": 142.33,
-        "end": 142.68,
+        "start": 142.61,
+        "end": 142.96,
         "spoken": true
       },
       {
         "word": "can't",
-        "start": 142.68,
-        "end": 143.36,
-        "char_starts": [
-          142.68,
-          142.762,
-          142.888,
-          143.04,
-          143.21
-        ],
+        "start": 142.96,
+        "end": 143.5,
         "spoken": true
       },
       {
         "word": "go",
-        "start": 143.36,
-        "end": 144.1,
+        "start": 143.5,
+        "end": 144.22,
         "spoken": true
       },
       {
         "word": "nowhere",
-        "start": 144.45,
-        "end": 144.88,
+        "start": 144.57,
+        "end": 144.94,
         "char_starts": [
-          144.45,
-          144.48,
-          144.51,
-          144.541,
-          144.577,
-          144.62,
-          144.668
+          144.57,
+          144.602,
+          144.634,
+          144.666,
+          144.698,
+          144.732,
+          144.769
         ],
         "spoken": true
       },
       {
         "word": "when",
-        "start": 144.88,
-        "end": 144.98,
-        "spoken": true
-      },
-      {
-        "word": "I'm",
-        "start": 144.99,
-        "end": 145.09,
-        "spoken": true
-      },
-      {
-        "word": "mad",
-        "start": 145.1,
-        "end": 145.2,
-        "spoken": true
-      },
-      {
-        "word": "at",
-        "start": 145.21,
-        "end": 145.31,
-        "spoken": true
-      },
-      {
-        "word": "you",
-        "start": 145.32,
-        "end": 145.42,
-        "spoken": true
-      },
-      {
-        "word": "(when",
-        "start": 145.676,
+        "start": 144.94,
         "end": 145.84,
-        "adlib": true,
+        "char_starts": [
+          144.94,
+          145.099,
+          145.346,
+          145.642
+        ],
         "spoken": true
       },
       {
         "word": "I'm",
         "start": 145.84,
-        "end": 146.48,
-        "adlib": true,
+        "end": 146.5,
         "spoken": true
       },
       {
         "word": "mad",
-        "start": 146.48,
-        "end": 146.8,
-        "adlib": true,
+        "start": 146.5,
+        "end": 146.82,
         "spoken": true
       },
       {
         "word": "at",
-        "start": 146.8,
-        "end": 146.84,
-        "adlib": true
+        "start": 146.82,
+        "end": 146.9,
+        "spoken": true
       },
       {
-        "word": "you)",
-        "start": 146.84,
+        "word": "you",
+        "start": 146.9,
         "end": 146.99,
-        "adlib": true,
         "spoken": true
       }
     ],
-    "time": 142.33,
+    "time": 142.61,
     "end": 146.99
   },
   {
     "text": "I can't find anyone that's like me on this avenue, hey",
-    "startTime": 147.2,
-    "endTime": 152.14,
+    "startTime": 147.18,
+    "endTime": 152.56,
     "words": [
       {
         "word": "I",
-        "start": 147.404,
-        "end": 147.54,
+        "start": 147.348,
+        "end": 147.46,
         "spoken": true
       },
       {
         "word": "can't",
-        "start": 147.54,
-        "end": 148.1,
+        "start": 147.46,
+        "end": 148.12,
+        "char_starts": [
+          147.46,
+          147.539,
+          147.662,
+          147.809,
+          147.975
+        ],
         "spoken": true
       },
       {
         "word": "find",
-        "start": 148.1,
-        "end": 148.7,
+        "start": 148.12,
+        "end": 148.76,
         "spoken": true
       },
       {
         "word": "anyone",
-        "start": 149.05,
-        "end": 149.5,
+        "start": 149.11,
+        "end": 149.52,
         "char_starts": [
-          149.05,
-          149.08,
-          149.112,
-          149.156,
-          149.209,
-          149.27
+          149.11,
+          149.151,
+          149.192,
+          149.233,
+          149.279,
+          149.331
         ],
         "spoken": true
       },
       {
         "word": "that's",
-        "start": 149.57,
+        "start": 149.59,
         "end": 150.0,
         "spoken": true
       },
       {
         "word": "like",
         "start": 150.0,
-        "end": 150.12,
+        "end": 150.16,
         "spoken": true
       },
       {
         "word": "me",
-        "start": 150.36,
+        "start": 150.376,
         "end": 150.52,
         "spoken": true
       },
       {
         "word": "on",
         "start": 150.52,
-        "end": 150.86,
+        "end": 150.84,
         "spoken": true
       },
       {
         "word": "this",
-        "start": 150.86,
+        "start": 150.84,
         "end": 151.2,
         "spoken": true
       },
       {
         "word": "avenue,",
         "start": 151.2,
-        "end": 152.04,
+        "end": 151.96,
         "char_starts": [
           151.2,
-          151.258,
-          151.349,
-          151.457,
-          151.579,
-          151.712,
-          151.855
+          151.265,
+          151.346,
+          151.443,
+          151.551,
+          151.669,
+          151.797
         ],
         "spoken": true
       },
       {
         "word": "hey",
-        "start": 152.04,
-        "end": 152.14,
+        "start": 151.96,
+        "end": 152.56,
         "char_starts": [
-          152.04,
-          152.073,
-          152.11
+          151.96,
+          152.099,
+          152.38
         ],
         "spoken": true
       }
     ],
-    "time": 147.2,
-    "end": 152.14
-  },
-  {
-    "text": "To lives greater",
-    "startTime": 150.0,
-    "endTime": 150.0,
-    "words": [],
-    "time": 150.0,
-    "end": 150.0
-  },
-  {
-    "text": "Great ones in it",
-    "startTime": 153.0,
-    "endTime": 153.0,
-    "words": [],
-    "time": 153.0,
-    "end": 153.0
-  },
-  {
-    "text": "Lives great-",
-    "startTime": 156.0,
-    "endTime": 156.0,
-    "words": [],
-    "time": 156.0,
-    "end": 156.0
+    "time": 147.18,
+    "end": 152.56
   }
 ]

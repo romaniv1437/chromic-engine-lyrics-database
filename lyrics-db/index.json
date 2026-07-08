@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T16:37:54.314177+00:00",
+  "generatedAt": "2026-07-08T16:38:55.628673+00:00",
   "totalTracks": 785,
   "roots": [
     "lyrics-db/tracks"
@@ -10710,20 +10710,6 @@
       "sourcePath": "https://soundcloud.com/gab3omg/gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse",
       "mtimeMs": 1783280843288
     },
-    "outsider::lil peep - another cup": {
-      "title": "Lil Peep - Another Cup",
-      "artist": "Outsider",
-      "originalTrackName": "Outsider - Lil Peep - Another Cup",
-      "source": "syncedlyrics",
-      "file": "tracks/outsider-lil-peep-another-cup-e2065f007bb2.json",
-      "files": {
-        "lyrics": "tracks/outsider-lil-peep-another-cup-e2065f007bb2.json",
-        "meta": "tracks/outsider-lil-peep-another-cup-e2065f007bb2.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/theeking-431104483/lil-peep-another-cup",
-      "mtimeMs": 1783337971322
-    },
     "oodaredevil::tikiman prod. fuurgg": {
       "title": "TIKIMAN prod. Fuurgg",
       "artist": "Oodaredevil",
@@ -11033,6 +11019,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-524119404/i-am-what-you-made-me-unfair-the-neighbourhood",
       "mtimeMs": 1783528674701
+    },
+    "outsider::lil peep - another cup": {
+      "title": "Lil Peep - Another Cup",
+      "artist": "Outsider",
+      "originalTrackName": "Outsider - Lil Peep - Another Cup",
+      "source": "whisper_only",
+      "file": "tracks/outsider-lil-peep-another-cup-e2065f007bb2.json",
+      "files": {
+        "lyrics": "tracks/outsider-lil-peep-another-cup-e2065f007bb2.json",
+        "meta": "tracks/outsider-lil-peep-another-cup-e2065f007bb2.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/theeking-431104483/lil-peep-another-cup",
+      "mtimeMs": 1783528736170
     }
   },
   "tracks": [
@@ -21761,20 +21761,6 @@
       "mtimeMs": 1783280843288
     },
     {
-      "title": "Lil Peep - Another Cup",
-      "artist": "Outsider",
-      "originalTrackName": "Outsider - Lil Peep - Another Cup",
-      "source": "syncedlyrics",
-      "file": "tracks/outsider-lil-peep-another-cup-e2065f007bb2.json",
-      "files": {
-        "lyrics": "tracks/outsider-lil-peep-another-cup-e2065f007bb2.json",
-        "meta": "tracks/outsider-lil-peep-another-cup-e2065f007bb2.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/theeking-431104483/lil-peep-another-cup",
-      "mtimeMs": 1783337971322
-    },
-    {
       "title": "TIKIMAN prod. Fuurgg",
       "artist": "Oodaredevil",
       "originalTrackName": "Oodaredevil - TIKIMAN prod. Fuurgg",
@@ -22083,6 +22069,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-524119404/i-am-what-you-made-me-unfair-the-neighbourhood",
       "mtimeMs": 1783528674701
+    },
+    {
+      "title": "Lil Peep - Another Cup",
+      "artist": "Outsider",
+      "originalTrackName": "Outsider - Lil Peep - Another Cup",
+      "source": "whisper_only",
+      "file": "tracks/outsider-lil-peep-another-cup-e2065f007bb2.json",
+      "files": {
+        "lyrics": "tracks/outsider-lil-peep-another-cup-e2065f007bb2.json",
+        "meta": "tracks/outsider-lil-peep-another-cup-e2065f007bb2.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/theeking-431104483/lil-peep-another-cup",
+      "mtimeMs": 1783528736170
     }
   ]
 }

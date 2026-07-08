@@ -1,1350 +1,1136 @@
 [
   {
-    "text": "●",
-    "startTime": 0.3,
-    "endTime": 16.02,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 0.3,
-    "end": 16.02
-  },
-  {
-    "text": "I remember when you used to hold me close and say you love me (say you love me)",
-    "startTime": 16.02,
-    "endTime": 18.98,
+    "text": "I got the angel of death, watchin' over my back I swear",
+    "startTime": 0.116,
+    "endTime": 4.74,
     "words": [
       {
         "word": "I",
-        "start": 16.02,
-        "end": 16.32,
+        "start": 0.116,
+        "end": 0.26,
+        "stretch": true
+      },
+      {
+        "word": "got",
+        "start": 0.26,
+        "end": 0.58,
+        "whisper": true
+      },
+      {
+        "word": "the",
+        "start": 0.796,
+        "end": 0.94,
         "spoken": true
       },
       {
-        "word": "remember",
-        "start": 16.516,
+        "word": "angel",
+        "start": 0.94,
+        "end": 1.28,
+        "spoken": true
+      },
+      {
+        "word": "of",
+        "start": 1.535,
+        "end": 1.78,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "death,",
+        "start": 1.78,
+        "end": 2.12,
+        "spoken": true
+      },
+      {
+        "word": "watchin'",
+        "start": 2.34,
+        "end": 2.88,
+        "spoken": true
+      },
+      {
+        "word": "over",
+        "start": 2.94,
+        "end": 3.12,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 3.12,
+        "end": 3.56,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "back",
+        "start": 3.63,
+        "end": 3.9
+      },
+      {
+        "word": "I",
+        "start": 3.9,
+        "end": 4.5,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "swear",
+        "start": 4.616,
+        "end": 4.74,
+        "spoken": true
+      }
+    ],
+    "time": 0.116,
+    "end": 4.74
+  },
+  {
+    "text": "she don't love me, she in love with my head I swear",
+    "startTime": 4.74,
+    "endTime": 8.5,
+    "words": [
+      {
+        "word": "she",
+        "start": 4.74,
+        "end": 5.08,
+        "spoken": true
+      },
+      {
+        "word": "don't",
+        "start": 5.308,
+        "end": 5.46,
+        "spoken": true
+      },
+      {
+        "word": "love",
+        "start": 5.46,
+        "end": 5.68
+      },
+      {
+        "word": "me,",
+        "start": 5.848,
+        "end": 5.96,
+        "spoken": true
+      },
+      {
+        "word": "she",
+        "start": 5.96,
+        "end": 6.3,
+        "spoken": true
+      },
+      {
+        "word": "in",
+        "start": 6.3,
+        "end": 6.5,
+        "spoken": true
+      },
+      {
+        "word": "love",
+        "start": 6.62,
+        "end": 6.7
+      },
+      {
+        "word": "with",
+        "start": 6.7,
+        "end": 6.96
+      },
+      {
+        "word": "my",
+        "start": 6.96,
+        "end": 7.28,
+        "stretch": true
+      },
+      {
+        "word": "head",
+        "start": 7.28,
+        "end": 7.78,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 7.919,
+        "end": 8.24,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "swear",
+        "start": 8.24,
+        "end": 8.5,
+        "spoken": true
+      }
+    ],
+    "time": 4.74,
+    "end": 8.5
+  },
+  {
+    "text": "she wanna **** me, why she do me like that Why you",
+    "startTime": 8.5,
+    "endTime": 12.08,
+    "words": [
+      {
+        "word": "she",
+        "start": 8.5,
+        "end": 8.78,
+        "spoken": true
+      },
+      {
+        "word": "wanna",
+        "start": 8.972,
+        "end": 9.1,
+        "spoken": true
+      },
+      {
+        "word": "****",
+        "start": 9.1,
+        "end": 9.44,
+        "spoken": true
+      },
+      {
+        "word": "me,",
+        "start": 9.44,
+        "end": 9.7,
+        "spoken": true
+      },
+      {
+        "word": "why",
+        "start": 9.78,
+        "end": 9.94,
+        "spoken": true
+      },
+      {
+        "word": "she",
+        "start": 9.94,
+        "end": 10.2,
+        "spoken": true
+      },
+      {
+        "word": "do",
+        "start": 10.2,
+        "end": 10.4,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 10.47,
+        "end": 10.7,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 10.7,
+        "end": 11.06
+      },
+      {
+        "word": "that",
+        "start": 11.06,
+        "end": 11.34
+      },
+      {
+        "word": "Why",
+        "start": 11.34,
+        "end": 11.8,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "you",
+        "start": 11.968,
+        "end": 12.08
+      }
+    ],
+    "time": 8.5,
+    "end": 12.08
+  },
+  {
+    "text": "do me like that, so why you do me like that Yeah,",
+    "startTime": 12.08,
+    "endTime": 16.0,
+    "words": [
+      {
+        "word": "do",
+        "start": 12.08,
+        "end": 12.34,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 12.34,
+        "end": 12.6,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 12.768,
+        "end": 12.88
+      },
+      {
+        "word": "that,",
+        "start": 12.88,
+        "end": 13.14,
+        "spoken": true
+      },
+      {
+        "word": "so",
+        "start": 13.42,
+        "end": 13.46,
+        "spoken": true
+      },
+      {
+        "word": "why",
+        "start": 13.46,
+        "end": 13.72,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 13.72,
+        "end": 13.9,
+        "spoken": true
+      },
+      {
+        "word": "do",
+        "start": 13.9,
+        "end": 14.18,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 14.18,
+        "end": 14.5,
+        "stretch": true
+      },
+      {
+        "word": "like",
+        "start": 14.5,
+        "end": 14.82
+      },
+      {
+        "word": "that",
+        "start": 14.82,
+        "end": 15.36,
+        "spoken": true
+      },
+      {
+        "word": "Yeah,",
+        "start": 15.71,
+        "end": 16.0,
+        "spoken": true
+      }
+    ],
+    "time": 12.08,
+    "end": 16.0
+  },
+  {
+    "text": "I feel comfy when you do me like that You made me",
+    "startTime": 16.16,
+    "endTime": 20.08,
+    "words": [
+      {
+        "word": "I",
+        "start": 16.16,
+        "end": 16.32,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "feel",
+        "start": 16.548,
+        "end": 16.7,
+        "spoken": true
+      },
+      {
+        "word": "comfy",
+        "start": 16.7,
         "end": 17.18,
-        "char_starts": [
-          16.516,
-          16.378,
-          16.452,
-          16.541,
-          16.641,
-          16.751,
-          16.868,
-          16.993
-        ],
         "spoken": true
       },
       {
         "word": "when",
-        "start": 17.19,
+        "start": 17.18,
         "end": 17.46,
         "spoken": true
       },
       {
         "word": "you",
-        "start": 17.47,
-        "end": 17.74,
+        "start": 17.46,
+        "end": 17.76,
         "spoken": true
       },
       {
-        "word": "used",
-        "start": 17.9,
-        "end": 18,
+        "word": "do",
+        "start": 17.916,
+        "end": 18.02,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 18.02,
+        "end": 18.22
+      },
+      {
+        "word": "like",
+        "start": 18.22,
+        "end": 18.56
+      },
+      {
+        "word": "that",
+        "start": 18.56,
+        "end": 19.02
+      },
+      {
+        "word": "You",
+        "start": 19.02,
+        "end": 19.5,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "made",
+        "start": 19.639,
+        "end": 19.84,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 19.84,
+        "end": 20.08,
+        "spoken": true
+      }
+    ],
+    "time": 16.16,
+    "end": 20.08
+  },
+  {
+    "text": "feel ugly when you do me like that",
+    "startTime": 20.08,
+    "endTime": 22.84,
+    "words": [
+      {
+        "word": "feel",
+        "start": 20.289,
+        "end": 20.52
+      },
+      {
+        "word": "ugly",
+        "start": 20.52,
+        "end": 20.9,
+        "spoken": true
+      },
+      {
+        "word": "when",
+        "start": 20.9,
+        "end": 21.2,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 21.2,
+        "end": 21.52,
+        "spoken": true
+      },
+      {
+        "word": "do",
+        "start": 21.664,
+        "end": 21.76
+      },
+      {
+        "word": "me",
+        "start": 21.76,
+        "end": 22.0
+      },
+      {
+        "word": "like",
+        "start": 22.0,
+        "end": 22.34
+      },
+      {
+        "word": "that",
+        "start": 22.34,
+        "end": 22.84,
+        "spoken": true
+      }
+    ],
+    "time": 20.08,
+    "end": 22.84
+  },
+  {
+    "text": "I pull up to the function and I pop me a can",
+    "startTime": 22.84,
+    "endTime": 26.26,
+    "words": [
+      {
+        "word": "I",
+        "start": 22.84,
+        "end": 23.28,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "pull",
+        "start": 23.28,
+        "end": 23.58,
+        "spoken": true
+      },
+      {
+        "word": "up",
+        "start": 23.58,
+        "end": 23.86,
+        "whisper": true
+      },
+      {
+        "word": "to",
+        "start": 23.86,
+        "end": 24.02
+      },
+      {
+        "word": "the",
+        "start": 24.212,
+        "end": 24.34
+      },
+      {
+        "word": "function",
+        "start": 24.34,
+        "end": 24.7,
+        "whisper": true
+      },
+      {
+        "word": "and",
+        "start": 24.7,
+        "end": 25.04,
+        "whisper": true
+      },
+      {
+        "word": "I",
+        "start": 25.04,
+        "end": 25.3,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "pop",
+        "start": 25.3,
+        "end": 25.44,
+        "whisper": true
+      },
+      {
+        "word": "me",
+        "start": 25.44,
+        "end": 25.74,
+        "whisper": true
+      },
+      {
+        "word": "a",
+        "start": 25.74,
+        "end": 26.02,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "can",
+        "start": 26.159,
+        "end": 26.26
+      }
+    ],
+    "time": 22.84,
+    "end": 26.26
+  },
+  {
+    "text": "I'm finna pop me some tags, I got my business in bags",
+    "startTime": 26.26,
+    "endTime": 30.16,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 26.26,
+        "end": 26.76,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "finna",
+        "start": 26.76,
+        "end": 27.04,
+        "whisper": true
+      },
+      {
+        "word": "pop",
+        "start": 27.04,
+        "end": 27.32,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 27.32,
+        "end": 27.54,
+        "whisper": true
+      },
+      {
+        "word": "some",
+        "start": 27.54,
+        "end": 27.88,
+        "whisper": true
+      },
+      {
+        "word": "tags,",
+        "start": 28.019,
+        "end": 28.2
+      },
+      {
+        "word": "I",
+        "start": 28.4,
+        "end": 28.56,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "got",
+        "start": 28.56,
+        "end": 28.68,
+        "whisper": true
+      },
+      {
+        "word": "my",
+        "start": 28.896,
+        "end": 29.04,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "business",
+        "start": 29.04,
+        "end": 29.32,
+        "whisper": true
+      },
+      {
+        "word": "in",
+        "start": 29.32,
+        "end": 29.8,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "bags",
+        "start": 29.893,
+        "end": 30.16
+      }
+    ],
+    "time": 26.26,
+    "end": 30.16
+  },
+  {
+    "text": "Shoppin' my own shorty, I got dope in my bag I pull",
+    "startTime": 30.16,
+    "endTime": 34.86,
+    "words": [
+      {
+        "word": "Shoppin'",
+        "start": 30.51,
+        "end": 31.38,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 31.476,
+        "end": 31.54
+      },
+      {
+        "word": "own",
+        "start": 31.54,
+        "end": 31.8
+      },
+      {
+        "word": "shorty,",
+        "start": 32.112,
+        "end": 32.32,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 32.32,
+        "end": 32.5,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "got",
+        "start": 32.5,
+        "end": 32.7,
+        "spoken": true
+      },
+      {
+        "word": "dope",
+        "start": 32.856,
+        "end": 32.96,
+        "spoken": true
+      },
+      {
+        "word": "in",
+        "start": 32.96,
+        "end": 33.24
+      },
+      {
+        "word": "my",
+        "start": 33.24,
+        "end": 33.6,
+        "stretch": true
+      },
+      {
+        "word": "bag",
+        "start": 33.6,
+        "end": 33.94
+      },
+      {
+        "word": "I",
+        "start": 33.94,
+        "end": 34.52,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "pull",
+        "start": 34.636,
+        "end": 34.86,
+        "spoken": true
+      }
+    ],
+    "time": 30.16,
+    "end": 34.86
+  },
+  {
+    "text": "up to the party, I ain't tryin' to brag I pull up",
+    "startTime": 34.86,
+    "endTime": 38.88,
+    "words": [
+      {
+        "word": "up",
+        "start": 34.86,
+        "end": 35.12,
         "spoken": true
       },
       {
         "word": "to",
-        "start": 18.01,
-        "end": 18.05
+        "start": 35.216,
+        "end": 35.28
       },
       {
-        "word": "hold",
-        "start": 18.06,
-        "end": 18.1
+        "word": "the",
+        "start": 35.28,
+        "end": 35.62
       },
       {
-        "word": "me",
-        "start": 18.11,
-        "end": 18.18
+        "word": "party,",
+        "start": 35.62,
+        "end": 35.9
       },
       {
-        "word": "close",
-        "start": 18.19,
-        "end": 18.23
+        "word": "I",
+        "start": 36.08,
+        "end": 36.24,
+        "stretch": true,
+        "spoken": true
       },
       {
-        "word": "and",
-        "start": 18.24,
-        "end": 18.28
+        "word": "ain't",
+        "start": 36.24,
+        "end": 36.44,
+        "spoken": true
       },
       {
-        "word": "say",
-        "start": 18.29,
-        "end": 18.33
+        "word": "tryin'",
+        "start": 36.695,
+        "end": 36.9
       },
       {
-        "word": "you",
-        "start": 18.34,
-        "end": 18.38
+        "word": "to",
+        "start": 37.04,
+        "end": 37.32,
+        "spoken": true
       },
       {
-        "word": "love",
-        "start": 18.39,
-        "end": 18.43
+        "word": "brag",
+        "start": 37.32,
+        "end": 37.8,
+        "spoken": true
       },
       {
-        "word": "me",
-        "start": 18.44,
-        "end": 18.54
-      },
-      {
-        "word": "(say",
-        "start": 18.55,
-        "end": 18.65,
-        "adlib": true
-      },
-      {
-        "word": "you",
-        "start": 18.66,
-        "end": 18.76,
-        "adlib": true
-      },
-      {
-        "word": "love",
-        "start": 18.77,
-        "end": 18.87,
-        "adlib": true
-      },
-      {
-        "word": "me)",
-        "start": 18.88,
-        "end": 18.98,
-        "adlib": true,
+        "word": "I",
+        "start": 37.8,
+        "end": 38.22,
+        "stretch": true,
         "whisper": true
+      },
+      {
+        "word": "pull",
+        "start": 38.383,
+        "end": 38.6,
+        "spoken": true
+      },
+      {
+        "word": "up",
+        "start": 38.6,
+        "end": 38.88,
+        "spoken": true
       }
     ],
-    "time": 16.02,
-    "end": 18.98
+    "time": 34.86,
+    "end": 38.88
   },
   {
-    "text": "●",
-    "startTime": 19.28,
-    "endTime": 40.14,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 19.28,
-    "end": 40.14
-  },
-  {
-    "text": "Now you actin' like a ghost and that's okay, I",
-    "startTime": 40.14,
-    "endTime": 42.18,
+    "text": "to the party, everybody get mad And when I pull up from",
+    "startTime": 38.88,
+    "endTime": 42.82,
     "words": [
       {
-        "word": "Now",
-        "start": 40.14,
-        "end": 40.29,
+        "word": "to",
+        "start": 38.976,
+        "end": 39.04
+      },
+      {
+        "word": "the",
+        "start": 39.04,
+        "end": 39.38,
         "spoken": true
       },
       {
-        "word": "you",
-        "start": 40.34,
-        "end": 40.49,
+        "word": "party,",
+        "start": 39.38,
+        "end": 39.7,
         "spoken": true
       },
       {
-        "word": "actin'",
-        "start": 40.54,
-        "end": 40.69,
-        "char_starts": [
-          19.49,
-          19.6,
-          19.771,
-          19.976,
-          20.207,
-          20.459
-        ],
+        "word": "everybody",
+        "start": 40.31,
+        "end": 40.56,
         "spoken": true
       },
       {
-        "word": "like",
-        "start": 40.74,
-        "end": 40.89,
+        "word": "get",
+        "start": 40.56,
+        "end": 40.94,
         "spoken": true
       },
       {
-        "word": "a",
+        "word": "mad",
         "start": 40.94,
-        "end": 41.09
+        "end": 41.3
       },
       {
-        "word": "ghost",
-        "start": 41.14,
-        "end": 41.29
-      },
-      {
-        "word": "and",
-        "start": 41.34,
+        "word": "And",
+        "start": 41.3,
         "end": 41.64,
         "whisper": true
       },
       {
-        "word": "that's",
-        "start": 41.65,
-        "end": 41.749,
-        "whisper": true
-      },
-      {
-        "word": "okay,",
-        "start": 41.759,
-        "end": 41.84,
+        "word": "when",
+        "start": 41.64,
+        "end": 41.86,
         "whisper": true
       },
       {
         "word": "I",
-        "start": 42.048,
-        "end": 42.18
-      }
-    ],
-    "time": 40.14,
-    "end": 42.18
-  },
-  {
-    "text": "●",
-    "startTime": 42.48,
-    "endTime": 50.94,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 42.48,
-    "end": 50.94
-  },
-  {
-    "text": "know I'm ugly (I know I'm ugly)",
-    "startTime": 50.94,
-    "endTime": 55,
-    "words": [
-      {
-        "word": "know",
-        "start": 50.94,
-        "end": 51.42,
+        "start": 42.052,
+        "end": 42.18,
+        "stretch": true,
         "spoken": true
       },
       {
-        "word": "I'm",
-        "start": 51.43,
-        "end": 52.78,
-        "char_starts": [
-          51.43,
-          51.774,
-          52.307
-        ],
+        "word": "pull",
+        "start": 42.18,
+        "end": 42.36,
         "spoken": true
-      },
-      {
-        "word": "ugly",
-        "start": 52.79,
-        "end": 52.83
-      },
-      {
-        "word": "(I",
-        "start": 53.19,
-        "end": 53.96,
-        "adlib": true,
-        "spoken": true
-      },
-      {
-        "word": "know",
-        "start": 53.97,
-        "end": 54.32,
-        "adlib": true,
-        "spoken": true
-      },
-      {
-        "word": "I'm",
-        "start": 54.612,
-        "end": 54.8,
-        "adlib": true,
-        "spoken": true
-      },
-      {
-        "word": "ugly)",
-        "start": 54.81,
-        "end": 55,
-        "adlib": true,
-        "spoken": true
-      }
-    ],
-    "time": 50.94,
-    "end": 55
-  },
-  {
-    "text": "Now I'm swervin' in the Ghost, and I'm okay, I'm gettin' money (I'm gettin' money)",
-    "startTime": 56.06,
-    "endTime": 58.68,
-    "words": [
-      {
-        "word": "Now",
-        "start": 56.41,
-        "end": 57.48,
-        "char_starts": [
-          56.41,
-          56.422,
-          56.983
-        ],
-        "spoken": true
-      },
-      {
-        "word": "I'm",
-        "start": 57.49,
-        "end": 57.565,
-        "spoken": true
-      },
-      {
-        "word": "swervin'",
-        "start": 57.575,
-        "end": 57.79
-      },
-      {
-        "word": "in",
-        "start": 57.8,
-        "end": 57.846
-      },
-      {
-        "word": "the",
-        "start": 57.856,
-        "end": 57.931,
-        "spoken": true
-      },
-      {
-        "word": "Ghost,",
-        "start": 57.941,
-        "end": 58.1
-      },
-      {
-        "word": "and",
-        "start": 58.11,
-        "end": 58.28
-      },
-      {
-        "word": "I'm",
-        "start": 58.29,
-        "end": 58.33
-      },
-      {
-        "word": "okay,",
-        "start": 58.34,
-        "end": 58.38
-      },
-      {
-        "word": "I'm",
-        "start": 58.39,
-        "end": 58.43
-      },
-      {
-        "word": "gettin'",
-        "start": 58.44,
-        "end": 58.48
-      },
-      {
-        "word": "money",
-        "start": 58.49,
-        "end": 58.53
-      },
-      {
-        "word": "(I'm",
-        "start": 58.54,
-        "end": 58.58,
-        "adlib": true
-      },
-      {
-        "word": "gettin'",
-        "start": 58.59,
-        "end": 58.63,
-        "adlib": true
-      },
-      {
-        "word": "money)",
-        "start": 58.64,
-        "end": 58.68,
-        "adlib": true
-      }
-    ],
-    "time": 56.06,
-    "end": 58.68
-  },
-  {
-    "text": "Now I'm switchin' up the coast, get out my way, I stop for nothin' (I stop for nothing, skrrt)",
-    "startTime": 58.69,
-    "endTime": 59.63,
-    "words": [
-      {
-        "word": "Now",
-        "start": 58.69,
-        "end": 58.73
-      },
-      {
-        "word": "I'm",
-        "start": 58.74,
-        "end": 58.78
-      },
-      {
-        "word": "switchin'",
-        "start": 58.79,
-        "end": 58.83
       },
       {
         "word": "up",
-        "start": 58.84,
-        "end": 58.88
-      },
-      {
-        "word": "the",
-        "start": 58.89,
-        "end": 58.93
-      },
-      {
-        "word": "coast,",
-        "start": 58.94,
-        "end": 58.98
-      },
-      {
-        "word": "get",
-        "start": 58.99,
-        "end": 59.03
-      },
-      {
-        "word": "out",
-        "start": 59.04,
-        "end": 59.08
-      },
-      {
-        "word": "my",
-        "start": 59.09,
-        "end": 59.13
-      },
-      {
-        "word": "way,",
-        "start": 59.14,
-        "end": 59.18
-      },
-      {
-        "word": "I",
-        "start": 59.19,
-        "end": 59.23
-      },
-      {
-        "word": "stop",
-        "start": 59.24,
-        "end": 59.28
-      },
-      {
-        "word": "for",
-        "start": 59.29,
-        "end": 59.33
-      },
-      {
-        "word": "nothin'",
-        "start": 59.34,
-        "end": 59.38
-      },
-      {
-        "word": "(I",
-        "start": 59.39,
-        "end": 59.43,
-        "adlib": true
-      },
-      {
-        "word": "stop",
-        "start": 59.44,
-        "end": 59.48,
-        "adlib": true
-      },
-      {
-        "word": "for",
-        "start": 59.49,
-        "end": 59.53,
-        "adlib": true
-      },
-      {
-        "word": "nothing,",
-        "start": 59.54,
-        "end": 59.58,
-        "adlib": true
-      },
-      {
-        "word": "skrrt)",
-        "start": 59.59,
-        "end": 59.63,
-        "adlib": true
-      }
-    ],
-    "time": 58.69,
-    "end": 59.63
-  },
-  {
-    "text": "Give me some time and give me your patience (patience)",
-    "startTime": 59.64,
-    "endTime": 60.13,
-    "words": [
-      {
-        "word": "Give",
-        "start": 59.64,
-        "end": 59.68
-      },
-      {
-        "word": "me",
-        "start": 59.69,
-        "end": 59.73
-      },
-      {
-        "word": "some",
-        "start": 59.74,
-        "end": 59.78
-      },
-      {
-        "word": "time",
-        "start": 59.79,
-        "end": 59.83
-      },
-      {
-        "word": "and",
-        "start": 59.84,
-        "end": 59.88
-      },
-      {
-        "word": "give",
-        "start": 59.89,
-        "end": 59.93
-      },
-      {
-        "word": "me",
-        "start": 59.94,
-        "end": 59.98
-      },
-      {
-        "word": "your",
-        "start": 59.99,
-        "end": 60.03
-      },
-      {
-        "word": "patience",
-        "start": 60.04,
-        "end": 60.08
-      },
-      {
-        "word": "(patience)",
-        "start": 60.09,
-        "end": 60.13,
-        "adlib": true
-      }
-    ],
-    "time": 59.64,
-    "end": 60.13
-  },
-  {
-    "text": "Came in the game last month, fuck the game, I'm done (game, I'm done)",
-    "startTime": 60.14,
-    "endTime": 60.83,
-    "words": [
-      {
-        "word": "Came",
-        "start": 60.14,
-        "end": 60.18
-      },
-      {
-        "word": "in",
-        "start": 60.19,
-        "end": 60.23
-      },
-      {
-        "word": "the",
-        "start": 60.24,
-        "end": 60.28
-      },
-      {
-        "word": "game",
-        "start": 60.29,
-        "end": 60.33
-      },
-      {
-        "word": "last",
-        "start": 60.34,
-        "end": 60.38
-      },
-      {
-        "word": "month,",
-        "start": 60.39,
-        "end": 60.43
-      },
-      {
-        "word": "fuck",
-        "start": 60.44,
-        "end": 60.48
-      },
-      {
-        "word": "the",
-        "start": 60.49,
-        "end": 60.53
-      },
-      {
-        "word": "game,",
-        "start": 60.54,
-        "end": 60.58
-      },
-      {
-        "word": "I'm",
-        "start": 60.59,
-        "end": 60.63
-      },
-      {
-        "word": "done",
-        "start": 60.64,
-        "end": 60.68
-      },
-      {
-        "word": "(game,",
-        "start": 60.69,
-        "end": 60.73,
-        "adlib": true
-      },
-      {
-        "word": "I'm",
-        "start": 60.74,
-        "end": 60.78,
-        "adlib": true
-      },
-      {
-        "word": "done)",
-        "start": 60.79,
-        "end": 60.83,
-        "adlib": true
-      }
-    ],
-    "time": 60.14,
-    "end": 60.83
-  },
-  {
-    "text": "Give me a sign, and I'm gonna take it (ah)",
-    "startTime": 60.84,
-    "endTime": 61.33,
-    "words": [
-      {
-        "word": "Give",
-        "start": 60.84,
-        "end": 60.88
-      },
-      {
-        "word": "me",
-        "start": 60.89,
-        "end": 60.93
-      },
-      {
-        "word": "a",
-        "start": 60.94,
-        "end": 60.98
-      },
-      {
-        "word": "sign,",
-        "start": 60.99,
-        "end": 61.03
-      },
-      {
-        "word": "and",
-        "start": 61.04,
-        "end": 61.08
-      },
-      {
-        "word": "I'm",
-        "start": 61.09,
-        "end": 61.13
-      },
-      {
-        "word": "gonna",
-        "start": 61.14,
-        "end": 61.18
-      },
-      {
-        "word": "take",
-        "start": 61.19,
-        "end": 61.23
-      },
-      {
-        "word": "it",
-        "start": 61.24,
-        "end": 61.28
-      },
-      {
-        "word": "(ah)",
-        "start": 61.29,
-        "end": 61.33,
-        "adlib": true
-      }
-    ],
-    "time": 60.84,
-    "end": 61.33
-  },
-  {
-    "text": "Whatever way I want, bitch, I get paid up front (clout, clout)",
-    "startTime": 61.34,
-    "endTime": 61.93,
-    "words": [
-      {
-        "word": "Whatever",
-        "start": 61.34,
-        "end": 61.38
-      },
-      {
-        "word": "way",
-        "start": 61.39,
-        "end": 61.43
-      },
-      {
-        "word": "I",
-        "start": 61.44,
-        "end": 61.48
-      },
-      {
-        "word": "want,",
-        "start": 61.49,
-        "end": 61.53
-      },
-      {
-        "word": "bitch,",
-        "start": 61.54,
-        "end": 61.58
-      },
-      {
-        "word": "I",
-        "start": 61.59,
-        "end": 61.63
-      },
-      {
-        "word": "get",
-        "start": 61.64,
-        "end": 61.68
-      },
-      {
-        "word": "paid",
-        "start": 61.69,
-        "end": 61.73
-      },
-      {
-        "word": "up",
-        "start": 61.74,
-        "end": 61.78
-      },
-      {
-        "word": "front",
-        "start": 61.79,
-        "end": 61.83
-      },
-      {
-        "word": "(clout,",
-        "start": 61.84,
-        "end": 61.88,
-        "adlib": true
-      },
-      {
-        "word": "clout)",
-        "start": 61.89,
-        "end": 61.93,
-        "adlib": true
-      }
-    ],
-    "time": 61.34,
-    "end": 61.93
-  },
-  {
-    "text": "I'm gettin' mine, so fuck all your placements",
-    "startTime": 61.94,
-    "endTime": 62.51,
-    "words": [
-      {
-        "word": "I'm",
-        "start": 61.94,
-        "end": 61.98
-      },
-      {
-        "word": "gettin'",
-        "start": 61.99,
-        "end": 62.03
-      },
-      {
-        "word": "mine,",
-        "start": 62.04,
-        "end": 62.08
-      },
-      {
-        "word": "so",
-        "start": 62.09,
-        "end": 62.13
-      },
-      {
-        "word": "fuck",
-        "start": 62.14,
-        "end": 62.18
-      },
-      {
-        "word": "all",
-        "start": 62.19,
-        "end": 62.29,
-        "whisper": true
-      },
-      {
-        "word": "your",
-        "start": 62.3,
-        "end": 62.4,
-        "whisper": true
-      },
-      {
-        "word": "placements",
-        "start": 62.41,
-        "end": 62.51,
-        "whisper": true
-      }
-    ],
-    "time": 61.94,
-    "end": 62.51
-  },
-  {
-    "text": "Baby face, I'm young, fuck the place I'm from (the place I'm from)",
-    "startTime": 62.52,
-    "endTime": 63.94,
-    "words": [
-      {
-        "word": "Baby",
-        "start": 62.52,
-        "end": 62.62,
-        "whisper": true
-      },
-      {
-        "word": "face,",
-        "start": 62.63,
-        "end": 62.73,
-        "whisper": true
-      },
-      {
-        "word": "I'm",
-        "start": 62.74,
-        "end": 62.84,
-        "whisper": true
-      },
-      {
-        "word": "young,",
-        "start": 62.85,
-        "end": 62.95,
-        "whisper": true
-      },
-      {
-        "word": "fuck",
-        "start": 62.96,
-        "end": 63.06,
-        "whisper": true
-      },
-      {
-        "word": "the",
-        "start": 63.07,
-        "end": 63.17,
-        "whisper": true
-      },
-      {
-        "word": "place",
-        "start": 63.18,
-        "end": 63.28,
-        "whisper": true
-      },
-      {
-        "word": "I'm",
-        "start": 63.29,
-        "end": 63.39,
-        "whisper": true
+        "start": 42.36,
+        "end": 42.66,
+        "spoken": true
       },
       {
         "word": "from",
-        "start": 63.4,
-        "end": 63.5,
-        "whisper": true
-      },
-      {
-        "word": "(the",
-        "start": 63.51,
-        "end": 63.61,
-        "adlib": true,
-        "whisper": true
-      },
-      {
-        "word": "place",
-        "start": 63.62,
-        "end": 63.72,
-        "adlib": true,
-        "whisper": true
-      },
-      {
-        "word": "I'm",
-        "start": 63.73,
-        "end": 63.83,
-        "adlib": true,
-        "whisper": true
-      },
-      {
-        "word": "from)",
-        "start": 63.84,
-        "end": 63.94,
-        "adlib": true,
-        "whisper": true
+        "start": 42.66,
+        "end": 42.82
       }
     ],
-    "time": 62.52,
-    "end": 63.94
+    "time": 38.88,
+    "end": 42.82
   },
   {
-    "text": "Don't hit my line and say somethin' basic (skrrt)",
-    "startTime": 63.95,
-    "endTime": 64.93,
+    "text": "the party, all the bitches get sad and say",
+    "startTime": 42.82,
+    "endTime": 45.74,
     "words": [
       {
-        "word": "Don't",
-        "start": 63.95,
-        "end": 64.05,
-        "whisper": true
+        "word": "the",
+        "start": 42.866,
+        "end": 43.12,
+        "spoken": true
       },
       {
-        "word": "hit",
-        "start": 64.06,
-        "end": 64.16,
-        "whisper": true
+        "word": "party,",
+        "start": 43.12,
+        "end": 43.44
       },
       {
-        "word": "my",
-        "start": 64.17,
-        "end": 64.27,
-        "whisper": true
+        "word": "all",
+        "start": 43.64,
+        "end": 43.8,
+        "spoken": true
       },
       {
-        "word": "line",
-        "start": 64.28,
-        "end": 64.38,
-        "whisper": true
+        "word": "the",
+        "start": 43.8,
+        "end": 44.06,
+        "spoken": true
+      },
+      {
+        "word": "bitches",
+        "start": 44.216,
+        "end": 44.32,
+        "spoken": true
+      },
+      {
+        "word": "get",
+        "start": 44.32,
+        "end": 44.78,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "sad",
+        "start": 44.78,
+        "end": 45.14,
+        "spoken": true
       },
       {
         "word": "and",
-        "start": 64.39,
-        "end": 64.49,
-        "whisper": true
+        "start": 45.332,
+        "end": 45.46,
+        "spoken": true
       },
       {
         "word": "say",
-        "start": 64.5,
-        "end": 64.6,
-        "whisper": true
-      },
-      {
-        "word": "somethin'",
-        "start": 64.61,
-        "end": 64.71,
-        "whisper": true
-      },
-      {
-        "word": "basic",
-        "start": 64.72,
-        "end": 64.82,
-        "whisper": true
-      },
-      {
-        "word": "(skrrt)",
-        "start": 64.83,
-        "end": 64.93,
-        "adlib": true,
-        "whisper": true
+        "start": 45.46,
+        "end": 45.74,
+        "spoken": true
       }
     ],
-    "time": 63.95,
-    "end": 64.93
+    "time": 42.82,
+    "end": 45.74
   },
   {
-    "text": "If it ain't about the money, please don't waste no time (waste no time)",
-    "startTime": 64.94,
-    "endTime": 66.47,
+    "text": "Where you goin', lil' Pete? I got lots of drugs on me",
+    "startTime": 45.74,
+    "endTime": 52.38,
     "words": [
       {
-        "word": "If",
-        "start": 64.94,
-        "end": 65.04,
-        "whisper": true
+        "word": "Where",
+        "start": 45.856,
+        "end": 46.5,
+        "stretch": true,
+        "spoken": true
       },
       {
-        "word": "it",
-        "start": 65.05,
-        "end": 65.15,
-        "whisper": true
+        "word": "you",
+        "start": 46.57,
+        "end": 46.82,
+        "spoken": true
       },
       {
-        "word": "ain't",
-        "start": 65.16,
-        "end": 65.26,
-        "whisper": true
+        "word": "goin',",
+        "start": 46.82,
+        "end": 47.14
       },
       {
-        "word": "about",
-        "start": 65.27,
-        "end": 65.37,
-        "whisper": true
+        "word": "lil'",
+        "start": 47.279,
+        "end": 47.7,
+        "stretch": true,
+        "spoken": true
       },
       {
-        "word": "the",
-        "start": 65.38,
-        "end": 65.48,
-        "whisper": true
+        "word": "Pete?",
+        "start": 48.16,
+        "end": 48.16
       },
-      {
-        "word": "money,",
-        "start": 65.49,
-        "end": 65.59,
-        "whisper": true
-      },
-      {
-        "word": "please",
-        "start": 65.6,
-        "end": 65.7,
-        "whisper": true
-      },
-      {
-        "word": "don't",
-        "start": 65.71,
-        "end": 65.81,
-        "whisper": true
-      },
-      {
-        "word": "waste",
-        "start": 65.82,
-        "end": 65.92,
-        "whisper": true
-      },
-      {
-        "word": "no",
-        "start": 65.93,
-        "end": 66.03,
-        "whisper": true
-      },
-      {
-        "word": "time",
-        "start": 66.04,
-        "end": 66.14,
-        "whisper": true
-      },
-      {
-        "word": "(waste",
-        "start": 66.15,
-        "end": 66.25,
-        "adlib": true,
-        "whisper": true
-      },
-      {
-        "word": "no",
-        "start": 66.26,
-        "end": 66.36,
-        "adlib": true,
-        "whisper": true
-      },
-      {
-        "word": "time)",
-        "start": 66.37,
-        "end": 66.47,
-        "adlib": true,
-        "whisper": true
-      }
-    ],
-    "time": 64.94,
-    "end": 66.47
-  },
-  {
-    "text": "Lookin' off the edge, and I'm picturin' the fall 'cause",
-    "startTime": 66.48,
-    "endTime": 67.57,
-    "words": [
-      {
-        "word": "Lookin'",
-        "start": 66.48,
-        "end": 66.58,
-        "whisper": true
-      },
-      {
-        "word": "off",
-        "start": 66.59,
-        "end": 66.69,
-        "whisper": true
-      },
-      {
-        "word": "the",
-        "start": 66.7,
-        "end": 66.8,
-        "whisper": true
-      },
-      {
-        "word": "edge,",
-        "start": 66.81,
-        "end": 66.91,
-        "whisper": true
-      },
-      {
-        "word": "and",
-        "start": 66.92,
-        "end": 67.02,
-        "whisper": true
-      },
-      {
-        "word": "I'm",
-        "start": 67.03,
-        "end": 67.13,
-        "whisper": true
-      },
-      {
-        "word": "picturin'",
-        "start": 67.14,
-        "end": 67.24,
-        "whisper": true
-      },
-      {
-        "word": "the",
-        "start": 67.25,
-        "end": 67.35,
-        "whisper": true
-      },
-      {
-        "word": "fall",
-        "start": 67.36,
-        "end": 67.46,
-        "whisper": true
-      },
-      {
-        "word": "'cause",
-        "start": 67.47,
-        "end": 67.57,
-        "whisper": true
-      }
-    ],
-    "time": 66.48,
-    "end": 67.57
-  },
-  {
-    "text": "I don't want to break my legs and have to carry on (hey)",
-    "startTime": 67.58,
-    "endTime": 69,
-    "words": [
       {
         "word": "I",
-        "start": 67.58,
-        "end": 67.68,
-        "whisper": true
+        "start": 49.45,
+        "end": 49.76,
+        "stretch": true,
+        "spoken": true
       },
       {
-        "word": "don't",
-        "start": 67.69,
-        "end": 67.79,
-        "whisper": true
+        "word": "got",
+        "start": 49.76,
+        "end": 50.04,
+        "spoken": true
       },
       {
-        "word": "want",
-        "start": 67.8,
-        "end": 67.9,
-        "whisper": true
+        "word": "lots",
+        "start": 50.232,
+        "end": 50.36,
+        "spoken": true
       },
       {
-        "word": "to",
-        "start": 67.91,
-        "end": 68.01,
-        "whisper": true
+        "word": "of",
+        "start": 50.36,
+        "end": 50.66,
+        "spoken": true
       },
       {
-        "word": "break",
-        "start": 68.02,
-        "end": 68.12,
-        "whisper": true
-      },
-      {
-        "word": "my",
-        "start": 68.13,
-        "end": 68.23,
-        "whisper": true
-      },
-      {
-        "word": "legs",
-        "start": 68.24,
-        "end": 68.34,
-        "whisper": true
-      },
-      {
-        "word": "and",
-        "start": 68.35,
-        "end": 68.45,
-        "whisper": true
-      },
-      {
-        "word": "have",
-        "start": 68.46,
-        "end": 68.56,
-        "whisper": true
-      },
-      {
-        "word": "to",
-        "start": 68.57,
-        "end": 68.67,
-        "whisper": true
-      },
-      {
-        "word": "carry",
-        "start": 68.68,
-        "end": 68.78,
-        "whisper": true
+        "word": "drugs",
+        "start": 50.66,
+        "end": 50.94
       },
       {
         "word": "on",
-        "start": 68.79,
-        "end": 68.89,
-        "whisper": true
+        "start": 51.056,
+        "end": 51.46,
+        "stretch": true,
+        "spoken": true
       },
       {
-        "word": "(hey)",
-        "start": 68.9,
-        "end": 69,
-        "adlib": true,
-        "whisper": true
+        "word": "me",
+        "start": 51.669,
+        "end": 52.38,
+        "stretch": true,
+        "spoken": true
       }
     ],
-    "time": 67.58,
-    "end": 69
+    "time": 45.74,
+    "end": 52.38
   },
   {
-    "text": "If I carry on, I'm gon' need some marijuana",
-    "startTime": 69.01,
-    "endTime": 69.99,
+    "text": "I think I'ma go to sleep Wake up and I'll repeat",
+    "startTime": 52.38,
+    "endTime": 59.38,
     "words": [
       {
-        "word": "If",
-        "start": 69.01,
-        "end": 69.11,
-        "whisper": true
-      },
-      {
         "word": "I",
-        "start": 69.12,
-        "end": 69.22,
-        "whisper": true
+        "start": 52.73,
+        "end": 53.94,
+        "stretch": true,
+        "spoken": true
       },
       {
-        "word": "carry",
-        "start": 69.23,
-        "end": 69.33,
-        "whisper": true
+        "word": "think",
+        "start": 53.94,
+        "end": 54.32,
+        "spoken": true
       },
       {
-        "word": "on,",
-        "start": 69.34,
-        "end": 69.44,
-        "whisper": true
+        "word": "I'ma",
+        "start": 54.608,
+        "end": 54.8,
+        "stretch": true,
+        "spoken": true
       },
       {
-        "word": "I'm",
-        "start": 69.45,
-        "end": 69.55,
-        "whisper": true
+        "word": "go",
+        "start": 54.8,
+        "end": 55.0,
+        "spoken": true
       },
       {
-        "word": "gon'",
-        "start": 69.56,
-        "end": 69.66,
-        "whisper": true
+        "word": "to",
+        "start": 55.0,
+        "end": 55.3,
+        "spoken": true
       },
       {
-        "word": "need",
-        "start": 69.67,
-        "end": 69.77,
-        "whisper": true
+        "word": "sleep",
+        "start": 55.3,
+        "end": 56.06,
+        "stretch": true,
+        "spoken": true
       },
       {
-        "word": "some",
-        "start": 69.78,
-        "end": 69.88,
-        "whisper": true
+        "word": "Wake",
+        "start": 56.41,
+        "end": 57.5,
+        "stretch": true,
+        "spoken": true
       },
       {
-        "word": "marijuana",
-        "start": 69.89,
-        "end": 69.99,
-        "whisper": true
+        "word": "up",
+        "start": 57.5,
+        "end": 58.08,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 58.08,
+        "end": 58.26
+      },
+      {
+        "word": "I'll",
+        "start": 58.452,
+        "end": 58.58,
+        "spoken": true
+      },
+      {
+        "word": "repeat",
+        "start": 58.58,
+        "end": 59.38,
+        "stretch": true,
+        "spoken": true
       }
     ],
-    "time": 69.01,
-    "end": 69.99
+    "time": 52.38,
+    "end": 59.38
   },
   {
-    "text": "Put it in my bong, then I make another song",
-    "startTime": 70,
-    "endTime": 71.82,
+    "text": "●",
+    "startTime": 59.68,
+    "endTime": 75.74,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 59.68,
+    "end": 75.74
+  },
+  {
+    "text": "I'ma wake up and I'll repeat",
+    "startTime": 75.74,
+    "endTime": 75.907,
     "words": [
       {
-        "word": "Put",
-        "start": 70,
-        "end": 70.1,
+        "word": "I'ma",
+        "start": 75.74,
+        "end": 75.78
+      },
+      {
+        "word": "wake",
+        "start": 75.78,
+        "end": 75.84,
         "whisper": true
       },
       {
-        "word": "it",
-        "start": 70.11,
-        "end": 70.21,
+        "word": "up",
+        "start": 75.807,
+        "end": 75.86,
         "whisper": true
       },
       {
-        "word": "in",
-        "start": 70.22,
-        "end": 70.32,
+        "word": "and",
+        "start": 75.807,
+        "end": 75.907,
         "whisper": true
       },
       {
-        "word": "my",
-        "start": 70.33,
-        "end": 70.43,
+        "word": "I'll",
+        "start": 75.807,
+        "end": 75.907,
         "whisper": true
       },
       {
-        "word": "bong,",
-        "start": 70.44,
-        "end": 70.54,
-        "whisper": true
-      },
-      {
-        "word": "then",
-        "start": 70.55,
-        "end": 70.65,
-        "whisper": true
-      },
-      {
-        "word": "I",
-        "start": 70.66,
-        "end": 70.76,
-        "whisper": true
-      },
-      {
-        "word": "make",
-        "start": 70.77,
-        "end": 71.22,
-        "whisper": true
-      },
-      {
-        "word": "another",
-        "start": 71.23,
-        "end": 71.602,
-        "whisper": true
-      },
-      {
-        "word": "song",
-        "start": 71.612,
-        "end": 71.82,
+        "word": "repeat",
+        "start": 75.807,
+        "end": 75.907,
         "whisper": true
       }
     ],
-    "time": 70,
-    "end": 71.82
+    "time": 75.74,
+    "end": 75.907
   }
 ]

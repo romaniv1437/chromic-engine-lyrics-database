@@ -2,7 +2,7 @@
   "artist": "Eric",
   "track_title": "Alizée - Moi... Lolita (slowed)",
   "track_url": "https://soundcloud.com/ericmonsen/alizee-moi-lolita-slowed",
-  "lyrics_source": "syncedlyrics",
-  "line_timestamps_source": "guided-whisper",
-  "updated_at": "2026-06-23T01:59:05.960783+00:00"
+  "lyrics_source": "whisper_only",
+  "line_timestamps_source": "blind-whisper",
+  "updated_at": "2026-07-08T16:25:07.695890+00:00"
 }

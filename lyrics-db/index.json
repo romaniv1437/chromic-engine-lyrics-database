@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T20:29:15.338895+00:00",
+  "generatedAt": "2026-07-08T20:30:30.761861+00:00",
   "totalTracks": 788,
   "roots": [
     "lyrics-db/tracks"
@@ -10866,20 +10866,6 @@
       "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
       "mtimeMs": 1783530879109
     },
-    "bladee::be nice to me": {
-      "title": "BE NICE TO ME",
-      "artist": "Bladee",
-      "originalTrackName": "Bladee - BE NICE TO ME",
-      "source": "lrclib_plain",
-      "file": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
-      "files": {
-        "lyrics": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
-        "meta": "tracks/bladee-be-nice-to-me-d7442d0c219c.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/bladee1000/4-34-edit",
-      "mtimeMs": 1783530957517
-    },
     "lil peep::right here w/ horsehead (prod. nedarb)": {
       "title": "right here w/ horsehead (prod. nedarb)",
       "artist": "Lil Peep",
@@ -11075,6 +11061,20 @@
       },
       "sourcePath": "https://soundcloud.com/gab3omg/gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse",
       "mtimeMs": 1783542555760
+    },
+    "bladee::be nice to me": {
+      "title": "BE NICE TO ME",
+      "artist": "Bladee",
+      "originalTrackName": "Bladee - BE NICE TO ME",
+      "source": "lrclib_plain",
+      "file": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
+      "files": {
+        "lyrics": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
+        "meta": "tracks/bladee-be-nice-to-me-d7442d0c219c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bladee1000/4-34-edit",
+      "mtimeMs": 1783542631216
     }
   },
   "tracks": [
@@ -21959,20 +21959,6 @@
       "mtimeMs": 1783530879109
     },
     {
-      "title": "BE NICE TO ME",
-      "artist": "Bladee",
-      "originalTrackName": "Bladee - BE NICE TO ME",
-      "source": "lrclib_plain",
-      "file": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
-      "files": {
-        "lyrics": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
-        "meta": "tracks/bladee-be-nice-to-me-d7442d0c219c.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/bladee1000/4-34-edit",
-      "mtimeMs": 1783530957517
-    },
-    {
       "title": "right here w/ horsehead (prod. nedarb)",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - right here w/ horsehead (prod. nedarb)",
@@ -22167,6 +22153,20 @@
       },
       "sourcePath": "https://soundcloud.com/gab3omg/gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse",
       "mtimeMs": 1783542555760
+    },
+    {
+      "title": "BE NICE TO ME",
+      "artist": "Bladee",
+      "originalTrackName": "Bladee - BE NICE TO ME",
+      "source": "lrclib_plain",
+      "file": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
+      "files": {
+        "lyrics": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
+        "meta": "tracks/bladee-be-nice-to-me-d7442d0c219c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bladee1000/4-34-edit",
+      "mtimeMs": 1783542631216
     }
   ]
 }

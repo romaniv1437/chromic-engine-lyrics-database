@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T17:25:29.333434+00:00",
+  "generatedAt": "2026-07-08T17:26:49.198090+00:00",
   "totalTracks": 787,
   "roots": [
     "lyrics-db/tracks"
@@ -10740,20 +10740,6 @@
       "sourcePath": "https://soundcloud.com/zapte_peep/lil-peep-mud-on-my-gucci",
       "mtimeMs": 1783528183921
     },
-    "phan 1600::lil uzi vert - heavy (no open)": {
-      "title": "Lil Uzi Vert - Heavy (No Open)",
-      "artist": "Phan 1600",
-      "originalTrackName": "Phan 1600 - Lil Uzi Vert - Heavy (No Open)",
-      "source": "syncedlyrics",
-      "file": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
-      "files": {
-        "lyrics": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
-        "meta": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/phan-1600/lil-uzi-vert-heavy-no-open",
-      "mtimeMs": 1783528323887
-    },
     "☆lil peep☆ archives::every weekend w/ slug christ (prod lederrick x lil peep)": {
       "title": "every weekend w/ slug christ (prod lederrick x lil peep)",
       "artist": "☆LiL PEEP☆ ARCHIVES",
@@ -11061,6 +11047,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/45116ca6-d610-4d61-bc1f-8bf9ec6c171e",
       "mtimeMs": 1783531529867
+    },
+    "phan 1600::lil uzi vert - heavy (no open)": {
+      "title": "Lil Uzi Vert - Heavy (No Open)",
+      "artist": "Phan 1600",
+      "originalTrackName": "Phan 1600 - Lil Uzi Vert - Heavy (No Open)",
+      "source": "syncedlyrics",
+      "file": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
+      "files": {
+        "lyrics": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
+        "meta": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/phan-1600/lil-uzi-vert-heavy-no-open",
+      "mtimeMs": 1783531609629
     }
   },
   "tracks": [
@@ -21819,20 +21819,6 @@
       "mtimeMs": 1783528183921
     },
     {
-      "title": "Lil Uzi Vert - Heavy (No Open)",
-      "artist": "Phan 1600",
-      "originalTrackName": "Phan 1600 - Lil Uzi Vert - Heavy (No Open)",
-      "source": "syncedlyrics",
-      "file": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
-      "files": {
-        "lyrics": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
-        "meta": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/phan-1600/lil-uzi-vert-heavy-no-open",
-      "mtimeMs": 1783528323887
-    },
-    {
       "title": "every weekend w/ slug christ (prod lederrick x lil peep)",
       "artist": "☆LiL PEEP☆ ARCHIVES",
       "originalTrackName": "☆LiL PEEP☆ ARCHIVES - every weekend w/ slug christ (prod lederrick x lil peep)",
@@ -22139,6 +22125,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/45116ca6-d610-4d61-bc1f-8bf9ec6c171e",
       "mtimeMs": 1783531529867
+    },
+    {
+      "title": "Lil Uzi Vert - Heavy (No Open)",
+      "artist": "Phan 1600",
+      "originalTrackName": "Phan 1600 - Lil Uzi Vert - Heavy (No Open)",
+      "source": "syncedlyrics",
+      "file": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
+      "files": {
+        "lyrics": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
+        "meta": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/phan-1600/lil-uzi-vert-heavy-no-open",
+      "mtimeMs": 1783531609629
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-08T17:04:52.899380+00:00",
-  "totalTracks": 785,
+  "generatedAt": "2026-07-08T17:05:55.967635+00:00",
+  "totalTracks": 786,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11033,6 +11033,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/latitude",
       "mtimeMs": 1783530293349
+    },
+    "kyston::obito x it's snowing like it's the end of the world": {
+      "title": "Obito x It's Snowing Like It's The End Of The World",
+      "artist": "Kyston",
+      "originalTrackName": "Kyston - Obito x It's Snowing Like It's The End Of The World",
+      "source": "whisper_only",
+      "file": "tracks/kyston-obito-x-it-s-snowing-like-it-s-the-end-of-the-world-e920cf47060e.json",
+      "files": {
+        "lyrics": "tracks/kyston-obito-x-it-s-snowing-like-it-s-the-end-of-the-world-e920cf47060e.json",
+        "meta": "tracks/kyston-obito-x-it-s-snowing-like-it-s-the-end-of-the-world-e920cf47060e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/joshua-malone-388547748/obito-x-its-snowing-like-its",
+      "mtimeMs": 1783530356876
     }
   },
   "tracks": [
@@ -22083,6 +22097,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/latitude",
       "mtimeMs": 1783530293349
+    },
+    {
+      "title": "Obito x It's Snowing Like It's The End Of The World",
+      "artist": "Kyston",
+      "originalTrackName": "Kyston - Obito x It's Snowing Like It's The End Of The World",
+      "source": "whisper_only",
+      "file": "tracks/kyston-obito-x-it-s-snowing-like-it-s-the-end-of-the-world-e920cf47060e.json",
+      "files": {
+        "lyrics": "tracks/kyston-obito-x-it-s-snowing-like-it-s-the-end-of-the-world-e920cf47060e.json",
+        "meta": "tracks/kyston-obito-x-it-s-snowing-like-it-s-the-end-of-the-world-e920cf47060e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/joshua-malone-388547748/obito-x-its-snowing-like-its",
+      "mtimeMs": 1783530356876
     }
   ]
 }

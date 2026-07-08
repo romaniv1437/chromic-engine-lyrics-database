@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T17:10:40.347944+00:00",
+  "generatedAt": "2026-07-08T17:11:53.749442+00:00",
   "totalTracks": 787,
   "roots": [
     "lyrics-db/tracks"
@@ -10402,20 +10402,6 @@
       "sourcePath": "https://soundcloud.com/rock3t-958746914/d8phornuoczd",
       "mtimeMs": 1781882023465
     },
-    "lil peep::2008 (prod. hector vae)": {
-      "title": "2008 (prod. hector vae)",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - 2008 (prod. hector vae)",
-      "source": "Modal align_from_file",
-      "file": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.json",
-        "meta": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/2008-prod-hector-vae",
-      "mtimeMs": 1781950506517
-    },
     "gustav ahr::prada (prod. lederrick)": {
       "title": "prada (prod. lederrick)",
       "artist": "Gustav Ahr",
@@ -11061,6 +11047,20 @@
       },
       "sourcePath": "https://soundcloud.com/bladee1000/10-starr",
       "mtimeMs": 1783530640891
+    },
+    "lil peep::2008 (prod. hector vae)": {
+      "title": "2008 (prod. hector vae)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - 2008 (prod. hector vae)",
+      "source": "lrclib_plain",
+      "file": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.json",
+        "meta": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/2008-prod-hector-vae",
+      "mtimeMs": 1783530714188
     }
   },
   "tracks": [
@@ -21481,20 +21481,6 @@
       "mtimeMs": 1781882023465
     },
     {
-      "title": "2008 (prod. hector vae)",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - 2008 (prod. hector vae)",
-      "source": "Modal align_from_file",
-      "file": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.json",
-        "meta": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/2008-prod-hector-vae",
-      "mtimeMs": 1781950506517
-    },
-    {
       "title": "prada (prod. lederrick)",
       "artist": "Gustav Ahr",
       "originalTrackName": "Gustav Ahr - prada (prod. lederrick)",
@@ -22139,6 +22125,20 @@
       },
       "sourcePath": "https://soundcloud.com/bladee1000/10-starr",
       "mtimeMs": 1783530640891
+    },
+    {
+      "title": "2008 (prod. hector vae)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - 2008 (prod. hector vae)",
+      "source": "lrclib_plain",
+      "file": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.json",
+        "meta": "tracks/lil-peep-2008-prod-hector-vae-45507004371f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/2008-prod-hector-vae",
+      "mtimeMs": 1783530714188
     }
   ]
 }

@@ -7,17 +7,20 @@
       {
         "word": "Ice",
         "start": 20.6,
-        "end": 21.02
+        "end": 21.02,
+        "singer": "singer1"
       },
       {
         "word": "in",
         "start": 21.02,
-        "end": 21.3
+        "end": 21.3,
+        "singer": "singer1"
       },
       {
         "word": "your",
         "start": 21.3,
-        "end": 21.66
+        "end": 21.66,
+        "singer": "singer1"
       },
       {
         "word": "veins,",
@@ -30,22 +33,26 @@
           22.201,
           22.458,
           22.739
-        ]
+        ],
+        "singer": "singer1"
       },
       {
         "word": "blood",
         "start": 23.32,
-        "end": 23.54
+        "end": 23.54,
+        "singer": "singer1"
       },
       {
         "word": "in",
         "start": 23.679,
-        "end": 23.98
+        "end": 23.98,
+        "singer": "singer1"
       },
       {
         "word": "your",
         "start": 24.148,
-        "end": 24.26
+        "end": 24.26,
+        "singer": "singer1"
       },
       {
         "word": "brain",
@@ -53,12 +60,13 @@
         "end": 25.16,
         "char_starts": [
           24.61,
-          24.368,
-          24.535,
-          24.736,
+          24.664,
+          24.748,
+          24.849,
           24.962
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 20.6,
@@ -72,32 +80,38 @@
       {
         "word": "I",
         "start": 25.51,
-        "end": 26.06
+        "end": 26.06,
+        "singer": "singer1"
       },
       {
         "word": "feel",
         "start": 26.06,
-        "end": 26.4
+        "end": 26.4,
+        "singer": "singer1"
       },
       {
         "word": "your",
         "start": 26.4,
-        "end": 26.7
+        "end": 26.7,
+        "singer": "singer1"
       },
       {
         "word": "pain,",
         "start": 26.7,
-        "end": 27.16
+        "end": 27.16,
+        "singer": "singer1"
       },
       {
         "word": "I",
         "start": 27.23,
-        "end": 27.62
+        "end": 27.62,
+        "singer": "singer1"
       },
       {
         "word": "think",
         "start": 27.62,
-        "end": 27.86
+        "end": 27.86,
+        "singer": "singer1"
       },
       {
         "word": "we're",
@@ -105,18 +119,20 @@
         "end": 28.5,
         "char_starts": [
           28.21,
-          27.909,
-          28.008,
-          28.143,
-          28.308
+          28.24,
+          28.27,
+          28.3,
+          28.335
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "goin'",
         "start": 28.5,
         "end": 28.86,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "insane",
@@ -124,12 +140,13 @@
         "end": 29.86,
         "char_starts": [
           28.86,
-          28.913,
-          29.022,
-          29.169,
-          29.35,
-          29.56
-        ]
+          28.927,
+          29.035,
+          29.18,
+          29.358,
+          29.565
+        ],
+        "singer": "singer1"
       }
     ],
     "time": 25.16,
@@ -137,23 +154,26 @@
   },
   {
     "text": "I saw you today and I thought I should say",
-    "startTime": 30.5,
-    "endTime": 34.65,
+    "startTime": 30.54,
+    "endTime": 34.59,
     "words": [
       {
         "word": "I",
-        "start": 30.5,
-        "end": 30.6
+        "start": 30.54,
+        "end": 30.64,
+        "singer": "singer1"
       },
       {
         "word": "saw",
-        "start": 30.726,
-        "end": 31.06
+        "start": 30.72,
+        "end": 31.06,
+        "singer": "singer1"
       },
       {
         "word": "you",
         "start": 31.312,
-        "end": 31.48
+        "end": 31.48,
+        "singer": "singer1"
       },
       {
         "word": "today",
@@ -161,47 +181,54 @@
         "end": 32.62,
         "char_starts": [
           31.48,
-          31.567,
-          31.743,
-          31.984,
-          32.278
+          31.571,
+          31.746,
+          31.986,
+          32.279
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "and",
         "start": 32.62,
-        "end": 33.08
+        "end": 33.08,
+        "singer": "singer1"
       },
       {
         "word": "I",
         "start": 33.08,
-        "end": 33.36
+        "end": 33.36,
+        "singer": "singer1"
       },
       {
         "word": "thought",
         "start": 33.36,
-        "end": 33.64
+        "end": 33.64,
+        "singer": "singer2"
       },
       {
         "word": "I",
         "start": 33.832,
-        "end": 33.96
+        "end": 33.96,
+        "singer": "singer1"
       },
       {
         "word": "should",
         "start": 33.96,
-        "end": 34.24
+        "end": 34.24,
+        "singer": "singer1"
       },
       {
         "word": "say",
-        "start": 34.486,
-        "end": 34.65,
-        "spoken": true
+        "start": 34.45,
+        "end": 34.59,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 30.5,
-    "end": 34.65
+    "time": 30.54,
+    "end": 34.59
   },
   {
     "text": "That I still love you like I did back in 2008, okay",
@@ -212,52 +239,62 @@
         "word": "That",
         "start": 34.72,
         "end": 35.24,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "I",
         "start": 35.456,
-        "end": 35.6
+        "end": 35.6,
+        "singer": "singer1"
       },
       {
         "word": "still",
         "start": 35.804,
-        "end": 35.94
+        "end": 35.94,
+        "singer": "singer1"
       },
       {
         "word": "love",
         "start": 35.94,
-        "end": 36.2
+        "end": 36.2,
+        "singer": "singer2"
       },
       {
         "word": "you",
         "start": 36.38,
-        "end": 36.5
+        "end": 36.5,
+        "singer": "singer1"
       },
       {
         "word": "like",
         "start": 36.5,
-        "end": 36.9
+        "end": 36.9,
+        "singer": "singer1"
       },
       {
         "word": "I",
         "start": 36.9,
-        "end": 37.18
+        "end": 37.18,
+        "singer": "singer1"
       },
       {
         "word": "did",
         "start": 37.18,
-        "end": 37.42
+        "end": 37.42,
+        "singer": "singer2"
       },
       {
         "word": "back",
         "start": 37.696,
-        "end": 37.88
+        "end": 37.88,
+        "singer": "singer2"
       },
       {
         "word": "in",
         "start": 38.043,
-        "end": 38.34
+        "end": 38.34,
+        "singer": "singer1"
       },
       {
         "word": "2008,",
@@ -265,11 +302,12 @@
         "end": 41.32,
         "char_starts": [
           38.386,
-          38.638,
-          39.1,
-          39.654,
+          38.677,
+          39.128,
+          39.669,
           40.277
-        ]
+        ],
+        "singer": "singer1"
       },
       {
         "word": "okay",
@@ -277,10 +315,11 @@
         "end": 41.8,
         "char_starts": [
           41.32,
-          41.431,
-          41.657,
-          41.964
-        ]
+          41.404,
+          41.555,
+          41.752
+        ],
+        "singer": "singer1"
       }
     ],
     "time": 34.72,
@@ -295,18 +334,21 @@
         "word": "Girl,",
         "start": 42.42,
         "end": 42.58,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "I",
         "start": 42.58,
         "end": 42.76,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "got",
         "start": 42.83,
-        "end": 43.18
+        "end": 43.18,
+        "singer": "singer1"
       },
       {
         "word": "whatever",
@@ -321,7 +363,8 @@
           43.616,
           43.737,
           43.866
-        ]
+        ],
+        "singer": "singer1"
       },
       {
         "word": "you",
@@ -329,14 +372,16 @@
         "end": 44.6,
         "char_starts": [
           44.106,
-          44.185,
+          44.216,
           44.438
-        ]
+        ],
+        "singer": "singer1"
       },
       {
         "word": "want",
         "start": 44.763,
-        "end": 45.02
+        "end": 45.02,
+        "singer": "singer1"
       },
       {
         "word": "right",
@@ -344,12 +389,13 @@
         "end": 45.86,
         "char_starts": [
           45.37,
-          45.121,
-          45.277,
-          45.464,
+          45.417,
+          45.49,
+          45.577,
           45.675
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "here",
@@ -357,11 +403,12 @@
         "end": 46.84,
         "char_starts": [
           46.023,
-          45.978,
-          46.219,
+          46.113,
+          46.297,
           46.546
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 42.42,
@@ -376,25 +423,29 @@
         "word": "I",
         "start": 47.19,
         "end": 47.78,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "ain't",
         "start": 47.96,
         "end": 48.08,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "never",
         "start": 48.08,
         "end": 48.6,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "lettin'",
         "start": 48.6,
         "end": 49.08,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "you",
@@ -405,24 +456,28 @@
           49.191,
           49.416
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "leave,",
         "start": 49.56,
         "end": 50.14,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "my",
         "start": 50.465,
         "end": 51.02,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "dear",
         "start": 51.113,
-        "end": 51.62
+        "end": 51.62,
+        "singer": "singer1"
       }
     ],
     "time": 46.84,
@@ -436,33 +491,38 @@
       {
         "word": "I'ma",
         "start": 51.74,
-        "end": 53,
+        "end": 53.0,
         "char_starts": [
           51.74,
           51.881,
           52.168,
           52.559
-        ]
+        ],
+        "singer": "singer1"
       },
       {
         "word": "tie",
-        "start": 53,
-        "end": 53.4
+        "start": 53.0,
+        "end": 53.4,
+        "singer": "singer1"
       },
       {
         "word": "you",
         "start": 53.4,
-        "end": 53.84
+        "end": 53.84,
+        "singer": "singer1"
       },
       {
         "word": "up,",
         "start": 53.84,
-        "end": 54.16
+        "end": 54.16,
+        "singer": "singer2"
       },
       {
         "word": "and",
         "start": 54.323,
-        "end": 54.52
+        "end": 54.52,
+        "singer": "singer1"
       },
       {
         "word": "I'ma",
@@ -470,15 +530,17 @@
         "end": 55.12,
         "char_starts": [
           54.87,
-          54.592,
-          54.74,
-          54.94
-        ]
+          54.9,
+          54.93,
+          54.963
+        ],
+        "singer": "singer1"
       },
       {
         "word": "lock",
         "start": 55.12,
-        "end": 55.4
+        "end": 55.4,
+        "singer": "singer1"
       },
       {
         "word": "you",
@@ -489,7 +551,8 @@
           55.525,
           55.778
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "away",
@@ -500,7 +563,8 @@
           56.044,
           56.255,
           56.542
-        ]
+        ],
+        "singer": "singer1"
       }
     ],
     "time": 51.74,
@@ -517,51 +581,60 @@
         "end": 57.92,
         "char_starts": [
           57.15,
-          57.059,
+          57.293,
           57.584
-        ]
+        ],
+        "singer": "singer1"
       },
       {
         "word": "don't",
         "start": 58.088,
-        "end": 58.2
+        "end": 58.2,
+        "singer": "singer2"
       },
       {
         "word": "ever",
         "start": 58.2,
-        "end": 58.8
+        "end": 58.8,
+        "singer": "singer1"
       },
       {
         "word": "listen",
         "start": 58.8,
-        "end": 59.38
+        "end": 59.38,
+        "singer": "singer1"
       },
       {
         "word": "to",
         "start": 59.38,
         "end": 59.82,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "the",
         "start": 59.82,
         "end": 60.12,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "shit",
         "start": 60.12,
-        "end": 60.38
+        "end": 60.38,
+        "singer": "singer1"
       },
       {
         "word": "that",
         "start": 60.62,
-        "end": 60.78
+        "end": 60.78,
+        "singer": "singer1"
       },
       {
         "word": "I",
         "start": 60.78,
-        "end": 61.22
+        "end": 61.22,
+        "singer": "singer1"
       },
       {
         "word": "say",
@@ -569,10 +642,11 @@
         "end": 61.82,
         "char_starts": [
           61.313,
-          61.359,
+          61.421,
           61.64
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 56.8,
@@ -589,40 +663,46 @@
         "end": 63.42,
         "char_starts": [
           62.33,
-          62.141,
-          62.469,
-          62.916
+          62.439,
+          62.643,
+          62.921
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "make",
         "start": 63.42,
         "end": 63.66,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "you",
         "start": 63.66,
         "end": 64.04,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "listen",
         "start": 64.203,
         "end": 64.62,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "to",
         "start": 64.62,
         "end": 64.96,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "me",
         "start": 65.03,
-        "end": 67.04
+        "end": 67.04,
+        "singer": "singer2"
       }
     ],
     "time": 61.98,
@@ -639,17 +719,19 @@
         "end": 68.42,
         "char_starts": [
           67.39,
-          67.195,
-          67.509,
-          67.937
+          67.493,
+          67.683,
+          67.942
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "make",
         "start": 68.42,
         "end": 68.72,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "you",
@@ -660,24 +742,28 @@
           68.835,
           69.07
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "listen",
         "start": 69.22,
         "end": 69.78,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "to",
         "start": 69.78,
-        "end": 70.22
+        "end": 70.22,
+        "singer": "singer2"
       },
       {
         "word": "me",
         "start": 70.22,
         "end": 70.32,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       }
     ],
     "time": 67.04,
@@ -686,49 +772,56 @@
   {
     "text": "Smokin' on some loud",
     "startTime": 73.15,
-    "endTime": 74.81,
+    "endTime": 74.8,
     "words": [
       {
         "word": "Smokin'",
         "start": 73.36,
         "end": 73.5,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "on",
         "start": 73.5,
         "end": 73.9,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "some",
         "start": 74.176,
         "end": 74.36,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "loud",
         "start": 74.36,
-        "end": 74.81
+        "end": 74.8,
+        "singer": "singer2"
       }
     ],
     "time": 73.15,
-    "end": 74.81
+    "end": 74.8
   },
   {
     "text": "Out the motherfucking pound",
     "startTime": 75.1,
-    "endTime": 76.96,
+    "endTime": 76.92,
     "words": [
       {
         "word": "Out",
         "start": 75.1,
-        "end": 75.22
+        "end": 75.22,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "the",
         "start": 75.383,
-        "end": 75.52
+        "end": 75.52,
+        "singer": "singer2"
       },
       {
         "word": "motherfucking",
@@ -736,30 +829,30 @@
         "end": 76.64,
         "char_starts": [
           75.87,
-          75.551,
-          75.598,
-          75.654,
-          75.718,
-          75.788,
-          75.863,
-          75.942,
-          76.025,
-          76.112,
-          76.203,
-          76.297,
-          76.394
+          75.9,
+          75.93,
+          75.963,
+          76.002,
+          76.044,
+          76.089,
+          76.135,
+          76.184,
+          76.235,
+          76.288,
+          76.344,
+          76.401
         ],
-        "spoken": true
+        "singer": "singer2"
       },
       {
         "word": "pound",
-        "start": 76.686,
-        "end": 76.96,
-        "spoken": true
+        "start": 76.64,
+        "end": 76.92,
+        "singer": "singer2"
       }
     ],
     "time": 75.1,
-    "end": 76.96
+    "end": 76.92
   },
   {
     "text": "I'ma give ya bitch an ounce for free",
@@ -772,35 +865,41 @@
         "end": 78.08,
         "char_starts": [
           77.61,
-          77.359,
-          77.56,
-          77.834
-        ]
+          77.657,
+          77.734,
+          77.839
+        ],
+        "singer": "singer2"
       },
       {
         "word": "give",
         "start": 78.08,
-        "end": 78.3
+        "end": 78.3,
+        "singer": "singer2"
       },
       {
         "word": "ya",
         "start": 78.3,
-        "end": 78.76
+        "end": 78.76,
+        "singer": "singer2"
       },
       {
         "word": "bitch",
         "start": 78.76,
-        "end": 79.06
+        "end": 79.06,
+        "singer": "singer2"
       },
       {
         "word": "an",
         "start": 79.06,
-        "end": 79.46
+        "end": 79.46,
+        "singer": "singer2"
       },
       {
         "word": "ounce",
         "start": 79.46,
-        "end": 79.88
+        "end": 79.88,
+        "singer": "singer2"
       },
       {
         "word": "for",
@@ -808,14 +907,16 @@
         "end": 80.44,
         "char_starts": [
           80.216,
-          80.051,
+          80.256,
           80.317
-        ]
+        ],
+        "singer": "singer2"
       },
       {
         "word": "free",
         "start": 80.44,
-        "end": 81.04
+        "end": 81.04,
+        "singer": "singer2"
       }
     ],
     "time": 77.26,

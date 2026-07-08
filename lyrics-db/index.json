@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T17:21:54.019540+00:00",
+  "generatedAt": "2026-07-08T17:23:38.680314+00:00",
   "totalTracks": 787,
   "roots": [
     "lyrics-db/tracks"
@@ -10754,20 +10754,6 @@
       "sourcePath": "https://soundcloud.com/zapte_peep/lil-peep-mud-on-my-gucci",
       "mtimeMs": 1783528183921
     },
-    "what it is::what it is - doechii (faster & higher).m4a": {
-      "title": "What It Is - Doechii (Faster & Higher).m4a",
-      "artist": "What It Is",
-      "originalTrackName": "What It Is - What It Is - Doechii (Faster & Higher).m4a",
-      "source": "syncedlyrics",
-      "file": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
-      "files": {
-        "lyrics": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
-        "meta": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
-      "mtimeMs": 1783528260713
-    },
     "phan 1600::lil uzi vert - heavy (no open)": {
       "title": "Lil Uzi Vert - Heavy (No Open)",
       "artist": "Phan 1600",
@@ -11061,6 +11047,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/right-here-w-horse-head-prod-nedarb",
       "mtimeMs": 1783531314481
+    },
+    "what it is::what it is - doechii (faster & higher).m4a": {
+      "title": "What It Is - Doechii (Faster & Higher).m4a",
+      "artist": "What It Is",
+      "originalTrackName": "What It Is - What It Is - Doechii (Faster & Higher).m4a",
+      "source": "syncedlyrics",
+      "file": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
+      "files": {
+        "lyrics": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
+        "meta": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
+      "mtimeMs": 1783531420327
     }
   },
   "tracks": [
@@ -21833,20 +21833,6 @@
       "mtimeMs": 1783528183921
     },
     {
-      "title": "What It Is - Doechii (Faster & Higher).m4a",
-      "artist": "What It Is",
-      "originalTrackName": "What It Is - What It Is - Doechii (Faster & Higher).m4a",
-      "source": "syncedlyrics",
-      "file": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
-      "files": {
-        "lyrics": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
-        "meta": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
-      "mtimeMs": 1783528260713
-    },
-    {
       "title": "Lil Uzi Vert - Heavy (No Open)",
       "artist": "Phan 1600",
       "originalTrackName": "Phan 1600 - Lil Uzi Vert - Heavy (No Open)",
@@ -22139,6 +22125,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/right-here-w-horse-head-prod-nedarb",
       "mtimeMs": 1783531314481
+    },
+    {
+      "title": "What It Is - Doechii (Faster & Higher).m4a",
+      "artist": "What It Is",
+      "originalTrackName": "What It Is - What It Is - Doechii (Faster & Higher).m4a",
+      "source": "syncedlyrics",
+      "file": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
+      "files": {
+        "lyrics": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
+        "meta": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
+      "mtimeMs": 1783531420327
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T20:26:29.336397+00:00",
+  "generatedAt": "2026-07-08T20:28:06.312430+00:00",
   "totalTracks": 788,
   "roots": [
     "lyrics-db/tracks"
@@ -10908,20 +10908,6 @@
       "sourcePath": "https://soundcloud.com/lil_peep/right-here-w-horse-head-prod-nedarb",
       "mtimeMs": 1783531314481
     },
-    "☆lil peep☆::boba on the rocks": {
-      "title": "boba on the rocks",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - boba on the rocks",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
-        "meta": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/45116ca6-d610-4d61-bc1f-8bf9ec6c171e",
-      "mtimeMs": 1783531529867
-    },
     "phan 1600::lil uzi vert - heavy (no open)": {
       "title": "Lil Uzi Vert - Heavy (No Open)",
       "artist": "Phan 1600",
@@ -11075,6 +11061,20 @@
       },
       "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
       "mtimeMs": 1783542389823
+    },
+    "☆lil peep☆::boba on the rocks": {
+      "title": "boba on the rocks",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - boba on the rocks",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
+        "meta": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/45116ca6-d610-4d61-bc1f-8bf9ec6c171e",
+      "mtimeMs": 1783542486787
     }
   },
   "tracks": [
@@ -22001,20 +22001,6 @@
       "mtimeMs": 1783531314481
     },
     {
-      "title": "boba on the rocks",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - boba on the rocks",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
-        "meta": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/45116ca6-d610-4d61-bc1f-8bf9ec6c171e",
-      "mtimeMs": 1783531529867
-    },
-    {
       "title": "Lil Uzi Vert - Heavy (No Open)",
       "artist": "Phan 1600",
       "originalTrackName": "Phan 1600 - Lil Uzi Vert - Heavy (No Open)",
@@ -22167,6 +22153,20 @@
       },
       "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
       "mtimeMs": 1783542389823
+    },
+    {
+      "title": "boba on the rocks",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - boba on the rocks",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.json",
+        "meta": "tracks/lil-peep-boba-on-the-rocks-9dfab6987779.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/45116ca6-d610-4d61-bc1f-8bf9ec6c171e",
+      "mtimeMs": 1783542486787
     }
   ]
 }

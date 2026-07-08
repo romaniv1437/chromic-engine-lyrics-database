@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T20:19:21.298331+00:00",
+  "generatedAt": "2026-07-08T20:20:57.792522+00:00",
   "totalTracks": 788,
   "roots": [
     "lyrics-db/tracks"
@@ -10852,20 +10852,6 @@
       "sourcePath": "https://soundcloud.com/caiman-2-68369149/eren-yaeger-its-snowing-like",
       "mtimeMs": 1783530471570
     },
-    "lil peep::witchblades w/ lil tracy": {
-      "title": "witchblades w/ lil tracy",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - witchblades w/ lil tracy",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
-        "meta": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
-      "mtimeMs": 1783530495438
-    },
     "gustav ahr::gab3 x lil peep - hollywood dreaming (prod. by money posse)": {
       "title": "Gab3 x Lil Peep - Hollywood Dreaming (Prod. by Money Posse)",
       "artist": "Gustav Ahr",
@@ -11075,6 +11061,20 @@
       },
       "sourcePath": "https://soundcloud.com/1keith/lil-peep-pray-i-die",
       "mtimeMs": 1783541961771
+    },
+    "lil peep::witchblades w/ lil tracy": {
+      "title": "witchblades w/ lil tracy",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - witchblades w/ lil tracy",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+        "meta": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
+      "mtimeMs": 1783542058237
     }
   },
   "tracks": [
@@ -21945,20 +21945,6 @@
       "mtimeMs": 1783530471570
     },
     {
-      "title": "witchblades w/ lil tracy",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - witchblades w/ lil tracy",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
-        "meta": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
-      "mtimeMs": 1783530495438
-    },
-    {
       "title": "Gab3 x Lil Peep - Hollywood Dreaming (Prod. by Money Posse)",
       "artist": "Gustav Ahr",
       "originalTrackName": "Gustav Ahr - Gab3 x Lil Peep - Hollywood Dreaming (Prod. by Money Posse)",
@@ -22167,6 +22153,20 @@
       },
       "sourcePath": "https://soundcloud.com/1keith/lil-peep-pray-i-die",
       "mtimeMs": 1783541961771
+    },
+    {
+      "title": "witchblades w/ lil tracy",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - witchblades w/ lil tracy",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+        "meta": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
+      "mtimeMs": 1783542058237
     }
   ]
 }

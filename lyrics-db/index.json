@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-08T20:34:24.793499+00:00",
-  "totalTracks": 788,
+  "generatedAt": "2026-07-08T20:55:33.425704+00:00",
+  "totalTracks": 789,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11075,6 +11075,20 @@
       },
       "sourcePath": "https://soundcloud.com/abidinkesknn/addiction-ultra-slowed",
       "mtimeMs": 1783542865294
+    },
+    "dontkillme::lida - ради бога. (slowed version, 2024)": {
+      "title": "LIDA - Ради бога. (slowed version, 2024)",
+      "artist": "DontKillMe",
+      "originalTrackName": "DontKillMe - LIDA - Ради бога. (slowed version, 2024)",
+      "source": "syncedlyrics",
+      "file": "tracks/dontkillme-lida-slowed-version-2024-1cc69e71dc92.json",
+      "files": {
+        "lyrics": "tracks/dontkillme-lida-slowed-version-2024-1cc69e71dc92.json",
+        "meta": "tracks/dontkillme-lida-slowed-version-2024-1cc69e71dc92.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/dontkillme_ru/lida-radi-boga-slowed-version-2024",
+      "mtimeMs": 1783544134232
     }
   },
   "tracks": [
@@ -22167,6 +22181,20 @@
       },
       "sourcePath": "https://soundcloud.com/abidinkesknn/addiction-ultra-slowed",
       "mtimeMs": 1783542865294
+    },
+    {
+      "title": "LIDA - Ради бога. (slowed version, 2024)",
+      "artist": "DontKillMe",
+      "originalTrackName": "DontKillMe - LIDA - Ради бога. (slowed version, 2024)",
+      "source": "syncedlyrics",
+      "file": "tracks/dontkillme-lida-slowed-version-2024-1cc69e71dc92.json",
+      "files": {
+        "lyrics": "tracks/dontkillme-lida-slowed-version-2024-1cc69e71dc92.json",
+        "meta": "tracks/dontkillme-lida-slowed-version-2024-1cc69e71dc92.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/dontkillme_ru/lida-radi-boga-slowed-version-2024",
+      "mtimeMs": 1783544134232
     }
   ]
 }

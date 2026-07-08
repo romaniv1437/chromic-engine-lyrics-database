@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T17:14:38.585402+00:00",
+  "generatedAt": "2026-07-08T17:15:57.020131+00:00",
   "totalTracks": 787,
   "roots": [
     "lyrics-db/tracks"
@@ -10782,20 +10782,6 @@
       "sourcePath": "https://soundcloud.com/1keith/lil-peep-pray-i-die",
       "mtimeMs": 1783528033055
     },
-    "bladee::be nice to me": {
-      "title": "BE NICE TO ME",
-      "artist": "Bladee",
-      "originalTrackName": "Bladee - BE NICE TO ME",
-      "source": "lrclib_plain",
-      "file": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
-      "files": {
-        "lyrics": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
-        "meta": "tracks/bladee-be-nice-to-me-d7442d0c219c.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/bladee1000/4-34-edit",
-      "mtimeMs": 1783528104937
-    },
     "lil peep::lil peep - mud on my gucci": {
       "title": "Lil Peep - Mud On My Gucci",
       "artist": "Lil Peep",
@@ -11061,6 +11047,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
       "mtimeMs": 1783530879109
+    },
+    "bladee::be nice to me": {
+      "title": "BE NICE TO ME",
+      "artist": "Bladee",
+      "originalTrackName": "Bladee - BE NICE TO ME",
+      "source": "lrclib_plain",
+      "file": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
+      "files": {
+        "lyrics": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
+        "meta": "tracks/bladee-be-nice-to-me-d7442d0c219c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bladee1000/4-34-edit",
+      "mtimeMs": 1783530957517
     }
   },
   "tracks": [
@@ -21861,20 +21861,6 @@
       "mtimeMs": 1783528033055
     },
     {
-      "title": "BE NICE TO ME",
-      "artist": "Bladee",
-      "originalTrackName": "Bladee - BE NICE TO ME",
-      "source": "lrclib_plain",
-      "file": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
-      "files": {
-        "lyrics": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
-        "meta": "tracks/bladee-be-nice-to-me-d7442d0c219c.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/bladee1000/4-34-edit",
-      "mtimeMs": 1783528104937
-    },
-    {
       "title": "Lil Peep - Mud On My Gucci",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - Lil Peep - Mud On My Gucci",
@@ -22139,6 +22125,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
       "mtimeMs": 1783530879109
+    },
+    {
+      "title": "BE NICE TO ME",
+      "artist": "Bladee",
+      "originalTrackName": "Bladee - BE NICE TO ME",
+      "source": "lrclib_plain",
+      "file": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
+      "files": {
+        "lyrics": "tracks/bladee-be-nice-to-me-d7442d0c219c.json",
+        "meta": "tracks/bladee-be-nice-to-me-d7442d0c219c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bladee1000/4-34-edit",
+      "mtimeMs": 1783530957517
     }
   ]
 }

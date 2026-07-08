@@ -2,2392 +2,1565 @@
   {
     "text": "●",
     "startTime": 0.3,
-    "endTime": 23.62,
+    "endTime": 32.96,
     "words": [],
     "type": "vocal_cue",
     "time": 0.3,
-    "end": 23.62
+    "end": 32.96
   },
   {
     "text": "Yeah, 1600, ya, Lil Uzi Vert",
-    "startTime": 23.62,
-    "endTime": 28.06,
+    "startTime": 32.96,
+    "endTime": 35.371,
     "words": [
       {
         "word": "Yeah,",
-        "start": 23.62,
-        "end": 24.1,
-        "spoken": true
+        "start": 33.03,
+        "end": 33.52,
+        "whisper": true
       },
       {
         "word": "1600,",
-        "start": 24.11,
-        "end": 25.6,
+        "start": 33.53,
+        "end": 34.27,
         "char_starts": [
-          24.11,
-          24.259,
-          24.49,
-          24.767,
-          25.079
+          33.53,
+          33.619,
+          33.756,
+          33.921,
+          34.107
         ],
         "spoken": true
       },
       {
         "word": "ya,",
-        "start": 25.61,
-        "end": 26.725,
-        "char_starts": [
-          25.61,
-          25.951,
-          26.48
-        ],
+        "start": 34.28,
+        "end": 34.72,
         "spoken": true
       },
       {
         "word": "Lil",
-        "start": 27.1,
-        "end": 27.44,
+        "start": 34.73,
+        "end": 35.14,
         "spoken": true
       },
       {
         "word": "Uzi",
-        "start": 27.45,
-        "end": 27.706,
+        "start": 35.15,
+        "end": 35.239,
         "spoken": true
       },
       {
         "word": "Vert",
-        "start": 27.716,
-        "end": 28.06,
+        "start": 35.249,
+        "end": 35.371,
         "spoken": true
       }
     ],
-    "time": 23.62,
-    "end": 28.06
+    "time": 32.96,
+    "end": 35.371
   },
   {
     "text": "We goin' all the way up (Yeah)",
-    "startTime": 28.07,
-    "endTime": 30.2,
+    "startTime": 35.381,
+    "endTime": 36.328,
     "words": [
       {
         "word": "We",
-        "start": 28.07,
-        "end": 28.24,
-        "spoken": true
+        "start": 35.381,
+        "end": 35.436
       },
       {
         "word": "goin'",
-        "start": 28.25,
-        "end": 28.94,
-        "char_starts": [
-          28.25,
-          28.333,
-          28.461,
-          28.615,
-          28.788
-        ],
+        "start": 35.446,
+        "end": 35.601,
         "spoken": true
       },
       {
         "word": "all",
-        "start": 28.95,
-        "end": 29.28,
+        "start": 35.611,
+        "end": 35.7,
         "spoken": true
       },
       {
         "word": "the",
-        "start": 29.56,
-        "end": 29.64,
+        "start": 35.71,
+        "end": 35.86,
         "spoken": true
       },
       {
         "word": "way",
-        "start": 29.65,
-        "end": 29.8,
+        "start": 35.87,
+        "end": 35.988,
         "spoken": true
       },
       {
         "word": "up",
-        "start": 29.85,
-        "end": 30,
+        "start": 35.998,
+        "end": 36.072,
         "spoken": true
       },
       {
         "word": "(Yeah)",
-        "start": 30.05,
-        "end": 30.2,
-        "char_starts": [
-          34.916,
-          35.026,
-          35.197,
-          35.402,
-          35.633,
-          35.884
-        ],
+        "start": 36.082,
+        "end": 36.328,
         "adlib": true,
         "spoken": true
       }
     ],
-    "time": 28.07,
-    "end": 30.2
+    "time": 35.381,
+    "end": 36.328
   },
   {
-    "text": "●",
-    "startTime": 30.5,
-    "endTime": 52.78,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 30.5,
-    "end": 52.78
-  },
-  {
-    "text": "Might as well turn this bitch",
-    "startTime": 52.78,
-    "endTime": 53.96,
+    "text": "Might as",
+    "startTime": 36.338,
+    "endTime": 36.66,
     "words": [
       {
         "word": "Might",
-        "start": 52.78,
-        "end": 52.93,
-        "char_starts": [
-          36.416,
-          36.565,
-          36.796,
-          37.073,
-          37.384
-        ],
+        "start": 36.338,
+        "end": 36.54,
         "spoken": true
       },
       {
         "word": "as",
-        "start": 52.98,
-        "end": 53.13,
+        "start": 36.55,
+        "end": 36.66,
         "spoken": true
-      },
+      }
+    ],
+    "time": 36.338,
+    "end": 36.66
+  },
+  {
+    "text": "●",
+    "startTime": 36.96,
+    "endTime": 43.38,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 36.96,
+    "end": 43.38
+  },
+  {
+    "text": "well turn this",
+    "startTime": 43.38,
+    "endTime": 46.44,
+    "words": [
       {
         "word": "well",
-        "start": 53.18,
-        "end": 53.33,
-        "char_starts": [
-          39.13,
-          39.313,
-          39.596,
-          39.936
-        ],
+        "start": 43.38,
+        "end": 43.44,
         "spoken": true
       },
       {
         "word": "turn",
-        "start": 53.38,
-        "end": 53.53,
+        "start": 43.45,
+        "end": 44.94,
         "char_starts": [
-          40.38,
-          40.563,
-          40.846,
-          41.186
+          43.45,
+          43.67,
+          44.01,
+          44.419
         ],
         "spoken": true
       },
       {
         "word": "this",
-        "start": 53.58,
-        "end": 53.73,
+        "start": 44.95,
+        "end": 46.44,
         "char_starts": [
-          41.63,
-          41.805,
-          42.077,
-          42.402
+          44.95,
+          45.17,
+          45.51,
+          45.919
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 43.38,
+    "end": 46.44
+  },
+  {
+    "text": "●",
+    "startTime": 46.74,
+    "endTime": 53.78,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 46.74,
+    "end": 53.78
+  },
+  {
+    "text": "bitch",
+    "startTime": 53.78,
+    "endTime": 54.0,
+    "words": [
+      {
+        "word": "bitch",
+        "start": 53.78,
+        "end": 54.0,
+        "spoken": true
+      }
+    ],
+    "time": 53.78,
+    "end": 54.0
+  },
+  {
+    "text": "●",
+    "startTime": 54.3,
+    "endTime": 66.42,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 54.3,
+    "end": 66.42
+  },
+  {
+    "text": "all the way up",
+    "startTime": 66.42,
+    "endTime": 67.3,
+    "words": [
+      {
+        "word": "all",
+        "start": 66.42,
+        "end": 66.74,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 66.75,
+        "end": 66.9,
+        "spoken": true
+      },
+      {
+        "word": "way",
+        "start": 66.95,
+        "end": 67.1,
+        "char_starts": [
+          79.45,
+          79.769,
+          80.418
         ],
         "spoken": true
       },
       {
-        "word": "bitch",
-        "start": 53.78,
-        "end": 53.96,
+        "word": "up",
+        "start": 67.15,
+        "end": 67.3,
         "spoken": true
       }
     ],
-    "time": 52.78,
-    "end": 53.96
-  },
-  {
-    "text": "all",
-    "startTime": 57.88,
-    "endTime": 58,
-    "words": [
-      {
-        "word": "all",
-        "start": 57.88,
-        "end": 58,
-        "spoken": true
-      }
-    ],
-    "time": 57.88,
-    "end": 58
+    "time": 66.42,
+    "end": 67.3
   },
   {
     "text": "●",
-    "startTime": 58.3,
-    "endTime": 65.3,
+    "startTime": 67.6,
+    "endTime": 94.76,
     "words": [],
     "type": "vocal_cue",
-    "time": 58.3,
-    "end": 65.3
-  },
-  {
-    "text": "the way up",
-    "startTime": 65.3,
-    "endTime": 65.69,
-    "words": [
-      {
-        "word": "the",
-        "start": 65.3,
-        "end": 65.5
-      },
-      {
-        "word": "way",
-        "start": 65.51,
-        "end": 65.614,
-        "spoken": true
-      },
-      {
-        "word": "up",
-        "start": 65.624,
-        "end": 65.69,
-        "spoken": true
-      }
-    ],
-    "time": 65.3,
-    "end": 65.69
+    "time": 67.6,
+    "end": 94.76
   },
   {
     "text": "(Ayy, Brandon, man, why you do that?)",
-    "startTime": 65.7,
-    "endTime": 69.1,
+    "startTime": 94.76,
+    "endTime": 100.24,
     "words": [
       {
         "word": "(Ayy,",
-        "start": 65.7,
-        "end": 65.88,
+        "start": 94.85,
+        "end": 94.91,
         "adlib": true,
-        "spoken": true
+        "whisper": true
       },
       {
         "word": "Brandon,",
-        "start": 65.89,
-        "end": 66.14,
-        "adlib": true,
-        "spoken": true
+        "start": 94.96,
+        "end": 95.11,
+        "char_starts": [
+          88.11,
+          88.18,
+          88.288,
+          88.419,
+          88.565,
+          88.725,
+          88.897,
+          89.078
+        ],
+        "adlib": true
       },
       {
         "word": "man,",
-        "start": 67.32,
-        "end": 67.44,
+        "start": 95.16,
+        "end": 95.32,
         "adlib": true,
-        "spoken": true
+        "whisper": true
       },
       {
         "word": "why",
-        "start": 67.45,
-        "end": 67.6,
-        "adlib": true,
-        "spoken": true
+        "start": 95.68,
+        "end": 96.82,
+        "char_starts": [
+          95.68,
+          95.884,
+          96.298
+        ],
+        "adlib": true
       },
       {
         "word": "you",
-        "start": 67.61,
-        "end": 67.76,
+        "start": 96.83,
+        "end": 98.32,
+        "char_starts": [
+          96.83,
+          97.149,
+          97.798
+        ],
         "adlib": true,
         "spoken": true
       },
       {
         "word": "do",
-        "start": 67.98,
-        "end": 68.18,
+        "start": 99.08,
+        "end": 99.22,
         "adlib": true,
-        "whisper": true
+        "spoken": true
       },
       {
         "word": "that?)",
-        "start": 68.895,
-        "end": 69.1,
+        "start": 99.94,
+        "end": 100.24,
         "adlib": true,
-        "whisper": true
-      }
-    ],
-    "time": 65.7,
-    "end": 69.1
-  },
-  {
-    "text": "Yeah",
-    "startTime": 72.12,
-    "endTime": 72.66,
-    "words": [
-      {
-        "word": "Yeah",
-        "start": 72.12,
-        "end": 72.66,
         "spoken": true
       }
     ],
-    "time": 72.12,
-    "end": 72.66
+    "time": 94.76,
+    "end": 100.24
   },
   {
-    "text": "●",
-    "startTime": 72.96,
-    "endTime": 82.36,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 72.96,
-    "end": 82.36
+    "text": "Yeah",
+    "startTime": 100.25,
+    "endTime": 100.5,
+    "words": [
+      {
+        "word": "Yeah",
+        "start": 100.25,
+        "end": 100.5,
+        "spoken": true
+      }
+    ],
+    "time": 100.25,
+    "end": 100.5
   },
   {
-    "text": "I'm on the",
-    "startTime": 82.36,
-    "endTime": 82.96,
+    "text": "I'm on the block with that heavy, yeah",
+    "startTime": 103.36,
+    "endTime": 105.853,
     "words": [
       {
         "word": "I'm",
-        "start": 82.36,
-        "end": 82.51,
+        "start": 103.36,
+        "end": 103.51,
         "spoken": true
       },
       {
         "word": "on",
-        "start": 82.56,
-        "end": 82.76,
+        "start": 103.56,
+        "end": 104.0,
         "spoken": true
       },
       {
         "word": "the",
-        "start": 82.77,
-        "end": 82.96,
+        "start": 104.01,
+        "end": 104.08,
         "spoken": true
-      }
-    ],
-    "time": 82.36,
-    "end": 82.96
-  },
-  {
-    "text": "●",
-    "startTime": 83.26,
-    "endTime": 89.84,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 83.26,
-    "end": 89.84
-  },
-  {
-    "text": "block with that heavy, yeah",
-    "startTime": 89.84,
-    "endTime": 90.57,
-    "words": [
+      },
       {
         "word": "block",
-        "start": 89.84,
-        "end": 89.96,
-        "whisper": true
+        "start": 104.09,
+        "end": 104.291,
+        "spoken": true
       },
       {
         "word": "with",
-        "start": 90.06,
-        "end": 90.12,
-        "whisper": true
+        "start": 104.301,
+        "end": 104.46,
+        "spoken": true
       },
       {
         "word": "that",
-        "start": 90.22,
-        "end": 90.28
+        "start": 104.47,
+        "end": 104.68,
+        "spoken": true
       },
       {
         "word": "heavy,",
-        "start": 90.29,
-        "end": 90.52
+        "start": 105.6,
+        "end": 105.76,
+        "spoken": true
       },
       {
         "word": "yeah",
-        "start": 90.53,
-        "end": 90.57
+        "start": 105.77,
+        "end": 105.853,
+        "spoken": true
       }
     ],
-    "time": 89.84,
-    "end": 90.57
+    "time": 103.36,
+    "end": 105.853
   },
   {
     "text": "On the block with that heavy",
-    "startTime": 90.58,
-    "endTime": 92.7,
+    "startTime": 105.863,
+    "endTime": 108.48,
     "words": [
       {
         "word": "On",
-        "start": 90.719,
-        "end": 91.48,
-        "whisper": true
+        "start": 105.863,
+        "end": 105.903
       },
       {
         "word": "the",
-        "start": 91.604,
-        "end": 91.68,
-        "whisper": true
+        "start": 105.913,
+        "end": 106.14
       },
       {
         "word": "block",
-        "start": 91.69,
-        "end": 91.86
+        "start": 106.15,
+        "end": 106.34,
+        "whisper": true
       },
       {
         "word": "with",
-        "start": 91.87,
-        "end": 91.9
+        "start": 106.488,
+        "end": 106.58,
+        "whisper": true
       },
       {
         "word": "that",
-        "start": 91.91,
-        "end": 92.1
+        "start": 106.884,
+        "end": 106.98,
+        "whisper": true
       },
       {
         "word": "heavy",
-        "start": 92.156,
-        "end": 92.7
+        "start": 107.34,
+        "end": 108.48,
+        "char_starts": [
+          107.34,
+          107.407,
+          107.544,
+          107.73,
+          107.959
+        ],
+        "sung": true,
+        "stretch": true
       }
     ],
-    "time": 90.58,
-    "end": 92.7
-  },
-  {
-    "text": "●",
-    "startTime": 93,
-    "endTime": 103.14,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 93,
-    "end": 103.14
+    "time": 105.863,
+    "end": 108.48
   },
   {
     "text": "Watch out for cops, they pull up in them Chevys",
-    "startTime": 103.14,
-    "endTime": 106.15,
+    "startTime": 108.49,
+    "endTime": 113.84,
     "words": [
       {
         "word": "Watch",
-        "start": 103.14,
-        "end": 103.29,
+        "start": 108.49,
+        "end": 109.98,
+        "char_starts": [
+          108.49,
+          108.639,
+          108.87,
+          109.147,
+          109.459
+        ],
         "spoken": true
       },
       {
         "word": "out",
-        "start": 103.34,
-        "end": 103.49,
+        "start": 110.62,
+        "end": 110.8,
         "spoken": true
       },
       {
         "word": "for",
-        "start": 103.54,
-        "end": 103.69,
+        "start": 110.81,
+        "end": 112.3,
+        "char_starts": [
+          110.81,
+          111.19,
+          111.778
+        ],
         "spoken": true
       },
       {
         "word": "cops,",
-        "start": 103.74,
-        "end": 103.89,
+        "start": 113.3,
+        "end": 113.54,
         "spoken": true
       },
       {
         "word": "they",
-        "start": 103.94,
-        "end": 104.06,
-        "spoken": true
+        "start": 113.55,
+        "end": 113.59
       },
       {
         "word": "pull",
-        "start": 104.07,
-        "end": 104.567,
-        "spoken": true
+        "start": 113.6,
+        "end": 113.64
       },
       {
         "word": "up",
-        "start": 104.577,
-        "end": 104.82,
-        "spoken": true
+        "start": 113.65,
+        "end": 113.69
       },
       {
         "word": "in",
-        "start": 104.83,
-        "end": 105.2,
-        "spoken": true
+        "start": 113.7,
+        "end": 113.74
       },
       {
         "word": "them",
-        "start": 105.92,
-        "end": 106.1,
-        "spoken": true
+        "start": 113.75,
+        "end": 113.79
       },
       {
         "word": "Chevys",
-        "start": 106.11,
-        "end": 106.15
+        "start": 113.8,
+        "end": 113.84
       }
     ],
-    "time": 103.14,
-    "end": 106.15
-  },
-  {
-    "text": "●",
-    "startTime": 106.45,
-    "endTime": 112.66,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 106.45,
-    "end": 112.66
+    "time": 108.49,
+    "end": 113.84
   },
   {
     "text": "Whip up the crock, my main trap, her name Betty",
-    "startTime": 112.66,
-    "endTime": 114.12,
+    "startTime": 113.85,
+    "endTime": 114.82,
     "words": [
       {
         "word": "Whip",
-        "start": 112.66,
-        "end": 112.81,
-        "spoken": true
+        "start": 113.85,
+        "end": 113.89
       },
       {
         "word": "up",
-        "start": 112.86,
-        "end": 113.01,
-        "spoken": true
+        "start": 113.9,
+        "end": 113.94
       },
       {
         "word": "the",
-        "start": 113.06,
-        "end": 113.21,
+        "start": 113.95,
+        "end": 114.05,
         "spoken": true
       },
       {
         "word": "crock,",
-        "start": 113.26,
-        "end": 113.41,
-        "char_starts": [
-          106.59,
-          106.7,
-          106.871,
-          107.076,
-          107.307,
-          107.558
-        ],
+        "start": 114.06,
+        "end": 114.16,
         "spoken": true
       },
       {
         "word": "my",
-        "start": 113.46,
-        "end": 113.61,
-        "char_starts": [
-          108.09,
-          109.058
-        ],
+        "start": 114.17,
+        "end": 114.27,
         "spoken": true
       },
       {
         "word": "main",
-        "start": 113.66,
-        "end": 113.92,
+        "start": 114.28,
+        "end": 114.38,
         "spoken": true
       },
       {
         "word": "trap,",
-        "start": 113.93,
-        "end": 113.97
+        "start": 114.39,
+        "end": 114.49,
+        "spoken": true
       },
       {
         "word": "her",
-        "start": 113.98,
-        "end": 114.02
+        "start": 114.5,
+        "end": 114.6,
+        "spoken": true
       },
       {
         "word": "name",
-        "start": 114.03,
-        "end": 114.07
+        "start": 114.61,
+        "end": 114.71,
+        "whisper": true
       },
       {
         "word": "Betty",
-        "start": 114.08,
-        "end": 114.12
+        "start": 114.72,
+        "end": 114.82,
+        "whisper": true
       }
     ],
-    "time": 112.66,
-    "end": 114.12
+    "time": 113.85,
+    "end": 114.82
   },
   {
     "text": "These niggas don't want no smoke, know my body (Ayy)",
-    "startTime": 114.13,
-    "endTime": 114.62,
+    "startTime": 114.83,
+    "endTime": 115.92,
     "words": [
       {
         "word": "These",
-        "start": 114.13,
-        "end": 114.17
+        "start": 114.83,
+        "end": 114.93,
+        "whisper": true
       },
       {
         "word": "niggas",
-        "start": 114.18,
-        "end": 114.22
+        "start": 114.94,
+        "end": 115.04,
+        "whisper": true
       },
       {
         "word": "don't",
-        "start": 114.23,
-        "end": 114.27
+        "start": 115.05,
+        "end": 115.15,
+        "whisper": true
       },
       {
         "word": "want",
-        "start": 114.28,
-        "end": 114.32
+        "start": 115.16,
+        "end": 115.26,
+        "whisper": true
       },
       {
         "word": "no",
-        "start": 114.33,
-        "end": 114.37
+        "start": 115.33,
+        "end": 115.37,
+        "whisper": true
       },
       {
         "word": "smoke,",
-        "start": 114.38,
-        "end": 114.42
+        "start": 115.38,
+        "end": 115.48,
+        "spoken": true
       },
       {
         "word": "know",
-        "start": 114.43,
-        "end": 114.47
+        "start": 115.49,
+        "end": 115.59,
+        "spoken": true
       },
       {
         "word": "my",
-        "start": 114.48,
-        "end": 114.52
+        "start": 115.6,
+        "end": 115.7,
+        "spoken": true
       },
       {
         "word": "body",
-        "start": 114.53,
-        "end": 114.57
+        "start": 115.71,
+        "end": 115.81,
+        "spoken": true
       },
       {
         "word": "(Ayy)",
-        "start": 114.58,
-        "end": 114.62,
-        "adlib": true
+        "start": 115.82,
+        "end": 115.92,
+        "adlib": true,
+        "spoken": true
       }
     ],
-    "time": 114.13,
-    "end": 114.62
+    "time": 114.83,
+    "end": 115.92
   },
   {
     "text": "Gucci and Louis, can't do no Zanotti (Ayy)",
-    "startTime": 114.63,
-    "endTime": 115.02,
+    "startTime": 115.93,
+    "endTime": 116.8,
     "words": [
       {
         "word": "Gucci",
-        "start": 114.63,
-        "end": 114.67
+        "start": 115.93,
+        "end": 116.03,
+        "spoken": true
       },
       {
         "word": "and",
-        "start": 114.68,
-        "end": 114.72
+        "start": 116.04,
+        "end": 116.14,
+        "spoken": true
       },
       {
         "word": "Louis,",
-        "start": 114.73,
-        "end": 114.77
+        "start": 116.15,
+        "end": 116.25,
+        "spoken": true
       },
       {
         "word": "can't",
-        "start": 114.78,
-        "end": 114.82
+        "start": 116.26,
+        "end": 116.36,
+        "spoken": true
       },
       {
         "word": "do",
-        "start": 114.83,
-        "end": 114.87
+        "start": 116.37,
+        "end": 116.47,
+        "spoken": true
       },
       {
         "word": "no",
-        "start": 114.88,
-        "end": 114.92
+        "start": 116.48,
+        "end": 116.58,
+        "spoken": true
       },
       {
         "word": "Zanotti",
-        "start": 114.93,
-        "end": 114.97
+        "start": 116.59,
+        "end": 116.69,
+        "spoken": true
       },
       {
         "word": "(Ayy)",
-        "start": 114.98,
-        "end": 115.02,
-        "adlib": true
+        "start": 116.7,
+        "end": 116.8,
+        "adlib": true,
+        "spoken": true
       }
     ],
-    "time": 114.63,
-    "end": 115.02
+    "time": 115.93,
+    "end": 116.8
   },
   {
     "text": "That bitch on me look like she hang with Kylie (Ayy)",
-    "startTime": 115.03,
-    "endTime": 115.57,
+    "startTime": 116.81,
+    "endTime": 118.01,
     "words": [
       {
         "word": "That",
-        "start": 115.03,
-        "end": 115.07
+        "start": 116.81,
+        "end": 116.91,
+        "spoken": true
       },
       {
         "word": "bitch",
-        "start": 115.08,
-        "end": 115.12
+        "start": 116.92,
+        "end": 117.02,
+        "spoken": true
       },
       {
         "word": "on",
-        "start": 115.13,
-        "end": 115.17
+        "start": 117.03,
+        "end": 117.13,
+        "spoken": true
       },
       {
         "word": "me",
-        "start": 115.18,
-        "end": 115.22
+        "start": 117.14,
+        "end": 117.24,
+        "spoken": true
       },
       {
         "word": "look",
-        "start": 115.23,
-        "end": 115.27
+        "start": 117.25,
+        "end": 117.35,
+        "spoken": true
       },
       {
         "word": "like",
-        "start": 115.28,
-        "end": 115.32
+        "start": 117.36,
+        "end": 117.46,
+        "spoken": true
       },
       {
         "word": "she",
-        "start": 115.33,
-        "end": 115.37
+        "start": 117.47,
+        "end": 117.57,
+        "spoken": true
       },
       {
         "word": "hang",
-        "start": 115.38,
-        "end": 115.42
+        "start": 117.58,
+        "end": 117.68,
+        "spoken": true
       },
       {
         "word": "with",
-        "start": 115.43,
-        "end": 115.47
+        "start": 117.69,
+        "end": 117.79,
+        "spoken": true
       },
       {
         "word": "Kylie",
-        "start": 115.48,
-        "end": 115.52
+        "start": 117.8,
+        "end": 117.9,
+        "spoken": true
       },
       {
         "word": "(Ayy)",
-        "start": 115.53,
-        "end": 115.57,
-        "adlib": true
+        "start": 117.91,
+        "end": 118.01,
+        "adlib": true,
+        "spoken": true
       }
     ],
-    "time": 115.03,
-    "end": 115.57
+    "time": 116.81,
+    "end": 118.01
   },
   {
     "text": "I used to fuck with a bitch, hang with Kylie (Ayy)",
-    "startTime": 115.58,
-    "endTime": 116.12,
+    "startTime": 118.02,
+    "endTime": 119.22,
     "words": [
       {
         "word": "I",
-        "start": 115.58,
-        "end": 115.62
+        "start": 118.02,
+        "end": 118.12,
+        "spoken": true
       },
       {
         "word": "used",
-        "start": 115.63,
-        "end": 115.67
+        "start": 118.13,
+        "end": 118.23,
+        "spoken": true
       },
       {
         "word": "to",
-        "start": 115.68,
-        "end": 115.72
+        "start": 118.24,
+        "end": 118.34,
+        "spoken": true
       },
       {
         "word": "fuck",
-        "start": 115.73,
-        "end": 115.77
+        "start": 118.35,
+        "end": 118.45,
+        "spoken": true
       },
       {
         "word": "with",
-        "start": 115.78,
-        "end": 115.82
+        "start": 118.46,
+        "end": 118.56,
+        "spoken": true
       },
       {
         "word": "a",
-        "start": 115.83,
-        "end": 115.87
+        "start": 118.57,
+        "end": 118.67,
+        "spoken": true
       },
       {
         "word": "bitch,",
-        "start": 115.88,
-        "end": 115.92
+        "start": 118.68,
+        "end": 118.78,
+        "spoken": true
       },
       {
         "word": "hang",
-        "start": 115.93,
-        "end": 115.97
+        "start": 118.79,
+        "end": 118.89,
+        "spoken": true
       },
       {
         "word": "with",
-        "start": 115.98,
-        "end": 116.02
+        "start": 118.9,
+        "end": 119.0,
+        "spoken": true
       },
       {
         "word": "Kylie",
-        "start": 116.03,
-        "end": 116.07
+        "start": 119.01,
+        "end": 119.11,
+        "spoken": true
       },
       {
         "word": "(Ayy)",
-        "start": 116.08,
-        "end": 116.12,
-        "adlib": true
+        "start": 119.12,
+        "end": 119.22,
+        "adlib": true,
+        "spoken": true
       }
     ],
-    "time": 115.58,
-    "end": 116.12
+    "time": 118.02,
+    "end": 119.22
   },
   {
     "text": "On the real, I think that bitch live in Cali' (Ayy)",
-    "startTime": 116.13,
-    "endTime": 116.67,
+    "startTime": 119.23,
+    "endTime": 120.43,
     "words": [
       {
         "word": "On",
-        "start": 116.13,
-        "end": 116.17
+        "start": 119.23,
+        "end": 119.33,
+        "spoken": true
       },
       {
         "word": "the",
-        "start": 116.18,
-        "end": 116.22
+        "start": 119.34,
+        "end": 119.44,
+        "spoken": true
       },
       {
         "word": "real,",
-        "start": 116.23,
-        "end": 116.27
+        "start": 119.45,
+        "end": 119.55,
+        "spoken": true
       },
       {
         "word": "I",
-        "start": 116.28,
-        "end": 116.32
+        "start": 119.56,
+        "end": 119.66,
+        "spoken": true
       },
       {
         "word": "think",
-        "start": 116.33,
-        "end": 116.37
+        "start": 119.67,
+        "end": 119.77,
+        "spoken": true
       },
       {
         "word": "that",
-        "start": 116.38,
-        "end": 116.42
+        "start": 119.78,
+        "end": 119.88,
+        "spoken": true
       },
       {
         "word": "bitch",
-        "start": 116.43,
-        "end": 116.47
+        "start": 119.89,
+        "end": 119.99,
+        "spoken": true
       },
       {
         "word": "live",
-        "start": 116.48,
-        "end": 116.52
+        "start": 120.0,
+        "end": 120.1,
+        "spoken": true
       },
       {
         "word": "in",
-        "start": 116.53,
-        "end": 116.57
+        "start": 120.11,
+        "end": 120.21,
+        "spoken": true
       },
       {
         "word": "Cali'",
-        "start": 116.58,
-        "end": 116.62
+        "start": 120.22,
+        "end": 120.32,
+        "spoken": true
       },
       {
         "word": "(Ayy)",
-        "start": 116.63,
-        "end": 116.67,
-        "adlib": true
+        "start": 120.33,
+        "end": 120.43,
+        "adlib": true,
+        "spoken": true
       }
     ],
-    "time": 116.13,
-    "end": 116.67
+    "time": 119.23,
+    "end": 120.43
   },
   {
     "text": "My boys tuck the powder, the flour, that Cali', yeah",
-    "startTime": 116.68,
-    "endTime": 117.17,
+    "startTime": 120.44,
+    "endTime": 121.53,
     "words": [
       {
         "word": "My",
-        "start": 116.68,
-        "end": 116.72
+        "start": 120.5,
+        "end": 120.54,
+        "spoken": true
       },
       {
         "word": "boys",
-        "start": 116.73,
-        "end": 116.77
+        "start": 120.55,
+        "end": 120.65,
+        "spoken": true
       },
       {
         "word": "tuck",
-        "start": 116.78,
-        "end": 116.82
+        "start": 120.66,
+        "end": 120.76,
+        "spoken": true
       },
       {
         "word": "the",
-        "start": 116.83,
-        "end": 116.87
+        "start": 120.77,
+        "end": 120.87,
+        "spoken": true
       },
       {
         "word": "powder,",
-        "start": 116.88,
-        "end": 116.92
+        "start": 120.88,
+        "end": 120.98,
+        "spoken": true
       },
       {
         "word": "the",
-        "start": 116.93,
-        "end": 116.97
+        "start": 120.99,
+        "end": 121.09,
+        "spoken": true
       },
       {
         "word": "flour,",
-        "start": 116.98,
-        "end": 117.02
+        "start": 121.1,
+        "end": 121.2,
+        "spoken": true
       },
       {
         "word": "that",
-        "start": 117.03,
-        "end": 117.07
+        "start": 121.21,
+        "end": 121.31,
+        "spoken": true
       },
       {
         "word": "Cali',",
-        "start": 117.08,
-        "end": 117.12
+        "start": 121.32,
+        "end": 121.42,
+        "spoken": true
       },
       {
         "word": "yeah",
-        "start": 117.13,
-        "end": 117.17
+        "start": 121.43,
+        "end": 121.53,
+        "spoken": true
       }
     ],
-    "time": 116.68,
-    "end": 117.17
+    "time": 120.44,
+    "end": 121.53
   },
   {
     "text": "I coulda, um, been a stylist (Ayy)",
-    "startTime": 117.18,
-    "endTime": 117.52,
+    "startTime": 121.54,
+    "endTime": 122.3,
     "words": [
       {
         "word": "I",
-        "start": 117.18,
-        "end": 117.22
+        "start": 121.54,
+        "end": 121.64,
+        "spoken": true
       },
       {
         "word": "coulda,",
-        "start": 117.23,
-        "end": 117.27
+        "start": 121.65,
+        "end": 121.75,
+        "spoken": true
       },
       {
         "word": "um,",
-        "start": 117.28,
-        "end": 117.32
+        "start": 121.76,
+        "end": 121.86,
+        "spoken": true
       },
       {
         "word": "been",
-        "start": 117.33,
-        "end": 117.37
+        "start": 121.87,
+        "end": 121.97,
+        "spoken": true
       },
       {
         "word": "a",
-        "start": 117.38,
-        "end": 117.42
+        "start": 121.98,
+        "end": 122.08,
+        "spoken": true
       },
       {
         "word": "stylist",
-        "start": 117.43,
-        "end": 117.47
+        "start": 122.09,
+        "end": 122.19,
+        "spoken": true
       },
       {
         "word": "(Ayy)",
-        "start": 117.48,
-        "end": 117.52,
-        "adlib": true
+        "start": 122.2,
+        "end": 122.3,
+        "adlib": true,
+        "spoken": true
       }
     ],
-    "time": 117.18,
-    "end": 117.52
+    "time": 121.54,
+    "end": 122.3
   },
   {
     "text": "I remember when them boys used to doubt us (Ayy)",
-    "startTime": 117.53,
-    "endTime": 118.02,
+    "startTime": 122.31,
+    "endTime": 123.4,
     "words": [
       {
         "word": "I",
-        "start": 117.53,
-        "end": 117.57
+        "start": 122.31,
+        "end": 122.41,
+        "spoken": true
       },
       {
         "word": "remember",
-        "start": 117.58,
-        "end": 117.62
+        "start": 122.42,
+        "end": 122.52,
+        "spoken": true
       },
       {
         "word": "when",
-        "start": 117.63,
-        "end": 117.67
+        "start": 122.53,
+        "end": 122.63,
+        "spoken": true
       },
       {
         "word": "them",
-        "start": 117.68,
-        "end": 117.72
+        "start": 122.64,
+        "end": 122.74,
+        "spoken": true
       },
       {
         "word": "boys",
-        "start": 117.73,
-        "end": 117.77
+        "start": 122.75,
+        "end": 122.85,
+        "spoken": true
       },
       {
         "word": "used",
-        "start": 117.78,
-        "end": 117.82
+        "start": 122.86,
+        "end": 122.96,
+        "spoken": true
       },
       {
         "word": "to",
-        "start": 117.83,
-        "end": 117.87
+        "start": 122.97,
+        "end": 123.07,
+        "spoken": true
       },
       {
         "word": "doubt",
-        "start": 117.88,
-        "end": 117.92
+        "start": 123.08,
+        "end": 123.18,
+        "spoken": true
       },
       {
         "word": "us",
-        "start": 117.93,
-        "end": 117.97
+        "start": 123.19,
+        "end": 123.29,
+        "spoken": true
       },
       {
         "word": "(Ayy)",
-        "start": 117.98,
-        "end": 118.02,
-        "adlib": true
+        "start": 123.3,
+        "end": 123.4,
+        "adlib": true,
+        "spoken": true
       }
     ],
-    "time": 117.53,
-    "end": 118.02
+    "time": 122.31,
+    "end": 123.4
   },
   {
     "text": "I got a girl that trap like she from Dallas (What?)",
-    "startTime": 118.03,
-    "endTime": 118.57,
+    "startTime": 123.41,
+    "endTime": 124.61,
     "words": [
       {
         "word": "I",
-        "start": 118.03,
-        "end": 118.07
+        "start": 123.41,
+        "end": 123.51,
+        "spoken": true
       },
       {
         "word": "got",
-        "start": 118.08,
-        "end": 118.12
+        "start": 123.52,
+        "end": 123.62,
+        "spoken": true
       },
       {
         "word": "a",
-        "start": 118.13,
-        "end": 118.17
+        "start": 123.63,
+        "end": 123.73,
+        "spoken": true
       },
       {
         "word": "girl",
-        "start": 118.18,
-        "end": 118.22
+        "start": 123.74,
+        "end": 123.84,
+        "spoken": true
       },
       {
         "word": "that",
-        "start": 118.23,
-        "end": 118.27
+        "start": 123.85,
+        "end": 123.95,
+        "spoken": true
       },
       {
         "word": "trap",
-        "start": 118.28,
-        "end": 118.32
+        "start": 123.96,
+        "end": 124.06,
+        "spoken": true
       },
       {
         "word": "like",
-        "start": 118.33,
-        "end": 118.37
+        "start": 124.07,
+        "end": 124.17,
+        "spoken": true
       },
       {
         "word": "she",
-        "start": 118.38,
-        "end": 118.42
+        "start": 124.18,
+        "end": 124.28,
+        "spoken": true
       },
       {
         "word": "from",
-        "start": 118.43,
-        "end": 118.47
+        "start": 124.29,
+        "end": 124.39,
+        "spoken": true
       },
       {
         "word": "Dallas",
-        "start": 118.48,
-        "end": 118.52
+        "start": 124.4,
+        "end": 124.5,
+        "spoken": true
       },
       {
         "word": "(What?)",
-        "start": 118.53,
-        "end": 118.57,
-        "adlib": true
+        "start": 124.51,
+        "end": 124.61,
+        "adlib": true,
+        "spoken": true
       }
     ],
-    "time": 118.03,
-    "end": 118.57
+    "time": 123.41,
+    "end": 124.61
   },
   {
     "text": "I got so much money, need an accountant (Yeah)",
-    "startTime": 118.58,
-    "endTime": 119.02,
+    "startTime": 124.62,
+    "endTime": 125.6,
     "words": [
       {
         "word": "I",
-        "start": 118.58,
-        "end": 118.62
+        "start": 124.62,
+        "end": 124.72,
+        "spoken": true
       },
       {
         "word": "got",
-        "start": 118.63,
-        "end": 118.67
+        "start": 124.73,
+        "end": 124.83,
+        "spoken": true
       },
       {
         "word": "so",
-        "start": 118.68,
-        "end": 118.72
+        "start": 124.84,
+        "end": 124.94,
+        "spoken": true
       },
       {
         "word": "much",
-        "start": 118.73,
-        "end": 118.77
+        "start": 124.95,
+        "end": 125.05,
+        "whisper": true
       },
       {
         "word": "money,",
-        "start": 118.78,
-        "end": 118.82
+        "start": 125.12,
+        "end": 125.16,
+        "whisper": true
       },
       {
         "word": "need",
-        "start": 118.83,
-        "end": 118.87
+        "start": 125.17,
+        "end": 125.27,
+        "spoken": true
       },
       {
         "word": "an",
-        "start": 118.88,
-        "end": 118.92
+        "start": 125.28,
+        "end": 125.38,
+        "spoken": true
       },
       {
         "word": "accountant",
-        "start": 118.93,
-        "end": 118.97
+        "start": 125.39,
+        "end": 125.49,
+        "spoken": true
       },
       {
         "word": "(Yeah)",
-        "start": 118.98,
-        "end": 119.02,
-        "adlib": true
+        "start": 125.5,
+        "end": 125.6,
+        "adlib": true,
+        "spoken": true
       }
     ],
-    "time": 118.58,
-    "end": 119.02
+    "time": 124.62,
+    "end": 125.6
   },
   {
     "text": "She said \"Da-da-da-da\" when she count it (Ayy)",
-    "startTime": 119.03,
-    "endTime": 119.42,
+    "startTime": 125.61,
+    "endTime": 126.48,
     "words": [
       {
         "word": "She",
-        "start": 119.03,
-        "end": 119.07
+        "start": 125.61,
+        "end": 125.71,
+        "spoken": true
       },
       {
         "word": "said",
-        "start": 119.08,
-        "end": 119.12
+        "start": 125.72,
+        "end": 125.82,
+        "spoken": true
       },
       {
         "word": "\"Da-da-da-da\"",
-        "start": 119.13,
-        "end": 119.17
+        "start": 125.83,
+        "end": 125.93,
+        "spoken": true
       },
       {
         "word": "when",
-        "start": 119.18,
-        "end": 119.22
+        "start": 125.94,
+        "end": 126.04,
+        "spoken": true
       },
       {
         "word": "she",
-        "start": 119.23,
-        "end": 119.27
+        "start": 126.05,
+        "end": 126.15,
+        "spoken": true
       },
       {
         "word": "count",
-        "start": 119.28,
-        "end": 119.32
+        "start": 126.16,
+        "end": 126.26,
+        "whisper": true
       },
       {
         "word": "it",
-        "start": 119.33,
-        "end": 119.37
+        "start": 126.27,
+        "end": 126.37,
+        "spoken": true
       },
       {
         "word": "(Ayy)",
-        "start": 119.38,
-        "end": 119.42,
-        "adlib": true
+        "start": 126.38,
+        "end": 126.48,
+        "adlib": true,
+        "spoken": true
       }
     ],
-    "time": 119.03,
-    "end": 119.42
+    "time": 125.61,
+    "end": 126.48
   },
   {
     "text": "I say \"Da-da-da-da-da\" when I pound it (Yeah)",
-    "startTime": 119.43,
-    "endTime": 119.82,
+    "startTime": 126.49,
+    "endTime": 127.36,
     "words": [
       {
         "word": "I",
-        "start": 119.43,
-        "end": 119.47
+        "start": 126.49,
+        "end": 126.59,
+        "spoken": true
       },
       {
         "word": "say",
-        "start": 119.48,
-        "end": 119.52
+        "start": 126.6,
+        "end": 126.7,
+        "spoken": true
       },
       {
         "word": "\"Da-da-da-da-da\"",
-        "start": 119.53,
-        "end": 119.57
+        "start": 126.71,
+        "end": 126.81,
+        "spoken": true
       },
       {
         "word": "when",
-        "start": 119.58,
-        "end": 119.62
+        "start": 126.82,
+        "end": 126.92,
+        "spoken": true
       },
       {
         "word": "I",
-        "start": 119.63,
-        "end": 119.67
+        "start": 126.93,
+        "end": 127.03,
+        "whisper": true
       },
       {
         "word": "pound",
-        "start": 119.68,
-        "end": 119.72
+        "start": 127.04,
+        "end": 127.14,
+        "whisper": true
       },
       {
         "word": "it",
-        "start": 119.73,
-        "end": 119.77
+        "start": 127.15,
+        "end": 127.25,
+        "whisper": true
       },
       {
         "word": "(Yeah)",
-        "start": 119.78,
-        "end": 119.82,
-        "adlib": true
+        "start": 127.26,
+        "end": 127.36,
+        "adlib": true,
+        "whisper": true
       }
     ],
-    "time": 119.43,
-    "end": 119.82
+    "time": 126.49,
+    "end": 127.36
   },
   {
     "text": "My bitch ass fat, heavy, spendin' my racks, heavy",
-    "startTime": 119.83,
-    "endTime": 120.27,
+    "startTime": 127.37,
+    "endTime": 128.35,
     "words": [
       {
         "word": "My",
-        "start": 119.83,
-        "end": 119.87
+        "start": 127.37,
+        "end": 127.47,
+        "whisper": true
       },
       {
         "word": "bitch",
-        "start": 119.88,
-        "end": 119.92
+        "start": 127.48,
+        "end": 127.58,
+        "whisper": true
       },
       {
         "word": "ass",
-        "start": 119.93,
-        "end": 119.97
+        "start": 127.59,
+        "end": 127.69,
+        "whisper": true
       },
       {
         "word": "fat,",
-        "start": 119.98,
-        "end": 120.02
+        "start": 127.7,
+        "end": 127.8,
+        "whisper": true
       },
       {
         "word": "heavy,",
-        "start": 120.03,
-        "end": 120.07
+        "start": 127.81,
+        "end": 127.91,
+        "whisper": true
       },
       {
         "word": "spendin'",
-        "start": 120.08,
-        "end": 120.12
+        "start": 127.92,
+        "end": 128.02,
+        "whisper": true
       },
       {
         "word": "my",
-        "start": 120.13,
-        "end": 120.17
+        "start": 128.03,
+        "end": 128.13,
+        "whisper": true
       },
       {
         "word": "racks,",
-        "start": 120.18,
-        "end": 120.22
+        "start": 128.14,
+        "end": 128.24,
+        "whisper": true
       },
       {
         "word": "heavy",
-        "start": 120.23,
-        "end": 120.27
+        "start": 128.25,
+        "end": 128.35,
+        "whisper": true
       }
     ],
-    "time": 119.83,
-    "end": 120.27
+    "time": 127.37,
+    "end": 128.35
   },
   {
     "text": "I get it back, heavy, Goyard bag, heavy",
-    "startTime": 120.28,
-    "endTime": 120.67,
+    "startTime": 128.36,
+    "endTime": 129.23,
     "words": [
       {
         "word": "I",
-        "start": 120.28,
-        "end": 120.32
+        "start": 128.36,
+        "end": 128.46,
+        "whisper": true
       },
       {
         "word": "get",
-        "start": 120.33,
-        "end": 120.37
+        "start": 128.47,
+        "end": 128.57,
+        "whisper": true
       },
       {
         "word": "it",
-        "start": 120.38,
-        "end": 120.42
+        "start": 128.58,
+        "end": 128.68,
+        "whisper": true
       },
       {
         "word": "back,",
-        "start": 120.43,
-        "end": 120.47
+        "start": 128.69,
+        "end": 128.79,
+        "whisper": true
       },
       {
         "word": "heavy,",
-        "start": 120.48,
-        "end": 120.52
+        "start": 128.8,
+        "end": 128.9,
+        "whisper": true
       },
       {
         "word": "Goyard",
-        "start": 120.53,
-        "end": 120.57
+        "start": 128.91,
+        "end": 129.01,
+        "whisper": true
       },
       {
         "word": "bag,",
-        "start": 120.58,
-        "end": 120.62
+        "start": 129.02,
+        "end": 129.12,
+        "whisper": true
       },
       {
         "word": "heavy",
-        "start": 120.63,
-        "end": 120.67
+        "start": 129.13,
+        "end": 129.23,
+        "whisper": true
       }
     ],
-    "time": 120.28,
-    "end": 120.67
+    "time": 128.36,
+    "end": 129.23
   },
   {
     "text": "Run through the sack, heavy",
-    "startTime": 120.68,
-    "endTime": 120.92,
+    "startTime": 129.24,
+    "endTime": 129.78,
     "words": [
       {
         "word": "Run",
-        "start": 120.68,
-        "end": 120.72
+        "start": 129.24,
+        "end": 129.34,
+        "whisper": true
       },
       {
         "word": "through",
-        "start": 120.73,
-        "end": 120.77
+        "start": 129.35,
+        "end": 129.45,
+        "whisper": true
       },
       {
         "word": "the",
-        "start": 120.78,
-        "end": 120.82
+        "start": 129.46,
+        "end": 129.56,
+        "whisper": true
       },
       {
         "word": "sack,",
-        "start": 120.83,
-        "end": 120.87
+        "start": 129.57,
+        "end": 129.67,
+        "whisper": true
       },
       {
         "word": "heavy",
-        "start": 120.88,
-        "end": 120.92
+        "start": 129.68,
+        "end": 129.78,
+        "whisper": true
       }
     ],
-    "time": 120.68,
-    "end": 120.92
-  },
-  {
-    "text": "And my bitch bad, heavy, I'ma pop the tag, heavy",
-    "startTime": 120.93,
-    "endTime": 121.42,
-    "words": [
-      {
-        "word": "And",
-        "start": 120.93,
-        "end": 120.97
-      },
-      {
-        "word": "my",
-        "start": 120.98,
-        "end": 121.02
-      },
-      {
-        "word": "bitch",
-        "start": 121.03,
-        "end": 121.07
-      },
-      {
-        "word": "bad,",
-        "start": 121.08,
-        "end": 121.12
-      },
-      {
-        "word": "heavy,",
-        "start": 121.13,
-        "end": 121.17
-      },
-      {
-        "word": "I'ma",
-        "start": 121.18,
-        "end": 121.22
-      },
-      {
-        "word": "pop",
-        "start": 121.23,
-        "end": 121.27
-      },
-      {
-        "word": "the",
-        "start": 121.28,
-        "end": 121.32
-      },
-      {
-        "word": "tag,",
-        "start": 121.33,
-        "end": 121.37
-      },
-      {
-        "word": "heavy",
-        "start": 121.38,
-        "end": 121.42
-      }
-    ],
-    "time": 120.93,
-    "end": 121.42
-  },
-  {
-    "text": "My wrist, it look like a victim of R. Kelly",
-    "startTime": 121.43,
-    "endTime": 121.92,
-    "words": [
-      {
-        "word": "My",
-        "start": 121.43,
-        "end": 121.47
-      },
-      {
-        "word": "wrist,",
-        "start": 121.48,
-        "end": 121.52
-      },
-      {
-        "word": "it",
-        "start": 121.53,
-        "end": 121.57
-      },
-      {
-        "word": "look",
-        "start": 121.58,
-        "end": 121.62
-      },
-      {
-        "word": "like",
-        "start": 121.63,
-        "end": 121.67
-      },
-      {
-        "word": "a",
-        "start": 121.68,
-        "end": 121.72
-      },
-      {
-        "word": "victim",
-        "start": 121.73,
-        "end": 121.77
-      },
-      {
-        "word": "of",
-        "start": 121.78,
-        "end": 121.82
-      },
-      {
-        "word": "R.",
-        "start": 121.83,
-        "end": 121.87
-      },
-      {
-        "word": "Kelly",
-        "start": 121.88,
-        "end": 121.92
-      }
-    ],
-    "time": 121.43,
-    "end": 121.92
-  },
-  {
-    "text": "That mean my yellow diamonds look like piss",
-    "startTime": 121.93,
-    "endTime": 122.32,
-    "words": [
-      {
-        "word": "That",
-        "start": 121.93,
-        "end": 121.97
-      },
-      {
-        "word": "mean",
-        "start": 121.98,
-        "end": 122.02
-      },
-      {
-        "word": "my",
-        "start": 122.03,
-        "end": 122.07
-      },
-      {
-        "word": "yellow",
-        "start": 122.08,
-        "end": 122.12
-      },
-      {
-        "word": "diamonds",
-        "start": 122.13,
-        "end": 122.17
-      },
-      {
-        "word": "look",
-        "start": 122.18,
-        "end": 122.22
-      },
-      {
-        "word": "like",
-        "start": 122.23,
-        "end": 122.27
-      },
-      {
-        "word": "piss",
-        "start": 122.28,
-        "end": 122.32
-      }
-    ],
-    "time": 121.93,
-    "end": 122.32
-  },
-  {
-    "text": "Canary, canary, wet like a fish",
-    "startTime": 122.33,
-    "endTime": 122.62,
-    "words": [
-      {
-        "word": "Canary,",
-        "start": 122.33,
-        "end": 122.37
-      },
-      {
-        "word": "canary,",
-        "start": 122.38,
-        "end": 122.42
-      },
-      {
-        "word": "wet",
-        "start": 122.43,
-        "end": 122.47
-      },
-      {
-        "word": "like",
-        "start": 122.48,
-        "end": 122.52
-      },
-      {
-        "word": "a",
-        "start": 122.53,
-        "end": 122.57
-      },
-      {
-        "word": "fish",
-        "start": 122.58,
-        "end": 122.62
-      }
-    ],
-    "time": 122.33,
-    "end": 122.62
-  },
-  {
-    "text": "Canary, canary, wet like a boat",
-    "startTime": 122.63,
-    "endTime": 122.92,
-    "words": [
-      {
-        "word": "Canary,",
-        "start": 122.63,
-        "end": 122.67
-      },
-      {
-        "word": "canary,",
-        "start": 122.68,
-        "end": 122.72
-      },
-      {
-        "word": "wet",
-        "start": 122.73,
-        "end": 122.77
-      },
-      {
-        "word": "like",
-        "start": 122.78,
-        "end": 122.82
-      },
-      {
-        "word": "a",
-        "start": 122.83,
-        "end": 122.87
-      },
-      {
-        "word": "boat",
-        "start": 122.88,
-        "end": 122.92
-      }
-    ],
-    "time": 122.63,
-    "end": 122.92
-  },
-  {
-    "text": "If I ain't rap, then I probably sell dope",
-    "startTime": 122.93,
-    "endTime": 123.37,
-    "words": [
-      {
-        "word": "If",
-        "start": 122.93,
-        "end": 122.97
-      },
-      {
-        "word": "I",
-        "start": 122.98,
-        "end": 123.02
-      },
-      {
-        "word": "ain't",
-        "start": 123.03,
-        "end": 123.07
-      },
-      {
-        "word": "rap,",
-        "start": 123.08,
-        "end": 123.12
-      },
-      {
-        "word": "then",
-        "start": 123.13,
-        "end": 123.17
-      },
-      {
-        "word": "I",
-        "start": 123.18,
-        "end": 123.22
-      },
-      {
-        "word": "probably",
-        "start": 123.23,
-        "end": 123.27
-      },
-      {
-        "word": "sell",
-        "start": 123.28,
-        "end": 123.32
-      },
-      {
-        "word": "dope",
-        "start": 123.33,
-        "end": 123.37
-      }
-    ],
-    "time": 122.93,
-    "end": 123.37
-  },
-  {
-    "text": "\"Lil Uzi Vert, tell me why you so dope?\"",
-    "startTime": 123.38,
-    "endTime": 123.82,
-    "words": [
-      {
-        "word": "\"Lil",
-        "start": 123.38,
-        "end": 123.42
-      },
-      {
-        "word": "Uzi",
-        "start": 123.43,
-        "end": 123.47
-      },
-      {
-        "word": "Vert,",
-        "start": 123.48,
-        "end": 123.52
-      },
-      {
-        "word": "tell",
-        "start": 123.53,
-        "end": 123.57
-      },
-      {
-        "word": "me",
-        "start": 123.58,
-        "end": 123.62
-      },
-      {
-        "word": "why",
-        "start": 123.63,
-        "end": 123.67
-      },
-      {
-        "word": "you",
-        "start": 123.68,
-        "end": 123.72
-      },
-      {
-        "word": "so",
-        "start": 123.73,
-        "end": 123.77
-      },
-      {
-        "word": "dope?\"",
-        "start": 123.78,
-        "end": 123.82
-      }
-    ],
-    "time": 123.38,
-    "end": 123.82
-  },
-  {
-    "text": "Shit, that's some shit I'on even know",
-    "startTime": 123.83,
-    "endTime": 124.17,
-    "words": [
-      {
-        "word": "Shit,",
-        "start": 123.83,
-        "end": 123.87
-      },
-      {
-        "word": "that's",
-        "start": 123.88,
-        "end": 123.92
-      },
-      {
-        "word": "some",
-        "start": 123.93,
-        "end": 123.97
-      },
-      {
-        "word": "shit",
-        "start": 123.98,
-        "end": 124.02
-      },
-      {
-        "word": "I'on",
-        "start": 124.03,
-        "end": 124.07
-      },
-      {
-        "word": "even",
-        "start": 124.08,
-        "end": 124.12
-      },
-      {
-        "word": "know",
-        "start": 124.13,
-        "end": 124.17
-      }
-    ],
-    "time": 123.83,
-    "end": 124.17
-  },
-  {
-    "text": "I got a stick in this Margelia coat, yeah",
-    "startTime": 124.18,
-    "endTime": 124.62,
-    "words": [
-      {
-        "word": "I",
-        "start": 124.18,
-        "end": 124.22
-      },
-      {
-        "word": "got",
-        "start": 124.23,
-        "end": 124.27
-      },
-      {
-        "word": "a",
-        "start": 124.28,
-        "end": 124.32
-      },
-      {
-        "word": "stick",
-        "start": 124.33,
-        "end": 124.37
-      },
-      {
-        "word": "in",
-        "start": 124.38,
-        "end": 124.42
-      },
-      {
-        "word": "this",
-        "start": 124.43,
-        "end": 124.47
-      },
-      {
-        "word": "Margelia",
-        "start": 124.48,
-        "end": 124.52
-      },
-      {
-        "word": "coat,",
-        "start": 124.53,
-        "end": 124.57
-      },
-      {
-        "word": "yeah",
-        "start": 124.58,
-        "end": 124.62
-      }
-    ],
-    "time": 124.18,
-    "end": 124.62
-  },
-  {
-    "text": "Clip in these Margelia pants, yeah",
-    "startTime": 124.63,
-    "endTime": 124.92,
-    "words": [
-      {
-        "word": "Clip",
-        "start": 124.63,
-        "end": 124.67
-      },
-      {
-        "word": "in",
-        "start": 124.68,
-        "end": 124.72
-      },
-      {
-        "word": "these",
-        "start": 124.73,
-        "end": 124.77
-      },
-      {
-        "word": "Margelia",
-        "start": 124.78,
-        "end": 124.82
-      },
-      {
-        "word": "pants,",
-        "start": 124.83,
-        "end": 124.87
-      },
-      {
-        "word": "yeah",
-        "start": 124.88,
-        "end": 124.92
-      }
-    ],
-    "time": 124.63,
-    "end": 124.92
-  },
-  {
-    "text": "Fuck nigga, you can get fanned down",
-    "startTime": 124.93,
-    "endTime": 125.27,
-    "words": [
-      {
-        "word": "Fuck",
-        "start": 124.93,
-        "end": 124.97
-      },
-      {
-        "word": "nigga,",
-        "start": 124.98,
-        "end": 125.02
-      },
-      {
-        "word": "you",
-        "start": 125.03,
-        "end": 125.07
-      },
-      {
-        "word": "can",
-        "start": 125.08,
-        "end": 125.12
-      },
-      {
-        "word": "get",
-        "start": 125.13,
-        "end": 125.17
-      },
-      {
-        "word": "fanned",
-        "start": 125.18,
-        "end": 125.22
-      },
-      {
-        "word": "down",
-        "start": 125.23,
-        "end": 125.27
-      }
-    ],
-    "time": 124.93,
-    "end": 125.27
-  },
-  {
-    "text": "Don't give a fuck, you a fan, damn",
-    "startTime": 125.28,
-    "endTime": 125.67,
-    "words": [
-      {
-        "word": "Don't",
-        "start": 125.28,
-        "end": 125.32
-      },
-      {
-        "word": "give",
-        "start": 125.33,
-        "end": 125.37
-      },
-      {
-        "word": "a",
-        "start": 125.38,
-        "end": 125.42
-      },
-      {
-        "word": "fuck,",
-        "start": 125.43,
-        "end": 125.47
-      },
-      {
-        "word": "you",
-        "start": 125.48,
-        "end": 125.52
-      },
-      {
-        "word": "a",
-        "start": 125.53,
-        "end": 125.57
-      },
-      {
-        "word": "fan,",
-        "start": 125.58,
-        "end": 125.62
-      },
-      {
-        "word": "damn",
-        "start": 125.63,
-        "end": 125.67
-      }
-    ],
-    "time": 125.28,
-    "end": 125.67
-  },
-  {
-    "text": "Only thing I heard over the walkie-talkie",
-    "startTime": 125.68,
-    "endTime": 126.02,
-    "words": [
-      {
-        "word": "Only",
-        "start": 125.68,
-        "end": 125.72
-      },
-      {
-        "word": "thing",
-        "start": 125.73,
-        "end": 125.77
-      },
-      {
-        "word": "I",
-        "start": 125.78,
-        "end": 125.82
-      },
-      {
-        "word": "heard",
-        "start": 125.83,
-        "end": 125.87
-      },
-      {
-        "word": "over",
-        "start": 125.88,
-        "end": 125.92
-      },
-      {
-        "word": "the",
-        "start": 125.93,
-        "end": 125.97
-      },
-      {
-        "word": "walkie-talkie",
-        "start": 125.98,
-        "end": 126.02
-      }
-    ],
-    "time": 125.68,
-    "end": 126.02
-  },
-  {
-    "text": "They was screamin' just like \"Man down\"",
-    "startTime": 126.03,
-    "endTime": 126.37,
-    "words": [
-      {
-        "word": "They",
-        "start": 126.03,
-        "end": 126.07
-      },
-      {
-        "word": "was",
-        "start": 126.08,
-        "end": 126.12
-      },
-      {
-        "word": "screamin'",
-        "start": 126.13,
-        "end": 126.17
-      },
-      {
-        "word": "just",
-        "start": 126.18,
-        "end": 126.22
-      },
-      {
-        "word": "like",
-        "start": 126.23,
-        "end": 126.27
-      },
-      {
-        "word": "\"Man",
-        "start": 126.28,
-        "end": 126.32
-      },
-      {
-        "word": "down\"",
-        "start": 126.33,
-        "end": 126.37
-      }
-    ],
-    "time": 126.03,
-    "end": 126.37
-  },
-  {
-    "text": "I fucked yo' bitch in a coupe",
-    "startTime": 126.38,
-    "endTime": 126.72,
-    "words": [
-      {
-        "word": "I",
-        "start": 126.38,
-        "end": 126.42
-      },
-      {
-        "word": "fucked",
-        "start": 126.43,
-        "end": 126.47
-      },
-      {
-        "word": "yo'",
-        "start": 126.48,
-        "end": 126.52
-      },
-      {
-        "word": "bitch",
-        "start": 126.53,
-        "end": 126.57
-      },
-      {
-        "word": "in",
-        "start": 126.58,
-        "end": 126.62
-      },
-      {
-        "word": "a",
-        "start": 126.63,
-        "end": 126.67
-      },
-      {
-        "word": "coupe",
-        "start": 126.68,
-        "end": 126.72
-      }
-    ],
-    "time": 126.38,
-    "end": 126.72
-  },
-  {
-    "text": "I already know this pussy deja-vu",
-    "startTime": 126.73,
-    "endTime": 127.02,
-    "words": [
-      {
-        "word": "I",
-        "start": 126.73,
-        "end": 126.77
-      },
-      {
-        "word": "already",
-        "start": 126.78,
-        "end": 126.82
-      },
-      {
-        "word": "know",
-        "start": 126.83,
-        "end": 126.87
-      },
-      {
-        "word": "this",
-        "start": 126.88,
-        "end": 126.92
-      },
-      {
-        "word": "pussy",
-        "start": 126.93,
-        "end": 126.97
-      },
-      {
-        "word": "deja-vu",
-        "start": 126.98,
-        "end": 127.02
-      }
-    ],
-    "time": 126.73,
-    "end": 127.02
-  },
-  {
-    "text": "She tryna just stay to have a rendezvous",
-    "startTime": 127.03,
-    "endTime": 127.42,
-    "words": [
-      {
-        "word": "She",
-        "start": 127.03,
-        "end": 127.07
-      },
-      {
-        "word": "tryna",
-        "start": 127.08,
-        "end": 127.12
-      },
-      {
-        "word": "just",
-        "start": 127.13,
-        "end": 127.17
-      },
-      {
-        "word": "stay",
-        "start": 127.18,
-        "end": 127.22
-      },
-      {
-        "word": "to",
-        "start": 127.23,
-        "end": 127.27
-      },
-      {
-        "word": "have",
-        "start": 127.28,
-        "end": 127.32
-      },
-      {
-        "word": "a",
-        "start": 127.33,
-        "end": 127.37
-      },
-      {
-        "word": "rendezvous",
-        "start": 127.38,
-        "end": 127.42
-      }
-    ],
-    "time": 127.03,
-    "end": 127.42
-  },
-  {
-    "text": "I keep tryna come up with a new excuse",
-    "startTime": 127.43,
-    "endTime": 127.87,
-    "words": [
-      {
-        "word": "I",
-        "start": 127.43,
-        "end": 127.47
-      },
-      {
-        "word": "keep",
-        "start": 127.48,
-        "end": 127.52
-      },
-      {
-        "word": "tryna",
-        "start": 127.53,
-        "end": 127.57
-      },
-      {
-        "word": "come",
-        "start": 127.58,
-        "end": 127.62
-      },
-      {
-        "word": "up",
-        "start": 127.63,
-        "end": 127.67
-      },
-      {
-        "word": "with",
-        "start": 127.68,
-        "end": 127.72
-      },
-      {
-        "word": "a",
-        "start": 127.73,
-        "end": 127.77
-      },
-      {
-        "word": "new",
-        "start": 127.78,
-        "end": 127.82
-      },
-      {
-        "word": "excuse",
-        "start": 127.83,
-        "end": 127.87
-      }
-    ],
-    "time": 127.43,
-    "end": 127.87
-  },
-  {
-    "text": "I'm on the block with that heavy, yeah",
-    "startTime": 127.88,
-    "endTime": 128.27,
-    "words": [
-      {
-        "word": "I'm",
-        "start": 127.88,
-        "end": 127.92
-      },
-      {
-        "word": "on",
-        "start": 127.93,
-        "end": 127.97
-      },
-      {
-        "word": "the",
-        "start": 127.98,
-        "end": 128.02
-      },
-      {
-        "word": "block",
-        "start": 128.03,
-        "end": 128.07
-      },
-      {
-        "word": "with",
-        "start": 128.08,
-        "end": 128.12
-      },
-      {
-        "word": "that",
-        "start": 128.13,
-        "end": 128.17
-      },
-      {
-        "word": "heavy,",
-        "start": 128.18,
-        "end": 128.22
-      },
-      {
-        "word": "yeah",
-        "start": 128.23,
-        "end": 128.27
-      }
-    ],
-    "time": 127.88,
-    "end": 128.27
-  },
-  {
-    "text": "On the block with that heavy",
-    "startTime": 128.28,
-    "endTime": 128.57,
-    "words": [
-      {
-        "word": "On",
-        "start": 128.28,
-        "end": 128.32
-      },
-      {
-        "word": "the",
-        "start": 128.33,
-        "end": 128.37
-      },
-      {
-        "word": "block",
-        "start": 128.38,
-        "end": 128.42
-      },
-      {
-        "word": "with",
-        "start": 128.43,
-        "end": 128.47
-      },
-      {
-        "word": "that",
-        "start": 128.48,
-        "end": 128.52
-      },
-      {
-        "word": "heavy",
-        "start": 128.53,
-        "end": 128.57
-      }
-    ],
-    "time": 128.28,
-    "end": 128.57
+    "time": 129.24,
+    "end": 129.78
   }
 ]

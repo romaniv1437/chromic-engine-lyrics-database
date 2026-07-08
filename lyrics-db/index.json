@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T16:31:00.256961+00:00",
+  "generatedAt": "2026-07-08T16:32:03.406309+00:00",
   "totalTracks": 785,
   "roots": [
     "lyrics-db/tracks"
@@ -10766,20 +10766,6 @@
       "sourcePath": "https://soundcloud.com/theeking-431104483/lil-peep-another-cup",
       "mtimeMs": 1783337971322
     },
-    "phan 1600::lil uzi vert - heavy (no open)": {
-      "title": "Lil Uzi Vert - Heavy (No Open)",
-      "artist": "Phan 1600",
-      "originalTrackName": "Phan 1600 - Lil Uzi Vert - Heavy (No Open)",
-      "source": "syncedlyrics",
-      "file": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
-      "files": {
-        "lyrics": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
-        "meta": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/phan-1600/lil-uzi-vert-heavy-no-open",
-      "mtimeMs": 1783351796078
-    },
     "oodaredevil::tikiman prod. fuurgg": {
       "title": "TIKIMAN prod. Fuurgg",
       "artist": "Oodaredevil",
@@ -11033,6 +11019,20 @@
       },
       "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
       "mtimeMs": 1783528260713
+    },
+    "phan 1600::lil uzi vert - heavy (no open)": {
+      "title": "Lil Uzi Vert - Heavy (No Open)",
+      "artist": "Phan 1600",
+      "originalTrackName": "Phan 1600 - Lil Uzi Vert - Heavy (No Open)",
+      "source": "syncedlyrics",
+      "file": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
+      "files": {
+        "lyrics": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
+        "meta": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/phan-1600/lil-uzi-vert-heavy-no-open",
+      "mtimeMs": 1783528323887
     }
   },
   "tracks": [
@@ -21817,20 +21817,6 @@
       "mtimeMs": 1783337971322
     },
     {
-      "title": "Lil Uzi Vert - Heavy (No Open)",
-      "artist": "Phan 1600",
-      "originalTrackName": "Phan 1600 - Lil Uzi Vert - Heavy (No Open)",
-      "source": "syncedlyrics",
-      "file": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
-      "files": {
-        "lyrics": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
-        "meta": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/phan-1600/lil-uzi-vert-heavy-no-open",
-      "mtimeMs": 1783351796078
-    },
-    {
       "title": "TIKIMAN prod. Fuurgg",
       "artist": "Oodaredevil",
       "originalTrackName": "Oodaredevil - TIKIMAN prod. Fuurgg",
@@ -22083,6 +22069,20 @@
       },
       "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
       "mtimeMs": 1783528260713
+    },
+    {
+      "title": "Lil Uzi Vert - Heavy (No Open)",
+      "artist": "Phan 1600",
+      "originalTrackName": "Phan 1600 - Lil Uzi Vert - Heavy (No Open)",
+      "source": "syncedlyrics",
+      "file": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
+      "files": {
+        "lyrics": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.json",
+        "meta": "tracks/phan-1600-lil-uzi-vert-heavy-no-open-036e3a573226.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/phan-1600/lil-uzi-vert-heavy-no-open",
+      "mtimeMs": 1783528323887
     }
   ]
 }

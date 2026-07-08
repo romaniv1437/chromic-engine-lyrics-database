@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T17:13:13.723416+00:00",
+  "generatedAt": "2026-07-08T17:14:38.585402+00:00",
   "totalTracks": 787,
   "roots": [
     "lyrics-db/tracks"
@@ -10852,20 +10852,6 @@
       "sourcePath": "https://soundcloud.com/lill_peep/every-weekend-w-slug-christ-prod-lederrick-x-lil-peep",
       "mtimeMs": 1783528395287
     },
-    "☆lil peep☆::gods (w/ lil tracy)": {
-      "title": "GODS (w/ Lil Tracy)",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - GODS (w/ Lil Tracy)",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
-        "meta": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
-      "mtimeMs": 1783528463155
-    },
     "broken soul x kill me::lil peep - p.s fuck you cunt": {
       "title": "Lil Peep - P.S Fuck You Cunt",
       "artist": "Broken Soul x kill me",
@@ -11061,6 +11047,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/give-u-the-moon",
       "mtimeMs": 1783530794452
+    },
+    "☆lil peep☆::gods (w/ lil tracy)": {
+      "title": "GODS (w/ Lil Tracy)",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - GODS (w/ Lil Tracy)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+        "meta": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
+      "mtimeMs": 1783530879109
     }
   },
   "tracks": [
@@ -21931,20 +21931,6 @@
       "mtimeMs": 1783528395287
     },
     {
-      "title": "GODS (w/ Lil Tracy)",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - GODS (w/ Lil Tracy)",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
-        "meta": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
-      "mtimeMs": 1783528463155
-    },
-    {
       "title": "Lil Peep - P.S Fuck You Cunt",
       "artist": "Broken Soul x kill me",
       "originalTrackName": "Broken Soul x kill me - Lil Peep - P.S Fuck You Cunt",
@@ -22139,6 +22125,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/give-u-the-moon",
       "mtimeMs": 1783530794452
+    },
+    {
+      "title": "GODS (w/ Lil Tracy)",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - GODS (w/ Lil Tracy)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+        "meta": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
+      "mtimeMs": 1783530879109
     }
   ]
 }

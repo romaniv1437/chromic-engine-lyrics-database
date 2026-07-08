@@ -1,176 +1,253 @@
 [
   {
-    "text": "Fucked up for days, can I catch a break?",
-    "startTime": 8.06,
-    "endTime": 11.12,
+    "text": "I should end you, I tried to play your life, but Fucked",
+    "startTime": 3.66,
+    "endTime": 8.12,
     "words": [
       {
-        "word": "Fucked",
-        "start": 8.24,
-        "end": 8.36,
+        "word": "I",
+        "start": 3.66,
+        "end": 4.18,
+        "stretch": true,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "should",
+        "start": 4.324,
+        "end": 4.42,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "end",
+        "start": 4.42,
+        "end": 4.68,
+        "spoken": true,
         "singer": "singer2"
       },
       {
+        "word": "you,",
+        "start": 4.68,
+        "end": 4.82,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "I",
+        "start": 4.88,
+        "end": 4.92,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "tried",
+        "start": 4.92,
+        "end": 5.12,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "to",
+        "start": 5.12,
+        "end": 5.36,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "play",
+        "start": 5.36,
+        "end": 5.4,
+        "singer": "singer1"
+      },
+      {
+        "word": "your",
+        "start": 5.4,
+        "end": 5.64,
+        "singer": "singer2"
+      },
+      {
+        "word": "life,",
+        "start": 5.64,
+        "end": 5.94,
+        "singer": "singer2"
+      },
+      {
+        "word": "but",
+        "start": 6.34,
+        "end": 6.34,
+        "singer": "singer1"
+      },
+      {
+        "word": "Fucked",
+        "start": 6.69,
+        "end": 8.12,
+        "stretch": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 3.66,
+    "end": 8.12
+  },
+  {
+    "text": "up for days, can I catch a break?",
+    "startTime": 8.12,
+    "endTime": 10.54,
+    "words": [
+      {
         "word": "up",
-        "start": 8.37,
-        "end": 8.66,
+        "start": 8.264,
+        "end": 8.36,
         "singer": "singer1"
       },
       {
         "word": "for",
-        "start": 8.67,
-        "end": 8.92,
+        "start": 8.36,
+        "end": 8.64,
         "singer": "singer1"
       },
       {
         "word": "days,",
-        "start": 9.06,
-        "end": 9.24,
+        "start": 8.64,
+        "end": 8.92,
         "singer": "singer1"
       },
       {
         "word": "can",
-        "start": 9.25,
-        "end": 9.4,
+        "start": 9.1,
+        "end": 9.22,
         "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 9.41,
-        "end": 9.62,
+        "start": 9.22,
+        "end": 9.38,
+        "stretch": true,
         "singer": "singer1"
       },
       {
         "word": "catch",
-        "start": 9.63,
-        "end": 9.96,
-        "spoken": true,
+        "start": 9.38,
+        "end": 9.62,
         "singer": "singer1"
       },
       {
         "word": "a",
-        "start": 10.249,
-        "end": 10.54,
-        "spoken": true,
+        "start": 9.62,
+        "end": 9.96,
+        "stretch": true,
+        "sung": true,
         "singer": "singer1"
       },
       {
         "word": "break?",
-        "start": 10.94,
-        "end": 11.12,
+        "start": 10.239,
+        "end": 10.54,
+        "spoken": true,
         "singer": "singer1"
       }
     ],
-    "time": 8.06,
-    "end": 11.12
+    "time": 8.12,
+    "end": 10.54
   },
   {
-    "text": "Just wanna go away, make it go away",
-    "startTime": 11.13,
-    "endTime": 13.94,
+    "text": "Just wanna go away, make it go away Just running through the",
+    "startTime": 10.74,
+    "endTime": 15.4,
     "words": [
       {
         "word": "Just",
-        "start": 11.13,
-        "end": 11.23,
+        "start": 10.74,
+        "end": 11.08,
         "spoken": true,
-        "singer": "singer2"
+        "singer": "singer1"
       },
       {
         "word": "wanna",
-        "start": 11.24,
+        "start": 11.08,
         "end": 11.36,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "go",
-        "start": 11.718,
+        "start": 11.71,
         "end": 12.02,
-        "spoken": true,
+        "stretch": true,
         "singer": "singer1"
       },
       {
         "word": "away,",
-        "start": 12.228,
-        "end": 12.36,
+        "start": 12.02,
+        "end": 12.34,
         "singer": "singer1"
       },
       {
         "word": "make",
-        "start": 12.37,
-        "end": 12.74,
+        "start": 12.46,
+        "end": 12.68,
         "singer": "singer1"
       },
       {
         "word": "it",
-        "start": 12.75,
+        "start": 12.68,
         "end": 12.88,
         "singer": "singer1"
       },
       {
         "word": "go",
-        "start": 12.89,
+        "start": 12.88,
         "end": 13.06,
         "singer": "singer1"
       },
       {
         "word": "away",
-        "start": 13.42,
-        "end": 13.94,
-        "char_starts": [
-          13.42,
-          13.465,
-          13.555,
-          13.679
-        ],
+        "start": 13.41,
+        "end": 13.92,
+        "stretch": true,
         "spoken": true,
         "singer": "singer1"
-      }
-    ],
-    "time": 11.13,
-    "end": 13.94
-  },
-  {
-    "text": "Just running through the days, running through the pain",
-    "startTime": 14.08,
-    "endTime": 17.6,
-    "words": [
+      },
       {
         "word": "Just",
-        "start": 14.289,
+        "start": 14.27,
         "end": 14.6,
-        "char_starts": [
-          14.289,
-          14.327,
-          14.386,
-          14.457
-        ],
+        "stretch": true,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "running",
-        "start": 14.61,
+        "start": 14.6,
         "end": 14.78,
-        "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "through",
-        "start": 14.988,
-        "end": 15.12,
+        "start": 14.972,
+        "end": 15.1,
+        "sung": true,
         "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 15.13,
+        "start": 15.1,
         "end": 15.4,
+        "spoken": true,
         "singer": "singer1"
-      },
+      }
+    ],
+    "time": 10.74,
+    "end": 15.4
+  },
+  {
+    "text": "days, running through the pain",
+    "startTime": 15.4,
+    "endTime": 17.56,
+    "words": [
       {
         "word": "days,",
-        "start": 15.41,
+        "start": 15.4,
         "end": 15.62,
         "singer": "singer1"
       },
@@ -182,1242 +259,756 @@
       },
       {
         "word": "through",
-        "start": 16.26,
-        "end": 16.4,
+        "start": 16.232,
+        "end": 16.36,
         "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 16.41,
-        "end": 16.96,
-        "char_starts": [
-          16.41,
-          16.537,
-          16.795
-        ],
+        "start": 16.36,
+        "end": 16.88,
+        "stretch": true,
+        "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "pain",
-        "start": 17.063,
-        "end": 17.6,
-        "spoken": true,
+        "start": 17.043,
+        "end": 17.56,
+        "stretch": true,
         "singer": "singer1"
       }
     ],
-    "time": 14.08,
-    "end": 17.6
+    "time": 15.4,
+    "end": 17.56
   },
   {
-    "text": "I'm smoking so much dope, can I take a break?",
-    "startTime": 27.02,
-    "endTime": 28.99,
+    "text": "Just running through the day is, I can't say, sorry, I can't",
+    "startTime": 17.56,
+    "endTime": 44.22,
     "words": [
       {
-        "word": "I'm",
-        "start": 27.11,
-        "end": 27.17,
+        "word": "Just",
+        "start": 17.91,
+        "end": 18.4,
+        "stretch": true,
         "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "smoking",
-        "start": 27.22,
-        "end": 27.37,
-        "spoken": true,
+        "word": "running",
+        "start": 18.4,
+        "end": 23.06,
+        "stretch": true,
         "singer": "singer1"
-      },
-      {
-        "word": "so",
-        "start": 27.732,
-        "end": 27.94,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "much",
-        "start": 27.95,
-        "end": 27.99,
-        "singer": "singer1"
-      },
-      {
-        "word": "dope,",
-        "start": 28,
-        "end": 28.046,
-        "singer": "singer1"
-      },
-      {
-        "word": "can",
-        "start": 28.056,
-        "end": 28.22,
-        "singer": "singer1"
-      },
-      {
-        "word": "I",
-        "start": 28.488,
-        "end": 28.66,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "take",
-        "start": 28.67,
-        "end": 28.77,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "a",
-        "start": 28.78,
-        "end": 28.88,
-        "singer": "singer1"
-      },
-      {
-        "word": "break?",
-        "start": 28.89,
-        "end": 28.99,
-        "singer": "singer1"
-      }
-    ],
-    "time": 27.02,
-    "end": 28.99
-  },
-  {
-    "text": "I know you know I know I made a mistake",
-    "startTime": 27.1,
-    "endTime": 28.19,
-    "words": [
-      {
-        "word": "I",
-        "start": 27.1,
-        "end": 27.2,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "know",
-        "start": 27.21,
-        "end": 27.31,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "you",
-        "start": 27.32,
-        "end": 27.42,
-        "singer": "singer1"
-      },
-      {
-        "word": "know",
-        "start": 27.43,
-        "end": 27.53,
-        "singer": "singer1"
-      },
-      {
-        "word": "I",
-        "start": 27.54,
-        "end": 27.64,
-        "singer": "singer1"
-      },
-      {
-        "word": "know",
-        "start": 27.65,
-        "end": 27.75,
-        "singer": "singer1"
-      },
-      {
-        "word": "I",
-        "start": 27.76,
-        "end": 27.86,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "made",
-        "start": 27.87,
-        "end": 27.97,
-        "singer": "singer1"
-      },
-      {
-        "word": "a",
-        "start": 27.98,
-        "end": 28.08,
-        "singer": "singer1"
-      },
-      {
-        "word": "mistake",
-        "start": 28.09,
-        "end": 28.19,
-        "singer": "singer1"
-      }
-    ],
-    "time": 27.1,
-    "end": 28.19
-  },
-  {
-    "text": "I'm just trying to touch the real but it's plastic, fake",
-    "startTime": 30.57,
-    "endTime": 31.77,
-    "words": [
-      {
-        "word": "I'm",
-        "start": 30.57,
-        "end": 30.67,
-        "singer": "singer1"
-      },
-      {
-        "word": "just",
-        "start": 30.68,
-        "end": 30.78,
-        "singer": "singer1"
-      },
-      {
-        "word": "trying",
-        "start": 30.79,
-        "end": 30.89,
-        "singer": "singer1"
-      },
-      {
-        "word": "to",
-        "start": 30.9,
-        "end": 31,
-        "singer": "singer1"
-      },
-      {
-        "word": "touch",
-        "start": 31.01,
-        "end": 31.11,
-        "singer": "singer1"
-      },
-      {
-        "word": "the",
-        "start": 31.12,
-        "end": 31.22,
-        "singer": "singer1"
-      },
-      {
-        "word": "real",
-        "start": 31.23,
-        "end": 31.33,
-        "singer": "singer1"
-      },
-      {
-        "word": "but",
-        "start": 31.34,
-        "end": 31.44,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "it's",
-        "start": 31.45,
-        "end": 31.55,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "plastic,",
-        "start": 31.56,
-        "end": 31.66,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "fake",
-        "start": 31.67,
-        "end": 31.77,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 30.57,
-    "end": 31.77
-  },
-  {
-    "text": "Bring my life to waste, was it",
-    "startTime": 32.04,
-    "endTime": 38.84,
-    "words": [
-      {
-        "word": "Bring",
-        "start": 32.04,
-        "end": 32.19,
-        "char_starts": [
-          17.61,
-          17.759,
-          17.99,
-          18.267,
-          18.579
-        ],
-        "singer": "singer1"
-      },
-      {
-        "word": "my",
-        "start": 32.24,
-        "end": 32.48,
-        "singer": "singer1"
-      },
-      {
-        "word": "life",
-        "start": 32.653,
-        "end": 33.98,
-        "char_starts": [
-          32.653,
-          32.792,
-          33.074,
-          33.459
-        ],
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "to",
-        "start": 36.399,
-        "end": 36.62,
-        "singer": "singer2"
-      },
-      {
-        "word": "waste,",
-        "start": 36.63,
-        "end": 36.72,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "was",
-        "start": 36.73,
-        "end": 37.02,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 38.74,
-        "end": 38.84,
-        "singer": "singer2"
-      }
-    ],
-    "time": 32.04,
-    "end": 38.84
-  },
-  {
-    "text": "Plastic face, tragic on the way",
-    "startTime": 34.45,
-    "endTime": 35.1,
-    "words": [
-      {
-        "word": "Plastic",
-        "start": 34.45,
-        "end": 34.55,
-        "singer": "singer2"
-      },
-      {
-        "word": "face,",
-        "start": 34.62,
-        "end": 34.66,
-        "singer": "singer2"
-      },
-      {
-        "word": "tragic",
-        "start": 34.67,
-        "end": 34.77,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "on",
-        "start": 34.78,
-        "end": 34.88,
-        "sung": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "the",
-        "start": 34.89,
-        "end": 34.99,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "way",
-        "start": 35,
-        "end": 35.1,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 34.45,
-    "end": 35.1
-  },
-  {
-    "text": "Only way I make it through the day is, I can't say",
-    "startTime": 37.79,
-    "endTime": 39.1,
-    "words": [
-      {
-        "word": "Only",
-        "start": 37.79,
-        "end": 37.89,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "way",
-        "start": 37.9,
-        "end": 38,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "I",
-        "start": 38.01,
-        "end": 38.11,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "make",
-        "start": 38.12,
-        "end": 38.22,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 38.23,
-        "end": 38.33,
-        "spoken": true,
-        "singer": "singer2"
       },
       {
         "word": "through",
-        "start": 38.34,
-        "end": 38.44,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 23.41,
+        "end": 25.04,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 38.45,
-        "end": 38.55,
-        "singer": "singer2"
+        "start": 25.226,
+        "end": 39.38,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "day",
-        "start": 38.56,
-        "end": 38.66,
+        "start": 39.38,
+        "end": 39.64,
+        "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "is,",
-        "start": 38.67,
-        "end": 38.77,
+        "start": 39.772,
+        "end": 39.86,
         "singer": "singer2"
       },
       {
         "word": "I",
-        "start": 38.78,
-        "end": 38.88,
+        "start": 39.86,
+        "end": 39.98,
         "singer": "singer2"
       },
       {
         "word": "can't",
-        "start": 38.89,
-        "end": 38.99,
-        "singer": "singer2"
-      },
-      {
-        "word": "say",
-        "start": 39,
-        "end": 39.1,
-        "singer": "singer2"
-      }
-    ],
-    "time": 37.79,
-    "end": 39.1
-  },
-  {
-    "text": "I can't say, sorry, I can't say",
-    "startTime": 41.34,
-    "endTime": 42.1,
-    "words": [
-      {
-        "word": "I",
-        "start": 41.34,
-        "end": 41.44,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "can't",
-        "start": 41.45,
-        "end": 41.55,
+        "start": 40.235,
+        "end": 40.42,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "say,",
-        "start": 41.56,
-        "end": 41.66,
+        "start": 40.42,
+        "end": 40.98,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "sorry,",
-        "start": 41.67,
-        "end": 41.77,
-        "spoken": true,
+        "start": 41.63,
+        "end": 42.72,
+        "stretch": true,
+        "sung": true,
         "singer": "singer2"
       },
       {
         "word": "I",
-        "start": 41.78,
-        "end": 41.88,
+        "start": 42.72,
+        "end": 43.3,
+        "stretch": true,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "can't",
-        "start": 41.89,
-        "end": 41.99,
+        "start": 43.3,
+        "end": 44.22,
+        "stretch": true,
         "spoken": true,
         "singer": "singer2"
-      },
+      }
+    ],
+    "time": 17.56,
+    "end": 44.22
+  },
+  {
+    "text": "say",
+    "startTime": 44.22,
+    "endTime": 44.22,
+    "words": [
       {
         "word": "say",
-        "start": 42,
-        "end": 42.1,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 41.34,
-    "end": 42.1
-  },
-  {
-    "text": "Sorry mom, I know you hate to see me this way",
-    "startTime": 44.02,
-    "endTime": 45.22,
-    "words": [
-      {
-        "word": "Sorry",
-        "start": 44.02,
-        "end": 44.12,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "mom,",
-        "start": 44.13,
-        "end": 44.23,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "I",
-        "start": 44.24,
-        "end": 44.34,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "know",
-        "start": 44.35,
-        "end": 44.45,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "you",
-        "start": 44.46,
-        "end": 44.56,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "hate",
-        "start": 44.57,
-        "end": 44.67,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "to",
-        "start": 44.68,
-        "end": 44.78,
-        "singer": "singer2"
-      },
-      {
-        "word": "see",
-        "start": 44.79,
-        "end": 44.89,
-        "singer": "singer2"
-      },
-      {
-        "word": "me",
-        "start": 44.9,
-        "end": 45,
-        "singer": "singer2"
-      },
-      {
-        "word": "this",
-        "start": 45.01,
-        "end": 45.11,
-        "singer": "singer2"
-      },
-      {
-        "word": "way",
-        "start": 45.12,
-        "end": 45.22,
-        "singer": "singer2"
-      }
-    ],
-    "time": 44.02,
-    "end": 45.22
-  },
-  {
-    "text": "Was it",
-    "startTime": 45.32,
-    "endTime": 45.92,
-    "words": [
-      {
-        "word": "Was",
-        "start": 45.32,
-        "end": 45.47,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 45.52,
-        "end": 45.92,
-        "singer": "singer2"
-      }
-    ],
-    "time": 45.32,
-    "end": 45.92
-  },
-  {
-    "text": "all a waste?",
-    "startTime": 47.3,
-    "endTime": 48.55,
-    "words": [
-      {
-        "word": "all",
-        "start": 47.416,
-        "end": 48,
-        "char_starts": [
-          47.416,
-          47.585,
-          47.846
-        ],
-        "spoken": true,
+        "start": 44.22,
+        "end": 44.22,
         "singer": "singer1"
-      },
-      {
-        "word": "a",
-        "start": 48.1,
-        "end": 48.44,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "waste?",
-        "start": 48.45,
-        "end": 48.55,
-        "spoken": true,
-        "singer": "singer2"
       }
     ],
-    "time": 47.3,
-    "end": 48.55
+    "time": 44.22,
+    "end": 44.22
   },
   {
-    "text": "Fall in love and jump",
-    "startTime": 47.53,
-    "endTime": 48.07,
+    "text": "Fall in love and jump, are you drunk? I was hiding those",
+    "startTime": 47.56,
+    "endTime": 54.7,
     "words": [
       {
         "word": "Fall",
-        "start": 47.53,
-        "end": 47.63,
+        "start": 47.606,
+        "end": 48.08,
         "singer": "singer1"
       },
       {
         "word": "in",
-        "start": 47.64,
-        "end": 47.74,
+        "start": 48.08,
+        "end": 48.42,
+        "stretch": true,
+        "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "love",
-        "start": 47.75,
-        "end": 47.85,
-        "singer": "singer1"
+        "start": 48.696,
+        "end": 48.88,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "and",
-        "start": 47.86,
-        "end": 47.96,
-        "spoken": true,
+        "start": 48.88,
+        "end": 49.26,
         "singer": "singer1"
       },
       {
-        "word": "jump",
-        "start": 47.97,
-        "end": 48.07,
-        "spoken": true,
+        "word": "jump,",
+        "start": 49.26,
+        "end": 49.9,
         "singer": "singer1"
-      }
-    ],
-    "time": 47.53,
-    "end": 48.07
-  },
-  {
-    "text": "Are you drunk? I was acting dumb",
-    "startTime": 49.99,
-    "endTime": 50.75,
-    "words": [
+      },
       {
-        "word": "Are",
-        "start": 49.99,
-        "end": 50.09,
+        "word": "are",
+        "start": 49.9,
+        "end": 50.44,
+        "stretch": true,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "you",
-        "start": 50.1,
-        "end": 50.2,
+        "start": 50.728,
+        "end": 50.92,
+        "stretch": true,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "drunk?",
-        "start": 50.21,
-        "end": 50.31,
+        "start": 50.92,
+        "end": 52.2,
+        "stretch": true,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 50.32,
-        "end": 50.42,
-        "spoken": true,
+        "start": 52.892,
+        "end": 53.06,
+        "stretch": true,
         "singer": "singer1"
       },
       {
         "word": "was",
-        "start": 50.43,
-        "end": 50.53,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 53.06,
+        "end": 53.46,
+        "singer": "singer1"
       },
       {
-        "word": "acting",
-        "start": 50.54,
-        "end": 50.64,
-        "spoken": true,
-        "singer": "singer2"
+        "word": "hiding",
+        "start": 53.46,
+        "end": 54.06,
+        "singer": "singer1"
       },
       {
-        "word": "dumb",
-        "start": 50.65,
-        "end": 50.75,
-        "whisper": true,
+        "word": "those",
+        "start": 54.199,
+        "end": 54.7,
         "singer": "singer1"
       }
     ],
-    "time": 49.99,
-    "end": 50.75
+    "time": 47.56,
+    "end": 54.7
   },
   {
-    "text": "Pills under my tongue, I feel numb",
-    "startTime": 54.38,
-    "endTime": 55.14,
+    "text": "under my tongue, I feel numb",
+    "startTime": 54.7,
+    "endTime": 58.88,
     "words": [
       {
-        "word": "Pills",
-        "start": 54.38,
-        "end": 54.48,
-        "singer": "singer1"
-      },
-      {
         "word": "under",
-        "start": 54.49,
-        "end": 54.59,
+        "start": 54.839,
+        "end": 55.4,
+        "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "my",
-        "start": 54.6,
-        "end": 54.7,
+        "start": 55.679,
+        "end": 55.98,
+        "stretch": true,
+        "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "tongue,",
-        "start": 54.77,
-        "end": 54.81,
+        "start": 56.22,
+        "end": 56.38,
+        "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 54.82,
-        "end": 54.92,
+        "start": 56.46,
+        "end": 57.18,
+        "stretch": true,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "feel",
-        "start": 54.93,
-        "end": 55.03,
-        "spoken": true,
+        "start": 57.456,
+        "end": 57.64,
         "singer": "singer1"
       },
       {
         "word": "numb",
-        "start": 55.04,
-        "end": 55.14,
-        "singer": "singer1"
-      }
-    ],
-    "time": 54.38,
-    "end": 55.14
-  },
-  {
-    "text": "all a waste? Was it all a waste?",
-    "startTime": 55.02,
-    "endTime": 56.44,
-    "words": [
-      {
-        "word": "all",
-        "start": 55.066,
-        "end": 55.4,
-        "singer": "singer1"
-      },
-      {
-        "word": "a",
-        "start": 55.686,
-        "end": 55.84,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "waste?",
-        "start": 55.85,
-        "end": 55.89,
-        "singer": "singer1"
-      },
-      {
-        "word": "Was",
-        "start": 55.9,
-        "end": 56,
-        "singer": "singer1"
-      },
-      {
-        "word": "it",
-        "start": 56.01,
-        "end": 56.11,
-        "singer": "singer1"
-      },
-      {
-        "word": "all",
-        "start": 56.12,
-        "end": 56.22,
-        "singer": "singer1"
-      },
-      {
-        "word": "a",
-        "start": 56.29,
-        "end": 56.33,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "waste?",
-        "start": 56.34,
-        "end": 56.44,
+        "start": 57.64,
+        "end": 58.88,
+        "stretch": true,
         "spoken": true,
         "singer": "singer1"
       }
     ],
-    "time": 55.02,
-    "end": 56.44
+    "time": 54.7,
+    "end": 58.88
   },
   {
-    "text": "Don't like anyone, empty, fill my cup",
-    "startTime": 58.95,
-    "endTime": 59.71,
+    "text": "Don't like anyone, they feel my cup, I fucked up",
+    "startTime": 58.88,
+    "endTime": 65.9,
     "words": [
       {
         "word": "Don't",
-        "start": 58.95,
-        "end": 59.05,
+        "start": 58.926,
+        "end": 59.78,
+        "stretch": true,
         "singer": "singer1"
       },
       {
         "word": "like",
-        "start": 59.06,
-        "end": 59.16,
+        "start": 59.78,
+        "end": 60.26,
         "singer": "singer1"
       },
       {
         "word": "anyone,",
-        "start": 59.17,
-        "end": 59.27,
-        "singer": "singer1"
+        "start": 60.26,
+        "end": 61.36,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
-        "word": "empty,",
-        "start": 59.28,
-        "end": 59.38,
-        "singer": "singer1"
+        "word": "they",
+        "start": 61.54,
+        "end": 61.88,
+        "singer": "singer2"
       },
       {
-        "word": "fill",
-        "start": 59.39,
-        "end": 59.49,
-        "singer": "singer1"
+        "word": "feel",
+        "start": 61.88,
+        "end": 62.34,
+        "singer": "singer2"
       },
       {
         "word": "my",
-        "start": 59.5,
-        "end": 59.6,
-        "singer": "singer1"
+        "start": 62.34,
+        "end": 62.76,
+        "stretch": true,
+        "singer": "singer2"
       },
       {
-        "word": "cup",
-        "start": 59.67,
-        "end": 59.71,
-        "singer": "singer1"
-      }
-    ],
-    "time": 58.95,
-    "end": 59.71
-  },
-  {
-    "text": "I fucked up, cut me up",
-    "startTime": 63.37,
-    "endTime": 64.02,
-    "words": [
+        "word": "cup,",
+        "start": 62.76,
+        "end": 63.12,
+        "singer": "singer2"
+      },
       {
         "word": "I",
-        "start": 63.37,
-        "end": 63.47,
+        "start": 63.58,
+        "end": 63.98,
+        "stretch": true,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "fucked",
-        "start": 63.48,
-        "end": 63.58,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "up,",
-        "start": 63.59,
-        "end": 63.69,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "cut",
-        "start": 63.7,
-        "end": 63.8,
-        "singer": "singer2"
-      },
-      {
-        "word": "me",
-        "start": 63.81,
-        "end": 63.91,
+        "start": 64.244,
+        "end": 64.42,
         "singer": "singer2"
       },
       {
         "word": "up",
-        "start": 63.92,
-        "end": 64.02,
-        "singer": "singer2"
+        "start": 64.42,
+        "end": 65.9,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
       }
     ],
-    "time": 63.37,
-    "end": 64.02
+    "time": 58.88,
+    "end": 65.9
   },
   {
-    "text": "Might cut you off, you're slumped, he's a bum",
-    "startTime": 67.16,
-    "endTime": 68.14,
+    "text": "Cut me off, I'll cut you off, so he's a bum Get",
+    "startTime": 65.9,
+    "endTime": 73.54,
     "words": [
       {
-        "word": "Might",
-        "start": 67.16,
-        "end": 67.26,
+        "word": "Cut",
+        "start": 65.9,
+        "end": 66.64,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 66.64,
+        "end": 67.06,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "off,",
+        "start": 67.06,
+        "end": 67.42,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'll",
+        "start": 67.712,
+        "end": 68.08,
+        "stretch": true,
         "singer": "singer1"
       },
       {
         "word": "cut",
-        "start": 67.27,
-        "end": 67.37,
+        "start": 68.08,
+        "end": 68.16,
         "singer": "singer1"
       },
       {
         "word": "you",
-        "start": 67.38,
-        "end": 67.48,
-        "singer": "singer2"
-      },
-      {
-        "word": "off,",
-        "start": 67.49,
-        "end": 67.59,
-        "singer": "singer2"
-      },
-      {
-        "word": "you're",
-        "start": 67.66,
-        "end": 67.7,
+        "start": 68.16,
+        "end": 68.66,
+        "stretch": true,
+        "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "slumped,",
-        "start": 67.71,
-        "end": 67.81,
+        "word": "off,",
+        "start": 68.66,
+        "end": 69.2,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "so",
+        "start": 69.6,
+        "end": 69.78,
         "singer": "singer1"
       },
       {
         "word": "he's",
-        "start": 67.82,
-        "end": 67.92,
+        "start": 69.78,
+        "end": 70.96,
+        "stretch": true,
         "singer": "singer1"
       },
       {
         "word": "a",
-        "start": 67.93,
-        "end": 68.03,
+        "start": 71.146,
+        "end": 71.58,
+        "stretch": true,
+        "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "bum",
-        "start": 68.04,
-        "end": 68.14,
+        "start": 71.58,
+        "end": 72.34,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Get",
+        "start": 72.34,
+        "end": 73.54,
+        "stretch": true,
+        "spoken": true,
         "singer": "singer1"
       }
     ],
-    "time": 67.16,
-    "end": 68.14
+    "time": 65.9,
+    "end": 73.54
   },
   {
-    "text": "Drain Gang, yeah, we on, I'm the chosen one",
-    "startTime": 72.54,
-    "endTime": 73.52,
+    "text": "it, we on the show, so I'll fuck you some",
+    "startTime": 73.54,
+    "endTime": 79.1,
     "words": [
       {
-        "word": "Drain",
-        "start": 72.54,
-        "end": 72.64,
-        "singer": "singer1"
-      },
-      {
-        "word": "Gang,",
-        "start": 72.65,
-        "end": 72.75,
-        "singer": "singer1"
-      },
-      {
-        "word": "yeah,",
-        "start": 72.76,
-        "end": 72.86,
+        "word": "it,",
+        "start": 73.54,
+        "end": 74.04,
+        "stretch": true,
         "singer": "singer1"
       },
       {
         "word": "we",
-        "start": 72.87,
-        "end": 72.97,
+        "start": 74.1,
+        "end": 74.52,
+        "stretch": true,
+        "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "on,",
-        "start": 72.98,
-        "end": 73.08,
-        "singer": "singer1"
-      },
-      {
-        "word": "I'm",
-        "start": 73.15,
-        "end": 73.19,
-        "singer": "singer1"
+        "word": "on",
+        "start": 74.52,
+        "end": 75.0,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "the",
-        "start": 73.2,
-        "end": 73.3,
+        "start": 75.0,
+        "end": 75.44,
+        "sung": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "show,",
+        "start": 75.44,
+        "end": 75.72,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "so",
+        "start": 76.22,
+        "end": 76.22,
         "singer": "singer1"
       },
       {
-        "word": "chosen",
-        "start": 73.31,
-        "end": 73.41,
+        "word": "I'll",
+        "start": 76.57,
+        "end": 77.12,
+        "stretch": true,
         "spoken": true,
-        "singer": "singer1"
+        "singer": "singer2"
       },
       {
-        "word": "one",
-        "start": 73.42,
-        "end": 73.52,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 72.54,
-    "end": 73.52
-  },
-  {
-    "text": "Fuck you thought? Get back what I lost",
-    "startTime": 77.31,
-    "endTime": 78.18,
-    "words": [
-      {
-        "word": "Fuck",
-        "start": 77.31,
-        "end": 77.41,
+        "word": "fuck",
+        "start": 77.12,
+        "end": 77.4,
         "singer": "singer2"
       },
       {
         "word": "you",
-        "start": 77.42,
-        "end": 77.52,
+        "start": 77.75,
+        "end": 78.0,
+        "stretch": true,
         "singer": "singer2"
       },
       {
-        "word": "thought?",
-        "start": 77.53,
-        "end": 77.63,
-        "singer": "singer2"
+        "word": "some",
+        "start": 78.0,
+        "end": 79.1,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 73.54,
+    "end": 79.1
+  },
+  {
+    "text": "Forget about what I have, make the call, I'm not used to",
+    "startTime": 79.1,
+    "endTime": 85.58,
+    "words": [
+      {
+        "word": "Forget",
+        "start": 79.332,
+        "end": 80.08,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
-        "word": "Get",
-        "start": 77.64,
-        "end": 77.74,
-        "singer": "singer2"
-      },
-      {
-        "word": "back",
-        "start": 77.81,
-        "end": 77.85,
+        "word": "about",
+        "start": 80.08,
+        "end": 80.84,
+        "stretch": true,
+        "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "what",
-        "start": 77.86,
-        "end": 77.96,
-        "singer": "singer1"
-      },
-      {
-        "word": "I",
-        "start": 77.97,
-        "end": 78.07,
+        "start": 81.128,
+        "end": 81.32,
         "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "lost",
-        "start": 78.08,
-        "end": 78.18,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 77.31,
-    "end": 78.18
-  },
-  {
-    "text": "I make the call, are you slow?",
-    "startTime": 81.66,
-    "endTime": 82.42,
-    "words": [
-      {
         "word": "I",
-        "start": 81.66,
-        "end": 81.76,
+        "start": 81.32,
+        "end": 81.78,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "have,",
+        "start": 81.78,
+        "end": 82.16,
         "singer": "singer1"
       },
       {
         "word": "make",
-        "start": 81.83,
-        "end": 81.87,
+        "start": 82.16,
+        "end": 82.68,
         "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 81.88,
-        "end": 81.98,
+        "start": 82.68,
+        "end": 83.04,
+        "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "call,",
-        "start": 81.99,
-        "end": 82.09,
+        "start": 83.388,
+        "end": 83.62,
+        "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "are",
-        "start": 82.1,
-        "end": 82.2,
+        "word": "I'm",
+        "start": 83.8,
+        "end": 84.16,
+        "stretch": true,
         "singer": "singer1"
       },
       {
-        "word": "you",
-        "start": 82.21,
-        "end": 82.31,
+        "word": "not",
+        "start": 84.16,
+        "end": 84.34,
         "singer": "singer1"
       },
       {
-        "word": "slow?",
-        "start": 82.32,
-        "end": 82.42,
+        "word": "used",
+        "start": 84.664,
+        "end": 84.88,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 84.88,
+        "end": 85.58,
+        "stretch": true,
+        "spoken": true,
         "singer": "singer1"
       }
     ],
-    "time": 81.66,
-    "end": 82.42
+    "time": 79.1,
+    "end": 85.58
   },
   {
-    "text": "Reap the risk I sow",
-    "startTime": 86.02,
-    "endTime": 86.56,
+    "text": "sorry, the risk is low",
+    "startTime": 85.58,
+    "endTime": 89.76,
     "words": [
       {
-        "word": "Reap",
-        "start": 86.02,
-        "end": 86.12,
+        "word": "sorry,",
+        "start": 85.859,
+        "end": 86.48,
+        "stretch": true,
+        "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 86.13,
-        "end": 86.23,
+        "start": 86.94,
+        "end": 87.1,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "risk",
-        "start": 86.24,
-        "end": 86.34,
+        "start": 87.1,
+        "end": 87.68,
         "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "I",
-        "start": 86.35,
-        "end": 86.45,
+        "word": "is",
+        "start": 87.68,
+        "end": 88.2,
+        "stretch": true,
+        "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "sow",
-        "start": 86.46,
-        "end": 86.56,
+        "word": "low",
+        "start": 88.316,
+        "end": 89.76,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 85.58,
+    "end": 89.76
+  },
+  {
+    "text": "●",
+    "startTime": 90.06,
+    "endTime": 120.32,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 90.06,
+    "end": 120.32
+  },
+  {
+    "text": "I'm not used to sorry, the risk is low",
+    "startTime": 120.32,
+    "endTime": 121.743,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 120.32,
+        "end": 121.72,
+        "stretch": true,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "not",
+        "start": 121.643,
+        "end": 121.743,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "used",
+        "start": 121.643,
+        "end": 121.743,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 121.643,
+        "end": 121.743,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "sorry,",
+        "start": 121.643,
+        "end": 121.743,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 121.643,
+        "end": 121.743,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "risk",
+        "start": 121.643,
+        "end": 121.743,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "is",
+        "start": 121.643,
+        "end": 121.743,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "low",
+        "start": 121.643,
+        "end": 121.743,
+        "whisper": true,
         "singer": "singer1"
       }
     ],
-    "time": 86.02,
-    "end": 86.56
+    "time": 120.32,
+    "end": 121.743
   }
 ]

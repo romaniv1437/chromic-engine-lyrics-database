@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T15:19:04.552374+00:00",
+  "generatedAt": "2026-07-08T15:53:05.544725+00:00",
   "totalTracks": 785,
   "roots": [
     "lyrics-db/tracks"
@@ -10976,20 +10976,6 @@
       "sourcePath": "https://soundcloud.com/bladee1000/10-starr",
       "mtimeMs": 1783442865670
     },
-    "bladee::waster": {
-      "title": "WASTER",
-      "artist": "Bladee",
-      "originalTrackName": "Bladee - WASTER",
-      "source": "lrclib_plain",
-      "file": "tracks/bladee-waster-5fb04c5444c5.json",
-      "files": {
-        "lyrics": "tracks/bladee-waster-5fb04c5444c5.json",
-        "meta": "tracks/bladee-waster-5fb04c5444c5.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/bladee1000/12-waster",
-      "mtimeMs": 1783460138356
-    },
     "real::\"i am what you made me\" darth vader x it's snowing like it's the end of the world": {
       "title": "\"i am what you made me\" Darth Vader x it's Snowing like it's the end of the world",
       "artist": "real",
@@ -11033,6 +11019,20 @@
       },
       "sourcePath": "https://soundcloud.com/playek-123/unfair-neighborhood-x-darth",
       "mtimeMs": 1783523944552
+    },
+    "bladee::waster": {
+      "title": "WASTER",
+      "artist": "Bladee",
+      "originalTrackName": "Bladee - WASTER",
+      "source": "whisper_only",
+      "file": "tracks/bladee-waster-5fb04c5444c5.json",
+      "files": {
+        "lyrics": "tracks/bladee-waster-5fb04c5444c5.json",
+        "meta": "tracks/bladee-waster-5fb04c5444c5.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bladee1000/12-waster",
+      "mtimeMs": 1783525987428
     }
   },
   "tracks": [
@@ -22027,20 +22027,6 @@
       "mtimeMs": 1783442865670
     },
     {
-      "title": "WASTER",
-      "artist": "Bladee",
-      "originalTrackName": "Bladee - WASTER",
-      "source": "lrclib_plain",
-      "file": "tracks/bladee-waster-5fb04c5444c5.json",
-      "files": {
-        "lyrics": "tracks/bladee-waster-5fb04c5444c5.json",
-        "meta": "tracks/bladee-waster-5fb04c5444c5.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/bladee1000/12-waster",
-      "mtimeMs": 1783460138356
-    },
-    {
       "title": "\"i am what you made me\" Darth Vader x it's Snowing like it's the end of the world",
       "artist": "real",
       "originalTrackName": "real - \"i am what you made me\" Darth Vader x it's Snowing like it's the end of the world",
@@ -22083,6 +22069,20 @@
       },
       "sourcePath": "https://soundcloud.com/playek-123/unfair-neighborhood-x-darth",
       "mtimeMs": 1783523944552
+    },
+    {
+      "title": "WASTER",
+      "artist": "Bladee",
+      "originalTrackName": "Bladee - WASTER",
+      "source": "whisper_only",
+      "file": "tracks/bladee-waster-5fb04c5444c5.json",
+      "files": {
+        "lyrics": "tracks/bladee-waster-5fb04c5444c5.json",
+        "meta": "tracks/bladee-waster-5fb04c5444c5.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bladee1000/12-waster",
+      "mtimeMs": 1783525987428
     }
   ]
 }

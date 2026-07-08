@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T16:29:43.427075+00:00",
+  "generatedAt": "2026-07-08T16:31:00.256961+00:00",
   "totalTracks": 785,
   "roots": [
     "lyrics-db/tracks"
@@ -10528,20 +10528,6 @@
       "sourcePath": "https://soundcloud.com/b-a-s-i-l-516407819/hafiz-tahir-qadri-1500-sala",
       "mtimeMs": 1782206090646
     },
-    "what it is::what it is - doechii (faster & higher).m4a": {
-      "title": "What It Is - Doechii (Faster & Higher).m4a",
-      "artist": "What It Is",
-      "originalTrackName": "What It Is - What It Is - Doechii (Faster & Higher).m4a",
-      "source": "syncedlyrics",
-      "file": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
-      "files": {
-        "lyrics": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
-        "meta": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
-      "mtimeMs": 1782238835239
-    },
     "spellscasted::snakes prod cight vaiku *rare must collect*": {
       "title": "snakes prod cight vaiku *RARE MUST COLLECT*",
       "artist": "spellscasted",
@@ -11033,6 +11019,20 @@
       },
       "sourcePath": "https://soundcloud.com/zapte_peep/lil-peep-mud-on-my-gucci",
       "mtimeMs": 1783528183921
+    },
+    "what it is::what it is - doechii (faster & higher).m4a": {
+      "title": "What It Is - Doechii (Faster & Higher).m4a",
+      "artist": "What It Is",
+      "originalTrackName": "What It Is - What It Is - Doechii (Faster & Higher).m4a",
+      "source": "syncedlyrics",
+      "file": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
+      "files": {
+        "lyrics": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
+        "meta": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
+      "mtimeMs": 1783528260713
     }
   },
   "tracks": [
@@ -21579,20 +21579,6 @@
       "mtimeMs": 1782206090646
     },
     {
-      "title": "What It Is - Doechii (Faster & Higher).m4a",
-      "artist": "What It Is",
-      "originalTrackName": "What It Is - What It Is - Doechii (Faster & Higher).m4a",
-      "source": "syncedlyrics",
-      "file": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
-      "files": {
-        "lyrics": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
-        "meta": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
-      "mtimeMs": 1782238835239
-    },
-    {
       "title": "snakes prod cight vaiku *RARE MUST COLLECT*",
       "artist": "spellscasted",
       "originalTrackName": "spellscasted - snakes prod cight vaiku *RARE MUST COLLECT*",
@@ -22083,6 +22069,20 @@
       },
       "sourcePath": "https://soundcloud.com/zapte_peep/lil-peep-mud-on-my-gucci",
       "mtimeMs": 1783528183921
+    },
+    {
+      "title": "What It Is - Doechii (Faster & Higher).m4a",
+      "artist": "What It Is",
+      "originalTrackName": "What It Is - What It Is - Doechii (Faster & Higher).m4a",
+      "source": "syncedlyrics",
+      "file": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
+      "files": {
+        "lyrics": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.json",
+        "meta": "tracks/what-it-is-what-it-is-doechii-faster-higher-m4a-d3ac5b46a7c0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/jeremiah-james-930345484/what-it-is-doechii-faster",
+      "mtimeMs": 1783528260713
     }
   ]
 }

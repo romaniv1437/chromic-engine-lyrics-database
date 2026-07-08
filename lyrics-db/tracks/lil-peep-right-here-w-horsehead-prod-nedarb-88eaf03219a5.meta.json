@@ -2,7 +2,7 @@
   "artist": "Lil Peep",
   "track_title": "right here w/ horsehead (prod. nedarb)",
   "track_url": "https://soundcloud.com/lil_peep/right-here-w-horse-head-prod-nedarb",
-  "lyrics_source": "Modal align_from_file",
-  "line_timestamps_source": "whisper_aligner",
-  "updated_at": "2026-06-18T19:19:14.962945+00:00"
+  "lyrics_source": "whisper_only",
+  "line_timestamps_source": "blind-whisper",
+  "updated_at": "2026-07-08T17:21:54.019540+00:00"
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T17:19:50.949385+00:00",
+  "generatedAt": "2026-07-08T17:21:54.019540+00:00",
   "totalTracks": 787,
   "roots": [
     "lyrics-db/tracks"
@@ -10360,20 +10360,6 @@
       "sourcePath": "https://soundcloud.com/lil_peep/star-shopping-prod-kryptik",
       "mtimeMs": 1781720143794
     },
-    "lil peep::right here w/ horsehead (prod. nedarb)": {
-      "title": "right here w/ horsehead (prod. nedarb)",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - right here w/ horsehead (prod. nedarb)",
-      "source": "Modal align_from_file",
-      "file": "tracks/lil-peep-right-here-w-horsehead-prod-nedarb-88eaf03219a5.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-right-here-w-horsehead-prod-nedarb-88eaf03219a5.json",
-        "meta": "tracks/lil-peep-right-here-w-horsehead-prod-nedarb-88eaf03219a5.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/right-here-w-horse-head-prod-nedarb",
-      "mtimeMs": 1781810358705
-    },
     "rock3t::ярмак - баскетбол": {
       "title": "Ярмак - Баскетбол",
       "artist": "RoCk3T",
@@ -11061,6 +11047,20 @@
       },
       "sourcePath": "https://soundcloud.com/1keith/lil-peep-pray-i-die",
       "mtimeMs": 1783531191398
+    },
+    "lil peep::right here w/ horsehead (prod. nedarb)": {
+      "title": "right here w/ horsehead (prod. nedarb)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - right here w/ horsehead (prod. nedarb)",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-right-here-w-horsehead-prod-nedarb-88eaf03219a5.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-right-here-w-horsehead-prod-nedarb-88eaf03219a5.json",
+        "meta": "tracks/lil-peep-right-here-w-horsehead-prod-nedarb-88eaf03219a5.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/right-here-w-horse-head-prod-nedarb",
+      "mtimeMs": 1783531314481
     }
   },
   "tracks": [
@@ -21439,20 +21439,6 @@
       "mtimeMs": 1781720143794
     },
     {
-      "title": "right here w/ horsehead (prod. nedarb)",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - right here w/ horsehead (prod. nedarb)",
-      "source": "Modal align_from_file",
-      "file": "tracks/lil-peep-right-here-w-horsehead-prod-nedarb-88eaf03219a5.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-right-here-w-horsehead-prod-nedarb-88eaf03219a5.json",
-        "meta": "tracks/lil-peep-right-here-w-horsehead-prod-nedarb-88eaf03219a5.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/right-here-w-horse-head-prod-nedarb",
-      "mtimeMs": 1781810358705
-    },
-    {
       "title": "Ярмак - Баскетбол",
       "artist": "RoCk3T",
       "originalTrackName": "RoCk3T - Ярмак - Баскетбол",
@@ -22139,6 +22125,20 @@
       },
       "sourcePath": "https://soundcloud.com/1keith/lil-peep-pray-i-die",
       "mtimeMs": 1783531191398
+    },
+    {
+      "title": "right here w/ horsehead (prod. nedarb)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - right here w/ horsehead (prod. nedarb)",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-right-here-w-horsehead-prod-nedarb-88eaf03219a5.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-right-here-w-horsehead-prod-nedarb-88eaf03219a5.json",
+        "meta": "tracks/lil-peep-right-here-w-horsehead-prod-nedarb-88eaf03219a5.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/right-here-w-horse-head-prod-nedarb",
+      "mtimeMs": 1783531314481
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T20:28:06.312430+00:00",
+  "generatedAt": "2026-07-08T20:29:15.338895+00:00",
   "totalTracks": 788,
   "roots": [
     "lyrics-db/tracks"
@@ -10838,20 +10838,6 @@
       "sourcePath": "https://soundcloud.com/caiman-2-68369149/eren-yaeger-its-snowing-like",
       "mtimeMs": 1783530471570
     },
-    "gustav ahr::gab3 x lil peep - hollywood dreaming (prod. by money posse)": {
-      "title": "Gab3 x Lil Peep - Hollywood Dreaming (Prod. by Money Posse)",
-      "artist": "Gustav Ahr",
-      "originalTrackName": "Gustav Ahr - Gab3 x Lil Peep - Hollywood Dreaming (Prod. by Money Posse)",
-      "source": "syncedlyrics",
-      "file": "tracks/gustav-ahr-gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse-66743d1f5fc7.json",
-      "files": {
-        "lyrics": "tracks/gustav-ahr-gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse-66743d1f5fc7.json",
-        "meta": "tracks/gustav-ahr-gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse-66743d1f5fc7.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/gab3omg/gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse",
-      "mtimeMs": 1783530569610
-    },
     "lil peep::give u the moon (prod. kryptik)": {
       "title": "give u the moon (prod. kryptik)",
       "artist": "Lil Peep",
@@ -11075,6 +11061,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/45116ca6-d610-4d61-bc1f-8bf9ec6c171e",
       "mtimeMs": 1783542486787
+    },
+    "gustav ahr::gab3 x lil peep - hollywood dreaming (prod. by money posse)": {
+      "title": "Gab3 x Lil Peep - Hollywood Dreaming (Prod. by Money Posse)",
+      "artist": "Gustav Ahr",
+      "originalTrackName": "Gustav Ahr - Gab3 x Lil Peep - Hollywood Dreaming (Prod. by Money Posse)",
+      "source": "syncedlyrics",
+      "file": "tracks/gustav-ahr-gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse-66743d1f5fc7.json",
+      "files": {
+        "lyrics": "tracks/gustav-ahr-gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse-66743d1f5fc7.json",
+        "meta": "tracks/gustav-ahr-gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse-66743d1f5fc7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/gab3omg/gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse",
+      "mtimeMs": 1783542555760
     }
   },
   "tracks": [
@@ -21931,20 +21931,6 @@
       "mtimeMs": 1783530471570
     },
     {
-      "title": "Gab3 x Lil Peep - Hollywood Dreaming (Prod. by Money Posse)",
-      "artist": "Gustav Ahr",
-      "originalTrackName": "Gustav Ahr - Gab3 x Lil Peep - Hollywood Dreaming (Prod. by Money Posse)",
-      "source": "syncedlyrics",
-      "file": "tracks/gustav-ahr-gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse-66743d1f5fc7.json",
-      "files": {
-        "lyrics": "tracks/gustav-ahr-gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse-66743d1f5fc7.json",
-        "meta": "tracks/gustav-ahr-gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse-66743d1f5fc7.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/gab3omg/gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse",
-      "mtimeMs": 1783530569610
-    },
-    {
       "title": "give u the moon (prod. kryptik)",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - give u the moon (prod. kryptik)",
@@ -22167,6 +22153,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/45116ca6-d610-4d61-bc1f-8bf9ec6c171e",
       "mtimeMs": 1783542486787
+    },
+    {
+      "title": "Gab3 x Lil Peep - Hollywood Dreaming (Prod. by Money Posse)",
+      "artist": "Gustav Ahr",
+      "originalTrackName": "Gustav Ahr - Gab3 x Lil Peep - Hollywood Dreaming (Prod. by Money Posse)",
+      "source": "syncedlyrics",
+      "file": "tracks/gustav-ahr-gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse-66743d1f5fc7.json",
+      "files": {
+        "lyrics": "tracks/gustav-ahr-gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse-66743d1f5fc7.json",
+        "meta": "tracks/gustav-ahr-gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse-66743d1f5fc7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/gab3omg/gab3-x-lil-peep-hollywood-dreaming-prod-by-money-posse",
+      "mtimeMs": 1783542555760
     }
   ]
 }

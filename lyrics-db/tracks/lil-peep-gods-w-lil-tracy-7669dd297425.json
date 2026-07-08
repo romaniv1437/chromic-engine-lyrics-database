@@ -10,10 +10,10 @@
         "end": 1.48,
         "char_starts": [
           0.163,
-          0.268,
-          0.442,
-          0.68,
-          0.971
+          0.321,
+          0.495,
+          0.726,
+          1.005
         ],
         "whisper": true
       },
@@ -23,12 +23,12 @@
         "end": 3.04,
         "char_starts": [
           1.722,
-          1.797,
-          1.886,
-          2.006,
-          2.153,
-          2.323,
-          2.514
+          1.835,
+          1.948,
+          2.069,
+          2.214,
+          2.379,
+          2.563
         ]
       },
       {
@@ -37,9 +37,9 @@
         "end": 3.82,
         "char_starts": [
           3.05,
-          3.143,
-          3.332,
-          3.589
+          3.165,
+          3.349,
+          3.596
         ],
         "spoken": true
       },
@@ -49,10 +49,10 @@
         "end": 8.72,
         "char_starts": [
           4.18,
-          4.543,
-          5.164,
-          6.005,
-          7.035
+          4.725,
+          5.342,
+          6.158,
+          7.144
         ],
         "whisper": true
       }
@@ -76,13 +76,13 @@
         "end": 10.14,
         "char_starts": [
           8.78,
-          8.848,
-          8.928,
-          9.036,
-          9.167,
-          9.319,
-          9.49,
-          9.679
+          8.882,
+          8.984,
+          9.092,
+          9.221,
+          9.369,
+          9.534,
+          9.715
         ],
         "sung": true,
         "stretch": true
@@ -93,9 +93,9 @@
         "end": 10.88,
         "char_starts": [
           10.15,
-          10.238,
-          10.417,
-          10.661
+          10.26,
+          10.434,
+          10.669
         ]
       },
       {
@@ -104,11 +104,11 @@
         "end": 12.8,
         "char_starts": [
           11.053,
-          11.169,
-          11.333,
-          11.557,
-          11.831,
-          12.149
+          11.228,
+          11.403,
+          11.623,
+          11.889,
+          12.194
         ],
         "whisper": true
       },
@@ -118,11 +118,11 @@
         "end": 14.3,
         "char_starts": [
           12.903,
-          12.996,
-          13.131,
-          13.312,
-          13.534,
-          13.792
+          13.043,
+          13.183,
+          13.362,
+          13.578,
+          13.826
         ],
         "adlib": true,
         "spoken": true
@@ -1211,9 +1211,9 @@
         "end": 105.58,
         "char_starts": [
           105.198,
-          105.248,
-          105.326,
-          105.419
+          105.255,
+          105.332,
+          105.423
         ],
         "spoken": true
       }
@@ -1379,12 +1379,12 @@
         "end": 113.54,
         "char_starts": [
           112.79,
-          112.842,
-          112.923,
-          113.019,
-          113.128,
-          113.247,
-          113.375
+          112.854,
+          112.934,
+          113.029,
+          113.136,
+          113.253,
+          113.378
         ],
         "spoken": true
       },
@@ -1443,7 +1443,7 @@
   {
     "text": "Back in the day, me and SKWAB, we would jugg and rob (pew, pew)",
     "startTime": 116.39,
-    "endTime": 119.9,
+    "endTime": 120.06,
     "words": [
       {
         "word": "Back",
@@ -1496,112 +1496,127 @@
       {
         "word": "would",
         "start": 118.75,
-        "end": 118.9,
-        "spoken": true
+        "end": 118.79
       },
       {
         "word": "jugg",
-        "start": 118.95,
-        "end": 119.1,
-        "spoken": true
+        "start": 118.8,
+        "end": 118.84
       },
       {
         "word": "and",
-        "start": 119.15,
-        "end": 119.3,
-        "spoken": true
+        "start": 118.85,
+        "end": 118.89
       },
       {
         "word": "rob",
-        "start": 119.35,
-        "end": 119.5,
+        "start": 118.9,
+        "end": 118.98,
         "spoken": true
       },
       {
         "word": "(pew,",
-        "start": 119.64,
-        "end": 119.7,
-        "adlib": true
+        "start": 118.99,
+        "end": 119.58,
+        "char_starts": [
+          118.99,
+          119.061,
+          119.171,
+          119.302,
+          119.45
+        ],
+        "adlib": true,
+        "spoken": true
       },
       {
         "word": "pew)",
-        "start": 119.75,
-        "end": 119.9,
+        "start": 119.59,
+        "end": 120.06,
         "adlib": true,
         "spoken": true
       }
     ],
     "time": 116.39,
-    "end": 119.9
+    "end": 120.06
   },
   {
     "text": "Now we pull up to the mall, we look and we cop",
-    "startTime": 122.62,
+    "startTime": 120.07,
     "endTime": 123.68,
     "words": [
       {
         "word": "Now",
-        "start": 122.62,
-        "end": 122.66
+        "start": 120.07,
+        "end": 120.46,
+        "spoken": true
       },
       {
         "word": "we",
-        "start": 122.67,
-        "end": 122.71
+        "start": 120.47,
+        "end": 120.72,
+        "spoken": true
       },
       {
         "word": "pull",
-        "start": 122.72,
-        "end": 122.76
+        "start": 120.73,
+        "end": 121.02,
+        "spoken": true
       },
       {
         "word": "up",
-        "start": 122.77,
-        "end": 122.81
+        "start": 121.03,
+        "end": 121.22,
+        "spoken": true
       },
       {
         "word": "to",
-        "start": 122.82,
-        "end": 122.86
+        "start": 121.23,
+        "end": 121.42,
+        "spoken": true
       },
       {
         "word": "the",
-        "start": 122.87,
-        "end": 122.91
+        "start": 121.43,
+        "end": 121.84,
+        "spoken": true
       },
       {
         "word": "mall,",
-        "start": 122.92,
-        "end": 122.96
+        "start": 121.85,
+        "end": 122.02,
+        "spoken": true
       },
       {
         "word": "we",
-        "start": 122.97,
-        "end": 123.01
+        "start": 122.03,
+        "end": 122.36,
+        "spoken": true
       },
       {
         "word": "look",
-        "start": 123.02,
-        "end": 123.12
+        "start": 122.37,
+        "end": 122.58,
+        "spoken": true
       },
       {
         "word": "and",
-        "start": 123.13,
-        "end": 123.23
+        "start": 122.59,
+        "end": 122.976,
+        "spoken": true
       },
       {
         "word": "we",
-        "start": 123.24,
-        "end": 123.34
+        "start": 122.986,
+        "end": 123.24
       },
       {
         "word": "cop",
-        "start": 123.536,
+        "start": 123.508,
         "end": 123.68,
         "spoken": true
       }
     ],
-    "time": 122.62,
+    "time": 120.07,
     "end": 123.68
   },
   {
@@ -1677,12 +1692,7 @@
       {
         "word": "not",
         "start": 126.89,
-        "end": 127.04,
-        "char_starts": [
-          126.89,
-          126.943,
-          127.01
-        ]
+        "end": 127.04
       }
     ],
     "time": 123.69,
@@ -1691,300 +1701,284 @@
   {
     "text": "●",
     "startTime": 127.34,
-    "endTime": 135.15,
+    "endTime": 141.43,
     "words": [],
     "type": "vocal_cue",
     "time": 127.34,
-    "end": 135.15
+    "end": 141.43
   },
   {
     "text": "Wanna give me a massage in my new garage",
-    "startTime": 135.15,
-    "endTime": 144.154,
+    "startTime": 141.43,
+    "endTime": 151.03,
     "words": [
       {
         "word": "Wanna",
-        "start": 135.196,
-        "end": 136.514,
+        "start": 141.78,
+        "end": 142.92,
         "char_starts": [
-          135.196,
-          135.301,
-          135.486,
-          135.737,
-          136.043
+          141.78,
+          141.917,
+          142.054,
+          142.233,
+          142.449
         ],
         "spoken": true
       },
       {
         "word": "give",
-        "start": 136.687,
-        "end": 137.613,
+        "start": 142.93,
+        "end": 144.38,
         "char_starts": [
-          136.687,
-          136.79,
-          137.0,
-          137.286
+          142.93,
+          143.148,
+          143.468,
+          143.898
         ],
         "spoken": true
       },
       {
         "word": "me",
-        "start": 137.946,
-        "end": 138.162,
+        "start": 144.39,
+        "end": 145.11,
         "spoken": true
       },
       {
         "word": "a",
-        "start": 138.172,
-        "end": 138.437,
+        "start": 145.12,
+        "end": 145.475,
         "spoken": true
       },
       {
         "word": "massage",
-        "start": 138.772,
-        "end": 139.937,
+        "start": 145.835,
+        "end": 146.975,
         "char_starts": [
-          138.772,
-          138.839,
-          138.913,
-          139.013,
-          139.135,
-          139.277,
-          139.436
+          145.835,
+          145.933,
+          146.031,
+          146.129,
+          146.245,
+          146.377,
+          146.523
         ],
         "spoken": true
       },
       {
         "word": "in",
-        "start": 140.36,
-        "end": 141.06,
+        "start": 146.985,
+        "end": 147.705,
         "spoken": true
       },
       {
         "word": "my",
-        "start": 141.42,
-        "end": 141.698,
+        "start": 147.715,
+        "end": 148.435,
         "spoken": true
       },
       {
         "word": "new",
-        "start": 141.708,
-        "end": 142.654,
+        "start": 148.795,
+        "end": 149.53,
         "char_starts": [
-          141.708,
-          141.997,
-          142.446
+          148.795,
+          148.99,
+          149.291
         ],
         "spoken": true
       },
       {
         "word": "garage",
-        "start": 142.664,
-        "end": 144.154,
+        "start": 149.679,
+        "end": 151.03,
         "char_starts": [
-          142.664,
-          142.763,
-          142.912,
-          143.113,
-          143.359,
-          143.644
+          149.679,
+          149.814,
+          149.949,
+          150.119,
+          150.323,
+          150.557
         ],
         "spoken": true
       }
     ],
-    "time": 135.15,
-    "end": 144.154
+    "time": 141.43,
+    "end": 151.03
   },
   {
     "text": "Estra higesma yeya toria",
-    "startTime": 144.164,
-    "endTime": 150.42,
+    "startTime": 153.1,
+    "endTime": 154.78,
     "words": [
       {
         "word": "Estra",
-        "start": 144.514,
-        "end": 145.654,
+        "start": 153.263,
+        "end": 154.02,
         "char_starts": [
-          144.514,
-          144.605,
-          144.74,
-          144.923,
-          145.146
+          153.263,
+          153.354,
+          153.458,
+          153.597,
+          153.765
         ],
         "spoken": true
       },
       {
         "word": "higesma",
-        "start": 146.51,
-        "end": 147.16,
-        "char_starts": [
-          146.51,
-          146.547,
-          146.588,
-          146.641,
-          146.708,
-          146.785,
-          146.871
-        ],
-        "spoken": true
+        "start": 154.03,
+        "end": 154.07
       },
       {
         "word": "yeya",
-        "start": 148.13,
-        "end": 148.92,
-        "char_starts": [
-          148.13,
-          148.209,
-          148.366,
-          148.579
-        ],
-        "spoken": true
+        "start": 154.08,
+        "end": 154.12
       },
       {
         "word": "toria",
-        "start": 149.28,
-        "end": 150.42,
+        "start": 154.13,
+        "end": 154.78,
         "char_starts": [
-          149.28,
-          149.371,
-          149.506,
-          149.689,
-          149.912
+          154.13,
+          154.208,
+          154.306,
+          154.437,
+          154.596
         ],
         "spoken": true
       }
     ],
-    "time": 144.164,
-    "end": 150.42
+    "time": 153.1,
+    "end": 154.78
   },
   {
     "text": "Kesya yachesna hiya steria",
-    "startTime": 154.28,
-    "endTime": 156.327,
+    "startTime": 154.79,
+    "endTime": 159.2,
     "words": [
       {
         "word": "Kesya",
-        "start": 154.28,
-        "end": 154.43,
+        "start": 154.836,
+        "end": 155.849,
         "char_starts": [
-          154.28,
-          154.307,
-          154.335,
-          154.363,
-          154.391
+          154.836,
+          154.958,
+          155.109,
+          155.309,
+          155.551
         ],
         "spoken": true
       },
       {
         "word": "yachesna",
-        "start": 154.828,
-        "end": 155.9,
+        "start": 156.209,
+        "end": 157.349,
         "char_starts": [
-          154.828,
-          154.882,
-          154.936,
-          155.006,
-          155.092,
-          155.191,
-          155.301,
-          155.424
+          156.209,
+          156.294,
+          156.38,
+          156.465,
+          156.557,
+          156.661,
+          156.777,
+          156.903
         ],
         "spoken": true
       },
       {
         "word": "hiya",
-        "start": 156.007,
-        "end": 156.071,
-        "spoken": true
-      },
-      {
-        "word": "steria",
-        "start": 156.081,
-        "end": 156.327,
-        "spoken": true
-      }
-    ],
-    "time": 154.28,
-    "end": 156.327
-  },
-  {
-    "text": "Estra higesma yeya toria",
-    "startTime": 156.337,
-    "endTime": 157.225,
-    "words": [
-      {
-        "word": "Estra",
-        "start": 156.337,
-        "end": 156.541,
-        "spoken": true
-      },
-      {
-        "word": "higesma",
-        "start": 156.551,
-        "end": 156.84,
-        "spoken": true
-      },
-      {
-        "word": "yeya",
-        "start": 156.85,
-        "end": 157.011,
-        "spoken": true
-      },
-      {
-        "word": "toria",
-        "start": 157.021,
-        "end": 157.225,
-        "spoken": true
-      }
-    ],
-    "time": 156.337,
-    "end": 157.225
-  },
-  {
-    "text": "Kesya yachesna hiya steria",
-    "startTime": 157.235,
-    "endTime": 159.793,
-    "words": [
-      {
-        "word": "Kesya",
-        "start": 157.235,
-        "end": 157.438,
-        "spoken": true
-      },
-      {
-        "word": "yachesna",
-        "start": 157.448,
-        "end": 157.78,
-        "spoken": true
-      },
-      {
-        "word": "hiya",
-        "start": 157.79,
+        "start": 157.56,
         "end": 159.04,
         "char_starts": [
-          157.79,
-          157.93,
-          158.215,
-          158.602
+          157.56,
+          157.782,
+          158.109,
+          158.548
         ],
         "spoken": true
       },
       {
         "word": "steria",
-        "start": 159.4,
-        "end": 159.793,
-        "char_starts": [
-          159.4,
-          159.43,
-          159.46,
-          159.495,
-          159.538,
-          159.587
-        ],
+        "start": 159.05,
+        "end": 159.2,
         "spoken": true
       }
     ],
-    "time": 157.235,
-    "end": 159.793
+    "time": 154.79,
+    "end": 159.2
+  },
+  {
+    "text": "●",
+    "startTime": 159.5,
+    "endTime": 164.693,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 159.5,
+    "end": 164.693
+  },
+  {
+    "text": "Estra higesma yeya toria",
+    "startTime": 164.693,
+    "endTime": 164.793,
+    "words": [
+      {
+        "word": "Estra",
+        "start": 164.693,
+        "end": 164.793,
+        "whisper": true
+      },
+      {
+        "word": "higesma",
+        "start": 164.693,
+        "end": 164.793,
+        "whisper": true
+      },
+      {
+        "word": "yeya",
+        "start": 164.693,
+        "end": 164.793,
+        "whisper": true
+      },
+      {
+        "word": "toria",
+        "start": 164.693,
+        "end": 164.793,
+        "whisper": true
+      }
+    ],
+    "time": 164.693,
+    "end": 164.793
+  },
+  {
+    "text": "Kesya yachesna hiya steria",
+    "startTime": 164.693,
+    "endTime": 164.793,
+    "words": [
+      {
+        "word": "Kesya",
+        "start": 164.693,
+        "end": 164.793,
+        "whisper": true
+      },
+      {
+        "word": "yachesna",
+        "start": 164.693,
+        "end": 164.793,
+        "whisper": true
+      },
+      {
+        "word": "hiya",
+        "start": 164.693,
+        "end": 164.793,
+        "whisper": true
+      },
+      {
+        "word": "steria",
+        "start": 164.693,
+        "end": 164.793,
+        "whisper": true
+      }
+    ],
+    "time": 164.693,
+    "end": 164.793
   }
 ]

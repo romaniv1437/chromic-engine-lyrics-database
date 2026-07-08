@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T20:31:54.218138+00:00",
+  "generatedAt": "2026-07-08T20:33:11.680480+00:00",
   "totalTracks": 788,
   "roots": [
     "lyrics-db/tracks"
@@ -10838,20 +10838,6 @@
       "sourcePath": "https://soundcloud.com/caiman-2-68369149/eren-yaeger-its-snowing-like",
       "mtimeMs": 1783530471570
     },
-    "☆lil peep☆::gods (w/ lil tracy)": {
-      "title": "GODS (w/ Lil Tracy)",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - GODS (w/ Lil Tracy)",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
-        "meta": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
-      "mtimeMs": 1783530879109
-    },
     "lil peep::right here w/ horsehead (prod. nedarb)": {
       "title": "right here w/ horsehead (prod. nedarb)",
       "artist": "Lil Peep",
@@ -11075,6 +11061,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/give-u-the-moon",
       "mtimeMs": 1783542714981
+    },
+    "☆lil peep☆::gods (w/ lil tracy)": {
+      "title": "GODS (w/ Lil Tracy)",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - GODS (w/ Lil Tracy)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+        "meta": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
+      "mtimeMs": 1783542792297
     }
   },
   "tracks": [
@@ -21931,20 +21931,6 @@
       "mtimeMs": 1783530471570
     },
     {
-      "title": "GODS (w/ Lil Tracy)",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - GODS (w/ Lil Tracy)",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
-        "meta": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
-      "mtimeMs": 1783530879109
-    },
-    {
       "title": "right here w/ horsehead (prod. nedarb)",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - right here w/ horsehead (prod. nedarb)",
@@ -22167,6 +22153,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/give-u-the-moon",
       "mtimeMs": 1783542714981
+    },
+    {
+      "title": "GODS (w/ Lil Tracy)",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - GODS (w/ Lil Tracy)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.json",
+        "meta": "tracks/lil-peep-gods-w-lil-tracy-7669dd297425.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
+      "mtimeMs": 1783542792297
     }
   ]
 }

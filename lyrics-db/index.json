@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-08T17:06:37.932598+00:00",
-  "totalTracks": 786,
+  "generatedAt": "2026-07-08T17:07:50.911113+00:00",
+  "totalTracks": 787,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11047,6 +11047,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/dont-panic",
       "mtimeMs": 1783530398366
+    },
+    "caiman 2::eren yaeger- it’s snowing like it’s the end of the world": {
+      "title": "Eren Yaeger- it’s snowing like it’s the end of the world",
+      "artist": "Caiman 2",
+      "originalTrackName": "Caiman 2 - Eren Yaeger- it’s snowing like it’s the end of the world",
+      "source": "whisper_only",
+      "file": "tracks/caiman-2-eren-yaeger-it-s-snowing-like-it-s-the-end-of-the-world-b9c90f699379.json",
+      "files": {
+        "lyrics": "tracks/caiman-2-eren-yaeger-it-s-snowing-like-it-s-the-end-of-the-world-b9c90f699379.json",
+        "meta": "tracks/caiman-2-eren-yaeger-it-s-snowing-like-it-s-the-end-of-the-world-b9c90f699379.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/caiman-2-68369149/eren-yaeger-its-snowing-like",
+      "mtimeMs": 1783530471570
     }
   },
   "tracks": [
@@ -22111,6 +22125,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/dont-panic",
       "mtimeMs": 1783530398366
+    },
+    {
+      "title": "Eren Yaeger- it’s snowing like it’s the end of the world",
+      "artist": "Caiman 2",
+      "originalTrackName": "Caiman 2 - Eren Yaeger- it’s snowing like it’s the end of the world",
+      "source": "whisper_only",
+      "file": "tracks/caiman-2-eren-yaeger-it-s-snowing-like-it-s-the-end-of-the-world-b9c90f699379.json",
+      "files": {
+        "lyrics": "tracks/caiman-2-eren-yaeger-it-s-snowing-like-it-s-the-end-of-the-world-b9c90f699379.json",
+        "meta": "tracks/caiman-2-eren-yaeger-it-s-snowing-like-it-s-the-end-of-the-world-b9c90f699379.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/caiman-2-68369149/eren-yaeger-its-snowing-like",
+      "mtimeMs": 1783530471570
     }
   ]
 }

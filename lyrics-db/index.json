@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T16:34:22.522002+00:00",
+  "generatedAt": "2026-07-08T16:35:26.285145+00:00",
   "totalTracks": 785,
   "roots": [
     "lyrics-db/tracks"
@@ -10668,20 +10668,6 @@
       "sourcePath": "https://soundcloud.com/6hours/lil-peep-x-lil-tracy-fuck-fame-prod-dj-smokey",
       "mtimeMs": 1782860456785
     },
-    "broken soul x kill me::lil peep - p.s fuck you cunt": {
-      "title": "Lil Peep - P.S Fuck You Cunt",
-      "artist": "Broken Soul x kill me",
-      "originalTrackName": "Broken Soul x kill me - Lil Peep - P.S Fuck You Cunt",
-      "source": "syncedlyrics",
-      "file": "tracks/broken-soul-x-kill-me-lil-peep-p-s-fuck-you-cunt-890be66ecac4.json",
-      "files": {
-        "lyrics": "tracks/broken-soul-x-kill-me-lil-peep-p-s-fuck-you-cunt-890be66ecac4.json",
-        "meta": "tracks/broken-soul-x-kill-me-lil-peep-p-s-fuck-you-cunt-890be66ecac4.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/user-538322163/lil-peep-ps-fuck-you-cunt",
-      "mtimeMs": 1783034548974
-    },
     "ibeantrill::lil peep - told ya": {
       "title": "LiL PEEP - Told Ya",
       "artist": "ibeantrill",
@@ -11033,6 +11019,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
       "mtimeMs": 1783528463155
+    },
+    "broken soul x kill me::lil peep - p.s fuck you cunt": {
+      "title": "Lil Peep - P.S Fuck You Cunt",
+      "artist": "Broken Soul x kill me",
+      "originalTrackName": "Broken Soul x kill me - Lil Peep - P.S Fuck You Cunt",
+      "source": "whisper_only",
+      "file": "tracks/broken-soul-x-kill-me-lil-peep-p-s-fuck-you-cunt-890be66ecac4.json",
+      "files": {
+        "lyrics": "tracks/broken-soul-x-kill-me-lil-peep-p-s-fuck-you-cunt-890be66ecac4.json",
+        "meta": "tracks/broken-soul-x-kill-me-lil-peep-p-s-fuck-you-cunt-890be66ecac4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-538322163/lil-peep-ps-fuck-you-cunt",
+      "mtimeMs": 1783528526725
     }
   },
   "tracks": [
@@ -21719,20 +21719,6 @@
       "mtimeMs": 1782860456785
     },
     {
-      "title": "Lil Peep - P.S Fuck You Cunt",
-      "artist": "Broken Soul x kill me",
-      "originalTrackName": "Broken Soul x kill me - Lil Peep - P.S Fuck You Cunt",
-      "source": "syncedlyrics",
-      "file": "tracks/broken-soul-x-kill-me-lil-peep-p-s-fuck-you-cunt-890be66ecac4.json",
-      "files": {
-        "lyrics": "tracks/broken-soul-x-kill-me-lil-peep-p-s-fuck-you-cunt-890be66ecac4.json",
-        "meta": "tracks/broken-soul-x-kill-me-lil-peep-p-s-fuck-you-cunt-890be66ecac4.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/user-538322163/lil-peep-ps-fuck-you-cunt",
-      "mtimeMs": 1783034548974
-    },
-    {
       "title": "LiL PEEP - Told Ya",
       "artist": "ibeantrill",
       "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
@@ -22083,6 +22069,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/gods-w-lil-tracy",
       "mtimeMs": 1783528463155
+    },
+    {
+      "title": "Lil Peep - P.S Fuck You Cunt",
+      "artist": "Broken Soul x kill me",
+      "originalTrackName": "Broken Soul x kill me - Lil Peep - P.S Fuck You Cunt",
+      "source": "whisper_only",
+      "file": "tracks/broken-soul-x-kill-me-lil-peep-p-s-fuck-you-cunt-890be66ecac4.json",
+      "files": {
+        "lyrics": "tracks/broken-soul-x-kill-me-lil-peep-p-s-fuck-you-cunt-890be66ecac4.json",
+        "meta": "tracks/broken-soul-x-kill-me-lil-peep-p-s-fuck-you-cunt-890be66ecac4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-538322163/lil-peep-ps-fuck-you-cunt",
+      "mtimeMs": 1783528526725
     }
   ]
 }

@@ -1,70 +1,507 @@
 [
   {
-    "text": "●",
-    "startTime": 0.3,
-    "endTime": 25.92,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 0.3,
-    "end": 25.92
-  },
-  {
-    "text": "All of these Perkies",
-    "startTime": 25.92,
-    "endTime": 28.7,
+    "text": "close my eyes and never wake up tonight",
+    "startTime": 0.302,
+    "endTime": 4.98,
     "words": [
       {
-        "word": "All",
-        "start": 25.92,
-        "end": 26.07,
+        "word": "close",
+        "start": 0.302,
+        "end": 1.0,
+        "stretch": true
+      },
+      {
+        "word": "my",
+        "start": 1.0,
+        "end": 1.56,
+        "stretch": true
+      },
+      {
+        "word": "eyes",
+        "start": 1.56,
+        "end": 2.02
+      },
+      {
+        "word": "and",
+        "start": 2.02,
+        "end": 2.34,
         "spoken": true
       },
       {
-        "word": "of",
+        "word": "never",
+        "start": 2.34,
+        "end": 2.76
+      },
+      {
+        "word": "wake",
+        "start": 2.76,
+        "end": 3.38,
+        "stretch": true
+      },
+      {
+        "word": "up",
+        "start": 3.38,
+        "end": 3.68,
+        "stretch": true
+      },
+      {
+        "word": "tonight",
+        "start": 3.68,
+        "end": 4.98,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 0.302,
+    "end": 4.98
+  },
+  {
+    "text": "i just wanna make you mine, getting high in the candlelight",
+    "startTime": 6.12,
+    "endTime": 12.3,
+    "words": [
+      {
+        "word": "i",
+        "start": 6.12,
+        "end": 6.84,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "just",
+        "start": 6.84,
+        "end": 7.18,
+        "spoken": true
+      },
+      {
+        "word": "wanna",
+        "start": 7.18,
+        "end": 7.42,
+        "spoken": true
+      },
+      {
+        "word": "make",
+        "start": 7.42,
+        "end": 8.0,
+        "sung": true
+      },
+      {
+        "word": "you",
+        "start": 8.0,
+        "end": 8.5,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "mine,",
+        "start": 8.5,
+        "end": 8.76
+      },
+      {
+        "word": "getting",
+        "start": 8.76,
+        "end": 9.12,
+        "sung": true
+      },
+      {
+        "word": "high",
+        "start": 9.12,
+        "end": 9.68,
+        "sung": true
+      },
+      {
+        "word": "in",
+        "start": 9.68,
+        "end": 9.92,
+        "sung": true
+      },
+      {
+        "word": "the",
+        "start": 9.92,
+        "end": 10.24
+      },
+      {
+        "word": "candlelight",
+        "start": 10.24,
+        "end": 12.3,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 6.12,
+    "end": 12.3
+  },
+  {
+    "text": "baby i just poured an 8 and a 2 liter sprite, fuck",
+    "startTime": 12.3,
+    "endTime": 16.8,
+    "words": [
+      {
+        "word": "baby",
+        "start": 12.3,
+        "end": 13.5,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "i",
+        "start": 13.5,
+        "end": 13.74,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "just",
+        "start": 13.74,
+        "end": 14.06,
+        "spoken": true
+      },
+      {
+        "word": "poured",
+        "start": 14.06,
+        "end": 14.2,
+        "sung": true
+      },
+      {
+        "word": "an",
+        "start": 14.2,
+        "end": 14.56,
+        "stretch": true
+      },
+      {
+        "word": "8",
+        "start": 14.56,
+        "end": 14.82,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 14.82,
+        "end": 15.02,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 15.02,
+        "end": 15.32,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "2",
+        "start": 15.32,
+        "end": 15.7,
+        "stretch": true
+      },
+      {
+        "word": "liter",
+        "start": 15.7,
+        "end": 15.96,
+        "spoken": true
+      },
+      {
+        "word": "sprite,",
+        "start": 15.96,
+        "end": 16.42
+      },
+      {
+        "word": "fuck",
+        "start": 16.44,
+        "end": 16.8
+      }
+    ],
+    "time": 12.3,
+    "end": 16.8
+  },
+  {
+    "text": "it i'll be fine",
+    "startTime": 16.8,
+    "endTime": 18.76,
+    "words": [
+      {
+        "word": "it",
+        "start": 16.8,
+        "end": 17.12,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "i'll",
+        "start": 17.12,
+        "end": 17.38,
+        "spoken": true
+      },
+      {
+        "word": "be",
+        "start": 17.38,
+        "end": 17.78,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "fine",
+        "start": 17.78,
+        "end": 18.76,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 16.8,
+    "end": 18.76
+  },
+  {
+    "text": "i just dropped a couple green pills in my sprite, baby i'll",
+    "startTime": 19.82,
+    "endTime": 24.3,
+    "words": [
+      {
+        "word": "i",
+        "start": 19.82,
+        "end": 20.54,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "just",
+        "start": 20.54,
+        "end": 20.9,
+        "spoken": true
+      },
+      {
+        "word": "dropped",
+        "start": 20.9,
+        "end": 21.08,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 21.08,
+        "end": 21.26,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "couple",
+        "start": 21.26,
+        "end": 21.62
+      },
+      {
+        "word": "green",
+        "start": 21.62,
+        "end": 22.08,
+        "sung": true
+      },
+      {
+        "word": "pills",
+        "start": 22.08,
+        "end": 22.54,
+        "sung": true
+      },
+      {
+        "word": "in",
+        "start": 22.54,
+        "end": 22.76
+      },
+      {
+        "word": "my",
+        "start": 22.76,
+        "end": 23.02,
+        "spoken": true
+      },
+      {
+        "word": "sprite,",
+        "start": 23.02,
+        "end": 23.34,
+        "sung": true
+      },
+      {
+        "word": "baby",
+        "start": 23.38,
+        "end": 23.88,
+        "sung": true
+      },
+      {
+        "word": "i'll",
+        "start": 23.88,
+        "end": 24.3,
+        "spoken": true
+      }
+    ],
+    "time": 19.82,
+    "end": 24.3
+  },
+  {
+    "text": "be fine",
+    "startTime": 24.3,
+    "endTime": 25.16,
+    "words": [
+      {
+        "word": "be",
+        "start": 24.3,
+        "end": 24.68,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "fine",
+        "start": 24.68,
+        "end": 25.16,
+        "sung": true
+      }
+    ],
+    "time": 24.3,
+    "end": 25.16
+  },
+  {
+    "text": "and fuck it if i die it was by your side",
+    "startTime": 25.16,
+    "endTime": 28.08,
+    "words": [
+      {
+        "word": "and",
+        "start": 25.16,
+        "end": 25.56,
+        "spoken": true
+      },
+      {
+        "word": "fuck",
+        "start": 25.56,
+        "end": 25.84,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 25.84,
+        "end": 26.12,
+        "spoken": true
+      },
+      {
+        "word": "if",
         "start": 26.12,
         "end": 26.26,
         "spoken": true
       },
       {
-        "word": "these",
+        "word": "i",
+        "start": 26.26,
+        "end": 26.52,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "die",
+        "start": 26.52,
+        "end": 26.82,
+        "spoken": true
+      },
+      {
+        "word": "it",
         "start": 26.82,
+        "end": 27.02,
+        "spoken": true
+      },
+      {
+        "word": "was",
+        "start": 27.02,
         "end": 27.2,
         "spoken": true
       },
       {
-        "word": "Perkies",
-        "start": 27.56,
-        "end": 28.7,
-        "char_starts": [
-          27.56,
-          27.296,
-          27.43,
-          27.59,
-          27.77,
-          27.967,
-          28.178
-        ],
-        "sung": true,
-        "stretch": true
+        "word": "by",
+        "start": 27.2,
+        "end": 27.58,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "your",
+        "start": 27.58,
+        "end": 27.92
+      },
+      {
+        "word": "side",
+        "start": 27.92,
+        "end": 28.08,
+        "spoken": true
       }
     ],
-    "time": 25.92,
-    "end": 28.7
+    "time": 25.16,
+    "end": 28.08
   },
   {
-    "text": "●",
-    "startTime": 29,
-    "endTime": 35.98,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 29,
-    "end": 35.98
-  },
-  {
-    "text": "don't save me",
-    "startTime": 35.98,
-    "endTime": 39.46,
+    "text": "pull me closer, i can't be your man",
+    "startTime": 28.08,
+    "endTime": 35.32,
     "words": [
+      {
+        "word": "pull",
+        "start": 28.08,
+        "end": 28.76,
+        "stretch": true
+      },
+      {
+        "word": "me",
+        "start": 29.11,
+        "end": 29.72,
+        "stretch": true
+      },
+      {
+        "word": "closer,",
+        "start": 29.72,
+        "end": 31.14,
+        "stretch": true
+      },
+      {
+        "word": "i",
+        "start": 31.49,
+        "end": 32.34,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "can't",
+        "start": 32.69,
+        "end": 33.18,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "be",
+        "start": 33.18,
+        "end": 34.16,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "your",
+        "start": 34.16,
+        "end": 34.62,
+        "spoken": true
+      },
+      {
+        "word": "man",
+        "start": 34.62,
+        "end": 35.32,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 28.08,
+    "end": 35.32
+  },
+  {
+    "text": "i don't think you understand, it's obvious to me i wasn't in",
+    "startTime": 35.32,
+    "endTime": 40.4,
+    "words": [
+      {
+        "word": "i",
+        "start": 35.32,
+        "end": 35.98,
+        "stretch": true,
+        "sung": true
+      },
       {
         "word": "don't",
         "start": 35.98,
@@ -72,92 +509,761 @@
         "spoken": true
       },
       {
-        "word": "save",
+        "word": "think",
+        "start": 36.352,
+        "end": 36.44,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 36.44,
+        "end": 36.76,
+        "sung": true
+      },
+      {
+        "word": "understand,",
+        "start": 37.039,
+        "end": 37.8,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "it's",
         "start": 38.25,
+        "end": 38.6,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "obvious",
+        "start": 38.6,
         "end": 38.96,
-        "char_starts": [
-          38.25,
-          38.028,
-          38.288,
-          38.642
-        ],
+        "spoken": true
+      },
+      {
+        "word": "to",
+        "start": 38.96,
+        "end": 39.28,
+        "stretch": true,
         "spoken": true
       },
       {
         "word": "me",
         "start": 39.28,
         "end": 39.46,
+        "sung": true
+      },
+      {
+        "word": "i",
+        "start": 39.46,
+        "end": 39.64,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "wasn't",
+        "start": 39.872,
+        "end": 40.14,
+        "sung": true
+      },
+      {
+        "word": "in",
+        "start": 40.14,
+        "end": 40.4,
         "spoken": true
       }
     ],
-    "time": 35.98,
-    "end": 39.46
+    "time": 35.32,
+    "end": 40.4
   },
   {
-    "text": "●",
-    "startTime": 39.76,
-    "endTime": 82.04,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 39.76,
-    "end": 82.04
-  },
-  {
-    "text": "All of these Xannys",
-    "startTime": 82.04,
-    "endTime": 84.82,
+    "text": "the plan",
+    "startTime": 40.4,
+    "endTime": 41.5,
     "words": [
       {
-        "word": "All",
-        "start": 82.04,
-        "end": 82.19,
+        "word": "the",
+        "start": 40.4,
+        "end": 40.66
+      },
+      {
+        "word": "plan",
+        "start": 41.01,
+        "end": 41.5,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 40.4,
+    "end": 41.5
+  },
+  {
+    "text": "never sober, i can't be your man",
+    "startTime": 43.02,
+    "endTime": 49.08,
+    "words": [
+      {
+        "word": "never",
+        "start": 43.275,
+        "end": 43.88,
+        "stretch": true
+      },
+      {
+        "word": "sober,",
+        "start": 43.88,
+        "end": 44.74,
+        "stretch": true
+      },
+      {
+        "word": "i",
+        "start": 45.54,
+        "end": 46.02,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "can't",
+        "start": 46.37,
+        "end": 46.92,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "be",
+        "start": 47.27,
+        "end": 47.82,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "your",
+        "start": 47.82,
+        "end": 48.32,
         "spoken": true
       },
       {
-        "word": "of",
+        "word": "man",
+        "start": 48.32,
+        "end": 49.08,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 43.02,
+    "end": 49.08
+  },
+  {
+    "text": "i don't think you understand, it's obvious to me you are my",
+    "startTime": 49.08,
+    "endTime": 53.98,
+    "words": [
+      {
+        "word": "i",
+        "start": 49.08,
+        "end": 49.68,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "don't",
+        "start": 49.68,
+        "end": 49.84,
+        "spoken": true
+      },
+      {
+        "word": "think",
+        "start": 50.008,
+        "end": 50.12,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 50.19,
+        "end": 50.44
+      },
+      {
+        "word": "understand,",
+        "start": 50.765,
+        "end": 51.54,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "it's",
+        "start": 51.54,
+        "end": 52.32,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "obvious",
+        "start": 52.32,
+        "end": 52.66,
+        "sung": true
+      },
+      {
+        "word": "to",
+        "start": 52.66,
+        "end": 53.02,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 53.02,
+        "end": 53.28,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 53.28,
+        "end": 53.56,
+        "sung": true
+      },
+      {
+        "word": "are",
+        "start": 53.56,
+        "end": 53.68,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 53.68,
+        "end": 53.98,
+        "sung": true
+      }
+    ],
+    "time": 49.08,
+    "end": 53.98
+  },
+  {
+    "text": "rubber bands",
+    "startTime": 53.98,
+    "endTime": 54.96,
+    "words": [
+      {
+        "word": "rubber",
+        "start": 53.98,
+        "end": 54.3,
+        "spoken": true
+      },
+      {
+        "word": "bands",
+        "start": 54.3,
+        "end": 54.96,
+        "sung": true
+      }
+    ],
+    "time": 53.98,
+    "end": 54.96
+  },
+  {
+    "text": "baby close my eyes and never wake up tonight",
+    "startTime": 55.78,
+    "endTime": 60.2,
+    "words": [
+      {
+        "word": "baby",
+        "start": 56.13,
+        "end": 56.46,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "close",
+        "start": 56.46,
+        "end": 57.14
+      },
+      {
+        "word": "my",
+        "start": 57.14,
+        "end": 57.68,
+        "stretch": true
+      },
+      {
+        "word": "eyes",
+        "start": 57.68,
+        "end": 58.14
+      },
+      {
+        "word": "and",
+        "start": 58.14,
+        "end": 58.44,
+        "spoken": true
+      },
+      {
+        "word": "never",
+        "start": 58.44,
+        "end": 58.9
+      },
+      {
+        "word": "wake",
+        "start": 58.9,
+        "end": 59.48
+      },
+      {
+        "word": "up",
+        "start": 59.48,
+        "end": 59.8,
+        "stretch": true
+      },
+      {
+        "word": "tonight",
+        "start": 59.8,
+        "end": 60.2,
+        "spoken": true
+      }
+    ],
+    "time": 55.78,
+    "end": 60.2
+  },
+  {
+    "text": "i just wanna make you mine, getting high in the candlelight",
+    "startTime": 62.26,
+    "endTime": 68.3,
+    "words": [
+      {
+        "word": "i",
+        "start": 62.26,
+        "end": 62.94,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "just",
+        "start": 62.94,
+        "end": 63.3,
+        "spoken": true
+      },
+      {
+        "word": "wanna",
+        "start": 63.3,
+        "end": 63.52,
+        "spoken": true
+      },
+      {
+        "word": "make",
+        "start": 63.52,
+        "end": 64.14,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "you",
+        "start": 64.14,
+        "end": 64.6,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "mine,",
+        "start": 64.6,
+        "end": 64.86,
+        "sung": true
+      },
+      {
+        "word": "getting",
+        "start": 65.14,
+        "end": 65.22,
+        "spoken": true
+      },
+      {
+        "word": "high",
+        "start": 65.22,
+        "end": 65.8,
+        "sung": true
+      },
+      {
+        "word": "in",
+        "start": 65.8,
+        "end": 66.04,
+        "sung": true
+      },
+      {
+        "word": "the",
+        "start": 66.04,
+        "end": 66.34,
+        "spoken": true
+      },
+      {
+        "word": "candlelight",
+        "start": 66.34,
+        "end": 68.3,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 62.26,
+    "end": 68.3
+  },
+  {
+    "text": "baby i just poured an 8 and a 2 liter sprite, fuck",
+    "startTime": 69.08,
+    "endTime": 72.92,
+    "words": [
+      {
+        "word": "baby",
+        "start": 69.08,
+        "end": 69.54,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 69.54,
+        "end": 69.84,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "just",
+        "start": 69.84,
+        "end": 70.18,
+        "spoken": true
+      },
+      {
+        "word": "poured",
+        "start": 70.18,
+        "end": 70.32,
+        "sung": true
+      },
+      {
+        "word": "an",
+        "start": 70.32,
+        "end": 70.68,
+        "stretch": true
+      },
+      {
+        "word": "8",
+        "start": 70.68,
+        "end": 70.94,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 70.94,
+        "end": 71.14,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 71.14,
+        "end": 71.44,
+        "stretch": true
+      },
+      {
+        "word": "2",
+        "start": 71.44,
+        "end": 71.84,
+        "stretch": true
+      },
+      {
+        "word": "liter",
+        "start": 71.84,
+        "end": 72.06,
+        "spoken": true
+      },
+      {
+        "word": "sprite,",
+        "start": 72.06,
+        "end": 72.58
+      },
+      {
+        "word": "fuck",
+        "start": 72.58,
+        "end": 72.92
+      }
+    ],
+    "time": 69.08,
+    "end": 72.92
+  },
+  {
+    "text": "it i'll be fine",
+    "startTime": 72.92,
+    "endTime": 74.9,
+    "words": [
+      {
+        "word": "it",
+        "start": 72.92,
+        "end": 73.24,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "i'll",
+        "start": 73.24,
+        "end": 73.54
+      },
+      {
+        "word": "be",
+        "start": 73.54,
+        "end": 73.9,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "fine",
+        "start": 73.9,
+        "end": 74.9,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 72.92,
+    "end": 74.9
+  },
+  {
+    "text": "i just dropped a couple green pills in my sprite, baby i'll",
+    "startTime": 75.96,
+    "endTime": 80.4,
+    "words": [
+      {
+        "word": "i",
+        "start": 75.96,
+        "end": 76.64,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "just",
+        "start": 76.64,
+        "end": 76.94,
+        "spoken": true
+      },
+      {
+        "word": "dropped",
+        "start": 76.94,
+        "end": 77.18,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 77.18,
+        "end": 77.32,
+        "spoken": true
+      },
+      {
+        "word": "couple",
+        "start": 77.32,
+        "end": 77.74,
+        "sung": true
+      },
+      {
+        "word": "green",
+        "start": 77.74,
+        "end": 78.26,
+        "sung": true
+      },
+      {
+        "word": "pills",
+        "start": 78.26,
+        "end": 78.66,
+        "sung": true
+      },
+      {
+        "word": "in",
+        "start": 78.66,
+        "end": 78.88
+      },
+      {
+        "word": "my",
+        "start": 78.88,
+        "end": 79.24,
+        "stretch": true
+      },
+      {
+        "word": "sprite,",
+        "start": 79.24,
+        "end": 79.48,
+        "spoken": true
+      },
+      {
+        "word": "baby",
+        "start": 79.52,
+        "end": 80.0,
+        "sung": true
+      },
+      {
+        "word": "i'll",
+        "start": 80.0,
+        "end": 80.4,
+        "spoken": true
+      }
+    ],
+    "time": 75.96,
+    "end": 80.4
+  },
+  {
+    "text": "be fine",
+    "startTime": 80.4,
+    "endTime": 81.28,
+    "words": [
+      {
+        "word": "be",
+        "start": 80.4,
+        "end": 80.74,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "fine",
+        "start": 80.74,
+        "end": 81.28,
+        "sung": true
+      }
+    ],
+    "time": 80.4,
+    "end": 81.28
+  },
+  {
+    "text": "and fuck it if i die it was by your side",
+    "startTime": 81.28,
+    "endTime": 84.2,
+    "words": [
+      {
+        "word": "and",
+        "start": 81.28,
+        "end": 81.74,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "fuck",
+        "start": 81.74,
+        "end": 81.96
+      },
+      {
+        "word": "it",
+        "start": 81.96,
+        "end": 82.24,
+        "spoken": true
+      },
+      {
+        "word": "if",
         "start": 82.24,
         "end": 82.4,
         "spoken": true
       },
       {
-        "word": "these",
+        "word": "i",
+        "start": 82.4,
+        "end": 82.64,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "die",
+        "start": 82.64,
+        "end": 82.94,
+        "spoken": true
+      },
+      {
+        "word": "it",
         "start": 82.94,
+        "end": 83.14,
+        "spoken": true
+      },
+      {
+        "word": "was",
+        "start": 83.14,
         "end": 83.32,
         "spoken": true
       },
       {
-        "word": "Xannys",
-        "start": 83.68,
-        "end": 84.82,
-        "char_starts": [
-          83.68,
-          83.44,
-          83.611,
-          83.816,
-          84.047,
-          84.298
-        ],
-        "sung": true,
-        "stretch": true
+        "word": "by",
+        "start": 83.32,
+        "end": 83.72,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "your",
+        "start": 83.72,
+        "end": 84.06
+      },
+      {
+        "word": "side",
+        "start": 84.06,
+        "end": 84.2,
+        "spoken": true
       }
     ],
-    "time": 82.04,
-    "end": 84.82
+    "time": 81.28,
+    "end": 84.2
   },
   {
-    "text": "●",
-    "startTime": 85.12,
-    "endTime": 92.1,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 85.12,
-    "end": 92.1
-  },
-  {
-    "text": "don't save me",
-    "startTime": 92.1,
-    "endTime": 95.6,
+    "text": "pull me closer, i can't be your man",
+    "startTime": 84.2,
+    "endTime": 91.4,
     "words": [
+      {
+        "word": "pull",
+        "start": 84.2,
+        "end": 84.92,
+        "stretch": true
+      },
+      {
+        "word": "me",
+        "start": 85.27,
+        "end": 85.84,
+        "stretch": true
+      },
+      {
+        "word": "closer,",
+        "start": 85.84,
+        "end": 87.28,
+        "stretch": true
+      },
+      {
+        "word": "i",
+        "start": 87.65,
+        "end": 88.48,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "can't",
+        "start": 88.83,
+        "end": 89.32,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "be",
+        "start": 89.67,
+        "end": 90.3,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "your",
+        "start": 90.3,
+        "end": 90.74,
+        "spoken": true
+      },
+      {
+        "word": "man",
+        "start": 90.74,
+        "end": 91.4,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 84.2,
+    "end": 91.4
+  },
+  {
+    "text": "i don't think you understand, it's obvious to me i wasn't in",
+    "startTime": 91.4,
+    "endTime": 96.52,
+    "words": [
+      {
+        "word": "i",
+        "start": 91.4,
+        "end": 92.1,
+        "stretch": true,
+        "sung": true
+      },
       {
         "word": "don't",
         "start": 92.1,
@@ -165,381 +1271,760 @@
         "spoken": true
       },
       {
-        "word": "save",
+        "word": "think",
+        "start": 92.472,
+        "end": 92.56,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 92.56,
+        "end": 92.9
+      },
+      {
+        "word": "understand,",
+        "start": 93.179,
+        "end": 93.88,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "it's",
         "start": 94.39,
+        "end": 94.72,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "obvious",
+        "start": 94.72,
         "end": 95.08,
-        "char_starts": [
-          94.39,
-          94.166,
-          94.421,
-          94.768
-        ],
+        "spoken": true
+      },
+      {
+        "word": "to",
+        "start": 95.08,
+        "end": 95.4,
+        "stretch": true,
         "spoken": true
       },
       {
         "word": "me",
         "start": 95.4,
         "end": 95.6,
+        "sung": true
+      },
+      {
+        "word": "i",
+        "start": 95.6,
+        "end": 95.76,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "wasn't",
+        "start": 96.015,
+        "end": 96.24,
+        "sung": true
+      },
+      {
+        "word": "in",
+        "start": 96.24,
+        "end": 96.52,
         "spoken": true
       }
     ],
-    "time": 92.1,
-    "end": 95.6
+    "time": 91.4,
+    "end": 96.52
   },
   {
-    "text": "All of this codeine don't save me",
-    "startTime": 95.61,
-    "endTime": 95.95,
+    "text": "the plan",
+    "startTime": 96.52,
+    "endTime": 97.12,
     "words": [
       {
-        "word": "All",
-        "start": 95.61,
-        "end": 95.65
+        "word": "the",
+        "start": 96.52,
+        "end": 96.78
       },
       {
-        "word": "of",
-        "start": 95.66,
-        "end": 95.7
+        "word": "plan",
+        "start": 96.78,
+        "end": 97.12,
+        "spoken": true
+      }
+    ],
+    "time": 96.52,
+    "end": 97.12
+  },
+  {
+    "text": "never sober, i can't be your man",
+    "startTime": 99.2,
+    "endTime": 105.12,
+    "words": [
+      {
+        "word": "never",
+        "start": 99.386,
+        "end": 100.04,
+        "stretch": true
       },
       {
-        "word": "this",
-        "start": 95.71,
-        "end": 95.75
+        "word": "sober,",
+        "start": 100.04,
+        "end": 100.88,
+        "stretch": true
       },
       {
-        "word": "codeine",
-        "start": 95.76,
-        "end": 95.8
+        "word": "i",
+        "start": 102.14,
+        "end": 102.14
+      },
+      {
+        "word": "can't",
+        "start": 102.49,
+        "end": 103.1,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "be",
+        "start": 103.45,
+        "end": 104.02,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "your",
+        "start": 104.02,
+        "end": 104.44,
+        "spoken": true
+      },
+      {
+        "word": "man",
+        "start": 104.44,
+        "end": 105.12,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 99.2,
+    "end": 105.12
+  },
+  {
+    "text": "i don't think you understand, it's obvious to me you are my",
+    "startTime": 105.12,
+    "endTime": 110.12,
+    "words": [
+      {
+        "word": "i",
+        "start": 105.12,
+        "end": 105.86,
+        "stretch": true,
+        "sung": true
       },
       {
         "word": "don't",
-        "start": 95.81,
-        "end": 95.85
+        "start": 105.86,
+        "end": 106.08,
+        "spoken": true
       },
       {
-        "word": "save",
-        "start": 95.86,
-        "end": 95.9
+        "word": "think",
+        "start": 106.2,
+        "end": 106.28,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 106.28,
+        "end": 106.56
+      },
+      {
+        "word": "understand,",
+        "start": 106.885,
+        "end": 107.7,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "it's",
+        "start": 107.72,
+        "end": 108.46,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "obvious",
+        "start": 108.46,
+        "end": 108.82,
+        "sung": true
+      },
+      {
+        "word": "to",
+        "start": 108.82,
+        "end": 109.16,
+        "stretch": true,
+        "spoken": true
       },
       {
         "word": "me",
-        "start": 95.91,
-        "end": 95.95
+        "start": 109.16,
+        "end": 109.46,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 109.46,
+        "end": 109.68,
+        "sung": true
+      },
+      {
+        "word": "are",
+        "start": 109.68,
+        "end": 109.84,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 109.84,
+        "end": 110.12,
+        "sung": true
       }
     ],
-    "time": 95.61,
-    "end": 95.95
+    "time": 105.12,
+    "end": 110.12
   },
   {
-    "text": "Choking on sorrow, yeah, reaper just take me",
-    "startTime": 95.96,
-    "endTime": 96.35,
+    "text": "rubber bands",
+    "startTime": 110.12,
+    "endTime": 111.04,
     "words": [
       {
-        "word": "Choking",
-        "start": 95.96,
-        "end": 96
+        "word": "rubber",
+        "start": 110.12,
+        "end": 110.48,
+        "spoken": true
       },
       {
-        "word": "on",
-        "start": 96.01,
-        "end": 96.05
+        "word": "bands",
+        "start": 110.48,
+        "end": 111.04,
+        "spoken": true
+      }
+    ],
+    "time": 110.12,
+    "end": 111.04
+  },
+  {
+    "text": "baby close my eyes and never wake up tonight",
+    "startTime": 112.08,
+    "endTime": 116.32,
+    "words": [
+      {
+        "word": "baby",
+        "start": 112.332,
+        "end": 112.5,
+        "whisper": true
       },
       {
-        "word": "sorrow,",
-        "start": 96.06,
-        "end": 96.1
+        "word": "close",
+        "start": 112.5,
+        "end": 113.26,
+        "stretch": true
       },
       {
-        "word": "yeah,",
-        "start": 96.11,
-        "end": 96.15
+        "word": "my",
+        "start": 113.26,
+        "end": 113.84,
+        "stretch": true
       },
       {
-        "word": "reaper",
-        "start": 96.16,
-        "end": 96.2
+        "word": "eyes",
+        "start": 113.84,
+        "end": 114.26
+      },
+      {
+        "word": "and",
+        "start": 114.26,
+        "end": 114.58,
+        "spoken": true
+      },
+      {
+        "word": "never",
+        "start": 114.58,
+        "end": 115.02
+      },
+      {
+        "word": "wake",
+        "start": 115.02,
+        "end": 115.64,
+        "stretch": true
+      },
+      {
+        "word": "up",
+        "start": 115.64,
+        "end": 115.94,
+        "spoken": true
+      },
+      {
+        "word": "tonight",
+        "start": 115.94,
+        "end": 116.32,
+        "spoken": true
+      }
+    ],
+    "time": 112.08,
+    "end": 116.32
+  },
+  {
+    "text": "i just wanna make you mine, getting high in the candlelight",
+    "startTime": 118.22,
+    "endTime": 124.4,
+    "words": [
+      {
+        "word": "i",
+        "start": 118.22,
+        "end": 119.06,
+        "stretch": true,
+        "sung": true
       },
       {
         "word": "just",
-        "start": 96.21,
-        "end": 96.25
-      },
-      {
-        "word": "take",
-        "start": 96.26,
-        "end": 96.3
-      },
-      {
-        "word": "me",
-        "start": 96.31,
-        "end": 96.35
-      }
-    ],
-    "time": 95.96,
-    "end": 96.35
-  },
-  {
-    "text": "Please, don't you save me",
-    "startTime": 96.36,
-    "endTime": 96.6,
-    "words": [
-      {
-        "word": "Please,",
-        "start": 96.36,
-        "end": 96.4
-      },
-      {
-        "word": "don't",
-        "start": 96.41,
-        "end": 96.45
-      },
-      {
-        "word": "you",
-        "start": 96.46,
-        "end": 96.5
-      },
-      {
-        "word": "save",
-        "start": 96.51,
-        "end": 96.55
-      },
-      {
-        "word": "me",
-        "start": 96.56,
-        "end": 96.6
-      }
-    ],
-    "time": 96.36,
-    "end": 96.6
-  },
-  {
-    "text": "Ho, don't you save me",
-    "startTime": 96.61,
-    "endTime": 96.85,
-    "words": [
-      {
-        "word": "Ho,",
-        "start": 96.61,
-        "end": 96.65
-      },
-      {
-        "word": "don't",
-        "start": 96.66,
-        "end": 96.7
-      },
-      {
-        "word": "you",
-        "start": 96.71,
-        "end": 96.75
-      },
-      {
-        "word": "save",
-        "start": 96.76,
-        "end": 96.8
-      },
-      {
-        "word": "me",
-        "start": 96.81,
-        "end": 96.85
-      }
-    ],
-    "time": 96.61,
-    "end": 96.85
-  },
-  {
-    "text": "P.S. I love you, P.S. I hate you",
-    "startTime": 96.86,
-    "endTime": 97.25,
-    "words": [
-      {
-        "word": "P.S.",
-        "start": 96.86,
-        "end": 96.9
-      },
-      {
-        "word": "I",
-        "start": 96.91,
-        "end": 96.95
-      },
-      {
-        "word": "love",
-        "start": 96.96,
-        "end": 97
-      },
-      {
-        "word": "you,",
-        "start": 97.01,
-        "end": 97.05
-      },
-      {
-        "word": "P.S.",
-        "start": 97.06,
-        "end": 97.1
-      },
-      {
-        "word": "I",
-        "start": 97.11,
-        "end": 97.15
-      },
-      {
-        "word": "hate",
-        "start": 97.16,
-        "end": 97.2
-      },
-      {
-        "word": "you",
-        "start": 97.21,
-        "end": 97.25
-      }
-    ],
-    "time": 96.86,
-    "end": 97.25
-  },
-  {
-    "text": "Please, don't you save me",
-    "startTime": 97.26,
-    "endTime": 97.5,
-    "words": [
-      {
-        "word": "Please,",
-        "start": 97.26,
-        "end": 97.3
-      },
-      {
-        "word": "don't",
-        "start": 97.31,
-        "end": 97.35
-      },
-      {
-        "word": "you",
-        "start": 97.36,
-        "end": 97.4
-      },
-      {
-        "word": "save",
-        "start": 97.41,
-        "end": 97.45
-      },
-      {
-        "word": "me",
-        "start": 97.46,
-        "end": 97.5
-      }
-    ],
-    "time": 97.26,
-    "end": 97.5
-  },
-  {
-    "text": "All of these Perkies don't save me",
-    "startTime": 97.51,
-    "endTime": 97.91,
-    "words": [
-      {
-        "word": "All",
-        "start": 97.51,
-        "end": 97.55
-      },
-      {
-        "word": "of",
-        "start": 97.56,
-        "end": 97.6
-      },
-      {
-        "word": "these",
-        "start": 97.61,
-        "end": 97.65
-      },
-      {
-        "word": "Perkies",
-        "start": 97.66,
-        "end": 97.7
-      },
-      {
-        "word": "don't",
-        "start": 97.71,
-        "end": 97.75
-      },
-      {
-        "word": "save",
-        "start": 97.76,
-        "end": 97.8
-      },
-      {
-        "word": "me",
-        "start": 97.81,
-        "end": 97.91,
-        "spoken": true
-      }
-    ],
-    "time": 97.51,
-    "end": 97.91
-  },
-  {
-    "text": "●",
-    "startTime": 98.21,
-    "endTime": 138.14,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 98.21,
-    "end": 138.14
-  },
-  {
-    "text": "All of these Xannys",
-    "startTime": 138.14,
-    "endTime": 140.74,
-    "words": [
-      {
-        "word": "All",
-        "start": 138.14,
-        "end": 138.29,
+        "start": 119.06,
+        "end": 119.42,
         "spoken": true
       },
       {
-        "word": "of",
+        "word": "wanna",
+        "start": 119.42,
+        "end": 119.66,
+        "spoken": true
+      },
+      {
+        "word": "make",
+        "start": 119.66,
+        "end": 120.3,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "you",
+        "start": 120.3,
+        "end": 120.8,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "mine,",
+        "start": 120.8,
+        "end": 120.98,
+        "spoken": true
+      },
+      {
+        "word": "getting",
+        "start": 121.24,
+        "end": 121.36,
+        "spoken": true
+      },
+      {
+        "word": "high",
+        "start": 121.36,
+        "end": 121.9,
+        "sung": true
+      },
+      {
+        "word": "in",
+        "start": 121.9,
+        "end": 122.14
+      },
+      {
+        "word": "the",
+        "start": 122.14,
+        "end": 122.56,
+        "sung": true
+      },
+      {
+        "word": "candlelight",
+        "start": 122.56,
+        "end": 124.4,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 118.22,
+    "end": 124.4
+  },
+  {
+    "text": "baby i just poured an 8 and a 2 liter sprite, fuck",
+    "startTime": 124.4,
+    "endTime": 129.06,
+    "words": [
+      {
+        "word": "baby",
+        "start": 124.4,
+        "end": 125.64,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "i",
+        "start": 125.64,
+        "end": 125.92,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "just",
+        "start": 125.92,
+        "end": 126.28,
+        "spoken": true
+      },
+      {
+        "word": "poured",
+        "start": 126.28,
+        "end": 126.4,
+        "spoken": true
+      },
+      {
+        "word": "an",
+        "start": 126.4,
+        "end": 126.74,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "8",
+        "start": 126.74,
+        "end": 127.1,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 127.1,
+        "end": 127.36,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 127.36,
+        "end": 127.58,
+        "stretch": true
+      },
+      {
+        "word": "2",
+        "start": 127.58,
+        "end": 127.96,
+        "stretch": true
+      },
+      {
+        "word": "liter",
+        "start": 127.96,
+        "end": 128.24,
+        "spoken": true
+      },
+      {
+        "word": "sprite,",
+        "start": 128.24,
+        "end": 128.62
+      },
+      {
+        "word": "fuck",
+        "start": 128.72,
+        "end": 129.06
+      }
+    ],
+    "time": 124.4,
+    "end": 129.06
+  },
+  {
+    "text": "it i'll be fine",
+    "startTime": 129.06,
+    "endTime": 130.7,
+    "words": [
+      {
+        "word": "it",
+        "start": 129.06,
+        "end": 129.34,
+        "spoken": true
+      },
+      {
+        "word": "i'll",
+        "start": 129.34,
+        "end": 129.62
+      },
+      {
+        "word": "be",
+        "start": 129.62,
+        "end": 129.98,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "fine",
+        "start": 129.98,
+        "end": 130.7,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 129.06,
+    "end": 130.7
+  },
+  {
+    "text": "i just dropped a couple green pills in my sprite, baby i'll",
+    "startTime": 132.1,
+    "endTime": 136.5,
+    "words": [
+      {
+        "word": "i",
+        "start": 132.1,
+        "end": 132.78,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "just",
+        "start": 132.78,
+        "end": 133.16,
+        "spoken": true
+      },
+      {
+        "word": "dropped",
+        "start": 133.16,
+        "end": 133.3,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 133.3,
+        "end": 133.46,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "couple",
+        "start": 133.46,
+        "end": 133.86,
+        "sung": true
+      },
+      {
+        "word": "green",
+        "start": 133.86,
+        "end": 134.36,
+        "sung": true
+      },
+      {
+        "word": "pills",
+        "start": 134.36,
+        "end": 134.78,
+        "sung": true
+      },
+      {
+        "word": "in",
+        "start": 134.78,
+        "end": 135.0,
+        "sung": true
+      },
+      {
+        "word": "my",
+        "start": 135.0,
+        "end": 135.26,
+        "spoken": true
+      },
+      {
+        "word": "sprite,",
+        "start": 135.26,
+        "end": 135.58,
+        "sung": true
+      },
+      {
+        "word": "baby",
+        "start": 135.64,
+        "end": 136.1,
+        "sung": true
+      },
+      {
+        "word": "i'll",
+        "start": 136.1,
+        "end": 136.5,
+        "spoken": true
+      }
+    ],
+    "time": 132.1,
+    "end": 136.5
+  },
+  {
+    "text": "be fine",
+    "startTime": 136.5,
+    "endTime": 137.4,
+    "words": [
+      {
+        "word": "be",
+        "start": 136.5,
+        "end": 136.88,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "fine",
+        "start": 136.88,
+        "end": 137.4,
+        "sung": true
+      }
+    ],
+    "time": 136.5,
+    "end": 137.4
+  },
+  {
+    "text": "and fuck it if i die it was by your side",
+    "startTime": 137.4,
+    "endTime": 140.5,
+    "words": [
+      {
+        "word": "and",
+        "start": 137.4,
+        "end": 137.82,
+        "spoken": true
+      },
+      {
+        "word": "fuck",
+        "start": 137.82,
+        "end": 138.1,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 138.1,
+        "end": 138.34,
+        "spoken": true
+      },
+      {
+        "word": "if",
         "start": 138.34,
         "end": 138.5,
         "spoken": true
       },
       {
-        "word": "these",
+        "word": "i",
+        "start": 138.5,
+        "end": 138.74,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "die",
+        "start": 138.74,
+        "end": 139.04,
+        "spoken": true
+      },
+      {
+        "word": "it",
         "start": 139.04,
         "end": 139.24,
         "spoken": true
       },
       {
-        "word": "Xannys",
-        "start": 139.6,
-        "end": 140.74,
-        "char_starts": [
-          139.6,
-          139.36,
-          139.531,
-          139.736,
-          139.967,
-          140.219
-        ],
-        "sung": true,
-        "stretch": true
+        "word": "was",
+        "start": 139.24,
+        "end": 139.42,
+        "spoken": true
+      },
+      {
+        "word": "by",
+        "start": 139.42,
+        "end": 139.84,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "your",
+        "start": 139.84,
+        "end": 140.18
+      },
+      {
+        "word": "side",
+        "start": 140.18,
+        "end": 140.5,
+        "spoken": true
       }
     ],
-    "time": 138.14,
-    "end": 140.74
+    "time": 137.4,
+    "end": 140.5
   },
   {
-    "text": "●",
-    "startTime": 141.04,
-    "endTime": 148.22,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 141.04,
-    "end": 148.22
-  },
-  {
-    "text": "don't save me",
-    "startTime": 148.22,
-    "endTime": 151.72,
+    "text": "pull me closer, i can't be your man",
+    "startTime": 140.5,
+    "endTime": 147.54,
     "words": [
+      {
+        "word": "pull",
+        "start": 140.5,
+        "end": 141.02,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 141.37,
+        "end": 141.96,
+        "stretch": true
+      },
+      {
+        "word": "closer,",
+        "start": 141.96,
+        "end": 143.36,
+        "stretch": true
+      },
+      {
+        "word": "i",
+        "start": 143.968,
+        "end": 144.58,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "can't",
+        "start": 144.93,
+        "end": 145.38,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "be",
+        "start": 145.38,
+        "end": 146.36,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "your",
+        "start": 146.36,
+        "end": 146.88,
+        "spoken": true
+      },
+      {
+        "word": "man",
+        "start": 146.88,
+        "end": 147.54,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 140.5,
+    "end": 147.54
+  },
+  {
+    "text": "i don't think you understand, it's obvious to me i wasn't in",
+    "startTime": 147.54,
+    "endTime": 152.64,
+    "words": [
+      {
+        "word": "i",
+        "start": 147.54,
+        "end": 148.22,
+        "stretch": true,
+        "sung": true
+      },
       {
         "word": "don't",
         "start": 148.22,
@@ -547,225 +2032,249 @@
         "spoken": true
       },
       {
-        "word": "save",
-        "start": 148.656,
-        "end": 149.96,
-        "char_starts": [
-          148.656,
-          148.637,
-          148.976,
-          149.439
-        ],
-        "sung": true,
-        "stretch": true
+        "word": "think",
+        "start": 148.592,
+        "end": 148.68,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 148.68,
+        "end": 149.02
+      },
+      {
+        "word": "understand,",
+        "start": 149.299,
+        "end": 149.98,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "it's",
+        "start": 150.608,
+        "end": 150.84,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "obvious",
+        "start": 150.84,
+        "end": 151.2,
+        "spoken": true
+      },
+      {
+        "word": "to",
+        "start": 151.2,
+        "end": 151.52,
+        "stretch": true,
+        "spoken": true
       },
       {
         "word": "me",
         "start": 151.52,
         "end": 151.72,
+        "sung": true
+      },
+      {
+        "word": "i",
+        "start": 151.72,
+        "end": 151.88,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "wasn't",
+        "start": 152.135,
+        "end": 152.36,
+        "sung": true
+      },
+      {
+        "word": "in",
+        "start": 152.36,
+        "end": 152.64,
         "spoken": true
       }
     ],
-    "time": 148.22,
-    "end": 151.72
+    "time": 147.54,
+    "end": 152.64
   },
   {
-    "text": "All of this codeine don't save me",
-    "startTime": 151.73,
-    "endTime": 158.062,
+    "text": "the plan",
+    "startTime": 152.64,
+    "endTime": 153.52,
     "words": [
       {
-        "word": "All",
-        "start": 152.078,
-        "end": 153.22,
-        "char_starts": [
-          152.078,
-          152.11,
-          152.698
-        ],
-        "spoken": true
+        "word": "the",
+        "start": 152.64,
+        "end": 152.92
       },
       {
-        "word": "of",
-        "start": 153.58,
-        "end": 154.502,
-        "char_starts": [
-          153.58,
-          154.057
-        ]
-      },
-      {
-        "word": "this",
-        "start": 154.862,
-        "end": 156.002,
-        "char_starts": [
-          154.862,
-          154.732,
-          155.072,
-          155.481
-        ]
-      },
-      {
-        "word": "codeine",
-        "start": 156.151,
-        "end": 157.502,
-        "char_starts": [
-          156.151,
-          156.067,
-          156.179,
-          156.331,
-          156.518,
-          156.735,
-          156.981
-        ]
-      },
-      {
-        "word": "don't",
-        "start": 157.512,
-        "end": 157.662
-      },
-      {
-        "word": "save",
-        "start": 157.712,
-        "end": 157.862
-      },
-      {
-        "word": "me",
-        "start": 157.912,
-        "end": 158.062,
+        "word": "plan",
+        "start": 153.27,
+        "end": 153.52,
+        "stretch": true,
         "spoken": true
       }
     ],
-    "time": 151.73,
-    "end": 158.062
+    "time": 152.64,
+    "end": 153.52
   },
   {
-    "text": "●",
-    "startTime": 158.362,
-    "endTime": 165.53,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 158.362,
-    "end": 165.53
+    "text": "never sober, i can't be your man",
+    "startTime": 155.56,
+    "endTime": 161.24,
+    "words": [
+      {
+        "word": "never",
+        "start": 155.606,
+        "end": 156.28,
+        "spoken": true
+      },
+      {
+        "word": "sober,",
+        "start": 156.28,
+        "end": 157.0
+      },
+      {
+        "word": "i",
+        "start": 157.37,
+        "end": 158.22,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "can't",
+        "start": 158.57,
+        "end": 159.28,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "be",
+        "start": 159.582,
+        "end": 160.1,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "your",
+        "start": 160.1,
+        "end": 160.56,
+        "spoken": true
+      },
+      {
+        "word": "man",
+        "start": 160.56,
+        "end": 161.24,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 155.56,
+    "end": 161.24
   },
   {
-    "text": "Choking on sorrow, yeah, reaper just take me",
-    "startTime": 165.53,
+    "text": "i don't think you understand, it's obvious to me you are my",
+    "startTime": 161.24,
     "endTime": 166.16,
     "words": [
       {
-        "word": "Choking",
-        "start": 165.53,
-        "end": 165.607
+        "word": "i",
+        "start": 161.24,
+        "end": 161.98,
+        "stretch": true,
+        "sung": true
       },
       {
-        "word": "on",
-        "start": 165.617,
-        "end": 165.657
-      },
-      {
-        "word": "sorrow,",
-        "start": 165.667,
-        "end": 165.743,
+        "word": "don't",
+        "start": 161.98,
+        "end": 162.2,
         "spoken": true
       },
       {
-        "word": "yeah,",
-        "start": 165.753,
-        "end": 165.805,
+        "word": "think",
+        "start": 162.296,
+        "end": 162.36,
         "spoken": true
       },
       {
-        "word": "reaper",
-        "start": 165.815,
+        "word": "you",
+        "start": 162.406,
+        "end": 162.72
+      },
+      {
+        "word": "understand,",
+        "start": 163.022,
+        "end": 163.82,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "it's",
+        "start": 164.16,
+        "end": 164.6,
+        "sung": true
+      },
+      {
+        "word": "obvious",
+        "start": 164.6,
+        "end": 164.92,
+        "sung": true
+      },
+      {
+        "word": "to",
+        "start": 164.92,
+        "end": 165.28,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 165.28,
+        "end": 165.52,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 165.52,
+        "end": 165.78,
+        "sung": true
+      },
+      {
+        "word": "are",
+        "start": 165.78,
         "end": 165.92,
         "spoken": true
       },
       {
-        "word": "just",
-        "start": 165.93,
-        "end": 165.97
-      },
-      {
-        "word": "take",
-        "start": 165.98,
-        "end": 166.02
-      },
-      {
-        "word": "me",
-        "start": 166.03,
-        "end": 166.16
+        "word": "my",
+        "start": 165.92,
+        "end": 166.16,
+        "spoken": true
       }
     ],
-    "time": 165.53,
+    "time": 161.24,
     "end": 166.16
   },
   {
-    "text": "Please, don't you save me",
-    "startTime": 166.17,
-    "endTime": 166.41,
+    "text": "rubber bands",
+    "startTime": 166.16,
+    "endTime": 167.2,
     "words": [
       {
-        "word": "Please,",
-        "start": 166.17,
-        "end": 166.21
+        "word": "rubber",
+        "start": 166.16,
+        "end": 166.5,
+        "spoken": true
       },
       {
-        "word": "don't",
-        "start": 166.22,
-        "end": 166.26
-      },
-      {
-        "word": "you",
-        "start": 166.27,
-        "end": 166.31
-      },
-      {
-        "word": "save",
-        "start": 166.32,
-        "end": 166.36
-      },
-      {
-        "word": "me",
-        "start": 166.37,
-        "end": 166.41
+        "word": "bands",
+        "start": 166.5,
+        "end": 167.2,
+        "sung": true
       }
     ],
-    "time": 166.17,
-    "end": 166.41
-  },
-  {
-    "text": "Ho, don't you save me",
-    "startTime": 166.42,
-    "endTime": 166.66,
-    "words": [
-      {
-        "word": "Ho,",
-        "start": 166.42,
-        "end": 166.46
-      },
-      {
-        "word": "don't",
-        "start": 166.47,
-        "end": 166.51
-      },
-      {
-        "word": "you",
-        "start": 166.52,
-        "end": 166.56
-      },
-      {
-        "word": "save",
-        "start": 166.57,
-        "end": 166.61
-      },
-      {
-        "word": "me",
-        "start": 166.62,
-        "end": 166.66
-      }
-    ],
-    "time": 166.42,
-    "end": 166.66
+    "time": 166.16,
+    "end": 167.2
   }
 ]

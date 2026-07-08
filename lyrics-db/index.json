@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T17:17:22.571096+00:00",
+  "generatedAt": "2026-07-08T17:19:50.949385+00:00",
   "totalTracks": 787,
   "roots": [
     "lyrics-db/tracks"
@@ -10754,20 +10754,6 @@
       "sourcePath": "https://soundcloud.com/ericmonsen/alizee-moi-lolita-slowed",
       "mtimeMs": 1783527908182
     },
-    "ibeantrill::lil peep pray i die": {
-      "title": "Lil Peep Pray I Die",
-      "artist": "ibeantrill",
-      "originalTrackName": "ibeantrill - Lil Peep Pray I Die",
-      "source": "syncedlyrics",
-      "file": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
-      "files": {
-        "lyrics": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
-        "meta": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/1keith/lil-peep-pray-i-die",
-      "mtimeMs": 1783528033055
-    },
     "lil peep::lil peep - mud on my gucci": {
       "title": "Lil Peep - Mud On My Gucci",
       "artist": "Lil Peep",
@@ -11061,6 +11047,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/lil-peep-harry-fraud-old-me",
       "mtimeMs": 1783531043145
+    },
+    "ibeantrill::lil peep pray i die": {
+      "title": "Lil Peep Pray I Die",
+      "artist": "ibeantrill",
+      "originalTrackName": "ibeantrill - Lil Peep Pray I Die",
+      "source": "syncedlyrics",
+      "file": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
+      "files": {
+        "lyrics": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
+        "meta": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1keith/lil-peep-pray-i-die",
+      "mtimeMs": 1783531191398
     }
   },
   "tracks": [
@@ -21833,20 +21833,6 @@
       "mtimeMs": 1783527908182
     },
     {
-      "title": "Lil Peep Pray I Die",
-      "artist": "ibeantrill",
-      "originalTrackName": "ibeantrill - Lil Peep Pray I Die",
-      "source": "syncedlyrics",
-      "file": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
-      "files": {
-        "lyrics": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
-        "meta": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/1keith/lil-peep-pray-i-die",
-      "mtimeMs": 1783528033055
-    },
-    {
       "title": "Lil Peep - Mud On My Gucci",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - Lil Peep - Mud On My Gucci",
@@ -22139,6 +22125,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/lil-peep-harry-fraud-old-me",
       "mtimeMs": 1783531043145
+    },
+    {
+      "title": "Lil Peep Pray I Die",
+      "artist": "ibeantrill",
+      "originalTrackName": "ibeantrill - Lil Peep Pray I Die",
+      "source": "syncedlyrics",
+      "file": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
+      "files": {
+        "lyrics": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.json",
+        "meta": "tracks/ibeantrill-lil-peep-pray-i-die-51c782130a27.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1keith/lil-peep-pray-i-die",
+      "mtimeMs": 1783531191398
     }
   ]
 }

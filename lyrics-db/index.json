@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-09T12:48:06.627061+00:00",
-  "totalTracks": 793,
+  "generatedAt": "2026-07-09T18:12:55.205477+00:00",
+  "totalTracks": 794,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11145,6 +11145,20 @@
       },
       "sourcePath": "https://soundcloud.com/nizhnik-yeva/xyulo",
       "mtimeMs": 1783601287394
+    },
+    "lilpeepunreleased::lil peep - 666 (full cdq)[come with me]": {
+      "title": "Lil Peep - 666 (full CDQ)[come with me]",
+      "artist": "LilPeepUnreleased",
+      "originalTrackName": "LilPeepUnreleased - Lil Peep - 666 (full CDQ)[come with me]",
+      "source": "whisper_only",
+      "file": "tracks/lilpeepunreleased-lil-peep-666-full-cdq-come-with-me-4a507559779a.json",
+      "files": {
+        "lyrics": "tracks/lilpeepunreleased-lil-peep-666-full-cdq-come-with-me-4a507559779a.json",
+        "meta": "tracks/lilpeepunreleased-lil-peep-666-full-cdq-come-with-me-4a507559779a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/matrix-808/lil-peep-666-full-cdq-come-1",
+      "mtimeMs": 1783620776402
     }
   },
   "tracks": [
@@ -22307,6 +22321,20 @@
       },
       "sourcePath": "https://soundcloud.com/nizhnik-yeva/xyulo",
       "mtimeMs": 1783601287394
+    },
+    {
+      "title": "Lil Peep - 666 (full CDQ)[come with me]",
+      "artist": "LilPeepUnreleased",
+      "originalTrackName": "LilPeepUnreleased - Lil Peep - 666 (full CDQ)[come with me]",
+      "source": "whisper_only",
+      "file": "tracks/lilpeepunreleased-lil-peep-666-full-cdq-come-with-me-4a507559779a.json",
+      "files": {
+        "lyrics": "tracks/lilpeepunreleased-lil-peep-666-full-cdq-come-with-me-4a507559779a.json",
+        "meta": "tracks/lilpeepunreleased-lil-peep-666-full-cdq-come-with-me-4a507559779a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/matrix-808/lil-peep-666-full-cdq-come-1",
+      "mtimeMs": 1783620776402
     }
   ]
 }

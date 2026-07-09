@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-08T22:09:31.102169+00:00",
-  "totalTracks": 791,
+  "generatedAt": "2026-07-09T09:37:10.532000+00:00",
+  "totalTracks": 792,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11117,6 +11117,20 @@
       },
       "sourcePath": "https://soundcloud.com/gothboiclique/last-fall-prod-nedarb",
       "mtimeMs": 1783548572294
+    },
+    "lungskull (@lungskull)::весь день среди белого дня": {
+      "title": "весь день среди белого дня",
+      "artist": "lungskull (@lungskull)",
+      "originalTrackName": "lungskull (@lungskull) - весь день среди белого дня",
+      "source": "whisper_only",
+      "file": "tracks/lungskull-lungskull-d9e943642b60.json",
+      "files": {
+        "lyrics": "tracks/lungskull-lungskull-d9e943642b60.json",
+        "meta": "tracks/lungskull-lungskull-d9e943642b60.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lungskull/all-day-broad-day",
+      "mtimeMs": 1783589831206
     }
   },
   "tracks": [
@@ -22251,6 +22265,20 @@
       },
       "sourcePath": "https://soundcloud.com/gothboiclique/last-fall-prod-nedarb",
       "mtimeMs": 1783548572294
+    },
+    {
+      "title": "весь день среди белого дня",
+      "artist": "lungskull (@lungskull)",
+      "originalTrackName": "lungskull (@lungskull) - весь день среди белого дня",
+      "source": "whisper_only",
+      "file": "tracks/lungskull-lungskull-d9e943642b60.json",
+      "files": {
+        "lyrics": "tracks/lungskull-lungskull-d9e943642b60.json",
+        "meta": "tracks/lungskull-lungskull-d9e943642b60.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lungskull/all-day-broad-day",
+      "mtimeMs": 1783589831206
     }
   ]
 }

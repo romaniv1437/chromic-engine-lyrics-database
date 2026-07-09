@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-09T09:37:10.532000+00:00",
-  "totalTracks": 792,
+  "generatedAt": "2026-07-09T09:38:13.761251+00:00",
+  "totalTracks": 793,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11131,6 +11131,20 @@
       },
       "sourcePath": "https://soundcloud.com/lungskull/all-day-broad-day",
       "mtimeMs": 1783589831206
+    },
+    "୨ৎkontik୨ৎ::священая война": {
+      "title": "священая война",
+      "artist": "୨ৎkontik୨ৎ",
+      "originalTrackName": "୨ৎkontik୨ৎ - священая война",
+      "source": "whisper_only",
+      "file": "tracks/kontik-4239bb0b5beb.json",
+      "files": {
+        "lyrics": "tracks/kontik-4239bb0b5beb.json",
+        "meta": "tracks/kontik-4239bb0b5beb.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/nizhnik-yeva/xyulo",
+      "mtimeMs": 1783589894963
     }
   },
   "tracks": [
@@ -22279,6 +22293,20 @@
       },
       "sourcePath": "https://soundcloud.com/lungskull/all-day-broad-day",
       "mtimeMs": 1783589831206
+    },
+    {
+      "title": "священая война",
+      "artist": "୨ৎkontik୨ৎ",
+      "originalTrackName": "୨ৎkontik୨ৎ - священая война",
+      "source": "whisper_only",
+      "file": "tracks/kontik-4239bb0b5beb.json",
+      "files": {
+        "lyrics": "tracks/kontik-4239bb0b5beb.json",
+        "meta": "tracks/kontik-4239bb0b5beb.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/nizhnik-yeva/xyulo",
+      "mtimeMs": 1783589894963
     }
   ]
 }

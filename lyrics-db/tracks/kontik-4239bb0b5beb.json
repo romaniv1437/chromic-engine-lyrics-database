@@ -1,1753 +1,1382 @@
 [
   {
+    "text": "●",
+    "startTime": 0.3,
+    "endTime": 88.5,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 0.3,
+    "end": 88.5
+  },
+  {
     "text": "Ля-ля-ля-ля, ля-ля, ля-ля-ля",
-    "startTime": 0.35,
-    "endTime": 3.266,
+    "startTime": 88.5,
+    "endTime": 90.641,
     "words": [
       {
         "word": "Ля-ля-ля-ля,",
-        "start": 0.35,
-        "end": 1.5,
+        "start": 88.639,
+        "end": 90.54,
         "char_starts": [
-          0.35,
-          0.407,
-          0.464,
-          0.522,
-          0.58,
-          0.637,
-          0.698,
-          0.761,
-          0.826,
-          0.895,
-          0.965,
-          1.038
+          88.639,
+          88.734,
+          88.829,
+          88.924,
+          89.022,
+          89.127,
+          89.24,
+          89.359,
+          89.484,
+          89.612,
+          89.747,
+          89.885
         ],
         "sung": true,
-        "singer": "singer1",
         "stretch": true
       },
       {
         "word": "ля-ля,",
-        "start": 1.51,
-        "end": 2.257,
-        "char_starts": [
-          1.51,
-          1.585,
-          1.687,
-          1.809,
-          1.946,
-          2.096
-        ],
-        "singer": "singer1"
+        "start": 90.55,
+        "end": 90.59
       },
       {
         "word": "ля-ля-ля",
-        "start": 2.267,
-        "end": 3.266,
-        "char_starts": [
-          2.267,
-          2.342,
-          2.417,
-          2.502,
-          2.604,
-          2.72,
-          2.85,
-          2.993
-        ],
-        "sung": true,
-        "singer": "singer1",
-        "stretch": true
+        "start": 90.6,
+        "end": 90.641
       }
     ],
-    "time": 0.35,
-    "end": 3.266
+    "time": 88.5,
+    "end": 90.641
   },
   {
     "text": "Ля-ля, ля-ля-ля-ля, ля-ля, ля-ля-ля",
-    "startTime": 3.276,
-    "endTime": 7.288,
+    "startTime": 90.651,
+    "endTime": 90.868,
     "words": [
       {
         "word": "Ля-ля,",
-        "start": 3.462,
-        "end": 4.022,
-        "char_starts": [
-          3.462,
-          3.518,
-          3.587,
-          3.67,
-          3.762,
-          3.863
-        ],
-        "sung": true,
-        "singer": "singer1",
-        "stretch": true
+        "start": 90.651,
+        "end": 90.691
       },
       {
         "word": "ля-ля-ля-ля,",
-        "start": 4.287,
-        "end": 5.522,
-        "char_starts": [
-          4.287,
-          4.349,
-          4.411,
-          4.473,
-          4.535,
-          4.599,
-          4.667,
-          4.739,
-          4.813,
-          4.892,
-          4.973,
-          5.056
-        ],
-        "sung": true,
-        "singer": "singer1",
-        "stretch": true
+        "start": 90.701,
+        "end": 90.767
       },
       {
         "word": "ля-ля,",
-        "start": 5.695,
-        "end": 6.279,
-        "char_starts": [
-          5.695,
-          5.753,
-          5.826,
-          5.913,
-          6.011,
-          6.119
-        ],
-        "sung": true,
-        "singer": "singer1",
-        "stretch": true
+        "start": 90.777,
+        "end": 90.817
       },
       {
         "word": "ля-ля-ля",
-        "start": 6.289,
-        "end": 7.288,
-        "char_starts": [
-          6.289,
-          6.364,
-          6.439,
-          6.524,
-          6.626,
-          6.742,
-          6.872,
-          7.015
-        ],
-        "sung": true,
-        "singer": "singer1",
-        "stretch": true
+        "start": 90.827,
+        "end": 90.868
       }
     ],
-    "time": 3.276,
-    "end": 7.288
+    "time": 90.651,
+    "end": 90.868
   },
   {
     "text": "Ля-ля-ля-ля-ля",
-    "startTime": 7.298,
-    "endTime": 8.788,
+    "startTime": 90.878,
+    "endTime": 90.957,
     "words": [
       {
         "word": "Ля-ля-ля-ля-ля",
-        "start": 7.507,
-        "end": 8.788,
-        "char_starts": [
-          7.507,
-          7.562,
-          7.617,
-          7.672,
-          7.727,
-          7.782,
-          7.837,
-          7.898,
-          7.963,
-          8.033,
-          8.106,
-          8.183,
-          8.264,
-          8.349
-        ],
-        "sung": true,
-        "singer": "singer1",
-        "stretch": true
+        "start": 90.878,
+        "end": 90.957
       }
     ],
-    "time": 7.298,
-    "end": 8.788
-  },
-  {
-    "text": "●",
-    "startTime": 9.088,
-    "endTime": 23.32,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 9.088,
-    "end": 23.32
+    "time": 90.878,
+    "end": 90.957
   },
   {
     "text": "Кровь, руки, вены, порезы, вода",
-    "startTime": 23.32,
-    "endTime": 28.34,
+    "startTime": 90.967,
+    "endTime": 91.207,
     "words": [
       {
         "word": "Кровь,",
-        "start": 23.32,
-        "end": 23.47,
-        "singer": "singer2"
+        "start": 90.967,
+        "end": 91.007
       },
       {
         "word": "руки,",
-        "start": 23.52,
-        "end": 23.88,
-        "singer": "singer2"
+        "start": 91.017,
+        "end": 91.057
       },
       {
         "word": "вены,",
-        "start": 23.89,
-        "end": 25.38,
-        "char_starts": [
-          23.89,
-          24.069,
-          24.298,
-          24.57,
-          24.875
-        ],
-        "spoken": true,
-        "singer": "singer2"
+        "start": 91.067,
+        "end": 91.107
       },
       {
         "word": "порезы,",
-        "start": 26.22,
-        "end": 27.88,
-        "char_starts": [
-          26.22,
-          26.362,
-          26.511,
-          26.687,
-          26.884,
-          27.099,
-          27.328
-        ],
-        "singer": "singer2"
+        "start": 91.117,
+        "end": 91.157
       },
       {
         "word": "вода",
-        "start": 27.96,
-        "end": 28.34,
-        "singer": "singer2"
+        "start": 91.167,
+        "end": 91.207
       }
     ],
-    "time": 23.32,
-    "end": 28.34
+    "time": 90.967,
+    "end": 91.207
   },
   {
     "text": "Эй, во мне нету веры, её нет у меня",
-    "startTime": 28.35,
-    "endTime": 28.79,
+    "startTime": 91.217,
+    "endTime": 91.657,
     "words": [
       {
         "word": "Эй,",
-        "start": 28.35,
-        "end": 28.39,
-        "singer": "singer1"
+        "start": 91.217,
+        "end": 91.257
       },
       {
         "word": "во",
-        "start": 28.4,
-        "end": 28.44,
-        "singer": "singer1"
+        "start": 91.267,
+        "end": 91.307
       },
       {
         "word": "мне",
-        "start": 28.45,
-        "end": 28.49,
-        "singer": "singer1"
+        "start": 91.317,
+        "end": 91.357
       },
       {
         "word": "нету",
-        "start": 28.5,
-        "end": 28.54,
-        "singer": "singer1"
+        "start": 91.367,
+        "end": 91.407
       },
       {
         "word": "веры,",
-        "start": 28.55,
-        "end": 28.59,
-        "singer": "singer1"
+        "start": 91.417,
+        "end": 91.457
       },
       {
         "word": "её",
-        "start": 28.6,
-        "end": 28.64,
-        "singer": "singer1"
+        "start": 91.467,
+        "end": 91.507
       },
       {
         "word": "нет",
-        "start": 28.65,
-        "end": 28.69,
-        "singer": "singer1"
+        "start": 91.517,
+        "end": 91.557
       },
       {
         "word": "у",
-        "start": 28.7,
-        "end": 28.74,
-        "singer": "singer1"
+        "start": 91.567,
+        "end": 91.607
       },
       {
         "word": "меня",
-        "start": 28.75,
-        "end": 28.79,
-        "singer": "singer1"
+        "start": 91.617,
+        "end": 91.657
       }
     ],
-    "time": 28.35,
-    "end": 28.79
+    "time": 91.217,
+    "end": 91.657
   },
   {
     "text": "Я достал нож с кухни, резать буду, бить",
-    "startTime": 28.8,
-    "endTime": 29.19,
+    "startTime": 91.667,
+    "endTime": 92.057,
     "words": [
       {
         "word": "Я",
-        "start": 28.8,
-        "end": 28.84,
-        "singer": "singer1"
+        "start": 91.667,
+        "end": 91.707
       },
       {
         "word": "достал",
-        "start": 28.85,
-        "end": 28.89,
-        "singer": "singer1"
+        "start": 91.717,
+        "end": 91.757
       },
       {
         "word": "нож",
-        "start": 28.9,
-        "end": 28.94,
-        "singer": "singer1"
+        "start": 91.767,
+        "end": 91.807
       },
       {
         "word": "с",
-        "start": 28.95,
-        "end": 28.99,
-        "singer": "singer1"
+        "start": 91.817,
+        "end": 91.857
       },
       {
         "word": "кухни,",
-        "start": 29.0,
-        "end": 29.04,
-        "singer": "singer1"
+        "start": 91.867,
+        "end": 91.907
       },
       {
         "word": "резать",
-        "start": 29.05,
-        "end": 29.09,
-        "singer": "singer1"
+        "start": 91.917,
+        "end": 91.957
       },
       {
         "word": "буду,",
-        "start": 29.1,
-        "end": 29.14,
-        "singer": "singer1"
+        "start": 91.967,
+        "end": 92.007
       },
       {
         "word": "бить",
-        "start": 29.15,
-        "end": 29.19,
-        "singer": "singer1"
+        "start": 92.017,
+        "end": 92.057
       }
     ],
-    "time": 28.8,
-    "end": 29.19
+    "time": 91.667,
+    "end": 92.057
   },
   {
     "text": "Я вонзил её в руки, хочу себя убить (Оу-оу)",
-    "startTime": 29.2,
-    "endTime": 29.64,
+    "startTime": 92.067,
+    "endTime": 92.507,
     "words": [
       {
         "word": "Я",
-        "start": 29.2,
-        "end": 29.24,
-        "singer": "singer1"
+        "start": 92.067,
+        "end": 92.107
       },
       {
         "word": "вонзил",
-        "start": 29.25,
-        "end": 29.29,
-        "singer": "singer1"
+        "start": 92.117,
+        "end": 92.157
       },
       {
         "word": "её",
-        "start": 29.3,
-        "end": 29.34,
-        "singer": "singer1"
+        "start": 92.167,
+        "end": 92.207
       },
       {
         "word": "в",
-        "start": 29.35,
-        "end": 29.39,
-        "singer": "singer1"
+        "start": 92.217,
+        "end": 92.257
       },
       {
         "word": "руки,",
-        "start": 29.4,
-        "end": 29.44,
-        "singer": "singer1"
+        "start": 92.267,
+        "end": 92.307
       },
       {
         "word": "хочу",
-        "start": 29.45,
-        "end": 29.49,
-        "singer": "singer1"
+        "start": 92.317,
+        "end": 92.357
       },
       {
         "word": "себя",
-        "start": 29.5,
-        "end": 29.54,
-        "singer": "singer1"
+        "start": 92.367,
+        "end": 92.407
       },
       {
         "word": "убить",
-        "start": 29.55,
-        "end": 29.59,
-        "singer": "singer1"
+        "start": 92.417,
+        "end": 92.457
       },
       {
         "word": "(Оу-оу)",
-        "start": 29.6,
-        "end": 29.64,
-        "adlib": true,
-        "singer": "singer1"
+        "start": 92.467,
+        "end": 92.507,
+        "adlib": true
       }
     ],
-    "time": 29.2,
-    "end": 29.64
+    "time": 92.067,
+    "end": 92.507
   },
   {
     "text": "Кровь, руки, вены (Ня-ня), порезы, вода (Ня-ня-ня)",
-    "startTime": 29.65,
-    "endTime": 30.11,
+    "startTime": 92.517,
+    "endTime": 92.872,
     "words": [
       {
         "word": "Кровь,",
-        "start": 29.65,
-        "end": 29.69,
-        "singer": "singer1"
+        "start": 92.517,
+        "end": 92.557
       },
       {
         "word": "руки,",
-        "start": 29.7,
-        "end": 29.74,
-        "singer": "singer1"
+        "start": 92.567,
+        "end": 92.607
       },
       {
         "word": "вены",
-        "start": 29.75,
-        "end": 29.79,
-        "singer": "singer1"
+        "start": 92.617,
+        "end": 92.657
       },
       {
         "word": "(Ня-ня),",
-        "start": 29.8,
-        "end": 29.84,
-        "adlib": true,
-        "singer": "singer1"
+        "start": 92.667,
+        "end": 92.708,
+        "adlib": true
       },
       {
         "word": "порезы,",
-        "start": 29.85,
-        "end": 29.89,
-        "singer": "singer1"
+        "start": 92.718,
+        "end": 92.758
       },
       {
         "word": "вода",
-        "start": 29.9,
-        "end": 30.0,
-        "singer": "singer2"
+        "start": 92.768,
+        "end": 92.808
       },
       {
         "word": "(Ня-ня-ня)",
-        "start": 30.01,
-        "end": 30.11,
-        "adlib": true,
-        "singer": "singer1"
+        "start": 92.818,
+        "end": 92.872,
+        "adlib": true
       }
     ],
-    "time": 29.65,
-    "end": 30.11
+    "time": 92.517,
+    "end": 92.872
   },
   {
     "text": "Эй, во мне нету веры (Ня-ня), её нет у меня (Ля-ля-ля)",
-    "startTime": 30.12,
-    "endTime": 33.04,
+    "startTime": 92.882,
+    "endTime": 93.437,
     "words": [
       {
         "word": "Эй,",
-        "start": 30.12,
-        "end": 30.22,
-        "singer": "singer2"
+        "start": 92.882,
+        "end": 92.922
       },
       {
         "word": "во",
-        "start": 30.29,
-        "end": 30.33,
-        "singer": "singer2"
+        "start": 92.932,
+        "end": 92.972
       },
       {
         "word": "мне",
-        "start": 30.34,
-        "end": 30.44,
-        "singer": "singer2"
+        "start": 92.982,
+        "end": 93.022
       },
       {
         "word": "нету",
-        "start": 30.45,
-        "end": 30.55,
-        "singer": "singer1"
+        "start": 93.032,
+        "end": 93.072
       },
       {
         "word": "веры",
-        "start": 30.56,
-        "end": 30.66,
-        "singer": "singer2"
+        "start": 93.082,
+        "end": 93.122
       },
       {
         "word": "(Ня-ня),",
-        "start": 30.67,
-        "end": 30.77,
-        "adlib": true,
-        "singer": "singer2"
+        "start": 93.132,
+        "end": 93.173,
+        "adlib": true
       },
       {
         "word": "её",
-        "start": 30.78,
-        "end": 30.88,
-        "singer": "singer1"
+        "start": 93.183,
+        "end": 93.223
       },
       {
         "word": "нет",
-        "start": 30.89,
-        "end": 31.44,
-        "char_starts": [
-          30.89,
-          31.058,
-          31.319
-        ],
-        "singer": "singer2"
+        "start": 93.233,
+        "end": 93.273
       },
       {
         "word": "у",
-        "start": 31.45,
-        "end": 31.49,
-        "singer": "singer1"
+        "start": 93.283,
+        "end": 93.323
       },
       {
         "word": "меня",
-        "start": 31.5,
-        "end": 31.54,
-        "singer": "singer1"
+        "start": 93.333,
+        "end": 93.373
       },
       {
         "word": "(Ля-ля-ля)",
-        "start": 31.55,
-        "end": 33.04,
-        "char_starts": [
-          31.55,
-          31.639,
-          31.728,
-          31.821,
-          31.924,
-          32.036,
-          32.155,
-          32.282,
-          32.414,
-          32.553
-        ],
-        "adlib": true,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 93.383,
+        "end": 93.437,
+        "adlib": true
       }
     ],
-    "time": 30.12,
-    "end": 33.04
+    "time": 92.882,
+    "end": 93.437
   },
   {
     "text": "Я достал нож с кухни (Ля-ля, ля-ля-ля), резать буду бить (Ля-ля, ля-ля-ля)",
-    "startTime": 34.92,
-    "endTime": 35.77,
+    "startTime": 93.447,
+    "endTime": 94.058,
     "words": [
       {
         "word": "Я",
-        "start": 34.92,
-        "end": 35.22,
-        "singer": "singer2"
+        "start": 93.447,
+        "end": 93.487
       },
       {
         "word": "достал",
-        "start": 35.23,
-        "end": 35.27,
-        "singer": "singer1"
+        "start": 93.497,
+        "end": 93.537
       },
       {
         "word": "нож",
-        "start": 35.28,
-        "end": 35.32,
-        "singer": "singer1"
+        "start": 93.547,
+        "end": 93.587
       },
       {
         "word": "с",
-        "start": 35.33,
-        "end": 35.37,
-        "singer": "singer1"
+        "start": 93.597,
+        "end": 93.637
       },
       {
         "word": "кухни",
-        "start": 35.38,
-        "end": 35.42,
-        "singer": "singer1"
+        "start": 93.647,
+        "end": 93.687
       },
       {
         "word": "(Ля-ля,",
-        "start": 35.43,
-        "end": 35.47,
-        "adlib": true,
-        "singer": "singer1"
+        "start": 93.697,
+        "end": 93.737,
+        "adlib": true
       },
       {
         "word": "ля-ля-ля),",
-        "start": 35.48,
-        "end": 35.52,
+        "start": 93.747,
+        "end": 93.8,
         "adlib": true,
-        "singer": "singer1"
+        "spoken": true
       },
       {
         "word": "резать",
-        "start": 35.53,
-        "end": 35.57,
-        "singer": "singer1"
+        "start": 93.81,
+        "end": 93.85
       },
       {
         "word": "буду",
-        "start": 35.58,
-        "end": 35.62,
-        "singer": "singer1"
+        "start": 93.86,
+        "end": 93.9
       },
       {
         "word": "бить",
-        "start": 35.63,
-        "end": 35.67,
-        "singer": "singer1"
+        "start": 93.91,
+        "end": 93.95
       },
       {
         "word": "(Ля-ля,",
-        "start": 35.68,
-        "end": 35.72,
-        "adlib": true,
-        "singer": "singer1"
+        "start": 93.96,
+        "end": 94.0,
+        "adlib": true
       },
       {
         "word": "ля-ля-ля)",
-        "start": 35.73,
-        "end": 35.77,
-        "adlib": true,
-        "singer": "singer1"
+        "start": 94.01,
+        "end": 94.058,
+        "adlib": true
       }
     ],
-    "time": 34.92,
-    "end": 35.77
+    "time": 93.447,
+    "end": 94.058
   },
   {
     "text": "Я вонзил её в руки (Ля-ля, ля-ля-ля), хочу себя убить (Ля-ля-ля-ля-ля-ля)",
-    "startTime": 35.78,
-    "endTime": 41.2,
+    "startTime": 94.068,
+    "endTime": 94.692,
     "words": [
       {
         "word": "Я",
-        "start": 35.78,
-        "end": 35.88,
-        "singer": "singer2"
+        "start": 94.068,
+        "end": 94.108
       },
       {
         "word": "вонзил",
-        "start": 35.89,
-        "end": 35.99,
-        "singer": "singer2"
+        "start": 94.118,
+        "end": 94.158
       },
       {
         "word": "её",
-        "start": 36.0,
-        "end": 36.14,
-        "singer": "singer2"
+        "start": 94.168,
+        "end": 94.208
       },
       {
         "word": "в",
-        "start": 36.15,
-        "end": 36.25,
-        "singer": "singer2"
+        "start": 94.218,
+        "end": 94.258
       },
       {
         "word": "руки",
-        "start": 36.26,
-        "end": 36.7,
-        "singer": "singer2"
+        "start": 94.268,
+        "end": 94.308
       },
       {
         "word": "(Ля-ля,",
-        "start": 36.71,
-        "end": 36.75,
-        "adlib": true,
-        "singer": "singer1"
+        "start": 94.318,
+        "end": 94.358,
+        "adlib": true
       },
       {
         "word": "ля-ля-ля),",
-        "start": 36.76,
-        "end": 36.8,
+        "start": 94.368,
+        "end": 94.421,
         "adlib": true,
-        "singer": "singer1"
+        "whisper": true
       },
       {
         "word": "хочу",
-        "start": 36.81,
-        "end": 37.06,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 94.431,
+        "end": 94.471
       },
       {
         "word": "себя",
-        "start": 37.07,
-        "end": 37.5,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 94.481,
+        "end": 94.521
       },
       {
         "word": "убить",
-        "start": 37.51,
-        "end": 39.7,
-        "char_starts": [
-          37.51,
-          37.773,
-          38.108,
-          38.508,
-          38.958
-        ],
-        "singer": "singer2"
+        "start": 94.531,
+        "end": 94.571
       },
       {
         "word": "(Ля-ля-ля-ля-ля-ля)",
-        "start": 39.71,
-        "end": 41.2,
-        "char_starts": [
-          39.71,
-          39.757,
-          39.804,
-          39.851,
-          39.898,
-          39.945,
-          39.993,
-          40.044,
-          40.096,
-          40.151,
-          40.208,
-          40.267,
-          40.328,
-          40.39,
-          40.454,
-          40.519,
-          40.586,
-          40.655,
-          40.724
-        ],
+        "start": 94.581,
+        "end": 94.692,
         "adlib": true,
-        "sung": true,
-        "singer": "singer1",
-        "stretch": true
+        "spoken": true
       }
     ],
-    "time": 35.78,
-    "end": 41.2
-  },
-  {
-    "text": "●",
-    "startTime": 41.5,
-    "endTime": 55.98,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 41.5,
-    "end": 55.98
+    "time": 94.068,
+    "end": 94.692
   },
   {
     "text": "Я курю, чтобы, быстрее умереть",
-    "startTime": 55.98,
-    "endTime": 57.485,
+    "startTime": 94.702,
+    "endTime": 94.942,
     "words": [
       {
         "word": "Я",
-        "start": 55.98,
-        "end": 56.22,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 94.702,
+        "end": 94.742
       },
       {
         "word": "курю,",
-        "start": 56.23,
-        "end": 56.27,
-        "singer": "singer1"
+        "start": 94.752,
+        "end": 94.792
       },
       {
         "word": "чтобы,",
-        "start": 56.28,
-        "end": 56.82,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 94.802,
+        "end": 94.842
       },
       {
         "word": "быстрее",
-        "start": 56.83,
-        "end": 57.152,
-        "singer": "singer2"
+        "start": 94.852,
+        "end": 94.892
       },
       {
         "word": "умереть",
-        "start": 57.162,
-        "end": 57.485,
-        "singer": "singer2"
+        "start": 94.902,
+        "end": 94.942
       }
     ],
-    "time": 55.98,
-    "end": 57.485
+    "time": 94.702,
+    "end": 94.942
   },
   {
-    "text": "Сука, ненавижу шлюх, но обожаю",
-    "startTime": 57.495,
-    "endTime": 59.5,
+    "text": "Сука, ненавижу шлюх, но обожаю о них петь",
+    "startTime": 94.952,
+    "endTime": 95.343,
     "words": [
       {
         "word": "Сука,",
-        "start": 57.588,
-        "end": 57.723,
-        "singer": "singer2"
+        "start": 94.952,
+        "end": 94.992
       },
       {
         "word": "ненавижу",
-        "start": 57.733,
-        "end": 58.103,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 95.002,
+        "end": 95.043
       },
       {
         "word": "шлюх,",
-        "start": 58.113,
-        "end": 58.34,
-        "singer": "singer2"
+        "start": 95.053,
+        "end": 95.093
       },
       {
         "word": "но",
-        "start": 58.35,
-        "end": 58.68,
-        "singer": "singer2"
+        "start": 95.103,
+        "end": 95.143
       },
       {
         "word": "обожаю",
-        "start": 59.16,
-        "end": 59.5,
-        "singer": "singer2"
-      }
-    ],
-    "time": 57.495,
-    "end": 59.5
-  },
-  {
-    "text": "о них петь",
-    "startTime": 62.74,
-    "endTime": 64.54,
-    "words": [
+        "start": 95.153,
+        "end": 95.193
+      },
       {
         "word": "о",
-        "start": 62.824,
-        "end": 62.88,
-        "singer": "singer1"
+        "start": 95.203,
+        "end": 95.243
       },
       {
         "word": "них",
-        "start": 63.24,
-        "end": 64.38,
-        "char_starts": [
-          63.24,
-          63.483,
-          63.858
-        ],
-        "sung": true,
-        "singer": "singer1",
-        "stretch": true
+        "start": 95.253,
+        "end": 95.293
       },
       {
         "word": "петь",
-        "start": 64.39,
-        "end": 64.54,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 95.303,
+        "end": 95.343
       }
     ],
-    "time": 62.74,
-    "end": 64.54
-  },
-  {
-    "text": "●",
-    "startTime": 64.84,
-    "endTime": 69.77,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 64.84,
-    "end": 69.77
+    "time": 94.952,
+    "end": 95.343
   },
   {
     "text": "Обожаю, сука, музыку, я без неё никак",
-    "startTime": 69.77,
-    "endTime": 70.672,
+    "startTime": 95.353,
+    "endTime": 95.693,
     "words": [
       {
         "word": "Обожаю,",
-        "start": 69.77,
-        "end": 69.885,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 95.353,
+        "end": 95.393
       },
       {
         "word": "сука,",
-        "start": 69.895,
-        "end": 69.975,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 95.403,
+        "end": 95.443
       },
       {
         "word": "музыку,",
-        "start": 69.985,
-        "end": 70.1,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 95.453,
+        "end": 95.493
       },
       {
         "word": "я",
-        "start": 70.11,
-        "end": 70.4,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 95.503,
+        "end": 95.543
       },
       {
         "word": "без",
-        "start": 70.41,
-        "end": 70.474,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 95.553,
+        "end": 95.593
       },
       {
         "word": "неё",
-        "start": 70.484,
-        "end": 70.549,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 95.603,
+        "end": 95.643
       },
       {
         "word": "никак",
-        "start": 70.627,
-        "end": 70.672,
-        "singer": "singer1"
+        "start": 95.653,
+        "end": 95.693
       }
     ],
-    "time": 69.77,
-    "end": 70.672
+    "time": 95.353,
+    "end": 95.693
   },
   {
     "text": "Слишком слабый, чтобы щас покончить с жизнью просто так",
-    "startTime": 70.682,
-    "endTime": 72.883,
+    "startTime": 95.703,
+    "endTime": 96.151,
     "words": [
       {
         "word": "Слишком",
-        "start": 70.78,
-        "end": 70.846,
-        "singer": "singer1"
+        "start": 95.703,
+        "end": 95.743
       },
       {
         "word": "слабый,",
-        "start": 70.856,
-        "end": 71.019,
-        "singer": "singer1"
+        "start": 95.753,
+        "end": 95.793
       },
       {
         "word": "чтобы",
-        "start": 71.029,
-        "end": 71.143,
-        "singer": "singer1"
+        "start": 95.803,
+        "end": 95.843
       },
       {
         "word": "щас",
-        "start": 71.177,
-        "end": 71.217,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 95.853,
+        "end": 95.893
       },
       {
         "word": "покончить",
-        "start": 71.355,
-        "end": 71.44,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 95.903,
+        "end": 95.951
       },
       {
         "word": "с",
-        "start": 71.564,
-        "end": 71.64,
-        "singer": "singer1"
+        "start": 95.961,
+        "end": 96.001
       },
       {
         "word": "жизнью",
-        "start": 71.65,
-        "end": 72.137,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 96.011,
+        "end": 96.051
       },
       {
         "word": "просто",
-        "start": 72.439,
-        "end": 72.634,
-        "sung": true,
-        "singer": "singer1"
+        "start": 96.061,
+        "end": 96.101
       },
       {
         "word": "так",
-        "start": 72.644,
-        "end": 72.883,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 96.111,
+        "end": 96.151
       }
     ],
-    "time": 70.682,
-    "end": 72.883
+    "time": 95.703,
+    "end": 96.151
   },
   {
     "text": "И снова я курю, потому что очень больно",
-    "startTime": 72.893,
-    "endTime": 77.2,
+    "startTime": 96.161,
+    "endTime": 96.551,
     "words": [
       {
         "word": "И",
-        "start": 72.893,
-        "end": 72.966,
-        "singer": "singer1"
+        "start": 96.161,
+        "end": 96.201
       },
       {
         "word": "снова",
-        "start": 73.046,
-        "end": 73.38,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 96.211,
+        "end": 96.251
       },
       {
         "word": "я",
-        "start": 73.39,
-        "end": 73.64,
-        "singer": "singer1"
+        "start": 96.261,
+        "end": 96.301
       },
       {
         "word": "курю,",
-        "start": 74.0,
-        "end": 75.14,
-        "char_starts": [
-          74.0,
-          74.137,
-          74.284,
-          74.457,
-          74.651
-        ],
-        "singer": "singer1"
+        "start": 96.311,
+        "end": 96.351
       },
       {
         "word": "потому",
-        "start": 75.359,
-        "end": 76.64,
-        "char_starts": [
-          75.359,
-          75.487,
-          75.615,
-          75.771,
-          75.958,
-          76.172
-        ],
-        "sung": true,
-        "singer": "singer1",
-        "stretch": true
+        "start": 96.361,
+        "end": 96.401
       },
       {
         "word": "что",
-        "start": 76.65,
-        "end": 76.8,
-        "char_starts": [
-          76.65,
-          76.699,
-          76.77
-        ],
-        "spoken": true,
-        "singer": "singer1"
+        "start": 96.411,
+        "end": 96.451
       },
       {
         "word": "очень",
-        "start": 76.85,
-        "end": 77.0,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 96.461,
+        "end": 96.501
       },
       {
         "word": "больно",
-        "start": 77.05,
-        "end": 77.2,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 96.511,
+        "end": 96.551
       }
     ],
-    "time": 72.893,
-    "end": 77.2
-  },
-  {
-    "text": "●",
-    "startTime": 77.5,
-    "endTime": 90.19,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 77.5,
-    "end": 90.19
+    "time": 96.161,
+    "end": 96.551
   },
   {
     "text": "Я думаю о смерти каждый день, с меня довольно",
-    "startTime": 90.19,
-    "endTime": 93.68,
+    "startTime": 96.561,
+    "endTime": 97.002,
     "words": [
       {
         "word": "Я",
-        "start": 90.19,
-        "end": 90.68,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 96.561,
+        "end": 96.601
       },
       {
         "word": "думаю",
-        "start": 90.876,
-        "end": 91.92,
-        "char_starts": [
-          90.876,
-          91.001,
-          91.136,
-          91.314,
-          91.528
-        ],
-        "sung": true,
-        "singer": "singer1",
-        "stretch": true
+        "start": 96.611,
+        "end": 96.651
       },
       {
         "word": "о",
-        "start": 91.93,
-        "end": 92.78,
-        "sung": true,
-        "singer": "singer1"
+        "start": 96.661,
+        "end": 96.701
       },
       {
         "word": "смерти",
-        "start": 92.79,
-        "end": 92.83,
-        "singer": "singer1"
+        "start": 96.711,
+        "end": 96.751
       },
       {
         "word": "каждый",
-        "start": 92.84,
-        "end": 92.88,
-        "singer": "singer1"
+        "start": 96.761,
+        "end": 96.801
       },
       {
         "word": "день,",
-        "start": 92.89,
-        "end": 92.93,
-        "singer": "singer1"
+        "start": 96.811,
+        "end": 96.851
       },
       {
         "word": "с",
-        "start": 93.265,
-        "end": 93.58,
-        "spoken": true,
-        "singer": "singer1"
+        "start": 96.861,
+        "end": 96.901
       },
       {
         "word": "меня",
-        "start": 93.59,
-        "end": 93.63,
-        "singer": "singer1"
+        "start": 96.911,
+        "end": 96.951
       },
       {
         "word": "довольно",
-        "start": 93.64,
-        "end": 93.68,
-        "singer": "singer1"
+        "start": 96.961,
+        "end": 97.002
       }
     ],
-    "time": 90.19,
-    "end": 93.68
+    "time": 96.561,
+    "end": 97.002
   },
   {
     "text": "Меня не испугает это больше никогда",
-    "startTime": 93.69,
-    "endTime": 93.98,
+    "startTime": 97.012,
+    "endTime": 97.302,
     "words": [
       {
         "word": "Меня",
-        "start": 93.69,
-        "end": 93.73,
-        "singer": "singer1"
+        "start": 97.012,
+        "end": 97.052
       },
       {
         "word": "не",
-        "start": 93.74,
-        "end": 93.78,
-        "singer": "singer1"
+        "start": 97.062,
+        "end": 97.102
       },
       {
         "word": "испугает",
-        "start": 93.79,
-        "end": 93.83,
-        "singer": "singer1"
+        "start": 97.112,
+        "end": 97.152
       },
       {
         "word": "это",
-        "start": 93.84,
-        "end": 93.88,
-        "singer": "singer1"
+        "start": 97.162,
+        "end": 97.202
       },
       {
         "word": "больше",
-        "start": 93.89,
-        "end": 93.93,
-        "singer": "singer1"
+        "start": 97.212,
+        "end": 97.252
       },
       {
         "word": "никогда",
-        "start": 93.94,
-        "end": 93.98,
-        "singer": "singer1"
+        "start": 97.262,
+        "end": 97.302
       }
     ],
-    "time": 93.69,
-    "end": 93.98
+    "time": 97.012,
+    "end": 97.302
   },
   {
-    "text": "Со мной твой путь не сложится, запомни навсегда[Припев]",
-    "startTime": 93.99,
-    "endTime": 94.38,
+    "text": "Со мной твой путь не сложится, запомни навсегда",
+    "startTime": 97.312,
+    "endTime": 97.711,
     "words": [
       {
         "word": "Со",
-        "start": 93.99,
-        "end": 94.03,
-        "singer": "singer1"
+        "start": 97.312,
+        "end": 97.352
       },
       {
         "word": "мной",
-        "start": 94.04,
-        "end": 94.08,
-        "singer": "singer1"
+        "start": 97.362,
+        "end": 97.402
       },
       {
         "word": "твой",
-        "start": 94.09,
-        "end": 94.13,
-        "singer": "singer1"
+        "start": 97.412,
+        "end": 97.452
       },
       {
         "word": "путь",
-        "start": 94.14,
-        "end": 94.18,
-        "singer": "singer1"
+        "start": 97.462,
+        "end": 97.502
       },
       {
         "word": "не",
-        "start": 94.19,
-        "end": 94.23,
-        "singer": "singer1"
+        "start": 97.512,
+        "end": 97.552
       },
       {
         "word": "сложится,",
-        "start": 94.24,
-        "end": 94.28,
-        "singer": "singer1"
+        "start": 97.562,
+        "end": 97.61
       },
       {
         "word": "запомни",
-        "start": 94.29,
-        "end": 94.33,
-        "singer": "singer1"
+        "start": 97.62,
+        "end": 97.66
       },
       {
-        "word": "навсегда[Припев]",
-        "start": 94.34,
-        "end": 94.38,
-        "singer": "singer1"
+        "word": "навсегда",
+        "start": 97.67,
+        "end": 97.711
       }
     ],
-    "time": 93.99,
-    "end": 94.38
+    "time": 97.312,
+    "end": 97.711
   },
   {
     "text": "Кровь, руки, вены, порезы, вода",
-    "startTime": 94.39,
-    "endTime": 94.63,
+    "startTime": 97.721,
+    "endTime": 97.961,
     "words": [
       {
         "word": "Кровь,",
-        "start": 94.39,
-        "end": 94.43,
-        "singer": "singer1"
+        "start": 97.721,
+        "end": 97.761
       },
       {
         "word": "руки,",
-        "start": 94.44,
-        "end": 94.48,
-        "singer": "singer1"
+        "start": 97.771,
+        "end": 97.811
       },
       {
         "word": "вены,",
-        "start": 94.49,
-        "end": 94.53,
-        "singer": "singer1"
+        "start": 97.821,
+        "end": 97.861
       },
       {
         "word": "порезы,",
-        "start": 94.54,
-        "end": 94.58,
-        "singer": "singer1"
+        "start": 97.871,
+        "end": 97.911
       },
       {
         "word": "вода",
-        "start": 94.59,
-        "end": 94.63,
-        "singer": "singer1"
+        "start": 97.921,
+        "end": 97.961
       }
     ],
-    "time": 94.39,
-    "end": 94.63
+    "time": 97.721,
+    "end": 97.961
   },
   {
     "text": "Эй, во мне нету веры, её нет у меня",
-    "startTime": 94.64,
-    "endTime": 95.08,
+    "startTime": 97.971,
+    "endTime": 98.411,
     "words": [
       {
         "word": "Эй,",
-        "start": 94.64,
-        "end": 94.68,
-        "singer": "singer1"
+        "start": 97.971,
+        "end": 98.011
       },
       {
         "word": "во",
-        "start": 94.69,
-        "end": 94.73,
-        "singer": "singer1"
+        "start": 98.021,
+        "end": 98.061
       },
       {
         "word": "мне",
-        "start": 94.74,
-        "end": 94.78,
-        "singer": "singer1"
+        "start": 98.071,
+        "end": 98.111
       },
       {
         "word": "нету",
-        "start": 94.79,
-        "end": 94.83,
-        "singer": "singer1"
+        "start": 98.121,
+        "end": 98.161
       },
       {
         "word": "веры,",
-        "start": 94.84,
-        "end": 94.88,
-        "singer": "singer1"
+        "start": 98.171,
+        "end": 98.211
       },
       {
         "word": "её",
-        "start": 94.89,
-        "end": 94.93,
-        "singer": "singer1"
+        "start": 98.221,
+        "end": 98.261
       },
       {
         "word": "нет",
-        "start": 94.94,
-        "end": 94.98,
-        "singer": "singer1"
+        "start": 98.271,
+        "end": 98.311
       },
       {
         "word": "у",
-        "start": 94.99,
-        "end": 95.03,
-        "singer": "singer1"
+        "start": 98.321,
+        "end": 98.361
       },
       {
         "word": "меня",
-        "start": 95.04,
-        "end": 95.08,
-        "singer": "singer1"
+        "start": 98.371,
+        "end": 98.411
       }
     ],
-    "time": 94.64,
-    "end": 95.08
+    "time": 97.971,
+    "end": 98.411
   },
   {
     "text": "Я достал нож с кухни, резать буду бить",
-    "startTime": 95.09,
-    "endTime": 95.48,
+    "startTime": 98.421,
+    "endTime": 98.811,
     "words": [
       {
         "word": "Я",
-        "start": 95.09,
-        "end": 95.13,
-        "singer": "singer1"
+        "start": 98.421,
+        "end": 98.461
       },
       {
         "word": "достал",
-        "start": 95.14,
-        "end": 95.18,
-        "singer": "singer1"
+        "start": 98.471,
+        "end": 98.511
       },
       {
         "word": "нож",
-        "start": 95.19,
-        "end": 95.23,
-        "singer": "singer1"
+        "start": 98.521,
+        "end": 98.561
       },
       {
         "word": "с",
-        "start": 95.24,
-        "end": 95.28,
-        "singer": "singer1"
+        "start": 98.571,
+        "end": 98.611
       },
       {
         "word": "кухни,",
-        "start": 95.29,
-        "end": 95.33,
-        "singer": "singer1"
+        "start": 98.621,
+        "end": 98.661
       },
       {
         "word": "резать",
-        "start": 95.34,
-        "end": 95.38,
-        "singer": "singer1"
+        "start": 98.671,
+        "end": 98.711
       },
       {
         "word": "буду",
-        "start": 95.39,
-        "end": 95.43,
-        "singer": "singer1"
+        "start": 98.721,
+        "end": 98.761
       },
       {
         "word": "бить",
-        "start": 95.44,
-        "end": 95.48,
-        "singer": "singer1"
+        "start": 98.771,
+        "end": 98.811
       }
     ],
-    "time": 95.09,
-    "end": 95.48
+    "time": 98.421,
+    "end": 98.811
   },
   {
     "text": "Я вонзил её в руки, хочу себя убить (Оу-оу)",
-    "startTime": 95.49,
-    "endTime": 95.93,
+    "startTime": 98.821,
+    "endTime": 99.261,
     "words": [
       {
         "word": "Я",
-        "start": 95.49,
-        "end": 95.53,
-        "singer": "singer1"
+        "start": 98.821,
+        "end": 98.861
       },
       {
         "word": "вонзил",
-        "start": 95.54,
-        "end": 95.58,
-        "singer": "singer1"
+        "start": 98.871,
+        "end": 98.911
       },
       {
         "word": "её",
-        "start": 95.59,
-        "end": 95.63,
-        "singer": "singer1"
+        "start": 98.921,
+        "end": 98.961
       },
       {
         "word": "в",
-        "start": 95.64,
-        "end": 95.68,
-        "singer": "singer1"
+        "start": 98.971,
+        "end": 99.011
       },
       {
         "word": "руки,",
-        "start": 95.69,
-        "end": 95.73,
-        "singer": "singer1"
+        "start": 99.021,
+        "end": 99.061
       },
       {
         "word": "хочу",
-        "start": 95.74,
-        "end": 95.78,
-        "singer": "singer1"
+        "start": 99.071,
+        "end": 99.111
       },
       {
         "word": "себя",
-        "start": 95.79,
-        "end": 95.83,
-        "singer": "singer1"
+        "start": 99.121,
+        "end": 99.161
       },
       {
         "word": "убить",
-        "start": 95.84,
-        "end": 95.88,
-        "singer": "singer1"
+        "start": 99.171,
+        "end": 99.211
       },
       {
         "word": "(Оу-оу)",
-        "start": 95.89,
-        "end": 95.93,
-        "adlib": true,
-        "singer": "singer1"
+        "start": 99.221,
+        "end": 99.261,
+        "adlib": true
       }
     ],
-    "time": 95.49,
-    "end": 95.93
+    "time": 98.821,
+    "end": 99.261
   },
   {
     "text": "Кровь, руки, вены (Ня-ня), порезы, вода (Ня-ня-ня)",
-    "startTime": 95.94,
-    "endTime": 96.28,
+    "startTime": 99.271,
+    "endTime": 99.625,
     "words": [
       {
         "word": "Кровь,",
-        "start": 95.94,
-        "end": 95.98,
-        "singer": "singer1"
+        "start": 99.271,
+        "end": 99.311
       },
       {
         "word": "руки,",
-        "start": 95.99,
-        "end": 96.03,
-        "singer": "singer1"
+        "start": 99.321,
+        "end": 99.361
       },
       {
         "word": "вены",
-        "start": 96.04,
-        "end": 96.08,
-        "singer": "singer1"
+        "start": 99.371,
+        "end": 99.411
       },
       {
         "word": "(Ня-ня),",
-        "start": 96.09,
-        "end": 96.13,
-        "adlib": true,
-        "singer": "singer1"
+        "start": 99.421,
+        "end": 99.462,
+        "adlib": true
       },
       {
         "word": "порезы,",
-        "start": 96.14,
-        "end": 96.18,
-        "singer": "singer1"
+        "start": 99.472,
+        "end": 99.512
       },
       {
         "word": "вода",
-        "start": 96.19,
-        "end": 96.23,
-        "singer": "singer1"
+        "start": 99.522,
+        "end": 99.562
       },
       {
         "word": "(Ня-ня-ня)",
-        "start": 96.24,
-        "end": 96.28,
+        "start": 99.572,
+        "end": 99.625,
         "adlib": true,
-        "singer": "singer1"
+        "whisper": true
       }
     ],
-    "time": 95.94,
-    "end": 96.28
+    "time": 99.271,
+    "end": 99.625
   },
   {
     "text": "Эй, во мне нету веры (Ня-ня), её нет у меня (Ля-ля-ля)",
-    "startTime": 96.29,
-    "endTime": 96.83,
+    "startTime": 99.635,
+    "endTime": 100.236,
     "words": [
       {
         "word": "Эй,",
-        "start": 96.29,
-        "end": 96.33,
-        "singer": "singer1"
+        "start": 99.635,
+        "end": 99.675
       },
       {
         "word": "во",
-        "start": 96.34,
-        "end": 96.38,
-        "singer": "singer1"
+        "start": 99.685,
+        "end": 99.725
       },
       {
         "word": "мне",
-        "start": 96.39,
-        "end": 96.43,
-        "singer": "singer1"
+        "start": 99.735,
+        "end": 99.775
       },
       {
         "word": "нету",
-        "start": 96.44,
-        "end": 96.48,
-        "singer": "singer1"
+        "start": 99.785,
+        "end": 99.825
       },
       {
         "word": "веры",
-        "start": 96.49,
-        "end": 96.53,
-        "singer": "singer1"
+        "start": 99.835,
+        "end": 99.875
       },
       {
         "word": "(Ня-ня),",
-        "start": 96.54,
-        "end": 96.58,
-        "adlib": true,
-        "singer": "singer1"
+        "start": 99.885,
+        "end": 99.926,
+        "adlib": true
       },
       {
         "word": "её",
-        "start": 96.59,
-        "end": 96.63,
-        "singer": "singer1"
+        "start": 99.936,
+        "end": 99.976
       },
       {
         "word": "нет",
-        "start": 96.64,
-        "end": 96.68,
-        "singer": "singer1"
+        "start": 99.986,
+        "end": 100.026
       },
       {
         "word": "у",
-        "start": 96.69,
-        "end": 96.73,
-        "singer": "singer1"
+        "start": 100.036,
+        "end": 100.076
       },
       {
         "word": "меня",
-        "start": 96.74,
-        "end": 96.78,
-        "singer": "singer1"
+        "start": 100.086,
+        "end": 100.126
       },
       {
         "word": "(Ля-ля-ля)",
-        "start": 96.79,
-        "end": 96.83,
+        "start": 100.136,
+        "end": 100.236,
         "adlib": true,
-        "singer": "singer1"
+        "whisper": true
       }
     ],
-    "time": 96.29,
-    "end": 96.83
+    "time": 99.635,
+    "end": 100.236
   },
   {
     "text": "Я достал нож с кухни (Ля-ля, ля-ля-ля), резать буду бить (Ля-ля, ля-ля-ля)",
-    "startTime": 96.84,
+    "startTime": 100.246,
+    "endTime": 101.556,
+    "words": [
+      {
+        "word": "Я",
+        "start": 100.246,
+        "end": 100.346,
+        "whisper": true
+      },
+      {
+        "word": "достал",
+        "start": 100.356,
+        "end": 100.456,
+        "whisper": true
+      },
+      {
+        "word": "нож",
+        "start": 100.466,
+        "end": 100.566,
+        "whisper": true
+      },
+      {
+        "word": "с",
+        "start": 100.576,
+        "end": 100.676,
+        "whisper": true
+      },
+      {
+        "word": "кухни",
+        "start": 100.686,
+        "end": 100.786,
+        "whisper": true
+      },
+      {
+        "word": "(Ля-ля,",
+        "start": 100.796,
+        "end": 100.896,
+        "adlib": true,
+        "whisper": true
+      },
+      {
+        "word": "ля-ля-ля),",
+        "start": 100.906,
+        "end": 101.006,
+        "adlib": true,
+        "whisper": true
+      },
+      {
+        "word": "резать",
+        "start": 101.016,
+        "end": 101.116,
+        "whisper": true
+      },
+      {
+        "word": "буду",
+        "start": 101.126,
+        "end": 101.226,
+        "whisper": true
+      },
+      {
+        "word": "бить",
+        "start": 101.236,
+        "end": 101.336,
+        "whisper": true
+      },
+      {
+        "word": "(Ля-ля,",
+        "start": 101.346,
+        "end": 101.446,
+        "adlib": true,
+        "whisper": true
+      },
+      {
+        "word": "ля-ля-ля)",
+        "start": 101.456,
+        "end": 101.556,
+        "adlib": true,
+        "whisper": true
+      }
+    ],
+    "time": 100.246,
+    "end": 101.556
+  },
+  {
+    "text": "Я вонзил её в руки (Ля-ля, ля-ля-ля), хочу себя убить (Ля-ля-ля-ля-ля-ля)",
+    "startTime": 101.566,
     "endTime": 102.331,
     "words": [
       {
         "word": "Я",
-        "start": 96.84,
-        "end": 96.88,
-        "singer": "singer1"
+        "start": 101.566,
+        "end": 101.666,
+        "whisper": true
       },
       {
-        "word": "достал",
-        "start": 96.89,
-        "end": 96.93,
-        "singer": "singer1"
+        "word": "вонзил",
+        "start": 101.676,
+        "end": 101.776,
+        "whisper": true
       },
       {
-        "word": "нож",
-        "start": 96.94,
-        "end": 96.98,
-        "singer": "singer1"
+        "word": "её",
+        "start": 101.786,
+        "end": 101.886,
+        "whisper": true
       },
       {
-        "word": "с",
-        "start": 96.99,
-        "end": 97.03,
-        "singer": "singer1"
+        "word": "в",
+        "start": 101.896,
+        "end": 101.996,
+        "whisper": true
       },
       {
-        "word": "кухни",
-        "start": 97.04,
-        "end": 97.14,
-        "whisper": true,
-        "singer": "singer1"
+        "word": "руки",
+        "start": 102.006,
+        "end": 102.106,
+        "whisper": true
       },
       {
         "word": "(Ля-ля,",
-        "start": 97.15,
-        "end": 97.25,
+        "start": 102.116,
+        "end": 102.216,
         "adlib": true,
-        "whisper": true,
-        "singer": "singer1"
+        "whisper": true
       },
       {
         "word": "ля-ля-ля),",
-        "start": 97.26,
-        "end": 97.36,
+        "start": 102.226,
+        "end": 102.326,
         "adlib": true,
-        "whisper": true,
-        "singer": "singer1"
+        "whisper": true
       },
       {
-        "word": "резать",
-        "start": 97.37,
-        "end": 102.3,
-        "char_starts": [
-          97.37,
-          97.863,
-          98.424,
-          99.091,
-          99.838,
-          100.651
-        ],
-        "whisper": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "буду",
+        "word": "хочу",
         "start": 102.231,
         "end": 102.331,
-        "whisper": true,
-        "singer": "singer1"
+        "whisper": true
       },
       {
-        "word": "бить",
+        "word": "себя",
         "start": 102.231,
         "end": 102.331,
-        "whisper": true,
-        "singer": "singer1"
+        "whisper": true
       },
       {
-        "word": "(Ля-ля,",
+        "word": "убить",
+        "start": 102.231,
+        "end": 102.331,
+        "whisper": true
+      },
+      {
+        "word": "(Ля-ля-ля-ля-ля-ля)",
         "start": 102.231,
         "end": 102.331,
         "adlib": true,
-        "whisper": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "ля-ля-ля)",
-        "start": 102.231,
-        "end": 102.331,
-        "adlib": true,
-        "whisper": true,
-        "singer": "singer1"
+        "whisper": true
       }
     ],
-    "time": 96.84,
+    "time": 101.566,
     "end": 102.331
   }
 ]

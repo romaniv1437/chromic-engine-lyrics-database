@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T22:54:59.906740+00:00",
-  "totalTracks": 813,
+  "generatedAt": "2026-07-10T23:08:09.942610+00:00",
+  "totalTracks": 814,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11425,6 +11425,20 @@
       },
       "sourcePath": "https://soundcloud.com/rainybear16/vacancy-ft-lil-peep",
       "mtimeMs": 1783724101127
+    },
+    "gg neeks, lil peep::mo murda ft. lil peep (prod. willie g)": {
+      "title": "MO MURDA FT. LIL PEEP (Prod. Willie G)",
+      "artist": "GG NEEKS, Lil peep",
+      "originalTrackName": "GG NEEKS, Lil peep - MO MURDA FT. LIL PEEP (Prod. Willie G)",
+      "source": "syncedlyrics",
+      "file": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.json",
+      "files": {
+        "lyrics": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.json",
+        "meta": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/neeksthekid/mo-murda-ft-lil-peep-willie-g",
+      "mtimeMs": 1783724891565
     }
   },
   "tracks": [
@@ -22867,6 +22881,20 @@
       },
       "sourcePath": "https://soundcloud.com/rainybear16/vacancy-ft-lil-peep",
       "mtimeMs": 1783724101127
+    },
+    {
+      "title": "MO MURDA FT. LIL PEEP (Prod. Willie G)",
+      "artist": "GG NEEKS, Lil peep",
+      "originalTrackName": "GG NEEKS, Lil peep - MO MURDA FT. LIL PEEP (Prod. Willie G)",
+      "source": "syncedlyrics",
+      "file": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.json",
+      "files": {
+        "lyrics": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.json",
+        "meta": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/neeksthekid/mo-murda-ft-lil-peep-willie-g",
+      "mtimeMs": 1783724891565
     }
   ]
 }

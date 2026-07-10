@@ -168,7 +168,7 @@
       {
         "word": "Baby,",
         "start": 12.38,
-        "end": 13.0,
+        "end": 13,
         "char_starts": [
           12.38,
           12.471,
@@ -289,7 +289,7 @@
       {
         "word": "her",
         "start": 20.9,
-        "end": 21.0,
+        "end": 21,
         "spoken": true,
         "singer": "singer2"
       },
@@ -942,7 +942,7 @@
       {
         "word": "too",
         "start": 48.82,
-        "end": 49.0,
+        "end": 49,
         "spoken": true,
         "singer": "singer1"
       },
@@ -1376,7 +1376,7 @@
       {
         "word": "round",
         "start": 64.9,
-        "end": 65.0,
+        "end": 65,
         "spoken": true,
         "singer": "singer1"
       },
@@ -1513,7 +1513,7 @@
       {
         "word": "so",
         "start": 69.81,
-        "end": 70.0,
+        "end": 70,
         "spoken": true,
         "singer": "singer1"
       },
@@ -2232,7 +2232,7 @@
   {
     "text": "Close your eyes and breathe deep, I promise you it won't hurt",
     "startTime": 97.86,
-    "endTime": 102.0,
+    "endTime": 102,
     "words": [
       {
         "word": "Close",
@@ -2311,7 +2311,7 @@
       {
         "word": "hurt",
         "start": 100.77,
-        "end": 102.0,
+        "end": 102,
         "char_starts": [
           100.77,
           100.954,
@@ -2323,7 +2323,7 @@
       }
     ],
     "time": 97.86,
-    "end": 102.0
+    "end": 102
   },
   {
     "text": "Take a life before mine, baby, who's gonna die first?",

@@ -179,7 +179,7 @@
   {
     "text": "Shout out Kirb",
     "startTime": 9.96,
-    "endTime": 11.0,
+    "endTime": 11,
     "words": [
       {
         "word": "Shout",
@@ -198,13 +198,13 @@
       {
         "word": "Kirb",
         "start": 10.4,
-        "end": 11.0,
+        "end": 11,
         "whisper": true,
         "singer": "singer1"
       }
     ],
     "time": 9.96,
-    "end": 11.0
+    "end": 11
   },
   {
     "text": "Shout out Raven",
@@ -2882,13 +2882,13 @@
       {
         "word": "wanna",
         "start": 130.517,
-        "end": 131.0,
+        "end": 131,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "see",
-        "start": 131.0,
+        "start": 131,
         "end": 131.29,
         "spoken": true,
         "singer": "singer1"

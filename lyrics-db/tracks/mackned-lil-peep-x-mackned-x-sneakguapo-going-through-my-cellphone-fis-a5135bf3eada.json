@@ -1,0 +1,3377 @@
+[
+  {
+    "text": "I'm a popstar, I feel like Fish Narc",
+    "startTime": 3.76,
+    "endTime": 6.92,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 4.096,
+        "end": 4.32,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 4.54,
+        "end": 4.68,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "popstar,",
+        "start": 4.69,
+        "end": 5.12,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 5.13,
+        "end": 5.54,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "feel",
+        "start": 5.82,
+        "end": 5.92,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "like",
+        "start": 5.93,
+        "end": 6.12,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Fish",
+        "start": 6.13,
+        "end": 6.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Narc",
+        "start": 6.748,
+        "end": 6.92,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 3.76,
+    "end": 6.92
+  },
+  {
+    "text": "She say why the the you going through my cellphone(GBC",
+    "startTime": 7.94,
+    "endTime": 11.88,
+    "words": [
+      {
+        "word": "She",
+        "start": 7.94,
+        "end": 8.88,
+        "char_starts": [
+          7.94,
+          8.157,
+          8.598
+        ],
+        "singer": "singer1"
+      },
+      {
+        "word": "say",
+        "start": 8.89,
+        "end": 9.14,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "why",
+        "start": 9.15,
+        "end": 9.5,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 9.51,
+        "end": 9.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 9.83,
+        "end": 10.06,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 10.292,
+        "end": 10.44,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "going",
+        "start": 10.45,
+        "end": 10.68,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 10.69,
+        "end": 11.04,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 11.05,
+        "end": 11.6,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "cellphone(GBC",
+        "start": 11.61,
+        "end": 11.88,
+        "adlib": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 7.94,
+    "end": 11.88
+  },
+  {
+    "text": "Pocket full of xan, percocets and rubber bands",
+    "startTime": 15.98,
+    "endTime": 20.56,
+    "words": [
+      {
+        "word": "Pocket",
+        "start": 16.073,
+        "end": 17.1,
+        "char_starts": [
+          16.073,
+          16.176,
+          16.314,
+          16.476,
+          16.659,
+          16.86
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "full",
+        "start": 17.356,
+        "end": 17.52,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "of",
+        "start": 17.53,
+        "end": 17.88,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "xan,",
+        "start": 17.89,
+        "end": 18.14,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "percocets",
+        "start": 18.22,
+        "end": 18.92,
+        "char_starts": [
+          18.22,
+          18.267,
+          18.318,
+          18.378,
+          18.446,
+          18.52,
+          18.599,
+          18.683,
+          18.771
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "and",
+        "start": 18.93,
+        "end": 19.28,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "rubber",
+        "start": 19.29,
+        "end": 19.7,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "bands",
+        "start": 19.71,
+        "end": 20.56,
+        "char_starts": [
+          19.71,
+          19.812,
+          19.97,
+          20.16,
+          20.373
+        ],
+        "singer": "singer1"
+      }
+    ],
+    "time": 15.98,
+    "end": 20.56
+  },
+  {
+    "text": "Gothboiclique, tatted on my hand",
+    "startTime": 20.57,
+    "endTime": 23.46,
+    "words": [
+      {
+        "word": "Gothboiclique,",
+        "start": 20.802,
+        "end": 21.456,
+        "char_starts": [
+          20.802,
+          20.832,
+          20.862,
+          20.892,
+          20.923,
+          20.955,
+          20.989,
+          21.026,
+          21.064,
+          21.105,
+          21.146,
+          21.189,
+          21.232,
+          21.277
+        ],
+        "sung": true,
+        "singer": "singer2",
+        "stretch": true
+      },
+      {
+        "word": "tatted",
+        "start": 21.466,
+        "end": 21.84,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "on",
+        "start": 22.2,
+        "end": 22.6,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "my",
+        "start": 22.82,
+        "end": 23.12,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "hand",
+        "start": 23.13,
+        "end": 23.46,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 20.57,
+    "end": 23.46
+  },
+  {
+    "text": "Gothboiclique, you don't understand",
+    "startTime": 24.76,
+    "endTime": 26.98,
+    "words": [
+      {
+        "word": "Gothboiclique,",
+        "start": 24.76,
+        "end": 25.46,
+        "char_starts": [
+          24.76,
+          24.79,
+          24.823,
+          24.864,
+          24.908,
+          24.955,
+          25.007,
+          25.06,
+          25.117,
+          25.175,
+          25.236,
+          25.299,
+          25.364,
+          25.431
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "you",
+        "start": 25.48,
+        "end": 25.76,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "don't",
+        "start": 25.77,
+        "end": 26.16,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "understand",
+        "start": 26.52,
+        "end": 26.98,
+        "char_starts": [
+          26.52,
+          26.55,
+          26.585,
+          26.626,
+          26.672,
+          26.722,
+          26.775,
+          26.831,
+          26.889,
+          26.95
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 24.76,
+    "end": 26.98
+  },
+  {
+    "text": "I seen a lot of shit, we been through a lot of shi",
+    "startTime": 28.76,
+    "endTime": 32.55,
+    "words": [
+      {
+        "word": "I",
+        "start": 28.76,
+        "end": 28.96,
+        "singer": "singer2"
+      },
+      {
+        "word": "seen",
+        "start": 28.97,
+        "end": 29.2,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 29.21,
+        "end": 29.48,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "lot",
+        "start": 29.49,
+        "end": 29.78,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "of",
+        "start": 29.79,
+        "end": 30.02,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "shit,",
+        "start": 30.1,
+        "end": 30.36,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "we",
+        "start": 30.52,
+        "end": 30.62,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "been",
+        "start": 30.63,
+        "end": 30.96,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "through",
+        "start": 30.97,
+        "end": 31.18,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 31.19,
+        "end": 31.46,
+        "singer": "singer2"
+      },
+      {
+        "word": "lot",
+        "start": 31.47,
+        "end": 31.76,
+        "singer": "singer2"
+      },
+      {
+        "word": "of",
+        "start": 31.77,
+        "end": 32.44,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "shi",
+        "start": 32.45,
+        "end": 32.55,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 28.76,
+    "end": 32.55
+  },
+  {
+    "text": "Pocket full of xan, percocets and rubber bands",
+    "startTime": 32.56,
+    "endTime": 37.11,
+    "words": [
+      {
+        "word": "Pocket",
+        "start": 32.91,
+        "end": 33.95,
+        "char_starts": [
+          32.91,
+          33.014,
+          33.118,
+          33.234,
+          33.362,
+          33.503
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "full",
+        "start": 34.2,
+        "end": 36.45,
+        "char_starts": [
+          34.2,
+          34.538,
+          35.051,
+          35.666
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "of",
+        "start": 36.46,
+        "end": 36.56,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "xan,",
+        "start": 36.57,
+        "end": 36.67,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "percocets",
+        "start": 36.68,
+        "end": 36.78,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "and",
+        "start": 36.79,
+        "end": 36.89,
+        "singer": "singer2"
+      },
+      {
+        "word": "rubber",
+        "start": 36.9,
+        "end": 37.0,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "bands",
+        "start": 37.01,
+        "end": 37.11,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 32.56,
+    "end": 37.11
+  },
+  {
+    "text": "Gothboiclique, tatted on my hand",
+    "startTime": 36.76,
+    "endTime": 39.26,
+    "words": [
+      {
+        "word": "Gothboiclique,",
+        "start": 36.76,
+        "end": 37.3,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "tatted",
+        "start": 37.6,
+        "end": 37.86,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "on",
+        "start": 37.87,
+        "end": 38.16,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "my",
+        "start": 38.428,
+        "end": 38.6,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "hand",
+        "start": 38.61,
+        "end": 39.26,
+        "char_starts": [
+          38.61,
+          38.729,
+          38.924,
+          39.163
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 36.76,
+    "end": 39.26
+  },
+  {
+    "text": "Gothboiclique, you don't understand",
+    "startTime": 40.76,
+    "endTime": 42.78,
+    "words": [
+      {
+        "word": "Gothboiclique,",
+        "start": 40.76,
+        "end": 41.3,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "you",
+        "start": 41.31,
+        "end": 41.58,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "don't",
+        "start": 41.59,
+        "end": 41.9,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "understand",
+        "start": 42.26,
+        "end": 42.78,
+        "char_starts": [
+          42.26,
+          42.291,
+          42.331,
+          42.378,
+          42.43,
+          42.487,
+          42.548,
+          42.612,
+          42.679,
+          42.749
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 40.76,
+    "end": 42.78
+  },
+  {
+    "text": "I seen a lot of shit, we been through a lot of shi",
+    "startTime": 44.09,
+    "endTime": 47.82,
+    "words": [
+      {
+        "word": "I",
+        "start": 44.09,
+        "end": 44.13,
+        "singer": "singer1"
+      },
+      {
+        "word": "seen",
+        "start": 44.14,
+        "end": 44.68,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 44.69,
+        "end": 44.98,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "lot",
+        "start": 44.99,
+        "end": 45.28,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "of",
+        "start": 45.29,
+        "end": 45.48,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "shit,",
+        "start": 45.49,
+        "end": 45.76,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "we",
+        "start": 45.77,
+        "end": 46.04,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "been",
+        "start": 46.22,
+        "end": 46.34,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 46.524,
+        "end": 46.64,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 46.65,
+        "end": 46.96,
+        "singer": "singer2"
+      },
+      {
+        "word": "lot",
+        "start": 46.97,
+        "end": 47.28,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "of",
+        "start": 47.29,
+        "end": 47.48,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "shi",
+        "start": 47.49,
+        "end": 47.82,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 44.09,
+    "end": 47.82
+  },
+  {
+    "text": "Why the the you going through my cellphon",
+    "startTime": 47.83,
+    "endTime": 50.56,
+    "words": [
+      {
+        "word": "Why",
+        "start": 47.83,
+        "end": 47.87,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 47.88,
+        "end": 47.98,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "the",
+        "start": 47.99,
+        "end": 48.48,
+        "char_starts": [
+          47.99,
+          48.103,
+          48.333
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "you",
+        "start": 48.49,
+        "end": 49.4,
+        "char_starts": [
+          48.49,
+          48.7,
+          49.127
+        ],
+        "sung": true,
+        "singer": "singer2",
+        "stretch": true
+      },
+      {
+        "word": "going",
+        "start": 49.596,
+        "end": 49.72,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 49.73,
+        "end": 49.92,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 49.976,
+        "end": 50.26,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "cellphon",
+        "start": 50.27,
+        "end": 50.56,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 47.83,
+    "end": 50.56
+  },
+  {
+    "text": "Why the the you going through my cellphon",
+    "startTime": 51.38,
+    "endTime": 54.9,
+    "words": [
+      {
+        "word": "Why",
+        "start": 51.426,
+        "end": 51.7,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 51.71,
+        "end": 52.04,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 52.72,
+        "end": 53.32,
+        "char_starts": [
+          52.72,
+          52.859,
+          53.14
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "you",
+        "start": 53.33,
+        "end": 53.78,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "going",
+        "start": 53.79,
+        "end": 54.02,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "through",
+        "start": 54.03,
+        "end": 54.34,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "my",
+        "start": 54.512,
+        "end": 54.62,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "cellphon",
+        "start": 54.63,
+        "end": 54.9,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 51.38,
+    "end": 54.9
+  },
+  {
+    "text": "Through my cellphone",
+    "startTime": 58.24,
+    "endTime": 59.74,
+    "words": [
+      {
+        "word": "Through",
+        "start": 58.542,
+        "end": 58.92,
+        "char_starts": [
+          58.542,
+          58.574,
+          58.606,
+          58.643,
+          58.685,
+          58.731,
+          58.779
+        ],
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 58.93,
+        "end": 59.38,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "cellphone",
+        "start": 59.39,
+        "end": 59.74,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 58.24,
+    "end": 59.74
+  },
+  {
+    "text": "Why the phone, you going through my cellphon",
+    "startTime": 59.75,
+    "endTime": 62.56,
+    "words": [
+      {
+        "word": "Why",
+        "start": 59.75,
+        "end": 59.85,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "the",
+        "start": 59.86,
+        "end": 60.2,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "phone,",
+        "start": 60.21,
+        "end": 60.92,
+        "char_starts": [
+          60.21,
+          60.281,
+          60.378,
+          60.494,
+          60.624,
+          60.766
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "you",
+        "start": 60.93,
+        "end": 61.34,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "going",
+        "start": 61.35,
+        "end": 61.74,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "through",
+        "start": 61.75,
+        "end": 61.94,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "my",
+        "start": 62.02,
+        "end": 62.32,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "cellphon",
+        "start": 62.33,
+        "end": 62.56,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 59.75,
+    "end": 62.56
+  },
+  {
+    "text": "You know I'm a dirtbag, so let me go",
+    "startTime": 65.1,
+    "endTime": 67.6,
+    "words": [
+      {
+        "word": "You",
+        "start": 65.1,
+        "end": 65.3,
+        "singer": "singer1"
+      },
+      {
+        "word": "know",
+        "start": 65.508,
+        "end": 65.64,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 65.65,
+        "end": 66.22,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 66.23,
+        "end": 66.44,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "dirtbag,",
+        "start": 66.576,
+        "end": 66.66,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "so",
+        "start": 66.67,
+        "end": 66.88,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "let",
+        "start": 66.89,
+        "end": 67.04,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 67.05,
+        "end": 67.32,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "go",
+        "start": 67.33,
+        "end": 67.6,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 65.1,
+    "end": 67.6
+  },
+  {
+    "text": "I wish you loved me like the wish (yah",
+    "startTime": 68.76,
+    "endTime": 72.4,
+    "words": [
+      {
+        "word": "I",
+        "start": 68.76,
+        "end": 69.62,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wish",
+        "start": 69.63,
+        "end": 69.84,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 69.85,
+        "end": 70.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "loved",
+        "start": 70.19,
+        "end": 70.32,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 70.33,
+        "end": 70.64,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "like",
+        "start": 70.65,
+        "end": 70.88,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 71.088,
+        "end": 71.22,
+        "singer": "singer1"
+      },
+      {
+        "word": "wish",
+        "start": 71.23,
+        "end": 71.54,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "(yah",
+        "start": 72.07,
+        "end": 72.4,
+        "char_starts": [
+          72.07,
+          72.119,
+          72.181,
+          72.255
+        ],
+        "adlib": true,
+        "sung": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 68.76,
+    "end": 72.4
+  },
+  {
+    "text": "I wish I had more time to cope (yah)",
+    "startTime": 72.76,
+    "endTime": 75.65,
+    "words": [
+      {
+        "word": "I",
+        "start": 72.76,
+        "end": 73.5,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wish",
+        "start": 73.51,
+        "end": 73.86,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 73.87,
+        "end": 74.08,
+        "singer": "singer1"
+      },
+      {
+        "word": "had",
+        "start": 74.09,
+        "end": 74.26,
+        "singer": "singer1"
+      },
+      {
+        "word": "more",
+        "start": 74.492,
+        "end": 74.64,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 74.74,
+        "end": 74.8,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 74.81,
+        "end": 75.24,
+        "singer": "singer1"
+      },
+      {
+        "word": "cope",
+        "start": 75.46,
+        "end": 75.6,
+        "singer": "singer1"
+      },
+      {
+        "word": "(yah)",
+        "start": 75.61,
+        "end": 75.65,
+        "adlib": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 72.76,
+    "end": 75.65
+  },
+  {
+    "text": "Why do I feel alone at a sold out show",
+    "startTime": 75.72,
+    "endTime": 79.4,
+    "words": [
+      {
+        "word": "Why",
+        "start": 75.72,
+        "end": 75.76,
+        "singer": "singer1"
+      },
+      {
+        "word": "do",
+        "start": 76.34,
+        "end": 76.34,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 76.632,
+        "end": 76.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "feel",
+        "start": 76.83,
+        "end": 77.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "alone",
+        "start": 77.19,
+        "end": 77.5,
+        "singer": "singer1"
+      },
+      {
+        "word": "at",
+        "start": 77.51,
+        "end": 77.9,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 78.26,
+        "end": 78.6,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "sold",
+        "start": 78.61,
+        "end": 78.88,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 78.89,
+        "end": 79.18,
+        "singer": "singer1"
+      },
+      {
+        "word": "show",
+        "start": 79.306,
+        "end": 79.4,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 75.72,
+    "end": 79.4
+  },
+  {
+    "text": "I hate my cellphone, please don't let me pick it up",
+    "startTime": 79.41,
+    "endTime": 83.68,
+    "words": [
+      {
+        "word": "I",
+        "start": 79.526,
+        "end": 79.72,
+        "singer": "singer1"
+      },
+      {
+        "word": "hate",
+        "start": 79.904,
+        "end": 80.02,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 80.03,
+        "end": 81.0,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "cellphone,",
+        "start": 81.01,
+        "end": 81.32,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "please",
+        "start": 81.33,
+        "end": 81.72,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 81.73,
+        "end": 82.08,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "let",
+        "start": 82.09,
+        "end": 82.52,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 82.53,
+        "end": 82.86,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "pick",
+        "start": 82.87,
+        "end": 83.12,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 83.244,
+        "end": 83.32,
+        "singer": "singer1"
+      },
+      {
+        "word": "up",
+        "start": 83.33,
+        "end": 83.68,
+        "singer": "singer1"
+      }
+    ],
+    "time": 79.41,
+    "end": 83.68
+  },
+  {
+    "text": "Gothboiclique is the reason I get up",
+    "startTime": 84.76,
+    "endTime": 88.24,
+    "words": [
+      {
+        "word": "Gothboiclique",
+        "start": 84.76,
+        "end": 85.02,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "is",
+        "start": 86.13,
+        "end": 86.54,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 86.55,
+        "end": 86.86,
+        "singer": "singer1"
+      },
+      {
+        "word": "reason",
+        "start": 86.87,
+        "end": 87.1,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 87.273,
+        "end": 87.52,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "get",
+        "start": 87.692,
+        "end": 87.8,
+        "singer": "singer1"
+      },
+      {
+        "word": "up",
+        "start": 87.81,
+        "end": 88.24,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 84.76,
+    "end": 88.24
+  },
+  {
+    "text": "And girl?[?]?sober",
+    "startTime": 88.76,
+    "endTime": 89.68,
+    "words": [
+      {
+        "word": "And",
+        "start": 88.76,
+        "end": 89.2,
+        "char_starts": [
+          88.76,
+          88.851,
+          88.991
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "girl?[?]?sober",
+        "start": 89.21,
+        "end": 89.68,
+        "sung": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 88.76,
+    "end": 89.68
+  },
+  {
+    "text": "Gosh darn, up me when the club's ove",
+    "startTime": 91.76,
+    "endTime": 94.72,
+    "words": [
+      {
+        "word": "Gosh",
+        "start": 92.015,
+        "end": 92.4,
+        "char_starts": [
+          92.015,
+          92.073,
+          92.131,
+          92.189
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "darn,",
+        "start": 92.76,
+        "end": 93.02,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "up",
+        "start": 93.03,
+        "end": 93.24,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 93.25,
+        "end": 93.54,
+        "singer": "singer1"
+      },
+      {
+        "word": "when",
+        "start": 93.82,
+        "end": 93.82,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 93.83,
+        "end": 94.1,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "club's",
+        "start": 94.11,
+        "end": 94.34,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ove",
+        "start": 94.35,
+        "end": 94.72,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 91.76,
+    "end": 94.72
+  },
+  {
+    "text": "Yeah, yeah sober me when the door is close",
+    "startTime": 95.76,
+    "endTime": 100.77,
+    "words": [
+      {
+        "word": "Yeah,",
+        "start": 95.988,
+        "end": 96.14,
+        "char_starts": [
+          95.988,
+          96.015,
+          96.042,
+          96.069,
+          96.096
+        ],
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "yeah",
+        "start": 97.5,
+        "end": 98.26,
+        "char_starts": [
+          97.5,
+          97.635,
+          97.843,
+          98.093
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "sober",
+        "start": 98.27,
+        "end": 98.6,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "me",
+        "start": 98.61,
+        "end": 98.88,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "when",
+        "start": 98.89,
+        "end": 99.22,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "the",
+        "start": 99.23,
+        "end": 99.52,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "door",
+        "start": 99.53,
+        "end": 100.06,
+        "singer": "singer2"
+      },
+      {
+        "word": "is",
+        "start": 100.07,
+        "end": 100.66,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "close",
+        "start": 100.67,
+        "end": 100.77,
+        "singer": "singer1"
+      }
+    ],
+    "time": 95.76,
+    "end": 100.77
+  },
+  {
+    "text": "You said enough to let the whole clique wanna die",
+    "startTime": 99.76,
+    "endTime": 103.257,
+    "words": [
+      {
+        "word": "You",
+        "start": 99.76,
+        "end": 99.82,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "said",
+        "start": 99.953,
+        "end": 101.153,
+        "char_starts": [
+          99.953,
+          100.133,
+          100.499,
+          100.973
+        ],
+        "singer": "singer1"
+      },
+      {
+        "word": "enough",
+        "start": 101.287,
+        "end": 102.487,
+        "char_starts": [
+          101.287,
+          101.407,
+          101.589,
+          101.816,
+          102.078,
+          102.367
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "to",
+        "start": 102.497,
+        "end": 102.597,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "let",
+        "start": 102.607,
+        "end": 102.707,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "the",
+        "start": 102.717,
+        "end": 102.817,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "whole",
+        "start": 102.827,
+        "end": 102.927,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "clique",
+        "start": 102.937,
+        "end": 103.037,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "wanna",
+        "start": 103.047,
+        "end": 103.147,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "die",
+        "start": 103.157,
+        "end": 103.257,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 99.76,
+    "end": 103.257
+  },
+  {
+    "text": "Yah, yah, let me with the door's close",
+    "startTime": 104.347,
+    "endTime": 108.58,
+    "words": [
+      {
+        "word": "Yah,",
+        "start": 104.347,
+        "end": 104.48,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "yah,",
+        "start": 105.54,
+        "end": 106.3,
+        "char_starts": [
+          105.54,
+          105.675,
+          105.883,
+          106.133
+        ],
+        "singer": "singer1"
+      },
+      {
+        "word": "let",
+        "start": 106.472,
+        "end": 106.58,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 106.59,
+        "end": 106.84,
+        "singer": "singer2"
+      },
+      {
+        "word": "with",
+        "start": 106.85,
+        "end": 107.24,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "the",
+        "start": 107.25,
+        "end": 107.54,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "door's",
+        "start": 107.55,
+        "end": 108.18,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "close",
+        "start": 108.399,
+        "end": 108.58,
+        "singer": "singer1"
+      }
+    ],
+    "time": 104.347,
+    "end": 108.58
+  },
+  {
+    "text": "You said enough to let the whole clique run there",
+    "startTime": 108.59,
+    "endTime": 111.16,
+    "words": [
+      {
+        "word": "You",
+        "start": 108.59,
+        "end": 108.63,
+        "singer": "singer1"
+      },
+      {
+        "word": "said",
+        "start": 108.64,
+        "end": 108.68,
+        "singer": "singer1"
+      },
+      {
+        "word": "enough",
+        "start": 108.69,
+        "end": 108.79,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 108.8,
+        "end": 108.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "let",
+        "start": 109.109,
+        "end": 109.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 109.39,
+        "end": 109.54,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "whole",
+        "start": 109.55,
+        "end": 109.78,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "clique",
+        "start": 110.036,
+        "end": 110.2,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 110.456,
+        "end": 110.62,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "there",
+        "start": 110.63,
+        "end": 111.16,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 108.59,
+    "end": 111.16
+  },
+  {
+    "text": "yah, yah clique me to my first trac",
+    "startTime": 112.76,
+    "endTime": 116.14,
+    "words": [
+      {
+        "word": "yah,",
+        "start": 112.76,
+        "end": 113.18,
+        "char_starts": [
+          112.76,
+          112.823,
+          112.913,
+          113.02
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "yah",
+        "start": 113.54,
+        "end": 114.16,
+        "char_starts": [
+          113.54,
+          113.7,
+          113.947
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "clique",
+        "start": 114.3,
+        "end": 114.34,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 114.35,
+        "end": 114.68,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 114.69,
+        "end": 114.84,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 114.85,
+        "end": 115.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "first",
+        "start": 115.236,
+        "end": 115.76,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "trac",
+        "start": 115.77,
+        "end": 116.14,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 112.76,
+    "end": 116.14
+  },
+  {
+    "text": "yah, yah Baby draft me 'till I'm ove",
+    "startTime": 117.56,
+    "endTime": 121.34,
+    "words": [
+      {
+        "word": "yah,",
+        "start": 117.56,
+        "end": 118.0,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "yah",
+        "start": 118.01,
+        "end": 118.34,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "Baby",
+        "start": 118.512,
+        "end": 118.62,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "draft",
+        "start": 118.63,
+        "end": 118.9,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "me",
+        "start": 118.91,
+        "end": 119.3,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "'till",
+        "start": 119.31,
+        "end": 119.74,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "I'm",
+        "start": 120.44,
+        "end": 121.06,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "ove",
+        "start": 121.16,
+        "end": 121.34,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 117.56,
+    "end": 121.34
+  },
+  {
+    "text": "yah, yah Baby yeah, me to my first trac",
+    "startTime": 121.35,
+    "endTime": 125.68,
+    "words": [
+      {
+        "word": "yah,",
+        "start": 121.35,
+        "end": 121.39,
+        "singer": "singer1"
+      },
+      {
+        "word": "yah",
+        "start": 121.4,
+        "end": 122.1,
+        "char_starts": [
+          121.4,
+          121.614,
+          121.946
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "Baby",
+        "start": 122.392,
+        "end": 122.58,
+        "singer": "singer1"
+      },
+      {
+        "word": "yeah,",
+        "start": 122.59,
+        "end": 122.86,
+        "singer": "singer2"
+      },
+      {
+        "word": "me",
+        "start": 122.87,
+        "end": 123.12,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "to",
+        "start": 123.13,
+        "end": 123.42,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "my",
+        "start": 123.43,
+        "end": 124.04,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "first",
+        "start": 124.05,
+        "end": 124.62,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "trac",
+        "start": 124.816,
+        "end": 125.68,
+        "char_starts": [
+          124.816,
+          124.96,
+          125.182,
+          125.449
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 121.35,
+    "end": 125.68
+  },
+  {
+    "text": "first me 'till I'm over ther",
+    "startTime": 125.69,
+    "endTime": 128.52,
+    "words": [
+      {
+        "word": "first",
+        "start": 125.69,
+        "end": 126.44,
+        "char_starts": [
+          125.69,
+          125.78,
+          125.919,
+          126.087,
+          126.275
+        ],
+        "sung": true,
+        "singer": "singer1",
+        "stretch": true
+      },
+      {
+        "word": "me",
+        "start": 126.45,
+        "end": 126.76,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "'till",
+        "start": 126.77,
+        "end": 127.1,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 127.11,
+        "end": 127.52,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "over",
+        "start": 127.53,
+        "end": 127.9,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ther",
+        "start": 128.189,
+        "end": 128.52,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 125.69,
+    "end": 128.52
+  },
+  {
+    "text": "Pocket full of xan, percocets and rubber bands",
+    "startTime": 128.53,
+    "endTime": 131.36,
+    "words": [
+      {
+        "word": "Pocket",
+        "start": 128.53,
+        "end": 128.57,
+        "singer": "singer1"
+      },
+      {
+        "word": "full",
+        "start": 128.58,
+        "end": 128.62,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 128.63,
+        "end": 129.18,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "xan,",
+        "start": 129.436,
+        "end": 129.6,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "percocets",
+        "start": 129.61,
+        "end": 129.92,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "and",
+        "start": 129.93,
+        "end": 130.2,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "rubber",
+        "start": 130.36,
+        "end": 131.1,
+        "char_starts": [
+          130.36,
+          130.434,
+          130.535,
+          130.656,
+          130.791,
+          130.939
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "bands",
+        "start": 131.11,
+        "end": 131.36,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 128.53,
+    "end": 131.36
+  },
+  {
+    "text": "Gothboiclique, tatted on my hand",
+    "startTime": 133.94,
+    "endTime": 136.58,
+    "words": [
+      {
+        "word": "Gothboiclique,",
+        "start": 134.29,
+        "end": 134.7,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "tatted",
+        "start": 134.94,
+        "end": 135.2,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "on",
+        "start": 135.21,
+        "end": 135.54,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "my",
+        "start": 135.55,
+        "end": 135.98,
+        "singer": "singer2"
+      },
+      {
+        "word": "hand",
+        "start": 135.99,
+        "end": 136.58,
+        "singer": "singer2"
+      }
+    ],
+    "time": 133.94,
+    "end": 136.58
+  },
+  {
+    "text": "Gothboiclique, you don't understand",
+    "startTime": 136.76,
+    "endTime": 138.9,
+    "words": [
+      {
+        "word": "Gothboiclique,",
+        "start": 136.76,
+        "end": 137.46,
+        "char_starts": [
+          136.76,
+          136.79,
+          136.823,
+          136.864,
+          136.908,
+          136.955,
+          137.007,
+          137.06,
+          137.117,
+          137.175,
+          137.236,
+          137.299,
+          137.364,
+          137.431
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "you",
+        "start": 137.47,
+        "end": 137.76,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "don't",
+        "start": 137.77,
+        "end": 138.14,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "understand",
+        "start": 138.5,
+        "end": 138.9,
+        "char_starts": [
+          138.5,
+          138.53,
+          138.561,
+          138.597,
+          138.636,
+          138.678,
+          138.722,
+          138.769,
+          138.818,
+          138.869
+        ],
+        "singer": "singer1"
+      }
+    ],
+    "time": 136.76,
+    "end": 138.9
+  },
+  {
+    "text": "I seen a lot of shit, we been through a lot of shi",
+    "startTime": 140.13,
+    "endTime": 143.88,
+    "words": [
+      {
+        "word": "I",
+        "start": 140.13,
+        "end": 140.17,
+        "singer": "singer1"
+      },
+      {
+        "word": "seen",
+        "start": 140.18,
+        "end": 140.72,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 140.73,
+        "end": 141.04,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "lot",
+        "start": 141.05,
+        "end": 141.32,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "of",
+        "start": 141.33,
+        "end": 141.54,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "shit,",
+        "start": 141.55,
+        "end": 141.88,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "we",
+        "start": 141.89,
+        "end": 142.1,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "been",
+        "start": 142.344,
+        "end": 142.5,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 142.51,
+        "end": 142.76,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 142.77,
+        "end": 143.08,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "lot",
+        "start": 143.09,
+        "end": 143.28,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "of",
+        "start": 143.29,
+        "end": 143.54,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "shi",
+        "start": 143.55,
+        "end": 143.88,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 140.13,
+    "end": 143.88
+  },
+  {
+    "text": "Pocket full of xan, percocets and rubber bands",
+    "startTime": 144.76,
+    "endTime": 148.5,
+    "words": [
+      {
+        "word": "Pocket",
+        "start": 144.76,
+        "end": 145.16,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "full",
+        "start": 145.428,
+        "end": 145.6,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 145.61,
+        "end": 145.9,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "xan,",
+        "start": 145.91,
+        "end": 146.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "percocets",
+        "start": 146.545,
+        "end": 147.04,
+        "char_starts": [
+          146.545,
+          146.578,
+          146.611,
+          146.647,
+          146.686,
+          146.728,
+          146.774,
+          146.822,
+          146.872
+        ],
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 147.236,
+        "end": 147.36,
+        "singer": "singer1"
+      },
+      {
+        "word": "rubber",
+        "start": 147.37,
+        "end": 147.72,
+        "singer": "singer1"
+      },
+      {
+        "word": "bands",
+        "start": 147.776,
+        "end": 148.5,
+        "char_starts": [
+          147.776,
+          147.863,
+          147.996,
+          148.154,
+          148.332
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 144.76,
+    "end": 148.5
+  },
+  {
+    "text": "Gothboiclique, tatted on my hand",
+    "startTime": 148.51,
+    "endTime": 151.56,
+    "words": [
+      {
+        "word": "Gothboiclique,",
+        "start": 148.742,
+        "end": 149.69,
+        "char_starts": [
+          148.742,
+          148.783,
+          148.824,
+          148.865,
+          148.91,
+          148.958,
+          149.01,
+          149.065,
+          149.123,
+          149.184,
+          149.246,
+          149.311,
+          149.377,
+          149.445
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "tatted",
+        "start": 149.7,
+        "end": 150.2,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 150.512,
+        "end": 150.72,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 150.73,
+        "end": 151.24,
+        "singer": "singer1"
+      },
+      {
+        "word": "hand",
+        "start": 151.25,
+        "end": 151.56,
+        "singer": "singer1"
+      }
+    ],
+    "time": 148.51,
+    "end": 151.56
+  },
+  {
+    "text": "Gothboiclique, you don't understand",
+    "startTime": 152.76,
+    "endTime": 154.7,
+    "words": [
+      {
+        "word": "Gothboiclique,",
+        "start": 152.76,
+        "end": 153.22,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 153.26,
+        "end": 153.54,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 153.55,
+        "end": 153.78,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "understand",
+        "start": 154.14,
+        "end": 154.7,
+        "char_starts": [
+          154.14,
+          154.174,
+          154.216,
+          154.267,
+          154.324,
+          154.384,
+          154.45,
+          154.519,
+          154.591,
+          154.667
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 152.76,
+    "end": 154.7
+  },
+  {
+    "text": "I seen a lot of shit, we been through a lot of shi",
+    "startTime": 156.19,
+    "endTime": 159.68,
+    "words": [
+      {
+        "word": "I",
+        "start": 156.19,
+        "end": 156.48,
+        "singer": "singer1"
+      },
+      {
+        "word": "seen",
+        "start": 156.792,
+        "end": 157.06,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 157.07,
+        "end": 157.145,
+        "singer": "singer1"
+      },
+      {
+        "word": "lot",
+        "start": 157.155,
+        "end": 157.401,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 157.411,
+        "end": 157.572,
+        "singer": "singer1"
+      },
+      {
+        "word": "shit,",
+        "start": 157.582,
+        "end": 157.999,
+        "singer": "singer1"
+      },
+      {
+        "word": "we",
+        "start": 158.009,
+        "end": 158.169,
+        "singer": "singer1"
+      },
+      {
+        "word": "been",
+        "start": 158.179,
+        "end": 158.511,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 158.521,
+        "end": 159.108,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 159.118,
+        "end": 159.193,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lot",
+        "start": 159.203,
+        "end": 159.449,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 159.459,
+        "end": 159.62,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "shi",
+        "start": 159.63,
+        "end": 159.68,
+        "singer": "singer1"
+      }
+    ],
+    "time": 156.19,
+    "end": 159.68
+  },
+  {
+    "text": "You been on my mind, rose pedals for you",
+    "startTime": 159.69,
+    "endTime": 160.43,
+    "words": [
+      {
+        "word": "You",
+        "start": 159.69,
+        "end": 159.73,
+        "singer": "singer1"
+      },
+      {
+        "word": "been",
+        "start": 159.74,
+        "end": 159.78,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 159.79,
+        "end": 159.83,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 159.84,
+        "end": 159.88,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind,",
+        "start": 159.89,
+        "end": 159.99,
+        "singer": "singer1"
+      },
+      {
+        "word": "rose",
+        "start": 160.0,
+        "end": 160.1,
+        "singer": "singer1"
+      },
+      {
+        "word": "pedals",
+        "start": 160.11,
+        "end": 160.21,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "for",
+        "start": 160.22,
+        "end": 160.32,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 160.33,
+        "end": 160.43,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 159.69,
+    "end": 160.43
+  },
+  {
+    "text": "Don't hide, I know that you want it",
+    "startTime": 160.44,
+    "endTime": 162.8,
+    "words": [
+      {
+        "word": "Don't",
+        "start": 160.44,
+        "end": 160.52,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "hide,",
+        "start": 160.53,
+        "end": 160.74,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 160.84,
+        "end": 161.02,
+        "singer": "singer1"
+      },
+      {
+        "word": "know",
+        "start": 161.03,
+        "end": 161.3,
+        "singer": "singer1"
+      },
+      {
+        "word": "that",
+        "start": 161.448,
+        "end": 161.54,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 161.55,
+        "end": 161.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "want",
+        "start": 162.18,
+        "end": 162.64,
+        "char_starts": [
+          162.18,
+          162.249,
+          162.347,
+          162.465
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 162.65,
+        "end": 162.8,
+        "singer": "singer1"
+      }
+    ],
+    "time": 160.44,
+    "end": 162.8
+  },
+  {
+    "text": "You'll always be my shawty",
+    "startTime": 162.81,
+    "endTime": 163.42,
+    "words": [
+      {
+        "word": "You'll",
+        "start": 162.81,
+        "end": 162.91,
+        "singer": "singer1"
+      },
+      {
+        "word": "always",
+        "start": 162.92,
+        "end": 162.96,
+        "singer": "singer1"
+      },
+      {
+        "word": "be",
+        "start": 162.97,
+        "end": 163.0,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 163.01,
+        "end": 163.24,
+        "singer": "singer1"
+      },
+      {
+        "word": "shawty",
+        "start": 163.32,
+        "end": 163.42,
+        "singer": "singer2"
+      }
+    ],
+    "time": 162.81,
+    "end": 163.42
+  },
+  {
+    "text": "Take a shot for you, I know I'll probably regret it",
+    "startTime": 165.76,
+    "endTime": 167.79,
+    "words": [
+      {
+        "word": "Take",
+        "start": 165.76,
+        "end": 165.94,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 165.95,
+        "end": 166.08,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "shot",
+        "start": 166.09,
+        "end": 166.2,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "for",
+        "start": 166.21,
+        "end": 166.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you,",
+        "start": 166.39,
+        "end": 166.62,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 166.63,
+        "end": 166.76,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "know",
+        "start": 166.77,
+        "end": 166.88,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'll",
+        "start": 166.89,
+        "end": 167.08,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "probably",
+        "start": 167.09,
+        "end": 167.3,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "regret",
+        "start": 167.31,
+        "end": 167.68,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 167.75,
+        "end": 167.79,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 165.76,
+    "end": 167.79
+  },
+  {
+    "text": "tryin' hard to forget it",
+    "startTime": 166.7,
+    "endTime": 166.94,
+    "words": [
+      {
+        "word": "tryin'",
+        "start": 166.7,
+        "end": 166.74,
+        "singer": "singer1"
+      },
+      {
+        "word": "hard",
+        "start": 166.75,
+        "end": 166.79,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 166.8,
+        "end": 166.84,
+        "singer": "singer1"
+      },
+      {
+        "word": "forget",
+        "start": 166.85,
+        "end": 166.89,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 166.9,
+        "end": 166.94,
+        "singer": "singer1"
+      }
+    ],
+    "time": 166.7,
+    "end": 166.94
+  },
+  {
+    "text": "State to state tryin' to find a way",
+    "startTime": 168.38,
+    "endTime": 170.2,
+    "words": [
+      {
+        "word": "State",
+        "start": 168.38,
+        "end": 168.4,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 168.41,
+        "end": 168.68,
+        "singer": "singer1"
+      },
+      {
+        "word": "state",
+        "start": 168.9,
+        "end": 168.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "tryin'",
+        "start": 168.97,
+        "end": 169.22,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 169.23,
+        "end": 169.38,
+        "singer": "singer1"
+      },
+      {
+        "word": "find",
+        "start": 169.39,
+        "end": 169.72,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 169.73,
+        "end": 169.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "way",
+        "start": 169.97,
+        "end": 170.2,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 168.38,
+    "end": 170.2
+  },
+  {
+    "text": "Fell deep in love",
+    "startTime": 170.21,
+    "endTime": 171.26,
+    "words": [
+      {
+        "word": "Fell",
+        "start": 170.21,
+        "end": 170.46,
+        "singer": "singer1"
+      },
+      {
+        "word": "deep",
+        "start": 170.47,
+        "end": 170.68,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "in",
+        "start": 170.92,
+        "end": 170.96,
+        "singer": "singer1"
+      },
+      {
+        "word": "love",
+        "start": 170.97,
+        "end": 171.26,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 170.21,
+    "end": 171.26
+  },
+  {
+    "text": "It's my hideaway",
+    "startTime": 171.27,
+    "endTime": 171.96,
+    "words": [
+      {
+        "word": "It's",
+        "start": 171.42,
+        "end": 171.52,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 171.53,
+        "end": 171.72,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "hideaway",
+        "start": 171.73,
+        "end": 171.96,
+        "singer": "singer1"
+      }
+    ],
+    "time": 171.27,
+    "end": 171.96
+  },
+  {
+    "text": "Stuck on you like a flight delay",
+    "startTime": 172.24,
+    "endTime": 174.6,
+    "words": [
+      {
+        "word": "Stuck",
+        "start": 172.24,
+        "end": 172.52,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 172.53,
+        "end": 172.7,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 172.82,
+        "end": 172.94,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "like",
+        "start": 172.95,
+        "end": 173.12,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 173.13,
+        "end": 173.64,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "flight",
+        "start": 173.65,
+        "end": 174.3,
+        "char_starts": [
+          173.65,
+          173.715,
+          173.803,
+          173.909,
+          174.029,
+          174.159
+        ],
+        "singer": "singer1"
+      },
+      {
+        "word": "delay",
+        "start": 174.484,
+        "end": 174.6,
+        "singer": "singer1"
+      }
+    ],
+    "time": 172.24,
+    "end": 174.6
+  },
+  {
+    "text": "Show you love like you never had (yeah)",
+    "startTime": 174.61,
+    "endTime": 176.2,
+    "words": [
+      {
+        "word": "Show",
+        "start": 174.61,
+        "end": 174.71,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 174.72,
+        "end": 174.82,
+        "singer": "singer1"
+      },
+      {
+        "word": "love",
+        "start": 174.83,
+        "end": 174.9,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "like",
+        "start": 174.91,
+        "end": 175.1,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 175.11,
+        "end": 175.22,
+        "singer": "singer1"
+      },
+      {
+        "word": "never",
+        "start": 175.23,
+        "end": 175.54,
+        "singer": "singer1"
+      },
+      {
+        "word": "had",
+        "start": 175.55,
+        "end": 175.78,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "(yeah)",
+        "start": 175.976,
+        "end": 176.2,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 174.61,
+    "end": 176.2
+  },
+  {
+    "text": "Deep down inside you see my heart's cracked",
+    "startTime": 176.21,
+    "endTime": 178.28,
+    "words": [
+      {
+        "word": "Deep",
+        "start": 176.21,
+        "end": 176.44,
+        "singer": "singer1"
+      },
+      {
+        "word": "down",
+        "start": 176.45,
+        "end": 176.56,
+        "singer": "singer1"
+      },
+      {
+        "word": "inside",
+        "start": 176.57,
+        "end": 176.78,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 176.79,
+        "end": 177.06,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "see",
+        "start": 177.07,
+        "end": 177.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 177.39,
+        "end": 177.72,
+        "singer": "singer1"
+      },
+      {
+        "word": "heart's",
+        "start": 177.73,
+        "end": 178.04,
+        "singer": "singer1"
+      },
+      {
+        "word": "cracked",
+        "start": 178.05,
+        "end": 178.28,
+        "singer": "singer1"
+      }
+    ],
+    "time": 176.21,
+    "end": 178.28
+  },
+  {
+    "text": "I'm alone, yeah, I'm alone",
+    "startTime": 178.29,
+    "endTime": 179.4,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 178.29,
+        "end": 178.54,
+        "singer": "singer1"
+      },
+      {
+        "word": "alone,",
+        "start": 178.72,
+        "end": 178.76,
+        "singer": "singer1"
+      },
+      {
+        "word": "yeah,",
+        "start": 178.77,
+        "end": 178.86,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 178.87,
+        "end": 179.16,
+        "singer": "singer1"
+      },
+      {
+        "word": "alone",
+        "start": 179.17,
+        "end": 179.4,
+        "singer": "singer1"
+      }
+    ],
+    "time": 178.29,
+    "end": 179.4
+  },
+  {
+    "text": "I'm a popstar bitch I feel like Fish Nar",
+    "startTime": 182.76,
+    "endTime": 186.1,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 182.76,
+        "end": 183.22,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 183.23,
+        "end": 183.58,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "popstar",
+        "start": 183.59,
+        "end": 183.9,
+        "singer": "singer1"
+      },
+      {
+        "word": "bitch",
+        "start": 183.91,
+        "end": 184.36,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 184.6,
+        "end": 184.72,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "feel",
+        "start": 184.73,
+        "end": 185.0,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "like",
+        "start": 185.173,
+        "end": 185.32,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Fish",
+        "start": 185.576,
+        "end": 185.74,
+        "singer": "singer1"
+      },
+      {
+        "word": "Nar",
+        "start": 185.75,
+        "end": 186.1,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 182.76,
+    "end": 186.1
+  }
+]

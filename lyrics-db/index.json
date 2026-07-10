@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T19:34:01.193812+00:00",
-  "totalTracks": 803,
+  "generatedAt": "2026-07-10T19:39:32.860270+00:00",
+  "totalTracks": 804,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11285,6 +11285,20 @@
       },
       "sourcePath": "https://soundcloud.com/lowwwin/lil-peep-in-dis-empty-club-without-feature-extended",
       "mtimeMs": 1783712042512
+    },
+    "cold hart, lil peep::13. down for you ft lil peep": {
+      "title": "13. Down For You Ft Lil Peep",
+      "artist": "Cold Hart, Lil Peep",
+      "originalTrackName": "Cold Hart, Lil Peep - 13. Down For You Ft Lil Peep",
+      "source": "whisper_only",
+      "file": "tracks/cold-hart-lil-peep-13-down-for-you-ft-lil-peep-c28600fb2309.json",
+      "files": {
+        "lyrics": "tracks/cold-hart-lil-peep-13-down-for-you-ft-lil-peep-c28600fb2309.json",
+        "meta": "tracks/cold-hart-lil-peep-13-down-for-you-ft-lil-peep-c28600fb2309.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/coldhart/13-down-for-you-ft-lil-peep-prod-by-savior",
+      "mtimeMs": 1783712373586
     }
   },
   "tracks": [
@@ -22587,6 +22601,20 @@
       },
       "sourcePath": "https://soundcloud.com/lowwwin/lil-peep-in-dis-empty-club-without-feature-extended",
       "mtimeMs": 1783712042512
+    },
+    {
+      "title": "13. Down For You Ft Lil Peep",
+      "artist": "Cold Hart, Lil Peep",
+      "originalTrackName": "Cold Hart, Lil Peep - 13. Down For You Ft Lil Peep",
+      "source": "whisper_only",
+      "file": "tracks/cold-hart-lil-peep-13-down-for-you-ft-lil-peep-c28600fb2309.json",
+      "files": {
+        "lyrics": "tracks/cold-hart-lil-peep-13-down-for-you-ft-lil-peep-c28600fb2309.json",
+        "meta": "tracks/cold-hart-lil-peep-13-down-for-you-ft-lil-peep-c28600fb2309.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/coldhart/13-down-for-you-ft-lil-peep-prod-by-savior",
+      "mtimeMs": 1783712373586
     }
   ]
 }

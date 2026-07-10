@@ -905,13 +905,13 @@
       {
         "word": "with",
         "start": 62.57,
-        "end": 63.0,
+        "end": 63,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "no",
-        "start": 63.0,
+        "start": 63,
         "end": 63.215,
         "spoken": true,
         "singer": "singer1"
@@ -1793,13 +1793,13 @@
       {
         "word": "I",
         "start": 103.86,
-        "end": 104.0,
+        "end": 104,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "love",
-        "start": 104.0,
+        "start": 104,
         "end": 104.56,
         "spoken": true,
         "singer": "singer1"
@@ -2537,7 +2537,7 @@
   {
     "text": "You could hear it in my baseline",
     "startTime": 140.56,
-    "endTime": 143.0,
+    "endTime": 143,
     "words": [
       {
         "word": "You",
@@ -2583,7 +2583,7 @@
       {
         "word": "baseline",
         "start": 142.3,
-        "end": 143.0,
+        "end": 143,
         "char_starts": [
           142.3,
           142.353,
@@ -2599,7 +2599,7 @@
       }
     ],
     "time": 140.56,
-    "end": 143.0
+    "end": 143
   },
   {
     "text": "Shawty give me iPhone 5S FaceTime",
@@ -2616,13 +2616,13 @@
       {
         "word": "give",
         "start": 143.6,
-        "end": 144.0,
+        "end": 144,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "me",
-        "start": 144.0,
+        "start": 144,
         "end": 144.34,
         "spoken": true,
         "singer": "singer1"
@@ -2677,13 +2677,13 @@
       {
         "word": "give",
         "start": 147.62,
-        "end": 148.0,
+        "end": 148,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "me",
-        "start": 148.0,
+        "start": 148,
         "end": 148.36,
         "spoken": true,
         "singer": "singer1"
@@ -4230,12 +4230,12 @@
   },
   {
     "text": "Now we smoking weed with no Visine",
-    "startTime": 237.0,
+    "startTime": 237,
     "endTime": 241.2,
     "words": [
       {
         "word": "Now",
-        "start": 237.0,
+        "start": 237,
         "end": 237.45,
         "whisper": true,
         "singer": "singer1"
@@ -4273,13 +4273,13 @@
       {
         "word": "with",
         "start": 239.4,
-        "end": 240.0,
+        "end": 240,
         "whisper": true,
         "singer": "singer1"
       },
       {
         "word": "no",
-        "start": 240.0,
+        "start": 240,
         "end": 240.3,
         "whisper": true,
         "singer": "singer1"
@@ -4300,7 +4300,7 @@
         "singer": "singer1"
       }
     ],
-    "time": 237.0,
+    "time": 237,
     "end": 241.2
   }
 ]

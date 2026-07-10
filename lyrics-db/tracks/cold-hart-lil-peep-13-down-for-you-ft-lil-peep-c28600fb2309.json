@@ -66,13 +66,13 @@
       {
         "word": "want",
         "start": 4.64,
-        "end": 5.0,
+        "end": 5,
         "whisper": true,
         "singer": "singer1"
       },
       {
         "word": "to",
-        "start": 5.0,
+        "start": 5,
         "end": 5.94,
         "stretch": true,
         "whisper": true,
@@ -661,7 +661,7 @@
   {
     "text": "me like you you you know what I want I'ma give my",
     "startTime": 35.16,
-    "endTime": 41.0,
+    "endTime": 41,
     "words": [
       {
         "word": "me",
@@ -744,16 +744,16 @@
       {
         "word": "my",
         "start": 40.76,
-        "end": 41.0,
+        "end": 41,
         "singer": "singer1"
       }
     ],
     "time": 35.16,
-    "end": 41.0
+    "end": 41
   },
   {
     "text": "life to you",
-    "startTime": 41.0,
+    "startTime": 41,
     "endTime": 41.32,
     "words": [
       {
@@ -776,7 +776,7 @@
         "singer": "singer1"
       }
     ],
-    "time": 41.0,
+    "time": 41,
     "end": 41.32
   },
   {
@@ -1089,7 +1089,7 @@
       {
         "word": "In",
         "start": 56.64,
-        "end": 57.0,
+        "end": 57,
         "stretch": true,
         "singer": "singer2"
       },
@@ -1294,7 +1294,7 @@
   {
     "text": "Yeah, yeah, yeah, baby, you're a man for me",
     "startTime": 65.4,
-    "endTime": 69.0,
+    "endTime": 69,
     "words": [
       {
         "word": "Yeah,",
@@ -1319,7 +1319,7 @@
       },
       {
         "word": "baby,",
-        "start": 67.0,
+        "start": 67,
         "end": 67.2,
         "spoken": true,
         "singer": "singer1"
@@ -1356,18 +1356,18 @@
       {
         "word": "me",
         "start": 68.22,
-        "end": 69.0,
+        "end": 69,
         "stretch": true,
         "spoken": true,
         "singer": "singer1"
       }
     ],
     "time": 65.4,
-    "end": 69.0
+    "end": 69
   },
   {
     "text": "I swear you know I know it's down for me",
-    "startTime": 69.0,
+    "startTime": 69,
     "endTime": 71.68,
     "words": [
       {
@@ -1439,7 +1439,7 @@
         "singer": "singer1"
       }
     ],
-    "time": 69.0,
+    "time": 69,
     "end": 71.68
   },
   {

@@ -1,0 +1,553 @@
+[
+  {
+    "text": "●",
+    "startTime": 0.3,
+    "endTime": 24.28,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 0.3,
+    "end": 24.28
+  },
+  {
+    "text": "When the club's all been emptied",
+    "startTime": 24.28,
+    "endTime": 29.88,
+    "words": [
+      {
+        "word": "When",
+        "start": 24.28,
+        "end": 24.43,
+        "char_starts": [
+          24.28,
+          24.31,
+          24.34,
+          24.37
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 24.83,
+        "end": 25.88,
+        "char_starts": [
+          24.83,
+          25.04,
+          25.406
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "club's",
+        "start": 26.24,
+        "end": 27.28,
+        "char_starts": [
+          26.24,
+          26.344,
+          26.448,
+          26.564,
+          26.692,
+          26.833
+        ],
+        "singer": "singer1"
+      },
+      {
+        "word": "all",
+        "start": 27.29,
+        "end": 29.66,
+        "char_starts": [
+          27.29,
+          27.894,
+          28.831
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "been",
+        "start": 29.67,
+        "end": 29.77,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "emptied",
+        "start": 29.78,
+        "end": 29.88,
+        "whisper": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 24.28,
+    "end": 29.88
+  },
+  {
+    "text": "And there's no one left to talk to",
+    "startTime": 34.08,
+    "endTime": 37.84,
+    "words": [
+      {
+        "word": "And",
+        "start": 34.08,
+        "end": 34.46,
+        "singer": "singer1"
+      },
+      {
+        "word": "there's",
+        "start": 34.586,
+        "end": 35.564,
+        "char_starts": [
+          34.586,
+          34.67,
+          34.771,
+          34.89,
+          35.026,
+          35.172,
+          35.33
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "no",
+        "start": 35.758,
+        "end": 35.88,
+        "singer": "singer1"
+      },
+      {
+        "word": "one",
+        "start": 35.89,
+        "end": 36.26,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "left",
+        "start": 36.27,
+        "end": 36.787,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 36.797,
+        "end": 37.05,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "talk",
+        "start": 37.37,
+        "end": 37.577,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 37.587,
+        "end": 37.84,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 34.08,
+    "end": 37.84
+  },
+  {
+    "text": "You know I think about you",
+    "startTime": 37.85,
+    "endTime": 43.02,
+    "words": [
+      {
+        "word": "You",
+        "start": 37.85,
+        "end": 38.22,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "know",
+        "start": 38.578,
+        "end": 39.4,
+        "char_starts": [
+          38.578,
+          38.706,
+          38.905,
+          39.143
+        ],
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 39.596,
+        "end": 39.72,
+        "singer": "singer1"
+      },
+      {
+        "word": "think",
+        "start": 39.73,
+        "end": 40.02,
+        "singer": "singer1"
+      },
+      {
+        "word": "about",
+        "start": 40.1,
+        "end": 41.52,
+        "char_starts": [
+          40.1,
+          40.27,
+          40.483,
+          40.734,
+          41.017
+        ],
+        "sung": true,
+        "singer": "singer1",
+        "stretch": true
+      },
+      {
+        "word": "you",
+        "start": 41.6,
+        "end": 43.02,
+        "char_starts": [
+          41.6,
+          41.896,
+          42.498
+        ],
+        "sung": true,
+        "singer": "singer1",
+        "stretch": true
+      }
+    ],
+    "time": 37.85,
+    "end": 43.02
+  },
+  {
+    "text": "●",
+    "startTime": 43.32,
+    "endTime": 56.9,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 43.32,
+    "end": 56.9
+  },
+  {
+    "text": "I",
+    "startTime": 56.9,
+    "endTime": 57.1,
+    "words": [
+      {
+        "word": "I",
+        "start": 56.9,
+        "end": 57.1,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 56.9,
+    "end": 57.1
+  },
+  {
+    "text": "try",
+    "startTime": 61.02,
+    "endTime": 61.98,
+    "words": [
+      {
+        "word": "try",
+        "start": 61.345,
+        "end": 61.98,
+        "char_starts": [
+          61.345,
+          61.472,
+          61.699
+        ],
+        "singer": "singer2"
+      }
+    ],
+    "time": 61.02,
+    "end": 61.98
+  },
+  {
+    "text": "and tell",
+    "startTime": 65.16,
+    "endTime": 65.88,
+    "words": [
+      {
+        "word": "and",
+        "start": 65.16,
+        "end": 65.46,
+        "singer": "singer1"
+      },
+      {
+        "word": "tell",
+        "start": 65.7,
+        "end": 65.88,
+        "singer": "singer1"
+      }
+    ],
+    "time": 65.16,
+    "end": 65.88
+  },
+  {
+    "text": "●",
+    "startTime": 66.18,
+    "endTime": 71.44,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 66.18,
+    "end": 71.44
+  },
+  {
+    "text": "myself that I'm not alone",
+    "startTime": 71.44,
+    "endTime": 73.84,
+    "words": [
+      {
+        "word": "myself",
+        "start": 71.79,
+        "end": 73.08,
+        "char_starts": [
+          71.79,
+          71.919,
+          72.048,
+          72.197,
+          72.364,
+          72.545
+        ],
+        "sung": true,
+        "singer": "singer1",
+        "stretch": true
+      },
+      {
+        "word": "that",
+        "start": 73.09,
+        "end": 73.24,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 73.29,
+        "end": 73.44,
+        "singer": "singer1"
+      },
+      {
+        "word": "not",
+        "start": 73.49,
+        "end": 73.64,
+        "singer": "singer1"
+      },
+      {
+        "word": "alone",
+        "start": 73.78,
+        "end": 73.84,
+        "singer": "singer1"
+      }
+    ],
+    "time": 71.44,
+    "end": 73.84
+  },
+  {
+    "text": "●",
+    "startTime": 74.14,
+    "endTime": 128.28,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 74.14,
+    "end": 128.28
+  },
+  {
+    "text": "But deep inside",
+    "startTime": 128.28,
+    "endTime": 130.74,
+    "words": [
+      {
+        "word": "But",
+        "start": 128.28,
+        "end": 128.43,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "deep",
+        "start": 128.48,
+        "end": 129.24,
+        "char_starts": [
+          128.48,
+          128.615,
+          128.823,
+          129.073
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "inside",
+        "start": 129.6,
+        "end": 130.74,
+        "char_starts": [
+          129.6,
+          129.714,
+          129.828,
+          129.955,
+          130.108,
+          130.283
+        ],
+        "singer": "singer2"
+      }
+    ],
+    "time": 128.28,
+    "end": 130.74
+  },
+  {
+    "text": "●",
+    "startTime": 131.04,
+    "endTime": 136.48,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 131.04,
+    "end": 136.48
+  },
+  {
+    "text": "I know that I'm wrong",
+    "startTime": 136.48,
+    "endTime": 138.132,
+    "words": [
+      {
+        "word": "I",
+        "start": 136.48,
+        "end": 137.06,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "know",
+        "start": 137.07,
+        "end": 137.328,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "that",
+        "start": 137.338,
+        "end": 137.596,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "I'm",
+        "start": 137.606,
+        "end": 137.797,
+        "singer": "singer2"
+      },
+      {
+        "word": "wrong",
+        "start": 138.002,
+        "end": 138.132,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 136.48,
+    "end": 138.132
+  },
+  {
+    "text": "I let you slip away",
+    "startTime": 138.142,
+    "endTime": 140.666,
+    "words": [
+      {
+        "word": "I",
+        "start": 138.142,
+        "end": 138.199,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "let",
+        "start": 138.209,
+        "end": 138.4,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "you",
+        "start": 138.41,
+        "end": 140.08,
+        "char_starts": [
+          138.41,
+          138.768,
+          139.495
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "slip",
+        "start": 140.09,
+        "end": 140.373,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "away",
+        "start": 140.383,
+        "end": 140.666,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 138.142,
+    "end": 140.666
+  },
+  {
+    "text": "When the club's all been emptied",
+    "startTime": 140.676,
+    "endTime": 141.387,
+    "words": [
+      {
+        "word": "When",
+        "start": 140.676,
+        "end": 140.958,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "the",
+        "start": 140.968,
+        "end": 141.178,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "club's",
+        "start": 141.188,
+        "end": 141.387,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "all",
+        "start": 141.287,
+        "end": 141.387,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "been",
+        "start": 141.287,
+        "end": 141.387,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "emptied",
+        "start": 141.287,
+        "end": 141.387,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 140.676,
+    "end": 141.387
+  }
+]

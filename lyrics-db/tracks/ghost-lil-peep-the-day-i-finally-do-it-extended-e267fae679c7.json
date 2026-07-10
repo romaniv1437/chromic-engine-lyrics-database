@@ -1,0 +1,866 @@
+[
+  {
+    "text": "●",
+    "startTime": 0.3,
+    "endTime": 40.14,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 0.3,
+    "end": 40.14
+  },
+  {
+    "text": "Today's the day that",
+    "startTime": 40.14,
+    "endTime": 41.12,
+    "words": [
+      {
+        "word": "Today's",
+        "start": 40.14,
+        "end": 40.29
+      },
+      {
+        "word": "the",
+        "start": 40.34,
+        "end": 40.49
+      },
+      {
+        "word": "day",
+        "start": 40.54,
+        "end": 40.69,
+        "char_starts": [
+          40.54,
+          40.571,
+          40.602
+        ]
+      },
+      {
+        "word": "that",
+        "start": 40.74,
+        "end": 41.12
+      }
+    ],
+    "time": 40.14,
+    "end": 41.12
+  },
+  {
+    "text": "I end",
+    "startTime": 45.52,
+    "endTime": 47.16,
+    "words": [
+      {
+        "word": "I",
+        "start": 45.808,
+        "end": 46.0,
+        "spoken": true
+      },
+      {
+        "word": "end",
+        "start": 46.9,
+        "end": 47.16,
+        "spoken": true
+      }
+    ],
+    "time": 45.52,
+    "end": 47.16
+  },
+  {
+    "text": "●",
+    "startTime": 47.46,
+    "endTime": 54.2,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 47.46,
+    "end": 54.2
+  },
+  {
+    "text": "it all",
+    "startTime": 54.2,
+    "endTime": 57.04,
+    "words": [
+      {
+        "word": "it",
+        "start": 54.2,
+        "end": 54.72,
+        "spoken": true
+      },
+      {
+        "word": "all",
+        "start": 56.76,
+        "end": 57.04
+      }
+    ],
+    "time": 54.2,
+    "end": 57.04
+  },
+  {
+    "text": "I",
+    "startTime": 58.5,
+    "endTime": 58.92,
+    "words": [
+      {
+        "word": "I",
+        "start": 58.752,
+        "end": 58.92,
+        "spoken": true
+      }
+    ],
+    "time": 58.5,
+    "end": 58.92
+  },
+  {
+    "text": "●",
+    "startTime": 59.22,
+    "endTime": 64.66,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 59.22,
+    "end": 64.66
+  },
+  {
+    "text": "watch",
+    "startTime": 64.66,
+    "endTime": 65.02,
+    "words": [
+      {
+        "word": "watch",
+        "start": 64.66,
+        "end": 65.02,
+        "spoken": true
+      }
+    ],
+    "time": 64.66,
+    "end": 65.02
+  },
+  {
+    "text": "the sun as it rise, as it falls",
+    "startTime": 68.64,
+    "endTime": 75.12,
+    "words": [
+      {
+        "word": "the",
+        "start": 68.64,
+        "end": 69.08,
+        "spoken": true
+      },
+      {
+        "word": "sun",
+        "start": 69.09,
+        "end": 69.392,
+        "spoken": true
+      },
+      {
+        "word": "as",
+        "start": 69.402,
+        "end": 69.6,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 69.61,
+        "end": 69.84,
+        "spoken": true
+      },
+      {
+        "word": "rise,",
+        "start": 71.366,
+        "end": 71.82
+      },
+      {
+        "word": "as",
+        "start": 74.16,
+        "end": 74.76,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 74.77,
+        "end": 74.92,
+        "spoken": true
+      },
+      {
+        "word": "falls",
+        "start": 74.97,
+        "end": 75.12,
+        "char_starts": [
+          74.97,
+          74.999,
+          75.03,
+          75.061,
+          75.093
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 68.64,
+    "end": 75.12
+  },
+  {
+    "text": "●",
+    "startTime": 75.42,
+    "endTime": 104.94,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 75.42,
+    "end": 104.94
+  },
+  {
+    "text": "Put down the gun because I'm getting a call",
+    "startTime": 104.94,
+    "endTime": 113.76,
+    "words": [
+      {
+        "word": "Put",
+        "start": 105.252,
+        "end": 105.46,
+        "char_starts": [
+          105.252,
+          105.294,
+          105.35
+        ],
+        "spoken": true
+      },
+      {
+        "word": "down",
+        "start": 105.563,
+        "end": 106.96,
+        "char_starts": [
+          105.563,
+          105.773,
+          106.078,
+          106.444
+        ],
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 109.809,
+        "end": 110.0
+      },
+      {
+        "word": "gun",
+        "start": 110.36,
+        "end": 111.5,
+        "char_starts": [
+          110.36,
+          110.603,
+          110.978
+        ]
+      },
+      {
+        "word": "because",
+        "start": 111.86,
+        "end": 113.0,
+        "char_starts": [
+          111.86,
+          111.958,
+          112.056,
+          112.154,
+          112.27,
+          112.402,
+          112.548
+        ],
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 113.1,
+        "end": 113.16,
+        "spoken": true
+      },
+      {
+        "word": "getting",
+        "start": 113.21,
+        "end": 113.36,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 113.5,
+        "end": 113.56,
+        "spoken": true
+      },
+      {
+        "word": "call",
+        "start": 113.61,
+        "end": 113.76,
+        "spoken": true
+      }
+    ],
+    "time": 104.94,
+    "end": 113.76
+  },
+  {
+    "text": "●",
+    "startTime": 114.06,
+    "endTime": 122.63,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 114.06,
+    "end": 122.63
+  },
+  {
+    "text": "What have I become? Girl, I feel so small",
+    "startTime": 122.63,
+    "endTime": 127.74,
+    "words": [
+      {
+        "word": "What",
+        "start": 122.769,
+        "end": 123.1,
+        "spoken": true
+      },
+      {
+        "word": "have",
+        "start": 123.11,
+        "end": 123.58,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 123.59,
+        "end": 123.98,
+        "spoken": true
+      },
+      {
+        "word": "become?",
+        "start": 124.34,
+        "end": 125.48,
+        "char_starts": [
+          124.34,
+          124.438,
+          124.536,
+          124.638,
+          124.751,
+          124.874,
+          125.005
+        ]
+      },
+      {
+        "word": "Girl,",
+        "start": 125.84,
+        "end": 126.98,
+        "char_starts": [
+          125.84,
+          125.977,
+          126.124,
+          126.298,
+          126.492
+        ],
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 127.08,
+        "end": 127.14,
+        "spoken": true
+      },
+      {
+        "word": "feel",
+        "start": 127.19,
+        "end": 127.34,
+        "spoken": true
+      },
+      {
+        "word": "so",
+        "start": 127.39,
+        "end": 127.54,
+        "spoken": true
+      },
+      {
+        "word": "small",
+        "start": 127.59,
+        "end": 127.74,
+        "spoken": true
+      }
+    ],
+    "time": 122.63,
+    "end": 127.74
+  },
+  {
+    "text": "●",
+    "startTime": 128.04,
+    "endTime": 132.964,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 128.04,
+    "end": 132.964
+  },
+  {
+    "text": "Today's the day that I",
+    "startTime": 132.964,
+    "endTime": 141.02,
+    "words": [
+      {
+        "word": "Today's",
+        "start": 132.964,
+        "end": 133.74,
+        "char_starts": [
+          132.964,
+          133.031,
+          133.113,
+          133.212,
+          133.323,
+          133.444,
+          133.573
+        ],
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 133.75,
+        "end": 134.16,
+        "spoken": true
+      },
+      {
+        "word": "day",
+        "start": 135.36,
+        "end": 135.78,
+        "spoken": true
+      },
+      {
+        "word": "that",
+        "start": 135.836,
+        "end": 137.28,
+        "char_starts": [
+          135.836,
+          136.053,
+          136.375,
+          136.762
+        ]
+      },
+      {
+        "word": "I",
+        "start": 140.22,
+        "end": 141.02,
+        "spoken": true
+      }
+    ],
+    "time": 132.964,
+    "end": 141.02
+  },
+  {
+    "text": "●",
+    "startTime": 141.32,
+    "endTime": 148.42,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 141.32,
+    "end": 148.42
+  },
+  {
+    "text": "end it all",
+    "startTime": 148.42,
+    "endTime": 148.84,
+    "words": [
+      {
+        "word": "end",
+        "start": 148.42,
+        "end": 148.48,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 148.49,
+        "end": 148.64,
+        "spoken": true
+      },
+      {
+        "word": "all",
+        "start": 148.69,
+        "end": 148.84
+      }
+    ],
+    "time": 148.42,
+    "end": 148.84
+  },
+  {
+    "text": "●",
+    "startTime": 149.14,
+    "endTime": 194.64,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 149.14,
+    "end": 194.64
+  },
+  {
+    "text": "I watch",
+    "startTime": 194.64,
+    "endTime": 195.2,
+    "words": [
+      {
+        "word": "I",
+        "start": 194.64,
+        "end": 194.79,
+        "spoken": true
+      },
+      {
+        "word": "watch",
+        "start": 194.84,
+        "end": 195.2,
+        "spoken": true
+      }
+    ],
+    "time": 194.64,
+    "end": 195.2
+  },
+  {
+    "text": "the sun as it rise, as it falls",
+    "startTime": 198.82,
+    "endTime": 200.332,
+    "words": [
+      {
+        "word": "the",
+        "start": 198.82,
+        "end": 199.26,
+        "spoken": true
+      },
+      {
+        "word": "sun",
+        "start": 199.27,
+        "end": 199.56,
+        "spoken": true
+      },
+      {
+        "word": "as",
+        "start": 199.57,
+        "end": 199.76,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 199.77,
+        "end": 200.02,
+        "spoken": true
+      },
+      {
+        "word": "rise,",
+        "start": 200.03,
+        "end": 200.126,
+        "spoken": true
+      },
+      {
+        "word": "as",
+        "start": 200.136,
+        "end": 200.176
+      },
+      {
+        "word": "it",
+        "start": 200.186,
+        "end": 200.226
+      },
+      {
+        "word": "falls",
+        "start": 200.236,
+        "end": 200.332,
+        "spoken": true
+      }
+    ],
+    "time": 198.82,
+    "end": 200.332
+  },
+  {
+    "text": "Put down the gun because I'm getting a call",
+    "startTime": 200.342,
+    "endTime": 201.17,
+    "words": [
+      {
+        "word": "Put",
+        "start": 200.342,
+        "end": 200.395,
+        "spoken": true
+      },
+      {
+        "word": "down",
+        "start": 200.654,
+        "end": 200.82,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 200.83,
+        "end": 200.87
+      },
+      {
+        "word": "gun",
+        "start": 200.88,
+        "end": 200.92
+      },
+      {
+        "word": "because",
+        "start": 200.93,
+        "end": 200.97
+      },
+      {
+        "word": "I'm",
+        "start": 200.98,
+        "end": 201.02
+      },
+      {
+        "word": "getting",
+        "start": 201.03,
+        "end": 201.07
+      },
+      {
+        "word": "a",
+        "start": 201.08,
+        "end": 201.12
+      },
+      {
+        "word": "call",
+        "start": 201.13,
+        "end": 201.17
+      }
+    ],
+    "time": 200.342,
+    "end": 201.17
+  },
+  {
+    "text": "What have I become? Why do I feel so small?",
+    "startTime": 201.18,
+    "endTime": 201.67,
+    "words": [
+      {
+        "word": "What",
+        "start": 201.18,
+        "end": 201.22
+      },
+      {
+        "word": "have",
+        "start": 201.23,
+        "end": 201.27
+      },
+      {
+        "word": "I",
+        "start": 201.28,
+        "end": 201.32
+      },
+      {
+        "word": "become?",
+        "start": 201.33,
+        "end": 201.37
+      },
+      {
+        "word": "Why",
+        "start": 201.38,
+        "end": 201.42
+      },
+      {
+        "word": "do",
+        "start": 201.43,
+        "end": 201.47
+      },
+      {
+        "word": "I",
+        "start": 201.48,
+        "end": 201.52
+      },
+      {
+        "word": "feel",
+        "start": 201.53,
+        "end": 201.57
+      },
+      {
+        "word": "so",
+        "start": 201.58,
+        "end": 201.62
+      },
+      {
+        "word": "small?",
+        "start": 201.63,
+        "end": 201.67
+      }
+    ],
+    "time": 201.18,
+    "end": 201.67
+  },
+  {
+    "text": "Why do I feel so small? (Feel so small)",
+    "startTime": 201.68,
+    "endTime": 202.12,
+    "words": [
+      {
+        "word": "Why",
+        "start": 201.68,
+        "end": 201.72
+      },
+      {
+        "word": "do",
+        "start": 201.73,
+        "end": 201.77
+      },
+      {
+        "word": "I",
+        "start": 201.78,
+        "end": 201.82
+      },
+      {
+        "word": "feel",
+        "start": 201.83,
+        "end": 201.87
+      },
+      {
+        "word": "so",
+        "start": 201.88,
+        "end": 201.92
+      },
+      {
+        "word": "small?",
+        "start": 201.93,
+        "end": 201.97
+      },
+      {
+        "word": "(Feel",
+        "start": 201.98,
+        "end": 202.02,
+        "adlib": true
+      },
+      {
+        "word": "so",
+        "start": 202.03,
+        "end": 202.07,
+        "adlib": true
+      },
+      {
+        "word": "small)",
+        "start": 202.08,
+        "end": 202.12,
+        "adlib": true
+      }
+    ],
+    "time": 201.68,
+    "end": 202.12
+  },
+  {
+    "text": "I want to end it all",
+    "startTime": 202.13,
+    "endTime": 202.42,
+    "words": [
+      {
+        "word": "I",
+        "start": 202.13,
+        "end": 202.17
+      },
+      {
+        "word": "want",
+        "start": 202.18,
+        "end": 202.22
+      },
+      {
+        "word": "to",
+        "start": 202.23,
+        "end": 202.27
+      },
+      {
+        "word": "end",
+        "start": 202.28,
+        "end": 202.32
+      },
+      {
+        "word": "it",
+        "start": 202.33,
+        "end": 202.37
+      },
+      {
+        "word": "all",
+        "start": 202.38,
+        "end": 202.42
+      }
+    ],
+    "time": 202.13,
+    "end": 202.42
+  },
+  {
+    "text": "(I want to end it all)",
+    "startTime": 202.43,
+    "endTime": 202.72,
+    "words": [
+      {
+        "word": "(I",
+        "start": 202.43,
+        "end": 202.47,
+        "adlib": true
+      },
+      {
+        "word": "want",
+        "start": 202.48,
+        "end": 202.52,
+        "adlib": true
+      },
+      {
+        "word": "to",
+        "start": 202.53,
+        "end": 202.57,
+        "adlib": true
+      },
+      {
+        "word": "end",
+        "start": 202.58,
+        "end": 202.62,
+        "adlib": true
+      },
+      {
+        "word": "it",
+        "start": 202.63,
+        "end": 202.67,
+        "adlib": true
+      },
+      {
+        "word": "all)",
+        "start": 202.68,
+        "end": 202.72,
+        "adlib": true
+      }
+    ],
+    "time": 202.43,
+    "end": 202.72
+  },
+  {
+    "text": "Lately I've been feelin' like I'm somebody else",
+    "startTime": 202.73,
+    "endTime": 203.12,
+    "words": [
+      {
+        "word": "Lately",
+        "start": 202.73,
+        "end": 202.77
+      },
+      {
+        "word": "I've",
+        "start": 202.78,
+        "end": 202.82
+      },
+      {
+        "word": "been",
+        "start": 202.83,
+        "end": 202.87
+      },
+      {
+        "word": "feelin'",
+        "start": 202.88,
+        "end": 202.92
+      },
+      {
+        "word": "like",
+        "start": 202.93,
+        "end": 202.97
+      },
+      {
+        "word": "I'm",
+        "start": 202.98,
+        "end": 203.02
+      },
+      {
+        "word": "somebody",
+        "start": 203.03,
+        "end": 203.07
+      },
+      {
+        "word": "else",
+        "start": 203.08,
+        "end": 203.12
+      }
+    ],
+    "time": 202.73,
+    "end": 203.12
+  }
+]

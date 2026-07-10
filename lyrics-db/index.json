@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T19:21:09.825166+00:00",
-  "totalTracks": 800,
+  "generatedAt": "2026-07-10T19:25:59.188573+00:00",
+  "totalTracks": 801,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11243,6 +11243,20 @@
       },
       "sourcePath": "https://soundcloud.com/johnmello/little-hell",
       "mtimeMs": 1783711270582
+    },
+    "ghost::lil peep -the day i finally do it extended": {
+      "title": "Lil Peep -The Day I Finally Do It Extended",
+      "artist": "ghost",
+      "originalTrackName": "ghost - Lil Peep -The Day I Finally Do It Extended",
+      "source": "syncedlyrics",
+      "file": "tracks/ghost-lil-peep-the-day-i-finally-do-it-extended-e267fae679c7.json",
+      "files": {
+        "lyrics": "tracks/ghost-lil-peep-the-day-i-finally-do-it-extended-e267fae679c7.json",
+        "meta": "tracks/ghost-lil-peep-the-day-i-finally-do-it-extended-e267fae679c7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/michael-mamo/lil-peep-the-day-i-finally-do-it-extended",
+      "mtimeMs": 1783711559762
     }
   },
   "tracks": [
@@ -22503,6 +22517,20 @@
       },
       "sourcePath": "https://soundcloud.com/johnmello/little-hell",
       "mtimeMs": 1783711270582
+    },
+    {
+      "title": "Lil Peep -The Day I Finally Do It Extended",
+      "artist": "ghost",
+      "originalTrackName": "ghost - Lil Peep -The Day I Finally Do It Extended",
+      "source": "syncedlyrics",
+      "file": "tracks/ghost-lil-peep-the-day-i-finally-do-it-extended-e267fae679c7.json",
+      "files": {
+        "lyrics": "tracks/ghost-lil-peep-the-day-i-finally-do-it-extended-e267fae679c7.json",
+        "meta": "tracks/ghost-lil-peep-the-day-i-finally-do-it-extended-e267fae679c7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/michael-mamo/lil-peep-the-day-i-finally-do-it-extended",
+      "mtimeMs": 1783711559762
     }
   ]
 }

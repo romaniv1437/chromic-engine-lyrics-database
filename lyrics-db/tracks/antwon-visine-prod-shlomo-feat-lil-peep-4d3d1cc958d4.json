@@ -1,0 +1,4306 @@
+[
+  {
+    "text": "I shook hands with David",
+    "startTime": 14.24,
+    "endTime": 18.94,
+    "words": [
+      {
+        "word": "I",
+        "start": 14.59,
+        "end": 15.44,
+        "singer": "singer1"
+      },
+      {
+        "word": "shook",
+        "start": 15.79,
+        "end": 16.6,
+        "char_starts": [
+          15.79,
+          15.887,
+          16.019,
+          16.176,
+          16.351
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "hands",
+        "start": 16.6,
+        "end": 17.06,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 17.06,
+        "end": 17.54,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "David",
+        "start": 17.54,
+        "end": 18.94,
+        "char_starts": [
+          17.54,
+          17.708,
+          17.942,
+          18.221,
+          18.535
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 14.24,
+    "end": 18.94
+  },
+  {
+    "text": "He told me it's burning",
+    "startTime": 19.4,
+    "endTime": 22.83,
+    "words": [
+      {
+        "word": "He",
+        "start": 19.4,
+        "end": 19.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "told",
+        "start": 19.96,
+        "end": 20.72,
+        "char_starts": [
+          19.96,
+          20.095,
+          20.303,
+          20.553
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 20.72,
+        "end": 21.26,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "it's",
+        "start": 21.26,
+        "end": 22.18,
+        "char_starts": [
+          21.26,
+          21.423,
+          21.675,
+          21.978
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "burning",
+        "start": 22.18,
+        "end": 22.83,
+        "char_starts": [
+          22.18,
+          22.24,
+          22.325,
+          22.423,
+          22.532,
+          22.649,
+          22.774
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 19.4,
+    "end": 22.83
+  },
+  {
+    "text": "I inhaled the first time",
+    "startTime": 23.08,
+    "endTime": 26.8,
+    "words": [
+      {
+        "word": "I",
+        "start": 23.08,
+        "end": 24.24,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "inhaled",
+        "start": 24.24,
+        "end": 25.26,
+        "char_starts": [
+          24.24,
+          24.327,
+          24.436,
+          24.565,
+          24.711,
+          24.87,
+          25.041
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 25.26,
+        "end": 25.6,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "first",
+        "start": 25.6,
+        "end": 26.66,
+        "char_starts": [
+          25.6,
+          25.727,
+          25.924,
+          26.161,
+          26.427
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 26.66,
+        "end": 26.8,
+        "char_starts": [
+          26.66,
+          26.693,
+          26.73,
+          26.77
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 23.08,
+    "end": 26.8
+  },
+  {
+    "text": "Now I feel like another person",
+    "startTime": 27.46,
+    "endTime": 30.94,
+    "words": [
+      {
+        "word": "Now",
+        "start": 27.46,
+        "end": 27.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 27.82,
+        "end": 28.16,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "feel",
+        "start": 28.16,
+        "end": 28.56,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "like",
+        "start": 28.56,
+        "end": 28.9,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "another",
+        "start": 28.9,
+        "end": 29.64,
+        "char_starts": [
+          28.9,
+          28.963,
+          29.042,
+          29.136,
+          29.242,
+          29.357,
+          29.48
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "person",
+        "start": 29.64,
+        "end": 30.94,
+        "char_starts": [
+          29.64,
+          29.77,
+          29.918,
+          30.094,
+          30.291,
+          30.505
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 27.46,
+    "end": 30.94
+  },
+  {
+    "text": "We was all like, shit, when the first bell rang",
+    "startTime": 31.56,
+    "endTime": 35.39,
+    "words": [
+      {
+        "word": "We",
+        "start": 31.56,
+        "end": 31.78,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "was",
+        "start": 31.78,
+        "end": 32.26,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "all",
+        "start": 32.26,
+        "end": 32.537,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "like,",
+        "start": 32.547,
+        "end": 32.998,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "shit,",
+        "start": 32.998,
+        "end": 33.46,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "when",
+        "start": 33.46,
+        "end": 33.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 33.82,
+        "end": 34.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "first",
+        "start": 34.18,
+        "end": 34.52,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bell",
+        "start": 34.52,
+        "end": 34.98,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "rang",
+        "start": 34.98,
+        "end": 35.39,
+        "char_starts": [
+          34.98,
+          35.069,
+          35.19,
+          35.328
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 31.56,
+    "end": 35.39
+  },
+  {
+    "text": "It's sending arrow through my heart, bullet in my brain",
+    "startTime": 35.91,
+    "endTime": 39.58,
+    "words": [
+      {
+        "word": "It's",
+        "start": 35.91,
+        "end": 36.172,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "sending",
+        "start": 36.172,
+        "end": 36.632,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "arrow",
+        "start": 36.642,
+        "end": 36.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 36.96,
+        "end": 37.28,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 37.28,
+        "end": 37.72,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "heart,",
+        "start": 37.72,
+        "end": 37.98,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bullet",
+        "start": 37.98,
+        "end": 38.5,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "in",
+        "start": 38.5,
+        "end": 38.84,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 38.84,
+        "end": 39.2,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "brain",
+        "start": 39.2,
+        "end": 39.58,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 35.91,
+    "end": 39.58
+  },
+  {
+    "text": "I can't complain cause I got it for the cheap",
+    "startTime": 39.96,
+    "endTime": 43.35,
+    "words": [
+      {
+        "word": "I",
+        "start": 39.96,
+        "end": 40.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "can't",
+        "start": 40.18,
+        "end": 40.64,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "complain",
+        "start": 40.64,
+        "end": 41.62,
+        "char_starts": [
+          40.64,
+          40.714,
+          40.799,
+          40.901,
+          41.014,
+          41.138,
+          41.271,
+          41.411
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "cause",
+        "start": 41.62,
+        "end": 41.78,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 41.78,
+        "end": 42.04,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "got",
+        "start": 42.04,
+        "end": 42.32,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 42.32,
+        "end": 42.66,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "for",
+        "start": 42.66,
+        "end": 42.86,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 42.86,
+        "end": 43.2,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "cheap",
+        "start": 43.2,
+        "end": 43.35,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 39.96,
+    "end": 43.35
+  },
+  {
+    "text": "My homies they was tripping, now we smoking weed",
+    "startTime": 43.96,
+    "endTime": 47.08,
+    "words": [
+      {
+        "word": "My",
+        "start": 43.96,
+        "end": 44.16,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "homies",
+        "start": 44.16,
+        "end": 44.52,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "they",
+        "start": 44.52,
+        "end": 44.78,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "was",
+        "start": 44.78,
+        "end": 45.1,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "tripping,",
+        "start": 45.1,
+        "end": 45.5,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "now",
+        "start": 45.5,
+        "end": 45.78,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "we",
+        "start": 45.78,
+        "end": 46.08,
+        "singer": "singer1"
+      },
+      {
+        "word": "smoking",
+        "start": 46.08,
+        "end": 46.44,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "weed",
+        "start": 46.44,
+        "end": 47.08,
+        "char_starts": [
+          46.44,
+          46.553,
+          46.729,
+          46.939
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 43.96,
+    "end": 47.08
+  },
+  {
+    "text": "We smoking",
+    "startTime": 47.3,
+    "endTime": 47.73,
+    "words": [
+      {
+        "word": "We",
+        "start": 47.3,
+        "end": 47.56,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "smoking",
+        "start": 47.56,
+        "end": 47.73,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 47.3,
+    "end": 47.73
+  },
+  {
+    "text": "Posted with my G's",
+    "startTime": 47.74,
+    "endTime": 49.821,
+    "words": [
+      {
+        "word": "Posted",
+        "start": 47.74,
+        "end": 48.573,
+        "char_starts": [
+          47.74,
+          47.823,
+          47.937,
+          48.073,
+          48.226,
+          48.393
+        ],
+        "sung": true,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 48.573,
+        "end": 49.128,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 49.128,
+        "end": 49.405,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "G's",
+        "start": 49.405,
+        "end": 49.821,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 47.74,
+    "end": 49.821
+  },
+  {
+    "text": "(posted with my G's)",
+    "startTime": 49.821,
+    "endTime": 52.18,
+    "words": [
+      {
+        "word": "(posted",
+        "start": 49.821,
+        "end": 50.792,
+        "char_starts": [
+          49.821,
+          49.904,
+          50.008,
+          50.131,
+          50.27,
+          50.421,
+          50.583
+        ],
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 50.792,
+        "end": 51.347,
+        "adlib": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 51.347,
+        "end": 51.625,
+        "adlib": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "G's)",
+        "start": 51.625,
+        "end": 52.18,
+        "adlib": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 49.821,
+    "end": 52.18
+  },
+  {
+    "text": "Just last week bumping Gucci",
+    "startTime": 52.18,
+    "endTime": 55.78,
+    "words": [
+      {
+        "word": "Just",
+        "start": 52.18,
+        "end": 52.78,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "last",
+        "start": 52.78,
+        "end": 53.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "week",
+        "start": 53.38,
+        "end": 53.98,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bumping",
+        "start": 53.98,
+        "end": 55.03,
+        "char_starts": [
+          53.98,
+          54.07,
+          54.182,
+          54.315,
+          54.466,
+          54.629,
+          54.805
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Gucci",
+        "start": 55.03,
+        "end": 55.78,
+        "char_starts": [
+          55.03,
+          55.12,
+          55.233,
+          55.384,
+          55.568
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 52.18,
+    "end": 55.78
+  },
+  {
+    "text": "Used to roll off beans",
+    "startTime": 56.02,
+    "endTime": 58.308,
+    "words": [
+      {
+        "word": "Used",
+        "start": 56.113,
+        "end": 56.528,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 56.528,
+        "end": 56.783,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "roll",
+        "start": 56.783,
+        "end": 57.291,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "off",
+        "start": 57.291,
+        "end": 57.672,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "beans",
+        "start": 57.672,
+        "end": 58.308,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 56.02,
+    "end": 58.308
+  },
+  {
+    "text": "(used to roll off beans)",
+    "startTime": 58.308,
+    "endTime": 60.85,
+    "words": [
+      {
+        "word": "(used",
+        "start": 58.308,
+        "end": 58.943,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 58.943,
+        "end": 59.198,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "roll",
+        "start": 59.198,
+        "end": 59.706,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "off",
+        "start": 59.706,
+        "end": 60.087,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "beans)",
+        "start": 60.087,
+        "end": 60.85,
+        "char_starts": [
+          60.087,
+          60.163,
+          60.267,
+          60.392,
+          60.531,
+          60.684
+        ],
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 58.308,
+    "end": 60.85
+  },
+  {
+    "text": "Now we smoking weed with no Visine",
+    "startTime": 60.85,
+    "endTime": 63.86,
+    "words": [
+      {
+        "word": "Now",
+        "start": 60.85,
+        "end": 61.172,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "we",
+        "start": 61.172,
+        "end": 61.388,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "smoking",
+        "start": 61.388,
+        "end": 62.14,
+        "char_starts": [
+          61.388,
+          61.452,
+          61.532,
+          61.628,
+          61.735,
+          61.853,
+          61.978
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "weed",
+        "start": 62.14,
+        "end": 62.57,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 62.57,
+        "end": 63.0,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "no",
+        "start": 63.0,
+        "end": 63.215,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Visine",
+        "start": 63.215,
+        "end": 63.86,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 60.85,
+    "end": 63.86
+  },
+  {
+    "text": "Posted with my G's",
+    "startTime": 63.86,
+    "endTime": 66.087,
+    "words": [
+      {
+        "word": "Posted",
+        "start": 64.069,
+        "end": 64.751,
+        "char_starts": [
+          64.069,
+          64.137,
+          64.222,
+          64.323,
+          64.436,
+          64.56
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 64.751,
+        "end": 65.344,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 65.344,
+        "end": 65.641,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "G's",
+        "start": 65.641,
+        "end": 66.087,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 63.86,
+    "end": 66.087
+  },
+  {
+    "text": "(posted with my G's)",
+    "startTime": 66.087,
+    "endTime": 68.61,
+    "words": [
+      {
+        "word": "(posted",
+        "start": 66.087,
+        "end": 67.126,
+        "char_starts": [
+          66.087,
+          66.176,
+          66.287,
+          66.419,
+          66.568,
+          66.73,
+          66.903
+        ],
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 67.126,
+        "end": 67.719,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 67.719,
+        "end": 68.016,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "G's)",
+        "start": 68.016,
+        "end": 68.61,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 66.087,
+    "end": 68.61
+  },
+  {
+    "text": "Just last week bumping Gucci",
+    "startTime": 68.61,
+    "endTime": 71.85,
+    "words": [
+      {
+        "word": "Just",
+        "start": 68.61,
+        "end": 69.15,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "last",
+        "start": 69.15,
+        "end": 69.69,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "week",
+        "start": 69.69,
+        "end": 70.23,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bumping",
+        "start": 70.23,
+        "end": 71.175,
+        "char_starts": [
+          70.23,
+          70.311,
+          70.411,
+          70.531,
+          70.666,
+          70.813,
+          70.971
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Gucci",
+        "start": 71.175,
+        "end": 71.85,
+        "char_starts": [
+          71.175,
+          71.256,
+          71.359,
+          71.495,
+          71.66
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 68.61,
+    "end": 71.85
+  },
+  {
+    "text": "Used to roll off beans uUsed to roll off beans)",
+    "startTime": 71.85,
+    "endTime": 76.86,
+    "words": [
+      {
+        "word": "Used",
+        "start": 71.85,
+        "end": 72.377,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 72.377,
+        "end": 72.641,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "roll",
+        "start": 72.641,
+        "end": 73.168,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "off",
+        "start": 73.168,
+        "end": 73.564,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "beans",
+        "start": 73.564,
+        "end": 74.223,
+        "char_starts": [
+          73.564,
+          73.643,
+          73.766,
+          73.913,
+          74.078
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "uUsed",
+        "start": 74.223,
+        "end": 74.882,
+        "char_starts": [
+          74.223,
+          74.302,
+          74.425,
+          74.572,
+          74.737
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 74.882,
+        "end": 75.146,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "roll",
+        "start": 75.146,
+        "end": 75.673,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "off",
+        "start": 75.673,
+        "end": 76.069,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "beans)",
+        "start": 76.069,
+        "end": 76.86,
+        "char_starts": [
+          76.069,
+          76.148,
+          76.256,
+          76.386,
+          76.531,
+          76.689
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 71.85,
+    "end": 76.86
+  },
+  {
+    "text": "Now we smoke weed with no Visine",
+    "startTime": 78.64,
+    "endTime": 79.72,
+    "words": [
+      {
+        "word": "Now",
+        "start": 78.64,
+        "end": 78.766,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "we",
+        "start": 78.766,
+        "end": 78.866,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "smoke",
+        "start": 78.866,
+        "end": 79.075,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "weed",
+        "start": 79.075,
+        "end": 79.243,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 79.243,
+        "end": 79.411,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "no",
+        "start": 79.411,
+        "end": 79.511,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Visine",
+        "start": 79.511,
+        "end": 79.72,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 78.64,
+    "end": 79.72
+  },
+  {
+    "text": "(Purple on my lean)",
+    "startTime": 81.16,
+    "endTime": 82.78,
+    "words": [
+      {
+        "word": "(Purple",
+        "start": 81.16,
+        "end": 81.869,
+        "char_starts": [
+          81.16,
+          81.221,
+          81.282,
+          81.358,
+          81.449,
+          81.555,
+          81.673
+        ],
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 81.869,
+        "end": 82.071,
+        "adlib": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 82.071,
+        "end": 82.274,
+        "adlib": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lean)",
+        "start": 82.274,
+        "end": 82.78,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 81.16,
+    "end": 82.78
+  },
+  {
+    "text": "Visine",
+    "startTime": 82.78,
+    "endTime": 83.68,
+    "words": [
+      {
+        "word": "Visine",
+        "start": 82.78,
+        "end": 83.68,
+        "char_starts": [
+          82.78,
+          82.87,
+          82.966,
+          83.095,
+          83.25,
+          83.429
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 82.78,
+    "end": 83.68
+  },
+  {
+    "text": "(Purple on my lean)",
+    "startTime": 83.84,
+    "endTime": 84.99,
+    "words": [
+      {
+        "word": "(Purple",
+        "start": 83.84,
+        "end": 84.343,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 84.343,
+        "end": 84.487,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 84.487,
+        "end": 84.631,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lean)",
+        "start": 84.631,
+        "end": 84.99,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 83.84,
+    "end": 84.99
+  },
+  {
+    "text": "Now we smoking weed with no Visine",
+    "startTime": 84.99,
+    "endTime": 87.82,
+    "words": [
+      {
+        "word": "Now",
+        "start": 84.99,
+        "end": 85.293,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "we",
+        "start": 85.293,
+        "end": 85.495,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "smoking",
+        "start": 85.495,
+        "end": 86.203,
+        "char_starts": [
+          85.495,
+          85.556,
+          85.631,
+          85.722,
+          85.822,
+          85.933,
+          86.051
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "weed",
+        "start": 86.203,
+        "end": 86.607,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 86.607,
+        "end": 87.011,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "no",
+        "start": 87.011,
+        "end": 87.214,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Visine",
+        "start": 87.214,
+        "end": 87.82,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 84.99,
+    "end": 87.82
+  },
+  {
+    "text": "(Purple on my lean)",
+    "startTime": 87.82,
+    "endTime": 90.14,
+    "words": [
+      {
+        "word": "(Purple",
+        "start": 87.82,
+        "end": 88.835,
+        "char_starts": [
+          87.82,
+          87.907,
+          87.994,
+          88.102,
+          88.233,
+          88.385,
+          88.554
+        ],
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 88.835,
+        "end": 89.125,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 89.125,
+        "end": 89.415,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lean)",
+        "start": 89.415,
+        "end": 90.14,
+        "char_starts": [
+          89.415,
+          89.502,
+          89.637,
+          89.798,
+          89.981
+        ],
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 87.82,
+    "end": 90.14
+  },
+  {
+    "text": "With no Visine",
+    "startTime": 90.14,
+    "endTime": 91.88,
+    "words": [
+      {
+        "word": "With",
+        "start": 90.14,
+        "end": 90.72,
+        "singer": "singer1"
+      },
+      {
+        "word": "no",
+        "start": 90.72,
+        "end": 91.01,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Visine",
+        "start": 91.01,
+        "end": 91.88,
+        "char_starts": [
+          91.01,
+          91.097,
+          91.191,
+          91.315,
+          91.465,
+          91.638
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 90.14,
+    "end": 91.88
+  },
+  {
+    "text": "(Purple on my lean)",
+    "startTime": 92.06,
+    "endTime": 93.05,
+    "words": [
+      {
+        "word": "(Purple",
+        "start": 92.06,
+        "end": 92.493,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 92.493,
+        "end": 92.617,
+        "adlib": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 92.617,
+        "end": 92.741,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lean)",
+        "start": 92.741,
+        "end": 93.05,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 92.06,
+    "end": 93.05
+  },
+  {
+    "text": "Now we smoke weed with no Visine",
+    "startTime": 93.32,
+    "endTime": 95.73,
+    "words": [
+      {
+        "word": "Now",
+        "start": 93.32,
+        "end": 93.598,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "we",
+        "start": 93.598,
+        "end": 93.783,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "smoke",
+        "start": 93.783,
+        "end": 94.247,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "weed",
+        "start": 94.247,
+        "end": 94.618,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 94.618,
+        "end": 94.988,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "no",
+        "start": 94.988,
+        "end": 95.174,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Visine",
+        "start": 95.174,
+        "end": 95.73,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 93.32,
+    "end": 95.73
+  },
+  {
+    "text": "Purple on my lean",
+    "startTime": 95.73,
+    "endTime": 97.83,
+    "words": [
+      {
+        "word": "Purple",
+        "start": 95.73,
+        "end": 96.63,
+        "char_starts": [
+          95.73,
+          95.82,
+          95.916,
+          96.045,
+          96.2,
+          96.379
+        ],
+        "sung": true,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 96.63,
+        "end": 96.93,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 96.93,
+        "end": 97.23,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lean",
+        "start": 97.23,
+        "end": 97.83,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 95.73,
+    "end": 97.83
+  },
+  {
+    "text": "Stains on my jeans",
+    "startTime": 98.22,
+    "endTime": 99.77,
+    "words": [
+      {
+        "word": "Stains",
+        "start": 98.22,
+        "end": 98.54,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 98.54,
+        "end": 98.92,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 98.92,
+        "end": 99.32,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "jeans",
+        "start": 99.32,
+        "end": 99.77,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 98.22,
+    "end": 99.77
+  },
+  {
+    "text": "Stay with my team",
+    "startTime": 99.96,
+    "endTime": 101.44,
+    "words": [
+      {
+        "word": "Stay",
+        "start": 99.96,
+        "end": 100.54,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 100.54,
+        "end": 100.84,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 100.84,
+        "end": 101.22,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "team",
+        "start": 101.22,
+        "end": 101.44,
+        "singer": "singer1"
+      }
+    ],
+    "time": 99.96,
+    "end": 101.44
+  },
+  {
+    "text": "And my team keep them beans",
+    "startTime": 101.49,
+    "endTime": 103.44,
+    "words": [
+      {
+        "word": "And",
+        "start": 101.49,
+        "end": 101.84,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 101.84,
+        "end": 102.24,
+        "singer": "singer1"
+      },
+      {
+        "word": "team",
+        "start": 102.24,
+        "end": 102.56,
+        "singer": "singer1"
+      },
+      {
+        "word": "keep",
+        "start": 102.56,
+        "end": 102.86,
+        "singer": "singer1"
+      },
+      {
+        "word": "them",
+        "start": 102.86,
+        "end": 103.26,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "beans",
+        "start": 103.26,
+        "end": 103.44,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 101.49,
+    "end": 103.44
+  },
+  {
+    "text": "And I love smokin' weed and these bitches love me",
+    "startTime": 103.58,
+    "endTime": 107.46,
+    "words": [
+      {
+        "word": "And",
+        "start": 103.58,
+        "end": 103.86,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 103.86,
+        "end": 104.0,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "love",
+        "start": 104.0,
+        "end": 104.56,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "smokin'",
+        "start": 104.56,
+        "end": 105.08,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "weed",
+        "start": 105.08,
+        "end": 105.7,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 105.7,
+        "end": 105.92,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "these",
+        "start": 105.92,
+        "end": 106.26,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bitches",
+        "start": 106.26,
+        "end": 106.54,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "love",
+        "start": 106.54,
+        "end": 107.06,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 107.3,
+        "end": 107.46,
+        "singer": "singer1"
+      }
+    ],
+    "time": 103.58,
+    "end": 107.46
+  },
+  {
+    "text": "I love weed but these bitches love me",
+    "startTime": 107.64,
+    "endTime": 111.41,
+    "words": [
+      {
+        "word": "I",
+        "start": 107.64,
+        "end": 108.6,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "love",
+        "start": 108.6,
+        "end": 109.04,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "weed",
+        "start": 109.04,
+        "end": 109.5,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "but",
+        "start": 109.5,
+        "end": 109.84,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "these",
+        "start": 109.84,
+        "end": 110.2,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bitches",
+        "start": 110.2,
+        "end": 110.58,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "love",
+        "start": 110.58,
+        "end": 111.02,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 111.254,
+        "end": 111.41,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 107.64,
+    "end": 111.41
+  },
+  {
+    "text": "Smoke when I breathe, can't cope with the heat",
+    "startTime": 112.48,
+    "endTime": 115.4,
+    "words": [
+      {
+        "word": "Smoke",
+        "start": 112.48,
+        "end": 112.5,
+        "singer": "singer1"
+      },
+      {
+        "word": "when",
+        "start": 112.5,
+        "end": 112.92,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 112.92,
+        "end": 113.28,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "breathe,",
+        "start": 113.28,
+        "end": 113.66,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "can't",
+        "start": 113.66,
+        "end": 114.32,
+        "char_starts": [
+          113.66,
+          113.739,
+          113.862,
+          114.009,
+          114.175
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "cope",
+        "start": 114.32,
+        "end": 114.6,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 114.6,
+        "end": 114.98,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 114.98,
+        "end": 115.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "heat",
+        "start": 115.38,
+        "end": 115.4,
+        "singer": "singer1"
+      }
+    ],
+    "time": 112.48,
+    "end": 115.4
+  },
+  {
+    "text": "In the boat that I smoke when I post up on my folks",
+    "startTime": 115.54,
+    "endTime": 119.71,
+    "words": [
+      {
+        "word": "In",
+        "start": 115.54,
+        "end": 115.88,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 115.88,
+        "end": 116.26,
+        "singer": "singer1"
+      },
+      {
+        "word": "boat",
+        "start": 116.26,
+        "end": 116.7,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "that",
+        "start": 116.7,
+        "end": 116.9,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 116.9,
+        "end": 117.26,
+        "singer": "singer1"
+      },
+      {
+        "word": "smoke",
+        "start": 117.26,
+        "end": 117.52,
+        "singer": "singer1"
+      },
+      {
+        "word": "when",
+        "start": 117.52,
+        "end": 117.9,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 117.9,
+        "end": 118.26,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "post",
+        "start": 118.26,
+        "end": 118.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "up",
+        "start": 118.48,
+        "end": 118.82,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 118.82,
+        "end": 119.04,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 119.04,
+        "end": 119.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "folks",
+        "start": 119.38,
+        "end": 119.71,
+        "singer": "singer1"
+      }
+    ],
+    "time": 115.54,
+    "end": 119.71
+  },
+  {
+    "text": "Toast to the ghosts and the souls when I smoke",
+    "startTime": 120.28,
+    "endTime": 123.43,
+    "words": [
+      {
+        "word": "Toast",
+        "start": 120.28,
+        "end": 120.54,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 120.54,
+        "end": 121.02,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 121.02,
+        "end": 121.3,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ghosts",
+        "start": 121.3,
+        "end": 121.64,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 121.64,
+        "end": 121.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 121.96,
+        "end": 122.3,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "souls",
+        "start": 122.3,
+        "end": 122.6,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "when",
+        "start": 122.6,
+        "end": 122.84,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 122.84,
+        "end": 123.28,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "smoke",
+        "start": 123.28,
+        "end": 123.43,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 120.28,
+    "end": 123.43
+  },
+  {
+    "text": "I don't need Visine, when you see me shawty know",
+    "startTime": 123.6,
+    "endTime": 127.36,
+    "words": [
+      {
+        "word": "I",
+        "start": 123.6,
+        "end": 124.04,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 124.04,
+        "end": 124.26,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "need",
+        "start": 124.26,
+        "end": 124.58,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Visine,",
+        "start": 124.58,
+        "end": 125.56,
+        "char_starts": [
+          124.58,
+          124.664,
+          124.768,
+          124.893,
+          125.033,
+          125.186,
+          125.349
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "when",
+        "start": 125.56,
+        "end": 125.86,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 125.86,
+        "end": 126.1,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "see",
+        "start": 126.1,
+        "end": 126.36,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 126.36,
+        "end": 126.68,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "shawty",
+        "start": 126.68,
+        "end": 127.26,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "know",
+        "start": 127.26,
+        "end": 127.36,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 123.6,
+    "end": 127.36
+  },
+  {
+    "text": "Bitch I'm high (I'm high), watch me ride by",
+    "startTime": 127.72,
+    "endTime": 130.41,
+    "words": [
+      {
+        "word": "Bitch",
+        "start": 127.72,
+        "end": 127.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 127.96,
+        "end": 128.46,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "high",
+        "start": 128.46,
+        "end": 128.649,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "(I'm",
+        "start": 128.659,
+        "end": 128.837,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "high),",
+        "start": 128.837,
+        "end": 129.12,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "watch",
+        "start": 129.12,
+        "end": 129.42,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 129.42,
+        "end": 129.86,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ride",
+        "start": 129.86,
+        "end": 130.24,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "by",
+        "start": 130.24,
+        "end": 130.41,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 127.72,
+    "end": 130.41
+  },
+  {
+    "text": "Stars in my eyes, gazing at the night sky",
+    "startTime": 131.1,
+    "endTime": 134.62,
+    "words": [
+      {
+        "word": "Stars",
+        "start": 131.1,
+        "end": 131.52,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "in",
+        "start": 131.52,
+        "end": 131.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 131.82,
+        "end": 132.34,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "eyes,",
+        "start": 132.34,
+        "end": 133.18,
+        "char_starts": [
+          132.34,
+          132.441,
+          132.597,
+          132.784,
+          132.995
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "gazing",
+        "start": 133.18,
+        "end": 133.56,
+        "singer": "singer1"
+      },
+      {
+        "word": "at",
+        "start": 133.56,
+        "end": 133.86,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 133.86,
+        "end": 134.26,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "night",
+        "start": 134.26,
+        "end": 134.54,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "sky",
+        "start": 134.54,
+        "end": 134.62,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 131.1,
+    "end": 134.62
+  },
+  {
+    "text": "I just wanna write rhymes",
+    "startTime": 135.08,
+    "endTime": 136.73,
+    "words": [
+      {
+        "word": "I",
+        "start": 135.08,
+        "end": 135.44,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "just",
+        "start": 135.44,
+        "end": 135.78,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 135.78,
+        "end": 136.12,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "write",
+        "start": 136.12,
+        "end": 136.397,
+        "singer": "singer1"
+      },
+      {
+        "word": "rhymes",
+        "start": 136.397,
+        "end": 136.73,
+        "singer": "singer1"
+      }
+    ],
+    "time": 135.08,
+    "end": 136.73
+  },
+  {
+    "text": "I don't wanna do time",
+    "startTime": 137.32,
+    "endTime": 138.76,
+    "words": [
+      {
+        "word": "I",
+        "start": 137.32,
+        "end": 137.5,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 137.5,
+        "end": 137.74,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 137.74,
+        "end": 138.1,
+        "singer": "singer1"
+      },
+      {
+        "word": "do",
+        "start": 138.1,
+        "end": 138.66,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 138.66,
+        "end": 138.76,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 137.32,
+    "end": 138.76
+  },
+  {
+    "text": "I got dirty money",
+    "startTime": 139.2,
+    "endTime": 140.26,
+    "words": [
+      {
+        "word": "I",
+        "start": 139.2,
+        "end": 139.34,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "got",
+        "start": 139.34,
+        "end": 139.68,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "dirty",
+        "start": 139.68,
+        "end": 140.12,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "money",
+        "start": 140.12,
+        "end": 140.26,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 139.2,
+    "end": 140.26
+  },
+  {
+    "text": "You could hear it in my baseline",
+    "startTime": 140.56,
+    "endTime": 143.0,
+    "words": [
+      {
+        "word": "You",
+        "start": 140.56,
+        "end": 140.88,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "could",
+        "start": 140.88,
+        "end": 141.22,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "hear",
+        "start": 141.22,
+        "end": 141.4,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 141.4,
+        "end": 141.66,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "in",
+        "start": 141.66,
+        "end": 141.86,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 141.86,
+        "end": 142.3,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "baseline",
+        "start": 142.3,
+        "end": 143.0,
+        "char_starts": [
+          142.3,
+          142.353,
+          142.406,
+          142.465,
+          142.536,
+          142.618,
+          142.71,
+          142.81
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 140.56,
+    "end": 143.0
+  },
+  {
+    "text": "Shawty give me iPhone 5S FaceTime",
+    "startTime": 143.42,
+    "endTime": 147.16,
+    "words": [
+      {
+        "word": "Shawty",
+        "start": 143.42,
+        "end": 143.6,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "give",
+        "start": 143.6,
+        "end": 144.0,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 144.0,
+        "end": 144.34,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "iPhone",
+        "start": 144.34,
+        "end": 144.84,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "5S",
+        "start": 144.84,
+        "end": 146.22,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "FaceTime",
+        "start": 146.22,
+        "end": 147.16,
+        "char_starts": [
+          146.22,
+          146.291,
+          146.362,
+          146.442,
+          146.538,
+          146.648,
+          146.771,
+          146.906
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 143.42,
+    "end": 147.16
+  },
+  {
+    "text": "Shawty give me iPhone 5S FaceTime",
+    "startTime": 147.16,
+    "endTime": 148.96,
+    "words": [
+      {
+        "word": "Shawty",
+        "start": 147.16,
+        "end": 147.62,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "give",
+        "start": 147.62,
+        "end": 148.0,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 148.0,
+        "end": 148.36,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "iPhone",
+        "start": 148.36,
+        "end": 148.84,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "5S",
+        "start": 148.84,
+        "end": 148.86,
+        "singer": "singer1"
+      },
+      {
+        "word": "FaceTime",
+        "start": 148.86,
+        "end": 148.96,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 147.16,
+    "end": 148.96
+  },
+  {
+    "text": "Wifi OG",
+    "startTime": 151.83,
+    "endTime": 152.67,
+    "words": [
+      {
+        "word": "Wifi",
+        "start": 151.83,
+        "end": 152.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "OG",
+        "start": 152.18,
+        "end": 152.67,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 151.83,
+    "end": 152.67
+  },
+  {
+    "text": "I don't think you know me",
+    "startTime": 153.12,
+    "endTime": 155.06,
+    "words": [
+      {
+        "word": "I",
+        "start": 153.12,
+        "end": 153.36,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 153.36,
+        "end": 153.6,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "think",
+        "start": 153.6,
+        "end": 153.88,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 153.88,
+        "end": 154.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "know",
+        "start": 154.18,
+        "end": 154.46,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 154.46,
+        "end": 155.06,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 153.12,
+    "end": 155.06
+  },
+  {
+    "text": "If you want it, you could have it",
+    "startTime": 155.46,
+    "endTime": 157.39,
+    "words": [
+      {
+        "word": "If",
+        "start": 155.46,
+        "end": 155.94,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 155.94,
+        "end": 156.26,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "want",
+        "start": 156.26,
+        "end": 156.475,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "it,",
+        "start": 156.475,
+        "end": 156.637,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 156.647,
+        "end": 156.798,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "could",
+        "start": 156.798,
+        "end": 157.067,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "have",
+        "start": 157.067,
+        "end": 157.282,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 157.282,
+        "end": 157.39,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 155.46,
+    "end": 157.39
+  },
+  {
+    "text": "But it take time",
+    "startTime": 157.39,
+    "endTime": 159.24,
+    "words": [
+      {
+        "word": "But",
+        "start": 157.39,
+        "end": 157.817,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 157.817,
+        "end": 158.102,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "take",
+        "start": 158.102,
+        "end": 158.671,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 158.671,
+        "end": 159.24,
+        "sung": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 157.39,
+    "end": 159.24
+  },
+  {
+    "text": "Posted with my G's",
+    "startTime": 159.68,
+    "endTime": 161.93,
+    "words": [
+      {
+        "word": "Posted",
+        "start": 159.68,
+        "end": 160.58,
+        "char_starts": [
+          159.68,
+          159.77,
+          159.893,
+          160.039,
+          160.204,
+          160.384
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 160.58,
+        "end": 161.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 161.18,
+        "end": 161.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "G's",
+        "start": 161.48,
+        "end": 161.93,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 159.68,
+    "end": 161.93
+  },
+  {
+    "text": "(posted with my G's)",
+    "startTime": 161.93,
+    "endTime": 164.48,
+    "words": [
+      {
+        "word": "(posted",
+        "start": 161.93,
+        "end": 162.98,
+        "char_starts": [
+          161.93,
+          162.02,
+          162.132,
+          162.265,
+          162.416,
+          162.579,
+          162.755
+        ],
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 162.98,
+        "end": 163.58,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 163.58,
+        "end": 163.88,
+        "adlib": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "G's)",
+        "start": 163.88,
+        "end": 164.48,
+        "adlib": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 161.93,
+    "end": 164.48
+  },
+  {
+    "text": "Just last week bumping Gucci",
+    "startTime": 165.54,
+    "endTime": 167.67,
+    "words": [
+      {
+        "word": "Just",
+        "start": 165.54,
+        "end": 165.895,
+        "singer": "singer1"
+      },
+      {
+        "word": "last",
+        "start": 165.895,
+        "end": 166.25,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "week",
+        "start": 166.25,
+        "end": 166.605,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bumping",
+        "start": 166.605,
+        "end": 167.226,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Gucci",
+        "start": 167.226,
+        "end": 167.67,
+        "singer": "singer1"
+      }
+    ],
+    "time": 165.54,
+    "end": 167.67
+  },
+  {
+    "text": "Used to roll off beans",
+    "startTime": 167.67,
+    "endTime": 169.759,
+    "words": [
+      {
+        "word": "Used",
+        "start": 167.67,
+        "end": 168.134,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 168.134,
+        "end": 168.366,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "roll",
+        "start": 168.366,
+        "end": 168.831,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "off",
+        "start": 168.831,
+        "end": 169.179,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "beans",
+        "start": 169.179,
+        "end": 169.759,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 167.67,
+    "end": 169.759
+  },
+  {
+    "text": "(used to roll off beans)",
+    "startTime": 169.759,
+    "endTime": 172.08,
+    "words": [
+      {
+        "word": "(used",
+        "start": 169.759,
+        "end": 170.339,
+        "adlib": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 170.339,
+        "end": 170.571,
+        "adlib": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "roll",
+        "start": 170.571,
+        "end": 171.036,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "off",
+        "start": 171.036,
+        "end": 171.384,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "beans)",
+        "start": 171.384,
+        "end": 172.08,
+        "char_starts": [
+          171.384,
+          171.454,
+          171.549,
+          171.662,
+          171.79,
+          171.929
+        ],
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 169.759,
+    "end": 172.08
+  },
+  {
+    "text": "Now we smoking weed with no Visine",
+    "startTime": 174.26,
+    "endTime": 175.78,
+    "words": [
+      {
+        "word": "Now",
+        "start": 174.26,
+        "end": 174.423,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "we",
+        "start": 174.423,
+        "end": 174.531,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "smoking",
+        "start": 174.531,
+        "end": 174.911,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "weed",
+        "start": 174.911,
+        "end": 175.129,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 175.129,
+        "end": 175.346,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "no",
+        "start": 175.346,
+        "end": 175.454,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Visine",
+        "start": 175.454,
+        "end": 175.78,
+        "singer": "singer1"
+      }
+    ],
+    "time": 174.26,
+    "end": 175.78
+  },
+  {
+    "text": "Posted with my G's",
+    "startTime": 176.02,
+    "endTime": 178.167,
+    "words": [
+      {
+        "word": "Posted",
+        "start": 176.02,
+        "end": 176.879,
+        "char_starts": [
+          176.02,
+          176.106,
+          176.223,
+          176.363,
+          176.521,
+          176.693
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 176.879,
+        "end": 177.451,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 177.451,
+        "end": 177.737,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "G's",
+        "start": 177.737,
+        "end": 178.167,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 176.02,
+    "end": 178.167
+  },
+  {
+    "text": "(posted with my G's)",
+    "startTime": 178.167,
+    "endTime": 180.6,
+    "words": [
+      {
+        "word": "(posted",
+        "start": 178.167,
+        "end": 179.169,
+        "char_starts": [
+          178.167,
+          178.253,
+          178.359,
+          178.487,
+          178.63,
+          178.786,
+          178.954
+        ],
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 179.169,
+        "end": 179.741,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 179.741,
+        "end": 180.027,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "G's)",
+        "start": 180.027,
+        "end": 180.6,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 178.167,
+    "end": 180.6
+  },
+  {
+    "text": "Just last week bumping Gucci",
+    "startTime": 181.06,
+    "endTime": 183.63,
+    "words": [
+      {
+        "word": "Just",
+        "start": 181.06,
+        "end": 181.488,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "last",
+        "start": 181.488,
+        "end": 181.917,
+        "singer": "singer1"
+      },
+      {
+        "word": "week",
+        "start": 181.917,
+        "end": 182.345,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bumping",
+        "start": 182.345,
+        "end": 183.095,
+        "char_starts": [
+          182.345,
+          182.409,
+          182.489,
+          182.584,
+          182.691,
+          182.808,
+          182.933
+        ],
+        "singer": "singer1"
+      },
+      {
+        "word": "Gucci",
+        "start": 183.095,
+        "end": 183.63,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 181.06,
+    "end": 183.63
+  },
+  {
+    "text": "Used to roll off beans",
+    "startTime": 183.63,
+    "endTime": 186.065,
+    "words": [
+      {
+        "word": "Used",
+        "start": 183.63,
+        "end": 184.171,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 184.171,
+        "end": 184.442,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "roll",
+        "start": 184.442,
+        "end": 184.983,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "off",
+        "start": 184.983,
+        "end": 185.388,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "beans",
+        "start": 185.388,
+        "end": 186.065,
+        "char_starts": [
+          185.388,
+          185.469,
+          185.595,
+          185.746,
+          185.916
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 183.63,
+    "end": 186.065
+  },
+  {
+    "text": "(used to roll off beans)",
+    "startTime": 186.065,
+    "endTime": 188.77,
+    "words": [
+      {
+        "word": "(used",
+        "start": 186.065,
+        "end": 186.741,
+        "char_starts": [
+          186.065,
+          186.146,
+          186.272,
+          186.423,
+          186.592
+        ],
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 186.741,
+        "end": 187.012,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "roll",
+        "start": 187.012,
+        "end": 187.553,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "off",
+        "start": 187.553,
+        "end": 187.958,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "beans)",
+        "start": 187.958,
+        "end": 188.77,
+        "char_starts": [
+          187.958,
+          188.039,
+          188.15,
+          188.283,
+          188.432,
+          188.594
+        ],
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 186.065,
+    "end": 188.77
+  },
+  {
+    "text": "Now we smoke weed with no Visine",
+    "startTime": 189.46,
+    "endTime": 191.76,
+    "words": [
+      {
+        "word": "Now",
+        "start": 189.46,
+        "end": 189.725,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "we",
+        "start": 189.725,
+        "end": 189.902,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "smoke",
+        "start": 189.902,
+        "end": 190.345,
+        "singer": "singer1"
+      },
+      {
+        "word": "weed",
+        "start": 190.345,
+        "end": 190.698,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 190.698,
+        "end": 191.052,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "no",
+        "start": 191.052,
+        "end": 191.229,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Visine",
+        "start": 191.229,
+        "end": 191.76,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 189.46,
+    "end": 191.76
+  },
+  {
+    "text": "(Purple on my lean)",
+    "startTime": 191.76,
+    "endTime": 194.16,
+    "words": [
+      {
+        "word": "(Purple",
+        "start": 191.76,
+        "end": 192.81,
+        "char_starts": [
+          191.76,
+          191.85,
+          191.94,
+          192.052,
+          192.188,
+          192.345,
+          192.52
+        ],
+        "adlib": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 192.81,
+        "end": 193.11,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 193.11,
+        "end": 193.41,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lean)",
+        "start": 193.41,
+        "end": 194.16,
+        "char_starts": [
+          193.41,
+          193.5,
+          193.639,
+          193.807,
+          193.995
+        ],
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 191.76,
+    "end": 194.16
+  },
+  {
+    "text": "Visine",
+    "startTime": 195.3,
+    "endTime": 195.91,
+    "words": [
+      {
+        "word": "Visine",
+        "start": 195.3,
+        "end": 195.91,
+        "singer": "singer1"
+      }
+    ],
+    "time": 195.3,
+    "end": 195.91
+  },
+  {
+    "text": "(Purple on my lean)",
+    "startTime": 195.91,
+    "endTime": 196.94,
+    "words": [
+      {
+        "word": "(Purple",
+        "start": 195.91,
+        "end": 196.361,
+        "adlib": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 196.361,
+        "end": 196.489,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 196.489,
+        "end": 196.618,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lean)",
+        "start": 196.618,
+        "end": 196.94,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 195.91,
+    "end": 196.94
+  },
+  {
+    "text": "Now we smoking weed with no Visine",
+    "startTime": 197.88,
+    "endTime": 199.72,
+    "words": [
+      {
+        "word": "Now",
+        "start": 197.88,
+        "end": 198.077,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "we",
+        "start": 198.077,
+        "end": 198.209,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "smoking",
+        "start": 198.209,
+        "end": 198.669,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "weed",
+        "start": 198.669,
+        "end": 198.931,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 198.931,
+        "end": 199.194,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "no",
+        "start": 199.194,
+        "end": 199.326,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Visine",
+        "start": 199.326,
+        "end": 199.72,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 197.88,
+    "end": 199.72
+  },
+  {
+    "text": "(Purple on my lean)",
+    "startTime": 199.72,
+    "endTime": 202.12,
+    "words": [
+      {
+        "word": "(Purple",
+        "start": 199.72,
+        "end": 200.77,
+        "char_starts": [
+          199.72,
+          199.81,
+          199.9,
+          200.012,
+          200.148,
+          200.305,
+          200.48
+        ],
+        "adlib": true,
+        "sung": true,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 200.77,
+        "end": 201.07,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 201.07,
+        "end": 201.37,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lean)",
+        "start": 201.37,
+        "end": 202.12,
+        "char_starts": [
+          201.37,
+          201.46,
+          201.599,
+          201.767,
+          201.955
+        ],
+        "adlib": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 199.72,
+    "end": 202.12
+  },
+  {
+    "text": "With no Visine",
+    "startTime": 202.17,
+    "endTime": 203.61,
+    "words": [
+      {
+        "word": "With",
+        "start": 202.17,
+        "end": 202.65,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "no",
+        "start": 202.65,
+        "end": 202.89,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Visine",
+        "start": 202.89,
+        "end": 203.61,
+        "char_starts": [
+          202.89,
+          202.962,
+          203.039,
+          203.142,
+          203.266,
+          203.409
+        ],
+        "singer": "singer1"
+      }
+    ],
+    "time": 202.17,
+    "end": 203.61
+  },
+  {
+    "text": "(Purple on my lean)",
+    "startTime": 203.61,
+    "endTime": 204.95,
+    "words": [
+      {
+        "word": "(Purple",
+        "start": 203.61,
+        "end": 204.196,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 204.196,
+        "end": 204.364,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 204.364,
+        "end": 204.531,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lean)",
+        "start": 204.531,
+        "end": 204.95,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 203.61,
+    "end": 204.95
+  },
+  {
+    "text": "Now we smoke weed with no Visine",
+    "startTime": 204.95,
+    "endTime": 207.78,
+    "words": [
+      {
+        "word": "Now",
+        "start": 204.95,
+        "end": 205.277,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "we",
+        "start": 205.277,
+        "end": 205.494,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "smoke",
+        "start": 205.494,
+        "end": 206.038,
+        "singer": "singer1"
+      },
+      {
+        "word": "weed",
+        "start": 206.038,
+        "end": 206.474,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 206.474,
+        "end": 206.909,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "no",
+        "start": 206.909,
+        "end": 207.127,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Visine",
+        "start": 207.127,
+        "end": 207.78,
+        "char_starts": [
+          207.127,
+          207.192,
+          207.262,
+          207.355,
+          207.468,
+          207.598
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 204.95,
+    "end": 207.78
+  },
+  {
+    "text": "Posted with my G's",
+    "startTime": 208.78,
+    "endTime": 211.03,
+    "words": [
+      {
+        "word": "Posted",
+        "start": 208.78,
+        "end": 209.68,
+        "char_starts": [
+          208.78,
+          208.87,
+          208.993,
+          209.139,
+          209.304,
+          209.484
+        ],
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 209.68,
+        "end": 210.28,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 210.28,
+        "end": 210.58,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "G's",
+        "start": 210.58,
+        "end": 211.03,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 208.78,
+    "end": 211.03
+  },
+  {
+    "text": "Just last week bumping Gucci",
+    "startTime": 212.53,
+    "endTime": 215.79,
+    "words": [
+      {
+        "word": "Just",
+        "start": 212.53,
+        "end": 213.073,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "last",
+        "start": 213.073,
+        "end": 213.617,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "week",
+        "start": 213.617,
+        "end": 214.16,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bumping",
+        "start": 214.16,
+        "end": 215.111,
+        "char_starts": [
+          214.16,
+          214.242,
+          214.343,
+          214.464,
+          214.6,
+          214.748,
+          214.907
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Gucci",
+        "start": 215.111,
+        "end": 215.79,
+        "char_starts": [
+          215.111,
+          215.192,
+          215.295,
+          215.432,
+          215.598
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 212.53,
+    "end": 215.79
+  },
+  {
+    "text": "Used to roll off beans",
+    "startTime": 215.88,
+    "endTime": 218.58,
+    "words": [
+      {
+        "word": "Used",
+        "start": 215.88,
+        "end": 216.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 216.48,
+        "end": 216.78,
+        "singer": "singer1"
+      },
+      {
+        "word": "roll",
+        "start": 216.78,
+        "end": 217.38,
+        "singer": "singer1"
+      },
+      {
+        "word": "off",
+        "start": 217.38,
+        "end": 217.83,
+        "singer": "singer1"
+      },
+      {
+        "word": "beans",
+        "start": 217.83,
+        "end": 218.58,
+        "char_starts": [
+          217.83,
+          217.92,
+          218.059,
+          218.227,
+          218.415
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 215.88,
+    "end": 218.58
+  },
+  {
+    "text": "Now we smoke weed with no Visine",
+    "startTime": 220.7,
+    "endTime": 224.6,
+    "words": [
+      {
+        "word": "Now",
+        "start": 220.7,
+        "end": 221.15,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "we",
+        "start": 221.15,
+        "end": 221.45,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "smoke",
+        "start": 221.45,
+        "end": 222.2,
+        "char_starts": [
+          221.45,
+          221.54,
+          221.653,
+          221.804,
+          221.988
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "weed",
+        "start": 222.2,
+        "end": 222.8,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 222.8,
+        "end": 223.4,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "no",
+        "start": 223.4,
+        "end": 223.7,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Visine",
+        "start": 223.7,
+        "end": 224.6,
+        "char_starts": [
+          223.7,
+          223.79,
+          223.886,
+          224.015,
+          224.17,
+          224.349
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 220.7,
+    "end": 224.6
+  },
+  {
+    "text": "Visine",
+    "startTime": 226.86,
+    "endTime": 227.76,
+    "words": [
+      {
+        "word": "Visine",
+        "start": 226.86,
+        "end": 227.76,
+        "char_starts": [
+          226.86,
+          226.95,
+          227.046,
+          227.175,
+          227.33,
+          227.509
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 226.86,
+    "end": 227.76
+  },
+  {
+    "text": "Now we smoking weed with no Visine",
+    "startTime": 229.26,
+    "endTime": 233.46,
+    "words": [
+      {
+        "word": "Now",
+        "start": 229.26,
+        "end": 229.71,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "we",
+        "start": 229.71,
+        "end": 230.01,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "smoking",
+        "start": 230.01,
+        "end": 231.06,
+        "char_starts": [
+          230.01,
+          230.1,
+          230.212,
+          230.345,
+          230.496,
+          230.659,
+          230.835
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "weed",
+        "start": 231.06,
+        "end": 231.66,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 231.66,
+        "end": 232.26,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "no",
+        "start": 232.26,
+        "end": 232.56,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Visine",
+        "start": 232.56,
+        "end": 233.46,
+        "char_starts": [
+          232.56,
+          232.65,
+          232.746,
+          232.875,
+          233.03,
+          233.209
+        ],
+        "whisper": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 229.26,
+    "end": 233.46
+  },
+  {
+    "text": "With no Visine",
+    "startTime": 234.38,
+    "endTime": 236.18,
+    "words": [
+      {
+        "word": "With",
+        "start": 234.38,
+        "end": 234.98,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "no",
+        "start": 234.98,
+        "end": 235.28,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Visine",
+        "start": 235.28,
+        "end": 236.18,
+        "char_starts": [
+          235.28,
+          235.37,
+          235.466,
+          235.595,
+          235.75,
+          235.929
+        ],
+        "whisper": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 234.38,
+    "end": 236.18
+  },
+  {
+    "text": "Now we smoking weed with no Visine",
+    "startTime": 237.0,
+    "endTime": 241.2,
+    "words": [
+      {
+        "word": "Now",
+        "start": 237.0,
+        "end": 237.45,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "we",
+        "start": 237.45,
+        "end": 237.75,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "smoking",
+        "start": 237.75,
+        "end": 238.8,
+        "char_starts": [
+          237.75,
+          237.84,
+          237.952,
+          238.085,
+          238.236,
+          238.399,
+          238.575
+        ],
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "weed",
+        "start": 238.8,
+        "end": 239.4,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "with",
+        "start": 239.4,
+        "end": 240.0,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "no",
+        "start": 240.0,
+        "end": 240.3,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Visine",
+        "start": 240.3,
+        "end": 241.2,
+        "char_starts": [
+          240.3,
+          240.39,
+          240.486,
+          240.615,
+          240.77,
+          240.949
+        ],
+        "whisper": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 237.0,
+    "end": 241.2
+  }
+]

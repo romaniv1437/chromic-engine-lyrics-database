@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T18:29:23.729598+00:00",
-  "totalTracks": 797,
+  "generatedAt": "2026-07-10T18:56:29.033709+00:00",
+  "totalTracks": 798,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11201,6 +11201,20 @@
       },
       "sourcePath": "https://soundcloud.com/gothboiclique/lil-peep-lil-tracy-pass-the-castle-walls-prod-charlie-shuffler",
       "mtimeMs": 1783708168184
+    },
+    "mackned::black jeep w/ lil peep x coldhart (prod. by captaincrunch x betteroffdead)": {
+      "title": "BLACK JEEP w/ lil peep x coldhart (PROD. BY CAPTAINCRUNCH X BETTEROFFDEAD)",
+      "artist": "Mackned",
+      "originalTrackName": "Mackned - BLACK JEEP w/ lil peep x coldhart (PROD. BY CAPTAINCRUNCH X BETTEROFFDEAD)",
+      "source": "whisper_only",
+      "file": "tracks/mackned-black-jeep-w-lil-peep-x-coldhart-prod-by-captaincrunch-x-bette-b5586f49b139.json",
+      "files": {
+        "lyrics": "tracks/mackned-black-jeep-w-lil-peep-x-coldhart-prod-by-captaincrunch-x-bette-b5586f49b139.json",
+        "meta": "tracks/mackned-black-jeep-w-lil-peep-x-coldhart-prod-by-captaincrunch-x-bette-b5586f49b139.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/mackned/black-jeep-w-lil-peep-x-coldhart",
+      "mtimeMs": 1783709793421
     }
   },
   "tracks": [
@@ -22419,6 +22433,20 @@
       },
       "sourcePath": "https://soundcloud.com/gothboiclique/lil-peep-lil-tracy-pass-the-castle-walls-prod-charlie-shuffler",
       "mtimeMs": 1783708168184
+    },
+    {
+      "title": "BLACK JEEP w/ lil peep x coldhart (PROD. BY CAPTAINCRUNCH X BETTEROFFDEAD)",
+      "artist": "Mackned",
+      "originalTrackName": "Mackned - BLACK JEEP w/ lil peep x coldhart (PROD. BY CAPTAINCRUNCH X BETTEROFFDEAD)",
+      "source": "whisper_only",
+      "file": "tracks/mackned-black-jeep-w-lil-peep-x-coldhart-prod-by-captaincrunch-x-bette-b5586f49b139.json",
+      "files": {
+        "lyrics": "tracks/mackned-black-jeep-w-lil-peep-x-coldhart-prod-by-captaincrunch-x-bette-b5586f49b139.json",
+        "meta": "tracks/mackned-black-jeep-w-lil-peep-x-coldhart-prod-by-captaincrunch-x-bette-b5586f49b139.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/mackned/black-jeep-w-lil-peep-x-coldhart",
+      "mtimeMs": 1783709793421
     }
   ]
 }

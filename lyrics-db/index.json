@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T12:00:41.090581+00:00",
-  "totalTracks": 795,
+  "generatedAt": "2026-07-10T18:28:46.390506+00:00",
+  "totalTracks": 796,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11173,6 +11173,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-496349888/uicideboy-bingo-zuccenberg",
       "mtimeMs": 1783684846195
+    },
+    "the groove::addicted": {
+      "title": "Addicted",
+      "artist": "The Groove",
+      "originalTrackName": "The Groove - Addicted",
+      "source": "whisper_only",
+      "file": "tracks/the-groove-addicted-63aabdda6d05.json",
+      "files": {
+        "lyrics": "tracks/the-groove-addicted-63aabdda6d05.json",
+        "meta": "tracks/the-groove-addicted-63aabdda6d05.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/the-groove-119812741/addicted-4",
+      "mtimeMs": 1783708127796
     }
   },
   "tracks": [
@@ -22363,6 +22377,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-496349888/uicideboy-bingo-zuccenberg",
       "mtimeMs": 1783684846195
+    },
+    {
+      "title": "Addicted",
+      "artist": "The Groove",
+      "originalTrackName": "The Groove - Addicted",
+      "source": "whisper_only",
+      "file": "tracks/the-groove-addicted-63aabdda6d05.json",
+      "files": {
+        "lyrics": "tracks/the-groove-addicted-63aabdda6d05.json",
+        "meta": "tracks/the-groove-addicted-63aabdda6d05.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/the-groove-119812741/addicted-4",
+      "mtimeMs": 1783708127796
     }
   ]
 }

@@ -1,0 +1,660 @@
+[
+  {
+    "text": "We could run away",
+    "startTime": 65.25,
+    "endTime": 67.97,
+    "words": [
+      {
+        "word": "We",
+        "start": 65.25,
+        "end": 65.91,
+        "singer": "singer2"
+      },
+      {
+        "word": "could",
+        "start": 66.182,
+        "end": 66.31,
+        "singer": "singer2"
+      },
+      {
+        "word": "run",
+        "start": 66.366,
+        "end": 67.81,
+        "char_starts": [
+          66.366,
+          66.655,
+          66.944
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "away",
+        "start": 67.82,
+        "end": 67.97,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 65.25,
+    "end": 67.97
+  },
+  {
+    "text": "If you had to wait, would you stick around?",
+    "startTime": 70.51,
+    "endTime": 75.69,
+    "words": [
+      {
+        "word": "If",
+        "start": 70.51,
+        "end": 71.35,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 71.36,
+        "end": 71.81,
+        "singer": "singer1"
+      },
+      {
+        "word": "had",
+        "start": 71.913,
+        "end": 72.15,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 72.16,
+        "end": 72.61,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wait,",
+        "start": 72.62,
+        "end": 73.61,
+        "char_starts": [
+          72.62,
+          72.739,
+          72.945,
+          73.2,
+          73.491
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "would",
+        "start": 74.01,
+        "end": 74.17,
+        "singer": "singer2"
+      },
+      {
+        "word": "you",
+        "start": 74.18,
+        "end": 74.61,
+        "singer": "singer2"
+      },
+      {
+        "word": "stick",
+        "start": 74.62,
+        "end": 74.97,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "around?",
+        "start": 74.98,
+        "end": 75.69,
+        "char_starts": [
+          74.98,
+          75.041,
+          75.125,
+          75.229,
+          75.349,
+          75.484,
+          75.63
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 70.51,
+    "end": 75.69
+  },
+  {
+    "text": "We are not the same",
+    "startTime": 75.91,
+    "endTime": 78.45,
+    "words": [
+      {
+        "word": "We",
+        "start": 75.994,
+        "end": 76.05,
+        "singer": "singer1"
+      },
+      {
+        "word": "are",
+        "start": 76.06,
+        "end": 76.53,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "not",
+        "start": 76.54,
+        "end": 76.83,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 77.146,
+        "end": 77.35,
+        "char_starts": [
+          77.146,
+          77.204,
+          77.309
+        ],
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "same",
+        "start": 77.406,
+        "end": 78.45,
+        "char_starts": [
+          77.406,
+          77.58,
+          77.888,
+          78.293
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 75.91,
+    "end": 78.45
+  },
+  {
+    "text": "If you couldn't tell",
+    "startTime": 78.78,
+    "endTime": 80.65,
+    "words": [
+      {
+        "word": "If",
+        "start": 78.944,
+        "end": 79.054,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 79.203,
+        "end": 79.57,
+        "char_starts": [
+          79.203,
+          79.308,
+          79.496
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "couldn't",
+        "start": 79.58,
+        "end": 80.13,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "tell",
+        "start": 80.14,
+        "end": 80.65,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 78.78,
+    "end": 80.65
+  },
+  {
+    "text": "It's just another day",
+    "startTime": 81.37,
+    "endTime": 81.8,
+    "words": [
+      {
+        "word": "It's",
+        "start": 81.43,
+        "end": 81.47,
+        "singer": "singer2"
+      },
+      {
+        "word": "just",
+        "start": 81.48,
+        "end": 81.58,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "another",
+        "start": 81.59,
+        "end": 81.69,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "day",
+        "start": 81.7,
+        "end": 81.8,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 81.37,
+    "end": 81.8
+  },
+  {
+    "text": "In this Little town",
+    "startTime": 84.31,
+    "endTime": 84.74,
+    "words": [
+      {
+        "word": "In",
+        "start": 84.31,
+        "end": 84.41,
+        "singer": "singer2"
+      },
+      {
+        "word": "this",
+        "start": 84.42,
+        "end": 84.52,
+        "singer": "singer2"
+      },
+      {
+        "word": "Little",
+        "start": 84.53,
+        "end": 84.63,
+        "singer": "singer2"
+      },
+      {
+        "word": "town",
+        "start": 84.64,
+        "end": 84.74,
+        "singer": "singer2"
+      }
+    ],
+    "time": 84.31,
+    "end": 84.74
+  },
+  {
+    "text": "We could run away",
+    "startTime": 86.97,
+    "endTime": 87.4,
+    "words": [
+      {
+        "word": "We",
+        "start": 87.03,
+        "end": 87.07,
+        "singer": "singer1"
+      },
+      {
+        "word": "could",
+        "start": 87.08,
+        "end": 87.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 87.19,
+        "end": 87.29,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "away",
+        "start": 87.3,
+        "end": 87.4,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 86.97,
+    "end": 87.4
+  },
+  {
+    "text": "Leave this little town",
+    "startTime": 89.93,
+    "endTime": 90.36,
+    "words": [
+      {
+        "word": "Leave",
+        "start": 89.93,
+        "end": 90.03,
+        "singer": "singer1"
+      },
+      {
+        "word": "this",
+        "start": 90.04,
+        "end": 90.14,
+        "singer": "singer1"
+      },
+      {
+        "word": "little",
+        "start": 90.15,
+        "end": 90.25,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "town",
+        "start": 90.26,
+        "end": 90.36,
+        "singer": "singer1"
+      }
+    ],
+    "time": 89.93,
+    "end": 90.36
+  },
+  {
+    "text": "If you had to wait, would you stick around?",
+    "startTime": 92.43,
+    "endTime": 93.41,
+    "words": [
+      {
+        "word": "If",
+        "start": 92.49,
+        "end": 92.53,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 92.54,
+        "end": 92.64,
+        "singer": "singer1"
+      },
+      {
+        "word": "had",
+        "start": 92.65,
+        "end": 92.75,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 92.76,
+        "end": 92.86,
+        "singer": "singer1"
+      },
+      {
+        "word": "wait,",
+        "start": 92.87,
+        "end": 92.97,
+        "singer": "singer1"
+      },
+      {
+        "word": "would",
+        "start": 92.98,
+        "end": 93.08,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 93.09,
+        "end": 93.19,
+        "singer": "singer1"
+      },
+      {
+        "word": "stick",
+        "start": 93.2,
+        "end": 93.3,
+        "singer": "singer1"
+      },
+      {
+        "word": "around?",
+        "start": 93.31,
+        "end": 93.41,
+        "singer": "singer1"
+      }
+    ],
+    "time": 92.43,
+    "end": 93.41
+  },
+  {
+    "text": "We are not the same",
+    "startTime": 97.95,
+    "endTime": 98.49,
+    "words": [
+      {
+        "word": "We",
+        "start": 98.01,
+        "end": 98.05,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "are",
+        "start": 98.06,
+        "end": 98.16,
+        "singer": "singer1"
+      },
+      {
+        "word": "not",
+        "start": 98.17,
+        "end": 98.27,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 98.28,
+        "end": 98.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "same",
+        "start": 98.39,
+        "end": 98.49,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 97.95,
+    "end": 98.49
+  },
+  {
+    "text": "If you couldn't tell",
+    "startTime": 100.7,
+    "endTime": 101.13,
+    "words": [
+      {
+        "word": "If",
+        "start": 100.7,
+        "end": 100.8,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 100.81,
+        "end": 100.91,
+        "singer": "singer1"
+      },
+      {
+        "word": "couldn't",
+        "start": 100.92,
+        "end": 101.02,
+        "singer": "singer2"
+      },
+      {
+        "word": "tell",
+        "start": 101.03,
+        "end": 101.13,
+        "singer": "singer1"
+      }
+    ],
+    "time": 100.7,
+    "end": 101.13
+  },
+  {
+    "text": "It's just another day",
+    "startTime": 103.34,
+    "endTime": 103.77,
+    "words": [
+      {
+        "word": "It's",
+        "start": 103.34,
+        "end": 103.44,
+        "singer": "singer1"
+      },
+      {
+        "word": "just",
+        "start": 103.45,
+        "end": 103.55,
+        "singer": "singer2"
+      },
+      {
+        "word": "another",
+        "start": 103.56,
+        "end": 103.66,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "day",
+        "start": 103.67,
+        "end": 103.77,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 103.34,
+    "end": 103.77
+  },
+  {
+    "text": "In this Little town",
+    "startTime": 106.99,
+    "endTime": 108.68,
+    "words": [
+      {
+        "word": "In",
+        "start": 106.99,
+        "end": 107.09,
+        "singer": "singer1"
+      },
+      {
+        "word": "this",
+        "start": 107.1,
+        "end": 107.42,
+        "singer": "singer1"
+      },
+      {
+        "word": "Little",
+        "start": 107.5,
+        "end": 107.78,
+        "singer": "singer1"
+      },
+      {
+        "word": "town",
+        "start": 107.79,
+        "end": 108.68,
+        "char_starts": [
+          107.79,
+          107.948,
+          108.192,
+          108.484
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 106.99,
+    "end": 108.68
+  },
+  {
+    "text": "Leave this little town",
+    "startTime": 109.06,
+    "endTime": 111.18,
+    "words": [
+      {
+        "word": "Leave",
+        "start": 109.106,
+        "end": 109.52,
+        "char_starts": [
+          109.106,
+          109.156,
+          109.206,
+          109.256,
+          109.315
+        ],
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "this",
+        "start": 109.53,
+        "end": 110.12,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "little",
+        "start": 110.34,
+        "end": 110.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "town",
+        "start": 110.49,
+        "end": 111.18,
+        "char_starts": [
+          110.49,
+          110.612,
+          110.801,
+          111.028
+        ],
+        "singer": "singer2"
+      }
+    ],
+    "time": 109.06,
+    "end": 111.18
+  },
+  {
+    "text": "Leave this little town",
+    "startTime": 121.48,
+    "endTime": 122.39,
+    "words": [
+      {
+        "word": "Leave",
+        "start": 121.48,
+        "end": 121.63,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "this",
+        "start": 121.68,
+        "end": 121.83,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "little",
+        "start": 121.88,
+        "end": 122.28,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "town",
+        "start": 122.29,
+        "end": 122.39,
+        "whisper": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 121.48,
+    "end": 122.39
+  }
+]

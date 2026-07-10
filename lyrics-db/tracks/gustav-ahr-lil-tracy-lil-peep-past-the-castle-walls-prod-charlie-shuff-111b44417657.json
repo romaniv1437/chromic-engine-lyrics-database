@@ -76,7 +76,7 @@
       {
         "word": "for",
         "start": 25.68,
-        "end": 26.0,
+        "end": 26,
         "spoken": true,
         "singer": "singer2"
       },
@@ -158,7 +158,7 @@
       {
         "word": "inside",
         "start": 32.28,
-        "end": 33.0,
+        "end": 33,
         "char_starts": [
           32.28,
           32.352,
@@ -172,7 +172,7 @@
       },
       {
         "word": "of",
-        "start": 33.0,
+        "start": 33,
         "end": 33.34,
         "singer": "singer2"
       },
@@ -1090,7 +1090,7 @@
   {
     "text": "My face tatted up, baby, I don't give a fuck",
     "startTime": 83.92,
-    "endTime": 87.0,
+    "endTime": 87,
     "words": [
       {
         "word": "My",
@@ -1107,7 +1107,7 @@
       {
         "word": "tatted",
         "start": 84.67,
-        "end": 85.0,
+        "end": 85,
         "singer": "singer1"
       },
       {
@@ -1149,12 +1149,12 @@
       {
         "word": "fuck",
         "start": 86.806,
-        "end": 87.0,
+        "end": 87,
         "singer": "singer1"
       }
     ],
     "time": 83.92,
-    "end": 87.0
+    "end": 87
   },
   {
     "text": "Back of the club, switchblade tucked",
@@ -1451,12 +1451,12 @@
   },
   {
     "text": "I'll be right there, for you",
-    "startTime": 102.0,
+    "startTime": 102,
     "endTime": 104.1,
     "words": [
       {
         "word": "I'll",
-        "start": 102.0,
+        "start": 102,
         "end": 102.36,
         "spoken": true,
         "singer": "singer2"
@@ -1492,19 +1492,19 @@
       {
         "word": "for",
         "start": 103.904,
-        "end": 104.0,
+        "end": 104,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "you",
-        "start": 104.0,
+        "start": 104,
         "end": 104.1,
         "spoken": true,
         "singer": "singer2"
       }
     ],
-    "time": 102.0,
+    "time": 102,
     "end": 104.1
   },
   {
@@ -1712,13 +1712,13 @@
       {
         "word": "the",
         "start": 113.77,
-        "end": 114.0,
+        "end": 114,
         "sung": true,
         "singer": "singer1"
       },
       {
         "word": "champagne",
-        "start": 114.0,
+        "start": 114,
         "end": 114.58,
         "spoken": true,
         "singer": "singer1"
@@ -1805,7 +1805,7 @@
         "char_starts": [
           118.65,
           118.766,
-          119.0
+          119
         ],
         "sung": true,
         "singer": "singer2",
@@ -1830,7 +1830,7 @@
       {
         "word": "just",
         "start": 122.62,
-        "end": 123.0,
+        "end": 123,
         "spoken": true,
         "singer": "singer2"
       },
@@ -2028,12 +2028,12 @@
       {
         "word": "what",
         "start": 136.74,
-        "end": 137.0,
+        "end": 137,
         "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 137.0,
+        "start": 137,
         "end": 137.42,
         "singer": "singer1"
       },
@@ -2050,7 +2050,7 @@
   {
     "text": "Past the castle walls, I hear you callin' for me",
     "startTime": 139.16,
-    "endTime": 144.0,
+    "endTime": 144,
     "words": [
       {
         "word": "Past",
@@ -2128,12 +2128,12 @@
       {
         "word": "me",
         "start": 143.586,
-        "end": 144.0,
+        "end": 144,
         "singer": "singer2"
       }
     ],
     "time": 139.16,
-    "end": 144.0
+    "end": 144
   },
   {
     "text": "Maybe, after all, I fear you're wantin' more of me",
@@ -2254,7 +2254,7 @@
       {
         "word": "the",
         "start": 151.5,
-        "end": 152.0,
+        "end": 152,
         "char_starts": [
           151.5,
           151.615,
@@ -2264,7 +2264,7 @@
       },
       {
         "word": "castle",
-        "start": 152.0,
+        "start": 152,
         "end": 152.48,
         "singer": "singer1"
       },

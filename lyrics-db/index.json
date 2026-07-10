@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T22:39:08.660089+00:00",
-  "totalTracks": 809,
+  "generatedAt": "2026-07-10T22:39:31.444242+00:00",
+  "totalTracks": 810,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11369,6 +11369,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-672083680/lil-peep-dead-money-unreleased-rip-lilpeep",
       "mtimeMs": 1783723149609
+    },
+    "willlate::hunterr": {
+      "title": "HUNTERR",
+      "artist": "willlate",
+      "originalTrackName": "willlate - HUNTERR",
+      "source": "syncedlyrics",
+      "file": "tracks/willlate-hunterr-c808174e6b99.json",
+      "files": {
+        "lyrics": "tracks/willlate-hunterr-c808174e6b99.json",
+        "meta": "tracks/willlate-hunterr-c808174e6b99.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/willlate/hunterr",
+      "mtimeMs": 1783723172292
     }
   },
   "tracks": [
@@ -22755,6 +22769,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-672083680/lil-peep-dead-money-unreleased-rip-lilpeep",
       "mtimeMs": 1783723149609
+    },
+    {
+      "title": "HUNTERR",
+      "artist": "willlate",
+      "originalTrackName": "willlate - HUNTERR",
+      "source": "syncedlyrics",
+      "file": "tracks/willlate-hunterr-c808174e6b99.json",
+      "files": {
+        "lyrics": "tracks/willlate-hunterr-c808174e6b99.json",
+        "meta": "tracks/willlate-hunterr-c808174e6b99.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/willlate/hunterr",
+      "mtimeMs": 1783723172292
     }
   ]
 }

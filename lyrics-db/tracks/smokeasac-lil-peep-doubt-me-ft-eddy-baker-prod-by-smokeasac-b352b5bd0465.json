@@ -215,18 +215,18 @@
   },
   {
     "text": "Look at my outfit, somebody count me",
-    "startTime": 41.0,
+    "startTime": 41,
     "endTime": 44.22,
     "words": [
       {
         "word": "Look",
-        "start": 41.0,
-        "end": 41.0,
+        "start": 41,
+        "end": 41,
         "singer": "singer1"
       },
       {
         "word": "at",
-        "start": 41.0,
+        "start": 41,
         "end": 41.2,
         "singer": "singer1"
       },
@@ -266,7 +266,7 @@
         "singer": "singer1"
       }
     ],
-    "time": 41.0,
+    "time": 41,
     "end": 44.22
   },
   {
@@ -516,14 +516,14 @@
       {
         "word": "I",
         "start": 55.78,
-        "end": 56.0,
+        "end": 56,
         "stretch": true,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "got",
-        "start": 56.0,
+        "start": 56,
         "end": 56.34,
         "spoken": true,
         "singer": "singer2"
@@ -933,12 +933,12 @@
       {
         "word": "and",
         "start": 72.78,
-        "end": 73.0,
+        "end": 73,
         "singer": "singer1"
       },
       {
         "word": "let",
-        "start": 73.0,
+        "start": 73,
         "end": 73.2,
         "singer": "singer1"
       },
@@ -1186,7 +1186,7 @@
       },
       {
         "word": "be",
-        "start": 84.0,
+        "start": 84,
         "end": 84.12,
         "stretch": true,
         "singer": "singer1"
@@ -1325,13 +1325,13 @@
       {
         "word": "breakfast",
         "start": 89.62,
-        "end": 90.0,
+        "end": 90,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "club",
-        "start": 90.0,
+        "start": 90,
         "end": 90.36,
         "singer": "singer1"
       }
@@ -1353,12 +1353,12 @@
       {
         "word": "like",
         "start": 90.78,
-        "end": 91.0,
+        "end": 91,
         "singer": "singer2"
       },
       {
         "word": "vendors",
-        "start": 91.0,
+        "start": 91,
         "end": 91.34,
         "singer": "singer2"
       },
@@ -1922,13 +1922,13 @@
       {
         "word": "on",
         "start": 118.74,
-        "end": 119.0,
+        "end": 119,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "my",
-        "start": 119.0,
+        "start": 119,
         "end": 119.32,
         "stretch": true,
         "spoken": true,
@@ -2006,13 +2006,13 @@
       {
         "word": "a",
         "start": 122.78,
-        "end": 123.0,
+        "end": 123,
         "stretch": true,
         "singer": "singer1"
       },
       {
         "word": "fuck",
-        "start": 123.0,
+        "start": 123,
         "end": 123.3,
         "singer": "singer1"
       },

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T22:49:18.886940+00:00",
-  "totalTracks": 812,
+  "generatedAt": "2026-07-10T22:54:59.906740+00:00",
+  "totalTracks": 813,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11411,6 +11411,20 @@
       },
       "sourcePath": "https://soundcloud.com/officialantwon/visine-prod-shlomo-featuring-lil-peep",
       "mtimeMs": 1783723762178
+    },
+    "lil skil::*rare* haloween w/ lil peep": {
+      "title": "*RARE* haloween w/ lil peep",
+      "artist": "lil skil",
+      "originalTrackName": "lil skil - *RARE* haloween w/ lil peep",
+      "source": "whisper_only",
+      "file": "tracks/lil-skil-rare-haloween-w-lil-peep-3d788b43ace1.json",
+      "files": {
+        "lyrics": "tracks/lil-skil-rare-haloween-w-lil-peep-3d788b43ace1.json",
+        "meta": "tracks/lil-skil-rare-haloween-w-lil-peep-3d788b43ace1.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/rainybear16/vacancy-ft-lil-peep",
+      "mtimeMs": 1783724101127
     }
   },
   "tracks": [
@@ -22839,6 +22853,20 @@
       },
       "sourcePath": "https://soundcloud.com/officialantwon/visine-prod-shlomo-featuring-lil-peep",
       "mtimeMs": 1783723762178
+    },
+    {
+      "title": "*RARE* haloween w/ lil peep",
+      "artist": "lil skil",
+      "originalTrackName": "lil skil - *RARE* haloween w/ lil peep",
+      "source": "whisper_only",
+      "file": "tracks/lil-skil-rare-haloween-w-lil-peep-3d788b43ace1.json",
+      "files": {
+        "lyrics": "tracks/lil-skil-rare-haloween-w-lil-peep-3d788b43ace1.json",
+        "meta": "tracks/lil-skil-rare-haloween-w-lil-peep-3d788b43ace1.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/rainybear16/vacancy-ft-lil-peep",
+      "mtimeMs": 1783724101127
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T21:12:00.573699+00:00",
-  "totalTracks": 806,
+  "generatedAt": "2026-07-10T21:34:11.846447+00:00",
+  "totalTracks": 807,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11327,6 +11327,20 @@
       },
       "sourcePath": "https://soundcloud.com/mackned/lil-peep-x-mackned-x-sneakguapo-sad-enough",
       "mtimeMs": 1783717922160
+    },
+    "smokeasac::lil peep - doubt me ft eddy baker (prod by smokeasac)": {
+      "title": "Lil Peep - Doubt Me Ft Eddy Baker (Prod By Smokeasac)",
+      "artist": "SMOKEASAC",
+      "originalTrackName": "SMOKEASAC - Lil Peep - Doubt Me Ft Eddy Baker (Prod By Smokeasac)",
+      "source": "whisper_only",
+      "file": "tracks/smokeasac-lil-peep-doubt-me-ft-eddy-baker-prod-by-smokeasac-b352b5bd0465.json",
+      "files": {
+        "lyrics": "tracks/smokeasac-lil-peep-doubt-me-ft-eddy-baker-prod-by-smokeasac-b352b5bd0465.json",
+        "meta": "tracks/smokeasac-lil-peep-doubt-me-ft-eddy-baker-prod-by-smokeasac-b352b5bd0465.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/smokeasac/lil-peep-doubt-me-ft-eddy-baker-prod-by-smokeasac",
+      "mtimeMs": 1783719252750
     }
   },
   "tracks": [
@@ -22671,6 +22685,20 @@
       },
       "sourcePath": "https://soundcloud.com/mackned/lil-peep-x-mackned-x-sneakguapo-sad-enough",
       "mtimeMs": 1783717922160
+    },
+    {
+      "title": "Lil Peep - Doubt Me Ft Eddy Baker (Prod By Smokeasac)",
+      "artist": "SMOKEASAC",
+      "originalTrackName": "SMOKEASAC - Lil Peep - Doubt Me Ft Eddy Baker (Prod By Smokeasac)",
+      "source": "whisper_only",
+      "file": "tracks/smokeasac-lil-peep-doubt-me-ft-eddy-baker-prod-by-smokeasac-b352b5bd0465.json",
+      "files": {
+        "lyrics": "tracks/smokeasac-lil-peep-doubt-me-ft-eddy-baker-prod-by-smokeasac-b352b5bd0465.json",
+        "meta": "tracks/smokeasac-lil-peep-doubt-me-ft-eddy-baker-prod-by-smokeasac-b352b5bd0465.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/smokeasac/lil-peep-doubt-me-ft-eddy-baker-prod-by-smokeasac",
+      "mtimeMs": 1783719252750
     }
   ]
 }

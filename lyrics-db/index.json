@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T20:27:22.408307+00:00",
-  "totalTracks": 804,
+  "generatedAt": "2026-07-10T20:34:44.363752+00:00",
+  "totalTracks": 805,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11299,6 +11299,20 @@
       },
       "sourcePath": "https://soundcloud.com/lowwwin/lil-peep-in-dis-empty-club-without-feature-extended",
       "mtimeMs": 1783715243129
+    },
+    "mackned::suicide ft. @lilpeep (prod. by bigheadonthebeat)": {
+      "title": "SUICIDE FT. @LILPEEP (PROD. BY BIGHEADONTHEBEAT)",
+      "artist": "Mackned",
+      "originalTrackName": "Mackned - SUICIDE FT. @LILPEEP (PROD. BY BIGHEADONTHEBEAT)",
+      "source": "whisper_only",
+      "file": "tracks/mackned-suicide-ft-lilpeep-prod-by-bigheadonthebeat-668532f3cdfd.json",
+      "files": {
+        "lyrics": "tracks/mackned-suicide-ft-lilpeep-prod-by-bigheadonthebeat-668532f3cdfd.json",
+        "meta": "tracks/mackned-suicide-ft-lilpeep-prod-by-bigheadonthebeat-668532f3cdfd.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/mackned/suicide-ft-lilpeep",
+      "mtimeMs": 1783715685203
     }
   },
   "tracks": [
@@ -22615,6 +22629,20 @@
       },
       "sourcePath": "https://soundcloud.com/lowwwin/lil-peep-in-dis-empty-club-without-feature-extended",
       "mtimeMs": 1783715243129
+    },
+    {
+      "title": "SUICIDE FT. @LILPEEP (PROD. BY BIGHEADONTHEBEAT)",
+      "artist": "Mackned",
+      "originalTrackName": "Mackned - SUICIDE FT. @LILPEEP (PROD. BY BIGHEADONTHEBEAT)",
+      "source": "whisper_only",
+      "file": "tracks/mackned-suicide-ft-lilpeep-prod-by-bigheadonthebeat-668532f3cdfd.json",
+      "files": {
+        "lyrics": "tracks/mackned-suicide-ft-lilpeep-prod-by-bigheadonthebeat-668532f3cdfd.json",
+        "meta": "tracks/mackned-suicide-ft-lilpeep-prod-by-bigheadonthebeat-668532f3cdfd.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/mackned/suicide-ft-lilpeep",
+      "mtimeMs": 1783715685203
     }
   ]
 }

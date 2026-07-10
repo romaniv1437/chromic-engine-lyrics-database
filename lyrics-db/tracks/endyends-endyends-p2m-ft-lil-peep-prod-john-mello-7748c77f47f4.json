@@ -557,7 +557,7 @@
   {
     "text": "Lately I've been dancing with the devil (with the devil)",
     "startTime": 51.56,
-    "endTime": 55.0,
+    "endTime": 55,
     "words": [
       {
         "word": "Lately",
@@ -621,14 +621,14 @@
       {
         "word": "devil)",
         "start": 54.561,
-        "end": 55.0,
+        "end": 55,
         "adlib": true,
         "sung": true,
         "singer": "singer2"
       }
     ],
     "time": 51.56,
-    "end": 55.0
+    "end": 55
   },
   {
     "text": "Nobody can stop me put the pedal to the metal (skrr)",
@@ -1527,13 +1527,13 @@
       {
         "word": "my",
         "start": 93.857,
-        "end": 94.0,
+        "end": 94,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "whip",
-        "start": 94.0,
+        "start": 94,
         "end": 94.287,
         "singer": "singer1"
       },

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T22:38:42.409223+00:00",
-  "totalTracks": 808,
+  "generatedAt": "2026-07-10T22:38:58.702842+00:00",
+  "totalTracks": 809,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11355,6 +11355,20 @@
       },
       "sourcePath": "https://soundcloud.com/jac_00/lil-peep-x-yunggoth-cocaine-shawty",
       "mtimeMs": 1783723124108
+    },
+    "lil peep::lil peep- dead money ft. yunggoth, boy froot": {
+      "title": "Lil Peep- Dead Money ft. YungGoth, Boy Froot",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep- Dead Money ft. YungGoth, Boy Froot",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-lil-peep-dead-money-ft-yunggoth-boy-froot-7e9af78583a2.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-dead-money-ft-yunggoth-boy-froot-7e9af78583a2.json",
+        "meta": "tracks/lil-peep-lil-peep-dead-money-ft-yunggoth-boy-froot-7e9af78583a2.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-672083680/lil-peep-dead-money-unreleased-rip-lilpeep",
+      "mtimeMs": 1783723139849
     }
   },
   "tracks": [
@@ -22727,6 +22741,20 @@
       },
       "sourcePath": "https://soundcloud.com/jac_00/lil-peep-x-yunggoth-cocaine-shawty",
       "mtimeMs": 1783723124108
+    },
+    {
+      "title": "Lil Peep- Dead Money ft. YungGoth, Boy Froot",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep- Dead Money ft. YungGoth, Boy Froot",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-lil-peep-dead-money-ft-yunggoth-boy-froot-7e9af78583a2.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-dead-money-ft-yunggoth-boy-froot-7e9af78583a2.json",
+        "meta": "tracks/lil-peep-lil-peep-dead-money-ft-yunggoth-boy-froot-7e9af78583a2.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-672083680/lil-peep-dead-money-unreleased-rip-lilpeep",
+      "mtimeMs": 1783723139849
     }
   ]
 }

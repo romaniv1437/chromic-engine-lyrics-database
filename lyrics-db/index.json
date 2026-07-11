@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-11T21:48:35.167788+00:00",
-  "totalTracks": 820,
+  "generatedAt": "2026-07-11T22:02:20.704730+00:00",
+  "totalTracks": 821,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11525,6 +11525,20 @@
       },
       "sourcePath": "https://soundcloud.com/crybaby-439341931/lil-peep-neeks-mo-murda-only-peep-extended",
       "mtimeMs": 1783806517737
+    },
+    "youthe::lil peep - thinking about u (without feature & extended)": {
+      "title": "Lil Peep - Thinking About U (Without Feature & Extended)",
+      "artist": "youthe",
+      "originalTrackName": "youthe - Lil Peep - Thinking About U (Without Feature & Extended)",
+      "source": "whisper_only",
+      "file": "tracks/youthe-lil-peep-thinking-about-u-without-feature-extended-3effe95c0d50.json",
+      "files": {
+        "lyrics": "tracks/youthe-lil-peep-thinking-about-u-without-feature-extended-3effe95c0d50.json",
+        "meta": "tracks/youthe-lil-peep-thinking-about-u-without-feature-extended-3effe95c0d50.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/youtheorganization/lil-peep-thinking-about-u-without-feature-extended",
+      "mtimeMs": 1783807344574
     }
   },
   "tracks": [
@@ -23067,6 +23081,20 @@
       },
       "sourcePath": "https://soundcloud.com/crybaby-439341931/lil-peep-neeks-mo-murda-only-peep-extended",
       "mtimeMs": 1783806517737
+    },
+    {
+      "title": "Lil Peep - Thinking About U (Without Feature & Extended)",
+      "artist": "youthe",
+      "originalTrackName": "youthe - Lil Peep - Thinking About U (Without Feature & Extended)",
+      "source": "whisper_only",
+      "file": "tracks/youthe-lil-peep-thinking-about-u-without-feature-extended-3effe95c0d50.json",
+      "files": {
+        "lyrics": "tracks/youthe-lil-peep-thinking-about-u-without-feature-extended-3effe95c0d50.json",
+        "meta": "tracks/youthe-lil-peep-thinking-about-u-without-feature-extended-3effe95c0d50.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/youtheorganization/lil-peep-thinking-about-u-without-feature-extended",
+      "mtimeMs": 1783807344574
     }
   ]
 }

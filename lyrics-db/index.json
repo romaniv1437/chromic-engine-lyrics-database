@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-11T14:32:27.039099+00:00",
-  "totalTracks": 817,
+  "generatedAt": "2026-07-11T14:36:35.659925+00:00",
+  "totalTracks": 818,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11483,6 +11483,20 @@
       },
       "sourcePath": "https://soundcloud.com/jeamus/lil-peep-around-the-world",
       "mtimeMs": 1783780347593
+    },
+    "lilpeep_raresong::lil peep - girls open verse og": {
+      "title": "Lil Peep - Girls Open Verse OG",
+      "artist": "lilpeep_raresong",
+      "originalTrackName": "lilpeep_raresong - Lil Peep - Girls Open Verse OG",
+      "source": "syncedlyrics",
+      "file": "tracks/lilpeep-raresong-lil-peep-girls-open-verse-og-d535d64a90b0.json",
+      "files": {
+        "lyrics": "tracks/lilpeep-raresong-lil-peep-girls-open-verse-og-d535d64a90b0.json",
+        "meta": "tracks/lilpeep-raresong-lil-peep-girls-open-verse-og-d535d64a90b0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lilpeep_raresong/lil-peep-girls-open-verse-og",
+      "mtimeMs": 1783780596307
     }
   },
   "tracks": [
@@ -22983,6 +22997,20 @@
       },
       "sourcePath": "https://soundcloud.com/jeamus/lil-peep-around-the-world",
       "mtimeMs": 1783780347593
+    },
+    {
+      "title": "Lil Peep - Girls Open Verse OG",
+      "artist": "lilpeep_raresong",
+      "originalTrackName": "lilpeep_raresong - Lil Peep - Girls Open Verse OG",
+      "source": "syncedlyrics",
+      "file": "tracks/lilpeep-raresong-lil-peep-girls-open-verse-og-d535d64a90b0.json",
+      "files": {
+        "lyrics": "tracks/lilpeep-raresong-lil-peep-girls-open-verse-og-d535d64a90b0.json",
+        "meta": "tracks/lilpeep-raresong-lil-peep-girls-open-verse-og-d535d64a90b0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lilpeep_raresong/lil-peep-girls-open-verse-og",
+      "mtimeMs": 1783780596307
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T23:08:24.102761+00:00",
+  "generatedAt": "2026-07-11T11:37:58.459387+00:00",
   "totalTracks": 814,
   "roots": [
     "lyrics-db/tracks"
@@ -11430,15 +11430,17 @@
       "title": "MO MURDA FT. LIL PEEP (Prod. Willie G)",
       "artist": "GG NEEKS, Lil peep",
       "originalTrackName": "GG NEEKS, Lil peep - MO MURDA FT. LIL PEEP (Prod. Willie G)",
-      "source": "syncedlyrics",
+      "source": "soundcloud_extension_translate",
       "file": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.json",
       "files": {
         "lyrics": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.json",
         "meta": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.meta.json",
-        "translations": {}
+        "translations": {
+          "uk": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.uk.json"
+        }
       },
       "sourcePath": "https://soundcloud.com/neeksthekid/mo-murda-ft-lil-peep-willie-g",
-      "mtimeMs": 1783724906102
+      "mtimeMs": 1783769878459
     }
   },
   "tracks": [
@@ -22886,15 +22888,17 @@
       "title": "MO MURDA FT. LIL PEEP (Prod. Willie G)",
       "artist": "GG NEEKS, Lil peep",
       "originalTrackName": "GG NEEKS, Lil peep - MO MURDA FT. LIL PEEP (Prod. Willie G)",
-      "source": "syncedlyrics",
+      "source": "soundcloud_extension_translate",
       "file": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.json",
       "files": {
         "lyrics": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.json",
         "meta": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.meta.json",
-        "translations": {}
+        "translations": {
+          "uk": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.uk.json"
+        }
       },
       "sourcePath": "https://soundcloud.com/neeksthekid/mo-murda-ft-lil-peep-willie-g",
-      "mtimeMs": 1783724906102
+      "mtimeMs": 1783769878459
     }
   ]
 }

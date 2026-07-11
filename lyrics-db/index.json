@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-11T11:41:29.720840+00:00",
-  "totalTracks": 815,
+  "generatedAt": "2026-07-11T13:54:41.685481+00:00",
+  "totalTracks": 816,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11455,6 +11455,20 @@
       },
       "sourcePath": "https://soundcloud.com/mackned/sodium-ft-lil-peep",
       "mtimeMs": 1783770090526
+    },
+    "☆ barry::lil peep - we'll be fine (extended)": {
+      "title": "Lil Peep - We'll Be Fine (Extended)",
+      "artist": "☆ barry",
+      "originalTrackName": "☆ barry - Lil Peep - We'll Be Fine (Extended)",
+      "source": "whisper_only",
+      "file": "tracks/barry-lil-peep-we-ll-be-fine-extended-5321a1648927.json",
+      "files": {
+        "lyrics": "tracks/barry-lil-peep-we-ll-be-fine-extended-5321a1648927.json",
+        "meta": "tracks/barry-lil-peep-we-ll-be-fine-extended-5321a1648927.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/hans-d-breivik/lil-peep-well-be-fine-extended",
+      "mtimeMs": 1783778082810
     }
   },
   "tracks": [
@@ -22927,6 +22941,20 @@
       },
       "sourcePath": "https://soundcloud.com/mackned/sodium-ft-lil-peep",
       "mtimeMs": 1783770090526
+    },
+    {
+      "title": "Lil Peep - We'll Be Fine (Extended)",
+      "artist": "☆ barry",
+      "originalTrackName": "☆ barry - Lil Peep - We'll Be Fine (Extended)",
+      "source": "whisper_only",
+      "file": "tracks/barry-lil-peep-we-ll-be-fine-extended-5321a1648927.json",
+      "files": {
+        "lyrics": "tracks/barry-lil-peep-we-ll-be-fine-extended-5321a1648927.json",
+        "meta": "tracks/barry-lil-peep-we-ll-be-fine-extended-5321a1648927.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/hans-d-breivik/lil-peep-well-be-fine-extended",
+      "mtimeMs": 1783778082810
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-11T15:20:28.217836+00:00",
-  "totalTracks": 819,
+  "generatedAt": "2026-07-11T21:48:22.213723+00:00",
+  "totalTracks": 820,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11511,6 +11511,20 @@
       },
       "sourcePath": "https://soundcloud.com/4hr-archive/lil-peep-already-grown-remastered-lq",
       "mtimeMs": 1783783229375
+    },
+    "lil peep::lil peep & neeks - mo murda (only peep, extended)": {
+      "title": "Lil Peep & Neeks - Mo Murda (Only Peep, Extended)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep & Neeks - Mo Murda (Only Peep, Extended)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-lil-peep-neeks-mo-murda-only-peep-extended-b630c9068393.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-neeks-mo-murda-only-peep-extended-b630c9068393.json",
+        "meta": "tracks/lil-peep-lil-peep-neeks-mo-murda-only-peep-extended-b630c9068393.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/crybaby-439341931/lil-peep-neeks-mo-murda-only-peep-extended",
+      "mtimeMs": 1783806505301
     }
   },
   "tracks": [
@@ -23039,6 +23053,20 @@
       },
       "sourcePath": "https://soundcloud.com/4hr-archive/lil-peep-already-grown-remastered-lq",
       "mtimeMs": 1783783229375
+    },
+    {
+      "title": "Lil Peep & Neeks - Mo Murda (Only Peep, Extended)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep & Neeks - Mo Murda (Only Peep, Extended)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-lil-peep-neeks-mo-murda-only-peep-extended-b630c9068393.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-neeks-mo-murda-only-peep-extended-b630c9068393.json",
+        "meta": "tracks/lil-peep-lil-peep-neeks-mo-murda-only-peep-extended-b630c9068393.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/crybaby-439341931/lil-peep-neeks-mo-murda-only-peep-extended",
+      "mtimeMs": 1783806505301
     }
   ]
 }

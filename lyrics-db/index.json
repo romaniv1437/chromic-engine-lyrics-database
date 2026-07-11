@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-11T22:14:16.249183+00:00",
-  "totalTracks": 823,
+  "generatedAt": "2026-07-11T22:20:33.151516+00:00",
+  "totalTracks": 824,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11567,6 +11567,20 @@
       },
       "sourcePath": "https://soundcloud.com/artem-kravchenko-3/d4shvyobfaca/s-t8xoU",
       "mtimeMs": 1783808057502
+    },
+    "kizaru::kizaru x geekey- zabudem pro nih": {
+      "title": "KIZARU x GEEKEY- ZABUDEM PRO NIH",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - KIZARU x GEEKEY- ZABUDEM PRO NIH",
+      "source": "whisper_only",
+      "file": "tracks/kizaru-kizaru-x-geekey-zabudem-pro-nih-ab22052ec6ef.json",
+      "files": {
+        "lyrics": "tracks/kizaru-kizaru-x-geekey-zabudem-pro-nih-ab22052ec6ef.json",
+        "meta": "tracks/kizaru-kizaru-x-geekey-zabudem-pro-nih-ab22052ec6ef.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-geekey-zabudem-pro-nih-1",
+      "mtimeMs": 1783808436092
     }
   },
   "tracks": [
@@ -23151,6 +23165,20 @@
       },
       "sourcePath": "https://soundcloud.com/artem-kravchenko-3/d4shvyobfaca/s-t8xoU",
       "mtimeMs": 1783808057502
+    },
+    {
+      "title": "KIZARU x GEEKEY- ZABUDEM PRO NIH",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - KIZARU x GEEKEY- ZABUDEM PRO NIH",
+      "source": "whisper_only",
+      "file": "tracks/kizaru-kizaru-x-geekey-zabudem-pro-nih-ab22052ec6ef.json",
+      "files": {
+        "lyrics": "tracks/kizaru-kizaru-x-geekey-zabudem-pro-nih-ab22052ec6ef.json",
+        "meta": "tracks/kizaru-kizaru-x-geekey-zabudem-pro-nih-ab22052ec6ef.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-geekey-zabudem-pro-nih-1",
+      "mtimeMs": 1783808436092
     }
   ]
 }

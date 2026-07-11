@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-11T22:02:34.399850+00:00",
-  "totalTracks": 821,
+  "generatedAt": "2026-07-11T22:09:13.640417+00:00",
+  "totalTracks": 822,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11539,6 +11539,20 @@
       },
       "sourcePath": "https://soundcloud.com/youtheorganization/lil-peep-thinking-about-u-without-feature-extended",
       "mtimeMs": 1783807359612
+    },
+    "pot smokers::bob marley - ganja gun": {
+      "title": "Bob Marley - Ganja Gun",
+      "artist": "Pot Smokers",
+      "originalTrackName": "Pot Smokers - Bob Marley - Ganja Gun",
+      "source": "whisper_only",
+      "file": "tracks/pot-smokers-bob-marley-ganja-gun-65eaaf00d57c.json",
+      "files": {
+        "lyrics": "tracks/pot-smokers-bob-marley-ganja-gun-65eaaf00d57c.json",
+        "meta": "tracks/pot-smokers-bob-marley-ganja-gun-65eaaf00d57c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/pot-smokers/ganja-gun",
+      "mtimeMs": 1783807757159
     }
   },
   "tracks": [
@@ -23095,6 +23109,20 @@
       },
       "sourcePath": "https://soundcloud.com/youtheorganization/lil-peep-thinking-about-u-without-feature-extended",
       "mtimeMs": 1783807359612
+    },
+    {
+      "title": "Bob Marley - Ganja Gun",
+      "artist": "Pot Smokers",
+      "originalTrackName": "Pot Smokers - Bob Marley - Ganja Gun",
+      "source": "whisper_only",
+      "file": "tracks/pot-smokers-bob-marley-ganja-gun-65eaaf00d57c.json",
+      "files": {
+        "lyrics": "tracks/pot-smokers-bob-marley-ganja-gun-65eaaf00d57c.json",
+        "meta": "tracks/pot-smokers-bob-marley-ganja-gun-65eaaf00d57c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/pot-smokers/ganja-gun",
+      "mtimeMs": 1783807757159
     }
   ]
 }

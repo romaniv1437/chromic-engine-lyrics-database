@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-11T22:09:13.640417+00:00",
-  "totalTracks": 822,
+  "generatedAt": "2026-07-11T22:14:06.195732+00:00",
+  "totalTracks": 823,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11553,6 +11553,20 @@
       },
       "sourcePath": "https://soundcloud.com/pot-smokers/ganja-gun",
       "mtimeMs": 1783807757159
+    },
+    "artem kravchenko 3::децл - лигалайз ганджа": {
+      "title": "Децл - Лигалайз Ганджа",
+      "artist": "Artem Kravchenko 3",
+      "originalTrackName": "Artem Kravchenko 3 - Децл - Лигалайз Ганджа",
+      "source": "whisper_only",
+      "file": "tracks/artem-kravchenko-3-71851aee1679.json",
+      "files": {
+        "lyrics": "tracks/artem-kravchenko-3-71851aee1679.json",
+        "meta": "tracks/artem-kravchenko-3-71851aee1679.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/artem-kravchenko-3/d4shvyobfaca/s-t8xoU",
+      "mtimeMs": 1783808047224
     }
   },
   "tracks": [
@@ -23123,6 +23137,20 @@
       },
       "sourcePath": "https://soundcloud.com/pot-smokers/ganja-gun",
       "mtimeMs": 1783807757159
+    },
+    {
+      "title": "Децл - Лигалайз Ганджа",
+      "artist": "Artem Kravchenko 3",
+      "originalTrackName": "Artem Kravchenko 3 - Децл - Лигалайз Ганджа",
+      "source": "whisper_only",
+      "file": "tracks/artem-kravchenko-3-71851aee1679.json",
+      "files": {
+        "lyrics": "tracks/artem-kravchenko-3-71851aee1679.json",
+        "meta": "tracks/artem-kravchenko-3-71851aee1679.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/artem-kravchenko-3/d4shvyobfaca/s-t8xoU",
+      "mtimeMs": 1783808047224
     }
   ]
 }

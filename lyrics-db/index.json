@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-11T13:54:54.803133+00:00",
-  "totalTracks": 816,
+  "generatedAt": "2026-07-11T14:32:27.039099+00:00",
+  "totalTracks": 817,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11469,6 +11469,20 @@
       },
       "sourcePath": "https://soundcloud.com/hans-d-breivik/lil-peep-well-be-fine-extended",
       "mtimeMs": 1783778096067
+    },
+    "jeamus::lil peep - around the world": {
+      "title": "Lil Peep - Around The World",
+      "artist": "Jeamus",
+      "originalTrackName": "Jeamus - Lil Peep - Around The World",
+      "source": "whisper_only",
+      "file": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
+      "files": {
+        "lyrics": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
+        "meta": "tracks/jeamus-lil-peep-around-the-world-388a70918288.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/jeamus/lil-peep-around-the-world",
+      "mtimeMs": 1783780347593
     }
   },
   "tracks": [
@@ -22955,6 +22969,20 @@
       },
       "sourcePath": "https://soundcloud.com/hans-d-breivik/lil-peep-well-be-fine-extended",
       "mtimeMs": 1783778096067
+    },
+    {
+      "title": "Lil Peep - Around The World",
+      "artist": "Jeamus",
+      "originalTrackName": "Jeamus - Lil Peep - Around The World",
+      "source": "whisper_only",
+      "file": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
+      "files": {
+        "lyrics": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
+        "meta": "tracks/jeamus-lil-peep-around-the-world-388a70918288.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/jeamus/lil-peep-around-the-world",
+      "mtimeMs": 1783780347593
     }
   ]
 }

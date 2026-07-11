@@ -1,0 +1,270 @@
+[
+  {
+    "text": "Mj, mj, mj",
+    "startTime": 6.54,
+    "endTime": 11.54,
+    "words": [
+      {
+        "word": "Mj,",
+        "start": 6.89,
+        "end": 8.86,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "mj,",
+        "start": 8.86,
+        "end": 9.66,
+        "stretch": true
+      },
+      {
+        "word": "mj",
+        "start": 9.66,
+        "end": 11.54,
+        "stretch": true,
+        "whisper": true
+      }
+    ],
+    "time": 6.54,
+    "end": 11.54
+  },
+  {
+    "text": "Why did I,",
+    "startTime": 16.26,
+    "endTime": 19.34,
+    "words": [
+      {
+        "word": "Why",
+        "start": 16.61,
+        "end": 17.66,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "did",
+        "start": 17.66,
+        "end": 18.36,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "I,",
+        "start": 18.36,
+        "end": 19.34,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 16.26,
+    "end": 19.34
+  },
+  {
+    "text": "why did I",
+    "startTime": 19.34,
+    "endTime": 19.68,
+    "words": [
+      {
+        "word": "why",
+        "start": 19.34,
+        "end": 19.68,
+        "spoken": true
+      },
+      {
+        "word": "did",
+        "start": 19.68,
+        "end": 19.68
+      },
+      {
+        "word": "I",
+        "start": 19.68,
+        "end": 19.68
+      }
+    ],
+    "time": 19.34,
+    "end": 19.68
+  },
+  {
+    "text": "Fall in love with you",
+    "startTime": 19.68,
+    "endTime": 21.96,
+    "words": [
+      {
+        "word": "Fall",
+        "start": 19.68,
+        "end": 20.12,
+        "spoken": true
+      },
+      {
+        "word": "in",
+        "start": 20.12,
+        "end": 20.54,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "love",
+        "start": 20.54,
+        "end": 21.28,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "with",
+        "start": 21.28,
+        "end": 21.28
+      },
+      {
+        "word": "you",
+        "start": 21.28,
+        "end": 21.96,
+        "stretch": true
+      }
+    ],
+    "time": 19.68,
+    "end": 21.96
+  },
+  {
+    "text": "Love you",
+    "startTime": 21.96,
+    "endTime": 24.12,
+    "words": [
+      {
+        "word": "Love",
+        "start": 22.169,
+        "end": 22.72,
+        "stretch": true
+      },
+      {
+        "word": "you",
+        "start": 23.07,
+        "end": 24.12,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 21.96,
+    "end": 24.12
+  },
+  {
+    "text": "Why did I,",
+    "startTime": 24.12,
+    "endTime": 26.74,
+    "words": [
+      {
+        "word": "Why",
+        "start": 24.47,
+        "end": 25.62,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "did",
+        "start": 25.62,
+        "end": 26.1,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "I,",
+        "start": 26.1,
+        "end": 26.74,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 24.12,
+    "end": 26.74
+  },
+  {
+    "text": "why did I",
+    "startTime": 27.58,
+    "endTime": 27.58,
+    "words": [
+      {
+        "word": "why",
+        "start": 27.58,
+        "end": 27.58
+      },
+      {
+        "word": "did",
+        "start": 27.58,
+        "end": 27.58
+      },
+      {
+        "word": "I",
+        "start": 27.58,
+        "end": 27.58
+      }
+    ],
+    "time": 27.58,
+    "end": 27.58
+  },
+  {
+    "text": "Fall in love with you",
+    "startTime": 27.58,
+    "endTime": 29.94,
+    "words": [
+      {
+        "word": "Fall",
+        "start": 27.93,
+        "end": 28.9,
+        "stretch": true
+      },
+      {
+        "word": "in",
+        "start": 28.9,
+        "end": 29.08
+      },
+      {
+        "word": "love",
+        "start": 29.173,
+        "end": 29.84,
+        "stretch": true
+      },
+      {
+        "word": "with",
+        "start": 29.84,
+        "end": 29.84
+      },
+      {
+        "word": "you",
+        "start": 29.84,
+        "end": 29.94
+      }
+    ],
+    "time": 27.58,
+    "end": 29.94
+  },
+  {
+    "text": "Love you",
+    "startTime": 29.94,
+    "endTime": 32.96,
+    "words": [
+      {
+        "word": "Love",
+        "start": 30.29,
+        "end": 31.84,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "you",
+        "start": 32.165,
+        "end": 32.96,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 29.94,
+    "end": 32.96
+  },
+  {
+    "text": "●",
+    "startTime": 33.26,
+    "endTime": 304.461,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 33.26,
+    "end": 304.461
+  }
+]

@@ -255,7 +255,7 @@
       },
       {
         "word": "yeah,",
-        "start": 34.0,
+        "start": 34,
         "end": 34.36,
         "spoken": true,
         "singer": "singer1"
@@ -502,7 +502,7 @@
   {
     "text": "Look, look, call the bitch a Uber and I made her walk",
     "startTime": 45.92,
-    "endTime": 50.0,
+    "endTime": 50,
     "words": [
       {
         "word": "Look,",
@@ -584,17 +584,17 @@
       {
         "word": "walk",
         "start": 49.62,
-        "end": 50.0,
+        "end": 50,
         "spoken": true,
         "singer": "singer2"
       }
     ],
     "time": 45.92,
-    "end": 50.0
+    "end": 50
   },
   {
     "text": "back",
-    "startTime": 50.0,
+    "startTime": 50,
     "endTime": 50.3,
     "words": [
       {
@@ -605,7 +605,7 @@
         "singer": "singer2"
       }
     ],
-    "time": 50.0,
+    "time": 50,
     "end": 50.3
   },
   {
@@ -652,7 +652,7 @@
       {
         "word": "future,",
         "start": 51.7,
-        "end": 52.0,
+        "end": 52,
         "spoken": true,
         "singer": "singer1"
       },
@@ -948,7 +948,7 @@
       {
         "word": "know",
         "start": 64.74,
-        "end": 65.0,
+        "end": 65,
         "spoken": true,
         "singer": "singer2"
       },
@@ -1206,7 +1206,7 @@
       {
         "word": "bitch",
         "start": 76.92,
-        "end": 77.0,
+        "end": 77,
         "spoken": true,
         "singer": "singer2"
       },
@@ -1789,12 +1789,12 @@
       {
         "word": "cut",
         "start": 99.96,
-        "end": 100.0,
+        "end": 100,
         "singer": "singer1"
       },
       {
         "word": "it",
-        "start": 100.0,
+        "start": 100,
         "end": 100.16,
         "singer": "singer2"
       },
@@ -2276,13 +2276,13 @@
       {
         "word": "some",
         "start": 120.76,
-        "end": 121.0,
+        "end": 121,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "thigh",
-        "start": 121.0,
+        "start": 121,
         "end": 121.38,
         "spoken": true,
         "singer": "singer1"
@@ -2560,13 +2560,13 @@
       {
         "word": "they",
         "start": 134.92,
-        "end": 135.0,
+        "end": 135,
         "spoken": true,
         "singer": "singer2"
       },
       {
         "word": "salty",
-        "start": 135.0,
+        "start": 135,
         "end": 135.24,
         "singer": "singer2"
       }
@@ -2663,13 +2663,13 @@
       {
         "word": "still",
         "start": 139.66,
-        "end": 140.0,
+        "end": 140,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "fuck",
-        "start": 140.0,
+        "start": 140,
         "end": 140.36,
         "singer": "singer1"
       },
@@ -3821,13 +3821,13 @@
       {
         "word": "they",
         "start": 188.9,
-        "end": 189.0,
+        "end": 189,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "salty",
-        "start": 189.0,
+        "start": 189,
         "end": 189.46,
         "singer": "singer1"
       }

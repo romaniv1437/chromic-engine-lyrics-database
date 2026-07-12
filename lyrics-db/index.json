@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T12:14:39.146047+00:00",
-  "totalTracks": 835,
+  "generatedAt": "2026-07-12T12:18:49.864035+00:00",
+  "totalTracks": 836,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11735,6 +11735,20 @@
       },
       "sourcePath": "https://soundcloud.com/owlordie/dengi-prod-viramaina",
       "mtimeMs": 1783858481507
+    },
+    "did'ko::did'ko - між мною та зоряним небом": {
+      "title": "Did'Ko - Між Мною Та Зоряним Небом",
+      "artist": "Did'Ko",
+      "originalTrackName": "Did'Ko - Did'Ko - Між Мною Та Зоряним Небом",
+      "source": "syncedlyrics",
+      "file": "tracks/did-ko-did-ko-56567ac1b547.json",
+      "files": {
+        "lyrics": "tracks/did-ko-did-ko-56567ac1b547.json",
+        "meta": "tracks/did-ko-did-ko-56567ac1b547.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/didko_trash/didko-mzh-mnoyu-ta-zoryanim-nebom",
+      "mtimeMs": 1783858730642
     }
   },
   "tracks": [
@@ -23487,6 +23501,20 @@
       },
       "sourcePath": "https://soundcloud.com/owlordie/dengi-prod-viramaina",
       "mtimeMs": 1783858481507
+    },
+    {
+      "title": "Did'Ko - Між Мною Та Зоряним Небом",
+      "artist": "Did'Ko",
+      "originalTrackName": "Did'Ko - Did'Ko - Між Мною Та Зоряним Небом",
+      "source": "syncedlyrics",
+      "file": "tracks/did-ko-did-ko-56567ac1b547.json",
+      "files": {
+        "lyrics": "tracks/did-ko-did-ko-56567ac1b547.json",
+        "meta": "tracks/did-ko-did-ko-56567ac1b547.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/didko_trash/didko-mzh-mnoyu-ta-zoryanim-nebom",
+      "mtimeMs": 1783858730642
     }
   ]
 }

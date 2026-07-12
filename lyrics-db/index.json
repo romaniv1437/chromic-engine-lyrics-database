@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T07:32:45.966387+00:00",
-  "totalTracks": 826,
+  "generatedAt": "2026-07-12T07:32:53.040879+00:00",
+  "totalTracks": 827,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11609,6 +11609,20 @@
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/ne-ostavlyaut-palcev-prod-by",
       "mtimeMs": 1783841570865
+    },
+    "hlgrm::kizaru  - blunt bumerang": {
+      "title": "KIZARU  - BLUNT BUMERANG",
+      "artist": "hlgrm",
+      "originalTrackName": "hlgrm - KIZARU  - BLUNT BUMERANG",
+      "source": "whisper_only",
+      "file": "tracks/hlgrm-kizaru-blunt-bumerang-672dbea19d4c.json",
+      "files": {
+        "lyrics": "tracks/hlgrm-kizaru-blunt-bumerang-672dbea19d4c.json",
+        "meta": "tracks/hlgrm-kizaru-blunt-bumerang-672dbea19d4c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/godlikecat/kizaru-blunt-bumerang",
+      "mtimeMs": 1783841575459
     }
   },
   "tracks": [
@@ -23235,6 +23249,20 @@
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/ne-ostavlyaut-palcev-prod-by",
       "mtimeMs": 1783841570865
+    },
+    {
+      "title": "KIZARU  - BLUNT BUMERANG",
+      "artist": "hlgrm",
+      "originalTrackName": "hlgrm - KIZARU  - BLUNT BUMERANG",
+      "source": "whisper_only",
+      "file": "tracks/hlgrm-kizaru-blunt-bumerang-672dbea19d4c.json",
+      "files": {
+        "lyrics": "tracks/hlgrm-kizaru-blunt-bumerang-672dbea19d4c.json",
+        "meta": "tracks/hlgrm-kizaru-blunt-bumerang-672dbea19d4c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/godlikecat/kizaru-blunt-bumerang",
+      "mtimeMs": 1783841575459
     }
   ]
 }

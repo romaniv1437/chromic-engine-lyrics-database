@@ -2,15 +2,15 @@
   {
     "text": "●",
     "startTime": 0.3,
-    "endTime": 96.0,
+    "endTime": 96,
     "words": [],
     "type": "vocal_cue",
     "time": 0.3,
-    "end": 96.0
+    "end": 96
   },
   {
     "text": "Малышки",
-    "startTime": 96.0,
+    "startTime": 96,
     "endTime": 97.4,
     "words": [
       {
@@ -21,31 +21,31 @@
         "sung": true
       }
     ],
-    "time": 96.0,
+    "time": 96,
     "end": 97.4
   },
   {
     "text": "●",
     "startTime": 97.7,
-    "endTime": 126.0,
+    "endTime": 126,
     "words": [],
     "type": "vocal_cue",
     "time": 97.7,
-    "end": 126.0
+    "end": 126
   },
   {
     "text": "Малышки",
-    "startTime": 126.0,
+    "startTime": 126,
     "endTime": 127.4,
     "words": [
       {
         "word": "Малышки",
-        "start": 126.0,
+        "start": 126,
         "end": 127.4,
         "stretch": true
       }
     ],
-    "time": 126.0,
+    "time": 126,
     "end": 127.4
   },
   {
@@ -81,11 +81,11 @@
       {
         "word": "ваш",
         "start": 130.9,
-        "end": 131.0
+        "end": 131
       },
       {
         "word": "вид",
-        "start": 131.0,
+        "start": 131,
         "end": 131.26,
         "spoken": true
       },

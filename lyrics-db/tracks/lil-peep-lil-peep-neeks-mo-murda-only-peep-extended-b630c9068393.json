@@ -2,7 +2,7 @@
   {
     "text": "Murder, more murder, more murder, more murder",
     "startTime": 6.18,
-    "endTime": 15.26,
+    "endTime": 12.36,
     "words": [
       {
         "word": "Murder,",
@@ -61,378 +61,434 @@
       {
         "word": "more",
         "start": 12.27,
-        "end": 13.76,
-        "char_starts": [
-          12.27,
-          12.493,
-          12.822,
-          13.264
-        ],
-        "spoken": true
+        "end": 12.31
       },
       {
         "word": "murder",
-        "start": 13.84,
-        "end": 15.26,
-        "char_starts": [
-          13.84,
-          13.982,
-          14.14,
-          14.327,
-          14.536,
-          14.764
-        ]
+        "start": 12.32,
+        "end": 12.36
       }
     ],
     "time": 6.18,
-    "end": 15.26
+    "end": 12.36
   },
   {
-    "text": "●",
-    "startTime": 15.56,
-    "endTime": 39.02,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 15.56,
-    "end": 39.02
-  },
-  {
-    "text": "Murder, more",
-    "startTime": 39.02,
-    "endTime": 39.68,
+    "text": "Murder, more murder, more murder, more murder",
+    "startTime": 12.37,
+    "endTime": 12.71,
     "words": [
       {
         "word": "Murder,",
-        "start": 39.02,
-        "end": 39.17,
-        "whisper": true
+        "start": 12.37,
+        "end": 12.41
       },
       {
         "word": "more",
-        "start": 39.313,
-        "end": 39.68,
-        "spoken": true
-      }
-    ],
-    "time": 39.02,
-    "end": 39.68
-  },
-  {
-    "text": "●",
-    "startTime": 39.98,
-    "endTime": 49.86,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 39.98,
-    "end": 49.86
-  },
-  {
-    "text": "murder, more murder, more murder",
-    "startTime": 49.86,
-    "endTime": 51.04,
-    "words": [
-      {
-        "word": "murder,",
-        "start": 50.21,
-        "end": 50.84,
-        "char_starts": [
-          50.21,
-          50.264,
-          50.321,
-          50.389,
-          50.465,
-          50.547,
-          50.635
-        ],
-        "spoken": true
-      },
-      {
-        "word": "more",
-        "start": 50.85,
-        "end": 50.89
+        "start": 12.42,
+        "end": 12.46
       },
       {
         "word": "murder,",
-        "start": 50.9,
-        "end": 50.94
+        "start": 12.47,
+        "end": 12.51
       },
       {
         "word": "more",
-        "start": 50.95,
-        "end": 50.99
+        "start": 12.52,
+        "end": 12.56
+      },
+      {
+        "word": "murder,",
+        "start": 12.57,
+        "end": 12.61
+      },
+      {
+        "word": "more",
+        "start": 12.62,
+        "end": 12.66
       },
       {
         "word": "murder",
-        "start": 51.0,
-        "end": 51.04
+        "start": 12.67,
+        "end": 12.71
       }
     ],
-    "time": 49.86,
-    "end": 51.04
+    "time": 12.37,
+    "end": 12.71
   },
   {
     "text": "Baby, more murder",
-    "startTime": 51.05,
-    "endTime": 51.19,
+    "startTime": 12.72,
+    "endTime": 12.86,
     "words": [
       {
         "word": "Baby,",
-        "start": 51.05,
-        "end": 51.09
+        "start": 12.72,
+        "end": 12.76
       },
       {
         "word": "more",
-        "start": 51.1,
-        "end": 51.14
+        "start": 12.77,
+        "end": 12.81
       },
       {
         "word": "murder",
-        "start": 51.15,
-        "end": 51.19
+        "start": 12.82,
+        "end": 12.86
       }
     ],
-    "time": 51.05,
-    "end": 51.19
+    "time": 12.72,
+    "end": 12.86
   },
   {
-    "text": "●",
-    "startTime": 51.49,
-    "endTime": 58.08,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 51.49,
-    "end": 58.08
-  },
-  {
-    "text": "But I don't wanna",
-    "startTime": 58.08,
-    "endTime": 60.98,
+    "text": "But I don't wanna murder her",
+    "startTime": 12.87,
+    "endTime": 13.46,
     "words": [
       {
         "word": "But",
-        "start": 58.08,
-        "end": 58.23,
-        "spoken": true
+        "start": 12.87,
+        "end": 12.91
       },
       {
         "word": "I",
-        "start": 58.28,
-        "end": 58.43,
+        "start": 12.92,
+        "end": 13.02,
         "spoken": true
       },
       {
         "word": "don't",
-        "start": 58.72,
-        "end": 58.88
+        "start": 13.03,
+        "end": 13.13,
+        "spoken": true
       },
       {
         "word": "wanna",
-        "start": 60.78,
-        "end": 60.98
-      }
-    ],
-    "time": 58.08,
-    "end": 60.98
-  },
-  {
-    "text": "murder her",
-    "startTime": 65.12,
-    "endTime": 65.46,
-    "words": [
+        "start": 13.14,
+        "end": 13.24
+      },
       {
         "word": "murder",
-        "start": 65.12,
-        "end": 65.24
+        "start": 13.25,
+        "end": 13.35
       },
       {
         "word": "her",
-        "start": 65.25,
-        "end": 65.46
+        "start": 13.36,
+        "end": 13.46,
+        "spoken": true
       }
     ],
-    "time": 65.12,
-    "end": 65.46
+    "time": 12.87,
+    "end": 13.46
   },
   {
-    "text": "I'm killin' her slowly she's lovin' the pain feel",
-    "startTime": 65.47,
-    "endTime": 66.59,
+    "text": "●",
+    "startTime": 13.76,
+    "endTime": 26.12,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 13.76,
+    "end": 26.12
+  },
+  {
+    "text": "I'm killin' her slowly she's lovin'",
+    "startTime": 26.12,
+    "endTime": 27.28,
     "words": [
       {
         "word": "I'm",
-        "start": 65.609,
-        "end": 65.72,
+        "start": 26.12,
+        "end": 26.27,
         "spoken": true
       },
       {
         "word": "killin'",
-        "start": 65.73,
-        "end": 65.77
-      },
-      {
-        "word": "her",
-        "start": 65.78,
-        "end": 65.82
-      },
-      {
-        "word": "slowly",
-        "start": 65.83,
-        "end": 65.87
-      },
-      {
-        "word": "she's",
-        "start": 65.88,
-        "end": 65.92
-      },
-      {
-        "word": "lovin'",
-        "start": 65.93,
-        "end": 66.03,
+        "start": 26.32,
+        "end": 26.47,
         "spoken": true
       },
       {
+        "word": "her",
+        "start": 26.52,
+        "end": 26.67
+      },
+      {
+        "word": "slowly",
+        "start": 26.72,
+        "end": 26.87
+      },
+      {
+        "word": "she's",
+        "start": 27.01,
+        "end": 27.07,
+        "spoken": true
+      },
+      {
+        "word": "lovin'",
+        "start": 27.12,
+        "end": 27.28,
+        "spoken": true
+      }
+    ],
+    "time": 26.12,
+    "end": 27.28
+  },
+  {
+    "text": "●",
+    "startTime": 27.58,
+    "endTime": 33.16,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 27.58,
+    "end": 33.16
+  },
+  {
+    "text": "the pain feel",
+    "startTime": 33.16,
+    "endTime": 36.4,
+    "words": [
+      {
         "word": "the",
-        "start": 66.13,
-        "end": 66.19,
+        "start": 33.16,
+        "end": 33.4,
         "spoken": true
       },
       {
         "word": "pain",
-        "start": 66.24,
-        "end": 66.39,
-        "spoken": true
+        "start": 33.76,
+        "end": 34.9,
+        "char_starts": [
+          33.76,
+          33.931,
+          34.146,
+          34.4
+        ]
       },
       {
         "word": "feel",
-        "start": 66.44,
-        "end": 66.59,
+        "start": 35.003,
+        "end": 36.4,
+        "char_starts": [
+          35.003,
+          35.213,
+          35.518,
+          35.884
+        ],
         "spoken": true
       }
     ],
-    "time": 65.47,
-    "end": 66.59
+    "time": 33.16,
+    "end": 36.4
+  },
+  {
+    "text": "(The pain feel)",
+    "startTime": 39.68,
+    "endTime": 42.44,
+    "words": [
+      {
+        "word": "(The",
+        "start": 39.68,
+        "end": 40.0,
+        "adlib": true,
+        "spoken": true
+      },
+      {
+        "word": "pain",
+        "start": 40.36,
+        "end": 41.5,
+        "char_starts": [
+          40.36,
+          40.531,
+          40.746,
+          41.0
+        ],
+        "adlib": true
+      },
+      {
+        "word": "feel)",
+        "start": 42.22,
+        "end": 42.44,
+        "adlib": true
+      }
+    ],
+    "time": 39.68,
+    "end": 42.44
   },
   {
     "text": "●",
-    "startTime": 66.89,
-    "endTime": 72.09,
+    "startTime": 42.74,
+    "endTime": 57.02,
     "words": [],
     "type": "vocal_cue",
-    "time": 66.89,
-    "end": 72.09
+    "time": 42.74,
+    "end": 57.02
   },
   {
-    "text": "Drag her into my let and force her to inhale",
-    "startTime": 72.09,
-    "endTime": 72.607,
+    "text": "Drag her into my basement and force her to inhale (To inhale)",
+    "startTime": 57.02,
+    "endTime": 69.58,
     "words": [
       {
         "word": "Drag",
-        "start": 72.09,
-        "end": 72.13
+        "start": 57.02,
+        "end": 57.17,
+        "spoken": true
       },
       {
         "word": "her",
-        "start": 72.14,
-        "end": 72.18
+        "start": 57.22,
+        "end": 57.37,
+        "spoken": true
       },
       {
         "word": "into",
-        "start": 72.19,
-        "end": 72.23
+        "start": 57.42,
+        "end": 57.57
       },
       {
         "word": "my",
-        "start": 72.24,
-        "end": 72.28
+        "start": 57.62,
+        "end": 57.77,
+        "spoken": true
       },
       {
-        "word": "let",
-        "start": 72.29,
-        "end": 72.33
+        "word": "basement",
+        "start": 57.82,
+        "end": 57.97,
+        "spoken": true
       },
       {
         "word": "and",
-        "start": 72.34,
-        "end": 72.38
+        "start": 58.02,
+        "end": 58.17,
+        "spoken": true
       },
       {
         "word": "force",
-        "start": 72.39,
-        "end": 72.438
+        "start": 58.22,
+        "end": 58.48,
+        "spoken": true
       },
       {
         "word": "her",
-        "start": 72.448,
-        "end": 72.488
+        "start": 58.722,
+        "end": 59.98,
+        "char_starts": [
+          58.722,
+          59.011,
+          59.459
+        ],
+        "spoken": true
       },
       {
         "word": "to",
-        "start": 72.498,
-        "end": 72.538
+        "start": 62.54,
+        "end": 62.78,
+        "spoken": true
       },
       {
         "word": "inhale",
-        "start": 72.548,
-        "end": 72.607,
+        "start": 63.14,
+        "end": 64.28,
+        "char_starts": [
+          63.14,
+          63.254,
+          63.368,
+          63.495,
+          63.648,
+          63.822
+        ]
+      },
+      {
+        "word": "(To",
+        "start": 67.22,
+        "end": 67.42,
+        "adlib": true,
+        "spoken": true
+      },
+      {
+        "word": "inhale)",
+        "start": 69.36,
+        "end": 69.58,
+        "adlib": true,
         "spoken": true
       }
     ],
-    "time": 72.09,
-    "end": 72.607
+    "time": 57.02,
+    "end": 69.58
   },
   {
     "text": "Off a pill, givin' head, baby lost all her braincells",
-    "startTime": 72.617,
+    "startTime": 69.59,
     "endTime": 74.35,
     "words": [
       {
         "word": "Off",
-        "start": 72.617,
-        "end": 72.657
+        "start": 69.59,
+        "end": 70.16,
+        "char_starts": [
+          69.59,
+          69.764,
+          70.035
+        ]
       },
       {
         "word": "a",
-        "start": 72.667,
-        "end": 72.707
+        "start": 70.17,
+        "end": 70.3
       },
       {
         "word": "pill,",
-        "start": 72.717,
-        "end": 72.765
+        "start": 70.31,
+        "end": 70.35
       },
       {
         "word": "givin'",
-        "start": 72.775,
-        "end": 72.8
+        "start": 70.71,
+        "end": 71.2,
+        "char_starts": [
+          70.71,
+          70.759,
+          70.812,
+          70.876,
+          70.947,
+          71.024
+        ],
+        "spoken": true
       },
       {
         "word": "head,",
-        "start": 72.81,
-        "end": 73.175,
+        "start": 71.58,
+        "end": 71.78,
         "spoken": true
       },
       {
         "word": "baby",
-        "start": 73.185,
-        "end": 73.475,
+        "start": 71.79,
+        "end": 72.16,
         "spoken": true
       },
       {
         "word": "lost",
-        "start": 73.624,
-        "end": 73.775,
+        "start": 72.17,
+        "end": 72.32,
         "spoken": true
       },
       {
         "word": "all",
-        "start": 73.785,
-        "end": 74.0,
+        "start": 72.446,
+        "end": 73.82,
+        "char_starts": [
+          72.446,
+          72.78,
+          73.298
+        ],
         "spoken": true
       },
       {
         "word": "her",
-        "start": 74.01,
+        "start": 74.0,
         "end": 74.3,
         "spoken": true
       },
@@ -442,18 +498,19 @@
         "end": 74.35
       }
     ],
-    "time": 72.617,
+    "time": 69.59,
     "end": 74.35
   },
   {
-    "text": "Shawty, I'm a murderer, but I don't wanna murder ya",
-    "startTime": 77.28,
-    "endTime": 82.81,
+    "text": "Shawty, I'm a murderer (I'm a murderer), but I don't wanna murder ya",
+    "startTime": 74.36,
+    "endTime": 86.62,
     "words": [
       {
         "word": "Shawty,",
-        "start": 77.28,
-        "end": 77.43
+        "start": 74.36,
+        "end": 74.62,
+        "spoken": true
       },
       {
         "word": "I'm",
@@ -468,623 +525,1423 @@
         "spoken": true
       },
       {
-        "word": "murderer,",
+        "word": "murderer",
         "start": 79.8,
-        "end": 80.78,
+        "end": 80.94,
         "char_starts": [
           79.8,
-          79.865,
-          79.93,
-          79.995,
-          80.06,
-          80.129,
-          80.204,
-          80.283,
-          80.365
+          79.885,
+          79.971,
+          80.056,
+          80.148,
+          80.249,
+          80.355,
+          80.467
         ],
         "spoken": true
       },
       {
-        "word": "but",
-        "start": 80.79,
-        "end": 80.94
-      },
-      {
-        "word": "I",
-        "start": 81.3,
-        "end": 82.12,
-        "spoken": true
-      },
-      {
-        "word": "don't",
-        "start": 82.13,
-        "end": 82.66,
-        "spoken": true
-      },
-      {
-        "word": "wanna",
-        "start": 82.67,
-        "end": 82.71
-      },
-      {
-        "word": "murder",
-        "start": 82.72,
-        "end": 82.76
-      },
-      {
-        "word": "ya",
-        "start": 82.77,
-        "end": 82.81
-      }
-    ],
-    "time": 77.28,
-    "end": 82.81
-  },
-  {
-    "text": "What the me you gonna do",
-    "startTime": 82.82,
-    "endTime": 84.133,
-    "words": [
-      {
-        "word": "What",
-        "start": 82.82,
-        "end": 82.86
-      },
-      {
-        "word": "the",
-        "start": 82.87,
-        "end": 82.92
-      },
-      {
-        "word": "me",
-        "start": 82.93,
-        "end": 83.122,
-        "spoken": true
-      },
-      {
-        "word": "you",
-        "start": 83.308,
-        "end": 83.426
-      },
-      {
-        "word": "gonna",
-        "start": 83.436,
-        "end": 83.931,
-        "spoken": true
-      },
-      {
-        "word": "do",
-        "start": 83.941,
-        "end": 84.133,
-        "spoken": true
-      }
-    ],
-    "time": 82.82,
-    "end": 84.133
-  },
-  {
-    "text": "When me and",
-    "startTime": 84.143,
-    "endTime": 85.04,
-    "words": [
-      {
-        "word": "When",
-        "start": 84.38,
-        "end": 84.538,
-        "spoken": true
-      },
-      {
-        "word": "me",
-        "start": 84.548,
-        "end": 84.74,
-        "spoken": true
-      },
-      {
-        "word": "and",
-        "start": 84.75,
-        "end": 85.04,
-        "spoken": true
-      }
-    ],
-    "time": 84.143,
-    "end": 85.04
-  },
-  {
-    "text": "●",
-    "startTime": 85.34,
-    "endTime": 92.3,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 85.34,
-    "end": 92.3
-  },
-  {
-    "text": "Lil Peep pull up on you like skrrt skrrt skrrt?",
-    "startTime": 92.3,
-    "endTime": 97.92,
-    "words": [
-      {
-        "word": "Lil",
-        "start": 92.408,
-        "end": 92.48
-      },
-      {
-        "word": "Peep",
-        "start": 94.78,
-        "end": 95.12,
-        "spoken": true
-      },
-      {
-        "word": "pull",
-        "start": 95.362,
-        "end": 96.253,
-        "char_starts": [
-          95.362,
-          95.508,
-          95.735,
-          96.006
-        ],
-        "spoken": true
-      },
-      {
-        "word": "up",
-        "start": 96.263,
-        "end": 96.82,
-        "spoken": true
-      },
-      {
-        "word": "on",
-        "start": 96.83,
-        "end": 96.96,
-        "spoken": true
-      },
-      {
-        "word": "you",
-        "start": 97.06,
-        "end": 97.12
-      },
-      {
-        "word": "like",
-        "start": 97.17,
-        "end": 97.32,
-        "spoken": true
-      },
-      {
-        "word": "skrrt",
-        "start": 97.37,
-        "end": 97.52,
-        "spoken": true
-      },
-      {
-        "word": "skrrt",
-        "start": 97.57,
-        "end": 97.72,
-        "char_starts": [
-          97.57,
-          97.599,
-          97.63,
-          97.661,
-          97.693
-        ],
-        "spoken": true
-      },
-      {
-        "word": "skrrt?",
-        "start": 97.77,
-        "end": 97.92,
-        "spoken": true
-      }
-    ],
-    "time": 92.3,
-    "end": 97.92
-  },
-  {
-    "text": "●",
-    "startTime": 98.22,
-    "endTime": 127.83,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 98.22,
-    "end": 127.83
-  },
-  {
-    "text": "I promise you, I got a lot of problems",
-    "startTime": 127.83,
-    "endTime": 135.64,
-    "words": [
-      {
-        "word": "I",
-        "start": 127.83,
-        "end": 128.1,
-        "spoken": true
-      },
-      {
-        "word": "promise",
-        "start": 128.46,
-        "end": 129.6,
-        "char_starts": [
-          128.46,
-          128.558,
-          128.656,
-          128.754,
-          128.87,
-          129.002,
-          129.148
-        ],
-        "spoken": true
-      },
-      {
-        "word": "you,",
-        "start": 129.656,
-        "end": 131.1,
-        "char_starts": [
-          129.656,
-          129.873,
-          130.195,
-          130.582
-        ]
-      },
-      {
-        "word": "I",
-        "start": 134.223,
-        "end": 134.7,
-        "spoken": true
-      },
-      {
-        "word": "got",
-        "start": 134.71,
-        "end": 134.88,
+        "word": "(I'm",
+        "start": 83.5,
+        "end": 83.78,
+        "adlib": true,
         "spoken": true
       },
       {
         "word": "a",
-        "start": 134.89,
-        "end": 135.04,
+        "start": 83.79,
+        "end": 83.96,
+        "adlib": true,
+        "spoken": true
+      },
+      {
+        "word": "murderer),",
+        "start": 84.32,
+        "end": 84.74,
+        "char_starts": [
+          84.32,
+          84.35,
+          84.38,
+          84.41,
+          84.44,
+          84.47,
+          84.501,
+          84.534,
+          84.568,
+          84.603
+        ],
+        "adlib": true,
+        "spoken": true
+      },
+      {
+        "word": "but",
+        "start": 85.54,
+        "end": 85.66,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 85.67,
+        "end": 85.82,
+        "spoken": true
+      },
+      {
+        "word": "don't",
+        "start": 85.87,
+        "end": 86.02,
+        "spoken": true
+      },
+      {
+        "word": "wanna",
+        "start": 86.07,
+        "end": 86.22,
+        "spoken": true
+      },
+      {
+        "word": "murder",
+        "start": 86.27,
+        "end": 86.42,
+        "spoken": true
+      },
+      {
+        "word": "ya",
+        "start": 86.47,
+        "end": 86.62,
+        "spoken": true
+      }
+    ],
+    "time": 74.36,
+    "end": 86.62
+  },
+  {
+    "text": "What the fuck you gonna do",
+    "startTime": 89.67,
+    "endTime": 89.96,
+    "words": [
+      {
+        "word": "What",
+        "start": 89.67,
+        "end": 89.71
+      },
+      {
+        "word": "the",
+        "start": 89.72,
+        "end": 89.76
+      },
+      {
+        "word": "fuck",
+        "start": 89.77,
+        "end": 89.81
+      },
+      {
+        "word": "you",
+        "start": 89.82,
+        "end": 89.86
+      },
+      {
+        "word": "gonna",
+        "start": 89.87,
+        "end": 89.91
+      },
+      {
+        "word": "do",
+        "start": 89.92,
+        "end": 89.96
+      }
+    ],
+    "time": 89.67,
+    "end": 89.96
+  },
+  {
+    "text": "When me and Lil Peep pull up on you like skrrt-skrrt-skrrt?",
+    "startTime": 89.97,
+    "endTime": 90.51,
+    "words": [
+      {
+        "word": "When",
+        "start": 89.97,
+        "end": 90.01
+      },
+      {
+        "word": "me",
+        "start": 90.02,
+        "end": 90.06
+      },
+      {
+        "word": "and",
+        "start": 90.07,
+        "end": 90.11
+      },
+      {
+        "word": "Lil",
+        "start": 90.12,
+        "end": 90.16
+      },
+      {
+        "word": "Peep",
+        "start": 90.17,
+        "end": 90.21
+      },
+      {
+        "word": "pull",
+        "start": 90.22,
+        "end": 90.26
+      },
+      {
+        "word": "up",
+        "start": 90.27,
+        "end": 90.31
+      },
+      {
+        "word": "on",
+        "start": 90.32,
+        "end": 90.36
+      },
+      {
+        "word": "you",
+        "start": 90.37,
+        "end": 90.41
+      },
+      {
+        "word": "like",
+        "start": 90.42,
+        "end": 90.46
+      },
+      {
+        "word": "skrrt-skrrt-skrrt?",
+        "start": 90.47,
+        "end": 90.51
+      }
+    ],
+    "time": 89.97,
+    "end": 90.51
+  },
+  {
+    "text": "I promise you, I got a lot of problems",
+    "startTime": 90.52,
+    "endTime": 97.02,
+    "words": [
+      {
+        "word": "I",
+        "start": 90.52,
+        "end": 90.62,
+        "spoken": true
+      },
+      {
+        "word": "promise",
+        "start": 90.793,
+        "end": 90.96,
+        "spoken": true
+      },
+      {
+        "word": "you,",
+        "start": 90.97,
+        "end": 92.46,
+        "char_starts": [
+          90.97,
+          91.194,
+          91.533,
+          91.94
+        ]
+      },
+      {
+        "word": "I",
+        "start": 95.623,
+        "end": 96.08,
+        "spoken": true
+      },
+      {
+        "word": "got",
+        "start": 96.09,
+        "end": 96.26,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 96.27,
+        "end": 96.42,
         "spoken": true
       },
       {
         "word": "lot",
-        "start": 135.09,
-        "end": 135.24,
+        "start": 96.47,
+        "end": 96.62,
+        "char_starts": [
+          96.47,
+          96.523,
+          96.59
+        ],
         "spoken": true
       },
       {
         "word": "of",
-        "start": 135.29,
-        "end": 135.44,
+        "start": 96.67,
+        "end": 96.82,
         "spoken": true
       },
       {
         "word": "problems",
-        "start": 135.49,
-        "end": 135.64,
+        "start": 96.87,
+        "end": 97.02,
         "spoken": true
       }
     ],
-    "time": 127.83,
-    "end": 135.64
+    "time": 90.52,
+    "end": 97.02
   },
   {
     "text": "●",
-    "startTime": 135.94,
-    "endTime": 142.905,
+    "startTime": 97.32,
+    "endTime": 105.84,
     "words": [],
     "type": "vocal_cue",
-    "time": 135.94,
-    "end": 142.905
+    "time": 97.32,
+    "end": 105.84
   },
   {
-    "text": "Baby girl, don't even bother, ooh, ooh, ooh, oh my god",
-    "startTime": 142.905,
-    "endTime": 146.938,
+    "text": "Baby girl, don't even bother, ooh,",
+    "startTime": 105.84,
+    "endTime": 106.49,
     "words": [
       {
         "word": "Baby",
-        "start": 143.053,
-        "end": 143.152,
+        "start": 105.84,
+        "end": 105.94,
         "spoken": true
       },
       {
         "word": "girl,",
-        "start": 143.162,
-        "end": 143.473,
-        "sung": true
+        "start": 105.95,
+        "end": 106.05,
+        "spoken": true
       },
       {
         "word": "don't",
-        "start": 143.669,
-        "end": 143.794,
-        "sung": true
+        "start": 106.06,
+        "end": 106.16,
+        "spoken": true
       },
       {
         "word": "even",
-        "start": 143.804,
-        "end": 144.051,
+        "start": 106.17,
+        "end": 106.27,
         "spoken": true
       },
       {
         "word": "bother,",
-        "start": 144.061,
-        "end": 144.5,
+        "start": 106.28,
+        "end": 106.38,
         "spoken": true
       },
       {
         "word": "ooh,",
-        "start": 144.51,
-        "end": 144.7,
+        "start": 106.39,
+        "end": 106.49,
+        "spoken": true
+      }
+    ],
+    "time": 105.84,
+    "end": 106.49
+  },
+  {
+    "text": "●",
+    "startTime": 106.79,
+    "endTime": 115.62,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 106.79,
+    "end": 115.62
+  },
+  {
+    "text": "ooh, ooh, ooh, oh my god",
+    "startTime": 115.62,
+    "endTime": 120.02,
+    "words": [
+      {
+        "word": "ooh,",
+        "start": 115.62,
+        "end": 116.1,
         "spoken": true
       },
       {
         "word": "ooh,",
-        "start": 144.826,
-        "end": 145.244,
-        "char_starts": [
-          144.826,
-          144.895,
-          145.0,
-          145.127
-        ],
+        "start": 116.62,
+        "end": 116.94,
         "spoken": true
       },
       {
         "word": "ooh,",
-        "start": 145.254,
-        "end": 145.788,
-        "char_starts": [
-          145.254,
-          145.349,
-          145.495,
-          145.671
-        ],
+        "start": 119.16,
+        "end": 119.36,
         "spoken": true
       },
       {
         "word": "oh",
-        "start": 145.955,
-        "end": 146.06,
-        "spoken": true
+        "start": 119.37,
+        "end": 119.56
       },
       {
         "word": "my",
-        "start": 146.07,
-        "end": 146.32,
-        "spoken": true
+        "start": 119.57,
+        "end": 119.86
       },
       {
         "word": "god",
-        "start": 146.33,
-        "end": 146.938,
-        "char_starts": [
-          146.33,
-          146.516,
-          146.804
-        ],
+        "start": 119.87,
+        "end": 120.02,
         "spoken": true
       }
     ],
-    "time": 142.905,
-    "end": 146.938
+    "time": 115.62,
+    "end": 120.02
+  },
+  {
+    "text": "●",
+    "startTime": 120.32,
+    "endTime": 132.99,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 120.32,
+    "end": 132.99
   },
   {
     "text": "More murder, more murder",
-    "startTime": 146.948,
-    "endTime": 151.26,
+    "startTime": 132.99,
+    "endTime": 133.18,
     "words": [
       {
         "word": "More",
-        "start": 147.298,
-        "end": 147.761,
-        "char_starts": [
-          147.298,
-          147.367,
-          147.442,
-          147.542
-        ],
-        "spoken": true
+        "start": 132.99,
+        "end": 133.03
       },
       {
         "word": "murder,",
-        "start": 147.771,
-        "end": 149.202,
-        "char_starts": [
-          147.771,
-          147.894,
-          148.022,
-          148.174,
-          148.344,
-          148.529,
-          148.727
-        ]
+        "start": 133.04,
+        "end": 133.08
       },
       {
         "word": "more",
-        "start": 149.398,
-        "end": 150.025,
-        "char_starts": [
-          149.398,
-          149.492,
-          149.622,
-          149.796
-        ]
+        "start": 133.09,
+        "end": 133.13
       },
       {
         "word": "murder",
-        "start": 150.385,
-        "end": 151.26,
-        "char_starts": [
-          150.385,
-          150.472,
-          150.56,
-          150.654,
-          150.758,
-          150.871
-        ],
-        "spoken": true
+        "start": 133.14,
+        "end": 133.18
       }
     ],
-    "time": 146.948,
-    "end": 151.26
+    "time": 132.99,
+    "end": 133.18
+  },
+  {
+    "text": "●",
+    "startTime": 133.48,
+    "endTime": 138.86,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 133.48,
+    "end": 138.86
   },
   {
     "text": "Shawty, don't get too close, I don't wanna hurt ya",
-    "startTime": 151.27,
-    "endTime": 152.03,
+    "startTime": 138.86,
+    "endTime": 140.54,
     "words": [
       {
         "word": "Shawty,",
+        "start": 138.86,
+        "end": 139.01,
+        "spoken": true
+      },
+      {
+        "word": "don't",
+        "start": 139.06,
+        "end": 139.21,
+        "char_starts": [
+          139.06,
+          139.087,
+          139.114,
+          139.142,
+          139.17
+        ],
+        "spoken": true
+      },
+      {
+        "word": "get",
+        "start": 139.26,
+        "end": 139.41,
+        "spoken": true
+      },
+      {
+        "word": "too",
+        "start": 139.46,
+        "end": 139.72
+      },
+      {
+        "word": "close,",
+        "start": 139.73,
+        "end": 140.1,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 140.248,
+        "end": 140.34
+      },
+      {
+        "word": "don't",
+        "start": 140.35,
+        "end": 140.39
+      },
+      {
+        "word": "wanna",
+        "start": 140.4,
+        "end": 140.44
+      },
+      {
+        "word": "hurt",
+        "start": 140.45,
+        "end": 140.49
+      },
+      {
+        "word": "ya",
+        "start": 140.5,
+        "end": 140.54
+      }
+    ],
+    "time": 138.86,
+    "end": 140.54
+  },
+  {
+    "text": "But I'm lovin' the torture",
+    "startTime": 140.55,
+    "endTime": 140.79,
+    "words": [
+      {
+        "word": "But",
+        "start": 140.55,
+        "end": 140.59
+      },
+      {
+        "word": "I'm",
+        "start": 140.6,
+        "end": 140.64
+      },
+      {
+        "word": "lovin'",
+        "start": 140.65,
+        "end": 140.69
+      },
+      {
+        "word": "the",
+        "start": 140.7,
+        "end": 140.74
+      },
+      {
+        "word": "torture",
+        "start": 140.75,
+        "end": 140.79
+      }
+    ],
+    "time": 140.55,
+    "end": 140.79
+  },
+  {
+    "text": "All the games that we play, when we out for the coca",
+    "startTime": 140.8,
+    "endTime": 141.39,
+    "words": [
+      {
+        "word": "All",
+        "start": 140.8,
+        "end": 140.84
+      },
+      {
+        "word": "the",
+        "start": 140.85,
+        "end": 140.89
+      },
+      {
+        "word": "games",
+        "start": 140.9,
+        "end": 140.94
+      },
+      {
+        "word": "that",
+        "start": 140.95,
+        "end": 140.99
+      },
+      {
+        "word": "we",
+        "start": 141.0,
+        "end": 141.04
+      },
+      {
+        "word": "play,",
+        "start": 141.05,
+        "end": 141.09
+      },
+      {
+        "word": "when",
+        "start": 141.1,
+        "end": 141.14
+      },
+      {
+        "word": "we",
+        "start": 141.15,
+        "end": 141.19
+      },
+      {
+        "word": "out",
+        "start": 141.2,
+        "end": 141.24
+      },
+      {
+        "word": "for",
+        "start": 141.25,
+        "end": 141.29
+      },
+      {
+        "word": "the",
+        "start": 141.3,
+        "end": 141.34
+      },
+      {
+        "word": "coca",
+        "start": 141.35,
+        "end": 141.39
+      }
+    ],
+    "time": 140.8,
+    "end": 141.39
+  },
+  {
+    "text": "Yeah, I'm off of the vica, I'm a biker",
+    "startTime": 141.4,
+    "endTime": 141.84,
+    "words": [
+      {
+        "word": "Yeah,",
+        "start": 141.4,
+        "end": 141.44
+      },
+      {
+        "word": "I'm",
+        "start": 141.45,
+        "end": 141.49
+      },
+      {
+        "word": "off",
+        "start": 141.5,
+        "end": 141.54
+      },
+      {
+        "word": "of",
+        "start": 141.55,
+        "end": 141.59
+      },
+      {
+        "word": "the",
+        "start": 141.6,
+        "end": 141.64
+      },
+      {
+        "word": "vica,",
+        "start": 141.65,
+        "end": 141.69
+      },
+      {
+        "word": "I'm",
+        "start": 141.7,
+        "end": 141.74
+      },
+      {
+        "word": "a",
+        "start": 141.75,
+        "end": 141.79
+      },
+      {
+        "word": "biker",
+        "start": 141.8,
+        "end": 141.84
+      }
+    ],
+    "time": 141.4,
+    "end": 141.84
+  },
+  {
+    "text": "When you look at my ink, uh",
+    "startTime": 141.85,
+    "endTime": 142.19,
+    "words": [
+      {
+        "word": "When",
+        "start": 141.85,
+        "end": 141.89
+      },
+      {
+        "word": "you",
+        "start": 141.9,
+        "end": 141.94
+      },
+      {
+        "word": "look",
+        "start": 141.95,
+        "end": 141.99
+      },
+      {
+        "word": "at",
+        "start": 142.0,
+        "end": 142.04
+      },
+      {
+        "word": "my",
+        "start": 142.05,
+        "end": 142.09
+      },
+      {
+        "word": "ink,",
+        "start": 142.1,
+        "end": 142.14
+      },
+      {
+        "word": "uh",
+        "start": 142.15,
+        "end": 142.19
+      }
+    ],
+    "time": 141.85,
+    "end": 142.19
+  },
+  {
+    "text": "Drippin' blood in the sink, uh",
+    "startTime": 142.2,
+    "endTime": 142.49,
+    "words": [
+      {
+        "word": "Drippin'",
+        "start": 142.2,
+        "end": 142.24
+      },
+      {
+        "word": "blood",
+        "start": 142.25,
+        "end": 142.29
+      },
+      {
+        "word": "in",
+        "start": 142.3,
+        "end": 142.34
+      },
+      {
+        "word": "the",
+        "start": 142.35,
+        "end": 142.39
+      },
+      {
+        "word": "sink,",
+        "start": 142.4,
+        "end": 142.44
+      },
+      {
+        "word": "uh",
+        "start": 142.45,
+        "end": 142.49
+      }
+    ],
+    "time": 142.2,
+    "end": 142.49
+  },
+  {
+    "text": "I'm a drinker, and I’m talkin' 'bout pink, uh",
+    "startTime": 142.5,
+    "endTime": 142.94,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 142.5,
+        "end": 142.54
+      },
+      {
+        "word": "a",
+        "start": 142.55,
+        "end": 142.59
+      },
+      {
+        "word": "drinker,",
+        "start": 142.6,
+        "end": 142.64
+      },
+      {
+        "word": "and",
+        "start": 142.65,
+        "end": 142.69
+      },
+      {
+        "word": "I’m",
+        "start": 142.7,
+        "end": 142.74
+      },
+      {
+        "word": "talkin'",
+        "start": 142.75,
+        "end": 142.79
+      },
+      {
+        "word": "'bout",
+        "start": 142.8,
+        "end": 142.84
+      },
+      {
+        "word": "pink,",
+        "start": 142.85,
+        "end": 142.89
+      },
+      {
+        "word": "uh",
+        "start": 142.9,
+        "end": 142.94
+      }
+    ],
+    "time": 142.5,
+    "end": 142.94
+  },
+  {
+    "text": "Ridin' round Encinitas",
+    "startTime": 142.95,
+    "endTime": 143.09,
+    "words": [
+      {
+        "word": "Ridin'",
+        "start": 142.95,
+        "end": 142.99
+      },
+      {
+        "word": "round",
+        "start": 143.0,
+        "end": 143.04
+      },
+      {
+        "word": "Encinitas",
+        "start": 143.05,
+        "end": 143.09
+      }
+    ],
+    "time": 142.95,
+    "end": 143.09
+  },
+  {
+    "text": "I'm a creeper, I had sex with my teacher (Damn)",
+    "startTime": 143.1,
+    "endTime": 143.59,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 143.1,
+        "end": 143.14
+      },
+      {
+        "word": "a",
+        "start": 143.15,
+        "end": 143.19
+      },
+      {
+        "word": "creeper,",
+        "start": 143.2,
+        "end": 143.24
+      },
+      {
+        "word": "I",
+        "start": 143.25,
+        "end": 143.29
+      },
+      {
+        "word": "had",
+        "start": 143.3,
+        "end": 143.34
+      },
+      {
+        "word": "sex",
+        "start": 143.35,
+        "end": 143.39
+      },
+      {
+        "word": "with",
+        "start": 143.4,
+        "end": 143.44
+      },
+      {
+        "word": "my",
+        "start": 143.45,
+        "end": 143.49
+      },
+      {
+        "word": "teacher",
+        "start": 143.5,
+        "end": 143.54
+      },
+      {
+        "word": "(Damn)",
+        "start": 143.55,
+        "end": 143.59,
+        "adlib": true
+      }
+    ],
+    "time": 143.1,
+    "end": 143.59
+  },
+  {
+    "text": "This bitch is so bad, she let Neeks fuck (What?)",
+    "startTime": 143.6,
+    "endTime": 144.09,
+    "words": [
+      {
+        "word": "This",
+        "start": 143.6,
+        "end": 143.64
+      },
+      {
+        "word": "bitch",
+        "start": 143.65,
+        "end": 143.69
+      },
+      {
+        "word": "is",
+        "start": 143.7,
+        "end": 143.74
+      },
+      {
+        "word": "so",
+        "start": 143.75,
+        "end": 143.79
+      },
+      {
+        "word": "bad,",
+        "start": 143.8,
+        "end": 143.84
+      },
+      {
+        "word": "she",
+        "start": 143.85,
+        "end": 143.89
+      },
+      {
+        "word": "let",
+        "start": 143.9,
+        "end": 143.94
+      },
+      {
+        "word": "Neeks",
+        "start": 143.95,
+        "end": 143.99
+      },
+      {
+        "word": "fuck",
+        "start": 144.0,
+        "end": 144.04
+      },
+      {
+        "word": "(What?)",
+        "start": 144.05,
+        "end": 144.09,
+        "adlib": true
+      }
+    ],
+    "time": 143.6,
+    "end": 144.09
+  },
+  {
+    "text": "This bitch is so bad, she let Peep fuck",
+    "startTime": 144.1,
+    "endTime": 144.54,
+    "words": [
+      {
+        "word": "This",
+        "start": 144.1,
+        "end": 144.14
+      },
+      {
+        "word": "bitch",
+        "start": 144.15,
+        "end": 144.19
+      },
+      {
+        "word": "is",
+        "start": 144.2,
+        "end": 144.24
+      },
+      {
+        "word": "so",
+        "start": 144.25,
+        "end": 144.29
+      },
+      {
+        "word": "bad,",
+        "start": 144.3,
+        "end": 144.34
+      },
+      {
+        "word": "she",
+        "start": 144.35,
+        "end": 144.39
+      },
+      {
+        "word": "let",
+        "start": 144.4,
+        "end": 144.44
+      },
+      {
+        "word": "Peep",
+        "start": 144.45,
+        "end": 144.49
+      },
+      {
+        "word": "fuck",
+        "start": 144.5,
+        "end": 144.54
+      }
+    ],
+    "time": 144.1,
+    "end": 144.54
+  },
+  {
+    "text": "I got my face in her D cups",
+    "startTime": 144.55,
+    "endTime": 144.94,
+    "words": [
+      {
+        "word": "I",
+        "start": 144.55,
+        "end": 144.59
+      },
+      {
+        "word": "got",
+        "start": 144.6,
+        "end": 144.64
+      },
+      {
+        "word": "my",
+        "start": 144.65,
+        "end": 144.69
+      },
+      {
+        "word": "face",
+        "start": 144.7,
+        "end": 144.74
+      },
+      {
+        "word": "in",
+        "start": 144.75,
+        "end": 144.79
+      },
+      {
+        "word": "her",
+        "start": 144.8,
+        "end": 144.84
+      },
+      {
+        "word": "D",
+        "start": 144.85,
+        "end": 144.89
+      },
+      {
+        "word": "cups",
+        "start": 144.9,
+        "end": 144.94
+      }
+    ],
+    "time": 144.55,
+    "end": 144.94
+  },
+  {
+    "text": "I put my face in the lean cup",
+    "startTime": 144.95,
+    "endTime": 145.34,
+    "words": [
+      {
+        "word": "I",
+        "start": 144.95,
+        "end": 144.99
+      },
+      {
+        "word": "put",
+        "start": 145.0,
+        "end": 145.04
+      },
+      {
+        "word": "my",
+        "start": 145.05,
+        "end": 145.09
+      },
+      {
+        "word": "face",
+        "start": 145.1,
+        "end": 145.14
+      },
+      {
+        "word": "in",
+        "start": 145.15,
+        "end": 145.19
+      },
+      {
+        "word": "the",
+        "start": 145.2,
+        "end": 145.24
+      },
+      {
+        "word": "lean",
+        "start": 145.25,
+        "end": 145.29
+      },
+      {
+        "word": "cup",
+        "start": 145.3,
+        "end": 145.34
+      }
+    ],
+    "time": 144.95,
+    "end": 145.34
+  },
+  {
+    "text": "I go to sleep and I see stuff",
+    "startTime": 145.35,
+    "endTime": 145.98,
+    "words": [
+      {
+        "word": "I",
+        "start": 145.35,
+        "end": 145.39
+      },
+      {
+        "word": "go",
+        "start": 145.4,
+        "end": 145.44
+      },
+      {
+        "word": "to",
+        "start": 145.45,
+        "end": 145.49
+      },
+      {
+        "word": "sleep",
+        "start": 145.5,
+        "end": 145.54
+      },
+      {
+        "word": "and",
+        "start": 145.55,
+        "end": 145.65,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 145.66,
+        "end": 145.76,
+        "spoken": true
+      },
+      {
+        "word": "see",
+        "start": 145.77,
+        "end": 145.87
+      },
+      {
+        "word": "stuff",
+        "start": 145.94,
+        "end": 145.98
+      }
+    ],
+    "time": 145.35,
+    "end": 145.98
+  },
+  {
+    "text": "Call it a dream, but I'm livin' it",
+    "startTime": 145.99,
+    "endTime": 146.86,
+    "words": [
+      {
+        "word": "Call",
+        "start": 145.99,
+        "end": 146.09,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 146.1,
+        "end": 146.2,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 146.21,
+        "end": 146.31,
+        "spoken": true
+      },
+      {
+        "word": "dream,",
+        "start": 146.32,
+        "end": 146.42,
+        "spoken": true
+      },
+      {
+        "word": "but",
+        "start": 146.43,
+        "end": 146.53,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 146.54,
+        "end": 146.64,
+        "spoken": true
+      },
+      {
+        "word": "livin'",
+        "start": 146.65,
+        "end": 146.75
+      },
+      {
+        "word": "it",
+        "start": 146.76,
+        "end": 146.86
+      }
+    ],
+    "time": 145.99,
+    "end": 146.86
+  },
+  {
+    "text": "I pray to God, he forgivin' it (Please)",
+    "startTime": 146.87,
+    "endTime": 147.74,
+    "words": [
+      {
+        "word": "I",
+        "start": 146.87,
+        "end": 146.97
+      },
+      {
+        "word": "pray",
+        "start": 146.98,
+        "end": 147.08
+      },
+      {
+        "word": "to",
+        "start": 147.09,
+        "end": 147.19
+      },
+      {
+        "word": "God,",
+        "start": 147.2,
+        "end": 147.3
+      },
+      {
+        "word": "he",
+        "start": 147.31,
+        "end": 147.41
+      },
+      {
+        "word": "forgivin'",
+        "start": 147.42,
+        "end": 147.52
+      },
+      {
+        "word": "it",
+        "start": 147.53,
+        "end": 147.63
+      },
+      {
+        "word": "(Please)",
+        "start": 147.64,
+        "end": 147.74,
+        "adlib": true
+      }
+    ],
+    "time": 146.87,
+    "end": 147.74
+  },
+  {
+    "text": "I'm finna pop me a Ritalin",
+    "startTime": 147.75,
+    "endTime": 148.4,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 147.75,
+        "end": 147.85,
+        "spoken": true
+      },
+      {
+        "word": "finna",
+        "start": 147.86,
+        "end": 147.96,
+        "spoken": true
+      },
+      {
+        "word": "pop",
+        "start": 147.97,
+        "end": 148.07,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 148.08,
+        "end": 148.18,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 148.19,
+        "end": 148.29,
+        "spoken": true
+      },
+      {
+        "word": "Ritalin",
+        "start": 148.3,
+        "end": 148.4,
+        "spoken": true
+      }
+    ],
+    "time": 147.75,
+    "end": 148.4
+  },
+  {
+    "text": "Bitch, who the fuck is you kiddin' with? (What?)",
+    "startTime": 148.41,
+    "endTime": 150.52,
+    "words": [
+      {
+        "word": "Bitch,",
+        "start": 148.41,
+        "end": 148.52,
+        "spoken": true
+      },
+      {
+        "word": "who",
+        "start": 148.53,
+        "end": 148.72,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 148.73,
+        "end": 148.94,
+        "spoken": true
+      },
+      {
+        "word": "fuck",
+        "start": 148.95,
+        "end": 149.1,
+        "spoken": true
+      },
+      {
+        "word": "is",
+        "start": 149.11,
+        "end": 149.26,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 149.409,
+        "end": 149.52
+      },
+      {
+        "word": "kiddin'",
+        "start": 149.53,
+        "end": 149.72,
+        "spoken": true
+      },
+      {
+        "word": "with?",
+        "start": 149.73,
+        "end": 150.2,
+        "spoken": true
+      },
+      {
+        "word": "(What?)",
+        "start": 150.21,
+        "end": 150.52,
+        "adlib": true,
+        "spoken": true
+      }
+    ],
+    "time": 148.41,
+    "end": 150.52
+  },
+  {
+    "text": "You know your shawty is listenin' (Don't lie to me, bitch)",
+    "startTime": 150.53,
+    "endTime": 153.552,
+    "words": [
+      {
+        "word": "You",
+        "start": 150.576,
+        "end": 150.74,
+        "spoken": true
+      },
+      {
+        "word": "know",
+        "start": 150.75,
+        "end": 150.94,
+        "spoken": true
+      },
+      {
+        "word": "your",
+        "start": 150.95,
+        "end": 151.26,
+        "spoken": true
+      },
+      {
+        "word": "shawty",
         "start": 151.27,
         "end": 151.58
       },
       {
-        "word": "don't",
-        "start": 151.59,
-        "end": 151.63
+        "word": "is",
+        "start": 151.716,
+        "end": 151.8,
+        "spoken": true
       },
       {
-        "word": "get",
-        "start": 151.64,
-        "end": 151.68
+        "word": "listenin'",
+        "start": 151.996,
+        "end": 152.16,
+        "spoken": true
       },
       {
-        "word": "too",
-        "start": 151.69,
-        "end": 151.73
+        "word": "(Don't",
+        "start": 152.263,
+        "end": 152.578,
+        "adlib": true,
+        "spoken": true
       },
       {
-        "word": "close,",
-        "start": 151.74,
-        "end": 151.78
+        "word": "lie",
+        "start": 152.588,
+        "end": 152.786,
+        "adlib": true,
+        "whisper": true
       },
       {
-        "word": "I",
-        "start": 151.79,
-        "end": 151.83
+        "word": "to",
+        "start": 152.796,
+        "end": 152.925,
+        "adlib": true,
+        "spoken": true
       },
       {
-        "word": "don't",
-        "start": 151.84,
-        "end": 151.88
+        "word": "me,",
+        "start": 152.935,
+        "end": 153.134,
+        "adlib": true,
+        "spoken": true
       },
       {
-        "word": "wanna",
-        "start": 151.89,
-        "end": 151.93
-      },
-      {
-        "word": "hurt",
-        "start": 151.94,
-        "end": 151.98
-      },
-      {
-        "word": "ya",
-        "start": 151.99,
-        "end": 152.03
+        "word": "bitch)",
+        "start": 153.144,
+        "end": 153.552,
+        "adlib": true
       }
     ],
-    "time": 151.27,
-    "end": 152.03
-  },
-  {
-    "text": "But I'm lovin' the torture",
-    "startTime": 152.04,
-    "endTime": 152.28,
-    "words": [
-      {
-        "word": "But",
-        "start": 152.04,
-        "end": 152.08
-      },
-      {
-        "word": "I'm",
-        "start": 152.09,
-        "end": 152.13
-      },
-      {
-        "word": "lovin'",
-        "start": 152.14,
-        "end": 152.18
-      },
-      {
-        "word": "the",
-        "start": 152.19,
-        "end": 152.23
-      },
-      {
-        "word": "torture",
-        "start": 152.24,
-        "end": 152.28
-      }
-    ],
-    "time": 152.04,
-    "end": 152.28
-  },
-  {
-    "text": "All the games that we play, when we out for the coca",
-    "startTime": 152.29,
-    "endTime": 152.88,
-    "words": [
-      {
-        "word": "All",
-        "start": 152.29,
-        "end": 152.33
-      },
-      {
-        "word": "the",
-        "start": 152.34,
-        "end": 152.38
-      },
-      {
-        "word": "games",
-        "start": 152.39,
-        "end": 152.43
-      },
-      {
-        "word": "that",
-        "start": 152.44,
-        "end": 152.48
-      },
-      {
-        "word": "we",
-        "start": 152.49,
-        "end": 152.53
-      },
-      {
-        "word": "play,",
-        "start": 152.54,
-        "end": 152.58
-      },
-      {
-        "word": "when",
-        "start": 152.59,
-        "end": 152.63
-      },
-      {
-        "word": "we",
-        "start": 152.64,
-        "end": 152.68
-      },
-      {
-        "word": "out",
-        "start": 152.69,
-        "end": 152.73
-      },
-      {
-        "word": "for",
-        "start": 152.74,
-        "end": 152.78
-      },
-      {
-        "word": "the",
-        "start": 152.79,
-        "end": 152.83
-      },
-      {
-        "word": "coca",
-        "start": 152.84,
-        "end": 152.88
-      }
-    ],
-    "time": 152.29,
-    "end": 152.88
+    "time": 150.53,
+    "end": 153.552
   }
 ]

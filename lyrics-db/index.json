@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T06:52:19.709050+00:00",
+  "generatedAt": "2026-07-12T07:05:14.773260+00:00",
   "totalTracks": 824,
   "roots": [
     "lyrics-db/tracks"
@@ -11498,20 +11498,6 @@
       "sourcePath": "https://soundcloud.com/youtheorganization/lil-peep-thinking-about-u-without-feature-extended",
       "mtimeMs": 1783807359612
     },
-    "lil peep::lil peep & neeks - mo murda (only peep, extended)": {
-      "title": "Lil Peep & Neeks - Mo Murda (Only Peep, Extended)",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - Lil Peep & Neeks - Mo Murda (Only Peep, Extended)",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-lil-peep-neeks-mo-murda-only-peep-extended-b630c9068393.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-lil-peep-neeks-mo-murda-only-peep-extended-b630c9068393.json",
-        "meta": "tracks/lil-peep-lil-peep-neeks-mo-murda-only-peep-extended-b630c9068393.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/crybaby-439341931/lil-peep-neeks-mo-murda-only-peep-extended",
-      "mtimeMs": 1783837750113
-    },
     "artem kravchenko 3::децл - лигалайз ганджа": {
       "title": "Децл - Лигалайз Ганджа",
       "artist": "Artem Kravchenko 3",
@@ -11581,6 +11567,20 @@
       },
       "sourcePath": "https://soundcloud.com/jeamus/lil-peep-around-the-world",
       "mtimeMs": 1783839143529
+    },
+    "lil peep::lil peep & neeks - mo murda (only peep, extended)": {
+      "title": "Lil Peep & Neeks - Mo Murda (Only Peep, Extended)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep & Neeks - Mo Murda (Only Peep, Extended)",
+      "source": "genius_explicit",
+      "file": "tracks/lil-peep-lil-peep-neeks-mo-murda-only-peep-extended-b630c9068393.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-neeks-mo-murda-only-peep-extended-b630c9068393.json",
+        "meta": "tracks/lil-peep-lil-peep-neeks-mo-murda-only-peep-extended-b630c9068393.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/crybaby-439341931/lil-peep-neeks-mo-murda-only-peep-extended",
+      "mtimeMs": 1783839915852
     }
   },
   "tracks": [
@@ -23097,20 +23097,6 @@
       "mtimeMs": 1783807359612
     },
     {
-      "title": "Lil Peep & Neeks - Mo Murda (Only Peep, Extended)",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - Lil Peep & Neeks - Mo Murda (Only Peep, Extended)",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-lil-peep-neeks-mo-murda-only-peep-extended-b630c9068393.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-lil-peep-neeks-mo-murda-only-peep-extended-b630c9068393.json",
-        "meta": "tracks/lil-peep-lil-peep-neeks-mo-murda-only-peep-extended-b630c9068393.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/crybaby-439341931/lil-peep-neeks-mo-murda-only-peep-extended",
-      "mtimeMs": 1783837750113
-    },
-    {
       "title": "Децл - Лигалайз Ганджа",
       "artist": "Artem Kravchenko 3",
       "originalTrackName": "Artem Kravchenko 3 - Децл - Лигалайз Ганджа",
@@ -23179,6 +23165,20 @@
       },
       "sourcePath": "https://soundcloud.com/jeamus/lil-peep-around-the-world",
       "mtimeMs": 1783839143529
+    },
+    {
+      "title": "Lil Peep & Neeks - Mo Murda (Only Peep, Extended)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep & Neeks - Mo Murda (Only Peep, Extended)",
+      "source": "genius_explicit",
+      "file": "tracks/lil-peep-lil-peep-neeks-mo-murda-only-peep-extended-b630c9068393.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-neeks-mo-murda-only-peep-extended-b630c9068393.json",
+        "meta": "tracks/lil-peep-lil-peep-neeks-mo-murda-only-peep-extended-b630c9068393.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/crybaby-439341931/lil-peep-neeks-mo-murda-only-peep-extended",
+      "mtimeMs": 1783839915852
     }
   ]
 }

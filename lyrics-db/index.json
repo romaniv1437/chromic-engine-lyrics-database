@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T07:05:14.773260+00:00",
+  "generatedAt": "2026-07-12T07:07:09.709427+00:00",
   "totalTracks": 824,
   "roots": [
     "lyrics-db/tracks"
@@ -11512,20 +11512,6 @@
       "sourcePath": "https://soundcloud.com/artem-kravchenko-3/d4shvyobfaca/s-t8xoU",
       "mtimeMs": 1783837905435
     },
-    "kizaru::kizaru x geekey- zabudem pro nih": {
-      "title": "KIZARU x GEEKEY- ZABUDEM PRO NIH",
-      "artist": "KIZARU",
-      "originalTrackName": "KIZARU - KIZARU x GEEKEY- ZABUDEM PRO NIH",
-      "source": "whisper_only",
-      "file": "tracks/kizaru-kizaru-x-geekey-zabudem-pro-nih-ab22052ec6ef.json",
-      "files": {
-        "lyrics": "tracks/kizaru-kizaru-x-geekey-zabudem-pro-nih-ab22052ec6ef.json",
-        "meta": "tracks/kizaru-kizaru-x-geekey-zabudem-pro-nih-ab22052ec6ef.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-geekey-zabudem-pro-nih-1",
-      "mtimeMs": 1783838024626
-    },
     "4hr reborn::lil peep - already grown (remastered lq)": {
       "title": "Lil Peep - Already Grown (Remastered LQ)",
       "artist": "4HR REBORN",
@@ -11581,6 +11567,20 @@
       },
       "sourcePath": "https://soundcloud.com/crybaby-439341931/lil-peep-neeks-mo-murda-only-peep-extended",
       "mtimeMs": 1783839915852
+    },
+    "kizaru::kizaru x geekey- zabudem pro nih": {
+      "title": "KIZARU x GEEKEY- ZABUDEM PRO NIH",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - KIZARU x GEEKEY- ZABUDEM PRO NIH",
+      "source": "genius_explicit",
+      "file": "tracks/kizaru-kizaru-x-geekey-zabudem-pro-nih-ab22052ec6ef.json",
+      "files": {
+        "lyrics": "tracks/kizaru-kizaru-x-geekey-zabudem-pro-nih-ab22052ec6ef.json",
+        "meta": "tracks/kizaru-kizaru-x-geekey-zabudem-pro-nih-ab22052ec6ef.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-geekey-zabudem-pro-nih-1",
+      "mtimeMs": 1783840032135
     }
   },
   "tracks": [
@@ -23111,20 +23111,6 @@
       "mtimeMs": 1783837905435
     },
     {
-      "title": "KIZARU x GEEKEY- ZABUDEM PRO NIH",
-      "artist": "KIZARU",
-      "originalTrackName": "KIZARU - KIZARU x GEEKEY- ZABUDEM PRO NIH",
-      "source": "whisper_only",
-      "file": "tracks/kizaru-kizaru-x-geekey-zabudem-pro-nih-ab22052ec6ef.json",
-      "files": {
-        "lyrics": "tracks/kizaru-kizaru-x-geekey-zabudem-pro-nih-ab22052ec6ef.json",
-        "meta": "tracks/kizaru-kizaru-x-geekey-zabudem-pro-nih-ab22052ec6ef.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-geekey-zabudem-pro-nih-1",
-      "mtimeMs": 1783838024626
-    },
-    {
       "title": "Lil Peep - Already Grown (Remastered LQ)",
       "artist": "4HR REBORN",
       "originalTrackName": "4HR REBORN - Lil Peep - Already Grown (Remastered LQ)",
@@ -23179,6 +23165,20 @@
       },
       "sourcePath": "https://soundcloud.com/crybaby-439341931/lil-peep-neeks-mo-murda-only-peep-extended",
       "mtimeMs": 1783839915852
+    },
+    {
+      "title": "KIZARU x GEEKEY- ZABUDEM PRO NIH",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - KIZARU x GEEKEY- ZABUDEM PRO NIH",
+      "source": "genius_explicit",
+      "file": "tracks/kizaru-kizaru-x-geekey-zabudem-pro-nih-ab22052ec6ef.json",
+      "files": {
+        "lyrics": "tracks/kizaru-kizaru-x-geekey-zabudem-pro-nih-ab22052ec6ef.json",
+        "meta": "tracks/kizaru-kizaru-x-geekey-zabudem-pro-nih-ab22052ec6ef.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-geekey-zabudem-pro-nih-1",
+      "mtimeMs": 1783840032135
     }
   ]
 }

@@ -2,467 +2,892 @@
   {
     "text": "●",
     "startTime": 0.3,
-    "endTime": 56.02,
+    "endTime": 36.56,
     "words": [],
     "type": "vocal_cue",
     "time": 0.3,
-    "end": 56.02
+    "end": 36.56
   },
   {
-    "text": "Парень, не оставайся в этом мечте, не смотри на другие,",
-    "startTime": 56.02,
-    "endTime": 60.46,
+    "text": "Ты же помнишь, что я люблю",
+    "startTime": 36.56,
+    "endTime": 39.26,
     "words": [
       {
-        "word": "Парень,",
-        "start": 56.02,
-        "end": 56.9,
-        "stretch": true,
+        "word": "Ты",
+        "start": 36.56,
+        "end": 37.36,
         "spoken": true
       },
       {
-        "word": "не",
-        "start": 57.06,
-        "end": 57.06
+        "word": "же",
+        "start": 37.568,
+        "end": 37.7,
+        "spoken": true
       },
       {
-        "word": "оставайся",
-        "start": 57.06,
-        "end": 57.72,
+        "word": "помнишь,",
+        "start": 37.71,
+        "end": 38.22,
         "spoken": true
+      },
+      {
+        "word": "что",
+        "start": 38.23,
+        "end": 38.44
+      },
+      {
+        "word": "я",
+        "start": 38.45,
+        "end": 38.78,
+        "spoken": true
+      },
+      {
+        "word": "люблю",
+        "start": 38.79,
+        "end": 39.26,
+        "spoken": true
+      }
+    ],
+    "time": 36.56,
+    "end": 39.26
+  },
+  {
+    "text": "Видеть улыбки людей",
+    "startTime": 40.24,
+    "endTime": 41.82,
+    "words": [
+      {
+        "word": "Видеть",
+        "start": 40.24,
+        "end": 40.54,
+        "spoken": true
+      },
+      {
+        "word": "улыбки",
+        "start": 40.55,
+        "end": 41.08,
+        "spoken": true
+      },
+      {
+        "word": "людей",
+        "start": 41.09,
+        "end": 41.82,
+        "char_starts": [
+          41.09,
+          41.178,
+          41.313,
+          41.476,
+          41.659
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 40.24,
+    "end": 41.82
+  },
+  {
+    "text": "Ты же помнишь, что я люблю (Люблю) видеть улыбки людей (Людей)",
+    "startTime": 41.83,
+    "endTime": 42.545,
+    "words": [
+      {
+        "word": "Ты",
+        "start": 41.83,
+        "end": 41.87
+      },
+      {
+        "word": "же",
+        "start": 41.88,
+        "end": 41.92
+      },
+      {
+        "word": "помнишь,",
+        "start": 41.93,
+        "end": 42.015,
+        "spoken": true
+      },
+      {
+        "word": "что",
+        "start": 42.025,
+        "end": 42.065
+      },
+      {
+        "word": "я",
+        "start": 42.075,
+        "end": 42.115
+      },
+      {
+        "word": "люблю",
+        "start": 42.125,
+        "end": 42.175
+      },
+      {
+        "word": "(Люблю)",
+        "start": 42.185,
+        "end": 42.258,
+        "adlib": true,
+        "spoken": true
+      },
+      {
+        "word": "видеть",
+        "start": 42.268,
+        "end": 42.33,
+        "spoken": true
+      },
+      {
+        "word": "улыбки",
+        "start": 42.34,
+        "end": 42.402
+      },
+      {
+        "word": "людей",
+        "start": 42.412,
+        "end": 42.461
+      },
+      {
+        "word": "(Людей)",
+        "start": 42.471,
+        "end": 42.545,
+        "adlib": true,
+        "spoken": true
+      }
+    ],
+    "time": 41.83,
+    "end": 42.545
+  },
+  {
+    "text": "Вновь плыву по авеню с мыслью, что наступит лучший день",
+    "startTime": 42.555,
+    "endTime": 46.86,
+    "words": [
+      {
+        "word": "Вновь",
+        "start": 42.555,
+        "end": 42.78,
+        "sung": true
+      },
+      {
+        "word": "плыву",
+        "start": 42.79,
+        "end": 43.36
+      },
+      {
+        "word": "по",
+        "start": 43.37,
+        "end": 43.56,
+        "spoken": true
+      },
+      {
+        "word": "авеню",
+        "start": 43.57,
+        "end": 43.96,
+        "spoken": true
+      },
+      {
+        "word": "с",
+        "start": 44.24,
+        "end": 44.32,
+        "spoken": true
+      },
+      {
+        "word": "мыслью,",
+        "start": 44.33,
+        "end": 44.72,
+        "spoken": true
+      },
+      {
+        "word": "что",
+        "start": 44.9,
+        "end": 45.18
+      },
+      {
+        "word": "наступит",
+        "start": 45.19,
+        "end": 46.04,
+        "char_starts": [
+          45.19,
+          45.254,
+          45.328,
+          45.416,
+          45.514,
+          45.622,
+          45.737,
+          45.859
+        ]
+      },
+      {
+        "word": "лучший",
+        "start": 46.392,
+        "end": 46.62,
+        "spoken": true
+      },
+      {
+        "word": "день",
+        "start": 46.63,
+        "end": 46.86,
+        "spoken": true
+      }
+    ],
+    "time": 42.555,
+    "end": 46.86
+  },
+  {
+    "text": "Давай устроим хаос, нам нужно больше денег в кассе",
+    "startTime": 46.87,
+    "endTime": 51.82,
+    "words": [
+      {
+        "word": "Давай",
+        "start": 46.87,
+        "end": 47.8,
+        "char_starts": [
+          46.87,
+          46.982,
+          47.155,
+          47.362,
+          47.595
+        ],
+        "spoken": true
+      },
+      {
+        "word": "устроим",
+        "start": 47.81,
+        "end": 48.32,
+        "spoken": true
+      },
+      {
+        "word": "хаос,",
+        "start": 48.33,
+        "end": 49.28,
+        "char_starts": [
+          48.33,
+          48.444,
+          48.621,
+          48.833,
+          49.071
+        ],
+        "spoken": true
+      },
+      {
+        "word": "нам",
+        "start": 49.8,
+        "end": 50.04,
+        "spoken": true
+      },
+      {
+        "word": "нужно",
+        "start": 50.05,
+        "end": 50.34,
+        "spoken": true
+      },
+      {
+        "word": "больше",
+        "start": 50.35,
+        "end": 50.6,
+        "spoken": true
+      },
+      {
+        "word": "денег",
+        "start": 50.61,
+        "end": 51.24
       },
       {
         "word": "в",
-        "start": 57.72,
-        "end": 57.88,
-        "stretch": true,
+        "start": 51.25,
+        "end": 51.42
+      },
+      {
+        "word": "кассе",
+        "start": 51.43,
+        "end": 51.82,
+        "spoken": true
+      }
+    ],
+    "time": 46.87,
+    "end": 51.82
+  },
+  {
+    "text": "Мы сможем купить (Купить) пентхаус на Марсе",
+    "startTime": 51.83,
+    "endTime": 56.48,
+    "words": [
+      {
+        "word": "Мы",
+        "start": 51.83,
+        "end": 52.1
+      },
+      {
+        "word": "сможем",
+        "start": 52.11,
+        "end": 52.74
+      },
+      {
+        "word": "купить",
+        "start": 52.75,
+        "end": 54.84,
+        "char_starts": [
+          52.75,
+          52.959,
+          53.196,
+          53.479,
+          53.795,
+          54.139
+        ]
+      },
+      {
+        "word": "(Купить)",
+        "start": 54.85,
+        "end": 54.89,
+        "adlib": true
+      },
+      {
+        "word": "пентхаус",
+        "start": 54.9,
+        "end": 55.78,
+        "char_starts": [
+          54.9,
+          54.966,
+          55.042,
+          55.134,
+          55.235,
+          55.347,
+          55.466,
+          55.592
+        ],
         "spoken": true
       },
       {
-        "word": "этом",
-        "start": 57.88,
+        "word": "на",
+        "start": 55.79,
+        "end": 56.02,
+        "spoken": true
+      },
+      {
+        "word": "Марсе",
+        "start": 56.03,
+        "end": 56.48
+      }
+    ],
+    "time": 51.83,
+    "end": 56.48
+  },
+  {
+    "text": "Парень, оставайся предан мечте, не смотри на других (Других)",
+    "startTime": 56.49,
+    "endTime": 61.14,
+    "words": [
+      {
+        "word": "Парень,",
+        "start": 56.49,
+        "end": 56.88,
+        "spoken": true
+      },
+      {
+        "word": "оставайся",
+        "start": 56.89,
+        "end": 57.72,
+        "char_starts": [
+          56.89,
+          56.945,
+          57.0,
+          57.058,
+          57.127,
+          57.206,
+          57.294,
+          57.39,
+          57.495
+        ],
+        "spoken": true
+      },
+      {
+        "word": "предан",
+        "start": 57.74,
         "end": 58.1,
         "spoken": true
       },
       {
         "word": "мечте,",
-        "start": 58.1,
-        "end": 59.14,
-        "stretch": true,
+        "start": 58.26,
+        "end": 59.04,
+        "char_starts": [
+          58.26,
+          58.338,
+          58.445,
+          58.572,
+          58.715,
+          58.871
+        ],
         "spoken": true
       },
       {
         "word": "не",
-        "start": 59.28,
-        "end": 59.48,
+        "start": 59.34,
+        "end": 59.46,
         "spoken": true
       },
       {
         "word": "смотри",
-        "start": 59.48,
-        "end": 59.72,
+        "start": 59.47,
+        "end": 59.7,
         "spoken": true
       },
       {
         "word": "на",
-        "start": 59.72,
+        "start": 59.71,
         "end": 59.92
       },
       {
-        "word": "другие,",
-        "start": 59.92,
-        "end": 60.46
+        "word": "других",
+        "start": 59.93,
+        "end": 60.44
+      },
+      {
+        "word": "(Других)",
+        "start": 60.45,
+        "end": 61.14,
+        "char_starts": [
+          60.45,
+          60.502,
+          60.562,
+          60.633,
+          60.714,
+          60.801,
+          60.894,
+          60.993
+        ],
+        "adlib": true,
+        "spoken": true
       }
     ],
-    "time": 56.02,
-    "end": 60.46
+    "time": 56.49,
+    "end": 61.14
   },
   {
-    "text": "они потерялись тебе и не знают где выход так.",
-    "startTime": 60.94,
-    "endTime": 65.9,
+    "text": "●",
+    "startTime": 61.44,
+    "endTime": 66.46,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 61.44,
+    "end": 66.46
+  },
+  {
+    "text": "Они потерялись в себе (В себе) и не знают, где выход",
+    "startTime": 66.46,
+    "endTime": 67.82,
     "words": [
       {
-        "word": "они",
-        "start": 60.94,
-        "end": 61.42,
-        "stretch": true,
+        "word": "Они",
+        "start": 66.46,
+        "end": 66.61,
         "spoken": true
       },
       {
         "word": "потерялись",
-        "start": 61.42,
-        "end": 62.44,
-        "stretch": true,
-        "sung": true
-      },
-      {
-        "word": "тебе",
-        "start": 62.44,
-        "end": 62.74,
-        "spoken": true
-      },
-      {
-        "word": "и",
-        "start": 62.74,
-        "end": 64.04,
-        "stretch": true
-      },
-      {
-        "word": "не",
-        "start": 64.04,
-        "end": 64.3,
-        "sung": true
-      },
-      {
-        "word": "знают",
-        "start": 64.3,
-        "end": 64.56
-      },
-      {
-        "word": "где",
-        "start": 64.56,
-        "end": 64.86,
-        "sung": true
-      },
-      {
-        "word": "выход",
-        "start": 65.172,
-        "end": 65.38,
-        "sung": true
-      },
-      {
-        "word": "так.",
-        "start": 65.38,
-        "end": 65.9,
-        "spoken": true
-      }
-    ],
-    "time": 60.94,
-    "end": 65.9
-  },
-  {
-    "text": "Много змей в траве, тут твой живый стих, этих",
-    "startTime": 66.04,
-    "endTime": 70.96,
-    "words": [
-      {
-        "word": "Много",
-        "start": 66.04,
-        "end": 66.44,
-        "spoken": true
-      },
-      {
-        "word": "змей",
-        "start": 66.44,
-        "end": 66.86,
+        "start": 66.66,
+        "end": 66.81,
         "spoken": true
       },
       {
         "word": "в",
         "start": 66.86,
-        "end": 67.02,
-        "stretch": true,
+        "end": 67.0,
         "spoken": true
       },
       {
-        "word": "траве,",
-        "start": 67.02,
-        "end": 67.78,
+        "word": "себе",
+        "start": 67.01,
+        "end": 67.05
+      },
+      {
+        "word": "(В",
+        "start": 67.06,
+        "end": 67.16,
+        "adlib": true,
         "spoken": true
       },
       {
-        "word": "тут",
-        "start": 68.06,
-        "end": 68.5,
+        "word": "себе)",
+        "start": 67.17,
+        "end": 67.27,
+        "adlib": true,
         "spoken": true
       },
       {
-        "word": "твой",
-        "start": 68.5,
-        "end": 68.98,
-        "spoken": true
-      },
-      {
-        "word": "живый",
-        "start": 68.98,
-        "end": 69.62
-      },
-      {
-        "word": "стих,",
-        "start": 69.97,
-        "end": 70.58,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "этих",
-        "start": 70.76,
-        "end": 70.96,
-        "sung": true
-      }
-    ],
-    "time": 66.04,
-    "end": 70.96
-  },
-  {
-    "text": "малышей выглядят, давай забудем про них.",
-    "startTime": 70.96,
-    "endTime": 75.56,
-    "words": [
-      {
-        "word": "малышей",
-        "start": 70.96,
-        "end": 71.6
-      },
-      {
-        "word": "выглядят,",
-        "start": 71.95,
-        "end": 73.26,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "давай",
-        "start": 73.5,
-        "end": 73.94
-      },
-      {
-        "word": "забудем",
-        "start": 74.149,
-        "end": 74.54,
-        "spoken": true
-      },
-      {
-        "word": "про",
-        "start": 74.54,
-        "end": 74.88,
-        "spoken": true
-      },
-      {
-        "word": "них.",
-        "start": 74.88,
-        "end": 75.56,
-        "stretch": true,
-        "spoken": true
-      }
-    ],
-    "time": 70.96,
-    "end": 75.56
-  },
-  {
-    "text": "Давай забудем про них, этих малышей забудем про них.",
-    "startTime": 75.76,
-    "endTime": 79.9,
-    "words": [
-      {
-        "word": "Давай",
-        "start": 75.992,
-        "end": 76.24,
-        "spoken": true
-      },
-      {
-        "word": "забудем",
-        "start": 76.24,
-        "end": 76.86,
-        "spoken": true
-      },
-      {
-        "word": "про",
-        "start": 76.86,
-        "end": 77.16,
-        "spoken": true
-      },
-      {
-        "word": "них,",
-        "start": 77.16,
-        "end": 77.66,
-        "spoken": true
-      },
-      {
-        "word": "этих",
-        "start": 77.78,
-        "end": 78.0,
-        "spoken": true
-      },
-      {
-        "word": "малышей",
-        "start": 78.0,
-        "end": 78.64,
-        "spoken": true
-      },
-      {
-        "word": "забудем",
-        "start": 78.64,
-        "end": 79.18,
-        "sung": true
-      },
-      {
-        "word": "про",
-        "start": 79.18,
-        "end": 79.54,
-        "spoken": true
-      },
-      {
-        "word": "них.",
-        "start": 79.756,
-        "end": 79.9,
-        "spoken": true
-      }
-    ],
-    "time": 75.76,
-    "end": 79.9
-  },
-  {
-    "text": "Падет не ври, ты никогда не делал то о чем говоришь,",
-    "startTime": 80.02,
-    "endTime": 83.98,
-    "words": [
-      {
-        "word": "Падет",
-        "start": 80.02,
-        "end": 80.44,
-        "sung": true
-      },
-      {
-        "word": "не",
-        "start": 80.44,
-        "end": 80.64,
-        "spoken": true
-      },
-      {
-        "word": "ври,",
-        "start": 80.64,
-        "end": 80.98,
-        "sung": true
-      },
-      {
-        "word": "ты",
-        "start": 81.24,
-        "end": 81.5
-      },
-      {
-        "word": "никогда",
-        "start": 81.5,
-        "end": 82.02,
+        "word": "и",
+        "start": 67.28,
+        "end": 67.38,
         "spoken": true
       },
       {
         "word": "не",
-        "start": 82.02,
-        "end": 82.52,
-        "stretch": true,
+        "start": 67.39,
+        "end": 67.49,
         "spoken": true
       },
       {
-        "word": "делал",
-        "start": 82.52,
-        "end": 82.72,
+        "word": "знают,",
+        "start": 67.5,
+        "end": 67.6,
         "spoken": true
       },
       {
-        "word": "то",
-        "start": 82.72,
-        "end": 83.04,
-        "stretch": true,
-        "sung": true
-      },
-      {
-        "word": "о",
-        "start": 83.04,
-        "end": 83.08
-      },
-      {
-        "word": "чем",
-        "start": 83.08,
-        "end": 83.18,
+        "word": "где",
+        "start": 67.61,
+        "end": 67.71,
         "spoken": true
       },
       {
-        "word": "говоришь,",
-        "start": 83.528,
-        "end": 83.98
+        "word": "выход",
+        "start": 67.72,
+        "end": 67.82,
+        "spoken": true
       }
     ],
-    "time": 80.02,
-    "end": 83.98
+    "time": 66.46,
+    "end": 67.82
   },
   {
-    "text": "взгляни в зеркало кого ты там видишь, малыш, запомни",
-    "startTime": 83.98,
-    "endTime": 87.44,
+    "text": "Так много змей в траве плетут свой лживый стиль",
+    "startTime": 67.83,
+    "endTime": 70.36,
     "words": [
       {
-        "word": "взгляни",
-        "start": 84.235,
-        "end": 84.72,
-        "sung": true
+        "word": "Так",
+        "start": 67.83,
+        "end": 67.93,
+        "spoken": true
+      },
+      {
+        "word": "много",
+        "start": 67.94,
+        "end": 68.04,
+        "spoken": true
+      },
+      {
+        "word": "змей",
+        "start": 68.05,
+        "end": 68.15,
+        "spoken": true
       },
       {
         "word": "в",
-        "start": 84.72,
+        "start": 68.16,
+        "end": 68.26,
+        "spoken": true
+      },
+      {
+        "word": "траве",
+        "start": 68.27,
+        "end": 68.37,
+        "spoken": true
+      },
+      {
+        "word": "плетут",
+        "start": 68.38,
+        "end": 68.66,
+        "spoken": true
+      },
+      {
+        "word": "свой",
+        "start": 68.67,
+        "end": 68.9,
+        "spoken": true
+      },
+      {
+        "word": "лживый",
+        "start": 69.235,
+        "end": 69.6,
+        "char_starts": [
+          69.235,
+          69.272,
+          69.31,
+          69.354,
+          69.404,
+          69.458
+        ],
+        "sung": true
+      },
+      {
+        "word": "стиль",
+        "start": 69.61,
+        "end": 70.36,
+        "char_starts": [
+          69.61,
+          69.7,
+          69.839,
+          70.007,
+          70.195
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 67.83,
+    "end": 70.36
+  },
+  {
+    "text": "●",
+    "startTime": 70.66,
+    "endTime": 84.3,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 70.66,
+    "end": 84.3
+  },
+  {
+    "text": "Этих малышей в игре, давай забудем про них",
+    "startTime": 84.3,
+    "endTime": 85.07,
+    "words": [
+      {
+        "word": "Этих",
+        "start": 84.3,
+        "end": 84.45
+      },
+      {
+        "word": "малышей",
+        "start": 84.5,
+        "end": 84.65,
+        "spoken": true
+      },
+      {
+        "word": "в",
+        "start": 84.7,
         "end": 84.82
       },
       {
-        "word": "зеркало",
-        "start": 84.82,
-        "end": 85.2,
+        "word": "игре,",
+        "start": 84.83,
+        "end": 84.87
+      },
+      {
+        "word": "давай",
+        "start": 84.88,
+        "end": 84.92
+      },
+      {
+        "word": "забудем",
+        "start": 84.93,
+        "end": 84.97
+      },
+      {
+        "word": "про",
+        "start": 84.98,
+        "end": 85.02
+      },
+      {
+        "word": "них",
+        "start": 85.03,
+        "end": 85.07
+      }
+    ],
+    "time": 84.3,
+    "end": 85.07
+  },
+  {
+    "text": "Давай забудем про них",
+    "startTime": 85.08,
+    "endTime": 85.27,
+    "words": [
+      {
+        "word": "Давай",
+        "start": 85.08,
+        "end": 85.12
+      },
+      {
+        "word": "забудем",
+        "start": 85.13,
+        "end": 85.17
+      },
+      {
+        "word": "про",
+        "start": 85.18,
+        "end": 85.22
+      },
+      {
+        "word": "них",
+        "start": 85.23,
+        "end": 85.27
+      }
+    ],
+    "time": 85.08,
+    "end": 85.27
+  },
+  {
+    "text": "Этих малышей, забудем про них",
+    "startTime": 85.28,
+    "endTime": 85.52,
+    "words": [
+      {
+        "word": "Этих",
+        "start": 85.28,
+        "end": 85.32
+      },
+      {
+        "word": "малышей,",
+        "start": 85.33,
+        "end": 85.37
+      },
+      {
+        "word": "забудем",
+        "start": 85.38,
+        "end": 85.42
+      },
+      {
+        "word": "про",
+        "start": 85.43,
+        "end": 85.47
+      },
+      {
+        "word": "них",
+        "start": 85.48,
+        "end": 85.52
+      }
+    ],
+    "time": 85.28,
+    "end": 85.52
+  },
+  {
+    "text": "Хватит, не ври, ты никогда не делал то, о чём говоришь",
+    "startTime": 85.53,
+    "endTime": 86.07,
+    "words": [
+      {
+        "word": "Хватит,",
+        "start": 85.53,
+        "end": 85.57
+      },
+      {
+        "word": "не",
+        "start": 85.58,
+        "end": 85.62
+      },
+      {
+        "word": "ври,",
+        "start": 85.63,
+        "end": 85.67
+      },
+      {
+        "word": "ты",
+        "start": 85.68,
+        "end": 85.72
+      },
+      {
+        "word": "никогда",
+        "start": 85.73,
+        "end": 85.77
+      },
+      {
+        "word": "не",
+        "start": 85.78,
+        "end": 85.82
+      },
+      {
+        "word": "делал",
+        "start": 85.83,
+        "end": 85.87
+      },
+      {
+        "word": "то,",
+        "start": 85.88,
+        "end": 85.92
+      },
+      {
+        "word": "о",
+        "start": 85.93,
+        "end": 85.97
+      },
+      {
+        "word": "чём",
+        "start": 85.98,
+        "end": 86.02
+      },
+      {
+        "word": "говоришь",
+        "start": 86.03,
+        "end": 86.07
+      }
+    ],
+    "time": 85.53,
+    "end": 86.07
+  },
+  {
+    "text": "Взгляни в зеркало: кого ты там видишь, малыш?",
+    "startTime": 86.08,
+    "endTime": 86.86,
+    "words": [
+      {
+        "word": "Взгляни",
+        "start": 86.08,
+        "end": 86.12
+      },
+      {
+        "word": "в",
+        "start": 86.13,
+        "end": 86.23,
+        "spoken": true
+      },
+      {
+        "word": "зеркало:",
+        "start": 86.24,
+        "end": 86.34,
         "spoken": true
       },
       {
         "word": "кого",
-        "start": 85.2,
-        "end": 85.48,
+        "start": 86.35,
+        "end": 86.45,
         "spoken": true
       },
       {
         "word": "ты",
-        "start": 85.48,
-        "end": 85.72,
+        "start": 86.46,
+        "end": 86.56,
         "spoken": true
       },
       {
         "word": "там",
-        "start": 85.72,
-        "end": 85.96,
+        "start": 86.57,
+        "end": 86.67,
         "spoken": true
       },
       {
         "word": "видишь,",
-        "start": 85.96,
-        "end": 86.28,
+        "start": 86.68,
+        "end": 86.78,
         "spoken": true
       },
       {
-        "word": "малыш,",
-        "start": 86.32,
-        "end": 86.88,
-        "spoken": true
-      },
-      {
-        "word": "запомни",
-        "start": 87.08,
-        "end": 87.44,
+        "word": "малыш?",
+        "start": 86.79,
+        "end": 86.86,
         "spoken": true
       }
     ],
-    "time": 83.98,
-    "end": 87.44
+    "time": 86.08,
+    "end": 86.86
   },
   {
-    "text": "мой брат, чем тише, тем выше.",
-    "startTime": 87.44,
-    "endTime": 89.44,
+    "text": "Запомни, мой брат: чем тише, тем выше",
+    "startTime": 87.08,
+    "endTime": 89.34,
     "words": [
       {
+        "word": "Запомни,",
+        "start": 87.08,
+        "end": 87.44,
+        "spoken": true
+      },
+      {
         "word": "мой",
-        "start": 87.44,
+        "start": 87.45,
         "end": 87.66,
         "spoken": true
       },
       {
-        "word": "брат,",
-        "start": 87.66,
+        "word": "брат:",
+        "start": 87.67,
         "end": 88.02,
         "sung": true
       },
@@ -474,629 +899,891 @@
       },
       {
         "word": "тише,",
-        "start": 88.26,
+        "start": 88.27,
         "end": 88.6,
         "spoken": true
       },
       {
         "word": "тем",
-        "start": 88.76,
+        "start": 88.74,
         "end": 88.88,
         "spoken": true
       },
       {
-        "word": "выше.",
-        "start": 89.216,
-        "end": 89.44,
+        "word": "выше",
+        "start": 89.16,
+        "end": 89.34,
         "sung": true
       }
     ],
-    "time": 87.44,
-    "end": 89.44
+    "time": 87.08,
+    "end": 89.34
   },
   {
-    "text": "Куда же вы прячетесь, я вижу вас лишь где торгутся",
-    "startTime": 90.12,
-    "endTime": 94.88,
+    "text": "Куда же вы прячетесь? Я вижу вас выше",
+    "startTime": 89.78,
+    "endTime": 93.76,
     "words": [
       {
         "word": "Куда",
-        "start": 90.12,
-        "end": 90.4,
+        "start": 89.78,
+        "end": 90.38,
         "sung": true
       },
       {
         "word": "же",
-        "start": 90.4,
+        "start": 90.39,
         "end": 90.72,
-        "stretch": true,
         "spoken": true
       },
       {
         "word": "вы",
-        "start": 90.72,
-        "end": 91.12,
-        "stretch": true,
+        "start": 90.73,
+        "end": 91.2,
         "spoken": true
       },
       {
-        "word": "прячетесь,",
-        "start": 91.12,
+        "word": "прячетесь?",
+        "start": 91.21,
         "end": 92.34,
-        "stretch": true
+        "char_starts": [
+          91.21,
+          91.278,
+          91.349,
+          91.432,
+          91.526,
+          91.628,
+          91.737,
+          91.853,
+          91.974,
+          92.1
+        ]
       },
       {
-        "word": "я",
-        "start": 92.82,
-        "end": 93.02,
-        "stretch": true,
+        "word": "Я",
+        "start": 92.796,
+        "end": 92.98,
         "spoken": true
       },
       {
         "word": "вижу",
-        "start": 93.02,
-        "end": 93.28
+        "start": 92.99,
+        "end": 93.3
       },
       {
         "word": "вас",
-        "start": 93.28,
+        "start": 93.31,
         "end": 93.62,
         "spoken": true
       },
       {
-        "word": "лишь",
-        "start": 93.62,
+        "word": "выше",
+        "start": 93.63,
         "end": 93.76
-      },
-      {
-        "word": "где",
-        "start": 93.76,
-        "end": 93.96
-      },
-      {
-        "word": "торгутся",
-        "start": 93.96,
-        "end": 94.88,
-        "stretch": true,
-        "spoken": true
       }
     ],
-    "time": 90.12,
-    "end": 94.88
+    "time": 89.78,
+    "end": 93.76
   },
   {
-    "text": "снаряды, кому -то едут снаряды, эти взрослые дяди, они мчатся",
-    "startTime": 94.88,
-    "endTime": 101.82,
+    "text": "Где-то рвутся снаряды, к кому-то едут наряды",
+    "startTime": 93.77,
+    "endTime": 98.32,
     "words": [
       {
+        "word": "Где-то",
+        "start": 93.77,
+        "end": 93.94
+      },
+      {
+        "word": "рвутся",
+        "start": 93.95,
+        "end": 94.88,
+        "char_starts": [
+          93.95,
+          94.043,
+          94.142,
+          94.274,
+          94.435,
+          94.619
+        ],
+        "spoken": true
+      },
+      {
         "word": "снаряды,",
-        "start": 95.23,
+        "start": 95.24,
         "end": 95.76,
-        "stretch": true,
+        "char_starts": [
+          95.24,
+          95.279,
+          95.318,
+          95.362,
+          95.411,
+          95.464,
+          95.521,
+          95.581
+        ],
         "spoken": true
       },
       {
-        "word": "кому",
-        "start": 95.88,
-        "end": 96.08,
-        "spoken": true
+        "word": "к",
+        "start": 95.77,
+        "end": 95.81
       },
       {
-        "word": "-то",
-        "start": 96.08,
+        "word": "кому-то",
+        "start": 95.82,
         "end": 96.58,
-        "stretch": true,
+        "char_starts": [
+          95.82,
+          95.885,
+          95.95,
+          96.031,
+          96.13,
+          96.243,
+          96.37
+        ],
         "spoken": true
       },
       {
         "word": "едут",
-        "start": 96.58,
+        "start": 96.59,
         "end": 97.18,
-        "stretch": true,
         "spoken": true
       },
       {
-        "word": "снаряды,",
-        "start": 97.53,
-        "end": 98.34,
-        "stretch": true,
-        "spoken": true
-      },
+        "word": "наряды",
+        "start": 97.54,
+        "end": 98.32,
+        "char_starts": [
+          97.54,
+          97.618,
+          97.696,
+          97.787,
+          97.896,
+          98.02
+        ],
+        "sung": true,
+        "stretch": true
+      }
+    ],
+    "time": 93.77,
+    "end": 98.32
+  },
+  {
+    "text": "Эти взрослые дяди, они мчатся за наградой",
+    "startTime": 98.42,
+    "endTime": 102.98,
+    "words": [
       {
-        "word": "эти",
-        "start": 98.648,
-        "end": 98.8,
+        "word": "Эти",
+        "start": 98.606,
+        "end": 98.82,
         "sung": true
       },
       {
         "word": "взрослые",
-        "start": 98.963,
-        "end": 100.08,
-        "stretch": true
+        "start": 98.83,
+        "end": 100.06,
+        "char_starts": [
+          98.83,
+          98.922,
+          99.014,
+          99.111,
+          99.228,
+          99.362,
+          99.511,
+          99.675
+        ]
       },
       {
         "word": "дяди,",
-        "start": 100.08,
+        "start": 100.07,
         "end": 100.74,
+        "char_starts": [
+          100.07,
+          100.15,
+          100.275,
+          100.424,
+          100.593
+        ],
         "spoken": true
       },
       {
         "word": "они",
-        "start": 100.74,
+        "start": 100.75,
         "end": 101.1,
         "spoken": true
       },
       {
         "word": "мчатся",
-        "start": 101.1,
-        "end": 101.82
-      }
-    ],
-    "time": 94.88,
-    "end": 101.82
-  },
-  {
-    "text": "за награды, нет, в этом ты не кажешь лица, я знаю,",
-    "startTime": 101.82,
-    "endTime": 106.24,
-    "words": [
+        "start": 101.11,
+        "end": 101.84,
+        "char_starts": [
+          101.11,
+          101.183,
+          101.261,
+          101.365,
+          101.491,
+          101.636
+        ]
+      },
       {
         "word": "за",
         "start": 102.06,
-        "end": 102.22,
-        "stretch": true
+        "end": 102.2
       },
       {
-        "word": "награды,",
-        "start": 102.313,
-        "end": 103.0
-      },
+        "word": "наградой",
+        "start": 102.326,
+        "end": 102.98,
+        "char_starts": [
+          102.326,
+          102.375,
+          102.43,
+          102.493,
+          102.566,
+          102.643,
+          102.728,
+          102.817
+        ]
+      }
+    ],
+    "time": 98.42,
+    "end": 102.98
+  },
+  {
+    "text": "Нет выгоды — не кажешь лица",
+    "startTime": 103.18,
+    "endTime": 105.1,
+    "words": [
       {
-        "word": "нет,",
-        "start": 103.2,
-        "end": 103.62
-      },
-      {
-        "word": "в",
-        "start": 103.78,
-        "end": 103.78
-      },
-      {
-        "word": "этом",
-        "start": 103.78,
-        "end": 103.94,
+        "word": "Нет",
+        "start": 103.18,
+        "end": 103.64,
         "spoken": true
       },
       {
-        "word": "ты",
-        "start": 103.94,
-        "end": 104.12,
+        "word": "выгоды",
+        "start": 103.82,
+        "end": 104.06,
         "spoken": true
+      },
+      {
+        "word": "—",
+        "start": 104.07,
+        "end": 104.11
       },
       {
         "word": "не",
         "start": 104.12,
-        "end": 104.26,
+        "end": 104.22,
         "spoken": true
       },
       {
         "word": "кажешь",
-        "start": 104.26,
+        "start": 104.23,
         "end": 104.54,
         "spoken": true
       },
       {
-        "word": "лица,",
-        "start": 104.888,
-        "end": 105.12,
+        "word": "лица",
+        "start": 104.55,
+        "end": 105.1,
         "spoken": true
-      },
+      }
+    ],
+    "time": 103.18,
+    "end": 105.1
+  },
+  {
+    "text": "Я знаю, что ты за тварь",
+    "startTime": 105.4,
+    "endTime": 107.48,
+    "words": [
       {
-        "word": "я",
-        "start": 105.42,
-        "end": 105.92,
-        "stretch": true,
+        "word": "Я",
+        "start": 105.4,
+        "end": 105.96,
         "spoken": true
       },
       {
         "word": "знаю,",
-        "start": 105.92,
-        "end": 106.24,
+        "start": 105.97,
+        "end": 106.22,
         "spoken": true
-      }
-    ],
-    "time": 101.82,
-    "end": 106.24
-  },
-  {
-    "text": "что ты за два здесь, каждый хочет жить как царь, но",
-    "startTime": 106.34,
-    "endTime": 109.92,
-    "words": [
+      },
       {
         "word": "что",
-        "start": 106.34,
+        "start": 106.32,
         "end": 106.56,
         "spoken": true
       },
       {
         "word": "ты",
-        "start": 106.56,
+        "start": 106.57,
         "end": 106.88,
-        "stretch": true
+        "spoken": true
       },
       {
         "word": "за",
-        "start": 107.072,
-        "end": 107.2,
-        "stretch": true,
-        "spoken": true
+        "start": 107.064,
+        "end": 107.18,
+        "sung": true
       },
       {
-        "word": "два",
-        "start": 107.2,
-        "end": 107.46,
+        "word": "тварь",
+        "start": 107.19,
+        "end": 107.48,
         "spoken": true
-      },
+      }
+    ],
+    "time": 105.4,
+    "end": 107.48
+  },
+  {
+    "text": "Здесь каждый хочет жить, как царь",
+    "startTime": 107.49,
+    "endTime": 109.74,
+    "words": [
       {
-        "word": "здесь,",
-        "start": 107.796,
-        "end": 108.02
+        "word": "Здесь",
+        "start": 107.82,
+        "end": 108.04
       },
       {
         "word": "каждый",
-        "start": 108.3,
+        "start": 108.26,
         "end": 108.56
       },
       {
         "word": "хочет",
-        "start": 108.56,
+        "start": 108.57,
         "end": 108.88,
         "spoken": true
       },
       {
-        "word": "жить",
-        "start": 108.88,
+        "word": "жить,",
+        "start": 108.89,
         "end": 109.18,
-        "sung": true
+        "spoken": true
       },
       {
         "word": "как",
-        "start": 109.18,
-        "end": 109.52,
+        "start": 109.19,
+        "end": 109.5,
         "spoken": true
       },
       {
-        "word": "царь,",
-        "start": 109.52,
+        "word": "царь",
+        "start": 109.51,
         "end": 109.74,
-        "spoken": true
-      },
-      {
-        "word": "но",
-        "start": 109.78,
-        "end": 109.92,
         "spoken": true
       }
     ],
-    "time": 106.34,
-    "end": 109.92
+    "time": 107.49,
+    "end": 109.74
   },
   {
-    "text": "я просто хочу после себя что -то оставить.",
-    "startTime": 109.92,
-    "endTime": 113.02,
+    "text": "Но я просто хочу после себя что-то оставить",
+    "startTime": 109.78,
+    "endTime": 112.98,
     "words": [
       {
+        "word": "Но",
+        "start": 109.78,
+        "end": 109.9,
+        "spoken": true
+      },
+      {
         "word": "я",
-        "start": 109.92,
-        "end": 110.2,
-        "stretch": true,
+        "start": 109.91,
+        "end": 110.16,
         "spoken": true
       },
       {
         "word": "просто",
-        "start": 110.2,
-        "end": 110.52,
+        "start": 110.17,
+        "end": 110.5,
         "spoken": true
       },
       {
         "word": "хочу",
-        "start": 110.52,
-        "end": 110.94,
+        "start": 110.51,
+        "end": 110.92,
         "spoken": true
       },
       {
         "word": "после",
-        "start": 110.94,
+        "start": 110.93,
         "end": 111.26,
         "sung": true
       },
       {
         "word": "себя",
-        "start": 111.548,
+        "start": 111.552,
         "end": 111.74
       },
       {
-        "word": "что",
-        "start": 111.74,
-        "end": 112.12,
-        "spoken": true
-      },
-      {
-        "word": "-то",
-        "start": 112.12,
+        "word": "что-то",
+        "start": 111.75,
         "end": 112.5,
+        "char_starts": [
+          111.75,
+          111.825,
+          111.905,
+          112.012,
+          112.141,
+          112.29
+        ],
         "spoken": true
       },
       {
-        "word": "оставить.",
-        "start": 112.5,
-        "end": 113.02,
+        "word": "оставить",
+        "start": 112.51,
+        "end": 112.98,
         "spoken": true
       }
     ],
-    "time": 109.92,
-    "end": 113.02
+    "time": 109.78,
+    "end": 112.98
   },
   {
-    "text": "Что -то оставь, что -то оставь, я просто хочу после себя,",
-    "startTime": 113.98,
-    "endTime": 119.74,
+    "text": "Что-то оставить, что-то оставить",
+    "startTime": 113.96,
+    "endTime": 118.12,
     "words": [
       {
-        "word": "Что",
-        "start": 113.98,
-        "end": 114.42,
+        "word": "Что-то",
+        "start": 113.96,
+        "end": 114.68,
+        "char_starts": [
+          113.96,
+          114.032,
+          114.109,
+          114.212,
+          114.336,
+          114.479
+        ]
+      },
+      {
+        "word": "оставить,",
+        "start": 115.04,
+        "end": 116.36,
+        "char_starts": [
+          115.04,
+          115.128,
+          115.216,
+          115.304,
+          115.396,
+          115.496,
+          115.603,
+          115.715,
+          115.832
+        ],
+        "sung": true,
+        "stretch": true
+      },
+      {
+        "word": "что-то",
+        "start": 116.72,
+        "end": 117.114,
+        "char_starts": [
+          116.72,
+          116.759,
+          116.798,
+          116.837,
+          116.88,
+          116.929
+        ],
         "spoken": true
       },
       {
-        "word": "-то",
-        "start": 114.42,
-        "end": 114.74,
+        "word": "оставить",
+        "start": 117.474,
+        "end": 118.12,
+        "char_starts": [
+          117.474,
+          117.522,
+          117.57,
+          117.626,
+          117.69,
+          117.759,
+          117.833,
+          117.911
+        ],
         "spoken": true
-      },
+      }
+    ],
+    "time": 113.96,
+    "end": 118.12
+  },
+  {
+    "text": "Просто хочу после себя что-то оставить",
+    "startTime": 118.13,
+    "endTime": 121.32,
+    "words": [
       {
-        "word": "оставь,",
-        "start": 115.09,
-        "end": 116.34,
-        "stretch": true,
+        "word": "Просто",
+        "start": 118.13,
+        "end": 118.34,
         "sung": true
       },
       {
-        "word": "что",
-        "start": 116.46,
-        "end": 116.76,
-        "spoken": true
-      },
-      {
-        "word": "-то",
-        "start": 116.76,
-        "end": 117.08,
-        "spoken": true
-      },
-      {
-        "word": "оставь,",
-        "start": 117.08,
-        "end": 117.7,
-        "spoken": true
-      },
-      {
-        "word": "я",
-        "start": 117.86,
-        "end": 118.04,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "просто",
-        "start": 118.04,
-        "end": 118.26,
-        "spoken": true
-      },
-      {
         "word": "хочу",
-        "start": 118.26,
-        "end": 118.74,
+        "start": 118.35,
+        "end": 118.8,
         "spoken": true
       },
       {
         "word": "после",
-        "start": 118.74,
+        "start": 118.81,
         "end": 119.24,
         "spoken": true
       },
       {
-        "word": "себя,",
-        "start": 119.24,
-        "end": 119.74,
+        "word": "себя",
+        "start": 119.25,
+        "end": 119.84,
         "sung": true
-      }
-    ],
-    "time": 113.98,
-    "end": 119.74
-  },
-  {
-    "text": "что -то оставь.",
-    "startTime": 120.08,
-    "endTime": 121.42,
-    "words": [
-      {
-        "word": "что",
-        "start": 120.08,
-        "end": 120.3
       },
       {
-        "word": "-то",
-        "start": 120.3,
-        "end": 120.56,
-        "spoken": true
-      },
-      {
-        "word": "оставь.",
-        "start": 120.91,
-        "end": 121.42,
-        "stretch": true,
-        "spoken": true
-      }
-    ],
-    "time": 120.08,
-    "end": 121.42
-  },
-  {
-    "text": "●",
-    "startTime": 121.72,
-    "endTime": 134.9,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 121.72,
-    "end": 134.9
-  },
-  {
-    "text": "И людей вступит лучший день, давай устроим хаос,",
-    "startTime": 134.9,
-    "endTime": 143.58,
-    "words": [
-      {
-        "word": "И",
-        "start": 134.9,
-        "end": 135.16,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "людей",
-        "start": 135.16,
-        "end": 135.9,
-        "spoken": true
-      },
-      {
-        "word": "вступит",
-        "start": 138.84,
-        "end": 140.16,
+        "word": "что-то",
+        "start": 119.85,
+        "end": 120.66,
+        "char_starts": [
+          119.85,
+          119.931,
+          120.018,
+          120.133,
+          120.273,
+          120.434
+        ],
+        "sung": true,
         "stretch": true
       },
       {
+        "word": "оставить",
+        "start": 120.972,
+        "end": 121.32,
+        "spoken": true
+      }
+    ],
+    "time": 118.13,
+    "end": 121.32
+  },
+  {
+    "text": "●",
+    "startTime": 121.62,
+    "endTime": 136.02,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 121.62,
+    "end": 136.02
+  },
+  {
+    "text": "Ты же помнишь, что я люблю (Люблю) видеть улыбки людей (Людей)",
+    "startTime": 136.02,
+    "endTime": 137.22,
+    "words": [
+      {
+        "word": "Ты",
+        "start": 136.02,
+        "end": 136.17
+      },
+      {
+        "word": "же",
+        "start": 136.22,
+        "end": 136.37,
+        "spoken": true
+      },
+      {
+        "word": "помнишь,",
+        "start": 136.42,
+        "end": 136.57,
+        "spoken": true
+      },
+      {
+        "word": "что",
+        "start": 136.62,
+        "end": 136.77,
+        "sung": true
+      },
+      {
+        "word": "я",
+        "start": 136.82,
+        "end": 136.92,
+        "spoken": true
+      },
+      {
+        "word": "люблю",
+        "start": 136.93,
+        "end": 136.97
+      },
+      {
+        "word": "(Люблю)",
+        "start": 136.98,
+        "end": 137.02,
+        "adlib": true
+      },
+      {
+        "word": "видеть",
+        "start": 137.03,
+        "end": 137.07
+      },
+      {
+        "word": "улыбки",
+        "start": 137.08,
+        "end": 137.12
+      },
+      {
+        "word": "людей",
+        "start": 137.13,
+        "end": 137.17
+      },
+      {
+        "word": "(Людей)",
+        "start": 137.18,
+        "end": 137.22,
+        "adlib": true
+      }
+    ],
+    "time": 136.02,
+    "end": 137.22
+  },
+  {
+    "text": "Вновь плыву по авеню с мыслью, что наступит лучший день",
+    "startTime": 137.23,
+    "endTime": 140.98,
+    "words": [
+      {
+        "word": "Вновь",
+        "start": 137.23,
+        "end": 137.27
+      },
+      {
+        "word": "плыву",
+        "start": 137.28,
+        "end": 137.48,
+        "spoken": true
+      },
+      {
+        "word": "по",
+        "start": 137.49,
+        "end": 137.68,
+        "spoken": true
+      },
+      {
+        "word": "авеню",
+        "start": 137.69,
+        "end": 138.18,
+        "spoken": true
+      },
+      {
+        "word": "с",
+        "start": 138.38,
+        "end": 138.46,
+        "spoken": true
+      },
+      {
+        "word": "мыслью,",
+        "start": 138.47,
+        "end": 138.86,
+        "spoken": true
+      },
+      {
+        "word": "что",
+        "start": 138.9,
+        "end": 139.28
+      },
+      {
+        "word": "наступит",
+        "start": 139.29,
+        "end": 140.16,
+        "char_starts": [
+          139.29,
+          139.355,
+          139.431,
+          139.521,
+          139.622,
+          139.732,
+          139.85,
+          139.975
+        ]
+      },
+      {
         "word": "лучший",
-        "start": 140.51,
-        "end": 140.78,
+        "start": 140.52,
+        "end": 140.76,
         "spoken": true
       },
       {
-        "word": "день,",
-        "start": 140.78,
-        "end": 141.0,
+        "word": "день",
+        "start": 140.77,
+        "end": 140.98,
         "spoken": true
-      },
+      }
+    ],
+    "time": 137.23,
+    "end": 140.98
+  },
+  {
+    "text": "Давай устроим хаос, нам нужно больше денег в кассе",
+    "startTime": 140.99,
+    "endTime": 145.94,
+    "words": [
       {
-        "word": "давай",
-        "start": 141.64,
-        "end": 141.64
+        "word": "Давай",
+        "start": 140.99,
+        "end": 141.62,
+        "spoken": true
       },
       {
         "word": "устроим",
-        "start": 141.849,
+        "start": 141.862,
         "end": 142.44,
-        "stretch": true,
+        "char_starts": [
+          141.862,
+          141.912,
+          141.968,
+          142.033,
+          142.106,
+          142.186,
+          142.271
+        ],
         "spoken": true
       },
       {
         "word": "хаос,",
-        "start": 142.44,
-        "end": 143.58,
-        "stretch": true,
+        "start": 142.45,
+        "end": 143.52,
+        "char_starts": [
+          142.45,
+          142.578,
+          142.777,
+          143.016,
+          143.285
+        ],
         "spoken": true
-      }
-    ],
-    "time": 134.9,
-    "end": 143.58
-  },
-  {
-    "text": "нам нужно больше денег, касси мы сможем купить.",
-    "startTime": 143.94,
-    "endTime": 148.68,
-    "words": [
+      },
       {
         "word": "нам",
-        "start": 143.94,
+        "start": 144.06,
         "end": 144.16,
         "spoken": true
       },
       {
         "word": "нужно",
-        "start": 144.16,
+        "start": 144.17,
         "end": 144.46,
         "spoken": true
       },
       {
         "word": "больше",
-        "start": 144.46,
-        "end": 144.74,
+        "start": 144.47,
+        "end": 144.72,
         "spoken": true
       },
       {
-        "word": "денег,",
-        "start": 144.74,
+        "word": "денег",
+        "start": 144.73,
         "end": 145.36
       },
       {
-        "word": "касси",
-        "start": 145.52,
-        "end": 145.96,
-        "spoken": true
+        "word": "в",
+        "start": 145.37,
+        "end": 145.52
       },
       {
-        "word": "мы",
-        "start": 145.96,
-        "end": 146.22
-      },
-      {
-        "word": "сможем",
-        "start": 146.22,
-        "end": 146.86
-      },
-      {
-        "word": "купить.",
-        "start": 147.21,
-        "end": 148.68,
-        "stretch": true,
+        "word": "кассе",
+        "start": 145.53,
+        "end": 145.94,
         "spoken": true
       }
     ],
-    "time": 143.94,
-    "end": 148.68
+    "time": 140.99,
+    "end": 145.94
   },
   {
-    "text": "Бенд хаос на марте, парень, оставайся в этом мечте,",
-    "startTime": 149.32,
-    "endTime": 153.06,
+    "text": "Мы сможем купить (Купить) пентхаус на Марсе",
+    "startTime": 146.08,
+    "endTime": 150.6,
     "words": [
       {
-        "word": "Бенд",
-        "start": 149.32,
-        "end": 149.5
+        "word": "Мы",
+        "start": 146.08,
+        "end": 146.2
       },
       {
-        "word": "хаос",
-        "start": 149.716,
+        "word": "сможем",
+        "start": 146.21,
+        "end": 146.86,
+        "char_starts": [
+          146.21,
+          146.275,
+          146.363,
+          146.469,
+          146.589,
+          146.719
+        ]
+      },
+      {
+        "word": "купить",
+        "start": 147.22,
+        "end": 148.8,
+        "char_starts": [
+          147.22,
+          147.378,
+          147.537,
+          147.726,
+          147.936,
+          148.166
+        ]
+      },
+      {
+        "word": "(Купить)",
+        "start": 148.81,
+        "end": 148.85,
+        "adlib": true
+      },
+      {
+        "word": "пентхаус",
+        "start": 148.86,
         "end": 149.86,
+        "char_starts": [
+          148.86,
+          148.935,
+          149.022,
+          149.125,
+          149.241,
+          149.368,
+          149.503,
+          149.647
+        ],
         "spoken": true
       },
       {
         "word": "на",
-        "start": 149.86,
+        "start": 149.87,
         "end": 150.16,
         "spoken": true
       },
       {
-        "word": "марте,",
-        "start": 150.16,
-        "end": 150.6,
-        "spoken": true
-      },
+        "word": "Марсе",
+        "start": 150.17,
+        "end": 150.6
+      }
+    ],
+    "time": 146.08,
+    "end": 150.6
+  },
+  {
+    "text": "Парень, оставайся предан мечте, не смотри на других (Других)",
+    "startTime": 150.84,
+    "endTime": 156.06,
+    "words": [
       {
-        "word": "парень,",
+        "word": "Парень,",
         "start": 150.84,
         "end": 151.0,
         "spoken": true
@@ -1104,38 +1791,29 @@
       {
         "word": "оставайся",
         "start": 151.36,
-        "end": 151.82,
+        "end": 151.84,
         "spoken": true
       },
       {
-        "word": "в",
-        "start": 151.82,
-        "end": 152.04,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "этом",
-        "start": 152.04,
+        "word": "предан",
+        "start": 151.85,
         "end": 152.24,
         "spoken": true
       },
       {
         "word": "мечте,",
-        "start": 152.24,
-        "end": 153.06,
-        "stretch": true,
+        "start": 152.25,
+        "end": 153.14,
+        "char_starts": [
+          152.25,
+          152.339,
+          152.46,
+          152.605,
+          152.769,
+          152.947
+        ],
         "spoken": true
-      }
-    ],
-    "time": 149.32,
-    "end": 153.06
-  },
-  {
-    "text": "не смотри на другие, они потерялись тебе и не знают",
-    "startTime": 153.38,
-    "endTime": 158.7,
-    "words": [
+      },
       {
         "word": "не",
         "start": 153.38,
@@ -1144,173 +1822,506 @@
       },
       {
         "word": "смотри",
-        "start": 153.58,
+        "start": 153.59,
         "end": 153.82,
         "spoken": true
       },
       {
         "word": "на",
-        "start": 153.82,
-        "end": 154.0
+        "start": 153.83,
+        "end": 154.02
       },
       {
-        "word": "другие,",
-        "start": 154.0,
-        "end": 154.52
+        "word": "других",
+        "start": 154.03,
+        "end": 154.56
       },
       {
-        "word": "они",
-        "start": 154.82,
-        "end": 155.54,
-        "stretch": true,
+        "word": "(Других)",
+        "start": 154.57,
+        "end": 156.06,
+        "char_starts": [
+          154.57,
+          154.682,
+          154.794,
+          154.924,
+          155.068,
+          155.225,
+          155.393,
+          155.569
+        ],
+        "adlib": true,
+        "sung": true,
+        "stretch": true
+      }
+    ],
+    "time": 150.84,
+    "end": 156.06
+  },
+  {
+    "text": "Они потерялись в себе (В себе) и не знают, где выход",
+    "startTime": 158.12,
+    "endTime": 161.94,
+    "words": [
+      {
+        "word": "Они",
+        "start": 158.12,
+        "end": 158.42,
         "spoken": true
       },
       {
         "word": "потерялись",
-        "start": 155.54,
-        "end": 156.58,
+        "start": 158.78,
+        "end": 159.92,
+        "char_starts": [
+          158.78,
+          158.848,
+          158.916,
+          158.984,
+          159.052,
+          159.124,
+          159.201,
+          159.282,
+          159.366,
+          159.454
+        ],
+        "sung": true,
         "stretch": true
-      },
-      {
-        "word": "тебе",
-        "start": 156.58,
-        "end": 156.84
-      },
-      {
-        "word": "и",
-        "start": 156.84,
-        "end": 158.12,
-        "stretch": true
-      },
-      {
-        "word": "не",
-        "start": 158.12,
-        "end": 158.44,
-        "stretch": true,
-        "sung": true
-      },
-      {
-        "word": "знают",
-        "start": 158.44,
-        "end": 158.7
-      }
-    ],
-    "time": 153.38,
-    "end": 158.7
-  },
-  {
-    "text": "их, так много змей в траве плит, тут был живый стик,",
-    "startTime": 158.7,
-    "endTime": 164.46,
-    "words": [
-      {
-        "word": "их,",
-        "start": 158.7,
-        "end": 159.2,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "так",
-        "start": 159.58,
-        "end": 159.96
-      },
-      {
-        "word": "много",
-        "start": 159.96,
-        "end": 160.58,
-        "spoken": true
-      },
-      {
-        "word": "змей",
-        "start": 160.58,
-        "end": 161.0,
-        "spoken": true
       },
       {
         "word": "в",
-        "start": 161.0,
+        "start": 160.96,
         "end": 161.12,
         "spoken": true
       },
       {
+        "word": "себе",
+        "start": 161.13,
+        "end": 161.17
+      },
+      {
+        "word": "(В",
+        "start": 161.18,
+        "end": 161.28,
+        "adlib": true,
+        "spoken": true
+      },
+      {
+        "word": "себе)",
+        "start": 161.29,
+        "end": 161.39,
+        "adlib": true,
+        "spoken": true
+      },
+      {
+        "word": "и",
+        "start": 161.4,
+        "end": 161.5,
+        "spoken": true
+      },
+      {
+        "word": "не",
+        "start": 161.51,
+        "end": 161.61,
+        "spoken": true
+      },
+      {
+        "word": "знают,",
+        "start": 161.62,
+        "end": 161.72,
+        "spoken": true
+      },
+      {
+        "word": "где",
+        "start": 161.73,
+        "end": 161.83,
+        "spoken": true
+      },
+      {
+        "word": "выход",
+        "start": 161.84,
+        "end": 161.94,
+        "spoken": true
+      }
+    ],
+    "time": 158.12,
+    "end": 161.94
+  },
+  {
+    "text": "Так много змей в траве плетут свой лживый стиль",
+    "startTime": 161.95,
+    "endTime": 164.6,
+    "words": [
+      {
+        "word": "Так",
+        "start": 161.95,
+        "end": 162.05,
+        "spoken": true
+      },
+      {
+        "word": "много",
+        "start": 162.06,
+        "end": 162.16,
+        "spoken": true
+      },
+      {
+        "word": "змей",
+        "start": 162.17,
+        "end": 162.27,
+        "spoken": true
+      },
+      {
+        "word": "в",
+        "start": 162.28,
+        "end": 162.38,
+        "spoken": true
+      },
+      {
         "word": "траве",
-        "start": 161.12,
-        "end": 161.9,
-        "stretch": true,
+        "start": 162.39,
+        "end": 162.49,
         "spoken": true
       },
       {
-        "word": "плит,",
-        "start": 161.9,
-        "end": 162.44,
+        "word": "плетут",
+        "start": 162.5,
+        "end": 162.58,
         "spoken": true
       },
       {
-        "word": "тут",
-        "start": 162.8,
-        "end": 162.8
-      },
-      {
-        "word": "был",
-        "start": 162.8,
-        "end": 163.04,
+        "word": "свой",
+        "start": 162.59,
+        "end": 163.1,
         "spoken": true
       },
       {
-        "word": "живый",
-        "start": 163.04,
+        "word": "лживый",
+        "start": 163.11,
         "end": 163.7
       },
       {
-        "word": "стик,",
-        "start": 163.7,
-        "end": 164.46,
-        "stretch": true
+        "word": "стиль",
+        "start": 163.71,
+        "end": 164.6,
+        "char_starts": [
+          163.71,
+          163.817,
+          163.982,
+          164.181,
+          164.404
+        ],
+        "spoken": true
       }
     ],
-    "time": 158.7,
-    "end": 164.46
+    "time": 161.95,
+    "end": 164.6
   },
   {
-    "text": "давай забудем про них.",
-    "startTime": 167.8,
+    "text": "Этих малышей в игре, давай забудем про них",
+    "startTime": 164.76,
     "endTime": 169.46,
     "words": [
       {
+        "word": "Этих",
+        "start": 164.76,
+        "end": 165.18,
+        "sung": true
+      },
+      {
+        "word": "малышей",
+        "start": 165.19,
+        "end": 165.74
+      },
+      {
+        "word": "в",
+        "start": 165.75,
+        "end": 166.08
+      },
+      {
+        "word": "игре,",
+        "start": 166.09,
+        "end": 167.2,
+        "char_starts": [
+          166.09,
+          166.223,
+          166.43,
+          166.677,
+          166.956
+        ],
+        "spoken": true
+      },
+      {
         "word": "давай",
-        "start": 167.8,
-        "end": 168.02
+        "start": 167.64,
+        "end": 168.06
       },
       {
         "word": "забудем",
-        "start": 168.252,
+        "start": 168.256,
         "end": 168.66,
         "spoken": true
       },
       {
         "word": "про",
-        "start": 168.66,
-        "end": 169.02,
+        "start": 168.67,
+        "end": 169.06,
         "spoken": true
       },
       {
-        "word": "них.",
-        "start": 169.02,
+        "word": "них",
+        "start": 169.07,
         "end": 169.46,
         "spoken": true
       }
     ],
-    "time": 167.8,
+    "time": 164.76,
     "end": 169.46
   },
   {
+    "text": "Забудем про них",
+    "startTime": 171.96,
+    "endTime": 174.4,
+    "words": [
+      {
+        "word": "Забудем",
+        "start": 171.96,
+        "end": 173.36,
+        "char_starts": [
+          171.96,
+          172.08,
+          172.206,
+          172.354,
+          172.52,
+          172.701,
+          172.895
+        ],
+        "sung": true,
+        "stretch": true
+      },
+      {
+        "word": "про",
+        "start": 173.37,
+        "end": 173.7,
+        "spoken": true
+      },
+      {
+        "word": "них",
+        "start": 173.71,
+        "end": 174.4,
+        "char_starts": [
+          173.71,
+          173.921,
+          174.248
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 171.96,
+    "end": 174.4
+  },
+  {
+    "text": "Забудем про них",
+    "startTime": 177.46,
+    "endTime": 179.04,
+    "words": [
+      {
+        "word": "Забудем",
+        "start": 177.506,
+        "end": 178.14,
+        "char_starts": [
+          177.506,
+          177.56,
+          177.626,
+          177.705,
+          177.793,
+          177.89,
+          177.993
+        ],
+        "sung": true,
+        "stretch": true
+      },
+      {
+        "word": "про",
+        "start": 178.15,
+        "end": 178.4,
+        "sung": true
+      },
+      {
+        "word": "них",
+        "start": 178.41,
+        "end": 179.04,
+        "char_starts": [
+          178.41,
+          178.603,
+          178.901
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 177.46,
+    "end": 179.04
+  },
+  {
+    "text": "Забудем про них",
+    "startTime": 183.16,
+    "endTime": 185.18,
+    "words": [
+      {
+        "word": "Забудем",
+        "start": 183.16,
+        "end": 184.0,
+        "char_starts": [
+          183.16,
+          183.232,
+          183.322,
+          183.429,
+          183.549,
+          183.68,
+          183.82
+        ],
+        "sung": true,
+        "stretch": true
+      },
+      {
+        "word": "про",
+        "start": 184.01,
+        "end": 184.28,
+        "spoken": true
+      },
+      {
+        "word": "них",
+        "start": 184.29,
+        "end": 185.18,
+        "char_starts": [
+          184.29,
+          184.562,
+          184.984
+        ],
+        "spoken": true
+      }
+    ],
+    "time": 183.16,
+    "end": 185.18
+  },
+  {
+    "text": "Забудем про них",
+    "startTime": 188.62,
+    "endTime": 189.14,
+    "words": [
+      {
+        "word": "Забудем",
+        "start": 188.62,
+        "end": 188.92,
+        "spoken": true
+      },
+      {
+        "word": "про",
+        "start": 188.93,
+        "end": 189.03,
+        "spoken": true
+      },
+      {
+        "word": "них",
+        "start": 189.04,
+        "end": 189.14,
+        "spoken": true
+      }
+    ],
+    "time": 188.62,
+    "end": 189.14
+  },
+  {
+    "text": "Забудем про них",
+    "startTime": 191.42,
+    "endTime": 192.92,
+    "words": [
+      {
+        "word": "Забудем",
+        "start": 191.42,
+        "end": 192.24,
+        "char_starts": [
+          191.42,
+          191.49,
+          191.577,
+          191.682,
+          191.799,
+          191.927,
+          192.064
+        ],
+        "sung": true,
+        "stretch": true
+      },
+      {
+        "word": "про",
+        "start": 192.25,
+        "end": 192.58,
+        "spoken": true
+      },
+      {
+        "word": "них",
+        "start": 192.59,
+        "end": 192.92,
+        "sung": true
+      }
+    ],
+    "time": 191.42,
+    "end": 192.92
+  },
+  {
+    "text": "Забудем про них",
+    "startTime": 192.93,
+    "endTime": 197.42,
+    "words": [
+      {
+        "word": "Забудем",
+        "start": 192.93,
+        "end": 194.42,
+        "char_starts": [
+          192.93,
+          193.058,
+          193.192,
+          193.35,
+          193.527,
+          193.719,
+          193.925
+        ],
+        "sung": true,
+        "stretch": true
+      },
+      {
+        "word": "про",
+        "start": 194.78,
+        "end": 195.92,
+        "char_starts": [
+          194.78,
+          195.008,
+          195.413
+        ],
+        "spoken": true
+      },
+      {
+        "word": "них",
+        "start": 196.28,
+        "end": 197.42,
+        "char_starts": [
+          196.28,
+          196.523,
+          196.898
+        ],
+        "sung": true,
+        "stretch": true
+      }
+    ],
+    "time": 192.93,
+    "end": 197.42
+  },
+  {
     "text": "●",
-    "startTime": 169.76,
+    "startTime": 197.72,
     "endTime": 222.912,
     "words": [],
     "type": "vocal_cue",
-    "time": 169.76,
+    "time": 197.72,
     "end": 222.912
   }
 ]

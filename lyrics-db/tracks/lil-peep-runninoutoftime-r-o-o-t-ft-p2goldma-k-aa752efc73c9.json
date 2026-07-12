@@ -1,1535 +1,4678 @@
 [
   {
-    "text": "●",
-    "startTime": 0.3,
-    "endTime": 23.78,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 0.3,
-    "end": 23.78
-  },
-  {
-    "text": "running towards the lightrunning towards the lightrunning out of time",
-    "startTime": 23.78,
-    "endTime": 28.78,
+    "text": "Yeah",
+    "startTime": 20.57,
+    "endTime": 21.37,
     "words": [
       {
-        "word": "running",
-        "start": 23.78,
-        "end": 24.66,
-        "stretch": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "towards",
-        "start": 24.66,
-        "end": 25.1,
-        "singer": "singer2"
-      },
-      {
-        "word": "the",
-        "start": 25.239,
-        "end": 25.44,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "lightrunning",
-        "start": 25.44,
-        "end": 26.14,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "towards",
-        "start": 26.14,
-        "end": 26.4,
-        "singer": "singer2"
-      },
-      {
-        "word": "the",
-        "start": 26.4,
-        "end": 26.78,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "lightrunning",
-        "start": 26.896,
-        "end": 27.46,
-        "singer": "singer2"
-      },
-      {
-        "word": "out",
-        "start": 27.724,
-        "end": 27.9,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "of",
-        "start": 27.9,
-        "end": 28.2,
-        "stretch": true,
-        "sung": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "time",
-        "start": 28.2,
-        "end": 28.78,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 23.78,
-    "end": 28.78
-  },
-  {
-    "text": "●",
-    "startTime": 29.08,
-    "endTime": 34.2,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 29.08,
-    "end": 34.2
-  },
-  {
-    "text": "running towards the lightrunning towards the lightrunning out of time",
-    "startTime": 34.2,
-    "endTime": 39.28,
-    "words": [
-      {
-        "word": "running",
-        "start": 34.2,
-        "end": 35.34,
-        "stretch": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "towards",
-        "start": 35.34,
-        "end": 35.78,
-        "singer": "singer2"
-      },
-      {
-        "word": "the",
-        "start": 35.873,
-        "end": 36.12,
-        "singer": "singer1"
-      },
-      {
-        "word": "lightrunning",
-        "start": 36.12,
-        "end": 36.76,
-        "singer": "singer2"
-      },
-      {
-        "word": "towards",
-        "start": 36.76,
-        "end": 37.06,
-        "singer": "singer2"
-      },
-      {
-        "word": "the",
-        "start": 37.06,
-        "end": 37.46,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "lightrunning",
-        "start": 37.53,
-        "end": 38.12,
-        "singer": "singer2"
-      },
-      {
-        "word": "out",
-        "start": 38.42,
-        "end": 38.62,
-        "stretch": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "of",
-        "start": 38.62,
-        "end": 38.92,
-        "stretch": true,
-        "sung": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "time",
-        "start": 38.92,
-        "end": 39.28,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 34.2,
-    "end": 39.28
-  },
-  {
-    "text": "running towards the lightrunning out of time",
-    "startTime": 42.78,
-    "endTime": 50.02,
-    "words": [
-      {
-        "word": "running",
-        "start": 42.78,
-        "end": 43.92,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "towards",
-        "start": 43.92,
-        "end": 44.72,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "the",
-        "start": 44.72,
-        "end": 48.16,
-        "stretch": true,
-        "sung": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "lightrunning",
-        "start": 48.16,
-        "end": 50.02,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "out",
-        "start": 50.02,
-        "end": 50.02,
-        "singer": "singer1"
-      },
-      {
-        "word": "of",
-        "start": 50.02,
-        "end": 50.02,
-        "singer": "singer1"
-      },
-      {
-        "word": "time",
-        "start": 50.02,
-        "end": 50.02,
+        "word": "Yeah",
+        "start": 20.92,
+        "end": 21.37,
+        "char_starts": [
+          20.92,
+          21.013,
+          21.146,
+          21.303
+        ],
         "singer": "singer1"
       }
     ],
-    "time": 42.78,
-    "end": 50.02
+    "time": 20.57,
+    "end": 21.37
   },
   {
-    "text": "we trust, we live, and we love, and they lie, but we",
-    "startTime": 50.02,
-    "endTime": 61.44,
+    "text": "Thoughts run through my mind",
+    "startTime": 21.62,
+    "endTime": 22.85,
     "words": [
       {
-        "word": "we",
-        "start": 50.02,
-        "end": 50.66,
-        "stretch": true,
+        "word": "Thoughts",
+        "start": 21.62,
+        "end": 21.9,
         "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "trust,",
-        "start": 51.01,
-        "end": 52.14,
-        "stretch": true,
+        "word": "run",
+        "start": 21.91,
+        "end": 22.05,
         "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "we",
-        "start": 53.09,
-        "end": 53.44,
-        "stretch": true,
-        "spoken": true,
+        "word": "through",
+        "start": 22.06,
+        "end": 22.4,
         "singer": "singer1"
-      },
-      {
-        "word": "live,",
-        "start": 53.44,
-        "end": 54.7,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "and",
-        "start": 55.48,
-        "end": 55.8,
-        "singer": "singer1"
-      },
-      {
-        "word": "we",
-        "start": 55.8,
-        "end": 56.62,
-        "stretch": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "love,",
-        "start": 56.97,
-        "end": 57.38,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "and",
-        "start": 58.22,
-        "end": 58.38,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "they",
-        "start": 58.38,
-        "end": 58.9,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "lie,",
-        "start": 58.9,
-        "end": 59.78,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "but",
-        "start": 60.64,
-        "end": 60.9,
-        "singer": "singer2"
-      },
-      {
-        "word": "we",
-        "start": 60.9,
-        "end": 61.44,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 50.02,
-    "end": 61.44
-  },
-  {
-    "text": "trust",
-    "startTime": 61.44,
-    "endTime": 62.92,
-    "words": [
-      {
-        "word": "trust",
-        "start": 61.79,
-        "end": 62.92,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 61.44,
-    "end": 62.92
-  },
-  {
-    "text": "●",
-    "startTime": 63.22,
-    "endTime": 86.88,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 63.22,
-    "end": 86.88
-  },
-  {
-    "text": "running towards the lightrunning towards the lightrunning out of time",
-    "startTime": 86.88,
-    "endTime": 92.9,
-    "words": [
-      {
-        "word": "running",
-        "start": 86.88,
-        "end": 88.0,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "towards",
-        "start": 88.0,
-        "end": 89.12,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "the",
-        "start": 89.12,
-        "end": 89.44,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "lightrunning",
-        "start": 89.44,
-        "end": 90.12,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "towards",
-        "start": 90.12,
-        "end": 90.44,
-        "singer": "singer1"
-      },
-      {
-        "word": "the",
-        "start": 90.44,
-        "end": 90.78,
-        "singer": "singer1"
-      },
-      {
-        "word": "lightrunning",
-        "start": 90.78,
-        "end": 91.48,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "out",
-        "start": 91.48,
-        "end": 91.92,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "of",
-        "start": 91.92,
-        "end": 92.14,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "time",
-        "start": 92.14,
-        "end": 92.9,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 86.88,
-    "end": 92.9
-  },
-  {
-    "text": "●",
-    "startTime": 93.2,
-    "endTime": 98.22,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 93.2,
-    "end": 98.22
-  },
-  {
-    "text": "running towards the lightrunning towards the lightrunning out of time",
-    "startTime": 98.22,
-    "endTime": 101.62,
-    "words": [
-      {
-        "word": "running",
-        "start": 98.22,
-        "end": 99.02,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "towards",
-        "start": 99.02,
-        "end": 99.82,
-        "singer": "singer1"
-      },
-      {
-        "word": "the",
-        "start": 99.82,
-        "end": 100.12,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "lightrunning",
-        "start": 100.12,
-        "end": 100.72,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "towards",
-        "start": 100.72,
-        "end": 101.16,
-        "singer": "singer1"
-      },
-      {
-        "word": "the",
-        "start": 101.16,
-        "end": 101.16,
-        "singer": "singer1"
-      },
-      {
-        "word": "lightrunning",
-        "start": 101.16,
-        "end": 101.16,
-        "singer": "singer1"
-      },
-      {
-        "word": "out",
-        "start": 101.16,
-        "end": 101.16,
-        "singer": "singer1"
-      },
-      {
-        "word": "of",
-        "start": 101.16,
-        "end": 101.34,
-        "singer": "singer1"
-      },
-      {
-        "word": "time",
-        "start": 101.508,
-        "end": 101.62,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 98.22,
-    "end": 101.62
-  },
-  {
-    "text": "running towards the lightrunning out of time",
-    "startTime": 101.62,
-    "endTime": 103.52,
-    "words": [
-      {
-        "word": "running",
-        "start": 101.62,
-        "end": 102.02,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "towards",
-        "start": 102.02,
-        "end": 102.42,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "the",
-        "start": 102.42,
-        "end": 102.42,
-        "singer": "singer1"
-      },
-      {
-        "word": "lightrunning",
-        "start": 102.42,
-        "end": 102.42,
-        "singer": "singer1"
-      },
-      {
-        "word": "out",
-        "start": 102.42,
-        "end": 102.42,
-        "singer": "singer1"
-      },
-      {
-        "word": "of",
-        "start": 102.42,
-        "end": 102.7,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "time",
-        "start": 102.7,
-        "end": 103.52,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 101.62,
-    "end": 103.52
-  },
-  {
-    "text": "●",
-    "startTime": 103.82,
-    "endTime": 129.08,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 103.82,
-    "end": 129.08
-  },
-  {
-    "text": "we trust, we live, and we love, and we love, and they",
-    "startTime": 129.08,
-    "endTime": 129.6,
-    "words": [
-      {
-        "word": "we",
-        "start": 129.08,
-        "end": 129.12,
-        "singer": "singer1"
-      },
-      {
-        "word": "trust,",
-        "start": 129.12,
-        "end": 129.16,
-        "singer": "singer1"
-      },
-      {
-        "word": "we",
-        "start": 129.16,
-        "end": 129.16,
-        "singer": "singer1"
-      },
-      {
-        "word": "live,",
-        "start": 129.16,
-        "end": 129.18,
-        "singer": "singer1"
-      },
-      {
-        "word": "and",
-        "start": 129.18,
-        "end": 129.18,
-        "singer": "singer1"
-      },
-      {
-        "word": "we",
-        "start": 129.18,
-        "end": 129.18,
-        "singer": "singer1"
-      },
-      {
-        "word": "love,",
-        "start": 129.18,
-        "end": 129.18,
-        "singer": "singer1"
-      },
-      {
-        "word": "and",
-        "start": 129.18,
-        "end": 129.18,
-        "singer": "singer1"
-      },
-      {
-        "word": "we",
-        "start": 129.18,
-        "end": 129.18,
-        "singer": "singer1"
-      },
-      {
-        "word": "love,",
-        "start": 129.18,
-        "end": 129.18,
-        "singer": "singer1"
-      },
-      {
-        "word": "and",
-        "start": 129.56,
-        "end": 129.58,
-        "singer": "singer1"
-      },
-      {
-        "word": "they",
-        "start": 129.58,
-        "end": 129.6,
-        "singer": "singer1"
-      }
-    ],
-    "time": 129.08,
-    "end": 129.6
-  },
-  {
-    "text": "lie,",
-    "startTime": 129.6,
-    "endTime": 130.3,
-    "words": [
-      {
-        "word": "lie,",
-        "start": 129.6,
-        "end": 130.3,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 129.6,
-    "end": 130.3
-  },
-  {
-    "text": "but we trust",
-    "startTime": 133.06,
-    "endTime": 134.66,
-    "words": [
-      {
-        "word": "but",
-        "start": 133.348,
-        "end": 133.54,
-        "singer": "singer1"
-      },
-      {
-        "word": "we",
-        "start": 133.54,
-        "end": 133.86,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "trust",
-        "start": 133.86,
-        "end": 134.66,
-        "spoken": true,
-        "singer": "singer1"
-      }
-    ],
-    "time": 133.06,
-    "end": 134.66
-  },
-  {
-    "text": "●",
-    "startTime": 133.4,
-    "endTime": 160.66,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 133.4,
-    "end": 160.66
-  },
-  {
-    "text": "we trust,",
-    "startTime": 160.66,
-    "endTime": 162.06,
-    "words": [
-      {
-        "word": "we",
-        "start": 160.66,
-        "end": 162.06,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "trust,",
-        "start": 162.06,
-        "end": 162.06,
-        "singer": "singer1"
-      }
-    ],
-    "time": 160.66,
-    "end": 162.06
-  },
-  {
-    "text": "we live, and we love, and we love, and they lie, but",
-    "startTime": 163.08,
-    "endTime": 163.08,
-    "words": [
-      {
-        "word": "we",
-        "start": 163.08,
-        "end": 163.08,
-        "singer": "singer1"
-      },
-      {
-        "word": "live,",
-        "start": 163.08,
-        "end": 163.08,
-        "singer": "singer1"
-      },
-      {
-        "word": "and",
-        "start": 163.08,
-        "end": 163.08,
-        "singer": "singer1"
-      },
-      {
-        "word": "we",
-        "start": 163.08,
-        "end": 163.08,
-        "singer": "singer1"
-      },
-      {
-        "word": "love,",
-        "start": 163.08,
-        "end": 163.08,
-        "singer": "singer1"
-      },
-      {
-        "word": "and",
-        "start": 163.08,
-        "end": 163.08,
-        "singer": "singer1"
-      },
-      {
-        "word": "we",
-        "start": 163.08,
-        "end": 163.08,
-        "singer": "singer1"
-      },
-      {
-        "word": "love,",
-        "start": 163.08,
-        "end": 163.08,
-        "singer": "singer1"
-      },
-      {
-        "word": "and",
-        "start": 163.08,
-        "end": 163.08,
-        "singer": "singer1"
-      },
-      {
-        "word": "they",
-        "start": 163.08,
-        "end": 163.08,
-        "singer": "singer1"
-      },
-      {
-        "word": "lie,",
-        "start": 163.08,
-        "end": 163.08,
-        "singer": "singer1"
-      },
-      {
-        "word": "but",
-        "start": 163.08,
-        "end": 163.08,
-        "singer": "singer1"
-      }
-    ],
-    "time": 163.08,
-    "end": 163.08
-  },
-  {
-    "text": "we trust",
-    "startTime": 163.08,
-    "endTime": 163.08,
-    "words": [
-      {
-        "word": "we",
-        "start": 163.08,
-        "end": 163.08,
-        "singer": "singer1"
-      },
-      {
-        "word": "trust",
-        "start": 163.08,
-        "end": 163.08,
-        "singer": "singer1"
-      }
-    ],
-    "time": 163.08,
-    "end": 163.08
-  },
-  {
-    "text": "cause I like it that way, if you got something to say,",
-    "startTime": 163.08,
-    "endTime": 168.72,
-    "words": [
-      {
-        "word": "cause",
-        "start": 163.08,
-        "end": 163.9,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "I",
-        "start": 163.9,
-        "end": 164.24,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "like",
-        "start": 164.24,
-        "end": 164.66,
-        "singer": "singer2"
-      },
-      {
-        "word": "it",
-        "start": 164.66,
-        "end": 164.98,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "that",
-        "start": 164.98,
-        "end": 165.36,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "way,",
-        "start": 165.516,
-        "end": 165.62,
-        "sung": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "if",
-        "start": 165.62,
-        "end": 166.54,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "you",
-        "start": 166.54,
-        "end": 167.0,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "got",
-        "start": 167.0,
-        "end": 167.34,
-        "singer": "singer2"
-      },
-      {
-        "word": "something",
-        "start": 167.34,
-        "end": 167.72,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "to",
-        "start": 167.948,
-        "end": 168.1,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "say,",
-        "start": 168.1,
-        "end": 168.72,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 163.08,
-    "end": 168.72
-  },
-  {
-    "text": "say that shit to my face",
-    "startTime": 169.32,
-    "endTime": 170.98,
-    "words": [
-      {
-        "word": "say",
-        "start": 169.32,
-        "end": 169.32,
-        "singer": "singer1"
-      },
-      {
-        "word": "that",
-        "start": 169.32,
-        "end": 169.6,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "shit",
-        "start": 169.6,
-        "end": 169.96,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "to",
-        "start": 169.96,
-        "end": 170.3,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer2"
       },
       {
         "word": "my",
-        "start": 170.3,
-        "end": 170.7,
+        "start": 22.41,
+        "end": 22.82,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind",
+        "start": 22.83,
+        "end": 22.85,
+        "singer": "singer1"
+      }
+    ],
+    "time": 21.62,
+    "end": 22.85
+  },
+  {
+    "text": "Search, but I can't find",
+    "startTime": 22.87,
+    "endTime": 27.79,
+    "words": [
+      {
+        "word": "Search,",
+        "start": 22.87,
+        "end": 22.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "but",
+        "start": 22.97,
+        "end": 23.22,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 25.203,
+        "end": 26.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "can't",
+        "start": 26.54,
+        "end": 27.68,
+        "char_starts": [
+          26.54,
+          26.706,
+          26.948,
+          27.23,
+          27.543
+        ],
+        "singer": "singer1"
+      },
+      {
+        "word": "find",
+        "start": 27.69,
+        "end": 27.79,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 22.87,
+    "end": 27.79
+  },
+  {
+    "text": "Running toward the light",
+    "startTime": 24.16,
+    "endTime": 25.294,
+    "words": [
+      {
+        "word": "Running",
+        "start": 24.16,
+        "end": 24.538,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "toward",
+        "start": 24.538,
+        "end": 24.862,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 24.862,
+        "end": 25.024,
+        "singer": "singer1"
+      },
+      {
+        "word": "light",
+        "start": 25.186,
+        "end": 25.294,
+        "singer": "singer1"
+      }
+    ],
+    "time": 24.16,
+    "end": 25.294
+  },
+  {
+    "text": "Running toward the light",
+    "startTime": 25.42,
+    "endTime": 26.671,
+    "words": [
+      {
+        "word": "Running",
+        "start": 25.42,
+        "end": 25.837,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "toward",
+        "start": 25.837,
+        "end": 26.194,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 26.194,
+        "end": 26.373,
+        "singer": "singer1"
+      },
+      {
+        "word": "light",
+        "start": 26.373,
+        "end": 26.671,
+        "singer": "singer1"
+      }
+    ],
+    "time": 25.42,
+    "end": 26.671
+  },
+  {
+    "text": "Running out of time",
+    "startTime": 26.81,
+    "endTime": 28.466,
+    "words": [
+      {
+        "word": "Running",
+        "start": 26.88,
+        "end": 27.534,
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 27.534,
+        "end": 27.845,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 27.915,
+        "end": 28.052,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 28.052,
+        "end": 28.466,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 26.81,
+    "end": 28.466
+  },
+  {
+    "text": "Yeah, ayy",
+    "startTime": 28.65,
+    "endTime": 29.77,
+    "words": [
+      {
+        "word": "Yeah,",
+        "start": 28.859,
+        "end": 29.35,
+        "singer": "singer1"
+      },
+      {
+        "word": "ayy",
+        "start": 29.35,
+        "end": 29.77,
+        "singer": "singer1"
+      }
+    ],
+    "time": 28.65,
+    "end": 29.77
+  },
+  {
+    "text": "Thoughts run through my mind",
+    "startTime": 32.15,
+    "endTime": 33.347,
+    "words": [
+      {
+        "word": "Thoughts",
+        "start": 32.22,
+        "end": 32.549,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 32.549,
+        "end": 32.699,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 32.699,
+        "end": 33.048,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 33.048,
+        "end": 33.148,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind",
+        "start": 33.241,
+        "end": 33.347,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 32.15,
+    "end": 33.347
+  },
+  {
+    "text": "Search, but I can't find",
+    "startTime": 33.48,
+    "endTime": 34.34,
+    "words": [
+      {
+        "word": "Search,",
+        "start": 33.48,
+        "end": 33.58,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "but",
+        "start": 33.59,
+        "end": 33.72,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 33.98,
+        "end": 34.12,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "can't",
+        "start": 34.19,
+        "end": 34.23,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "find",
+        "start": 34.24,
+        "end": 34.34,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 33.48,
+    "end": 34.34
+  },
+  {
+    "text": "Running toward the light",
+    "startTime": 34.75,
+    "endTime": 36.055,
+    "words": [
+      {
+        "word": "Running",
+        "start": 34.75,
+        "end": 35.185,
+        "singer": "singer1"
+      },
+      {
+        "word": "toward",
+        "start": 35.185,
+        "end": 35.558,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 35.558,
+        "end": 35.744,
+        "singer": "singer1"
+      },
+      {
+        "word": "light",
+        "start": 35.883,
+        "end": 36.055,
+        "singer": "singer1"
+      }
+    ],
+    "time": 34.75,
+    "end": 36.055
+  },
+  {
+    "text": "Running toward the light",
+    "startTime": 36.2,
+    "endTime": 37.298,
+    "words": [
+      {
+        "word": "Running",
+        "start": 36.2,
+        "end": 36.566,
+        "singer": "singer1"
+      },
+      {
+        "word": "toward",
+        "start": 36.566,
+        "end": 36.88,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 36.88,
+        "end": 37.037,
+        "singer": "singer1"
+      },
+      {
+        "word": "light",
+        "start": 37.037,
+        "end": 37.298,
+        "singer": "singer1"
+      }
+    ],
+    "time": 36.2,
+    "end": 37.298
+  },
+  {
+    "text": "Running out of time",
+    "startTime": 37.42,
+    "endTime": 39.094,
+    "words": [
+      {
+        "word": "Running",
+        "start": 37.513,
+        "end": 38.152,
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 38.152,
+        "end": 38.466,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 38.559,
+        "end": 38.676,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 38.676,
+        "end": 39.094,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 37.42,
+    "end": 39.094
+  },
+  {
+    "text": "Yeah",
+    "startTime": 39.28,
+    "endTime": 39.98,
+    "words": [
+      {
+        "word": "Yeah",
+        "start": 39.512,
+        "end": 39.98,
+        "singer": "singer1"
+      }
+    ],
+    "time": 39.28,
+    "end": 39.98
+  },
+  {
+    "text": "And they lie, but we trust",
+    "startTime": 46.98,
+    "endTime": 50.18,
+    "words": [
+      {
+        "word": "And",
+        "start": 46.98,
+        "end": 47.437,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "they",
+        "start": 47.437,
+        "end": 48.047,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lie,",
+        "start": 48.047,
+        "end": 48.656,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "but",
+        "start": 48.656,
+        "end": 49.113,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "we",
+        "start": 49.113,
+        "end": 49.418,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "trust",
+        "start": 49.418,
+        "end": 50.18,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 46.98,
+    "end": 50.18
+  },
+  {
+    "text": "We live and we love",
+    "startTime": 52.65,
+    "endTime": 55.05,
+    "words": [
+      {
+        "word": "We",
+        "start": 52.65,
+        "end": 52.97,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "live",
+        "start": 53.32,
+        "end": 53.61,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 53.61,
+        "end": 54.09,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "we",
+        "start": 54.09,
+        "end": 54.41,
+        "singer": "singer1"
+      },
+      {
+        "word": "love",
+        "start": 54.41,
+        "end": 55.05,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 52.65,
+    "end": 55.05
+  },
+  {
+    "text": "And they lie, but we trust",
+    "startTime": 57.53,
+    "endTime": 60.73,
+    "words": [
+      {
+        "word": "And",
+        "start": 57.53,
+        "end": 57.987,
+        "singer": "singer1"
+      },
+      {
+        "word": "they",
+        "start": 57.987,
+        "end": 58.597,
+        "singer": "singer1"
+      },
+      {
+        "word": "lie,",
+        "start": 58.597,
+        "end": 59.206,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "but",
+        "start": 59.206,
+        "end": 59.663,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "we",
+        "start": 59.663,
+        "end": 59.968,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "trust",
+        "start": 60.318,
+        "end": 60.73,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 57.53,
+    "end": 60.73
+  },
+  {
+    "text": "Ah, ah",
+    "startTime": 63.43,
+    "endTime": 65.67,
+    "words": [
+      {
+        "word": "Ah,",
+        "start": 63.78,
+        "end": 64.77,
+        "char_starts": [
+          63.78,
+          64.105,
+          64.572
+        ],
+        "sung": true,
         "stretch": true,
-        "singer": "singer2"
+        "singer": "singer1"
+      },
+      {
+        "word": "ah",
+        "start": 65.195,
+        "end": 65.67,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 63.43,
+    "end": 65.67
+  },
+  {
+    "text": "Thoughts run through my mind",
+    "startTime": 68.23,
+    "endTime": 70.06,
+    "words": [
+      {
+        "word": "Thoughts",
+        "start": 68.23,
+        "end": 68.773,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 68.783,
+        "end": 69.003,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 69.329,
+        "end": 69.54,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 69.55,
+        "end": 69.66,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind",
+        "start": 69.67,
+        "end": 70.06,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 68.23,
+    "end": 70.06
+  },
+  {
+    "text": "(thoughts run through my mind)",
+    "startTime": 70.07,
+    "endTime": 70.57,
+    "words": [
+      {
+        "word": "(thoughts",
+        "start": 70.07,
+        "end": 70.11,
+        "adlib": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 70.12,
+        "end": 70.16,
+        "adlib": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 70.17,
+        "end": 70.21,
+        "adlib": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 70.22,
+        "end": 70.46,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind)",
+        "start": 70.47,
+        "end": 70.57,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 70.07,
+    "end": 70.57
+  },
+  {
+    "text": "Thoughts run through my mind",
+    "startTime": 70.75,
+    "endTime": 71.29,
+    "words": [
+      {
+        "word": "Thoughts",
+        "start": 70.75,
+        "end": 70.85,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 70.86,
+        "end": 70.96,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 70.97,
+        "end": 71.07,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 71.08,
+        "end": 71.18,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind",
+        "start": 71.19,
+        "end": 71.29,
+        "singer": "singer1"
+      }
+    ],
+    "time": 70.75,
+    "end": 71.29
+  },
+  {
+    "text": "(thoughts run through my mind)",
+    "startTime": 71.3,
+    "endTime": 71.84,
+    "words": [
+      {
+        "word": "(thoughts",
+        "start": 71.3,
+        "end": 71.724,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 71.724,
+        "end": 71.865,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 71.865,
+        "end": 72.194,
+        "adlib": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 72.194,
+        "end": 72.289,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind)",
+        "start": 72.289,
+        "end": 72.524,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 71.3,
+    "end": 71.84
+  },
+  {
+    "text": "Yeah (yeah)",
+    "startTime": 72.66,
+    "endTime": 73.94,
+    "words": [
+      {
+        "word": "Yeah",
+        "start": 72.967,
+        "end": 73.172,
+        "singer": "singer1"
+      },
+      {
+        "word": "(yeah)",
+        "start": 73.172,
+        "end": 73.94,
+        "adlib": true,
+        "sung": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 72.66,
+    "end": 73.94
+  },
+  {
+    "text": "Thoughts run through my mind",
+    "startTime": 74.76,
+    "endTime": 75.921,
+    "words": [
+      {
+        "word": "Thoughts",
+        "start": 74.876,
+        "end": 75.147,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 75.147,
+        "end": 75.292,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 75.292,
+        "end": 75.631,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 75.631,
+        "end": 75.727,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind",
+        "start": 75.843,
+        "end": 75.921,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 74.76,
+    "end": 75.921
+  },
+  {
+    "text": "Thoughts run through my mind",
+    "startTime": 76.05,
+    "endTime": 77.229,
+    "words": [
+      {
+        "word": "Thoughts",
+        "start": 76.05,
+        "end": 76.443,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 76.443,
+        "end": 76.59,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 76.796,
+        "end": 76.934,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 76.934,
+        "end": 77.032,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind",
+        "start": 77.032,
+        "end": 77.229,
+        "singer": "singer1"
+      }
+    ],
+    "time": 76.05,
+    "end": 77.229
+  },
+  {
+    "text": "Thoughts run through my mind",
+    "startTime": 77.36,
+    "endTime": 78.584,
+    "words": [
+      {
+        "word": "Thoughts",
+        "start": 77.36,
+        "end": 77.768,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 77.768,
+        "end": 77.921,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 77.921,
+        "end": 78.278,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 78.278,
+        "end": 78.38,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind",
+        "start": 78.502,
+        "end": 78.584,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 77.36,
+    "end": 78.584
+  },
+  {
+    "text": "Thoughts run through my mind",
+    "startTime": 78.72,
+    "endTime": 79.953,
+    "words": [
+      {
+        "word": "Thoughts",
+        "start": 78.72,
+        "end": 79.131,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 79.131,
+        "end": 79.285,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 79.285,
+        "end": 79.645,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 79.645,
+        "end": 79.747,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind",
+        "start": 79.747,
+        "end": 79.953,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 78.72,
+    "end": 79.953
+  },
+  {
+    "text": "Thoughts run through my mind",
+    "startTime": 80.09,
+    "endTime": 81.566,
+    "words": [
+      {
+        "word": "Thoughts",
+        "start": 80.206,
+        "end": 80.582,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 80.582,
+        "end": 80.767,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 80.767,
+        "end": 81.197,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 81.197,
+        "end": 81.32,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind",
+        "start": 81.32,
+        "end": 81.566,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 80.09,
+    "end": 81.566
+  },
+  {
+    "text": "Yeah, ay, ay, ay",
+    "startTime": 81.73,
+    "endTime": 83.33,
+    "words": [
+      {
+        "word": "Yeah,",
+        "start": 82.08,
+        "end": 82.345,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ay,",
+        "start": 82.345,
+        "end": 82.715,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ay,",
+        "start": 82.715,
+        "end": 83.084,
+        "singer": "singer1"
+      },
+      {
+        "word": "ay",
+        "start": 83.084,
+        "end": 83.33,
+        "singer": "singer1"
+      }
+    ],
+    "time": 81.73,
+    "end": 83.33
+  },
+  {
+    "text": "Thoughts run through my mind",
+    "startTime": 85.45,
+    "endTime": 86.611,
+    "words": [
+      {
+        "word": "Thoughts",
+        "start": 85.45,
+        "end": 85.837,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 85.837,
+        "end": 85.982,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 85.982,
+        "end": 86.321,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 86.321,
+        "end": 86.417,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind",
+        "start": 86.417,
+        "end": 86.611,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 85.45,
+    "end": 86.611
+  },
+  {
+    "text": "Search, but I can't find",
+    "startTime": 86.74,
+    "endTime": 87.88,
+    "words": [
+      {
+        "word": "Search,",
+        "start": 86.74,
+        "end": 87.131,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "but",
+        "start": 87.131,
+        "end": 87.298,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 87.298,
+        "end": 87.378,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "can't",
+        "start": 87.378,
+        "end": 87.657,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "find",
+        "start": 87.657,
+        "end": 87.88,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 86.74,
+    "end": 87.88
+  },
+  {
+    "text": "Running toward the light",
+    "startTime": 87.98,
+    "endTime": 89.285,
+    "words": [
+      {
+        "word": "Running",
+        "start": 87.98,
+        "end": 88.415,
+        "singer": "singer1"
+      },
+      {
+        "word": "toward",
+        "start": 88.415,
+        "end": 88.788,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 88.788,
+        "end": 88.974,
+        "singer": "singer1"
+      },
+      {
+        "word": "light",
+        "start": 89.161,
+        "end": 89.285,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 87.98,
+    "end": 89.285
+  },
+  {
+    "text": "Running toward the light",
+    "startTime": 89.43,
+    "endTime": 90.861,
+    "words": [
+      {
+        "word": "Running",
+        "start": 89.43,
+        "end": 89.907,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "toward",
+        "start": 89.907,
+        "end": 90.316,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 90.316,
+        "end": 90.52,
+        "singer": "singer1"
+      },
+      {
+        "word": "light",
+        "start": 90.52,
+        "end": 90.861,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 89.43,
+    "end": 90.861
+  },
+  {
+    "text": "Running out of time",
+    "startTime": 91.02,
+    "endTime": 91.45,
+    "words": [
+      {
+        "word": "Running",
+        "start": 91.02,
+        "end": 91.12,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 91.13,
+        "end": 91.23,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 91.24,
+        "end": 91.34,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 91.35,
+        "end": 91.45,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 91.02,
+    "end": 91.45
+  },
+  {
+    "text": "'Cause we live and we love",
+    "startTime": 91.27,
+    "endTime": 94.54,
+    "words": [
+      {
+        "word": "'Cause",
+        "start": 91.27,
+        "end": 91.42,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "we",
+        "start": 91.47,
+        "end": 91.62,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "live",
+        "start": 91.67,
+        "end": 92.49,
+        "char_starts": [
+          91.67,
+          91.793,
+          92.028,
+          92.367
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 92.5,
+        "end": 93.97,
+        "char_starts": [
+          92.5,
+          92.924,
+          93.676
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "we",
+        "start": 93.98,
+        "end": 94.43,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "love",
+        "start": 94.44,
+        "end": 94.54,
+        "singer": "singer1"
+      }
+    ],
+    "time": 91.27,
+    "end": 94.54
+  },
+  {
+    "text": "Yeah, ay, ay",
+    "startTime": 92.64,
+    "endTime": 93.92,
+    "words": [
+      {
+        "word": "Yeah,",
+        "start": 92.64,
+        "end": 93.28,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ay,",
+        "start": 93.28,
+        "end": 93.664,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ay",
+        "start": 93.664,
+        "end": 93.92,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 92.64,
+    "end": 93.92
+  },
+  {
+    "text": "Thoughts run through my mind",
+    "startTime": 95.8,
+    "endTime": 97.312,
+    "words": [
+      {
+        "word": "Thoughts",
+        "start": 96.055,
+        "end": 96.304,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 96.304,
+        "end": 96.493,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 96.493,
+        "end": 96.934,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 96.934,
+        "end": 97.06,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind",
+        "start": 97.06,
+        "end": 97.312,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 95.8,
+    "end": 97.312
+  },
+  {
+    "text": "Search, but I can't find",
+    "startTime": 97.48,
+    "endTime": 98.748,
+    "words": [
+      {
+        "word": "Search,",
+        "start": 97.48,
+        "end": 97.918,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "but",
+        "start": 97.918,
+        "end": 98.106,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 98.106,
+        "end": 98.186,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "can't",
+        "start": 98.186,
+        "end": 98.498,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "find",
+        "start": 98.498,
+        "end": 98.748,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 97.48,
+    "end": 98.748
+  },
+  {
+    "text": "Running toward the light",
+    "startTime": 98.87,
+    "endTime": 99.815,
+    "words": [
+      {
+        "word": "Running",
+        "start": 98.87,
+        "end": 99.185,
+        "singer": "singer1"
+      },
+      {
+        "word": "toward",
+        "start": 99.185,
+        "end": 99.455,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 99.455,
+        "end": 99.59,
+        "singer": "singer1"
+      },
+      {
+        "word": "light",
+        "start": 99.59,
+        "end": 99.815,
+        "singer": "singer1"
+      }
+    ],
+    "time": 98.87,
+    "end": 99.815
+  },
+  {
+    "text": "Running out of time",
+    "startTime": 99.92,
+    "endTime": 101.189,
+    "words": [
+      {
+        "word": "Running",
+        "start": 99.92,
+        "end": 100.475,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 100.475,
+        "end": 100.713,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 100.713,
+        "end": 100.872,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 100.872,
+        "end": 101.189,
+        "singer": "singer1"
+      }
+    ],
+    "time": 99.92,
+    "end": 101.189
+  },
+  {
+    "text": "Running out of time",
+    "startTime": 101.33,
+    "endTime": 103.031,
+    "words": [
+      {
+        "word": "Running",
+        "start": 101.33,
+        "end": 102.074,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 102.074,
+        "end": 102.393,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 102.393,
+        "end": 102.606,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 102.606,
+        "end": 103.031,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 101.33,
+    "end": 103.031
+  },
+  {
+    "text": "Yeah",
+    "startTime": 103.22,
+    "endTime": 103.92,
+    "words": [
+      {
+        "word": "Yeah",
+        "start": 103.22,
+        "end": 103.92,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 103.22,
+    "end": 103.92
+  },
+  {
+    "text": "Thoughts run through my mind",
+    "startTime": 106.61,
+    "endTime": 109.112,
+    "words": [
+      {
+        "word": "Thoughts",
+        "start": 106.68,
+        "end": 107.444,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 107.444,
+        "end": 107.757,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 107.757,
+        "end": 108.486,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 108.486,
+        "end": 108.695,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind",
+        "start": 108.695,
+        "end": 109.112,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 106.61,
+    "end": 109.112
+  },
+  {
+    "text": "Girl, I'm gon' be fine (girl, you gon' be fine)",
+    "startTime": 109.39,
+    "endTime": 111.748,
+    "words": [
+      {
+        "word": "Girl,",
+        "start": 109.39,
+        "end": 109.7,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 109.7,
+        "end": 109.886,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "gon'",
+        "start": 109.886,
+        "end": 110.135,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "be",
+        "start": 110.135,
+        "end": 110.259,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fine",
+        "start": 110.259,
+        "end": 110.507,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "(girl,",
+        "start": 110.507,
+        "end": 110.879,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 110.879,
+        "end": 111.065,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "gon'",
+        "start": 111.065,
+        "end": 111.314,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "be",
+        "start": 111.314,
+        "end": 111.438,
+        "adlib": true,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fine)",
+        "start": 111.438,
+        "end": 111.748,
+        "adlib": true,
+        "sung": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 109.39,
+    "end": 111.748
+  },
+  {
+    "text": "I spend all my time (spend my fuckin' time)",
+    "startTime": 112.01,
+    "endTime": 114.206,
+    "words": [
+      {
+        "word": "I",
+        "start": 112.01,
+        "end": 112.09,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "spend",
+        "start": 112.276,
+        "end": 112.401,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "all",
+        "start": 112.401,
+        "end": 112.588,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 112.588,
+        "end": 112.712,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 112.712,
+        "end": 112.961,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "(spend",
+        "start": 112.961,
+        "end": 113.335,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 113.335,
+        "end": 113.459,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fuckin'",
+        "start": 113.459,
+        "end": 113.895,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "time)",
+        "start": 113.895,
+        "end": 114.206,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 112.01,
+    "end": 114.206
+  },
+  {
+    "text": "To try to make you mine (make you fuckin' mine)",
+    "startTime": 114.43,
+    "endTime": 116.626,
+    "words": [
+      {
+        "word": "To",
+        "start": 114.43,
+        "end": 114.546,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "try",
+        "start": 114.546,
+        "end": 114.719,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 114.719,
+        "end": 114.835,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "make",
+        "start": 114.835,
+        "end": 115.066,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 115.066,
+        "end": 115.239,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mine",
+        "start": 115.239,
+        "end": 115.47,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "(make",
+        "start": 115.47,
+        "end": 115.759,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 115.759,
+        "end": 115.933,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fuckin'",
+        "start": 115.933,
+        "end": 116.337,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mine)",
+        "start": 116.337,
+        "end": 116.626,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 114.43,
+    "end": 116.626
+  },
+  {
+    "text": "Trying to get you high off something that only I supply",
+    "startTime": 116.87,
+    "endTime": 120.992,
+    "words": [
+      {
+        "word": "Trying",
+        "start": 116.916,
+        "end": 117.42,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 117.53,
+        "end": 117.603,
+        "singer": "singer1"
+      },
+      {
+        "word": "get",
+        "start": 117.603,
+        "end": 117.878,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 117.878,
+        "end": 118.152,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "high",
+        "start": 118.372,
+        "end": 118.519,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "off",
+        "start": 118.519,
+        "end": 118.794,
+        "singer": "singer1"
+      },
+      {
+        "word": "something",
+        "start": 119.144,
+        "end": 119.618,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "that",
+        "start": 119.618,
+        "end": 119.984,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "only",
+        "start": 119.984,
+        "end": 120.351,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 120.351,
+        "end": 120.442,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "supply",
+        "start": 120.442,
+        "end": 120.992,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 116.87,
+    "end": 120.992
+  },
+  {
+    "text": "I'm talkin' that make you want to cry (cry)",
+    "startTime": 121.45,
+    "endTime": 124.033,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 121.45,
+        "end": 121.671,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "talkin'",
+        "start": 121.671,
+        "end": 122.188,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "that",
+        "start": 122.188,
+        "end": 122.483,
+        "singer": "singer1"
+      },
+      {
+        "word": "make",
+        "start": 122.483,
+        "end": 122.778,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 122.911,
+        "end": 123.0,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "want",
+        "start": 123.0,
+        "end": 123.295,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 123.295,
+        "end": 123.443,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "cry",
+        "start": 123.443,
+        "end": 123.664,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "(cry)",
+        "start": 123.664,
+        "end": 124.033,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 121.45,
+    "end": 124.033
+  },
+  {
+    "text": "Yeah, I'm talkin' that make you want to die (die)",
+    "startTime": 124.32,
+    "endTime": 126.75,
+    "words": [
+      {
+        "word": "Yeah,",
+        "start": 124.32,
+        "end": 124.624,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 124.624,
+        "end": 124.806,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "talkin'",
+        "start": 124.806,
+        "end": 125.231,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "that",
+        "start": 125.231,
+        "end": 125.474,
+        "singer": "singer1"
+      },
+      {
+        "word": "make",
+        "start": 125.474,
+        "end": 125.717,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 125.717,
+        "end": 125.899,
+        "singer": "singer1"
+      },
+      {
+        "word": "want",
+        "start": 125.899,
+        "end": 126.142,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 126.142,
+        "end": 126.264,
+        "singer": "singer1"
+      },
+      {
+        "word": "die",
+        "start": 126.264,
+        "end": 126.446,
+        "singer": "singer1"
+      },
+      {
+        "word": "(die)",
+        "start": 126.516,
+        "end": 126.75,
+        "adlib": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 124.32,
+    "end": 126.75
+  },
+  {
+    "text": "Get lost in the smoke, I'm hard to find",
+    "startTime": 127.02,
+    "endTime": 129.324,
+    "words": [
+      {
+        "word": "Get",
+        "start": 127.02,
+        "end": 127.243,
+        "singer": "singer1"
+      },
+      {
+        "word": "lost",
+        "start": 127.243,
+        "end": 127.54,
+        "singer": "singer1"
+      },
+      {
+        "word": "in",
+        "start": 127.54,
+        "end": 127.689,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 127.689,
+        "end": 127.912,
+        "singer": "singer1"
+      },
+      {
+        "word": "smoke,",
+        "start": 128.075,
+        "end": 128.358,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 128.358,
+        "end": 128.581,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "hard",
+        "start": 128.581,
+        "end": 128.878,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 128.878,
+        "end": 129.027,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "find",
+        "start": 129.027,
+        "end": 129.324,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 127.02,
+    "end": 129.324
+  },
+  {
+    "text": "Young boss fucked ya hoe, she off the lines?",
+    "startTime": 129.58,
+    "endTime": 131.929,
+    "words": [
+      {
+        "word": "Young",
+        "start": 129.58,
+        "end": 129.906,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "boss",
+        "start": 129.906,
+        "end": 130.167,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fucked",
+        "start": 130.167,
+        "end": 130.559,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ya",
+        "start": 130.559,
+        "end": 130.689,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "hoe,",
+        "start": 130.689,
+        "end": 130.95,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "she",
+        "start": 130.95,
+        "end": 131.146,
+        "singer": "singer1"
+      },
+      {
+        "word": "off",
+        "start": 131.146,
+        "end": 131.342,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 131.342,
+        "end": 131.538,
+        "singer": "singer1"
+      },
+      {
+        "word": "lines?",
+        "start": 131.773,
+        "end": 131.929,
+        "singer": "singer1"
+      }
+    ],
+    "time": 129.58,
+    "end": 131.929
+  },
+  {
+    "text": "Based dope, blow, and lose your mind",
+    "startTime": 132.19,
+    "endTime": 134.539,
+    "words": [
+      {
+        "word": "Based",
+        "start": 132.19,
+        "end": 132.582,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "dope,",
+        "start": 132.582,
+        "end": 132.973,
+        "singer": "singer1"
+      },
+      {
+        "word": "blow,",
+        "start": 132.973,
+        "end": 133.365,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 133.505,
+        "end": 133.599,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lose",
+        "start": 133.599,
+        "end": 133.913,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "your",
+        "start": 133.913,
+        "end": 134.226,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind",
+        "start": 134.226,
+        "end": 134.539,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 132.19,
+    "end": 134.539
+  },
+  {
+    "text": "Pull up to the show and cut the line",
+    "startTime": 134.8,
+    "endTime": 137.257,
+    "words": [
+      {
+        "word": "Pull",
+        "start": 134.8,
+        "end": 135.151,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "up",
+        "start": 135.151,
+        "end": 135.326,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 135.326,
+        "end": 135.502,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 135.502,
+        "end": 135.765,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "show",
+        "start": 135.765,
+        "end": 136.116,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 136.116,
+        "end": 136.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "cut",
+        "start": 136.38,
+        "end": 136.643,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 136.643,
+        "end": 136.906,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "line",
+        "start": 137.117,
+        "end": 137.257,
+        "singer": "singer1"
+      }
+    ],
+    "time": 134.8,
+    "end": 137.257
+  },
+  {
+    "text": "Everybody ain't know that I'm one of a kind",
+    "startTime": 137.53,
+    "endTime": 139.997,
+    "words": [
+      {
+        "word": "Everybody",
+        "start": 137.53,
+        "end": 138.162,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ain't",
+        "start": 138.162,
+        "end": 138.513,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "know",
+        "start": 138.682,
+        "end": 138.794,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "that",
+        "start": 138.794,
+        "end": 139.074,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 139.074,
+        "end": 139.285,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "one",
+        "start": 139.285,
+        "end": 139.496,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 139.496,
+        "end": 139.636,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 139.636,
+        "end": 139.716,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "kind",
+        "start": 139.716,
+        "end": 139.997,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 137.53,
+    "end": 139.997
+  },
+  {
+    "text": "Every ain't know that I'ma get my shine",
+    "startTime": 140.26,
+    "endTime": 142.69,
+    "words": [
+      {
+        "word": "Every",
+        "start": 140.26,
+        "end": 140.64,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ain't",
+        "start": 140.64,
+        "end": 141.019,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "know",
+        "start": 141.019,
+        "end": 141.323,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "that",
+        "start": 141.323,
+        "end": 141.627,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'ma",
+        "start": 141.627,
+        "end": 141.931,
+        "singer": "singer1"
+      },
+      {
+        "word": "get",
+        "start": 141.931,
+        "end": 142.158,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 142.158,
+        "end": 142.31,
+        "singer": "singer1"
+      },
+      {
+        "word": "shine",
+        "start": 142.538,
+        "end": 142.69,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 140.26,
+    "end": 142.69
+  },
+  {
+    "text": "I ain't fucking wit' a hoe if she need my time",
+    "startTime": 142.96,
+    "endTime": 145.1,
+    "words": [
+      {
+        "word": "I",
+        "start": 142.96,
+        "end": 143.04,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ain't",
+        "start": 143.04,
+        "end": 143.331,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fucking",
+        "start": 143.331,
+        "end": 143.739,
+        "singer": "singer1"
+      },
+      {
+        "word": "wit'",
+        "start": 143.739,
+        "end": 143.972,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 143.972,
+        "end": 144.052,
+        "singer": "singer1"
+      },
+      {
+        "word": "hoe",
+        "start": 144.157,
+        "end": 144.227,
+        "singer": "singer1"
+      },
+      {
+        "word": "if",
+        "start": 144.227,
+        "end": 144.343,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "she",
+        "start": 144.343,
+        "end": 144.518,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "need",
+        "start": 144.518,
+        "end": 144.751,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 144.751,
+        "end": 144.868,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 144.868,
+        "end": 145.1,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 142.96,
+    "end": 145.1
+  },
+  {
+    "text": "All I really fuckin' know is stayin' on my grind, ayy",
+    "startTime": 145.29,
+    "endTime": 148.746,
+    "words": [
+      {
+        "word": "All",
+        "start": 145.29,
+        "end": 145.531,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 145.531,
+        "end": 145.611,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "really",
+        "start": 145.611,
+        "end": 146.094,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fuckin'",
+        "start": 146.094,
+        "end": 146.656,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "know",
+        "start": 146.656,
+        "end": 146.978,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "is",
+        "start": 146.978,
+        "end": 147.139,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "stayin'",
+        "start": 147.139,
+        "end": 147.701,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 147.798,
+        "end": 147.862,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 147.862,
+        "end": 148.023,
+        "singer": "singer1"
+      },
+      {
+        "word": "grind,",
+        "start": 148.023,
+        "end": 148.505,
+        "singer": "singer1"
+      },
+      {
+        "word": "ayy",
+        "start": 148.505,
+        "end": 148.746,
+        "singer": "singer1"
+      }
+    ],
+    "time": 145.29,
+    "end": 148.746
+  },
+  {
+    "text": "One step closer",
+    "startTime": 149.13,
+    "endTime": 150.975,
+    "words": [
+      {
+        "word": "One",
+        "start": 149.339,
+        "end": 149.556,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "step",
+        "start": 149.765,
+        "end": 150.123,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "closer",
+        "start": 150.123,
+        "end": 150.975,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 149.13,
+    "end": 150.975
+  },
+  {
+    "text": "I feelin' like I was chosen",
+    "startTime": 151.18,
+    "endTime": 153.79,
+    "words": [
+      {
+        "word": "I",
+        "start": 151.18,
+        "end": 151.299,
+        "singer": "singer1"
+      },
+      {
+        "word": "feelin'",
+        "start": 151.649,
+        "end": 152.129,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "like",
+        "start": 152.129,
+        "end": 152.604,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 152.604,
+        "end": 152.722,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "was",
+        "start": 152.722,
+        "end": 153.078,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "chosen",
+        "start": 153.078,
+        "end": 153.79,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 151.18,
+    "end": 153.79
+  },
+  {
+    "text": "My wrist always open",
+    "startTime": 154.08,
+    "endTime": 156.312,
+    "words": [
+      {
+        "word": "My",
+        "start": 154.08,
+        "end": 154.343,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wrist",
+        "start": 154.693,
+        "end": 154.999,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "always",
+        "start": 154.999,
+        "end": 155.787,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "open",
+        "start": 155.787,
+        "end": 156.312,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 154.08,
+    "end": 156.312
+  },
+  {
+    "text": "My blood always frozen",
+    "startTime": 156.56,
+    "endTime": 158.873,
+    "words": [
+      {
+        "word": "My",
+        "start": 156.56,
+        "end": 156.803,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "blood",
+        "start": 156.803,
+        "end": 157.412,
+        "singer": "singer1"
+      },
+      {
+        "word": "always",
+        "start": 157.412,
+        "end": 158.143,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "frozen",
+        "start": 158.143,
+        "end": 158.873,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 156.56,
+    "end": 158.873
+  },
+  {
+    "text": "I know I'm never sober",
+    "startTime": 159.13,
+    "endTime": 161.38,
+    "words": [
+      {
+        "word": "I",
+        "start": 159.13,
+        "end": 159.255,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "know",
+        "start": 159.255,
+        "end": 159.755,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 159.755,
+        "end": 160.13,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "never",
+        "start": 160.409,
+        "end": 160.755,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "sober",
+        "start": 160.755,
+        "end": 161.38,
+        "singer": "singer1"
+      }
+    ],
+    "time": 159.13,
+    "end": 161.38
+  },
+  {
+    "text": "It's fun, 'cause I like it that way",
+    "startTime": 161.63,
+    "endTime": 165.509,
+    "words": [
+      {
+        "word": "It's",
+        "start": 161.63,
+        "end": 162.184,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fun,",
+        "start": 162.184,
+        "end": 162.738,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "'cause",
+        "start": 162.738,
+        "end": 163.57,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 163.57,
+        "end": 163.708,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "like",
+        "start": 163.708,
+        "end": 164.262,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 164.262,
+        "end": 164.539,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "that",
+        "start": 164.539,
+        "end": 165.093,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "way",
+        "start": 165.093,
+        "end": 165.509,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 161.63,
+    "end": 165.509
+  },
+  {
+    "text": "If you got somethin' to say",
+    "startTime": 165.94,
+    "endTime": 168.217,
+    "words": [
+      {
+        "word": "If",
+        "start": 165.94,
+        "end": 166.147,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 166.147,
+        "end": 166.457,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "got",
+        "start": 166.457,
+        "end": 166.768,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "somethin'",
+        "start": 167.047,
+        "end": 167.699,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 167.699,
+        "end": 167.906,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "say",
+        "start": 167.906,
+        "end": 168.217,
+        "singer": "singer1"
+      }
+    ],
+    "time": 165.94,
+    "end": 168.217
+  },
+  {
+    "text": "Say that shit to my face",
+    "startTime": 168.47,
+    "endTime": 170.342,
+    "words": [
+      {
+        "word": "Say",
+        "start": 168.47,
+        "end": 168.766,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "that",
+        "start": 168.766,
+        "end": 169.16,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "shit",
+        "start": 169.16,
+        "end": 169.554,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 169.554,
+        "end": 169.751,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 169.751,
+        "end": 169.948,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "face",
-        "start": 170.863,
-        "end": 170.98,
-        "singer": "singer2"
+        "start": 169.948,
+        "end": 170.342,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 169.32,
-    "end": 170.98
+    "time": 168.47,
+    "end": 170.342
   },
   {
-    "text": "●",
-    "startTime": 171.28,
-    "endTime": 193.06,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 171.28,
-    "end": 193.06
-  },
-  {
-    "text": "running out of time",
-    "startTime": 193.06,
-    "endTime": 200.28,
+    "text": "One step closer",
+    "startTime": 170.55,
+    "endTime": 172.296,
     "words": [
       {
-        "word": "running",
-        "start": 193.06,
-        "end": 194.46,
-        "stretch": true,
+        "word": "One",
+        "start": 170.792,
+        "end": 170.953,
+        "singer": "singer1"
+      },
+      {
+        "word": "step",
+        "start": 170.953,
+        "end": 171.49,
+        "singer": "singer1"
+      },
+      {
+        "word": "closer",
+        "start": 171.84,
+        "end": 172.296,
         "spoken": true,
-        "singer": "singer2"
+        "singer": "singer1"
+      }
+    ],
+    "time": 170.55,
+    "end": 172.296
+  },
+  {
+    "text": "I feelin' like I was chosen",
+    "startTime": 172.49,
+    "endTime": 174.911,
+    "words": [
+      {
+        "word": "I",
+        "start": 172.49,
+        "end": 172.6,
+        "singer": "singer1"
+      },
+      {
+        "word": "feelin'",
+        "start": 172.855,
+        "end": 173.37,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "like",
+        "start": 173.37,
+        "end": 173.811,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 173.811,
+        "end": 173.921,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "was",
+        "start": 173.921,
+        "end": 174.251,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "chosen",
+        "start": 174.53,
+        "end": 174.911,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 172.49,
+    "end": 174.911
+  },
+  {
+    "text": "My wrist always open",
+    "startTime": 175.18,
+    "endTime": 177.655,
+    "words": [
+      {
+        "word": "My",
+        "start": 175.18,
+        "end": 175.471,
+        "singer": "singer1"
+      },
+      {
+        "word": "wrist",
+        "start": 175.564,
+        "end": 176.199,
+        "singer": "singer1"
+      },
+      {
+        "word": "always",
+        "start": 176.199,
+        "end": 177.073,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "open",
+        "start": 177.073,
+        "end": 177.655,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 175.18,
+    "end": 177.655
+  },
+  {
+    "text": "My blood always frozen",
+    "startTime": 177.93,
+    "endTime": 180.387,
+    "words": [
+      {
+        "word": "My",
+        "start": 177.93,
+        "end": 178.189,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "blood",
+        "start": 178.189,
+        "end": 178.835,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "always",
+        "start": 178.835,
+        "end": 179.611,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "frozen",
+        "start": 179.866,
+        "end": 180.387,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 177.93,
+    "end": 180.387
+  },
+  {
+    "text": "I know I'm never sober",
+    "startTime": 180.66,
+    "endTime": 182.946,
+    "words": [
+      {
+        "word": "I",
+        "start": 180.66,
+        "end": 180.787,
+        "singer": "singer1"
+      },
+      {
+        "word": "know",
+        "start": 180.88,
+        "end": 181.295,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 181.365,
+        "end": 181.676,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "never",
+        "start": 181.676,
+        "end": 182.311,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "sober",
+        "start": 182.52,
+        "end": 182.946,
+        "singer": "singer1"
+      }
+    ],
+    "time": 180.66,
+    "end": 182.946
+  },
+  {
+    "text": "It's fun, 'cause I like it that way",
+    "startTime": 183.2,
+    "endTime": 186.953,
+    "words": [
+      {
+        "word": "It's",
+        "start": 183.502,
+        "end": 183.736,
+        "singer": "singer1"
+      },
+      {
+        "word": "fun,",
+        "start": 183.736,
+        "end": 184.272,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "'cause",
+        "start": 184.622,
+        "end": 185.076,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 185.157,
+        "end": 185.211,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "like",
+        "start": 185.211,
+        "end": 185.747,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 185.747,
+        "end": 186.015,
+        "singer": "singer1"
+      },
+      {
+        "word": "that",
+        "start": 186.201,
+        "end": 186.551,
+        "singer": "singer1"
+      },
+      {
+        "word": "way",
+        "start": 186.792,
+        "end": 186.953,
+        "singer": "singer1"
+      }
+    ],
+    "time": 183.2,
+    "end": 186.953
+  },
+  {
+    "text": "If you got somethin' to say",
+    "startTime": 187.37,
+    "endTime": 189.719,
+    "words": [
+      {
+        "word": "If",
+        "start": 187.37,
+        "end": 187.584,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 187.584,
+        "end": 187.904,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "got",
+        "start": 187.904,
+        "end": 188.224,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "somethin'",
+        "start": 188.224,
+        "end": 189.185,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 189.185,
+        "end": 189.399,
+        "singer": "singer1"
+      },
+      {
+        "word": "say",
+        "start": 189.399,
+        "end": 189.719,
+        "singer": "singer1"
+      }
+    ],
+    "time": 187.37,
+    "end": 189.719
+  },
+  {
+    "text": "Say that shit to my face",
+    "startTime": 189.98,
+    "endTime": 191.627,
+    "words": [
+      {
+        "word": "Say",
+        "start": 189.98,
+        "end": 190.24,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "that",
+        "start": 190.448,
+        "end": 190.587,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "shit",
+        "start": 190.587,
+        "end": 190.934,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 190.934,
+        "end": 191.107,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 191.107,
+        "end": 191.28,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "face",
+        "start": 191.488,
+        "end": 191.627,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 189.98,
+    "end": 191.627
+  },
+  {
+    "text": "Running out of time",
+    "startTime": 191.81,
+    "endTime": 193.304,
+    "words": [
+      {
+        "word": "Running",
+        "start": 192.042,
+        "end": 192.464,
+        "singer": "singer1"
       },
       {
         "word": "out",
-        "start": 194.46,
-        "end": 195.86,
-        "stretch": true,
+        "start": 192.464,
+        "end": 192.744,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 192.744,
+        "end": 192.93,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 192.93,
+        "end": 193.304,
+        "singer": "singer1"
+      }
+    ],
+    "time": 191.81,
+    "end": 193.304
+  },
+  {
+    "text": "Running out of time",
+    "startTime": 193.47,
+    "endTime": 194.577,
+    "words": [
+      {
+        "word": "Running",
+        "start": 193.47,
+        "end": 193.954,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 193.954,
+        "end": 194.162,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 194.162,
+        "end": 194.3,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 194.3,
+        "end": 194.577,
+        "singer": "singer1"
+      }
+    ],
+    "time": 193.47,
+    "end": 194.577
+  },
+  {
+    "text": "Running out of time",
+    "startTime": 194.7,
+    "endTime": 195.915,
+    "words": [
+      {
+        "word": "Running",
+        "start": 194.7,
+        "end": 195.232,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 195.232,
+        "end": 195.459,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 195.459,
+        "end": 195.611,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 195.611,
+        "end": 195.915,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 194.7,
+    "end": 195.915
+  },
+  {
+    "text": "Running out of time",
+    "startTime": 196.05,
+    "endTime": 197.031,
+    "words": [
+      {
+        "word": "Running",
+        "start": 196.05,
+        "end": 196.479,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 196.479,
+        "end": 196.663,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 196.663,
+        "end": 196.786,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 196.786,
+        "end": 197.031,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 196.05,
+    "end": 197.031
+  },
+  {
+    "text": "Running out of time",
+    "startTime": 197.14,
+    "endTime": 198.409,
+    "words": [
+      {
+        "word": "Running",
+        "start": 197.473,
+        "end": 197.695,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 197.695,
+        "end": 197.933,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 197.933,
+        "end": 198.092,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 198.092,
+        "end": 198.409,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 197.14,
+    "end": 198.409
+  },
+  {
+    "text": "Running out of time",
+    "startTime": 198.55,
+    "endTime": 200.728,
+    "words": [
+      {
+        "word": "Running",
+        "start": 198.55,
+        "end": 199.503,
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 199.503,
+        "end": 199.911,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 199.911,
+        "end": 200.184,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 200.184,
+        "end": 200.728,
+        "singer": "singer1"
+      }
+    ],
+    "time": 198.55,
+    "end": 200.728
+  },
+  {
+    "text": "Yeah",
+    "startTime": 200.97,
+    "endTime": 201.67,
+    "words": [
+      {
+        "word": "Yeah",
+        "start": 200.97,
+        "end": 201.67,
         "sung": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "of",
-        "start": 196.21,
-        "end": 200.02,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "time",
-        "start": 200.02,
-        "end": 200.28,
-        "singer": "singer2"
+        "singer": "singer1"
       }
     ],
-    "time": 193.06,
-    "end": 200.28
+    "time": 200.97,
+    "end": 201.67
   },
   {
-    "text": "running out of time",
-    "startTime": 201.82,
-    "endTime": 208.18,
+    "text": "Running out of time",
+    "startTime": 202.57,
+    "endTime": 203.803,
     "words": [
       {
-        "word": "running",
-        "start": 202.17,
-        "end": 203.22,
-        "stretch": true,
+        "word": "Running",
+        "start": 202.893,
+        "end": 203.109,
         "spoken": true,
-        "singer": "singer2"
+        "singer": "singer1"
       },
       {
         "word": "out",
-        "start": 203.22,
-        "end": 203.8,
-        "stretch": true,
+        "start": 203.109,
+        "end": 203.341,
         "spoken": true,
-        "singer": "singer2"
+        "singer": "singer1"
       },
       {
         "word": "of",
-        "start": 203.8,
-        "end": 206.66,
-        "stretch": true,
-        "sung": true,
-        "singer": "singer2"
+        "start": 203.341,
+        "end": 203.495,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "time",
-        "start": 206.66,
-        "end": 208.18,
-        "stretch": true,
+        "start": 203.495,
+        "end": 203.803,
         "spoken": true,
-        "singer": "singer2"
+        "singer": "singer1"
       }
     ],
-    "time": 201.82,
-    "end": 208.18
+    "time": 202.57,
+    "end": 203.803
   },
   {
-    "text": "running out of time",
-    "startTime": 208.18,
-    "endTime": 212.46,
+    "text": "Running out of time",
+    "startTime": 203.94,
+    "endTime": 205.137,
     "words": [
       {
-        "word": "running",
-        "start": 208.18,
-        "end": 208.62,
+        "word": "Running",
+        "start": 203.94,
+        "end": 204.464,
         "spoken": true,
-        "singer": "singer2"
+        "singer": "singer1"
       },
       {
         "word": "out",
-        "start": 208.62,
-        "end": 209.06,
+        "start": 204.464,
+        "end": 204.688,
         "spoken": true,
-        "singer": "singer2"
+        "singer": "singer1"
       },
       {
         "word": "of",
-        "start": 209.06,
-        "end": 209.38,
-        "stretch": true,
+        "start": 204.688,
+        "end": 204.838,
         "spoken": true,
-        "singer": "singer2"
+        "singer": "singer1"
       },
       {
         "word": "time",
-        "start": 209.73,
-        "end": 212.46,
-        "stretch": true,
-        "singer": "singer2"
+        "start": 204.838,
+        "end": 205.137,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 208.18,
-    "end": 212.46
+    "time": 203.94,
+    "end": 205.137
   },
   {
-    "text": "cause we live, and we love, and they lie, but we trust",
-    "startTime": 212.46,
-    "endTime": 223.04,
+    "text": "Running out of time",
+    "startTime": 205.27,
+    "endTime": 206.53,
     "words": [
       {
-        "word": "cause",
-        "start": 212.46,
-        "end": 212.92,
+        "word": "Running",
+        "start": 205.27,
+        "end": 205.821,
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 205.821,
+        "end": 206.057,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 206.057,
+        "end": 206.215,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 206.215,
+        "end": 206.53,
+        "singer": "singer1"
+      }
+    ],
+    "time": 205.27,
+    "end": 206.53
+  },
+  {
+    "text": "Running out of time",
+    "startTime": 206.67,
+    "endTime": 207.849,
+    "words": [
+      {
+        "word": "Running",
+        "start": 206.67,
+        "end": 207.186,
         "spoken": true,
-        "singer": "singer2"
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 207.186,
+        "end": 207.407,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 207.407,
+        "end": 207.554,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 207.554,
+        "end": 207.849,
+        "singer": "singer1"
+      }
+    ],
+    "time": 206.67,
+    "end": 207.849
+  },
+  {
+    "text": "Running out of time",
+    "startTime": 207.98,
+    "endTime": 209.195,
+    "words": [
+      {
+        "word": "Running",
+        "start": 208.299,
+        "end": 208.512,
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 208.512,
+        "end": 208.739,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 208.739,
+        "end": 208.891,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 208.891,
+        "end": 209.195,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 207.98,
+    "end": 209.195
+  },
+  {
+    "text": "Running out of time",
+    "startTime": 209.33,
+    "endTime": 211.89,
+    "words": [
+      {
+        "word": "Running",
+        "start": 209.33,
+        "end": 210.45,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "out",
+        "start": 210.45,
+        "end": 210.93,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 210.93,
+        "end": 211.25,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 211.25,
+        "end": 211.89,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 209.33,
+    "end": 211.89
+  },
+  {
+    "text": "'Cause we live and we love",
+    "startTime": 212.33,
+    "endTime": 215.53,
+    "words": [
+      {
+        "word": "'Cause",
+        "start": 212.33,
+        "end": 213.244,
+        "singer": "singer1"
       },
       {
         "word": "we",
-        "start": 213.196,
-        "end": 213.38,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer2"
+        "start": 213.407,
+        "end": 213.549,
+        "singer": "singer1"
       },
       {
-        "word": "live,",
-        "start": 213.38,
-        "end": 214.44,
-        "stretch": true,
+        "word": "live",
+        "start": 213.549,
+        "end": 214.159,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "and",
-        "start": 215.04,
-        "end": 215.68,
-        "stretch": true,
+        "start": 214.159,
+        "end": 214.616,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "we",
-        "start": 215.68,
-        "end": 216.14,
-        "stretch": true,
+        "start": 214.616,
+        "end": 214.92,
         "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "love,",
-        "start": 216.49,
-        "end": 217.36,
-        "stretch": true,
+        "word": "love",
+        "start": 214.92,
+        "end": 215.53,
         "spoken": true,
         "singer": "singer1"
-      },
+      }
+    ],
+    "time": 212.33,
+    "end": 215.53
+  },
+  {
+    "text": "And they lie, but we trust",
+    "startTime": 217.58,
+    "endTime": 220.78,
+    "words": [
       {
-        "word": "and",
-        "start": 218.22,
-        "end": 218.4,
+        "word": "And",
+        "start": 217.58,
+        "end": 218.037,
+        "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "they",
-        "start": 218.4,
-        "end": 218.82,
+        "start": 218.037,
+        "end": 218.647,
         "singer": "singer1"
       },
       {
         "word": "lie,",
-        "start": 218.82,
-        "end": 219.98,
-        "stretch": true,
+        "start": 218.647,
+        "end": 219.256,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "but",
-        "start": 220.56,
-        "end": 220.96,
+        "start": 219.256,
+        "end": 219.713,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "we",
-        "start": 220.96,
-        "end": 221.46,
-        "stretch": true,
+        "start": 219.713,
+        "end": 220.018,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "trust",
-        "start": 221.81,
-        "end": 223.04,
-        "stretch": true,
+        "start": 220.018,
+        "end": 220.78,
         "spoken": true,
         "singer": "singer1"
       }
     ],
-    "time": 212.46,
-    "end": 223.04
+    "time": 217.58,
+    "end": 220.78
   },
   {
-    "text": "we live, and we love, and they lie, but we trust",
-    "startTime": 223.04,
-    "endTime": 233.04,
+    "text": "We live and we love",
+    "startTime": 223.46,
+    "endTime": 225.86,
     "words": [
       {
-        "word": "we",
-        "start": 223.086,
-        "end": 224.0,
-        "stretch": true,
+        "word": "We",
+        "start": 223.46,
+        "end": 223.78,
         "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "live,",
-        "start": 224.0,
-        "end": 225.34,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "and",
-        "start": 226.0,
-        "end": 226.42,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "we",
-        "start": 226.42,
-        "end": 227.06,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "love,",
-        "start": 227.41,
-        "end": 228.22,
-        "stretch": true,
+        "word": "live",
+        "start": 224.082,
+        "end": 224.42,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "and",
-        "start": 228.92,
-        "end": 229.06,
+        "start": 224.42,
+        "end": 224.9,
         "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "they",
-        "start": 229.06,
-        "end": 229.58,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "lie,",
-        "start": 229.58,
-        "end": 230.34,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "but",
-        "start": 231.28,
-        "end": 231.6,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "we",
-        "start": 231.6,
-        "end": 232.12,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer2"
-      },
-      {
-        "word": "trust",
-        "start": 232.12,
-        "end": 233.04,
-        "stretch": true,
-        "spoken": true,
-        "singer": "singer2"
-      }
-    ],
-    "time": 223.04,
-    "end": 233.04
-  },
-  {
-    "text": "●",
-    "startTime": 233.34,
-    "endTime": 253.04,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 233.34,
-    "end": 253.04
-  },
-  {
-    "text": "we live, and we love,",
-    "startTime": 253.04,
-    "endTime": 254.6,
-    "words": [
-      {
-        "word": "we",
-        "start": 253.04,
-        "end": 253.04,
-        "singer": "singer1"
-      },
-      {
-        "word": "live,",
-        "start": 253.04,
-        "end": 253.28,
-        "spoken": true,
-        "singer": "singer1"
-      },
-      {
-        "word": "and",
-        "start": 253.38,
-        "end": 254.6,
-        "stretch": true,
-        "sung": true,
         "singer": "singer1"
       },
       {
         "word": "we",
-        "start": 254.6,
-        "end": 254.6,
+        "start": 224.9,
+        "end": 225.22,
+        "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "love,",
-        "start": 254.6,
-        "end": 254.6,
+        "word": "love",
+        "start": 225.22,
+        "end": 225.86,
+        "spoken": true,
         "singer": "singer1"
       }
     ],
-    "time": 253.04,
-    "end": 254.6
+    "time": 223.46,
+    "end": 225.86
   },
   {
-    "text": "and we love, and they lie, but we trust",
-    "startTime": 255.74,
-    "endTime": 259.12,
+    "text": "And they lie, but we trust",
+    "startTime": 228.22,
+    "endTime": 231.42,
     "words": [
       {
-        "word": "and",
-        "start": 255.74,
-        "end": 255.74,
-        "singer": "singer1"
-      },
-      {
-        "word": "we",
-        "start": 255.74,
-        "end": 255.74,
-        "singer": "singer1"
-      },
-      {
-        "word": "love,",
-        "start": 255.74,
-        "end": 255.74,
-        "singer": "singer1"
-      },
-      {
-        "word": "and",
-        "start": 256.56,
-        "end": 256.56,
+        "word": "And",
+        "start": 228.22,
+        "end": 228.677,
         "singer": "singer1"
       },
       {
         "word": "they",
-        "start": 256.56,
-        "end": 256.56,
+        "start": 229.027,
+        "end": 229.287,
         "singer": "singer1"
       },
       {
         "word": "lie,",
-        "start": 256.56,
-        "end": 257.18,
-        "stretch": true,
+        "start": 229.287,
+        "end": 229.896,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "but",
-        "start": 257.28,
-        "end": 257.28,
+        "start": 229.896,
+        "end": 230.353,
+        "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "we",
-        "start": 257.28,
-        "end": 259.12,
-        "stretch": true,
-        "sung": true,
+        "start": 230.353,
+        "end": 230.658,
+        "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "trust",
-        "start": 259.12,
-        "end": 259.12,
+        "start": 231.008,
+        "end": 231.42,
+        "spoken": true,
         "singer": "singer1"
       }
     ],
-    "time": 255.74,
-    "end": 259.12
+    "time": 228.22,
+    "end": 231.42
   },
   {
-    "text": "running towards the lightrunning towards the lightrunning towards the lightrunning out of",
-    "startTime": 259.12,
-    "endTime": 264.1,
+    "text": "Yeah, yeah",
+    "startTime": 233.67,
+    "endTime": 234.95,
     "words": [
       {
-        "word": "running",
-        "start": 259.12,
-        "end": 259.12,
+        "word": "Yeah,",
+        "start": 233.67,
+        "end": 234.381,
         "singer": "singer1"
       },
       {
-        "word": "towards",
-        "start": 259.12,
-        "end": 259.8,
+        "word": "yeah",
+        "start": 234.706,
+        "end": 234.95,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 233.67,
+    "end": 234.95
+  },
+  {
+    "text": "Thoughts run through my mind",
+    "startTime": 239.02,
+    "endTime": 241.666,
+    "words": [
+      {
+        "word": "Thoughts",
+        "start": 239.02,
+        "end": 239.902,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 240.101,
+        "end": 240.233,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 240.233,
+        "end": 241.004,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 241.004,
+        "end": 241.225,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind",
+        "start": 241.225,
+        "end": 241.666,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 239.02,
+    "end": 241.666
+  },
+  {
+    "text": "Yeah",
+    "startTime": 241.96,
+    "endTime": 242.66,
+    "words": [
+      {
+        "word": "Yeah",
+        "start": 241.96,
+        "end": 242.66,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 241.96,
+    "end": 242.66
+  },
+  {
+    "text": "Thoughts run through my mind",
+    "startTime": 243.8,
+    "endTime": 245.843,
+    "words": [
+      {
+        "word": "Thoughts",
+        "start": 243.8,
+        "end": 244.481,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 244.481,
+        "end": 244.736,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 244.736,
+        "end": 245.332,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 245.332,
+        "end": 245.502,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind",
+        "start": 245.502,
+        "end": 245.843,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 243.8,
+    "end": 245.843
+  },
+  {
+    "text": "Yeah, yeah (yeah)",
+    "startTime": 246.07,
+    "endTime": 247.99,
+    "words": [
+      {
+        "word": "Yeah,",
+        "start": 246.07,
+        "end": 246.71,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "yeah",
+        "start": 246.71,
+        "end": 247.222,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "(yeah)",
+        "start": 247.222,
+        "end": 247.99,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 246.07,
+    "end": 247.99
+  },
+  {
+    "text": "Thoughts run through my mind, yeah",
+    "startTime": 249.43,
+    "endTime": 253.91,
+    "words": [
+      {
+        "word": "Thoughts",
+        "start": 249.43,
+        "end": 250.666,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 250.666,
+        "end": 251.129,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 251.129,
+        "end": 252.211,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 252.211,
+        "end": 252.52,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind,",
+        "start": 252.52,
+        "end": 253.292,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "yeah",
+        "start": 253.292,
+        "end": 253.91,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 249.43,
+    "end": 253.91
+  },
+  {
+    "text": "Thoughts run through my mind",
+    "startTime": 255.96,
+    "endTime": 257.22,
+    "words": [
+      {
+        "word": "Thoughts",
+        "start": 256.076,
+        "end": 256.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 256.38,
+        "end": 256.538,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 256.538,
+        "end": 256.905,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 256.905,
+        "end": 257.01,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind",
+        "start": 257.01,
+        "end": 257.22,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 255.96,
+    "end": 257.22
+  },
+  {
+    "text": "Search, but I can't find",
+    "startTime": 257.36,
+    "endTime": 258.68,
+    "words": [
+      {
+        "word": "Search,",
+        "start": 257.36,
+        "end": 257.817,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "but",
+        "start": 257.817,
+        "end": 258.012,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 258.012,
+        "end": 258.092,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "can't",
+        "start": 258.092,
+        "end": 258.419,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "find",
+        "start": 258.419,
+        "end": 258.68,
+        "singer": "singer1"
+      }
+    ],
+    "time": 257.36,
+    "end": 258.68
+  },
+  {
+    "text": "Running toward the light",
+    "startTime": 258.81,
+    "endTime": 260.142,
+    "words": [
+      {
+        "word": "Running",
+        "start": 258.81,
+        "end": 259.254,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "toward",
+        "start": 259.254,
+        "end": 259.635,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 259.8,
-        "end": 260.12,
-        "sung": true,
+        "start": 259.635,
+        "end": 259.825,
+        "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "lightrunning",
-        "start": 260.12,
-        "end": 260.7,
-        "sung": true,
+        "word": "light",
+        "start": 259.825,
+        "end": 260.142,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 258.81,
+    "end": 260.142
+  },
+  {
+    "text": "Running toward the light",
+    "startTime": 260.29,
+    "endTime": 261.406,
+    "words": [
+      {
+        "word": "Running",
+        "start": 260.29,
+        "end": 260.662,
+        "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "towards",
-        "start": 260.7,
-        "end": 261.12,
+        "word": "toward",
+        "start": 260.662,
+        "end": 260.981,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 261.12,
-        "end": 261.44,
+        "start": 260.981,
+        "end": 261.14,
         "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "lightrunning",
-        "start": 261.44,
-        "end": 262.1,
-        "sung": true,
+        "word": "light",
+        "start": 261.14,
+        "end": 261.406,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 260.29,
+    "end": 261.406
+  },
+  {
+    "text": "Running toward the light",
+    "startTime": 261.53,
+    "endTime": 262.601,
+    "words": [
+      {
+        "word": "Running",
+        "start": 261.53,
+        "end": 261.887,
+        "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "towards",
-        "start": 262.1,
-        "end": 262.72,
+        "word": "toward",
+        "start": 261.887,
+        "end": 262.193,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "the",
+        "start": 262.193,
+        "end": 262.346,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "light",
+        "start": 262.346,
+        "end": 262.601,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 261.53,
+    "end": 262.601
+  },
+  {
+    "text": "Running toward the light",
+    "startTime": 262.72,
+    "endTime": 264.655,
+    "words": [
+      {
+        "word": "Running",
         "start": 262.72,
-        "end": 262.84,
+        "end": 263.365,
         "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "lightrunning",
-        "start": 262.84,
-        "end": 263.42,
+        "word": "toward",
+        "start": 263.365,
+        "end": 263.918,
         "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "out",
-        "start": 263.42,
-        "end": 264.1,
-        "stretch": true,
+        "word": "the",
+        "start": 263.918,
+        "end": 264.194,
         "spoken": true,
         "singer": "singer1"
       },
       {
-        "word": "of",
-        "start": 264.1,
-        "end": 264.1,
+        "word": "light",
+        "start": 264.194,
+        "end": 264.655,
+        "spoken": true,
         "singer": "singer1"
       }
     ],
-    "time": 259.12,
-    "end": 264.1
+    "time": 262.72,
+    "end": 264.655
   },
   {
-    "text": "time",
-    "startTime": 264.1,
-    "endTime": 277.04,
+    "text": "Yeah (yeah)",
+    "startTime": 264.87,
+    "endTime": 266.15,
     "words": [
       {
-        "word": "time",
-        "start": 264.1,
-        "end": 277.04,
-        "stretch": true,
+        "word": "Yeah",
+        "start": 265.177,
+        "end": 265.382,
         "sung": true,
-        "singer": "singer2"
+        "singer": "singer1"
+      },
+      {
+        "word": "(yeah)",
+        "start": 265.382,
+        "end": 266.15,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 264.1,
-    "end": 277.04
+    "time": 264.87,
+    "end": 266.15
+  },
+  {
+    "text": "Thoughts run through my mind",
+    "startTime": 266.62,
+    "endTime": 267.889,
+    "words": [
+      {
+        "word": "Thoughts",
+        "start": 266.736,
+        "end": 267.043,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "run",
+        "start": 267.043,
+        "end": 267.202,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "through",
+        "start": 267.202,
+        "end": 267.572,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 267.572,
+        "end": 267.677,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "mind",
+        "start": 267.804,
+        "end": 267.889,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 266.62,
+    "end": 267.889
+  },
+  {
+    "text": "Search, but I can't find",
+    "startTime": 268.03,
+    "endTime": 269.324,
+    "words": [
+      {
+        "word": "Search,",
+        "start": 268.03,
+        "end": 268.477,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "but",
+        "start": 268.477,
+        "end": 268.669,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 268.669,
+        "end": 268.749,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "can't",
+        "start": 268.888,
+        "end": 269.068,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "find",
+        "start": 269.068,
+        "end": 269.324,
+        "singer": "singer1"
+      }
+    ],
+    "time": 268.03,
+    "end": 269.324
+  },
+  {
+    "text": "Running toward the light",
+    "startTime": 269.45,
+    "endTime": 270.611,
+    "words": [
+      {
+        "word": "Running",
+        "start": 269.45,
+        "end": 269.837,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "toward",
+        "start": 269.837,
+        "end": 270.169,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 270.169,
+        "end": 270.335,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "light",
+        "start": 270.501,
+        "end": 270.611,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 269.45,
+    "end": 270.611
+  },
+  {
+    "text": "Running toward the light",
+    "startTime": 270.74,
+    "endTime": 272.054,
+    "words": [
+      {
+        "word": "Running",
+        "start": 270.74,
+        "end": 271.178,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "toward",
+        "start": 271.178,
+        "end": 271.553,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 271.553,
+        "end": 271.741,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "light",
+        "start": 271.741,
+        "end": 272.054,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 270.74,
+    "end": 272.054
+  },
+  {
+    "text": "Running toward the light",
+    "startTime": 272.2,
+    "endTime": 273.361,
+    "words": [
+      {
+        "word": "Running",
+        "start": 272.2,
+        "end": 272.587,
+        "singer": "singer1"
+      },
+      {
+        "word": "toward",
+        "start": 272.587,
+        "end": 272.919,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 272.919,
+        "end": 273.085,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "light",
+        "start": 273.224,
+        "end": 273.361,
+        "singer": "singer1"
+      }
+    ],
+    "time": 272.2,
+    "end": 273.361
+  },
+  {
+    "text": "Running toward the light",
+    "startTime": 273.49,
+    "endTime": 276.85,
+    "words": [
+      {
+        "word": "Running",
+        "start": 273.84,
+        "end": 274.61,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "toward",
+        "start": 274.61,
+        "end": 275.57,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 275.858,
+        "end": 276.05,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "light",
+        "start": 276.05,
+        "end": 276.85,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 273.49,
+    "end": 276.85
   }
 ]

@@ -271,13 +271,13 @@
       {
         "word": "the",
         "start": 55.58,
-        "end": 56.0,
+        "end": 56,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "eyes",
-        "start": 56.0,
+        "start": 56,
         "end": 56.3,
         "spoken": true,
         "singer": "singer1"
@@ -691,14 +691,14 @@
       {
         "word": "We",
         "start": 70.5,
-        "end": 71.0,
+        "end": 71,
         "stretch": true,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "throw",
-        "start": 71.0,
+        "start": 71,
         "end": 71.24,
         "spoken": true,
         "singer": "singer1"
@@ -837,7 +837,7 @@
       },
       {
         "word": "if",
-        "start": 75.0,
+        "start": 75,
         "end": 75.08,
         "spoken": true,
         "singer": "singer1"
@@ -1833,19 +1833,19 @@
       {
         "word": "of",
         "start": 106.76,
-        "end": 107.0,
+        "end": 107,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 107.0,
-        "end": 107.0,
+        "start": 107,
+        "end": 107,
         "singer": "singer1"
       },
       {
         "word": "room,",
-        "start": 107.0,
+        "start": 107,
         "end": 107.18,
         "spoken": true,
         "singer": "singer1"
@@ -2182,7 +2182,7 @@
   {
     "text": "a grime",
     "startTime": 119.46,
-    "endTime": 120.0,
+    "endTime": 120,
     "words": [
       {
         "word": "a",
@@ -2195,22 +2195,22 @@
       {
         "word": "grime",
         "start": 119.66,
-        "end": 120.0,
+        "end": 120,
         "spoken": true,
         "singer": "singer1"
       }
     ],
     "time": 119.46,
-    "end": 120.0
+    "end": 120
   },
   {
     "text": "I've never been true to the system, you hang out on the",
-    "startTime": 120.0,
+    "startTime": 120,
     "endTime": 123.02,
     "words": [
       {
         "word": "I've",
-        "start": 120.0,
+        "start": 120,
         "end": 120.9,
         "stretch": true,
         "spoken": true,
@@ -2289,7 +2289,7 @@
         "singer": "singer2"
       }
     ],
-    "time": 120.0,
+    "time": 120,
     "end": 123.02
   },
   {

@@ -1,18 +1,1532 @@
 [
   {
-    "text": "Oh",
-    "startTime": 6.54,
-    "endTime": 7.38,
+    "text": "I don't give a damn what you thinkin' we gotta work together",
+    "startTime": 6.5,
+    "endTime": 11.56,
     "words": [
       {
-        "word": "Oh",
-        "start": 6.89,
+        "word": "I",
+        "start": 6.85,
         "end": 7.38,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "don't",
+        "start": 7.38,
+        "end": 7.5,
+        "spoken": true
+      },
+      {
+        "word": "give",
+        "start": 7.5,
+        "end": 7.94,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 7.94,
+        "end": 8.14,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "damn",
+        "start": 8.14,
+        "end": 8.16
+      },
+      {
+        "word": "what",
+        "start": 8.16,
+        "end": 8.72,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 8.72,
+        "end": 8.72
+      },
+      {
+        "word": "thinkin'",
+        "start": 8.72,
+        "end": 9.46,
+        "spoken": true
+      },
+      {
+        "word": "we",
+        "start": 9.64,
+        "end": 9.98,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "gotta",
+        "start": 9.98,
+        "end": 10.3,
+        "spoken": true
+      },
+      {
+        "word": "work",
+        "start": 10.3,
+        "end": 10.78,
+        "spoken": true
+      },
+      {
+        "word": "together",
+        "start": 10.78,
+        "end": 11.56,
+        "spoken": true
+      }
+    ],
+    "time": 6.5,
+    "end": 11.56
+  },
+  {
+    "text": "and get shot",
+    "startTime": 11.56,
+    "endTime": 13.3,
+    "words": [
+      {
+        "word": "and",
+        "start": 11.56,
+        "end": 12.22,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "get",
+        "start": 12.22,
+        "end": 12.66,
+        "spoken": true
+      },
+      {
+        "word": "shot",
+        "start": 12.66,
+        "end": 13.3,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 11.56,
+    "end": 13.3
+  },
+  {
+    "text": "●",
+    "startTime": 13.6,
+    "endTime": 40.14,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 13.6,
+    "end": 40.14
+  },
+  {
+    "text": "Lookin' in the mirror like I'm on it, I got it You",
+    "startTime": 40.14,
+    "endTime": 43.12,
+    "words": [
+      {
+        "word": "Lookin'",
+        "start": 40.14,
+        "end": 40.6,
+        "spoken": true
+      },
+      {
+        "word": "in",
+        "start": 40.74,
+        "end": 40.74
+      },
+      {
+        "word": "the",
+        "start": 40.74,
+        "end": 40.9,
+        "spoken": true
+      },
+      {
+        "word": "mirror",
+        "start": 40.9,
+        "end": 41.26,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 41.353,
+        "end": 41.58,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 41.58,
+        "end": 42.0,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "on",
+        "start": 42.0,
+        "end": 42.1
+      },
+      {
+        "word": "it,",
+        "start": 42.1,
+        "end": 42.34
+      },
+      {
+        "word": "I",
+        "start": 42.34,
+        "end": 42.52,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "got",
+        "start": 42.52,
+        "end": 42.74,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 42.74,
+        "end": 42.96,
+        "spoken": true
+      },
+      {
+        "word": "You",
+        "start": 42.96,
+        "end": 43.12,
+        "spoken": true
+      }
+    ],
+    "time": 40.14,
+    "end": 43.12
+  },
+  {
+    "text": "got me lookin' in the mirror like you're on it, I got",
+    "startTime": 43.12,
+    "endTime": 46.18,
+    "words": [
+      {
+        "word": "got",
+        "start": 43.12,
+        "end": 43.18
+      },
+      {
+        "word": "me",
+        "start": 43.396,
+        "end": 43.54,
+        "stretch": true
+      },
+      {
+        "word": "lookin'",
+        "start": 43.54,
+        "end": 43.74,
+        "spoken": true
+      },
+      {
+        "word": "in",
+        "start": 43.984,
+        "end": 44.12,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "the",
+        "start": 44.12,
+        "end": 44.3
+      },
+      {
+        "word": "mirror",
+        "start": 44.3,
+        "end": 44.6,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 44.6,
+        "end": 44.86,
+        "spoken": true
+      },
+      {
+        "word": "you're",
+        "start": 45.088,
+        "end": 45.24,
+        "spoken": true
+      },
+      {
+        "word": "on",
+        "start": 45.24,
+        "end": 45.42,
+        "spoken": true
+      },
+      {
+        "word": "it,",
+        "start": 45.42,
+        "end": 45.6,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 45.6,
+        "end": 45.88,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "got",
+        "start": 45.88,
+        "end": 46.18,
+        "spoken": true
+      }
+    ],
+    "time": 43.12,
+    "end": 46.18
+  },
+  {
+    "text": "it",
+    "startTime": 46.18,
+    "endTime": 47.34,
+    "words": [
+      {
+        "word": "it",
+        "start": 46.296,
+        "end": 47.34,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 46.18,
+    "end": 47.34
+  },
+  {
+    "text": "I'm even good at extreme, I'm a 16 -foot tall On the",
+    "startTime": 47.34,
+    "endTime": 53.96,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 47.386,
+        "end": 47.72,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "even",
+        "start": 47.72,
+        "end": 47.9,
+        "spoken": true
+      },
+      {
+        "word": "good",
+        "start": 47.97,
+        "end": 48.34,
+        "spoken": true
+      },
+      {
+        "word": "at",
+        "start": 48.34,
+        "end": 48.64,
+        "spoken": true
+      },
+      {
+        "word": "extreme,",
+        "start": 48.916,
+        "end": 49.1,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 49.38,
+        "end": 49.48,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 49.83,
+        "end": 50.16,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "16",
+        "start": 50.253,
+        "end": 51.64,
+        "stretch": true
+      },
+      {
+        "word": "-foot",
+        "start": 51.64,
+        "end": 52.1,
+        "sung": true
+      },
+      {
+        "word": "tall",
+        "start": 52.332,
+        "end": 52.9,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "On",
+        "start": 52.9,
+        "end": 53.7,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 53.7,
+        "end": 53.96,
+        "spoken": true
+      }
+    ],
+    "time": 47.34,
+    "end": 53.96
+  },
+  {
+    "text": "ground with the half of my weight with you",
+    "startTime": 53.96,
+    "endTime": 57.34,
+    "words": [
+      {
+        "word": "ground",
+        "start": 53.96,
+        "end": 54.22,
+        "spoken": true
+      },
+      {
+        "word": "with",
+        "start": 54.496,
+        "end": 54.68,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 54.68,
+        "end": 54.88,
+        "spoken": true
+      },
+      {
+        "word": "half",
+        "start": 55.019,
+        "end": 55.4,
+        "spoken": true
+      },
+      {
+        "word": "of",
+        "start": 55.4,
+        "end": 55.66
+      },
+      {
+        "word": "my",
+        "start": 55.66,
+        "end": 55.92,
+        "spoken": true
+      },
+      {
+        "word": "weight",
+        "start": 55.92,
+        "end": 56.16,
+        "spoken": true
+      },
+      {
+        "word": "with",
+        "start": 56.16,
+        "end": 56.46,
+        "sung": true
+      },
+      {
+        "word": "you",
+        "start": 56.46,
+        "end": 57.34,
         "stretch": true,
         "sung": true
       }
     ],
-    "time": 6.54,
-    "end": 7.38
+    "time": 53.96,
+    "end": 57.34
+  },
+  {
+    "text": "Now I'm lookin' back at the past, I was trippin' when it",
+    "startTime": 58.92,
+    "endTime": 62.56,
+    "words": [
+      {
+        "word": "Now",
+        "start": 58.92,
+        "end": 59.52,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 59.52,
+        "end": 59.88,
+        "stretch": true
+      },
+      {
+        "word": "lookin'",
+        "start": 59.88,
+        "end": 59.88
+      },
+      {
+        "word": "back",
+        "start": 60.1,
+        "end": 60.4,
+        "spoken": true
+      },
+      {
+        "word": "at",
+        "start": 60.544,
+        "end": 60.64,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 60.64,
+        "end": 60.94,
+        "spoken": true
+      },
+      {
+        "word": "past,",
+        "start": 61.084,
+        "end": 61.18
+      },
+      {
+        "word": "I",
+        "start": 61.18,
+        "end": 61.4,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "was",
+        "start": 61.4,
+        "end": 61.7,
+        "spoken": true
+      },
+      {
+        "word": "trippin'",
+        "start": 61.7,
+        "end": 62.04
+      },
+      {
+        "word": "when",
+        "start": 62.14,
+        "end": 62.28
+      },
+      {
+        "word": "it",
+        "start": 62.28,
+        "end": 62.56,
+        "spoken": true
+      }
+    ],
+    "time": 58.92,
+    "end": 62.56
+  },
+  {
+    "text": "tripped on you",
+    "startTime": 62.56,
+    "endTime": 63.82,
+    "words": [
+      {
+        "word": "tripped",
+        "start": 62.56,
+        "end": 62.76,
+        "spoken": true
+      },
+      {
+        "word": "on",
+        "start": 62.76,
+        "end": 63.02,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 63.252,
+        "end": 63.82,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 62.56,
+    "end": 63.82
+  },
+  {
+    "text": "She said what she wanna ask me, hey, I'm a listenin' to",
+    "startTime": 64.94,
+    "endTime": 69.82,
+    "words": [
+      {
+        "word": "She",
+        "start": 65.103,
+        "end": 65.54,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "said",
+        "start": 65.54,
+        "end": 65.7,
+        "spoken": true
+      },
+      {
+        "word": "what",
+        "start": 65.7,
+        "end": 65.98,
+        "spoken": true
+      },
+      {
+        "word": "she",
+        "start": 65.98,
+        "end": 66.26,
+        "spoken": true
+      },
+      {
+        "word": "wanna",
+        "start": 66.26,
+        "end": 66.54
+      },
+      {
+        "word": "ask",
+        "start": 66.54,
+        "end": 67.04,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "me,",
+        "start": 67.179,
+        "end": 67.78,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "hey,",
+        "start": 68.224,
+        "end": 68.36,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 68.883,
+        "end": 69.02,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 69.02,
+        "end": 69.16,
+        "spoken": true
+      },
+      {
+        "word": "listenin'",
+        "start": 69.16,
+        "end": 69.68,
+        "sung": true
+      },
+      {
+        "word": "to",
+        "start": 69.68,
+        "end": 69.82,
+        "spoken": true
+      }
+    ],
+    "time": 64.94,
+    "end": 69.82
+  },
+  {
+    "text": "you",
+    "startTime": 69.82,
+    "endTime": 70.34,
+    "words": [
+      {
+        "word": "you",
+        "start": 69.82,
+        "end": 70.34,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 69.82,
+    "end": 70.34
+  },
+  {
+    "text": "I see you lookin' when you pass me, hey, I wasn't lookin'",
+    "startTime": 71.22,
+    "endTime": 76.0,
+    "words": [
+      {
+        "word": "I",
+        "start": 71.522,
+        "end": 71.78,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "see",
+        "start": 72.032,
+        "end": 72.2,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 72.2,
+        "end": 72.34,
+        "spoken": true
+      },
+      {
+        "word": "lookin'",
+        "start": 72.34,
+        "end": 72.68,
+        "spoken": true
+      },
+      {
+        "word": "when",
+        "start": 72.9,
+        "end": 73.04
+      },
+      {
+        "word": "you",
+        "start": 73.04,
+        "end": 73.42
+      },
+      {
+        "word": "pass",
+        "start": 73.42,
+        "end": 73.7
+      },
+      {
+        "word": "me,",
+        "start": 73.7,
+        "end": 74.34,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "hey,",
+        "start": 74.64,
+        "end": 74.9,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 75.04,
+        "end": 75.4,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "wasn't",
+        "start": 75.4,
+        "end": 75.78,
+        "spoken": true
+      },
+      {
+        "word": "lookin'",
+        "start": 75.78,
+        "end": 76.0,
+        "spoken": true
+      }
+    ],
+    "time": 71.22,
+    "end": 76.0
+  },
+  {
+    "text": "to you",
+    "startTime": 76.06,
+    "endTime": 76.54,
+    "words": [
+      {
+        "word": "to",
+        "start": 76.06,
+        "end": 76.26
+      },
+      {
+        "word": "you",
+        "start": 76.26,
+        "end": 76.54,
+        "spoken": true
+      }
+    ],
+    "time": 76.06,
+    "end": 76.54
+  },
+  {
+    "text": "I got a bottle in my hand, right at the top of",
+    "startTime": 78.78,
+    "endTime": 82.04,
+    "words": [
+      {
+        "word": "I",
+        "start": 78.78,
+        "end": 79.34,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "got",
+        "start": 79.34,
+        "end": 79.76,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 79.76,
+        "end": 80.04,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "bottle",
+        "start": 80.268,
+        "end": 80.42,
+        "spoken": true
+      },
+      {
+        "word": "in",
+        "start": 80.466,
+        "end": 80.68,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 80.68,
+        "end": 80.92,
+        "spoken": true
+      },
+      {
+        "word": "hand,",
+        "start": 80.92,
+        "end": 81.12,
+        "spoken": true
+      },
+      {
+        "word": "right",
+        "start": 81.14,
+        "end": 81.46,
+        "spoken": true
+      },
+      {
+        "word": "at",
+        "start": 81.46,
+        "end": 81.64
+      },
+      {
+        "word": "the",
+        "start": 81.64,
+        "end": 81.86
+      },
+      {
+        "word": "top",
+        "start": 81.86,
+        "end": 82.04
+      },
+      {
+        "word": "of",
+        "start": 82.04,
+        "end": 82.04
+      }
+    ],
+    "time": 78.78,
+    "end": 82.04
+  },
+  {
+    "text": "the slide, I'm a listenin' to you",
+    "startTime": 82.04,
+    "endTime": 84.1,
+    "words": [
+      {
+        "word": "the",
+        "start": 82.04,
+        "end": 82.36,
+        "spoken": true
+      },
+      {
+        "word": "slide,",
+        "start": 82.36,
+        "end": 82.72,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 83.108,
+        "end": 83.26,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 83.26,
+        "end": 83.32
+      },
+      {
+        "word": "listenin'",
+        "start": 83.32,
+        "end": 83.82,
+        "spoken": true
+      },
+      {
+        "word": "to",
+        "start": 83.84,
+        "end": 84.04
+      },
+      {
+        "word": "you",
+        "start": 84.04,
+        "end": 84.1
+      }
+    ],
+    "time": 82.04,
+    "end": 84.1
+  },
+  {
+    "text": "So I'll let you in, she'll lie, take it from you, I'll",
+    "startTime": 84.1,
+    "endTime": 87.86,
+    "words": [
+      {
+        "word": "So",
+        "start": 84.28,
+        "end": 84.4,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "I'll",
+        "start": 84.4,
+        "end": 84.96,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "let",
+        "start": 84.96,
+        "end": 85.1,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 85.1,
+        "end": 85.44,
+        "spoken": true
+      },
+      {
+        "word": "in,",
+        "start": 85.44,
+        "end": 85.54,
+        "spoken": true
+      },
+      {
+        "word": "she'll",
+        "start": 85.86,
+        "end": 86.02
+      },
+      {
+        "word": "lie,",
+        "start": 86.02,
+        "end": 86.28
+      },
+      {
+        "word": "take",
+        "start": 86.58,
+        "end": 86.8,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 86.968,
+        "end": 87.08,
+        "spoken": true
+      },
+      {
+        "word": "from",
+        "start": 87.08,
+        "end": 87.24,
+        "spoken": true
+      },
+      {
+        "word": "you,",
+        "start": 87.24,
+        "end": 87.58,
+        "spoken": true
+      },
+      {
+        "word": "I'll",
+        "start": 87.74,
+        "end": 87.86,
+        "spoken": true
+      }
+    ],
+    "time": 84.1,
+    "end": 87.86
+  },
+  {
+    "text": "let you take it down",
+    "startTime": 87.86,
+    "endTime": 89.18,
+    "words": [
+      {
+        "word": "let",
+        "start": 87.86,
+        "end": 87.96,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 88.099,
+        "end": 88.48,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "take",
+        "start": 88.48,
+        "end": 88.48
+      },
+      {
+        "word": "it",
+        "start": 88.732,
+        "end": 88.9,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "down",
+        "start": 88.9,
+        "end": 89.18,
+        "spoken": true
+      }
+    ],
+    "time": 87.86,
+    "end": 89.18
+  },
+  {
+    "text": "I'll let you take it through, if you make it you know",
+    "startTime": 89.18,
+    "endTime": 92.6,
+    "words": [
+      {
+        "word": "I'll",
+        "start": 89.18,
+        "end": 89.66,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "let",
+        "start": 89.66,
+        "end": 89.84
+      },
+      {
+        "word": "you",
+        "start": 89.84,
+        "end": 90.0
+      },
+      {
+        "word": "take",
+        "start": 90.0,
+        "end": 90.14,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 90.14,
+        "end": 90.5,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "through,",
+        "start": 90.5,
+        "end": 90.8,
+        "spoken": true
+      },
+      {
+        "word": "if",
+        "start": 91.16,
+        "end": 91.3
+      },
+      {
+        "word": "you",
+        "start": 91.3,
+        "end": 91.58
+      },
+      {
+        "word": "make",
+        "start": 91.58,
+        "end": 91.76,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 91.76,
+        "end": 92.08,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 92.08,
+        "end": 92.26,
+        "spoken": true
+      },
+      {
+        "word": "know",
+        "start": 92.26,
+        "end": 92.6,
+        "spoken": true
+      }
+    ],
+    "time": 89.18,
+    "end": 92.6
+  },
+  {
+    "text": "I'm even good at extreme, I'm a 16 -foot tall On the",
+    "startTime": 92.6,
+    "endTime": 102.66,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 92.6,
+        "end": 92.6
+      },
+      {
+        "word": "even",
+        "start": 92.646,
+        "end": 94.22,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "good",
+        "start": 94.313,
+        "end": 94.64,
+        "spoken": true
+      },
+      {
+        "word": "at",
+        "start": 94.64,
+        "end": 94.64
+      },
+      {
+        "word": "extreme,",
+        "start": 94.71,
+        "end": 96.12,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "I'm",
+        "start": 96.399,
+        "end": 96.9,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 96.993,
+        "end": 98.22,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "16",
+        "start": 98.22,
+        "end": 100.64,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "-foot",
+        "start": 100.919,
+        "end": 102.2,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "tall",
+        "start": 102.2,
+        "end": 102.48,
+        "spoken": true
+      },
+      {
+        "word": "On",
+        "start": 102.48,
+        "end": 102.52
+      },
+      {
+        "word": "the",
+        "start": 102.52,
+        "end": 102.66,
+        "spoken": true
+      }
+    ],
+    "time": 92.6,
+    "end": 102.66
+  },
+  {
+    "text": "ground with the half of my weight with you",
+    "startTime": 102.66,
+    "endTime": 109.6,
+    "words": [
+      {
+        "word": "ground",
+        "start": 102.962,
+        "end": 107.16,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "with",
+        "start": 107.16,
+        "end": 107.58
+      },
+      {
+        "word": "the",
+        "start": 107.58,
+        "end": 107.74
+      },
+      {
+        "word": "half",
+        "start": 107.74,
+        "end": 108.3
+      },
+      {
+        "word": "of",
+        "start": 108.456,
+        "end": 108.56
+      },
+      {
+        "word": "my",
+        "start": 108.56,
+        "end": 108.9,
+        "stretch": true
+      },
+      {
+        "word": "weight",
+        "start": 108.9,
+        "end": 109.14
+      },
+      {
+        "word": "with",
+        "start": 109.14,
+        "end": 109.32
+      },
+      {
+        "word": "you",
+        "start": 109.32,
+        "end": 109.6
+      }
+    ],
+    "time": 102.66,
+    "end": 109.6
+  },
+  {
+    "text": "Now I'm lookin' back at the past, I was trippin' when it",
+    "startTime": 111.88,
+    "endTime": 115.48,
+    "words": [
+      {
+        "word": "Now",
+        "start": 112.216,
+        "end": 112.44,
+        "stretch": true
+      },
+      {
+        "word": "I'm",
+        "start": 112.44,
+        "end": 112.7,
+        "spoken": true
+      },
+      {
+        "word": "lookin'",
+        "start": 112.82,
+        "end": 112.9,
+        "spoken": true
+      },
+      {
+        "word": "back",
+        "start": 113.04,
+        "end": 113.36,
+        "spoken": true
+      },
+      {
+        "word": "at",
+        "start": 113.504,
+        "end": 113.6,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 113.6,
+        "end": 113.9,
+        "sung": true
+      },
+      {
+        "word": "past,",
+        "start": 114.056,
+        "end": 114.16
+      },
+      {
+        "word": "I",
+        "start": 114.16,
+        "end": 114.42,
+        "stretch": true
+      },
+      {
+        "word": "was",
+        "start": 114.559,
+        "end": 114.7
+      },
+      {
+        "word": "trippin'",
+        "start": 114.77,
+        "end": 115.0
+      },
+      {
+        "word": "when",
+        "start": 115.179,
+        "end": 115.3,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 115.3,
+        "end": 115.48,
+        "spoken": true
+      }
+    ],
+    "time": 111.88,
+    "end": 115.48
+  },
+  {
+    "text": "tripped on you",
+    "startTime": 115.48,
+    "endTime": 116.6,
+    "words": [
+      {
+        "word": "tripped",
+        "start": 115.48,
+        "end": 115.72,
+        "spoken": true
+      },
+      {
+        "word": "on",
+        "start": 115.72,
+        "end": 115.98,
+        "sung": true
+      },
+      {
+        "word": "you",
+        "start": 116.212,
+        "end": 116.6,
+        "stretch": true
+      }
+    ],
+    "time": 115.48,
+    "end": 116.6
+  },
+  {
+    "text": "She said what she wanna ask me, hey, I'm a listenin' to",
+    "startTime": 117.78,
+    "endTime": 122.74,
+    "words": [
+      {
+        "word": "She",
+        "start": 117.85,
+        "end": 118.38,
+        "stretch": true
+      },
+      {
+        "word": "said",
+        "start": 118.519,
+        "end": 118.66
+      },
+      {
+        "word": "what",
+        "start": 118.66,
+        "end": 118.96
+      },
+      {
+        "word": "she",
+        "start": 119.092,
+        "end": 119.18
+      },
+      {
+        "word": "wanna",
+        "start": 119.343,
+        "end": 119.48
+      },
+      {
+        "word": "ask",
+        "start": 119.573,
+        "end": 120.0,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "me,",
+        "start": 120.139,
+        "end": 120.64,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "hey,",
+        "start": 120.779,
+        "end": 121.38,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 121.8,
+        "end": 122.08,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 122.08,
+        "end": 122.1
+      },
+      {
+        "word": "listenin'",
+        "start": 122.1,
+        "end": 122.74,
+        "sung": true
+      },
+      {
+        "word": "to",
+        "start": 122.74,
+        "end": 122.74
+      }
+    ],
+    "time": 117.78,
+    "end": 122.74
+  },
+  {
+    "text": "you",
+    "startTime": 122.74,
+    "endTime": 124.32,
+    "words": [
+      {
+        "word": "you",
+        "start": 122.856,
+        "end": 124.32,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 122.74,
+    "end": 124.32
+  },
+  {
+    "text": "I see you lookin' when you pass me, hey, I wasn't lookin'",
+    "startTime": 124.32,
+    "endTime": 128.94,
+    "words": [
+      {
+        "word": "I",
+        "start": 124.506,
+        "end": 125.06,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "see",
+        "start": 125.06,
+        "end": 125.26,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 125.26,
+        "end": 125.48,
+        "spoken": true
+      },
+      {
+        "word": "lookin'",
+        "start": 125.48,
+        "end": 125.66,
+        "spoken": true
+      },
+      {
+        "word": "when",
+        "start": 125.82,
+        "end": 126.0
+      },
+      {
+        "word": "you",
+        "start": 126.0,
+        "end": 126.3
+      },
+      {
+        "word": "pass",
+        "start": 126.3,
+        "end": 126.68,
+        "spoken": true
+      },
+      {
+        "word": "me,",
+        "start": 126.68,
+        "end": 127.32,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "hey,",
+        "start": 127.6,
+        "end": 127.84,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 128.14,
+        "end": 128.34,
+        "stretch": true
+      },
+      {
+        "word": "wasn't",
+        "start": 128.34,
+        "end": 128.76,
+        "spoken": true
+      },
+      {
+        "word": "lookin'",
+        "start": 128.76,
+        "end": 128.94,
+        "spoken": true
+      }
+    ],
+    "time": 124.32,
+    "end": 128.94
+  },
+  {
+    "text": "to you",
+    "startTime": 129.08,
+    "endTime": 129.6,
+    "words": [
+      {
+        "word": "to",
+        "start": 129.08,
+        "end": 129.2
+      },
+      {
+        "word": "you",
+        "start": 129.2,
+        "end": 129.6
+      }
+    ],
+    "time": 129.08,
+    "end": 129.6
+  },
+  {
+    "text": "●",
+    "startTime": 129.9,
+    "endTime": 137.625,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 129.9,
+    "end": 137.625
   }
 ]

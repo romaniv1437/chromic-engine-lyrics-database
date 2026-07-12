@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T06:33:41.707812+00:00",
+  "generatedAt": "2026-07-12T06:47:07.695974+00:00",
   "totalTracks": 824,
   "roots": [
     "lyrics-db/tracks"
@@ -11498,20 +11498,6 @@
       "sourcePath": "https://soundcloud.com/lilpeep_raresong/lil-peep-girls-open-verse-og",
       "mtimeMs": 1783780607706
     },
-    "4hr reborn::lil peep - already grown (remastered lq)": {
-      "title": "Lil Peep - Already Grown (Remastered LQ)",
-      "artist": "4HR REBORN",
-      "originalTrackName": "4HR REBORN - Lil Peep - Already Grown (Remastered LQ)",
-      "source": "whisper_only",
-      "file": "tracks/4hr-reborn-lil-peep-already-grown-remastered-lq-6b9bb85b0095.json",
-      "files": {
-        "lyrics": "tracks/4hr-reborn-lil-peep-already-grown-remastered-lq-6b9bb85b0095.json",
-        "meta": "tracks/4hr-reborn-lil-peep-already-grown-remastered-lq-6b9bb85b0095.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/4hr-archive/lil-peep-already-grown-remastered-lq",
-      "mtimeMs": 1783783229375
-    },
     "youthe::lil peep - thinking about u (without feature & extended)": {
       "title": "Lil Peep - Thinking About U (Without Feature & Extended)",
       "artist": "youthe",
@@ -11581,6 +11567,20 @@
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-geekey-zabudem-pro-nih-1",
       "mtimeMs": 1783838024626
+    },
+    "4hr reborn::lil peep - already grown (remastered lq)": {
+      "title": "Lil Peep - Already Grown (Remastered LQ)",
+      "artist": "4HR REBORN",
+      "originalTrackName": "4HR REBORN - Lil Peep - Already Grown (Remastered LQ)",
+      "source": "whisper_only",
+      "file": "tracks/4hr-reborn-lil-peep-already-grown-remastered-lq-6b9bb85b0095.json",
+      "files": {
+        "lyrics": "tracks/4hr-reborn-lil-peep-already-grown-remastered-lq-6b9bb85b0095.json",
+        "meta": "tracks/4hr-reborn-lil-peep-already-grown-remastered-lq-6b9bb85b0095.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/4hr-archive/lil-peep-already-grown-remastered-lq",
+      "mtimeMs": 1783838828857
     }
   },
   "tracks": [
@@ -23097,20 +23097,6 @@
       "mtimeMs": 1783780607706
     },
     {
-      "title": "Lil Peep - Already Grown (Remastered LQ)",
-      "artist": "4HR REBORN",
-      "originalTrackName": "4HR REBORN - Lil Peep - Already Grown (Remastered LQ)",
-      "source": "whisper_only",
-      "file": "tracks/4hr-reborn-lil-peep-already-grown-remastered-lq-6b9bb85b0095.json",
-      "files": {
-        "lyrics": "tracks/4hr-reborn-lil-peep-already-grown-remastered-lq-6b9bb85b0095.json",
-        "meta": "tracks/4hr-reborn-lil-peep-already-grown-remastered-lq-6b9bb85b0095.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/4hr-archive/lil-peep-already-grown-remastered-lq",
-      "mtimeMs": 1783783229375
-    },
-    {
       "title": "Lil Peep - Thinking About U (Without Feature & Extended)",
       "artist": "youthe",
       "originalTrackName": "youthe - Lil Peep - Thinking About U (Without Feature & Extended)",
@@ -23179,6 +23165,20 @@
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-geekey-zabudem-pro-nih-1",
       "mtimeMs": 1783838024626
+    },
+    {
+      "title": "Lil Peep - Already Grown (Remastered LQ)",
+      "artist": "4HR REBORN",
+      "originalTrackName": "4HR REBORN - Lil Peep - Already Grown (Remastered LQ)",
+      "source": "whisper_only",
+      "file": "tracks/4hr-reborn-lil-peep-already-grown-remastered-lq-6b9bb85b0095.json",
+      "files": {
+        "lyrics": "tracks/4hr-reborn-lil-peep-already-grown-remastered-lq-6b9bb85b0095.json",
+        "meta": "tracks/4hr-reborn-lil-peep-already-grown-remastered-lq-6b9bb85b0095.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/4hr-archive/lil-peep-already-grown-remastered-lq",
+      "mtimeMs": 1783838828857
     }
   ]
 }

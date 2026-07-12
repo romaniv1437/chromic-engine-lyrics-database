@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T07:33:53.894770+00:00",
-  "totalTracks": 831,
+  "generatedAt": "2026-07-12T07:51:09.895556+00:00",
+  "totalTracks": 832,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11679,6 +11679,20 @@
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/3-yvn-kee-bez-pencii",
       "mtimeMs": 1783841634429
+    },
+    "lyoha  berezin::yvn kxx - представляю север": {
+      "title": "YVN KXX - Представляю Север",
+      "artist": "Lyoha  Berezin",
+      "originalTrackName": "Lyoha  Berezin - YVN KXX - Представляю Север",
+      "source": "whisper_only",
+      "file": "tracks/lyoha-berezin-yvn-kxx-f3044b324145.json",
+      "files": {
+        "lyrics": "tracks/lyoha-berezin-yvn-kxx-f3044b324145.json",
+        "meta": "tracks/lyoha-berezin-yvn-kxx-f3044b324145.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lyoha-berezin/yvn-kxx-predstavlyayu-sever",
+      "mtimeMs": 1783842672254
     }
   },
   "tracks": [
@@ -23375,6 +23389,20 @@
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/3-yvn-kee-bez-pencii",
       "mtimeMs": 1783841634429
+    },
+    {
+      "title": "YVN KXX - Представляю Север",
+      "artist": "Lyoha  Berezin",
+      "originalTrackName": "Lyoha  Berezin - YVN KXX - Представляю Север",
+      "source": "whisper_only",
+      "file": "tracks/lyoha-berezin-yvn-kxx-f3044b324145.json",
+      "files": {
+        "lyrics": "tracks/lyoha-berezin-yvn-kxx-f3044b324145.json",
+        "meta": "tracks/lyoha-berezin-yvn-kxx-f3044b324145.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lyoha-berezin/yvn-kxx-predstavlyayu-sever",
+      "mtimeMs": 1783842672254
     }
   ]
 }

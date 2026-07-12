@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T11:28:42.344064+00:00",
-  "totalTracks": 834,
+  "generatedAt": "2026-07-12T12:14:26.591858+00:00",
+  "totalTracks": 835,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11721,6 +11721,20 @@
       },
       "sourcePath": "https://soundcloud.com/harry-berrisford/runninoutoftime-r-o-o-t-ft",
       "mtimeMs": 1783855723863
+    },
+    "owlordie::dengi (prod. viramaina)": {
+      "title": "DENGI (prod. Viramaina)",
+      "artist": "OWLORDIE",
+      "originalTrackName": "OWLORDIE - DENGI (prod. Viramaina)",
+      "source": "lrclib_plain",
+      "file": "tracks/owlordie-dengi-prod-viramaina-1b421b810282.json",
+      "files": {
+        "lyrics": "tracks/owlordie-dengi-prod-viramaina-1b421b810282.json",
+        "meta": "tracks/owlordie-dengi-prod-viramaina-1b421b810282.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/owlordie/dengi-prod-viramaina",
+      "mtimeMs": 1783858467630
     }
   },
   "tracks": [
@@ -23459,6 +23473,20 @@
       },
       "sourcePath": "https://soundcloud.com/harry-berrisford/runninoutoftime-r-o-o-t-ft",
       "mtimeMs": 1783855723863
+    },
+    {
+      "title": "DENGI (prod. Viramaina)",
+      "artist": "OWLORDIE",
+      "originalTrackName": "OWLORDIE - DENGI (prod. Viramaina)",
+      "source": "lrclib_plain",
+      "file": "tracks/owlordie-dengi-prod-viramaina-1b421b810282.json",
+      "files": {
+        "lyrics": "tracks/owlordie-dengi-prod-viramaina-1b421b810282.json",
+        "meta": "tracks/owlordie-dengi-prod-viramaina-1b421b810282.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/owlordie/dengi-prod-viramaina",
+      "mtimeMs": 1783858467630
     }
   ]
 }

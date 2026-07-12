@@ -296,125 +296,118 @@
   },
   {
     "text": "Today's the day that I end it all",
-    "startTime": 37.781,
-    "endTime": 39.181,
+    "startTime": 37.78,
+    "endTime": 41.781,
     "words": [
       {
         "word": "Today's",
         "start": 37.781,
-        "end": 37.871
-      },
-      {
-        "word": "the",
-        "start": 37.881,
-        "end": 38.091
-      },
-      {
-        "word": "day",
-        "start": 38.101,
-        "end": 38.631,
-        "char_starts": [
-          38.101,
-          38.228,
-          38.525
-        ],
+        "end": 38.858,
         "spoken": true
       },
       {
+        "word": "the",
+        "start": 38.858,
+        "end": 39.319
+      },
+      {
+        "word": "day",
+        "start": 39.319,
+        "end": 39.781
+      },
+      {
         "word": "that",
-        "start": 38.641,
-        "end": 38.741
+        "start": 39.781,
+        "end": 40.396
       },
       {
         "word": "I",
-        "start": 38.751,
-        "end": 38.851
+        "start": 40.396,
+        "end": 40.55
       },
       {
         "word": "end",
-        "start": 38.861,
-        "end": 38.961
+        "start": 40.55,
+        "end": 41.012
       },
       {
         "word": "it",
-        "start": 38.971,
-        "end": 39.071
+        "start": 41.012,
+        "end": 41.319
       },
       {
         "word": "all",
-        "start": 39.081,
-        "end": 39.181
+        "start": 41.319,
+        "end": 41.781
       }
     ],
-    "time": 37.781,
-    "end": 39.181
+    "time": 37.78,
+    "end": 41.781
   },
   {
     "text": "I watch the sun as it rise, as it falls",
-    "startTime": 43.123,
-    "endTime": 44.213,
+    "startTime": 43.12,
+    "endTime": 47.159,
     "words": [
       {
         "word": "I",
         "start": 43.123,
-        "end": 43.223
+        "end": 43.258
       },
       {
         "word": "watch",
-        "start": 43.233,
-        "end": 43.333
+        "start": 43.258,
+        "end": 43.93,
+        "spoken": true
       },
       {
         "word": "the",
-        "start": 43.343,
-        "end": 43.443,
+        "start": 43.93,
+        "end": 44.334,
         "spoken": true
       },
       {
         "word": "sun",
-        "start": 43.453,
-        "end": 43.553,
+        "start": 44.334,
+        "end": 44.737,
         "spoken": true
       },
       {
         "word": "as",
-        "start": 43.563,
-        "end": 43.663,
-        "spoken": true
+        "start": 44.737,
+        "end": 45.006
       },
       {
         "word": "it",
-        "start": 43.673,
-        "end": 43.773,
-        "spoken": true
+        "start": 45.006,
+        "end": 45.275
       },
       {
         "word": "rise,",
-        "start": 43.783,
-        "end": 43.883,
+        "start": 45.275,
+        "end": 45.948,
         "spoken": true
       },
       {
         "word": "as",
-        "start": 43.893,
-        "end": 43.993,
+        "start": 45.948,
+        "end": 46.217,
         "spoken": true
       },
       {
         "word": "it",
-        "start": 44.003,
-        "end": 44.103,
+        "start": 46.217,
+        "end": 46.486,
         "spoken": true
       },
       {
         "word": "falls",
-        "start": 44.113,
-        "end": 44.213,
-        "spoken": true
+        "start": 46.486,
+        "end": 47.159
       }
     ],
-    "time": 43.123,
-    "end": 44.213
+    "time": 43.12,
+    "end": 47.159
   },
   {
     "text": "Put down the gun because I'm getting a call",
@@ -493,67 +486,71 @@
   },
   {
     "text": "What have I become? Why do I feel so small?",
-    "startTime": 52.369,
-    "endTime": 53.459,
+    "startTime": 52.37,
+    "endTime": 57.489,
     "words": [
       {
         "word": "What",
         "start": 52.369,
-        "end": 52.469
+        "end": 52.971,
+        "spoken": true
       },
       {
         "word": "have",
-        "start": 52.479,
-        "end": 52.579
-      },
-      {
-        "word": "I",
-        "start": 52.589,
-        "end": 52.689
-      },
-      {
-        "word": "become?",
-        "start": 52.699,
-        "end": 52.799
-      },
-      {
-        "word": "Why",
-        "start": 52.809,
-        "end": 52.909
-      },
-      {
-        "word": "do",
-        "start": 52.919,
-        "end": 53.019,
+        "start": 52.971,
+        "end": 53.574,
         "spoken": true
       },
       {
         "word": "I",
-        "start": 53.029,
-        "end": 53.129,
+        "start": 53.574,
+        "end": 53.724,
+        "spoken": true
+      },
+      {
+        "word": "become?",
+        "start": 53.724,
+        "end": 54.778,
+        "spoken": true
+      },
+      {
+        "word": "Why",
+        "start": 54.778,
+        "end": 55.23,
+        "spoken": true
+      },
+      {
+        "word": "do",
+        "start": 55.23,
+        "end": 55.531
+      },
+      {
+        "word": "I",
+        "start": 55.531,
+        "end": 55.682,
         "spoken": true
       },
       {
         "word": "feel",
-        "start": 53.139,
-        "end": 53.239,
+        "start": 55.682,
+        "end": 56.284,
         "spoken": true
       },
       {
         "word": "so",
-        "start": 53.249,
-        "end": 53.349,
+        "start": 56.284,
+        "end": 56.585,
         "spoken": true
       },
       {
         "word": "small?",
-        "start": 53.359,
-        "end": 53.459,
+        "start": 56.585,
+        "end": 57.489,
         "spoken": true
       }
     ],
-    "time": 52.369,
-    "end": 53.459
+    "time": 52.37,
+    "end": 57.489
   },
   {
     "text": "Why do I feel so small? (Feel so small)",
@@ -699,48 +696,50 @@
   },
   {
     "text": "(I want to end it all)",
-    "startTime": 64.486,
+    "startTime": 64.49,
     "endTime": 65.136,
     "words": [
       {
         "word": "(I",
         "start": 64.486,
-        "end": 64.586,
+        "end": 64.768,
         "adlib": true,
         "spoken": true
       },
       {
         "word": "want",
-        "start": 64.596,
-        "end": 64.696,
+        "start": 64.768,
+        "end": 65.333,
         "adlib": true
       },
       {
         "word": "to",
-        "start": 64.706,
-        "end": 64.806,
+        "start": 65.333,
+        "end": 65.615,
         "adlib": true
       },
       {
         "word": "end",
-        "start": 64.816,
-        "end": 64.916,
+        "start": 65.615,
+        "end": 66.039,
         "adlib": true
       },
       {
         "word": "it",
-        "start": 64.926,
-        "end": 65.026,
-        "adlib": true
+        "start": 66.039,
+        "end": 66.321,
+        "adlib": true,
+        "spoken": true
       },
       {
         "word": "all)",
-        "start": 65.036,
-        "end": 65.136,
-        "adlib": true
+        "start": 66.321,
+        "end": 66.886,
+        "adlib": true,
+        "spoken": true
       }
     ],
-    "time": 64.486,
+    "time": 64.49,
     "end": 65.136
   },
   {
@@ -805,1085 +804,1091 @@
   },
   {
     "text": "I ain't savin' shit if I can't save myself",
-    "startTime": 82.619,
-    "endTime": 83.599,
+    "startTime": 82.62,
+    "endTime": 87.064,
     "words": [
       {
         "word": "I",
         "start": 82.619,
-        "end": 82.719,
+        "end": 82.75,
         "spoken": true
       },
       {
         "word": "ain't",
-        "start": 82.729,
-        "end": 82.829,
+        "start": 83.1,
+        "end": 83.403,
         "spoken": true
       },
       {
         "word": "savin'",
-        "start": 82.839,
-        "end": 82.939,
-        "spoken": true
+        "start": 83.753,
+        "end": 84.188
       },
       {
         "word": "shit",
-        "start": 82.949,
-        "end": 83.049,
+        "start": 84.188,
+        "end": 84.711,
         "spoken": true
       },
       {
         "word": "if",
-        "start": 83.059,
-        "end": 83.159,
+        "start": 84.711,
+        "end": 84.972,
         "spoken": true
       },
       {
         "word": "I",
-        "start": 83.169,
-        "end": 83.269,
+        "start": 84.972,
+        "end": 85.103,
         "spoken": true
       },
       {
         "word": "can't",
-        "start": 83.279,
-        "end": 83.379,
-        "spoken": true
+        "start": 85.358,
+        "end": 85.757
       },
       {
         "word": "save",
-        "start": 83.389,
-        "end": 83.489,
-        "spoken": true
+        "start": 85.896,
+        "end": 86.28,
+        "sung": true
       },
       {
         "word": "myself",
-        "start": 83.499,
-        "end": 83.599,
+        "start": 86.489,
+        "end": 87.064,
         "spoken": true
       }
     ],
-    "time": 82.619,
-    "end": 83.599
+    "time": 82.62,
+    "end": 87.064
   },
   {
     "text": "Gone off the Xans right now, need some help",
-    "startTime": 87.558,
-    "endTime": 88.538,
+    "startTime": 87.56,
+    "endTime": 92.118,
     "words": [
       {
         "word": "Gone",
-        "start": 87.558,
-        "end": 87.658,
-        "spoken": true
+        "start": 87.721,
+        "end": 88.079
       },
       {
         "word": "off",
-        "start": 87.668,
-        "end": 87.768
-      },
-      {
-        "word": "the",
-        "start": 87.778,
-        "end": 87.878,
+        "start": 88.079,
+        "end": 88.47,
         "spoken": true
       },
       {
+        "word": "the",
+        "start": 88.47,
+        "end": 88.861
+      },
+      {
         "word": "Xans",
-        "start": 87.888,
-        "end": 87.988,
+        "start": 88.861,
+        "end": 89.382,
         "spoken": true
       },
       {
         "word": "right",
-        "start": 87.998,
-        "end": 88.098,
+        "start": 89.521,
+        "end": 90.034,
         "spoken": true
       },
       {
         "word": "now,",
-        "start": 88.108,
-        "end": 88.208,
+        "start": 90.127,
+        "end": 90.555,
         "spoken": true
       },
       {
         "word": "need",
-        "start": 88.218,
-        "end": 88.318,
+        "start": 90.555,
+        "end": 91.076,
         "spoken": true
       },
       {
         "word": "some",
-        "start": 88.328,
-        "end": 88.428,
+        "start": 91.076,
+        "end": 91.597,
         "spoken": true
       },
       {
         "word": "help",
-        "start": 88.438,
-        "end": 88.538
+        "start": 91.597,
+        "end": 92.118,
+        "spoken": true
       }
     ],
-    "time": 87.558,
-    "end": 88.538
+    "time": 87.56,
+    "end": 92.118
   },
   {
     "text": "If I O.D. then I'm goin' to Hell",
-    "startTime": 92.625,
-    "endTime": 93.495,
+    "startTime": 92.62,
+    "endTime": 95.985,
     "words": [
       {
         "word": "If",
-        "start": 92.625,
-        "end": 92.725,
+        "start": 92.786,
+        "end": 92.894,
         "spoken": true
       },
       {
         "word": "I",
-        "start": 92.735,
-        "end": 92.835,
+        "start": 92.894,
+        "end": 93.028,
         "spoken": true
       },
       {
         "word": "O.D.",
-        "start": 92.845,
-        "end": 92.945
+        "start": 93.351,
+        "end": 93.566
       },
       {
         "word": "then",
-        "start": 92.955,
-        "end": 93.055,
-        "spoken": true
+        "start": 93.566,
+        "end": 94.103
       },
       {
         "word": "I'm",
-        "start": 93.065,
-        "end": 93.165,
+        "start": 94.103,
+        "end": 94.507,
         "spoken": true
       },
       {
         "word": "goin'",
-        "start": 93.175,
-        "end": 93.275,
+        "start": 94.857,
+        "end": 95.179,
         "spoken": true
       },
       {
         "word": "to",
-        "start": 93.285,
-        "end": 93.385,
-        "spoken": true
+        "start": 95.179,
+        "end": 95.447
       },
       {
         "word": "Hell",
-        "start": 93.395,
-        "end": 93.495
+        "start": 95.447,
+        "end": 95.985,
+        "sung": true
       }
     ],
-    "time": 92.625,
-    "end": 93.495
+    "time": 92.62,
+    "end": 95.985
   },
   {
     "text": "I don't fear nothin' but God",
-    "startTime": 97.485,
-    "endTime": 98.135,
+    "startTime": 97.48,
+    "endTime": 100.098,
     "words": [
       {
         "word": "I",
         "start": 97.485,
-        "end": 97.585,
+        "end": 97.599,
         "spoken": true
       },
       {
         "word": "don't",
-        "start": 97.595,
-        "end": 97.695,
-        "spoken": true
+        "start": 97.94,
+        "end": 98.167
       },
       {
         "word": "fear",
-        "start": 97.705,
-        "end": 97.805,
+        "start": 98.167,
+        "end": 98.621,
         "spoken": true
       },
       {
         "word": "nothin'",
-        "start": 97.815,
-        "end": 97.915
+        "start": 98.971,
+        "end": 99.416
       },
       {
         "word": "but",
-        "start": 97.925,
-        "end": 98.025,
+        "start": 99.416,
+        "end": 99.757,
         "spoken": true
       },
       {
         "word": "God",
-        "start": 98.035,
-        "end": 98.135
+        "start": 99.757,
+        "end": 100.098,
+        "spoken": true
       }
     ],
-    "time": 97.485,
-    "end": 98.135
+    "time": 97.48,
+    "end": 100.098
   },
   {
     "text": "But God don't exist, not at all where I'm from",
-    "startTime": 100.388,
-    "endTime": 101.478,
+    "startTime": 100.39,
+    "endTime": 105.828,
     "words": [
       {
         "word": "But",
         "start": 100.388,
-        "end": 100.488,
+        "end": 100.829,
         "spoken": true
       },
       {
         "word": "God",
-        "start": 100.498,
-        "end": 100.598,
+        "start": 100.829,
+        "end": 101.27,
         "spoken": true
       },
       {
         "word": "don't",
-        "start": 100.608,
-        "end": 100.708
+        "start": 101.27,
+        "end": 102.005,
+        "spoken": true
       },
       {
         "word": "exist,",
-        "start": 100.718,
-        "end": 100.818
+        "start": 102.355,
+        "end": 102.887,
+        "spoken": true
       },
       {
         "word": "not",
-        "start": 100.828,
-        "end": 100.928
+        "start": 102.887,
+        "end": 103.329
       },
       {
         "word": "at",
-        "start": 100.938,
-        "end": 101.038,
+        "start": 103.329,
+        "end": 103.623,
         "spoken": true
       },
       {
         "word": "all",
-        "start": 101.048,
-        "end": 101.148,
+        "start": 103.623,
+        "end": 104.064,
         "spoken": true
       },
       {
         "word": "where",
-        "start": 101.158,
-        "end": 101.258,
+        "start": 104.414,
+        "end": 104.799,
         "spoken": true
       },
       {
         "word": "I'm",
-        "start": 101.268,
-        "end": 101.368,
+        "start": 105.064,
+        "end": 105.24,
         "spoken": true
       },
       {
         "word": "from",
-        "start": 101.378,
-        "end": 101.478,
+        "start": 105.59,
+        "end": 105.828,
         "spoken": true
       }
     ],
-    "time": 100.388,
-    "end": 101.478
+    "time": 100.39,
+    "end": 105.828
   },
   {
     "text": "I don't play nothin' but C.O.D",
     "startTime": 107.0,
-    "endTime": 107.65,
+    "endTime": 109.402,
     "words": [
       {
         "word": "I",
         "start": 107.0,
-        "end": 107.1
+        "end": 107.096
       },
       {
         "word": "don't",
-        "start": 107.11,
-        "end": 107.21,
-        "spoken": true
+        "start": 107.385,
+        "end": 107.577
       },
       {
         "word": "play",
-        "start": 107.22,
-        "end": 107.32,
-        "spoken": true
+        "start": 107.577,
+        "end": 107.961
       },
       {
         "word": "nothin'",
-        "start": 107.33,
-        "end": 107.43,
-        "spoken": true
+        "start": 107.961,
+        "end": 108.633
       },
       {
         "word": "but",
-        "start": 107.44,
-        "end": 107.54,
-        "spoken": true
+        "start": 108.703,
+        "end": 108.922
       },
       {
         "word": "C.O.D",
-        "start": 107.55,
-        "end": 107.65
+        "start": 108.922,
+        "end": 109.402,
+        "spoken": true
       }
     ],
     "time": 107.0,
-    "end": 107.65
+    "end": 109.402
   },
   {
     "text": "Not at all, I don't play",
-    "startTime": 109.669,
-    "endTime": 110.319,
+    "startTime": 109.67,
+    "endTime": 111.774,
     "words": [
       {
         "word": "Not",
         "start": 109.669,
-        "end": 109.769
+        "end": 110.001,
+        "spoken": true
       },
       {
         "word": "at",
-        "start": 109.779,
-        "end": 109.879
+        "start": 110.001,
+        "end": 110.223,
+        "spoken": true
       },
       {
         "word": "all,",
-        "start": 109.889,
-        "end": 109.989,
+        "start": 110.223,
+        "end": 110.666,
         "spoken": true
       },
       {
         "word": "I",
-        "start": 109.999,
-        "end": 110.099,
+        "start": 110.666,
+        "end": 110.777,
         "spoken": true
       },
       {
         "word": "don't",
-        "start": 110.109,
-        "end": 110.209,
+        "start": 110.777,
+        "end": 111.331,
         "spoken": true
       },
       {
         "word": "play",
-        "start": 110.219,
-        "end": 110.319
+        "start": 111.331,
+        "end": 111.774,
+        "spoken": true
       }
     ],
-    "time": 109.669,
-    "end": 110.319
+    "time": 109.67,
+    "end": 111.774
   },
   {
     "text": "Keepin' it real, that's my job",
-    "startTime": 112.008,
-    "endTime": 112.658,
+    "startTime": 112.01,
+    "endTime": 115.528,
     "words": [
       {
         "word": "Keepin'",
         "start": 112.008,
-        "end": 112.108
+        "end": 112.994,
+        "spoken": true
       },
       {
         "word": "it",
-        "start": 112.118,
-        "end": 112.218,
+        "start": 112.994,
+        "end": 113.275,
         "spoken": true
       },
       {
         "word": "real,",
-        "start": 112.228,
-        "end": 112.328,
+        "start": 113.275,
+        "end": 113.979,
         "spoken": true
       },
       {
         "word": "that's",
-        "start": 112.338,
-        "end": 112.438,
+        "start": 114.118,
+        "end": 114.824,
         "spoken": true
       },
       {
         "word": "my",
-        "start": 112.448,
-        "end": 112.548,
+        "start": 114.824,
+        "end": 115.106,
         "spoken": true
       },
       {
         "word": "job",
-        "start": 112.558,
-        "end": 112.658
+        "start": 115.315,
+        "end": 115.528,
+        "sung": true
       }
     ],
-    "time": 112.008,
-    "end": 112.658
+    "time": 112.01,
+    "end": 115.528
   },
   {
     "text": "I'm in the V.I.P., I got your girl on my blow",
-    "startTime": 116.481,
-    "endTime": 117.681,
+    "startTime": 116.48,
+    "endTime": 120.4,
     "words": [
       {
         "word": "I'm",
         "start": 116.481,
-        "end": 116.581,
-        "spoken": true
+        "end": 116.817
       },
       {
         "word": "in",
-        "start": 116.591,
-        "end": 116.691,
+        "start": 116.817,
+        "end": 117.041,
         "spoken": true
       },
       {
         "word": "the",
-        "start": 116.701,
-        "end": 116.801,
-        "spoken": true
+        "start": 117.041,
+        "end": 117.377,
+        "sung": true
       },
       {
         "word": "V.I.P.,",
-        "start": 116.811,
-        "end": 116.911,
+        "start": 117.377,
+        "end": 118.16,
         "spoken": true
       },
       {
         "word": "I",
-        "start": 116.921,
-        "end": 117.021,
+        "start": 118.16,
+        "end": 118.272,
         "spoken": true
       },
       {
         "word": "got",
-        "start": 117.091,
-        "end": 117.131
+        "start": 118.272,
+        "end": 118.608
       },
       {
         "word": "your",
-        "start": 117.141,
-        "end": 117.241
+        "start": 118.608,
+        "end": 119.056,
+        "spoken": true
       },
       {
         "word": "girl",
-        "start": 117.251,
-        "end": 117.351,
+        "start": 119.056,
+        "end": 119.504,
         "spoken": true
       },
       {
         "word": "on",
-        "start": 117.361,
-        "end": 117.461,
+        "start": 119.504,
+        "end": 119.728,
         "spoken": true
       },
       {
         "word": "my",
-        "start": 117.471,
-        "end": 117.571,
+        "start": 119.728,
+        "end": 119.952,
         "spoken": true
       },
       {
         "word": "blow",
-        "start": 117.581,
-        "end": 117.681,
+        "start": 120.115,
+        "end": 120.4,
         "spoken": true
       }
     ],
-    "time": 116.481,
-    "end": 117.681
+    "time": 116.48,
+    "end": 120.4
   },
   {
     "text": "BOY FROOT, Lil Peep, we takin' your ho",
-    "startTime": 120.835,
-    "endTime": 121.705,
+    "startTime": 120.84,
+    "endTime": 125.315,
     "words": [
       {
         "word": "BOY",
-        "start": 120.895,
-        "end": 120.935,
-        "spoken": true
+        "start": 120.928,
+        "end": 121.269
       },
       {
         "word": "FROOT,",
-        "start": 120.945,
-        "end": 121.045,
-        "spoken": true
+        "start": 121.617,
+        "end": 122.136
       },
       {
         "word": "Lil",
-        "start": 121.055,
-        "end": 121.155,
-        "spoken": true
+        "start": 122.136,
+        "end": 122.569
       },
       {
         "word": "Peep,",
-        "start": 121.165,
-        "end": 121.265,
+        "start": 122.569,
+        "end": 123.292,
         "spoken": true
       },
       {
         "word": "we",
-        "start": 121.275,
-        "end": 121.375,
+        "start": 123.292,
+        "end": 123.581,
         "spoken": true
       },
       {
         "word": "takin'",
-        "start": 121.385,
-        "end": 121.485,
-        "spoken": true
+        "start": 123.697,
+        "end": 124.448,
+        "sung": true
       },
       {
         "word": "your",
-        "start": 121.495,
-        "end": 121.595,
-        "spoken": true
+        "start": 124.795,
+        "end": 125.026,
+        "sung": true
       },
       {
         "word": "ho",
-        "start": 121.605,
-        "end": 121.705
+        "start": 125.026,
+        "end": 125.315,
+        "spoken": true
       }
     ],
-    "time": 120.835,
-    "end": 121.705
+    "time": 120.84,
+    "end": 125.315
   },
   {
     "text": "I'm takin' it slow in my zone",
-    "startTime": 125.835,
-    "endTime": 126.595,
+    "startTime": 125.84,
+    "endTime": 128.548,
     "words": [
       {
         "word": "I'm",
         "start": 125.835,
-        "end": 125.935,
+        "end": 126.189,
         "spoken": true
       },
       {
         "word": "takin'",
-        "start": 125.945,
-        "end": 126.045,
-        "spoken": true
+        "start": 126.539,
+        "end": 126.897
       },
       {
         "word": "it",
-        "start": 126.055,
-        "end": 126.155,
+        "start": 126.897,
+        "end": 127.133,
         "spoken": true
       },
       {
         "word": "slow",
-        "start": 126.165,
-        "end": 126.265,
+        "start": 127.133,
+        "end": 127.605,
         "spoken": true
       },
       {
         "word": "in",
-        "start": 126.275,
-        "end": 126.375
+        "start": 127.605,
+        "end": 127.841,
+        "spoken": true
       },
       {
         "word": "my",
-        "start": 126.385,
-        "end": 126.485,
+        "start": 127.841,
+        "end": 128.077,
         "spoken": true
       },
       {
         "word": "zone",
-        "start": 126.495,
-        "end": 126.595,
+        "start": 128.077,
+        "end": 128.548,
         "spoken": true
       }
     ],
-    "time": 125.835,
-    "end": 126.595
+    "time": 125.84,
+    "end": 128.548
   },
   {
     "text": "Took a couple pills when I woke up, now I'm stoned",
     "startTime": 128.85,
-    "endTime": 130.05,
+    "endTime": 133.185,
     "words": [
       {
         "word": "Took",
         "start": 128.85,
-        "end": 128.95,
-        "spoken": true
+        "end": 129.284
       },
       {
         "word": "a",
-        "start": 128.96,
-        "end": 129.06,
+        "start": 129.284,
+        "end": 129.392,
         "spoken": true
       },
       {
         "word": "couple",
-        "start": 129.07,
-        "end": 129.17
+        "start": 129.717,
+        "end": 130.042,
+        "spoken": true
       },
       {
         "word": "pills",
-        "start": 129.18,
-        "end": 129.28
+        "start": 130.135,
+        "end": 130.584,
+        "spoken": true
       },
       {
         "word": "when",
-        "start": 129.29,
-        "end": 129.39,
+        "start": 130.584,
+        "end": 131.018,
         "spoken": true
       },
       {
         "word": "I",
-        "start": 129.4,
-        "end": 129.5
+        "start": 131.018,
+        "end": 131.126
       },
       {
         "word": "woke",
-        "start": 129.51,
-        "end": 129.61
+        "start": 131.126,
+        "end": 131.56,
+        "spoken": true
       },
       {
         "word": "up,",
-        "start": 129.68,
-        "end": 129.72
+        "start": 131.755,
+        "end": 131.885,
+        "spoken": true
       },
       {
         "word": "now",
-        "start": 129.73,
-        "end": 129.83,
+        "start": 131.885,
+        "end": 132.21,
         "spoken": true
       },
       {
         "word": "I'm",
-        "start": 129.84,
-        "end": 129.94,
+        "start": 132.21,
+        "end": 132.535,
         "spoken": true
       },
       {
         "word": "stoned",
-        "start": 129.95,
-        "end": 130.05,
+        "start": 132.535,
+        "end": 133.185,
         "spoken": true
       }
     ],
     "time": 128.85,
-    "end": 130.05
+    "end": 133.185
   },
   {
     "text": "Now I'm glowed up, thinkin' 'bout some shit with my bros",
-    "startTime": 133.667,
-    "endTime": 134.867,
+    "startTime": 133.67,
+    "endTime": 137.984,
     "words": [
       {
         "word": "Now",
-        "start": 133.667,
-        "end": 133.767,
+        "start": 133.836,
+        "end": 133.949,
         "spoken": true
       },
       {
         "word": "I'm",
-        "start": 133.777,
-        "end": 133.877,
+        "start": 133.949,
+        "end": 134.23,
         "spoken": true
       },
       {
         "word": "glowed",
-        "start": 133.887,
-        "end": 133.987,
-        "spoken": true
+        "start": 134.23,
+        "end": 134.793
       },
       {
         "word": "up,",
-        "start": 133.997,
-        "end": 134.097,
+        "start": 134.793,
+        "end": 135.075,
         "spoken": true
       },
       {
         "word": "thinkin'",
-        "start": 134.107,
-        "end": 134.207,
+        "start": 135.425,
+        "end": 135.826,
         "spoken": true
       },
       {
         "word": "'bout",
-        "start": 134.217,
-        "end": 134.317,
+        "start": 135.826,
+        "end": 136.295,
         "spoken": true
       },
       {
         "word": "some",
-        "start": 134.327,
-        "end": 134.427,
+        "start": 136.295,
+        "end": 136.67,
         "spoken": true
       },
       {
         "word": "shit",
-        "start": 134.437,
-        "end": 134.537
+        "start": 136.67,
+        "end": 137.046,
+        "spoken": true
       },
       {
         "word": "with",
-        "start": 134.547,
-        "end": 134.647,
+        "start": 137.046,
+        "end": 137.421,
         "spoken": true
       },
       {
         "word": "my",
-        "start": 134.657,
-        "end": 134.757,
+        "start": 137.421,
+        "end": 137.609,
         "spoken": true
       },
       {
         "word": "bros",
-        "start": 134.767,
-        "end": 134.867,
+        "start": 137.609,
+        "end": 137.984,
         "spoken": true
       }
     ],
-    "time": 133.667,
-    "end": 134.867
+    "time": 133.67,
+    "end": 137.984
   },
   {
     "text": "If I blow up, I'ma put the shotty to my dome",
-    "startTime": 138.464,
-    "endTime": 139.664,
+    "startTime": 138.46,
+    "endTime": 142.71,
     "words": [
       {
         "word": "If",
         "start": 138.464,
-        "end": 138.564,
+        "end": 138.714,
         "spoken": true
       },
       {
         "word": "I",
-        "start": 138.574,
-        "end": 138.674,
+        "start": 138.714,
+        "end": 138.839,
         "spoken": true
       },
       {
         "word": "blow",
-        "start": 138.684,
-        "end": 138.784,
+        "start": 139.138,
+        "end": 139.338,
         "spoken": true
       },
       {
         "word": "up,",
-        "start": 138.794,
-        "end": 138.894,
+        "start": 139.338,
+        "end": 139.713,
         "spoken": true
       },
       {
         "word": "I'ma",
-        "start": 138.904,
-        "end": 139.004,
+        "start": 139.713,
+        "end": 140.212,
         "spoken": true
       },
       {
         "word": "put",
-        "start": 139.014,
-        "end": 139.114
+        "start": 140.212,
+        "end": 140.587,
+        "spoken": true
       },
       {
         "word": "the",
-        "start": 139.124,
-        "end": 139.224
+        "start": 140.587,
+        "end": 140.962
       },
       {
         "word": "shotty",
-        "start": 139.294,
-        "end": 139.334
+        "start": 140.962,
+        "end": 141.711,
+        "spoken": true
       },
       {
         "word": "to",
-        "start": 139.344,
-        "end": 139.444,
+        "start": 141.711,
+        "end": 141.961,
         "spoken": true
       },
       {
         "word": "my",
-        "start": 139.454,
-        "end": 139.554,
+        "start": 141.961,
+        "end": 142.211,
         "spoken": true
       },
       {
         "word": "dome",
-        "start": 139.564,
-        "end": 139.664,
+        "start": 142.211,
+        "end": 142.71,
         "spoken": true
       }
     ],
-    "time": 138.464,
-    "end": 139.664
+    "time": 138.46,
+    "end": 142.71
   },
   {
     "text": "Turn the song up",
-    "startTime": 143.182,
-    "endTime": 143.612,
+    "startTime": 143.18,
+    "endTime": 144.693,
     "words": [
       {
         "word": "Turn",
         "start": 143.182,
-        "end": 143.282,
-        "spoken": true
+        "end": 143.647
       },
       {
         "word": "the",
-        "start": 143.292,
-        "end": 143.392,
-        "spoken": true
+        "start": 143.647,
+        "end": 143.996
       },
       {
         "word": "song",
-        "start": 143.402,
-        "end": 143.502,
+        "start": 143.996,
+        "end": 144.461,
         "spoken": true
       },
       {
         "word": "up",
-        "start": 143.512,
-        "end": 143.612
+        "start": 144.461,
+        "end": 144.693
       }
     ],
-    "time": 143.182,
-    "end": 143.612
+    "time": 143.18,
+    "end": 144.693
   },
   {
     "text": "Today's the day that I end it all",
-    "startTime": 144.861,
-    "endTime": 145.731,
+    "startTime": 144.86,
+    "endTime": 148.316,
     "words": [
       {
         "word": "Today's",
         "start": 144.861,
-        "end": 144.961,
+        "end": 145.791,
         "spoken": true
       },
       {
         "word": "the",
-        "start": 144.971,
-        "end": 145.071
+        "start": 145.791,
+        "end": 146.19,
+        "spoken": true
       },
       {
         "word": "day",
-        "start": 145.081,
-        "end": 145.181
+        "start": 146.19,
+        "end": 146.589,
+        "spoken": true
       },
       {
         "word": "that",
-        "start": 145.191,
-        "end": 145.291
+        "start": 146.589,
+        "end": 147.12
       },
       {
         "word": "I",
-        "start": 145.301,
-        "end": 145.401
+        "start": 147.12,
+        "end": 147.253,
+        "spoken": true
       },
       {
         "word": "end",
-        "start": 145.411,
-        "end": 145.511
+        "start": 147.253,
+        "end": 147.652,
+        "spoken": true
       },
       {
         "word": "it",
-        "start": 145.521,
-        "end": 145.621
+        "start": 147.652,
+        "end": 147.917
       },
       {
         "word": "all",
-        "start": 145.631,
-        "end": 145.731
+        "start": 147.917,
+        "end": 148.316
       }
     ],
-    "time": 144.861,
-    "end": 145.731
+    "time": 144.86,
+    "end": 148.316
   },
   {
     "text": "I watch the sun as it rise, as it falls",
     "startTime": 148.7,
-    "endTime": 149.79,
+    "endTime": 153.165,
     "words": [
       {
         "word": "I",
         "start": 148.7,
-        "end": 148.8
+        "end": 148.849
       },
       {
         "word": "watch",
-        "start": 148.81,
-        "end": 148.91
+        "start": 148.849,
+        "end": 149.593,
+        "spoken": true
       },
       {
         "word": "the",
-        "start": 148.92,
-        "end": 149.02,
+        "start": 149.593,
+        "end": 150.039,
         "spoken": true
       },
       {
         "word": "sun",
-        "start": 149.03,
-        "end": 149.13,
+        "start": 150.039,
+        "end": 150.486,
         "spoken": true
       },
       {
         "word": "as",
-        "start": 149.14,
-        "end": 149.24,
+        "start": 150.486,
+        "end": 150.784,
         "spoken": true
       },
       {
         "word": "it",
-        "start": 149.25,
-        "end": 149.35,
-        "spoken": true
+        "start": 150.784,
+        "end": 151.081
       },
       {
         "word": "rise,",
-        "start": 149.36,
-        "end": 149.46,
+        "start": 151.081,
+        "end": 151.825,
         "spoken": true
       },
       {
         "word": "as",
-        "start": 149.47,
-        "end": 149.57,
-        "spoken": true
+        "start": 151.825,
+        "end": 152.123
       },
       {
         "word": "it",
-        "start": 149.58,
-        "end": 149.68,
-        "spoken": true
+        "start": 152.123,
+        "end": 152.421
       },
       {
         "word": "falls",
-        "start": 149.69,
-        "end": 149.79,
+        "start": 152.421,
+        "end": 153.165,
         "spoken": true
       }
     ],
     "time": 148.7,
-    "end": 149.79
+    "end": 153.165
   },
   {
     "text": "Put down the gun because I'm getting a call",
-    "startTime": 153.661,
-    "endTime": 154.641,
+    "startTime": 153.66,
+    "endTime": 157.479,
     "words": [
       {
         "word": "Put",
         "start": 153.661,
-        "end": 153.761
+        "end": 153.988
       },
       {
         "word": "down",
-        "start": 153.771,
-        "end": 153.871
+        "start": 153.988,
+        "end": 154.425
       },
       {
         "word": "the",
-        "start": 153.881,
-        "end": 153.981
+        "start": 154.425,
+        "end": 154.752
       },
       {
         "word": "gun",
-        "start": 153.991,
-        "end": 154.091
+        "start": 154.752,
+        "end": 155.079
       },
       {
         "word": "because",
-        "start": 154.101,
-        "end": 154.201
+        "start": 155.079,
+        "end": 155.843,
+        "spoken": true
       },
       {
         "word": "I'm",
-        "start": 154.211,
-        "end": 154.311
+        "start": 155.843,
+        "end": 156.17,
+        "spoken": true
       },
       {
         "word": "getting",
-        "start": 154.321,
-        "end": 154.421
+        "start": 156.17,
+        "end": 156.933
       },
       {
         "word": "a",
-        "start": 154.431,
-        "end": 154.531
+        "start": 156.933,
+        "end": 157.042
       },
       {
         "word": "call",
-        "start": 154.541,
-        "end": 154.641
+        "start": 157.042,
+        "end": 157.479,
+        "spoken": true
       }
     ],
-    "time": 153.661,
-    "end": 154.641
+    "time": 153.66,
+    "end": 157.479
   },
   {
     "text": "What have I become? Why do I feel so small?",
-    "startTime": 157.903,
-    "endTime": 158.993,
+    "startTime": 157.9,
+    "endTime": 163.023,
     "words": [
       {
         "word": "What",
         "start": 157.903,
-        "end": 158.003,
+        "end": 158.505,
         "spoken": true
       },
       {
         "word": "have",
-        "start": 158.013,
-        "end": 158.113,
+        "start": 158.505,
+        "end": 159.108,
         "spoken": true
       },
       {
         "word": "I",
-        "start": 158.123,
-        "end": 158.223,
+        "start": 159.108,
+        "end": 159.258,
         "spoken": true
       },
       {
         "word": "become?",
-        "start": 158.233,
-        "end": 158.333,
+        "start": 159.258,
+        "end": 160.312,
         "spoken": true
       },
       {
         "word": "Why",
-        "start": 158.343,
-        "end": 158.443,
+        "start": 160.312,
+        "end": 160.764,
         "spoken": true
       },
       {
         "word": "do",
-        "start": 158.453,
-        "end": 158.553,
+        "start": 160.764,
+        "end": 161.065,
         "spoken": true
       },
       {
         "word": "I",
-        "start": 158.563,
-        "end": 158.663,
-        "spoken": true
+        "start": 161.065,
+        "end": 161.216
       },
       {
         "word": "feel",
-        "start": 158.673,
-        "end": 158.773,
+        "start": 161.216,
+        "end": 161.818,
         "spoken": true
       },
       {
         "word": "so",
-        "start": 158.783,
-        "end": 158.883,
+        "start": 161.818,
+        "end": 162.119,
         "spoken": true
       },
       {
         "word": "small?",
-        "start": 158.893,
-        "end": 158.993,
+        "start": 162.119,
+        "end": 163.023,
         "spoken": true
       }
     ],
-    "time": 157.903,
-    "end": 158.993
+    "time": 157.9,
+    "end": 163.023
   }
 ]

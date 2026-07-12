@@ -1,270 +1,1794 @@
 [
   {
-    "text": "Mj, mj, mj",
-    "startTime": 6.54,
-    "endTime": 11.54,
+    "text": "mj, mj, mj",
+    "startTime": 7.46,
+    "endTime": 11.44,
     "words": [
       {
-        "word": "Mj,",
-        "start": 6.89,
+        "word": "mj,",
+        "start": 7.81,
         "end": 8.86,
-        "stretch": true,
-        "whisper": true
+        "stretch": true
       },
       {
         "word": "mj,",
-        "start": 8.86,
-        "end": 9.66,
+        "start": 9.0,
+        "end": 9.64,
         "stretch": true
       },
       {
         "word": "mj",
-        "start": 9.66,
-        "end": 11.54,
+        "start": 9.64,
+        "end": 11.44,
         "stretch": true,
         "whisper": true
       }
     ],
-    "time": 6.54,
-    "end": 11.54
-  },
-  {
-    "text": "Why did I,",
-    "startTime": 16.26,
-    "endTime": 19.34,
-    "words": [
-      {
-        "word": "Why",
-        "start": 16.61,
-        "end": 17.66,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "did",
-        "start": 17.66,
-        "end": 18.36,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "I,",
-        "start": 18.36,
-        "end": 19.34,
-        "stretch": true,
-        "spoken": true
-      }
-    ],
-    "time": 16.26,
-    "end": 19.34
-  },
-  {
-    "text": "why did I",
-    "startTime": 19.34,
-    "endTime": 19.68,
-    "words": [
-      {
-        "word": "why",
-        "start": 19.34,
-        "end": 19.68,
-        "spoken": true
-      },
-      {
-        "word": "did",
-        "start": 19.68,
-        "end": 19.68
-      },
-      {
-        "word": "I",
-        "start": 19.68,
-        "end": 19.68
-      }
-    ],
-    "time": 19.34,
-    "end": 19.68
-  },
-  {
-    "text": "Fall in love with you",
-    "startTime": 19.68,
-    "endTime": 21.96,
-    "words": [
-      {
-        "word": "Fall",
-        "start": 19.68,
-        "end": 20.12,
-        "spoken": true
-      },
-      {
-        "word": "in",
-        "start": 20.12,
-        "end": 20.54,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "love",
-        "start": 20.54,
-        "end": 21.28,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "with",
-        "start": 21.28,
-        "end": 21.28
-      },
-      {
-        "word": "you",
-        "start": 21.28,
-        "end": 21.96,
-        "stretch": true
-      }
-    ],
-    "time": 19.68,
-    "end": 21.96
-  },
-  {
-    "text": "Love you",
-    "startTime": 21.96,
-    "endTime": 24.12,
-    "words": [
-      {
-        "word": "Love",
-        "start": 22.169,
-        "end": 22.72,
-        "stretch": true
-      },
-      {
-        "word": "you",
-        "start": 23.07,
-        "end": 24.12,
-        "stretch": true,
-        "spoken": true
-      }
-    ],
-    "time": 21.96,
-    "end": 24.12
-  },
-  {
-    "text": "Why did I,",
-    "startTime": 24.12,
-    "endTime": 26.74,
-    "words": [
-      {
-        "word": "Why",
-        "start": 24.47,
-        "end": 25.62,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "did",
-        "start": 25.62,
-        "end": 26.1,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "I,",
-        "start": 26.1,
-        "end": 26.74,
-        "stretch": true,
-        "sung": true
-      }
-    ],
-    "time": 24.12,
-    "end": 26.74
-  },
-  {
-    "text": "why did I",
-    "startTime": 27.58,
-    "endTime": 27.58,
-    "words": [
-      {
-        "word": "why",
-        "start": 27.58,
-        "end": 27.58
-      },
-      {
-        "word": "did",
-        "start": 27.58,
-        "end": 27.58
-      },
-      {
-        "word": "I",
-        "start": 27.58,
-        "end": 27.58
-      }
-    ],
-    "time": 27.58,
-    "end": 27.58
-  },
-  {
-    "text": "Fall in love with you",
-    "startTime": 27.58,
-    "endTime": 29.94,
-    "words": [
-      {
-        "word": "Fall",
-        "start": 27.93,
-        "end": 28.9,
-        "stretch": true
-      },
-      {
-        "word": "in",
-        "start": 28.9,
-        "end": 29.08
-      },
-      {
-        "word": "love",
-        "start": 29.173,
-        "end": 29.84,
-        "stretch": true
-      },
-      {
-        "word": "with",
-        "start": 29.84,
-        "end": 29.84
-      },
-      {
-        "word": "you",
-        "start": 29.84,
-        "end": 29.94
-      }
-    ],
-    "time": 27.58,
-    "end": 29.94
-  },
-  {
-    "text": "Love you",
-    "startTime": 29.94,
-    "endTime": 32.96,
-    "words": [
-      {
-        "word": "Love",
-        "start": 30.29,
-        "end": 31.84,
-        "stretch": true,
-        "sung": true
-      },
-      {
-        "word": "you",
-        "start": 32.165,
-        "end": 32.96,
-        "stretch": true,
-        "spoken": true
-      }
-    ],
-    "time": 29.94,
-    "end": 32.96
+    "time": 7.46,
+    "end": 11.44
   },
   {
     "text": "●",
-    "startTime": 33.26,
-    "endTime": 304.461,
+    "startTime": 11.74,
+    "endTime": 16.82,
     "words": [],
     "type": "vocal_cue",
-    "time": 33.26,
-    "end": 304.461
+    "time": 11.74,
+    "end": 16.82
+  },
+  {
+    "text": "why did i ever fall in love with you, why did i",
+    "startTime": 16.82,
+    "endTime": 26.72,
+    "words": [
+      {
+        "word": "why",
+        "start": 17.145,
+        "end": 17.9,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "did",
+        "start": 17.9,
+        "end": 18.12,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 18.12,
+        "end": 19.34,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ever",
+        "start": 19.34,
+        "end": 19.9,
+        "spoken": true
+      },
+      {
+        "word": "fall",
+        "start": 19.9,
+        "end": 20.22,
+        "spoken": true
+      },
+      {
+        "word": "in",
+        "start": 20.22,
+        "end": 20.58,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "love",
+        "start": 20.58,
+        "end": 21.02,
+        "spoken": true
+      },
+      {
+        "word": "with",
+        "start": 21.02,
+        "end": 21.18,
+        "spoken": true
+      },
+      {
+        "word": "you,",
+        "start": 21.18,
+        "end": 24.68,
+        "stretch": true
+      },
+      {
+        "word": "why",
+        "start": 25.58,
+        "end": 25.58
+      },
+      {
+        "word": "did",
+        "start": 25.58,
+        "end": 26.02,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 26.02,
+        "end": 26.72,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 16.82,
+    "end": 26.72
+  },
+  {
+    "text": "ever fall in love with you",
+    "startTime": 26.72,
+    "endTime": 37.7,
+    "words": [
+      {
+        "word": "ever",
+        "start": 27.07,
+        "end": 27.82,
+        "stretch": true
+      },
+      {
+        "word": "fall",
+        "start": 27.82,
+        "end": 28.16
+      },
+      {
+        "word": "in",
+        "start": 28.16,
+        "end": 28.68,
+        "stretch": true
+      },
+      {
+        "word": "love",
+        "start": 29.03,
+        "end": 29.4,
+        "stretch": true
+      },
+      {
+        "word": "with",
+        "start": 29.4,
+        "end": 29.42
+      },
+      {
+        "word": "you",
+        "start": 29.77,
+        "end": 37.7,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 26.72,
+    "end": 37.7
+  },
+  {
+    "text": "why did i ever fall in love with you, why did i",
+    "startTime": 37.7,
+    "endTime": 50.56,
+    "words": [
+      {
+        "word": "why",
+        "start": 38.05,
+        "end": 38.68,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "did",
+        "start": 38.68,
+        "end": 39.14,
+        "stretch": true
+      },
+      {
+        "word": "i",
+        "start": 39.356,
+        "end": 39.5,
+        "stretch": true
+      },
+      {
+        "word": "ever",
+        "start": 39.5,
+        "end": 43.6,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "fall",
+        "start": 43.95,
+        "end": 44.2,
+        "stretch": true
+      },
+      {
+        "word": "in",
+        "start": 44.2,
+        "end": 44.34
+      },
+      {
+        "word": "love",
+        "start": 44.34,
+        "end": 44.72
+      },
+      {
+        "word": "with",
+        "start": 44.72,
+        "end": 45.02
+      },
+      {
+        "word": "you,",
+        "start": 45.02,
+        "end": 45.58
+      },
+      {
+        "word": "why",
+        "start": 45.673,
+        "end": 46.62,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "did",
+        "start": 46.666,
+        "end": 47.2,
+        "stretch": true
+      },
+      {
+        "word": "i",
+        "start": 47.2,
+        "end": 50.56,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 37.7,
+    "end": 50.56
+  },
+  {
+    "text": "ever fall in love with you",
+    "startTime": 50.56,
+    "endTime": 55.16,
+    "words": [
+      {
+        "word": "ever",
+        "start": 50.91,
+        "end": 51.44,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "fall",
+        "start": 51.44,
+        "end": 51.98,
+        "spoken": true
+      },
+      {
+        "word": "in",
+        "start": 51.98,
+        "end": 52.46,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "love",
+        "start": 52.46,
+        "end": 52.9,
+        "spoken": true
+      },
+      {
+        "word": "with",
+        "start": 52.9,
+        "end": 53.06,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 53.176,
+        "end": 55.16,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 50.56,
+    "end": 55.16
+  },
+  {
+    "text": "i see the passion in your eyes, i see the passion in",
+    "startTime": 55.16,
+    "endTime": 60.28,
+    "words": [
+      {
+        "word": "i",
+        "start": 55.16,
+        "end": 55.52,
+        "stretch": true
+      },
+      {
+        "word": "see",
+        "start": 55.52,
+        "end": 55.98,
+        "stretch": true
+      },
+      {
+        "word": "the",
+        "start": 55.98,
+        "end": 56.36
+      },
+      {
+        "word": "passion",
+        "start": 56.36,
+        "end": 56.8,
+        "spoken": true
+      },
+      {
+        "word": "in",
+        "start": 56.8,
+        "end": 57.3,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "your",
+        "start": 57.3,
+        "end": 57.52,
+        "spoken": true
+      },
+      {
+        "word": "eyes,",
+        "start": 57.52,
+        "end": 58.12,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 58.47,
+        "end": 58.8,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "see",
+        "start": 58.8,
+        "end": 58.9,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 59.092,
+        "end": 59.22,
+        "spoken": true
+      },
+      {
+        "word": "passion",
+        "start": 59.22,
+        "end": 59.84,
+        "sung": true
+      },
+      {
+        "word": "in",
+        "start": 59.84,
+        "end": 60.28,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 55.16,
+    "end": 60.28
+  },
+  {
+    "text": "your eyes",
+    "startTime": 60.28,
+    "endTime": 61.02,
+    "words": [
+      {
+        "word": "your",
+        "start": 60.28,
+        "end": 60.64,
+        "spoken": true
+      },
+      {
+        "word": "eyes",
+        "start": 60.64,
+        "end": 61.02,
+        "spoken": true
+      }
+    ],
+    "time": 60.28,
+    "end": 61.02
+  },
+  {
+    "text": "i can't stand the truth, i can't stand the truth sometimes",
+    "startTime": 61.02,
+    "endTime": 65.44,
+    "words": [
+      {
+        "word": "i",
+        "start": 61.183,
+        "end": 61.66,
+        "stretch": true
+      },
+      {
+        "word": "can't",
+        "start": 61.66,
+        "end": 62.34,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "stand",
+        "start": 62.34,
+        "end": 62.68,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 62.68,
+        "end": 63.1,
+        "spoken": true
+      },
+      {
+        "word": "truth,",
+        "start": 63.146,
+        "end": 63.44,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 63.44,
+        "end": 63.72,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "can't",
+        "start": 64.07,
+        "end": 64.4,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "stand",
+        "start": 64.4,
+        "end": 64.58,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 64.58,
+        "end": 65.02,
+        "spoken": true
+      },
+      {
+        "word": "truth",
+        "start": 65.02,
+        "end": 65.02
+      },
+      {
+        "word": "sometimes",
+        "start": 65.02,
+        "end": 65.44,
+        "sung": true
+      }
+    ],
+    "time": 61.02,
+    "end": 65.44
+  },
+  {
+    "text": "why did i ever fall in love with you, why did i",
+    "startTime": 68.02,
+    "endTime": 73.76,
+    "words": [
+      {
+        "word": "why",
+        "start": 68.159,
+        "end": 68.86,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "did",
+        "start": 68.86,
+        "end": 69.44,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 69.79,
+        "end": 70.88,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ever",
+        "start": 70.88,
+        "end": 71.08
+      },
+      {
+        "word": "fall",
+        "start": 71.08,
+        "end": 71.34
+      },
+      {
+        "word": "in",
+        "start": 71.34,
+        "end": 71.34
+      },
+      {
+        "word": "love",
+        "start": 71.448,
+        "end": 71.52
+      },
+      {
+        "word": "with",
+        "start": 71.52,
+        "end": 71.98
+      },
+      {
+        "word": "you,",
+        "start": 71.98,
+        "end": 72.12
+      },
+      {
+        "word": "why",
+        "start": 72.19,
+        "end": 72.62,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "did",
+        "start": 72.97,
+        "end": 73.76,
+        "stretch": true
+      },
+      {
+        "word": "i",
+        "start": 73.76,
+        "end": 73.76
+      }
+    ],
+    "time": 68.02,
+    "end": 73.76
+  },
+  {
+    "text": "ever fall in love with you",
+    "startTime": 73.76,
+    "endTime": 75.44,
+    "words": [
+      {
+        "word": "ever",
+        "start": 73.806,
+        "end": 74.14,
+        "spoken": true
+      },
+      {
+        "word": "fall",
+        "start": 74.14,
+        "end": 74.14
+      },
+      {
+        "word": "in",
+        "start": 74.14,
+        "end": 74.54,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "love",
+        "start": 74.648,
+        "end": 74.72,
+        "spoken": true
+      },
+      {
+        "word": "with",
+        "start": 74.72,
+        "end": 75.02,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 75.02,
+        "end": 75.44
+      }
+    ],
+    "time": 73.76,
+    "end": 75.44
+  },
+  {
+    "text": "●",
+    "startTime": 75.74,
+    "endTime": 96.7,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 75.74,
+    "end": 96.7
+  },
+  {
+    "text": "why did i ever fall in love with you, why did i",
+    "startTime": 96.7,
+    "endTime": 100.18,
+    "words": [
+      {
+        "word": "why",
+        "start": 96.7,
+        "end": 97.46,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "did",
+        "start": 97.692,
+        "end": 97.88,
+        "sung": true
+      },
+      {
+        "word": "i",
+        "start": 97.88,
+        "end": 98.24,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "ever",
+        "start": 98.24,
+        "end": 98.64
+      },
+      {
+        "word": "fall",
+        "start": 98.64,
+        "end": 98.64
+      },
+      {
+        "word": "in",
+        "start": 98.686,
+        "end": 98.96,
+        "stretch": true
+      },
+      {
+        "word": "love",
+        "start": 98.96,
+        "end": 99.2
+      },
+      {
+        "word": "with",
+        "start": 99.2,
+        "end": 99.36
+      },
+      {
+        "word": "you,",
+        "start": 99.36,
+        "end": 99.76
+      },
+      {
+        "word": "why",
+        "start": 100.012,
+        "end": 100.18
+      },
+      {
+        "word": "did",
+        "start": 100.18,
+        "end": 100.18
+      },
+      {
+        "word": "i",
+        "start": 100.18,
+        "end": 100.18
+      }
+    ],
+    "time": 96.7,
+    "end": 100.18
+  },
+  {
+    "text": "ever fall in love with you",
+    "startTime": 100.18,
+    "endTime": 101.18,
+    "words": [
+      {
+        "word": "ever",
+        "start": 100.18,
+        "end": 100.18
+      },
+      {
+        "word": "fall",
+        "start": 100.18,
+        "end": 100.18
+      },
+      {
+        "word": "in",
+        "start": 100.18,
+        "end": 100.46,
+        "spoken": true
+      },
+      {
+        "word": "love",
+        "start": 100.46,
+        "end": 100.76,
+        "spoken": true
+      },
+      {
+        "word": "with",
+        "start": 100.76,
+        "end": 100.78
+      },
+      {
+        "word": "you",
+        "start": 100.78,
+        "end": 101.18
+      }
+    ],
+    "time": 100.18,
+    "end": 101.18
+  },
+  {
+    "text": "it must be the cocaine, it must be the sex baby",
+    "startTime": 101.18,
+    "endTime": 108.1,
+    "words": [
+      {
+        "word": "it",
+        "start": 101.18,
+        "end": 101.48,
+        "spoken": true
+      },
+      {
+        "word": "must",
+        "start": 101.636,
+        "end": 101.74,
+        "sung": true
+      },
+      {
+        "word": "be",
+        "start": 101.74,
+        "end": 102.02,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 102.02,
+        "end": 102.3
+      },
+      {
+        "word": "cocaine,",
+        "start": 102.416,
+        "end": 103.28,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 103.416,
+        "end": 105.32,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "must",
+        "start": 105.548,
+        "end": 105.7,
+        "spoken": true
+      },
+      {
+        "word": "be",
+        "start": 105.7,
+        "end": 106.0,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 106.0,
+        "end": 106.32,
+        "spoken": true
+      },
+      {
+        "word": "sex",
+        "start": 106.668,
+        "end": 107.12,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "baby",
+        "start": 107.19,
+        "end": 108.1,
+        "stretch": true
+      }
+    ],
+    "time": 101.18,
+    "end": 108.1
+  },
+  {
+    "text": "cuz i don't love you but i do maybe, i just don't",
+    "startTime": 108.1,
+    "endTime": 114.78,
+    "words": [
+      {
+        "word": "cuz",
+        "start": 108.146,
+        "end": 109.38,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 109.548,
+        "end": 109.66,
+        "stretch": true
+      },
+      {
+        "word": "don't",
+        "start": 109.66,
+        "end": 110.12
+      },
+      {
+        "word": "love",
+        "start": 110.445,
+        "end": 110.7,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 110.7,
+        "end": 111.16,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "but",
+        "start": 111.16,
+        "end": 111.46,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 111.46,
+        "end": 111.78,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "do",
+        "start": 111.78,
+        "end": 112.14,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "maybe,",
+        "start": 112.49,
+        "end": 113.26,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 113.26,
+        "end": 113.98,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "just",
+        "start": 113.98,
+        "end": 114.36,
+        "spoken": true
+      },
+      {
+        "word": "don't",
+        "start": 114.36,
+        "end": 114.78,
+        "spoken": true
+      }
+    ],
+    "time": 108.1,
+    "end": 114.78
+  },
+  {
+    "text": "know",
+    "startTime": 114.78,
+    "endTime": 115.5,
+    "words": [
+      {
+        "word": "know",
+        "start": 115.012,
+        "end": 115.5,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 114.78,
+    "end": 115.5
+  },
+  {
+    "text": "i'm a diamond, but you like that, and i got a lot",
+    "startTime": 115.5,
+    "endTime": 123.62,
+    "words": [
+      {
+        "word": "i'm",
+        "start": 115.709,
+        "end": 116.16,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 116.16,
+        "end": 116.44,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "diamond,",
+        "start": 116.44,
+        "end": 117.12,
+        "spoken": true
+      },
+      {
+        "word": "but",
+        "start": 117.2,
+        "end": 117.92,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 117.92,
+        "end": 118.2,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 118.2,
+        "end": 118.88,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "that,",
+        "start": 118.88,
+        "end": 119.3,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 119.37,
+        "end": 120.28,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "i",
+        "start": 120.63,
+        "end": 122.42,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "got",
+        "start": 122.42,
+        "end": 123.02,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "a",
+        "start": 123.02,
+        "end": 123.24,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "lot",
+        "start": 123.24,
+        "end": 123.62,
+        "spoken": true
+      }
+    ],
+    "time": 115.5,
+    "end": 123.62
+  },
+  {
+    "text": "of hoes",
+    "startTime": 123.62,
+    "endTime": 124.54,
+    "words": [
+      {
+        "word": "of",
+        "start": 123.62,
+        "end": 123.94,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "hoes",
+        "start": 123.94,
+        "end": 124.54,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 123.62,
+    "end": 124.54
+  },
+  {
+    "text": "but i only wanted you cuz i'm in love with you bitch",
+    "startTime": 124.54,
+    "endTime": 128.46,
+    "words": [
+      {
+        "word": "but",
+        "start": 124.54,
+        "end": 125.0,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 125.0,
+        "end": 125.34,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "only",
+        "start": 125.34,
+        "end": 125.46,
+        "spoken": true
+      },
+      {
+        "word": "wanted",
+        "start": 125.46,
+        "end": 126.1
+      },
+      {
+        "word": "you",
+        "start": 126.1,
+        "end": 126.46
+      },
+      {
+        "word": "cuz",
+        "start": 126.46,
+        "end": 126.74
+      },
+      {
+        "word": "i'm",
+        "start": 126.74,
+        "end": 127.08,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "in",
+        "start": 127.08,
+        "end": 127.16,
+        "spoken": true
+      },
+      {
+        "word": "love",
+        "start": 127.16,
+        "end": 127.38,
+        "spoken": true
+      },
+      {
+        "word": "with",
+        "start": 127.38,
+        "end": 127.7,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 127.7,
+        "end": 127.92,
+        "spoken": true
+      },
+      {
+        "word": "bitch",
+        "start": 128.175,
+        "end": 128.46,
+        "sung": true
+      }
+    ],
+    "time": 124.54,
+    "end": 128.46
+  },
+  {
+    "text": "i would love with you bitch, i would fuck with you bitch",
+    "startTime": 128.46,
+    "endTime": 132.42,
+    "words": [
+      {
+        "word": "i",
+        "start": 128.46,
+        "end": 128.9,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "would",
+        "start": 128.9,
+        "end": 129.22
+      },
+      {
+        "word": "love",
+        "start": 129.22,
+        "end": 129.42
+      },
+      {
+        "word": "with",
+        "start": 129.6,
+        "end": 129.72,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 129.72,
+        "end": 129.94,
+        "spoken": true
+      },
+      {
+        "word": "bitch,",
+        "start": 129.94,
+        "end": 130.52,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 130.76,
+        "end": 130.94,
+        "stretch": true
+      },
+      {
+        "word": "would",
+        "start": 130.94,
+        "end": 131.2
+      },
+      {
+        "word": "fuck",
+        "start": 131.2,
+        "end": 131.42
+      },
+      {
+        "word": "with",
+        "start": 131.42,
+        "end": 131.66
+      },
+      {
+        "word": "you",
+        "start": 131.66,
+        "end": 132.04
+      },
+      {
+        "word": "bitch",
+        "start": 132.156,
+        "end": 132.42,
+        "spoken": true
+      }
+    ],
+    "time": 128.46,
+    "end": 132.42
+  },
+  {
+    "text": "but i would love with you bitch, but i would fuck with",
+    "startTime": 132.42,
+    "endTime": 135.66,
+    "words": [
+      {
+        "word": "but",
+        "start": 132.42,
+        "end": 132.72
+      },
+      {
+        "word": "i",
+        "start": 132.72,
+        "end": 132.86
+      },
+      {
+        "word": "would",
+        "start": 132.86,
+        "end": 133.14
+      },
+      {
+        "word": "love",
+        "start": 133.14,
+        "end": 133.4
+      },
+      {
+        "word": "with",
+        "start": 133.592,
+        "end": 133.72,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 133.72,
+        "end": 134.06,
+        "spoken": true
+      },
+      {
+        "word": "bitch,",
+        "start": 134.06,
+        "end": 134.38,
+        "spoken": true
+      },
+      {
+        "word": "but",
+        "start": 134.604,
+        "end": 134.7,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 134.7,
+        "end": 134.96,
+        "stretch": true
+      },
+      {
+        "word": "would",
+        "start": 134.96,
+        "end": 135.14
+      },
+      {
+        "word": "fuck",
+        "start": 135.32,
+        "end": 135.44
+      },
+      {
+        "word": "with",
+        "start": 135.44,
+        "end": 135.66
+      }
+    ],
+    "time": 132.42,
+    "end": 135.66
+  },
+  {
+    "text": "you bitch",
+    "startTime": 135.66,
+    "endTime": 136.44,
+    "words": [
+      {
+        "word": "you",
+        "start": 135.66,
+        "end": 136.0
+      },
+      {
+        "word": "bitch",
+        "start": 136.186,
+        "end": 136.44,
+        "spoken": true
+      }
+    ],
+    "time": 135.66,
+    "end": 136.44
+  },
+  {
+    "text": "i would fuck with this bitch, but i would love with this",
+    "startTime": 136.44,
+    "endTime": 140.08,
+    "words": [
+      {
+        "word": "i",
+        "start": 136.44,
+        "end": 136.86,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "would",
+        "start": 136.86,
+        "end": 137.16,
+        "spoken": true
+      },
+      {
+        "word": "fuck",
+        "start": 137.16,
+        "end": 137.5,
+        "spoken": true
+      },
+      {
+        "word": "with",
+        "start": 137.632,
+        "end": 137.72,
+        "spoken": true
+      },
+      {
+        "word": "this",
+        "start": 137.72,
+        "end": 138.06,
+        "spoken": true
+      },
+      {
+        "word": "bitch,",
+        "start": 138.06,
+        "end": 138.4,
+        "spoken": true
+      },
+      {
+        "word": "but",
+        "start": 138.6,
+        "end": 138.8,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 138.8,
+        "end": 139.0,
+        "stretch": true
+      },
+      {
+        "word": "would",
+        "start": 139.0,
+        "end": 139.14
+      },
+      {
+        "word": "love",
+        "start": 139.14,
+        "end": 139.44
+      },
+      {
+        "word": "with",
+        "start": 139.44,
+        "end": 139.7
+      },
+      {
+        "word": "this",
+        "start": 139.7,
+        "end": 140.08
+      }
+    ],
+    "time": 136.44,
+    "end": 140.08
+  },
+  {
+    "text": "bitch",
+    "startTime": 140.08,
+    "endTime": 140.66,
+    "words": [
+      {
+        "word": "bitch",
+        "start": 140.15,
+        "end": 140.66,
+        "spoken": true
+      }
+    ],
+    "time": 140.08,
+    "end": 140.66
+  },
+  {
+    "text": "yeah that makes sense, that makes sense",
+    "startTime": 140.66,
+    "endTime": 144.72,
+    "words": [
+      {
+        "word": "yeah",
+        "start": 140.66,
+        "end": 141.2
+      },
+      {
+        "word": "that",
+        "start": 141.2,
+        "end": 141.54
+      },
+      {
+        "word": "makes",
+        "start": 141.679,
+        "end": 142.16,
+        "spoken": true
+      },
+      {
+        "word": "sense,",
+        "start": 142.436,
+        "end": 142.62
+      },
+      {
+        "word": "that",
+        "start": 142.666,
+        "end": 143.32,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "makes",
+        "start": 143.436,
+        "end": 144.1,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "sense",
+        "start": 144.17,
+        "end": 144.72,
+        "spoken": true
+      }
+    ],
+    "time": 140.66,
+    "end": 144.72
+  },
+  {
+    "text": "i don't know,",
+    "startTime": 144.72,
+    "endTime": 145.68,
+    "words": [
+      {
+        "word": "i",
+        "start": 144.72,
+        "end": 145.34,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "don't",
+        "start": 145.34,
+        "end": 145.34
+      },
+      {
+        "word": "know,",
+        "start": 145.544,
+        "end": 145.68,
+        "spoken": true
+      }
+    ],
+    "time": 144.72,
+    "end": 145.68
+  },
+  {
+    "text": "i don't know",
+    "startTime": 145.68,
+    "endTime": 146.9,
+    "words": [
+      {
+        "word": "i",
+        "start": 145.68,
+        "end": 146.16,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "don't",
+        "start": 146.16,
+        "end": 146.46
+      },
+      {
+        "word": "know",
+        "start": 146.669,
+        "end": 146.9
+      }
+    ],
+    "time": 145.68,
+    "end": 146.9
+  },
+  {
+    "text": "but i got a lot of girls, yeah i know i got",
+    "startTime": 147.56,
+    "endTime": 151.14,
+    "words": [
+      {
+        "word": "but",
+        "start": 147.91,
+        "end": 148.18,
+        "stretch": true
+      },
+      {
+        "word": "i",
+        "start": 148.18,
+        "end": 148.46,
+        "stretch": true
+      },
+      {
+        "word": "got",
+        "start": 148.46,
+        "end": 148.88
+      },
+      {
+        "word": "a",
+        "start": 148.88,
+        "end": 148.92
+      },
+      {
+        "word": "lot",
+        "start": 148.92,
+        "end": 149.22
+      },
+      {
+        "word": "of",
+        "start": 149.22,
+        "end": 149.34
+      },
+      {
+        "word": "girls,",
+        "start": 149.34,
+        "end": 149.6
+      },
+      {
+        "word": "yeah",
+        "start": 149.693,
+        "end": 150.18
+      },
+      {
+        "word": "i",
+        "start": 150.18,
+        "end": 150.18
+      },
+      {
+        "word": "know",
+        "start": 150.432,
+        "end": 150.6,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 150.716,
+        "end": 150.92,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "got",
+        "start": 150.92,
+        "end": 151.14
+      }
+    ],
+    "time": 147.56,
+    "end": 151.14
+  },
+  {
+    "text": "a lot of hoes too",
+    "startTime": 151.14,
+    "endTime": 152.78,
+    "words": [
+      {
+        "word": "a",
+        "start": 151.416,
+        "end": 151.6,
+        "stretch": true
+      },
+      {
+        "word": "lot",
+        "start": 151.6,
+        "end": 151.62
+      },
+      {
+        "word": "of",
+        "start": 151.968,
+        "end": 152.2,
+        "stretch": true
+      },
+      {
+        "word": "hoes",
+        "start": 152.2,
+        "end": 152.34,
+        "spoken": true
+      },
+      {
+        "word": "too",
+        "start": 152.34,
+        "end": 152.78,
+        "spoken": true
+      }
+    ],
+    "time": 151.14,
+    "end": 152.78
+  },
+  {
+    "text": "so i go without you, yeah i go without you",
+    "startTime": 153.36,
+    "endTime": 158.22,
+    "words": [
+      {
+        "word": "so",
+        "start": 153.662,
+        "end": 154.0,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 154.0,
+        "end": 154.34,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "go",
+        "start": 154.52,
+        "end": 154.64,
+        "spoken": true
+      },
+      {
+        "word": "without",
+        "start": 154.64,
+        "end": 155.14,
+        "spoken": true
+      },
+      {
+        "word": "you,",
+        "start": 155.14,
+        "end": 155.56
+      },
+      {
+        "word": "yeah",
+        "start": 155.95,
+        "end": 156.62,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 156.62,
+        "end": 157.06,
+        "stretch": true
+      },
+      {
+        "word": "go",
+        "start": 157.06,
+        "end": 157.18
+      },
+      {
+        "word": "without",
+        "start": 157.468,
+        "end": 157.66
+      },
+      {
+        "word": "you",
+        "start": 157.66,
+        "end": 158.22,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 153.36,
+    "end": 158.22
+  },
+  {
+    "text": "i go without you",
+    "startTime": 158.22,
+    "endTime": 160.2,
+    "words": [
+      {
+        "word": "i",
+        "start": 158.406,
+        "end": 158.66,
+        "stretch": true
+      },
+      {
+        "word": "go",
+        "start": 158.66,
+        "end": 159.1,
+        "stretch": true
+      },
+      {
+        "word": "without",
+        "start": 159.1,
+        "end": 159.64,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 159.686,
+        "end": 160.2,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 158.22,
+    "end": 160.2
+  },
+  {
+    "text": "●",
+    "startTime": 160.5,
+    "endTime": 198.2,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 160.5,
+    "end": 198.2
+  },
+  {
+    "text": "i go without you",
+    "startTime": 198.2,
+    "endTime": 200.58,
+    "words": [
+      {
+        "word": "i",
+        "start": 198.27,
+        "end": 199.0,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "go",
+        "start": 199.139,
+        "end": 199.8,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "without",
+        "start": 200.15,
+        "end": 200.56
+      },
+      {
+        "word": "you",
+        "start": 200.56,
+        "end": 200.58
+      }
+    ],
+    "time": 198.2,
+    "end": 200.58
+  },
+  {
+    "text": "i go without you",
+    "startTime": 200.66,
+    "endTime": 230.44,
+    "words": [
+      {
+        "word": "i",
+        "start": 201.01,
+        "end": 201.26,
+        "stretch": true
+      },
+      {
+        "word": "go",
+        "start": 201.61,
+        "end": 230.28,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "without",
+        "start": 230.28,
+        "end": 230.28
+      },
+      {
+        "word": "you",
+        "start": 230.28,
+        "end": 230.44,
+        "spoken": true
+      }
+    ],
+    "time": 200.66,
+    "end": 230.44
+  },
+  {
+    "text": "●",
+    "startTime": 230.74,
+    "endTime": 238.3,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 230.74,
+    "end": 238.3
+  },
+  {
+    "text": "MJNichols .net",
+    "startTime": 238.3,
+    "endTime": 241.1,
+    "words": [
+      {
+        "word": "MJNichols",
+        "start": 238.65,
+        "end": 239.7,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": ".net",
+        "start": 240.05,
+        "end": 241.1,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 238.3,
+    "end": 241.1
+  },
+  {
+    "text": "●",
+    "startTime": 241.4,
+    "endTime": 297.46,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 241.4,
+    "end": 297.46
   }
 ]

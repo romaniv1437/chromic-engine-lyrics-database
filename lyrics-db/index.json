@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T06:49:48.662746+00:00",
+  "generatedAt": "2026-07-12T06:52:19.709050+00:00",
   "totalTracks": 824,
   "roots": [
     "lyrics-db/tracks"
@@ -11470,20 +11470,6 @@
       "sourcePath": "https://soundcloud.com/hans-d-breivik/lil-peep-well-be-fine-extended",
       "mtimeMs": 1783778096067
     },
-    "jeamus::lil peep - around the world": {
-      "title": "Lil Peep - Around The World",
-      "artist": "Jeamus",
-      "originalTrackName": "Jeamus - Lil Peep - Around The World",
-      "source": "whisper_only",
-      "file": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
-      "files": {
-        "lyrics": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
-        "meta": "tracks/jeamus-lil-peep-around-the-world-388a70918288.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/jeamus/lil-peep-around-the-world",
-      "mtimeMs": 1783780347593
-    },
     "lilpeep_raresong::lil peep - girls open verse og": {
       "title": "Lil Peep - Girls Open Verse OG",
       "artist": "lilpeep_raresong",
@@ -11581,6 +11567,20 @@
       },
       "sourcePath": "https://soundcloud.com/pot-smokers/ganja-gun",
       "mtimeMs": 1783838990091
+    },
+    "jeamus::lil peep - around the world": {
+      "title": "Lil Peep - Around The World",
+      "artist": "Jeamus",
+      "originalTrackName": "Jeamus - Lil Peep - Around The World",
+      "source": "whisper_only",
+      "file": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
+      "files": {
+        "lyrics": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
+        "meta": "tracks/jeamus-lil-peep-around-the-world-388a70918288.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/jeamus/lil-peep-around-the-world",
+      "mtimeMs": 1783839143529
     }
   },
   "tracks": [
@@ -23069,20 +23069,6 @@
       "mtimeMs": 1783778096067
     },
     {
-      "title": "Lil Peep - Around The World",
-      "artist": "Jeamus",
-      "originalTrackName": "Jeamus - Lil Peep - Around The World",
-      "source": "whisper_only",
-      "file": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
-      "files": {
-        "lyrics": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
-        "meta": "tracks/jeamus-lil-peep-around-the-world-388a70918288.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/jeamus/lil-peep-around-the-world",
-      "mtimeMs": 1783780347593
-    },
-    {
       "title": "Lil Peep - Girls Open Verse OG",
       "artist": "lilpeep_raresong",
       "originalTrackName": "lilpeep_raresong - Lil Peep - Girls Open Verse OG",
@@ -23179,6 +23165,20 @@
       },
       "sourcePath": "https://soundcloud.com/pot-smokers/ganja-gun",
       "mtimeMs": 1783838990091
+    },
+    {
+      "title": "Lil Peep - Around The World",
+      "artist": "Jeamus",
+      "originalTrackName": "Jeamus - Lil Peep - Around The World",
+      "source": "whisper_only",
+      "file": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
+      "files": {
+        "lyrics": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
+        "meta": "tracks/jeamus-lil-peep-around-the-world-388a70918288.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/jeamus/lil-peep-around-the-world",
+      "mtimeMs": 1783839143529
     }
   ]
 }

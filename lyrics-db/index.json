@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T20:36:58.446068+00:00",
-  "totalTracks": 837,
+  "generatedAt": "2026-07-12T20:42:04.175539+00:00",
+  "totalTracks": 838,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11763,6 +11763,20 @@
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/ne-ostavlyaut-palcev-prod-by",
       "mtimeMs": 1783888619163
+    },
+    "kizaru::не оставляют пальцев": {
+      "title": "Не оставляют пальцев",
+      "artist": "kizaru",
+      "originalTrackName": "kizaru - Не оставляют пальцев",
+      "source": "whisper_only",
+      "file": "tracks/kizaru-b45f3a8ec872.json",
+      "files": {
+        "lyrics": "tracks/kizaru-b45f3a8ec872.json",
+        "meta": "tracks/kizaru-b45f3a8ec872.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/ne-ostavlyaut-palcev-prod-by",
+      "mtimeMs": 1783888933293
     }
   },
   "tracks": [
@@ -23543,6 +23557,20 @@
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/ne-ostavlyaut-palcev-prod-by",
       "mtimeMs": 1783888619163
+    },
+    {
+      "title": "Не оставляют пальцев",
+      "artist": "kizaru",
+      "originalTrackName": "kizaru - Не оставляют пальцев",
+      "source": "whisper_only",
+      "file": "tracks/kizaru-b45f3a8ec872.json",
+      "files": {
+        "lyrics": "tracks/kizaru-b45f3a8ec872.json",
+        "meta": "tracks/kizaru-b45f3a8ec872.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/ne-ostavlyaut-palcev-prod-by",
+      "mtimeMs": 1783888933293
     }
   ]
 }

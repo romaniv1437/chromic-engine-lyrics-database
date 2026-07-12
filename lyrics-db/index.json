@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T07:33:42.000438+00:00",
-  "totalTracks": 830,
+  "generatedAt": "2026-07-12T07:33:42.148338+00:00",
+  "totalTracks": 831,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11664,7 +11664,21 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-tixbeats-hip-hop-estet",
-      "mtimeMs": 1783841623183
+      "mtimeMs": 1783841616867
+    },
+    "kizaru::3.yvn kxx - bez pencii": {
+      "title": "3.YVN KXX - Bez Pencii",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - 3.YVN KXX - Bez Pencii",
+      "source": "whisper_only",
+      "file": "tracks/kizaru-3-yvn-kxx-bez-pencii-aeb6343a17f6.json",
+      "files": {
+        "lyrics": "tracks/kizaru-3-yvn-kxx-bez-pencii-aeb6343a17f6.json",
+        "meta": "tracks/kizaru-3-yvn-kxx-bez-pencii-aeb6343a17f6.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/3-yvn-kee-bez-pencii",
+      "mtimeMs": 1783841623362
     }
   },
   "tracks": [
@@ -23346,7 +23360,21 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-tixbeats-hip-hop-estet",
-      "mtimeMs": 1783841623183
+      "mtimeMs": 1783841616867
+    },
+    {
+      "title": "3.YVN KXX - Bez Pencii",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - 3.YVN KXX - Bez Pencii",
+      "source": "whisper_only",
+      "file": "tracks/kizaru-3-yvn-kxx-bez-pencii-aeb6343a17f6.json",
+      "files": {
+        "lyrics": "tracks/kizaru-3-yvn-kxx-bez-pencii-aeb6343a17f6.json",
+        "meta": "tracks/kizaru-3-yvn-kxx-bez-pencii-aeb6343a17f6.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/3-yvn-kee-bez-pencii",
+      "mtimeMs": 1783841623362
     }
   ]
 }

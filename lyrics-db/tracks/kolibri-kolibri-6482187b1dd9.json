@@ -1,0 +1,73 @@
+[
+  {
+    "text": "Я с тобой",
+    "startTime": 2.59,
+    "endTime": 11.06,
+    "words": [
+      {
+        "word": "Я",
+        "start": 2.776,
+        "end": 3.99,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "с",
+        "start": 5.743,
+        "end": 7.05,
+        "stretch": true
+      },
+      {
+        "word": "тобой",
+        "start": 10.48,
+        "end": 11.06,
+        "spoken": true
+      }
+    ],
+    "time": 2.59,
+    "end": 11.06
+  },
+  {
+    "text": "●",
+    "startTime": 11.36,
+    "endTime": 95.01,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 11.36,
+    "end": 95.01
+  },
+  {
+    "text": "Я с тобой",
+    "startTime": 95.01,
+    "endTime": 95.53,
+    "words": [
+      {
+        "word": "Я",
+        "start": 95.01,
+        "end": 95.01
+      },
+      {
+        "word": "с",
+        "start": 95.01,
+        "end": 95.01
+      },
+      {
+        "word": "тобой",
+        "start": 95.312,
+        "end": 95.53,
+        "spoken": true
+      }
+    ],
+    "time": 95.01,
+    "end": 95.53
+  },
+  {
+    "text": "●",
+    "startTime": 95.83,
+    "endTime": 145.706,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 95.83,
+    "end": 145.706
+  }
+]

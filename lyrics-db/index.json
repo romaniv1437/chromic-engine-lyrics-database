@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T07:32:53.040879+00:00",
+  "generatedAt": "2026-07-12T07:32:59.125980+00:00",
   "totalTracks": 827,
   "roots": [
     "lyrics-db/tracks"
@@ -11596,20 +11596,6 @@
       "sourcePath": "https://soundcloud.com/vlad-sh-766435597/kizaru-1",
       "mtimeMs": 1783841198705
     },
-    "kizaru::ne ostavlyaut pal'cev [prod.by sipe & gardibeat]": {
-      "title": "Ne Ostavlyaut Pal'cev [prod.by SIPe & GarDibeat]",
-      "artist": "KIZARU",
-      "originalTrackName": "KIZARU - Ne Ostavlyaut Pal'cev [prod.by SIPe & GarDibeat]",
-      "source": "whisper_only",
-      "file": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.json",
-      "files": {
-        "lyrics": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.json",
-        "meta": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/ne-ostavlyaut-palcev-prod-by",
-      "mtimeMs": 1783841570865
-    },
     "hlgrm::kizaru  - blunt bumerang": {
       "title": "KIZARU  - BLUNT BUMERANG",
       "artist": "hlgrm",
@@ -11623,6 +11609,20 @@
       },
       "sourcePath": "https://soundcloud.com/godlikecat/kizaru-blunt-bumerang",
       "mtimeMs": 1783841575459
+    },
+    "kizaru::ne ostavlyaut pal'cev [prod.by sipe & gardibeat]": {
+      "title": "Ne Ostavlyaut Pal'cev [prod.by SIPe & GarDibeat]",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - Ne Ostavlyaut Pal'cev [prod.by SIPe & GarDibeat]",
+      "source": "whisper_only",
+      "file": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.json",
+      "files": {
+        "lyrics": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.json",
+        "meta": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/ne-ostavlyaut-palcev-prod-by",
+      "mtimeMs": 1783841580531
     }
   },
   "tracks": [
@@ -23237,20 +23237,6 @@
       "mtimeMs": 1783841198705
     },
     {
-      "title": "Ne Ostavlyaut Pal'cev [prod.by SIPe & GarDibeat]",
-      "artist": "KIZARU",
-      "originalTrackName": "KIZARU - Ne Ostavlyaut Pal'cev [prod.by SIPe & GarDibeat]",
-      "source": "whisper_only",
-      "file": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.json",
-      "files": {
-        "lyrics": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.json",
-        "meta": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/ne-ostavlyaut-palcev-prod-by",
-      "mtimeMs": 1783841570865
-    },
-    {
       "title": "KIZARU  - BLUNT BUMERANG",
       "artist": "hlgrm",
       "originalTrackName": "hlgrm - KIZARU  - BLUNT BUMERANG",
@@ -23263,6 +23249,20 @@
       },
       "sourcePath": "https://soundcloud.com/godlikecat/kizaru-blunt-bumerang",
       "mtimeMs": 1783841575459
+    },
+    {
+      "title": "Ne Ostavlyaut Pal'cev [prod.by SIPe & GarDibeat]",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - Ne Ostavlyaut Pal'cev [prod.by SIPe & GarDibeat]",
+      "source": "whisper_only",
+      "file": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.json",
+      "files": {
+        "lyrics": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.json",
+        "meta": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/ne-ostavlyaut-palcev-prod-by",
+      "mtimeMs": 1783841580531
     }
   ]
 }

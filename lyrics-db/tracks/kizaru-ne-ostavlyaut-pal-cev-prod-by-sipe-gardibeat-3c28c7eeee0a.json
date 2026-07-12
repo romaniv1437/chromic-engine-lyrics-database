@@ -1,12 +1,12 @@
 [
   {
     "text": "Пацаны районе сна",
-    "startTime": 0.0,
+    "startTime": 0,
     "endTime": 2.52,
     "words": [
       {
         "word": "Пацаны",
-        "start": 0.0,
+        "start": 0,
         "end": 0.88,
         "stretch": true,
         "whisper": true
@@ -25,7 +25,7 @@
         "whisper": true
       }
     ],
-    "time": 0.0,
+    "time": 0,
     "end": 2.52
   },
   {
@@ -128,12 +128,12 @@
       {
         "word": "Это",
         "start": 11.3,
-        "end": 13.0,
+        "end": 13,
         "stretch": true
       },
       {
         "word": "террорайс",
-        "start": 13.0,
+        "start": 13,
         "end": 14.1,
         "stretch": true
       }
@@ -333,12 +333,12 @@
       {
         "word": "Сука",
         "start": 75.68,
-        "end": 76.0,
+        "end": 76,
         "spoken": true
       },
       {
         "word": "террорист",
-        "start": 76.0,
+        "start": 76,
         "end": 76.56,
         "spoken": true
       },
@@ -715,12 +715,12 @@
       {
         "word": "оставляют",
         "start": 93.6,
-        "end": 94.0,
+        "end": 94,
         "spoken": true
       },
       {
         "word": "пальцы",
-        "start": 94.0,
+        "start": 94,
         "end": 94.34
       }
     ],
@@ -811,7 +811,7 @@
       {
         "word": "серых",
         "start": 97.68,
-        "end": 98.0,
+        "end": 98,
         "spoken": true
       },
       {

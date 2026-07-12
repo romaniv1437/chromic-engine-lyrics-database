@@ -420,12 +420,12 @@
       {
         "word": "Просто",
         "start": 86.52,
-        "end": 87.0,
+        "end": 87,
         "spoken": true
       },
       {
         "word": "я",
-        "start": 87.0,
+        "start": 87,
         "end": 87.4,
         "stretch": true,
         "spoken": true
@@ -750,11 +750,11 @@
       {
         "word": "лучше",
         "start": 110.64,
-        "end": 111.0
+        "end": 111
       },
       {
         "word": "прыгай",
-        "start": 111.0,
+        "start": 111,
         "end": 111.66,
         "spoken": true
       },
@@ -992,7 +992,7 @@
   {
     "text": "Серый облачный день, сквозь него крадётся солнечный змей",
     "startTime": 130.62,
-    "endTime": 135.0,
+    "endTime": 135,
     "words": [
       {
         "word": "Серый",
@@ -1037,21 +1037,21 @@
       {
         "word": "змей",
         "start": 134.62,
-        "end": 135.0,
+        "end": 135,
         "spoken": true
       }
     ],
     "time": 130.62,
-    "end": 135.0
+    "end": 135
   },
   {
     "text": "Город словно музей, тут нужно уметь",
-    "startTime": 135.0,
+    "startTime": 135,
     "endTime": 138.24,
     "words": [
       {
         "word": "Город",
-        "start": 135.0,
+        "start": 135,
         "end": 135.62,
         "spoken": true
       },
@@ -1085,7 +1085,7 @@
         "spoken": true
       }
     ],
-    "time": 135.0,
+    "time": 135,
     "end": 138.24
   },
   {
@@ -1578,11 +1578,11 @@
       {
         "word": "просто",
         "start": 206.5,
-        "end": 207.0
+        "end": 207
       },
       {
         "word": "я",
-        "start": 207.0,
+        "start": 207,
         "end": 207.32,
         "stretch": true
       },

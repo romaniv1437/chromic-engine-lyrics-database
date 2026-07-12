@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T18:42:00.142863+00:00",
+  "generatedAt": "2026-07-12T18:59:18.602804+00:00",
   "totalTracks": 837,
   "roots": [
     "lyrics-db/tracks"
@@ -11736,20 +11736,6 @@
       "sourcePath": "https://soundcloud.com/9trfoxgdaqlu/kolibri-lito-koloru-moxito",
       "mtimeMs": 1783870384905
     },
-    "lil peep::runninoutoftime (r.o.o.t) (ft. p2goldma$k)": {
-      "title": "RunninOutOfTime (R.O.O.T) (ft. P2GOLDMA$K)",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - RunninOutOfTime (R.O.O.T) (ft. P2GOLDMA$K)",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-runninoutoftime-r-o-o-t-ft-p2goldma-k-aa752efc73c9.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-runninoutoftime-r-o-o-t-ft-p2goldma-k-aa752efc73c9.json",
-        "meta": "tracks/lil-peep-runninoutoftime-r-o-o-t-ft-p2goldma-k-aa752efc73c9.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/harry-berrisford/runninoutoftime-r-o-o-t-ft",
-      "mtimeMs": 1783881620610
-    },
     "boy froot::boy froot x lil peep - the day i finally do it [prod. paulie]": {
       "title": "BOY FROOT X LIL PEEP - THE DAY I FINALLY DO IT [prod. PAULIE]",
       "artist": "BOY FROOT",
@@ -11763,6 +11749,20 @@
       },
       "sourcePath": "https://soundcloud.com/boyfroot/the-day-i-finally-do-it-prod-paulie",
       "mtimeMs": 1783881725895
+    },
+    "lil peep::runninoutoftime (r.o.o.t) (ft. p2goldma$k)": {
+      "title": "RunninOutOfTime (R.O.O.T) (ft. P2GOLDMA$K)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - RunninOutOfTime (R.O.O.T) (ft. P2GOLDMA$K)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-runninoutoftime-r-o-o-t-ft-p2goldma-k-aa752efc73c9.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-runninoutoftime-r-o-o-t-ft-p2goldma-k-aa752efc73c9.json",
+        "meta": "tracks/lil-peep-runninoutoftime-r-o-o-t-ft-p2goldma-k-aa752efc73c9.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/harry-berrisford/runninoutoftime-r-o-o-t-ft",
+      "mtimeMs": 1783882760449
     }
   },
   "tracks": [
@@ -23517,20 +23517,6 @@
       "mtimeMs": 1783870384905
     },
     {
-      "title": "RunninOutOfTime (R.O.O.T) (ft. P2GOLDMA$K)",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - RunninOutOfTime (R.O.O.T) (ft. P2GOLDMA$K)",
-      "source": "syncedlyrics",
-      "file": "tracks/lil-peep-runninoutoftime-r-o-o-t-ft-p2goldma-k-aa752efc73c9.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-runninoutoftime-r-o-o-t-ft-p2goldma-k-aa752efc73c9.json",
-        "meta": "tracks/lil-peep-runninoutoftime-r-o-o-t-ft-p2goldma-k-aa752efc73c9.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/harry-berrisford/runninoutoftime-r-o-o-t-ft",
-      "mtimeMs": 1783881620610
-    },
-    {
       "title": "BOY FROOT X LIL PEEP - THE DAY I FINALLY DO IT [prod. PAULIE]",
       "artist": "BOY FROOT",
       "originalTrackName": "BOY FROOT - BOY FROOT X LIL PEEP - THE DAY I FINALLY DO IT [prod. PAULIE]",
@@ -23543,6 +23529,20 @@
       },
       "sourcePath": "https://soundcloud.com/boyfroot/the-day-i-finally-do-it-prod-paulie",
       "mtimeMs": 1783881725895
+    },
+    {
+      "title": "RunninOutOfTime (R.O.O.T) (ft. P2GOLDMA$K)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - RunninOutOfTime (R.O.O.T) (ft. P2GOLDMA$K)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-runninoutoftime-r-o-o-t-ft-p2goldma-k-aa752efc73c9.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-runninoutoftime-r-o-o-t-ft-p2goldma-k-aa752efc73c9.json",
+        "meta": "tracks/lil-peep-runninoutoftime-r-o-o-t-ft-p2goldma-k-aa752efc73c9.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/harry-berrisford/runninoutoftime-r-o-o-t-ft",
+      "mtimeMs": 1783882760449
     }
   ]
 }

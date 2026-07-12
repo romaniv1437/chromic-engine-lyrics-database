@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T06:30:09.527241+00:00",
+  "generatedAt": "2026-07-12T06:31:44.657647+00:00",
   "totalTracks": 824,
   "roots": [
     "lyrics-db/tracks"
@@ -11526,20 +11526,6 @@
       "sourcePath": "https://soundcloud.com/youtheorganization/lil-peep-thinking-about-u-without-feature-extended",
       "mtimeMs": 1783807359612
     },
-    "artem kravchenko 3::децл - лигалайз ганджа": {
-      "title": "Децл - Лигалайз Ганджа",
-      "artist": "Artem Kravchenko 3",
-      "originalTrackName": "Artem Kravchenko 3 - Децл - Лигалайз Ганджа",
-      "source": "whisper_only",
-      "file": "tracks/artem-kravchenko-3-71851aee1679.json",
-      "files": {
-        "lyrics": "tracks/artem-kravchenko-3-71851aee1679.json",
-        "meta": "tracks/artem-kravchenko-3-71851aee1679.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/artem-kravchenko-3/d4shvyobfaca/s-t8xoU",
-      "mtimeMs": 1783808057502
-    },
     "kizaru::kizaru x geekey- zabudem pro nih": {
       "title": "KIZARU x GEEKEY- ZABUDEM PRO NIH",
       "artist": "KIZARU",
@@ -11581,6 +11567,20 @@
       },
       "sourcePath": "https://soundcloud.com/pot-smokers/ganja-gun",
       "mtimeMs": 1783837813215
+    },
+    "artem kravchenko 3::децл - лигалайз ганджа": {
+      "title": "Децл - Лигалайз Ганджа",
+      "artist": "Artem Kravchenko 3",
+      "originalTrackName": "Artem Kravchenko 3 - Децл - Лигалайз Ганджа",
+      "source": "whisper_only",
+      "file": "tracks/artem-kravchenko-3-71851aee1679.json",
+      "files": {
+        "lyrics": "tracks/artem-kravchenko-3-71851aee1679.json",
+        "meta": "tracks/artem-kravchenko-3-71851aee1679.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/artem-kravchenko-3/d4shvyobfaca/s-t8xoU",
+      "mtimeMs": 1783837905435
     }
   },
   "tracks": [
@@ -23125,20 +23125,6 @@
       "mtimeMs": 1783807359612
     },
     {
-      "title": "Децл - Лигалайз Ганджа",
-      "artist": "Artem Kravchenko 3",
-      "originalTrackName": "Artem Kravchenko 3 - Децл - Лигалайз Ганджа",
-      "source": "whisper_only",
-      "file": "tracks/artem-kravchenko-3-71851aee1679.json",
-      "files": {
-        "lyrics": "tracks/artem-kravchenko-3-71851aee1679.json",
-        "meta": "tracks/artem-kravchenko-3-71851aee1679.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/artem-kravchenko-3/d4shvyobfaca/s-t8xoU",
-      "mtimeMs": 1783808057502
-    },
-    {
       "title": "KIZARU x GEEKEY- ZABUDEM PRO NIH",
       "artist": "KIZARU",
       "originalTrackName": "KIZARU - KIZARU x GEEKEY- ZABUDEM PRO NIH",
@@ -23179,6 +23165,20 @@
       },
       "sourcePath": "https://soundcloud.com/pot-smokers/ganja-gun",
       "mtimeMs": 1783837813215
+    },
+    {
+      "title": "Децл - Лигалайз Ганджа",
+      "artist": "Artem Kravchenko 3",
+      "originalTrackName": "Artem Kravchenko 3 - Децл - Лигалайз Ганджа",
+      "source": "whisper_only",
+      "file": "tracks/artem-kravchenko-3-71851aee1679.json",
+      "files": {
+        "lyrics": "tracks/artem-kravchenko-3-71851aee1679.json",
+        "meta": "tracks/artem-kravchenko-3-71851aee1679.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/artem-kravchenko-3/d4shvyobfaca/s-t8xoU",
+      "mtimeMs": 1783837905435
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T07:07:09.709427+00:00",
+  "generatedAt": "2026-07-12T07:08:53.164696+00:00",
   "totalTracks": 824,
   "roots": [
     "lyrics-db/tracks"
@@ -11540,20 +11540,6 @@
       "sourcePath": "https://soundcloud.com/pot-smokers/ganja-gun",
       "mtimeMs": 1783838990091
     },
-    "jeamus::lil peep - around the world": {
-      "title": "Lil Peep - Around The World",
-      "artist": "Jeamus",
-      "originalTrackName": "Jeamus - Lil Peep - Around The World",
-      "source": "whisper_only",
-      "file": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
-      "files": {
-        "lyrics": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
-        "meta": "tracks/jeamus-lil-peep-around-the-world-388a70918288.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/jeamus/lil-peep-around-the-world",
-      "mtimeMs": 1783839143529
-    },
     "lil peep::lil peep & neeks - mo murda (only peep, extended)": {
       "title": "Lil Peep & Neeks - Mo Murda (Only Peep, Extended)",
       "artist": "Lil Peep",
@@ -11581,6 +11567,20 @@
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-geekey-zabudem-pro-nih-1",
       "mtimeMs": 1783840032135
+    },
+    "jeamus::lil peep - around the world": {
+      "title": "Lil Peep - Around The World",
+      "artist": "Jeamus",
+      "originalTrackName": "Jeamus - Lil Peep - Around The World",
+      "source": "genius_explicit",
+      "file": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
+      "files": {
+        "lyrics": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
+        "meta": "tracks/jeamus-lil-peep-around-the-world-388a70918288.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/jeamus/lil-peep-around-the-world",
+      "mtimeMs": 1783840134212
     }
   },
   "tracks": [
@@ -23139,20 +23139,6 @@
       "mtimeMs": 1783838990091
     },
     {
-      "title": "Lil Peep - Around The World",
-      "artist": "Jeamus",
-      "originalTrackName": "Jeamus - Lil Peep - Around The World",
-      "source": "whisper_only",
-      "file": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
-      "files": {
-        "lyrics": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
-        "meta": "tracks/jeamus-lil-peep-around-the-world-388a70918288.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/jeamus/lil-peep-around-the-world",
-      "mtimeMs": 1783839143529
-    },
-    {
       "title": "Lil Peep & Neeks - Mo Murda (Only Peep, Extended)",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - Lil Peep & Neeks - Mo Murda (Only Peep, Extended)",
@@ -23179,6 +23165,20 @@
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-geekey-zabudem-pro-nih-1",
       "mtimeMs": 1783840032135
+    },
+    {
+      "title": "Lil Peep - Around The World",
+      "artist": "Jeamus",
+      "originalTrackName": "Jeamus - Lil Peep - Around The World",
+      "source": "genius_explicit",
+      "file": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
+      "files": {
+        "lyrics": "tracks/jeamus-lil-peep-around-the-world-388a70918288.json",
+        "meta": "tracks/jeamus-lil-peep-around-the-world-388a70918288.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/jeamus/lil-peep-around-the-world",
+      "mtimeMs": 1783840134212
     }
   ]
 }

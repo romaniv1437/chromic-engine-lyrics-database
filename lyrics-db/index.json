@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T07:51:21.583806+00:00",
-  "totalTracks": 832,
+  "generatedAt": "2026-07-12T11:11:50.341442+00:00",
+  "totalTracks": 833,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11693,6 +11693,20 @@
       },
       "sourcePath": "https://soundcloud.com/lyoha-berezin/yvn-kxx-predstavlyayu-sever",
       "mtimeMs": 1783842682997
+    },
+    "boy froot::boy froot x lil peep - the day i finally do it [prod. paulie]": {
+      "title": "BOY FROOT X LIL PEEP - THE DAY I FINALLY DO IT [prod. PAULIE]",
+      "artist": "BOY FROOT",
+      "originalTrackName": "BOY FROOT - BOY FROOT X LIL PEEP - THE DAY I FINALLY DO IT [prod. PAULIE]",
+      "source": "syncedlyrics",
+      "file": "tracks/boy-froot-boy-froot-x-lil-peep-the-day-i-finally-do-it-prod-paulie-406090595380.json",
+      "files": {
+        "lyrics": "tracks/boy-froot-boy-froot-x-lil-peep-the-day-i-finally-do-it-prod-paulie-406090595380.json",
+        "meta": "tracks/boy-froot-boy-froot-x-lil-peep-the-day-i-finally-do-it-prod-paulie-406090595380.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/boyfroot/the-day-i-finally-do-it-prod-paulie",
+      "mtimeMs": 1783854711326
     }
   },
   "tracks": [
@@ -23403,6 +23417,20 @@
       },
       "sourcePath": "https://soundcloud.com/lyoha-berezin/yvn-kxx-predstavlyayu-sever",
       "mtimeMs": 1783842682997
+    },
+    {
+      "title": "BOY FROOT X LIL PEEP - THE DAY I FINALLY DO IT [prod. PAULIE]",
+      "artist": "BOY FROOT",
+      "originalTrackName": "BOY FROOT - BOY FROOT X LIL PEEP - THE DAY I FINALLY DO IT [prod. PAULIE]",
+      "source": "syncedlyrics",
+      "file": "tracks/boy-froot-boy-froot-x-lil-peep-the-day-i-finally-do-it-prod-paulie-406090595380.json",
+      "files": {
+        "lyrics": "tracks/boy-froot-boy-froot-x-lil-peep-the-day-i-finally-do-it-prod-paulie-406090595380.json",
+        "meta": "tracks/boy-froot-boy-froot-x-lil-peep-the-day-i-finally-do-it-prod-paulie-406090595380.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/boyfroot/the-day-i-finally-do-it-prod-paulie",
+      "mtimeMs": 1783854711326
     }
   ]
 }

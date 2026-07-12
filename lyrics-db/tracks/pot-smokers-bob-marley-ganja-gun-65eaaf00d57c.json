@@ -2,677 +2,1067 @@
   {
     "text": "●",
     "startTime": 0.3,
-    "endTime": 140.54,
+    "endTime": 28.58,
     "words": [],
     "type": "vocal_cue",
     "time": 0.3,
-    "end": 140.54
+    "end": 28.58
   },
   {
-    "text": "You can",
-    "startTime": 140.54,
-    "endTime": 144.82,
+    "text": "music",
+    "startTime": 28.58,
+    "endTime": 29.98,
     "words": [
       {
-        "word": "You",
-        "start": 140.586,
-        "end": 141.94,
+        "word": "music",
+        "start": 28.673,
+        "end": 29.98,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 28.58,
+    "end": 29.98
+  },
+  {
+    "text": "ganja until i go blind you know i smoke a digganja all",
+    "startTime": 29.98,
+    "endTime": 39.12,
+    "words": [
+      {
+        "word": "ganja",
+        "start": 30.096,
+        "end": 30.82,
         "stretch": true
       },
       {
-        "word": "can",
-        "start": 144.44,
-        "end": 144.82,
+        "word": "until",
+        "start": 31.108,
+        "end": 31.3,
         "spoken": true
-      }
-    ],
-    "time": 140.54,
-    "end": 144.82
-  },
-  {
-    "text": "You can smoke a di ganja in many different ways",
-    "startTime": 144.82,
-    "endTime": 150.44,
-    "words": [
-      {
-        "word": "You",
-        "start": 144.82,
-        "end": 144.82
       },
       {
-        "word": "can",
-        "start": 144.892,
-        "end": 144.94,
+        "word": "i",
+        "start": 31.3,
+        "end": 31.58,
+        "stretch": true,
         "spoken": true
+      },
+      {
+        "word": "go",
+        "start": 31.58,
+        "end": 31.88,
+        "stretch": true
+      },
+      {
+        "word": "blind",
+        "start": 32.019,
+        "end": 33.5,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 33.85,
+        "end": 36.28,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "know",
+        "start": 36.28,
+        "end": 36.64,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 36.64,
+        "end": 37.02,
+        "stretch": true,
+        "sung": true
       },
       {
         "word": "smoke",
-        "start": 145.216,
-        "end": 145.4,
+        "start": 37.02,
+        "end": 37.36,
         "sung": true
       },
       {
         "word": "a",
-        "start": 145.4,
+        "start": 37.36,
+        "end": 37.62,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "digganja",
+        "start": 37.736,
+        "end": 38.66,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "all",
+        "start": 38.66,
+        "end": 39.12,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 29.98,
+    "end": 39.12
+  },
+  {
+    "text": "of the time",
+    "startTime": 39.12,
+    "endTime": 42.9,
+    "words": [
+      {
+        "word": "of",
+        "start": 39.12,
+        "end": 39.42,
+        "stretch": true
+      },
+      {
+        "word": "the",
+        "start": 39.672,
+        "end": 39.84,
+        "spoken": true
+      },
+      {
+        "word": "time",
+        "start": 39.84,
+        "end": 42.9,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 39.12,
+    "end": 42.9
+  },
+  {
+    "text": "smoke a digganja when i'm with friends we gonna smoke a digganja",
+    "startTime": 44.06,
+    "endTime": 53.5,
+    "words": [
+      {
+        "word": "smoke",
+        "start": 44.41,
+        "end": 44.9,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "a",
+        "start": 44.9,
+        "end": 45.28,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "digganja",
+        "start": 45.419,
+        "end": 46.3,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "when",
+        "start": 46.439,
+        "end": 46.68,
+        "spoken": true
+      },
+      {
+        "word": "i'm",
+        "start": 46.68,
+        "end": 47.06,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "with",
+        "start": 47.24,
+        "end": 47.36,
+        "spoken": true
+      },
+      {
+        "word": "friends",
+        "start": 47.36,
+        "end": 49.98,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "we",
+        "start": 50.33,
+        "end": 51.58,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "gonna",
+        "start": 51.58,
+        "end": 51.94
+      },
+      {
+        "word": "smoke",
+        "start": 52.264,
+        "end": 52.48,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 52.48,
+        "end": 52.84,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "digganja",
+        "start": 53.003,
+        "end": 53.5
+      }
+    ],
+    "time": 44.06,
+    "end": 53.5
+  },
+  {
+    "text": "till the very end",
+    "startTime": 53.5,
+    "endTime": 56.04,
+    "words": [
+      {
+        "word": "till",
+        "start": 53.692,
+        "end": 53.82,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 53.866,
+        "end": 54.22,
+        "spoken": true
+      },
+      {
+        "word": "very",
+        "start": 54.22,
+        "end": 54.68
+      },
+      {
+        "word": "end",
+        "start": 54.889,
+        "end": 56.04,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 53.5,
+    "end": 56.04
+  },
+  {
+    "text": "ooo ganja ganja ooo ganja gan",
+    "startTime": 59.98,
+    "endTime": 71.88,
+    "words": [
+      {
+        "word": "ooo",
+        "start": 60.33,
+        "end": 61.24,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ganja",
+        "start": 61.59,
+        "end": 62.34,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ganja",
+        "start": 62.526,
+        "end": 64.8,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ooo",
+        "start": 65.15,
+        "end": 69.16,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ganja",
+        "start": 69.323,
+        "end": 70.1,
+        "stretch": true
+      },
+      {
+        "word": "gan",
+        "start": 70.239,
+        "end": 71.88,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 59.98,
+    "end": 71.88
+  },
+  {
+    "text": "ooo ganja ganja ooo ganja gan",
+    "startTime": 75.02,
+    "endTime": 87.42,
+    "words": [
+      {
+        "word": "ooo",
+        "start": 75.113,
+        "end": 76.42,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ganja",
+        "start": 76.77,
+        "end": 77.82,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ganja",
+        "start": 77.89,
+        "end": 81.8,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ooo",
+        "start": 81.87,
+        "end": 84.68,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ganja",
+        "start": 85.03,
+        "end": 85.6,
+        "stretch": true
+      },
+      {
+        "word": "gan",
+        "start": 85.739,
+        "end": 87.42,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 75.02,
+    "end": 87.42
+  },
+  {
+    "text": "●",
+    "startTime": 87.72,
+    "endTime": 106.24,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 87.72,
+    "end": 106.24
+  },
+  {
+    "text": "ooo ganja ganja ooo ganja gan",
+    "startTime": 106.24,
+    "endTime": 117.4,
+    "words": [
+      {
+        "word": "ooo",
+        "start": 106.59,
+        "end": 107.64,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ganja",
+        "start": 107.99,
+        "end": 109.04,
+        "stretch": true
+      },
+      {
+        "word": "ganja",
+        "start": 109.249,
+        "end": 111.76,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ooo",
+        "start": 112.11,
+        "end": 115.82,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ganja",
+        "start": 116.052,
+        "end": 116.84,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "gan",
+        "start": 116.956,
+        "end": 117.4,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 106.24,
+    "end": 117.4
+  },
+  {
+    "text": "ooo ganja ganja ooo ganja gan",
+    "startTime": 121.7,
+    "endTime": 134.54,
+    "words": [
+      {
+        "word": "ooo",
+        "start": 122.05,
+        "end": 123.1,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ganja",
+        "start": 123.45,
+        "end": 124.5,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ganja",
+        "start": 124.686,
+        "end": 128.98,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ooo",
+        "start": 129.166,
+        "end": 131.34,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ganja",
+        "start": 131.526,
+        "end": 132.34,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "gan",
+        "start": 132.41,
+        "end": 134.54,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 121.7,
+    "end": 134.54
+  },
+  {
+    "text": "smoke a digganja everyday yeah you can smoke a digganja in many",
+    "startTime": 136.62,
+    "endTime": 147.3,
+    "words": [
+      {
+        "word": "smoke",
+        "start": 136.97,
+        "end": 137.7,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 137.7,
+        "end": 138.08,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "digganja",
+        "start": 138.196,
+        "end": 139.02,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "everyday",
+        "start": 139.206,
+        "end": 140.86,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "yeah",
+        "start": 141.21,
+        "end": 144.36,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 144.36,
+        "end": 144.6
+      },
+      {
+        "word": "can",
+        "start": 144.6,
+        "end": 144.92,
+        "spoken": true
+      },
+      {
+        "word": "smoke",
+        "start": 145.184,
+        "end": 145.36,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 145.36,
         "end": 145.7,
         "stretch": true,
         "spoken": true
       },
       {
-        "word": "di",
-        "start": 145.844,
-        "end": 145.94,
-        "spoken": true
-      },
-      {
-        "word": "ganja",
-        "start": 146.29,
-        "end": 146.54,
-        "spoken": true
+        "word": "digganja",
+        "start": 145.816,
+        "end": 146.64,
+        "stretch": true,
+        "sung": true
       },
       {
         "word": "in",
-        "start": 146.708,
-        "end": 146.82,
+        "start": 146.64,
+        "end": 146.92,
         "spoken": true
       },
       {
         "word": "many",
-        "start": 146.82,
-        "end": 147.28,
+        "start": 146.92,
+        "end": 147.3,
         "sung": true
-      },
+      }
+    ],
+    "time": 136.62,
+    "end": 147.3
+  },
+  {
+    "text": "different ways",
+    "startTime": 147.3,
+    "endTime": 150.16,
+    "words": [
       {
         "word": "different",
-        "start": 147.63,
-        "end": 147.96,
-        "sung": true
+        "start": 147.65,
+        "end": 147.94,
+        "spoken": true
       },
       {
         "word": "ways",
-        "start": 148.31,
-        "end": 150.44,
+        "start": 148.29,
+        "end": 150.16,
         "stretch": true,
         "spoken": true
       }
     ],
-    "time": 144.82,
-    "end": 150.44
+    "time": 147.3,
+    "end": 150.16
   },
   {
-    "text": "You can smoke a di ganja in a big fat boat",
-    "startTime": 150.44,
-    "endTime": 155.63,
+    "text": "you can smoke a digganja in a big fat boat or you",
+    "startTime": 151.66,
+    "endTime": 156.2,
     "words": [
       {
-        "word": "You",
-        "start": 150.79,
-        "end": 151.4,
-        "stretch": true,
-        "spoken": true
+        "word": "you",
+        "start": 152.01,
+        "end": 152.3,
+        "stretch": true
       },
       {
         "word": "can",
-        "start": 153.35,
-        "end": 153.35
+        "start": 152.3,
+        "end": 152.62,
+        "spoken": true
       },
       {
         "word": "smoke",
-        "start": 153.35,
-        "end": 153.35
+        "start": 152.62,
+        "end": 153.1
       },
       {
         "word": "a",
-        "start": 153.35,
-        "end": 153.35
-      },
-      {
-        "word": "di",
-        "start": 153.554,
-        "end": 153.69,
+        "start": 153.1,
+        "end": 153.32,
         "stretch": true,
         "spoken": true
       },
       {
-        "word": "ganja",
-        "start": 153.69,
-        "end": 154.15,
+        "word": "digganja",
+        "start": 153.575,
+        "end": 154.14,
+        "stretch": true,
         "spoken": true
       },
       {
         "word": "in",
-        "start": 154.15,
-        "end": 154.35,
+        "start": 154.14,
+        "end": 154.34,
         "spoken": true
       },
       {
         "word": "a",
-        "start": 154.578,
-        "end": 154.73,
+        "start": 154.34,
+        "end": 154.72,
         "stretch": true,
         "spoken": true
       },
       {
         "word": "big",
-        "start": 154.73,
-        "end": 154.99,
+        "start": 154.72,
+        "end": 155.0,
         "spoken": true
       },
       {
         "word": "fat",
-        "start": 154.99,
-        "end": 155.33,
+        "start": 155.0,
+        "end": 155.32,
         "sung": true
       },
       {
         "word": "boat",
-        "start": 155.493,
-        "end": 155.63,
+        "start": 155.483,
+        "end": 155.64,
         "spoken": true
-      }
-    ],
-    "time": 150.44,
-    "end": 155.63
-  },
-  {
-    "text": "Or you can smoke a di ganja in a boat",
-    "startTime": 155.63,
-    "endTime": 159.81,
-    "words": [
+      },
       {
-        "word": "Or",
-        "start": 155.769,
-        "end": 155.97,
+        "word": "or",
+        "start": 155.64,
+        "end": 155.96,
         "stretch": true
       },
       {
         "word": "you",
-        "start": 155.97,
-        "end": 156.19
-      },
+        "start": 155.96,
+        "end": 156.2
+      }
+    ],
+    "time": 151.66,
+    "end": 156.2
+  },
+  {
+    "text": "can smoke a digganja in a boat",
+    "startTime": 156.2,
+    "endTime": 159.66,
+    "words": [
       {
         "word": "can",
-        "start": 156.19,
-        "end": 156.47
+        "start": 156.27,
+        "end": 156.46
       },
       {
         "word": "smoke",
-        "start": 156.77,
-        "end": 156.97
+        "start": 156.772,
+        "end": 156.98
       },
       {
         "word": "a",
-        "start": 156.97,
-        "end": 157.21,
+        "start": 156.98,
+        "end": 157.18,
         "stretch": true
       },
       {
-        "word": "di",
-        "start": 157.342,
-        "end": 157.43
-      },
-      {
-        "word": "ganja",
-        "start": 157.43,
-        "end": 158.43,
+        "word": "digganja",
+        "start": 157.389,
+        "end": 158.36,
         "stretch": true,
         "sung": true
       },
       {
         "word": "in",
-        "start": 158.43,
-        "end": 158.77,
+        "start": 158.36,
+        "end": 158.78,
         "stretch": true
       },
       {
         "word": "a",
-        "start": 158.886,
-        "end": 159.23,
+        "start": 158.85,
+        "end": 159.26,
         "stretch": true,
         "sung": true
       },
       {
         "word": "boat",
-        "start": 159.323,
-        "end": 159.81,
+        "start": 159.33,
+        "end": 159.66,
         "sung": true
       }
     ],
-    "time": 155.63,
-    "end": 159.81
+    "time": 156.2,
+    "end": 159.66
   },
   {
-    "text": "And if you're very lucky you can smoke it in a bang",
-    "startTime": 159.81,
-    "endTime": 163.65,
+    "text": "and if you're very lucky you can smoke it in a bang",
+    "startTime": 159.66,
+    "endTime": 163.7,
     "words": [
       {
-        "word": "And",
-        "start": 159.81,
-        "end": 160.43,
+        "word": "and",
+        "start": 159.823,
+        "end": 160.36,
         "stretch": true
       },
       {
         "word": "if",
-        "start": 160.43,
-        "end": 160.59
+        "start": 160.36,
+        "end": 160.58
       },
       {
         "word": "you're",
-        "start": 160.59,
-        "end": 160.83
+        "start": 160.58,
+        "end": 160.84
       },
       {
         "word": "very",
-        "start": 160.83,
-        "end": 161.31
+        "start": 161.152,
+        "end": 161.36
       },
       {
         "word": "lucky",
-        "start": 161.31,
-        "end": 161.73,
+        "start": 161.36,
+        "end": 161.74,
         "spoken": true
       },
       {
         "word": "you",
-        "start": 161.846,
-        "end": 161.99,
+        "start": 161.856,
+        "end": 161.98,
         "spoken": true
       },
       {
         "word": "can",
-        "start": 162.106,
-        "end": 162.27
+        "start": 162.096,
+        "end": 162.3,
+        "spoken": true
       },
       {
         "word": "smoke",
-        "start": 162.363,
-        "end": 162.59,
+        "start": 162.37,
+        "end": 162.6,
         "spoken": true
       },
       {
         "word": "it",
-        "start": 162.59,
-        "end": 162.99,
+        "start": 162.6,
+        "end": 162.96,
         "stretch": true,
         "spoken": true
       },
       {
         "word": "in",
-        "start": 162.99,
-        "end": 163.15
+        "start": 162.96,
+        "end": 163.16,
+        "spoken": true
       },
       {
         "word": "a",
-        "start": 163.258,
-        "end": 163.33,
+        "start": 163.253,
+        "end": 163.38,
         "stretch": true,
-        "spoken": true
+        "sung": true
       },
       {
         "word": "bang",
-        "start": 163.33,
-        "end": 163.65,
+        "start": 163.38,
+        "end": 163.7,
         "spoken": true
       }
     ],
-    "time": 159.81,
-    "end": 163.65
+    "time": 159.66,
+    "end": 163.7
   },
   {
-    "text": "When you smoke it in a bang you're a big doll",
-    "startTime": 163.65,
-    "endTime": 166.57,
+    "text": "when you smoke it in a bang you a big",
+    "startTime": 163.7,
+    "endTime": 189.64,
     "words": [
       {
-        "word": "When",
-        "start": 163.766,
-        "end": 163.93,
+        "word": "when",
+        "start": 163.746,
+        "end": 163.96,
         "spoken": true
       },
       {
         "word": "you",
-        "start": 163.93,
-        "end": 164.15
+        "start": 163.96,
+        "end": 164.16
       },
       {
         "word": "smoke",
-        "start": 164.266,
-        "end": 164.53
+        "start": 164.276,
+        "end": 164.52,
+        "sung": true
       },
       {
         "word": "it",
-        "start": 164.739,
-        "end": 164.91,
+        "start": 164.729,
+        "end": 164.9,
         "stretch": true,
         "spoken": true
       },
       {
         "word": "in",
-        "start": 164.91,
-        "end": 165.07,
+        "start": 164.9,
+        "end": 165.1,
         "spoken": true
       },
       {
         "word": "a",
-        "start": 165.163,
-        "end": 165.25,
+        "start": 165.193,
+        "end": 165.26,
         "stretch": true,
         "spoken": true
       },
       {
         "word": "bang",
-        "start": 165.25,
-        "end": 165.41,
+        "start": 165.26,
+        "end": 165.44,
         "spoken": true
       },
       {
-        "word": "you're",
-        "start": 165.665,
-        "end": 165.89,
-        "spoken": true
+        "word": "you",
+        "start": 165.79,
+        "end": 189.6,
+        "stretch": true,
+        "sung": true
       },
       {
         "word": "a",
-        "start": 165.89,
-        "end": 166.03
+        "start": 189.6,
+        "end": 189.62
       },
       {
         "word": "big",
-        "start": 166.169,
-        "end": 166.27,
-        "spoken": true
-      },
-      {
-        "word": "doll",
-        "start": 166.27,
-        "end": 166.57,
-        "spoken": true
+        "start": 189.62,
+        "end": 189.64
       }
     ],
-    "time": 163.65,
-    "end": 166.57
+    "time": 163.7,
+    "end": 189.64
   },
   {
-    "text": "La la missus",
-    "startTime": 166.57,
-    "endTime": 168.39,
+    "text": "ooo ganja ganja",
+    "startTime": 191.38,
+    "endTime": 196.64,
     "words": [
       {
-        "word": "La",
-        "start": 166.918,
-        "end": 167.15,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "la",
-        "start": 167.15,
-        "end": 167.39
-      },
-      {
-        "word": "missus",
-        "start": 167.529,
-        "end": 168.39,
-        "stretch": true,
-        "spoken": true
-      }
-    ],
-    "time": 166.57,
-    "end": 168.39
-  },
-  {
-    "text": "Woah ganja ganja",
-    "startTime": 168.39,
-    "endTime": 172.35,
-    "words": [
-      {
-        "word": "Woah",
-        "start": 168.553,
-        "end": 169.37,
+        "word": "ooo",
+        "start": 191.73,
+        "end": 192.78,
         "stretch": true,
         "sung": true
       },
       {
         "word": "ganja",
-        "start": 169.72,
-        "end": 170.77,
+        "start": 192.78,
+        "end": 194.08,
         "stretch": true,
-        "sung": true
+        "spoken": true
       },
       {
         "word": "ganja",
-        "start": 170.933,
-        "end": 172.35,
+        "start": 194.196,
+        "end": 196.64,
         "stretch": true,
-        "sung": true
+        "spoken": true
       }
     ],
-    "time": 168.39,
-    "end": 172.35
+    "time": 191.38,
+    "end": 196.64
   },
   {
     "text": "●",
-    "startTime": 172.65,
-    "endTime": 177.63,
+    "startTime": 196.94,
+    "endTime": 222.1,
     "words": [],
     "type": "vocal_cue",
-    "time": 172.65,
-    "end": 177.63
+    "time": 196.94,
+    "end": 222.1
   },
   {
-    "text": "Ganja gan",
-    "startTime": 177.63,
-    "endTime": 179.79,
+    "text": "ooo ganja ganja ooo ganja gan",
+    "startTime": 222.1,
+    "endTime": 234.54,
     "words": [
       {
-        "word": "Ganja",
-        "start": 177.769,
-        "end": 178.57,
+        "word": "ooo",
+        "start": 222.45,
+        "end": 223.5,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ganja",
+        "start": 223.85,
+        "end": 224.9,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ganja",
+        "start": 224.9,
+        "end": 228.04,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ooo",
+        "start": 228.39,
+        "end": 231.7,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ganja",
+        "start": 231.816,
+        "end": 232.7,
         "stretch": true,
         "spoken": true
       },
       {
         "word": "gan",
-        "start": 178.663,
-        "end": 179.79,
+        "start": 232.816,
+        "end": 234.54,
         "stretch": true,
-        "spoken": true
+        "sung": true
       }
     ],
-    "time": 177.63,
-    "end": 179.79
+    "time": 222.1,
+    "end": 234.54
   },
   {
-    "text": "●",
-    "startTime": 180.09,
-    "endTime": 223.46,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 180.09,
-    "end": 223.46
-  },
-  {
-    "text": "Ganja gan ja",
-    "startTime": 223.46,
-    "endTime": 226.8,
+    "text": "ooo ganja ganja ooo ganja gan",
+    "startTime": 238.1,
+    "endTime": 248.84,
     "words": [
       {
-        "word": "Ganja",
-        "start": 223.81,
-        "end": 224.86,
+        "word": "ooo",
+        "start": 238.146,
+        "end": 239.5,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ganja",
+        "start": 239.85,
+        "end": 240.4,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ganja",
+        "start": 240.539,
+        "end": 243.28,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ooo",
+        "start": 243.63,
+        "end": 247.12,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "ganja",
+        "start": 247.47,
+        "end": 248.14,
         "stretch": true,
         "sung": true
       },
       {
         "word": "gan",
-        "start": 225.092,
-        "end": 225.36,
+        "start": 248.233,
+        "end": 248.84,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 238.1,
+    "end": 248.84
+  },
+  {
+    "text": "ooo ganja ganja",
+    "startTime": 253.66,
+    "endTime": 256.58,
+    "words": [
+      {
+        "word": "ooo",
+        "start": 254.01,
+        "end": 255.06,
         "stretch": true,
         "sung": true
       },
       {
-        "word": "ja",
-        "start": 225.36,
-        "end": 226.8,
-        "stretch": true,
-        "sung": true
-      }
-    ],
-    "time": 223.46,
-    "end": 226.8
-  },
-  {
-    "text": "Ganja gan",
-    "startTime": 229.14,
-    "endTime": 230.54,
-    "words": [
-      {
-        "word": "Ganja",
-        "start": 229.49,
-        "end": 230.54,
-        "stretch": true,
-        "sung": true
-      },
-      {
-        "word": "gan",
-        "start": 230.54,
-        "end": 230.54
-      }
-    ],
-    "time": 229.14,
-    "end": 230.54
-  },
-  {
-    "text": "Oh, ganja ganja",
-    "startTime": 230.54,
-    "endTime": 235.54,
-    "words": [
-      {
-        "word": "Oh,",
-        "start": 230.54,
-        "end": 231.76,
+        "word": "ganja",
+        "start": 255.41,
+        "end": 255.88,
         "stretch": true,
         "spoken": true
       },
       {
         "word": "ganja",
-        "start": 231.83,
-        "end": 232.64,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "ganja",
-        "start": 232.803,
-        "end": 235.54,
-        "stretch": true,
-        "sung": true
-      }
-    ],
-    "time": 230.54,
-    "end": 235.54
-  },
-  {
-    "text": "Oh, ganja ganja",
-    "startTime": 238.06,
-    "endTime": 241.54,
-    "words": [
-      {
-        "word": "Oh,",
-        "start": 238.06,
-        "end": 238.76,
-        "stretch": true,
-        "sung": true
-      },
-      {
-        "word": "ganja",
-        "start": 239.95,
-        "end": 240.42,
-        "stretch": true,
-        "sung": true
-      },
-      {
-        "word": "ganja",
-        "start": 240.559,
-        "end": 241.54,
-        "stretch": true,
+        "start": 256.019,
+        "end": 256.58,
         "spoken": true
       }
     ],
-    "time": 238.06,
-    "end": 241.54
+    "time": 253.66,
+    "end": 256.58
   },
   {
     "text": "●",
-    "startTime": 241.84,
-    "endTime": 247.0,
+    "startTime": 256.88,
+    "endTime": 284.1,
     "words": [],
     "type": "vocal_cue",
-    "time": 241.84,
-    "end": 247.0
+    "time": 256.88,
+    "end": 284.1
   },
   {
-    "text": "Ganja ganja",
-    "startTime": 247.0,
-    "endTime": 249.44,
-    "words": [
-      {
-        "word": "Ganja",
-        "start": 247.302,
-        "end": 248.12,
-        "stretch": true,
-        "sung": true
-      },
-      {
-        "word": "ganja",
-        "start": 248.213,
-        "end": 249.44,
-        "stretch": true,
-        "spoken": true
-      }
-    ],
-    "time": 247.0,
-    "end": 249.44
-  },
-  {
-    "text": "●",
-    "startTime": 249.74,
-    "endTime": 255.5,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 249.74,
-    "end": 255.5
-  },
-  {
-    "text": "Ganja ganja",
-    "startTime": 255.5,
-    "endTime": 257.04,
-    "words": [
-      {
-        "word": "Ganja",
-        "start": 255.57,
-        "end": 255.9,
-        "spoken": true
-      },
-      {
-        "word": "ganja",
-        "start": 256.016,
-        "end": 257.04,
-        "stretch": true,
-        "spoken": true
-      }
-    ],
-    "time": 255.5,
-    "end": 257.04
-  },
-  {
-    "text": "●",
-    "startTime": 257.34,
+    "text": "ooo ganja ganja",
+    "startTime": 284.1,
     "endTime": 286.929,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 257.34,
+    "words": [
+      {
+        "word": "ooo",
+        "start": 284.1,
+        "end": 285.5,
+        "stretch": true
+      },
+      {
+        "word": "ganja",
+        "start": 285.5,
+        "end": 286.9,
+        "stretch": true
+      },
+      {
+        "word": "ganja",
+        "start": 286.829,
+        "end": 286.929
+      }
+    ],
+    "time": 284.1,
     "end": 286.929
   }
 ]

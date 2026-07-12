@@ -39,27 +39,29 @@
   {
     "text": "Я с тобой",
     "startTime": 95.01,
-    "endTime": 95.53,
+    "endTime": 96.13,
     "words": [
       {
         "word": "Я",
         "start": 95.01,
-        "end": 95.01
+        "end": 95.17,
+        "whisper": true
       },
       {
         "word": "с",
-        "start": 95.01,
-        "end": 95.01
+        "start": 95.266,
+        "end": 95.33,
+        "whisper": true
       },
       {
         "word": "тобой",
-        "start": 95.312,
-        "end": 95.53,
+        "start": 95.655,
+        "end": 96.13,
         "spoken": true
       }
     ],
     "time": 95.01,
-    "end": 95.53
+    "end": 96.13
   },
   {
     "text": "●",

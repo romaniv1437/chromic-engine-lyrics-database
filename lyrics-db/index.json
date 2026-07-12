@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T19:09:49.542436+00:00",
+  "generatedAt": "2026-07-12T19:10:11.745562+00:00",
   "totalTracks": 837,
   "roots": [
     "lyrics-db/tracks"
@@ -11722,20 +11722,6 @@
       "sourcePath": "https://soundcloud.com/didko_trash/didko-mzh-mnoyu-ta-zoryanim-nebom",
       "mtimeMs": 1783858742114
     },
-    "kolibri::kolibri - літо кольору мохіто": {
-      "title": "Kolibri - Літо кольору мохіто",
-      "artist": "Kolibri",
-      "originalTrackName": "Kolibri - Kolibri - Літо кольору мохіто",
-      "source": "whisper_only",
-      "file": "tracks/kolibri-kolibri-6482187b1dd9.json",
-      "files": {
-        "lyrics": "tracks/kolibri-kolibri-6482187b1dd9.json",
-        "meta": "tracks/kolibri-kolibri-6482187b1dd9.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/9trfoxgdaqlu/kolibri-lito-koloru-moxito",
-      "mtimeMs": 1783870384905
-    },
     "lil peep::runninoutoftime (r.o.o.t) (ft. p2goldma$k)": {
       "title": "RunninOutOfTime (R.O.O.T) (ft. P2GOLDMA$K)",
       "artist": "Lil Peep",
@@ -11763,6 +11749,20 @@
       },
       "sourcePath": "https://soundcloud.com/boyfroot/the-day-i-finally-do-it-prod-paulie",
       "mtimeMs": 1783883391182
+    },
+    "kolibri::kolibri - літо кольору мохіто": {
+      "title": "Kolibri - Літо кольору мохіто",
+      "artist": "Kolibri",
+      "originalTrackName": "Kolibri - Kolibri - Літо кольору мохіто",
+      "source": "whisper_only",
+      "file": "tracks/kolibri-kolibri-6482187b1dd9.json",
+      "files": {
+        "lyrics": "tracks/kolibri-kolibri-6482187b1dd9.json",
+        "meta": "tracks/kolibri-kolibri-6482187b1dd9.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/9trfoxgdaqlu/kolibri-lito-koloru-moxito",
+      "mtimeMs": 1783883413235
     }
   },
   "tracks": [
@@ -23503,20 +23503,6 @@
       "mtimeMs": 1783858742114
     },
     {
-      "title": "Kolibri - Літо кольору мохіто",
-      "artist": "Kolibri",
-      "originalTrackName": "Kolibri - Kolibri - Літо кольору мохіто",
-      "source": "whisper_only",
-      "file": "tracks/kolibri-kolibri-6482187b1dd9.json",
-      "files": {
-        "lyrics": "tracks/kolibri-kolibri-6482187b1dd9.json",
-        "meta": "tracks/kolibri-kolibri-6482187b1dd9.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/9trfoxgdaqlu/kolibri-lito-koloru-moxito",
-      "mtimeMs": 1783870384905
-    },
-    {
       "title": "RunninOutOfTime (R.O.O.T) (ft. P2GOLDMA$K)",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - RunninOutOfTime (R.O.O.T) (ft. P2GOLDMA$K)",
@@ -23543,6 +23529,20 @@
       },
       "sourcePath": "https://soundcloud.com/boyfroot/the-day-i-finally-do-it-prod-paulie",
       "mtimeMs": 1783883391182
+    },
+    {
+      "title": "Kolibri - Літо кольору мохіто",
+      "artist": "Kolibri",
+      "originalTrackName": "Kolibri - Kolibri - Літо кольору мохіто",
+      "source": "whisper_only",
+      "file": "tracks/kolibri-kolibri-6482187b1dd9.json",
+      "files": {
+        "lyrics": "tracks/kolibri-kolibri-6482187b1dd9.json",
+        "meta": "tracks/kolibri-kolibri-6482187b1dd9.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/9trfoxgdaqlu/kolibri-lito-koloru-moxito",
+      "mtimeMs": 1783883413235
     }
   ]
 }

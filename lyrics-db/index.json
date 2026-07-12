@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T07:08:53.164696+00:00",
-  "totalTracks": 824,
+  "generatedAt": "2026-07-12T07:26:25.202772+00:00",
+  "totalTracks": 825,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11581,6 +11581,20 @@
       },
       "sourcePath": "https://soundcloud.com/jeamus/lil-peep-around-the-world",
       "mtimeMs": 1783840134212
+    },
+    "vlad sh::kizaru - лидер": {
+      "title": "KIZARU - Лидер",
+      "artist": "Vlad Sh",
+      "originalTrackName": "Vlad Sh - KIZARU - Лидер",
+      "source": "lrclib_plain",
+      "file": "tracks/vlad-sh-kizaru-7d5c9e848971.json",
+      "files": {
+        "lyrics": "tracks/vlad-sh-kizaru-7d5c9e848971.json",
+        "meta": "tracks/vlad-sh-kizaru-7d5c9e848971.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/vlad-sh-766435597/kizaru-1",
+      "mtimeMs": 1783841186041
     }
   },
   "tracks": [
@@ -23179,6 +23193,20 @@
       },
       "sourcePath": "https://soundcloud.com/jeamus/lil-peep-around-the-world",
       "mtimeMs": 1783840134212
+    },
+    {
+      "title": "KIZARU - Лидер",
+      "artist": "Vlad Sh",
+      "originalTrackName": "Vlad Sh - KIZARU - Лидер",
+      "source": "lrclib_plain",
+      "file": "tracks/vlad-sh-kizaru-7d5c9e848971.json",
+      "files": {
+        "lyrics": "tracks/vlad-sh-kizaru-7d5c9e848971.json",
+        "meta": "tracks/vlad-sh-kizaru-7d5c9e848971.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/vlad-sh-766435597/kizaru-1",
+      "mtimeMs": 1783841186041
     }
   ]
 }

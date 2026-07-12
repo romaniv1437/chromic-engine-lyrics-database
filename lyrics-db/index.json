@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T20:42:04.175539+00:00",
+  "generatedAt": "2026-07-12T20:48:05.127057+00:00",
   "totalTracks": 838,
   "roots": [
     "lyrics-db/tracks"
@@ -11750,20 +11750,6 @@
       "sourcePath": "https://soundcloud.com/9trfoxgdaqlu/kolibri-lito-koloru-moxito",
       "mtimeMs": 1783887531148
     },
-    "kizaru::ne ostavlyaut pal'cev [prod.by sipe & gardibeat]": {
-      "title": "Ne Ostavlyaut Pal'cev [prod.by SIPe & GarDibeat]",
-      "artist": "KIZARU",
-      "originalTrackName": "KIZARU - Ne Ostavlyaut Pal'cev [prod.by SIPe & GarDibeat]",
-      "source": "whisper_only",
-      "file": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.json",
-      "files": {
-        "lyrics": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.json",
-        "meta": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/ne-ostavlyaut-palcev-prod-by",
-      "mtimeMs": 1783888619163
-    },
     "kizaru::не оставляют пальцев": {
       "title": "Не оставляют пальцев",
       "artist": "kizaru",
@@ -11777,6 +11763,20 @@
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/ne-ostavlyaut-palcev-prod-by",
       "mtimeMs": 1783888933293
+    },
+    "kizaru::ne ostavlyaut pal'cev [prod.by sipe & gardibeat]": {
+      "title": "Ne Ostavlyaut Pal'cev [prod.by SIPe & GarDibeat]",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - Ne Ostavlyaut Pal'cev [prod.by SIPe & GarDibeat]",
+      "source": "whisper_only",
+      "file": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.json",
+      "files": {
+        "lyrics": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.json",
+        "meta": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/ne-ostavlyaut-palcev-prod-by",
+      "mtimeMs": 1783889286185
     }
   },
   "tracks": [
@@ -23545,20 +23545,6 @@
       "mtimeMs": 1783887531148
     },
     {
-      "title": "Ne Ostavlyaut Pal'cev [prod.by SIPe & GarDibeat]",
-      "artist": "KIZARU",
-      "originalTrackName": "KIZARU - Ne Ostavlyaut Pal'cev [prod.by SIPe & GarDibeat]",
-      "source": "whisper_only",
-      "file": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.json",
-      "files": {
-        "lyrics": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.json",
-        "meta": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/ne-ostavlyaut-palcev-prod-by",
-      "mtimeMs": 1783888619163
-    },
-    {
       "title": "Не оставляют пальцев",
       "artist": "kizaru",
       "originalTrackName": "kizaru - Не оставляют пальцев",
@@ -23571,6 +23557,20 @@
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/ne-ostavlyaut-palcev-prod-by",
       "mtimeMs": 1783888933293
+    },
+    {
+      "title": "Ne Ostavlyaut Pal'cev [prod.by SIPe & GarDibeat]",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - Ne Ostavlyaut Pal'cev [prod.by SIPe & GarDibeat]",
+      "source": "whisper_only",
+      "file": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.json",
+      "files": {
+        "lyrics": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.json",
+        "meta": "tracks/kizaru-ne-ostavlyaut-pal-cev-prod-by-sipe-gardibeat-3c28c7eeee0a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/ne-ostavlyaut-palcev-prod-by",
+      "mtimeMs": 1783889286185
     }
   ]
 }

@@ -1,186 +1,613 @@
 [
   {
-    "text": "Панци на районе снайп,",
+    "text": "Пацана районезматься, пацана районезна, пацана районезна, ты не оставляешь пальцы, пацана районезматься,",
     "startTime": 0.0,
-    "endTime": 2.32,
+    "endTime": 11.28,
     "words": [
       {
-        "word": "Панци",
+        "word": "Пацана",
         "start": 0.0,
-        "end": 0.62,
-        "whisper": true
-      },
-      {
-        "word": "на",
-        "start": 0.62,
-        "end": 0.9,
-        "whisper": true
-      },
-      {
-        "word": "районе",
-        "start": 1.202,
-        "end": 1.6,
-        "whisper": true
-      },
-      {
-        "word": "снайп,",
-        "start": 1.6,
-        "end": 2.32,
-        "whisper": true
-      }
-    ],
-    "time": 0.0,
-    "end": 2.32
-  },
-  {
-    "text": "панци на районе снайп,",
-    "startTime": 2.32,
-    "endTime": 4.56,
-    "words": [
-      {
-        "word": "панци",
-        "start": 2.32,
-        "end": 2.86,
-        "whisper": true
-      },
-      {
-        "word": "на",
-        "start": 2.86,
-        "end": 3.14,
-        "whisper": true
-      },
-      {
-        "word": "районе",
-        "start": 3.14,
-        "end": 3.9,
-        "whisper": true
-      },
-      {
-        "word": "снайп,",
-        "start": 3.9,
-        "end": 4.56,
-        "whisper": true
-      }
-    ],
-    "time": 2.32,
-    "end": 4.56
-  },
-  {
-    "text": "панци на районе снайп,",
-    "startTime": 4.56,
-    "endTime": 6.8,
-    "words": [
-      {
-        "word": "панци",
-        "start": 4.56,
-        "end": 5.12,
-        "whisper": true
-      },
-      {
-        "word": "на",
-        "start": 5.12,
-        "end": 5.4,
-        "whisper": true
-      },
-      {
-        "word": "районе",
-        "start": 5.679,
-        "end": 6.1,
-        "whisper": true
-      },
-      {
-        "word": "снайп,",
-        "start": 6.1,
-        "end": 6.8,
-        "whisper": true
-      }
-    ],
-    "time": 4.56,
-    "end": 6.8
-  },
-  {
-    "text": "ты не оставляй пальцы.",
-    "startTime": 6.98,
-    "endTime": 9.08,
-    "words": [
-      {
-        "word": "ты",
-        "start": 6.98,
-        "end": 7.18,
-        "whisper": true
-      },
-      {
-        "word": "не",
-        "start": 7.18,
-        "end": 7.56,
+        "end": 0.92,
         "stretch": true,
         "whisper": true
       },
       {
-        "word": "оставляй",
-        "start": 7.91,
-        "end": 8.34,
+        "word": "районезматься,",
+        "start": 1.199,
+        "end": 2.3,
+        "stretch": true,
         "whisper": true
       },
       {
-        "word": "пальцы.",
-        "start": 8.69,
-        "end": 9.08,
+        "word": "пацана",
+        "start": 2.36,
+        "end": 3.14,
         "whisper": true
+      },
+      {
+        "word": "районезна,",
+        "start": 3.14,
+        "end": 4.4,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "пацана",
+        "start": 4.58,
+        "end": 5.38,
+        "whisper": true
+      },
+      {
+        "word": "районезна,",
+        "start": 5.682,
+        "end": 6.78,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "ты",
+        "start": 7.0,
+        "end": 7.14,
+        "whisper": true
+      },
+      {
+        "word": "не",
+        "start": 7.14,
+        "end": 7.6,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "оставляешь",
+        "start": 7.95,
+        "end": 8.42,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "пальцы,",
+        "start": 8.77,
+        "end": 9.06,
+        "whisper": true
+      },
+      {
+        "word": "пацана",
+        "start": 9.06,
+        "end": 9.88,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "районезматься,",
+        "start": 9.88,
+        "end": 11.28,
+        "stretch": true,
+        "spoken": true
       }
     ],
-    "time": 6.98,
-    "end": 9.08
+    "time": 0.0,
+    "end": 11.28
   },
   {
-    "text": "●",
-    "startTime": 9.38,
-    "endTime": 35.08,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 9.38,
-    "end": 35.08
+    "text": "пацана районезна,",
+    "startTime": 11.4,
+    "endTime": 13.12,
+    "words": [
+      {
+        "word": "пацана",
+        "start": 11.4,
+        "end": 12.08,
+        "spoken": true
+      },
+      {
+        "word": "районезна,",
+        "start": 12.08,
+        "end": 13.12,
+        "stretch": true
+      }
+    ],
+    "time": 11.4,
+    "end": 13.12
   },
   {
-    "text": "Их так много, кто считает себя оцом",
-    "startTime": 35.08,
-    "endTime": 39.96,
+    "text": "ты не оставляешь пальцы, пацана районезна,",
+    "startTime": 16.16,
+    "endTime": 20.2,
+    "words": [
+      {
+        "word": "ты",
+        "start": 16.16,
+        "end": 16.18
+      },
+      {
+        "word": "не",
+        "start": 16.18,
+        "end": 16.46,
+        "spoken": true
+      },
+      {
+        "word": "оставляешь",
+        "start": 16.46,
+        "end": 17.04,
+        "spoken": true
+      },
+      {
+        "word": "пальцы,",
+        "start": 17.04,
+        "end": 18.02,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "пацана",
+        "start": 18.08,
+        "end": 18.84,
+        "spoken": true
+      },
+      {
+        "word": "районезна,",
+        "start": 18.84,
+        "end": 20.2,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 16.16,
+    "end": 20.2
+  },
+  {
+    "text": "ты не оставляешь пальцы, пацана районезна,",
+    "startTime": 20.42,
+    "endTime": 24.22,
+    "words": [
+      {
+        "word": "ты",
+        "start": 20.42,
+        "end": 20.46
+      },
+      {
+        "word": "не",
+        "start": 20.46,
+        "end": 21.06,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "оставляешь",
+        "start": 21.06,
+        "end": 21.84
+      },
+      {
+        "word": "пальцы,",
+        "start": 21.84,
+        "end": 22.5,
+        "spoken": true
+      },
+      {
+        "word": "пацана",
+        "start": 22.74,
+        "end": 23.34,
+        "spoken": true
+      },
+      {
+        "word": "районезна,",
+        "start": 23.34,
+        "end": 24.22,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 20.42,
+    "end": 24.22
+  },
+  {
+    "text": "ты не оставляешь пальцы, пацана районезна,",
+    "startTime": 24.22,
+    "endTime": 24.22,
+    "words": [
+      {
+        "word": "ты",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "не",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "оставляешь",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "пальцы,",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "пацана",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "районезна,",
+        "start": 24.22,
+        "end": 24.22
+      }
+    ],
+    "time": 24.22,
+    "end": 24.22
+  },
+  {
+    "text": "ты не оставляешь пальцы, пацана районезна,",
+    "startTime": 24.22,
+    "endTime": 24.22,
+    "words": [
+      {
+        "word": "ты",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "не",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "оставляешь",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "пальцы,",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "пацана",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "районезна,",
+        "start": 24.22,
+        "end": 24.22
+      }
+    ],
+    "time": 24.22,
+    "end": 24.22
+  },
+  {
+    "text": "ты не оставляешь пальцы, пацана районезна,",
+    "startTime": 24.22,
+    "endTime": 24.22,
+    "words": [
+      {
+        "word": "ты",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "не",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "оставляешь",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "пальцы,",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "пацана",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "районезна,",
+        "start": 24.22,
+        "end": 24.22
+      }
+    ],
+    "time": 24.22,
+    "end": 24.22
+  },
+  {
+    "text": "ты не оставляешь пальцы, пацана районезна,",
+    "startTime": 24.22,
+    "endTime": 24.22,
+    "words": [
+      {
+        "word": "ты",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "не",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "оставляешь",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "пальцы,",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "пацана",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "районезна,",
+        "start": 24.22,
+        "end": 24.22
+      }
+    ],
+    "time": 24.22,
+    "end": 24.22
+  },
+  {
+    "text": "ты не оставляешь пальцы, пацана районезна,",
+    "startTime": 24.22,
+    "endTime": 24.22,
+    "words": [
+      {
+        "word": "ты",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "не",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "оставляешь",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "пальцы,",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "пацана",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "районезна,",
+        "start": 24.22,
+        "end": 24.22
+      }
+    ],
+    "time": 24.22,
+    "end": 24.22
+  },
+  {
+    "text": "ты не оставляешь пальцы, пацана районезна,",
+    "startTime": 24.22,
+    "endTime": 24.5,
+    "words": [
+      {
+        "word": "ты",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "не",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "оставляешь",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "пальцы,",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "пацана",
+        "start": 24.22,
+        "end": 24.22
+      },
+      {
+        "word": "районезна,",
+        "start": 24.22,
+        "end": 24.5,
+        "spoken": true
+      }
+    ],
+    "time": 24.22,
+    "end": 24.5
+  },
+  {
+    "text": "ты не оставляешь пальцы, пацана районезна,",
+    "startTime": 24.5,
+    "endTime": 24.54,
+    "words": [
+      {
+        "word": "ты",
+        "start": 24.5,
+        "end": 24.58,
+        "spoken": true
+      },
+      {
+        "word": "не",
+        "start": 24.58,
+        "end": 24.66,
+        "spoken": true
+      },
+      {
+        "word": "оставляешь",
+        "start": 24.66,
+        "end": 24.743,
+        "spoken": true
+      },
+      {
+        "word": "пальцы,",
+        "start": 24.743,
+        "end": 24.81,
+        "spoken": true
+      },
+      {
+        "word": "пацана",
+        "start": 24.76,
+        "end": 24.81
+      },
+      {
+        "word": "районезна,",
+        "start": 24.76,
+        "end": 24.81
+      }
+    ],
+    "time": 24.5,
+    "end": 24.54
+  },
+  {
+    "text": "ты не оставляешь пальцы, пацана районезна,",
+    "startTime": 24.84,
+    "endTime": 28.44,
+    "words": [
+      {
+        "word": "ты",
+        "start": 24.84,
+        "end": 24.98,
+        "spoken": true
+      },
+      {
+        "word": "не",
+        "start": 24.98,
+        "end": 25.42,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "оставляешь",
+        "start": 25.42,
+        "end": 26.28,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "пальцы,",
+        "start": 26.28,
+        "end": 26.92,
+        "spoken": true
+      },
+      {
+        "word": "пацана",
+        "start": 27.02,
+        "end": 27.76,
+        "spoken": true
+      },
+      {
+        "word": "районезна,",
+        "start": 27.76,
+        "end": 28.44,
+        "spoken": true
+      }
+    ],
+    "time": 24.84,
+    "end": 28.44
+  },
+  {
+    "text": "ты не оставляешь пальцы, пацана район",
+    "startTime": 28.44,
+    "endTime": 29.98,
+    "words": [
+      {
+        "word": "ты",
+        "start": 28.44,
+        "end": 28.44
+      },
+      {
+        "word": "не",
+        "start": 28.44,
+        "end": 28.44
+      },
+      {
+        "word": "оставляешь",
+        "start": 28.44,
+        "end": 28.72,
+        "spoken": true
+      },
+      {
+        "word": "пальцы,",
+        "start": 28.72,
+        "end": 29.26,
+        "spoken": true
+      },
+      {
+        "word": "пацана",
+        "start": 29.36,
+        "end": 29.86,
+        "spoken": true
+      },
+      {
+        "word": "район",
+        "start": 29.86,
+        "end": 29.98,
+        "spoken": true
+      }
+    ],
+    "time": 28.44,
+    "end": 29.98
+  },
+  {
+    "text": "Их так много, кто считает себя оцом Мы курим по коне, а",
+    "startTime": 34.72,
+    "endTime": 42.58,
     "words": [
       {
         "word": "Их",
-        "start": 35.08,
-        "end": 35.8,
+        "start": 34.72,
+        "end": 35.88,
         "stretch": true,
         "spoken": true
       },
       {
         "word": "так",
-        "start": 35.986,
-        "end": 36.14,
+        "start": 36.019,
+        "end": 36.16,
         "spoken": true
       },
       {
         "word": "много,",
-        "start": 36.14,
+        "start": 36.16,
         "end": 36.46,
         "spoken": true
       },
       {
         "word": "кто",
         "start": 36.46,
-        "end": 36.86,
+        "end": 36.82,
         "spoken": true
       },
       {
         "word": "считает",
-        "start": 36.86,
-        "end": 37.76,
+        "start": 36.82,
+        "end": 37.74,
         "stretch": true,
         "spoken": true
       },
       {
         "word": "себя",
-        "start": 37.76,
+        "start": 37.74,
         "end": 38.86,
         "stretch": true,
         "spoken": true
@@ -188,92 +615,434 @@
       {
         "word": "оцом",
         "start": 38.86,
-        "end": 39.96,
+        "end": 39.94,
         "stretch": true
-      }
-    ],
-    "time": 35.08,
-    "end": 39.96
-  },
-  {
-    "text": "●",
-    "startTime": 40.26,
-    "endTime": 68.22,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 40.26,
-    "end": 68.22
-  },
-  {
-    "text": "Перестали следить за терроры Снова вылезли свои тёмные",
-    "startTime": 68.22,
-    "endTime": 75.38,
-    "words": [
+      },
       {
-        "word": "Перестали",
-        "start": 68.22,
-        "end": 68.94,
+        "word": "Мы",
+        "start": 39.94,
+        "end": 40.44,
+        "stretch": true,
         "spoken": true
       },
       {
+        "word": "курим",
+        "start": 40.44,
+        "end": 41.14,
+        "spoken": true
+      },
+      {
+        "word": "по",
+        "start": 41.14,
+        "end": 41.7,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "коне,",
+        "start": 41.7,
+        "end": 42.2,
+        "spoken": true
+      },
+      {
+        "word": "а",
+        "start": 42.2,
+        "end": 42.58,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 34.72,
+    "end": 42.58
+  },
+  {
+    "text": "не имеет лицом",
+    "startTime": 42.58,
+    "endTime": 44.62,
+    "words": [
+      {
+        "word": "не",
+        "start": 42.58,
+        "end": 42.78,
+        "spoken": true
+      },
+      {
+        "word": "имеет",
+        "start": 42.78,
+        "end": 43.32,
+        "spoken": true
+      },
+      {
+        "word": "лицом",
+        "start": 43.32,
+        "end": 44.62,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 42.58,
+    "end": 44.62
+  },
+  {
+    "text": "Проблема в том, что человек и закон Перестали следить за языком",
+    "startTime": 44.62,
+    "endTime": 53.2,
+    "words": [
+      {
+        "word": "Проблема",
+        "start": 44.62,
+        "end": 45.54,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "в",
+        "start": 45.54,
+        "end": 45.64,
+        "spoken": true
+      },
+      {
+        "word": "том,",
+        "start": 45.64,
+        "end": 45.92,
+        "spoken": true
+      },
+      {
+        "word": "что",
+        "start": 46.02,
+        "end": 46.64,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "человек",
+        "start": 46.64,
+        "end": 47.54,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "и",
+        "start": 47.54,
+        "end": 48.06,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "закон",
+        "start": 48.06,
+        "end": 48.7
+      },
+      {
+        "word": "Перестали",
+        "start": 48.7,
+        "end": 50.52,
+        "stretch": true
+      },
+      {
         "word": "следить",
-        "start": 69.126,
-        "end": 69.66,
+        "start": 50.52,
+        "end": 51.72,
+        "stretch": true,
         "spoken": true
       },
       {
         "word": "за",
-        "start": 69.66,
-        "end": 69.94,
+        "start": 51.72,
+        "end": 52.3,
+        "stretch": true,
         "spoken": true
       },
       {
-        "word": "терроры",
-        "start": 73.18,
-        "end": 73.66,
+        "word": "языком",
+        "start": 52.3,
+        "end": 53.2,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 44.62,
+    "end": 53.2
+  },
+  {
+    "text": "Их так много, кто считает себя оцом Мы курим по коне, а",
+    "startTime": 53.2,
+    "endTime": 60.5,
+    "words": [
+      {
+        "word": "Их",
+        "start": 53.2,
+        "end": 53.82,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "так",
+        "start": 53.976,
+        "end": 54.08,
+        "spoken": true
+      },
+      {
+        "word": "много,",
+        "start": 54.08,
+        "end": 54.36,
+        "spoken": true
+      },
+      {
+        "word": "кто",
+        "start": 54.36,
+        "end": 54.76,
+        "spoken": true
+      },
+      {
+        "word": "считает",
+        "start": 54.76,
+        "end": 55.62,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "себя",
+        "start": 55.759,
+        "end": 56.76,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "оцом",
+        "start": 57.015,
+        "end": 57.8,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "Мы",
+        "start": 57.939,
+        "end": 58.36,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "курим",
+        "start": 58.36,
+        "end": 59.12,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "по",
+        "start": 59.12,
+        "end": 59.64,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "коне,",
+        "start": 59.64,
+        "end": 60.18,
+        "spoken": true
+      },
+      {
+        "word": "а",
+        "start": 60.18,
+        "end": 60.5,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 53.2,
+    "end": 60.5
+  },
+  {
+    "text": "не имеет лицом",
+    "startTime": 60.5,
+    "endTime": 62.52,
+    "words": [
+      {
+        "word": "не",
+        "start": 60.68,
+        "end": 60.8,
+        "spoken": true
+      },
+      {
+        "word": "имеет",
+        "start": 60.8,
+        "end": 61.26,
+        "spoken": true
+      },
+      {
+        "word": "лицом",
+        "start": 61.61,
+        "end": 62.52,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 60.5,
+    "end": 62.52
+  },
+  {
+    "text": "Проблема в том, что человек и закон Перестали следить за языком",
+    "startTime": 62.52,
+    "endTime": 71.76,
+    "words": [
+      {
+        "word": "Проблема",
+        "start": 62.52,
+        "end": 63.5,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "в",
+        "start": 63.5,
+        "end": 63.58,
+        "spoken": true
+      },
+      {
+        "word": "том,",
+        "start": 63.58,
+        "end": 63.78,
+        "spoken": true
+      },
+      {
+        "word": "что",
+        "start": 63.98,
+        "end": 64.58,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "человек",
+        "start": 64.93,
+        "end": 65.48,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "и",
+        "start": 65.83,
+        "end": 66.16,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "закон",
+        "start": 66.16,
+        "end": 67.24,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "Перестали",
+        "start": 67.24,
+        "end": 68.46,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "следить",
+        "start": 68.669,
+        "end": 69.64,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "за",
+        "start": 69.64,
+        "end": 70.24,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "языком",
+        "start": 70.24,
+        "end": 71.76,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 62.52,
+    "end": 71.76
+  },
+  {
+    "text": "Четыре вновь гонятся в тамтероры Снова вылезают свои тёмные норы",
+    "startTime": 71.76,
+    "endTime": 75.66,
+    "words": [
+      {
+        "word": "Четыре",
+        "start": 71.76,
+        "end": 72.24,
+        "spoken": true
+      },
+      {
+        "word": "вновь",
+        "start": 72.24,
+        "end": 72.4,
+        "spoken": true
+      },
+      {
+        "word": "гонятся",
+        "start": 72.4,
+        "end": 72.86,
+        "spoken": true
+      },
+      {
+        "word": "в",
+        "start": 72.86,
+        "end": 73.14,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "тамтероры",
+        "start": 73.14,
+        "end": 73.64,
         "spoken": true
       },
       {
         "word": "Снова",
-        "start": 73.66,
+        "start": 73.64,
         "end": 74.04,
         "spoken": true
       },
       {
-        "word": "вылезли",
+        "word": "вылезают",
         "start": 74.11,
-        "end": 74.58,
+        "end": 74.56,
         "spoken": true
       },
       {
         "word": "свои",
-        "start": 74.58,
+        "start": 74.56,
         "end": 74.82,
         "spoken": true
       },
       {
         "word": "тёмные",
         "start": 74.983,
-        "end": 75.38
-      }
-    ],
-    "time": 68.22,
-    "end": 75.38
-  },
-  {
-    "text": "норы Сука террорист в эти дворы",
-    "startTime": 75.38,
-    "endTime": 77.34,
-    "words": [
-      {
-        "word": "норы",
-        "start": 75.38,
-        "end": 75.68,
+        "end": 75.38,
         "spoken": true
       },
       {
+        "word": "норы",
+        "start": 75.38,
+        "end": 75.66,
+        "spoken": true
+      }
+    ],
+    "time": 71.76,
+    "end": 75.66
+  },
+  {
+    "text": "Сука террорист в эти дворы Чтобы забрать миро дары",
+    "startTime": 75.66,
+    "endTime": 79.06,
+    "words": [
+      {
         "word": "Сука",
-        "start": 75.68,
+        "start": 75.876,
         "end": 76.02,
         "spoken": true
       },
@@ -286,63 +1055,64 @@
       {
         "word": "в",
         "start": 76.56,
-        "end": 76.7,
+        "end": 76.72,
+        "stretch": true,
         "spoken": true
       },
       {
         "word": "эти",
-        "start": 76.7,
+        "start": 76.72,
         "end": 76.88,
         "spoken": true
       },
       {
         "word": "дворы",
         "start": 76.88,
-        "end": 77.34,
+        "end": 77.32,
         "spoken": true
-      }
-    ],
-    "time": 75.38,
-    "end": 77.34
-  },
-  {
-    "text": "Чтобы забрать миро дары, для сноса мозговой коры",
-    "startTime": 77.34,
-    "endTime": 80.5,
-    "words": [
+      },
       {
         "word": "Чтобы",
-        "start": 77.34,
-        "end": 77.7,
+        "start": 77.32,
+        "end": 77.68,
         "spoken": true
       },
       {
         "word": "забрать",
-        "start": 77.7,
+        "start": 77.68,
         "end": 78.24,
         "spoken": true
       },
       {
         "word": "миро",
-        "start": 78.564,
-        "end": 78.78,
+        "start": 78.552,
+        "end": 78.76,
         "spoken": true
       },
       {
-        "word": "дары,",
-        "start": 78.78,
-        "end": 79.08,
+        "word": "дары",
+        "start": 78.76,
+        "end": 79.06,
         "spoken": true
-      },
+      }
+    ],
+    "time": 75.66,
+    "end": 79.06
+  },
+  {
+    "text": "Для сноса мозговой коры Нужно то, что хорошо горит",
+    "startTime": 79.06,
+    "endTime": 81.9,
+    "words": [
       {
-        "word": "для",
-        "start": 79.1,
-        "end": 79.36,
+        "word": "Для",
+        "start": 79.06,
+        "end": 79.28,
         "spoken": true
       },
       {
         "word": "сноса",
-        "start": 79.36,
+        "start": 79.28,
         "end": 79.72,
         "spoken": true
       },
@@ -357,175 +1127,200 @@
         "start": 80.16,
         "end": 80.5,
         "spoken": true
-      }
-    ],
-    "time": 77.34,
-    "end": 80.5
-  },
-  {
-    "text": "Нужно то, что хорошо горит, ярче чем фонарик",
-    "startTime": 80.5,
-    "endTime": 83.06,
-    "words": [
+      },
       {
         "word": "Нужно",
         "start": 80.5,
-        "end": 80.82,
+        "end": 80.8,
         "spoken": true
       },
       {
         "word": "то,",
-        "start": 80.82,
+        "start": 80.8,
         "end": 80.96,
         "spoken": true
       },
       {
         "word": "что",
-        "start": 80.96,
-        "end": 81.14,
+        "start": 80.98,
+        "end": 81.12,
         "spoken": true
       },
       {
         "word": "хорошо",
-        "start": 81.14,
+        "start": 81.12,
         "end": 81.54,
         "spoken": true
       },
       {
-        "word": "горит,",
+        "word": "горит",
         "start": 81.54,
         "end": 81.9,
-        "spoken": true
-      },
+        "sung": true
+      }
+    ],
+    "time": 79.06,
+    "end": 81.9
+  },
+  {
+    "text": "Ярче, чем банари В Санкт -Петербурге ночь не подари",
+    "startTime": 81.9,
+    "endTime": 85.08,
+    "words": [
       {
-        "word": "ярче",
-        "start": 82.02,
+        "word": "Ярче,",
+        "start": 81.9,
         "end": 82.3,
         "spoken": true
       },
       {
         "word": "чем",
-        "start": 82.3,
-        "end": 82.56,
+        "start": 82.4,
+        "end": 82.54,
         "spoken": true
       },
       {
-        "word": "фонарик",
-        "start": 82.56,
-        "end": 83.06,
+        "word": "банари",
+        "start": 82.54,
+        "end": 83.0,
         "spoken": true
-      }
-    ],
-    "time": 80.5,
-    "end": 83.06
-  },
-  {
-    "text": "Нож не подарить, попробуй удивить, но не погубить салявик",
-    "startTime": 83.8,
-    "endTime": 87.56,
-    "words": [
+      },
       {
-        "word": "Нож",
-        "start": 83.963,
-        "end": 84.32,
+        "word": "В",
+        "start": 83.12,
+        "end": 83.2,
         "stretch": true,
         "spoken": true
       },
       {
-        "word": "не",
-        "start": 84.32,
-        "end": 84.5,
+        "word": "Санкт",
+        "start": 83.2,
+        "end": 83.58,
         "spoken": true
       },
       {
-        "word": "подарить,",
-        "start": 84.5,
+        "word": "-Петербурге",
+        "start": 83.928,
+        "end": 84.16,
+        "spoken": true
+      },
+      {
+        "word": "ночь",
+        "start": 84.16,
+        "end": 84.38,
+        "spoken": true
+      },
+      {
+        "word": "не",
+        "start": 84.38,
+        "end": 84.56,
+        "spoken": true
+      },
+      {
+        "word": "подари",
+        "start": 84.56,
         "end": 85.08,
         "spoken": true
-      },
+      }
+    ],
+    "time": 81.9,
+    "end": 85.08
+  },
+  {
+    "text": "Попробуй удивить, но не погубить Цель ави",
+    "startTime": 85.08,
+    "endTime": 87.54,
+    "words": [
       {
-        "word": "попробуй",
-        "start": 85.22,
-        "end": 85.74,
+        "word": "Попробуй",
+        "start": 85.08,
+        "end": 85.66,
         "spoken": true
       },
       {
         "word": "удивить,",
-        "start": 85.74,
-        "end": 86.12,
+        "start": 85.66,
+        "end": 86.08,
         "spoken": true
       },
       {
         "word": "но",
-        "start": 86.26,
+        "start": 86.28,
         "end": 86.3
       },
       {
         "word": "не",
         "start": 86.3,
-        "end": 86.54,
+        "end": 86.5,
         "spoken": true
       },
       {
         "word": "погубить",
-        "start": 86.54,
-        "end": 86.98,
+        "start": 86.5,
+        "end": 86.96,
         "spoken": true
       },
       {
-        "word": "салявик",
-        "start": 86.98,
-        "end": 87.56,
+        "word": "Цель",
+        "start": 86.96,
+        "end": 87.3,
+        "spoken": true
+      },
+      {
+        "word": "ави",
+        "start": 87.346,
+        "end": 87.54,
         "spoken": true
       }
     ],
-    "time": 83.8,
-    "end": 87.56
+    "time": 85.08,
+    "end": 87.54
   },
   {
-    "text": "Такова жизнь, она кипит, не надо ли пить живых нотаций",
-    "startTime": 87.56,
-    "endTime": 92.1,
+    "text": "Такова жизнь, она гипит Не надо ли пить",
+    "startTime": 87.54,
+    "endTime": 90.74,
     "words": [
       {
         "word": "Такова",
-        "start": 87.56,
+        "start": 87.54,
         "end": 88.1,
         "spoken": true
       },
       {
         "word": "жизнь,",
         "start": 88.1,
-        "end": 88.54,
+        "end": 88.5,
         "spoken": true
       },
       {
         "word": "она",
-        "start": 88.64,
-        "end": 88.84,
+        "start": 88.56,
+        "end": 88.8,
         "spoken": true
       },
       {
-        "word": "кипит,",
-        "start": 89.19,
-        "end": 89.54,
+        "word": "гипит",
+        "start": 89.15,
+        "end": 89.52,
         "spoken": true
       },
       {
-        "word": "не",
-        "start": 89.7,
-        "end": 89.88,
+        "word": "Не",
+        "start": 89.52,
+        "end": 89.86,
+        "stretch": true,
         "spoken": true
       },
       {
         "word": "надо",
-        "start": 89.88,
-        "end": 90.08,
+        "start": 89.86,
+        "end": 90.1,
         "spoken": true
       },
       {
         "word": "ли",
-        "start": 90.08,
+        "start": 90.1,
         "end": 90.4,
         "stretch": true,
         "spoken": true
@@ -533,278 +1328,280 @@
       {
         "word": "пить",
         "start": 90.4,
-        "end": 90.8
-      },
+        "end": 90.74
+      }
+    ],
+    "time": 87.54,
+    "end": 90.74
+  },
+  {
+    "text": "Живых на отнации Пацан на районе знает",
+    "startTime": 90.74,
+    "endTime": 93.16,
+    "words": [
       {
-        "word": "живых",
-        "start": 90.8,
-        "end": 91.3,
+        "word": "Живых",
+        "start": 90.74,
+        "end": 91.28,
         "spoken": true
       },
       {
-        "word": "нотаций",
-        "start": 91.65,
-        "end": 92.1,
+        "word": "на",
+        "start": 91.28,
+        "end": 91.48,
+        "spoken": true
+      },
+      {
+        "word": "отнации",
+        "start": 91.573,
+        "end": 91.98,
+        "spoken": true
+      },
+      {
+        "word": "Пацан",
+        "start": 92.096,
+        "end": 92.4,
+        "spoken": true
+      },
+      {
+        "word": "на",
+        "start": 92.4,
+        "end": 92.58,
+        "spoken": true
+      },
+      {
+        "word": "районе",
+        "start": 92.58,
+        "end": 92.84,
+        "spoken": true
+      },
+      {
+        "word": "знает",
+        "start": 92.84,
+        "end": 93.16,
         "spoken": true
       }
     ],
-    "time": 87.56,
-    "end": 92.1
+    "time": 90.74,
+    "end": 93.16
   },
   {
-    "text": "Пацаны район не знают и не оставляют пальцев",
-    "startTime": 92.1,
-    "endTime": 94.34,
+    "text": "И не оставляют пальцы Патруль по улице",
+    "startTime": 93.16,
+    "endTime": 95.34,
     "words": [
       {
-        "word": "Пацаны",
-        "start": 92.1,
-        "end": 92.48,
-        "spoken": true
-      },
-      {
-        "word": "район",
-        "start": 92.48,
-        "end": 92.8,
-        "spoken": true
-      },
-      {
-        "word": "не",
-        "start": 92.908,
-        "end": 92.98,
-        "spoken": true
-      },
-      {
-        "word": "знают",
-        "start": 92.98,
-        "end": 93.26,
-        "spoken": true
-      },
-      {
-        "word": "и",
-        "start": 93.26,
+        "word": "И",
+        "start": 93.16,
         "end": 93.38,
+        "stretch": true,
         "spoken": true
       },
       {
         "word": "не",
         "start": 93.38,
-        "end": 93.58,
+        "end": 93.56,
         "spoken": true
       },
       {
         "word": "оставляют",
-        "start": 93.58,
-        "end": 94.0,
+        "start": 93.56,
+        "end": 94.0
+      },
+      {
+        "word": "пальцы",
+        "start": 94.0,
+        "end": 94.32,
         "spoken": true
       },
       {
-        "word": "пальцев",
-        "start": 94.0,
-        "end": 94.34
-      }
-    ],
-    "time": 92.1,
-    "end": 94.34
-  },
-  {
-    "text": "Патруль по улице кружится в танцы, но мы клали на этих",
-    "startTime": 94.34,
-    "endTime": 97.68,
-    "words": [
-      {
         "word": "Патруль",
-        "start": 94.34,
-        "end": 94.76,
+        "start": 94.32,
+        "end": 94.8,
         "spoken": true
       },
       {
         "word": "по",
-        "start": 94.76,
+        "start": 94.8,
         "end": 94.98,
         "spoken": true
       },
       {
         "word": "улице",
         "start": 94.98,
-        "end": 95.36,
+        "end": 95.34,
         "spoken": true
-      },
+      }
+    ],
+    "time": 93.16,
+    "end": 95.34
+  },
+  {
+    "text": "Нужится в танцы Но мы клали на этих сферах засранцы",
+    "startTime": 95.34,
+    "endTime": 98.68,
+    "words": [
       {
-        "word": "кружится",
-        "start": 95.36,
-        "end": 95.88,
+        "word": "Нужится",
+        "start": 95.34,
+        "end": 95.94,
         "spoken": true
       },
       {
         "word": "в",
-        "start": 95.88,
-        "end": 96.14,
+        "start": 95.94,
+        "end": 96.16,
         "stretch": true,
         "spoken": true
       },
       {
-        "word": "танцы,",
-        "start": 96.14,
+        "word": "танцы",
+        "start": 96.16,
         "end": 96.4,
         "spoken": true
       },
       {
-        "word": "но",
-        "start": 96.54,
+        "word": "Но",
+        "start": 96.556,
         "end": 96.66,
         "spoken": true
       },
       {
         "word": "мы",
         "start": 96.66,
-        "end": 96.86,
+        "end": 96.82,
         "spoken": true
       },
       {
         "word": "клали",
-        "start": 96.86,
-        "end": 97.12,
+        "start": 96.82,
+        "end": 97.1,
         "spoken": true
       },
       {
         "word": "на",
-        "start": 97.12,
-        "end": 97.42,
+        "start": 97.1,
+        "end": 97.4,
+        "stretch": true,
         "spoken": true
       },
       {
         "word": "этих",
-        "start": 97.42,
-        "end": 97.68,
-        "spoken": true
-      }
-    ],
-    "time": 94.34,
-    "end": 97.68
-  },
-  {
-    "text": "серых засранцах",
-    "startTime": 97.68,
-    "endTime": 98.72,
-    "words": [
-      {
-        "word": "серых",
-        "start": 97.68,
-        "end": 98.02,
+        "start": 97.4,
+        "end": 97.64,
         "spoken": true
       },
       {
-        "word": "засранцах",
-        "start": 98.37,
-        "end": 98.72,
+        "word": "сферах",
+        "start": 97.64,
+        "end": 98.0,
+        "spoken": true
+      },
+      {
+        "word": "засранцы",
+        "start": 98.35,
+        "end": 98.68,
         "spoken": true
       }
     ],
-    "time": 97.68,
-    "end": 98.72
+    "time": 95.34,
+    "end": 98.68
   },
   {
-    "text": "Скоро новый материал, принимай дар, вынимай нал",
-    "startTime": 98.72,
+    "text": "Скоро новый материал Принимай дар, вынимай нал",
+    "startTime": 98.68,
     "endTime": 101.5,
     "words": [
       {
         "word": "Скоро",
-        "start": 98.72,
-        "end": 99.12,
+        "start": 98.68,
+        "end": 99.1,
         "spoken": true
       },
       {
         "word": "новый",
-        "start": 99.12,
-        "end": 99.32,
+        "start": 99.1,
+        "end": 99.3,
         "spoken": true
       },
       {
-        "word": "материал,",
-        "start": 99.32,
-        "end": 99.88,
+        "word": "материал",
+        "start": 99.3,
+        "end": 99.86,
         "spoken": true
       },
       {
-        "word": "принимай",
-        "start": 100.06,
-        "end": 100.5,
+        "word": "Принимай",
+        "start": 99.86,
+        "end": 100.44,
         "spoken": true
       },
       {
         "word": "дар,",
-        "start": 100.5,
+        "start": 100.44,
         "end": 100.72,
         "spoken": true
       },
       {
         "word": "вынимай",
         "start": 100.86,
-        "end": 101.32,
+        "end": 101.34,
         "spoken": true
       },
       {
         "word": "нал",
-        "start": 101.32,
+        "start": 101.34,
         "end": 101.5,
         "spoken": true
       }
     ],
-    "time": 98.72,
+    "time": 98.68,
     "end": 101.5
   },
   {
-    "text": "Здесь тебе не минимал, мама мы сглубь криминал",
+    "text": "Сдесь степени минимал Мама мы смут криминал",
     "startTime": 101.5,
     "endTime": 104.06,
     "words": [
       {
-        "word": "Здесь",
+        "word": "Сдесь",
         "start": 101.5,
-        "end": 101.72,
+        "end": 101.76,
         "spoken": true
       },
       {
-        "word": "тебе",
-        "start": 101.9,
-        "end": 102.02,
+        "word": "степени",
+        "start": 101.76,
+        "end": 102.16,
         "spoken": true
       },
       {
-        "word": "не",
-        "start": 102.02,
-        "end": 102.24,
-        "spoken": true
-      },
-      {
-        "word": "минимал,",
-        "start": 102.24,
+        "word": "минимал",
+        "start": 102.16,
         "end": 102.66,
         "spoken": true
       },
       {
-        "word": "мама",
-        "start": 102.84,
+        "word": "Мама",
+        "start": 102.66,
         "end": 103.06,
         "spoken": true
       },
       {
         "word": "мы",
         "start": 103.06,
-        "end": 103.26,
+        "end": 103.24,
         "spoken": true
       },
       {
-        "word": "сглубь",
-        "start": 103.26,
-        "end": 103.54,
+        "word": "смут",
+        "start": 103.24,
+        "end": 103.48,
         "spoken": true
       },
       {
         "word": "криминал",
-        "start": 103.54,
+        "start": 103.48,
         "end": 104.06,
         "spoken": true
       }
@@ -813,26 +1610,26 @@
     "end": 104.06
   },
   {
-    "text": "Вдали я вижу чьи -то пятки, значит он -то очень быстро",
+    "text": "Вдаль я вижу чьи -то пятки Значит, кто -то очень",
     "startTime": 104.06,
-    "endTime": 106.88,
+    "endTime": 106.54,
     "words": [
       {
-        "word": "Вдали",
+        "word": "Вдаль",
         "start": 104.06,
-        "end": 104.52,
+        "end": 104.48,
         "spoken": true
       },
       {
         "word": "я",
-        "start": 104.52,
-        "end": 104.7,
+        "start": 104.48,
+        "end": 104.66,
         "stretch": true,
         "spoken": true
       },
       {
         "word": "вижу",
-        "start": 104.7,
+        "start": 104.66,
         "end": 104.88,
         "spoken": true
       },
@@ -845,554 +1642,667 @@
       {
         "word": "-то",
         "start": 105.14,
-        "end": 105.24,
+        "end": 105.22,
         "spoken": true
       },
       {
-        "word": "пятки,",
-        "start": 105.24,
-        "end": 105.52,
+        "word": "пятки",
+        "start": 105.22,
+        "end": 105.48,
         "spoken": true
       },
       {
-        "word": "значит",
-        "start": 105.56,
+        "word": "Значит,",
+        "start": 105.48,
         "end": 105.74,
         "spoken": true
       },
       {
-        "word": "он",
-        "start": 105.74,
-        "end": 106.0,
+        "word": "кто",
+        "start": 105.78,
+        "end": 105.98,
         "spoken": true
       },
       {
         "word": "-то",
-        "start": 106.0,
-        "end": 106.24,
+        "start": 105.98,
+        "end": 106.16,
         "spoken": true
       },
       {
         "word": "очень",
-        "start": 106.24,
-        "end": 106.64,
-        "spoken": true
-      },
-      {
-        "word": "быстро",
-        "start": 106.64,
-        "end": 106.88,
+        "start": 106.16,
+        "end": 106.54,
         "spoken": true
       }
     ],
     "time": 104.06,
-    "end": 106.88
+    "end": 106.54
   },
   {
-    "text": "среагировал",
-    "startTime": 106.88,
-    "endTime": 107.72,
-    "words": [
-      {
-        "word": "среагировал",
-        "start": 106.88,
-        "end": 107.72,
-        "stretch": true,
-        "spoken": true
-      }
-    ],
-    "time": 106.88,
-    "end": 107.72
-  },
-  {
-    "text": "Каждый",
-    "startTime": 107.72,
-    "endTime": 108.12,
+    "text": "Каждый день я вижу бездомных Но не вижу виновных",
+    "startTime": 107.26,
+    "endTime": 112.04,
     "words": [
       {
         "word": "Каждый",
-        "start": 107.72,
-        "end": 108.12,
+        "start": 107.26,
+        "end": 108.1,
+        "stretch": true,
         "spoken": true
-      }
-    ],
-    "time": 107.72,
-    "end": 108.12
-  },
-  {
-    "text": "●",
-    "startTime": 108.42,
-    "endTime": 119.16,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 108.42,
-    "end": 119.16
-  },
-  {
-    "text": "день в зоопарк действительно зло",
-    "startTime": 119.16,
-    "endTime": 120.9,
-    "words": [
+      },
       {
         "word": "день",
-        "start": 119.16,
-        "end": 119.24,
+        "start": 108.1,
+        "end": 108.22,
+        "spoken": true
+      },
+      {
+        "word": "я",
+        "start": 108.22,
+        "end": 108.38,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "вижу",
+        "start": 108.38,
+        "end": 108.56,
+        "spoken": true
+      },
+      {
+        "word": "бездомных",
+        "start": 108.56,
+        "end": 109.44,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "Но",
+        "start": 109.44,
+        "end": 110.38,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "не",
+        "start": 110.38,
+        "end": 110.58,
+        "spoken": true
+      },
+      {
+        "word": "вижу",
+        "start": 110.58,
+        "end": 110.8,
+        "spoken": true
+      },
+      {
+        "word": "виновных",
+        "start": 110.8,
+        "end": 112.04,
+        "stretch": true
+      }
+    ],
+    "time": 107.26,
+    "end": 112.04
+  },
+  {
+    "text": "Потому что они распевают вино Продают свои души в казино",
+    "startTime": 112.04,
+    "endTime": 116.56,
+    "words": [
+      {
+        "word": "Потому",
+        "start": 112.04,
+        "end": 112.56
+      },
+      {
+        "word": "что",
+        "start": 112.56,
+        "end": 112.78,
+        "spoken": true
+      },
+      {
+        "word": "они",
+        "start": 112.78,
+        "end": 113.12,
+        "spoken": true
+      },
+      {
+        "word": "распевают",
+        "start": 113.12,
+        "end": 113.68,
+        "spoken": true
+      },
+      {
+        "word": "вино",
+        "start": 113.68,
+        "end": 114.2,
+        "spoken": true
+      },
+      {
+        "word": "Продают",
+        "start": 114.2,
+        "end": 115.04,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "свои",
+        "start": 115.04,
+        "end": 115.48,
+        "spoken": true
+      },
+      {
+        "word": "души",
+        "start": 115.48,
+        "end": 115.82,
         "spoken": true
       },
       {
         "word": "в",
-        "start": 119.24,
-        "end": 119.4,
-        "stretch": true,
+        "start": 115.82,
+        "end": 115.94,
         "spoken": true
       },
       {
-        "word": "зоопарк",
-        "start": 119.4,
-        "end": 119.88,
+        "word": "казино",
+        "start": 115.94,
+        "end": 116.56,
+        "spoken": true
+      }
+    ],
+    "time": 112.04,
+    "end": 116.56
+  },
+  {
+    "text": "Близкий я дошёл, как будто повезло Этот запарк действительно злой",
+    "startTime": 116.56,
+    "endTime": 120.96,
+    "words": [
+      {
+        "word": "Близкий",
+        "start": 116.56,
+        "end": 117.1,
+        "spoken": true
+      },
+      {
+        "word": "я",
+        "start": 117.1,
+        "end": 117.22,
+        "spoken": true
+      },
+      {
+        "word": "дошёл,",
+        "start": 117.22,
+        "end": 117.72,
+        "spoken": true
+      },
+      {
+        "word": "как",
+        "start": 117.78,
+        "end": 117.92,
+        "spoken": true
+      },
+      {
+        "word": "будто",
+        "start": 117.92,
+        "end": 118.16,
+        "spoken": true
+      },
+      {
+        "word": "повезло",
+        "start": 118.16,
+        "end": 118.72,
+        "spoken": true
+      },
+      {
+        "word": "Этот",
+        "start": 118.72,
+        "end": 119.26,
+        "spoken": true
+      },
+      {
+        "word": "запарк",
+        "start": 119.26,
+        "end": 119.92,
         "spoken": true
       },
       {
         "word": "действительно",
-        "start": 119.88,
+        "start": 119.92,
         "end": 120.56
       },
       {
-        "word": "зло",
+        "word": "злой",
         "start": 120.56,
-        "end": 120.9,
+        "end": 120.96,
         "spoken": true
       }
     ],
-    "time": 119.16,
-    "end": 120.9
+    "time": 116.56,
+    "end": 120.96
   },
   {
-    "text": "Но он полностью окутан зимой, и лезть туда, брат,",
-    "startTime": 120.9,
-    "endTime": 124.02,
+    "text": "Он полностью окутан зимой И лезть туда, брат, души не стой",
+    "startTime": 120.96,
+    "endTime": 124.9,
     "words": [
       {
-        "word": "Но",
-        "start": 120.9,
-        "end": 121.32,
+        "word": "Он",
+        "start": 120.96,
+        "end": 121.38,
         "stretch": true
       },
       {
-        "word": "он",
-        "start": 121.32,
-        "end": 121.5,
-        "spoken": true
-      },
-      {
         "word": "полностью",
-        "start": 121.5,
-        "end": 121.64,
+        "start": 121.38,
+        "end": 121.7,
         "spoken": true
       },
       {
         "word": "окутан",
-        "start": 121.64,
+        "start": 121.7,
         "end": 122.08,
         "spoken": true
       },
       {
-        "word": "зимой,",
+        "word": "зимой",
         "start": 122.08,
-        "end": 122.6,
+        "end": 122.66,
         "spoken": true
       },
       {
-        "word": "и",
-        "start": 122.88,
-        "end": 122.94,
+        "word": "И",
+        "start": 122.66,
+        "end": 122.96,
+        "stretch": true,
         "spoken": true
       },
       {
         "word": "лезть",
-        "start": 122.94,
-        "end": 123.38,
+        "start": 122.96,
+        "end": 123.36,
         "spoken": true
       },
       {
         "word": "туда,",
-        "start": 123.38,
+        "start": 123.36,
         "end": 123.7,
         "spoken": true
       },
       {
         "word": "брат,",
         "start": 123.7,
-        "end": 124.02,
+        "end": 124.0,
         "spoken": true
-      }
-    ],
-    "time": 120.9,
-    "end": 124.02
-  },
-  {
-    "text": "лучше не стой",
-    "startTime": 124.24,
-    "endTime": 124.92,
-    "words": [
+      },
       {
-        "word": "лучше",
-        "start": 124.24,
-        "end": 124.24
+        "word": "души",
+        "start": 124.0,
+        "end": 124.36,
+        "spoken": true
       },
       {
         "word": "не",
-        "start": 124.24,
+        "start": 124.36,
         "end": 124.58,
-        "stretch": true,
         "spoken": true
       },
       {
         "word": "стой",
         "start": 124.58,
-        "end": 124.92,
+        "end": 124.9,
         "spoken": true
       }
     ],
-    "time": 124.24,
-    "end": 124.92
+    "time": 120.96,
+    "end": 124.9
   },
   {
-    "text": "Пора прекратить, играя в героя, быстрее прекратить",
-    "startTime": 124.92,
-    "endTime": 128.92,
+    "text": "Пора прекратить Играй в героя",
+    "startTime": 124.9,
+    "endTime": 127.68,
     "words": [
       {
         "word": "Пора",
-        "start": 124.92,
-        "end": 125.88,
+        "start": 124.9,
+        "end": 125.9,
         "stretch": true,
         "spoken": true
       },
       {
-        "word": "прекратить,",
-        "start": 125.88,
+        "word": "прекратить",
+        "start": 125.9,
         "end": 126.64,
         "spoken": true
       },
       {
-        "word": "играя",
-        "start": 126.96,
-        "end": 127.08,
+        "word": "Играй",
+        "start": 126.64,
+        "end": 127.06,
         "spoken": true
       },
       {
         "word": "в",
-        "start": 127.08,
+        "start": 127.06,
         "end": 127.24,
         "stretch": true,
         "spoken": true
       },
       {
-        "word": "героя,",
+        "word": "героя",
         "start": 127.24,
         "end": 127.68,
         "spoken": true
-      },
+      }
+    ],
+    "time": 124.9,
+    "end": 127.68
+  },
+  {
+    "text": "Быстрее прекратить Играй в героя",
+    "startTime": 127.68,
+    "endTime": 129.94,
+    "words": [
       {
-        "word": "быстрее",
-        "start": 127.82,
+        "word": "Быстрее",
+        "start": 127.68,
         "end": 128.3,
         "spoken": true
       },
       {
         "word": "прекратить",
         "start": 128.3,
-        "end": 128.92,
+        "end": 128.88,
         "spoken": true
-      }
-    ],
-    "time": 124.92,
-    "end": 128.92
-  },
-  {
-    "text": "Играя в героя, пока в тебя не вогнули перо",
-    "startTime": 128.92,
-    "endTime": 132.14,
-    "words": [
+      },
       {
-        "word": "Играя",
-        "start": 128.92,
+        "word": "Играй",
+        "start": 128.88,
         "end": 129.3,
         "spoken": true
       },
       {
         "word": "в",
         "start": 129.3,
-        "end": 129.54,
+        "end": 129.5,
         "stretch": true,
         "spoken": true
       },
       {
-        "word": "героя,",
-        "start": 129.54,
-        "end": 129.98,
+        "word": "героя",
+        "start": 129.5,
+        "end": 129.94,
         "spoken": true
-      },
+      }
+    ],
+    "time": 127.68,
+    "end": 129.94
+  },
+  {
+    "text": "Пока в тебя не вакули перо И ты не сдавь",
+    "startTime": 129.94,
+    "endTime": 133.44,
+    "words": [
       {
-        "word": "пока",
-        "start": 130.22,
-        "end": 130.4,
-        "spoken": true
+        "word": "Пока",
+        "start": 129.94,
+        "end": 130.4
       },
       {
         "word": "в",
         "start": 130.4,
-        "end": 130.56,
-        "stretch": true,
+        "end": 130.54,
         "spoken": true
       },
       {
         "word": "тебя",
-        "start": 130.56,
-        "end": 130.96,
+        "start": 130.54,
+        "end": 130.94,
         "spoken": true
       },
       {
         "word": "не",
-        "start": 130.96,
-        "end": 131.18,
+        "start": 130.94,
+        "end": 131.2,
         "spoken": true
       },
       {
-        "word": "вогнули",
-        "start": 131.18,
-        "end": 131.66,
+        "word": "вакули",
+        "start": 131.2,
+        "end": 131.6,
         "spoken": true
       },
       {
         "word": "перо",
-        "start": 131.66,
-        "end": 132.14,
+        "start": 131.6,
+        "end": 132.16,
         "spoken": true
-      }
-    ],
-    "time": 128.92,
-    "end": 132.14
-  },
-  {
-    "text": "И ты не стал похож на пьеро",
-    "startTime": 132.14,
-    "endTime": 134.26,
-    "words": [
+      },
       {
         "word": "И",
-        "start": 132.14,
-        "end": 132.46,
+        "start": 132.16,
+        "end": 132.42,
         "stretch": true,
         "spoken": true
       },
       {
         "word": "ты",
-        "start": 132.46,
-        "end": 132.72,
+        "start": 132.42,
+        "end": 132.7,
         "spoken": true
       },
       {
         "word": "не",
-        "start": 132.912,
-        "end": 133.04,
+        "start": 132.77,
+        "end": 133.0,
         "stretch": true,
         "spoken": true
       },
       {
-        "word": "стал",
-        "start": 133.04,
-        "end": 133.26,
+        "word": "сдавь",
+        "start": 133.0,
+        "end": 133.44,
         "spoken": true
-      },
+      }
+    ],
+    "time": 129.94,
+    "end": 133.44
+  },
+  {
+    "text": "Похож на пьеро Пора прекратить",
+    "startTime": 133.44,
+    "endTime": 135.54,
+    "words": [
       {
-        "word": "похож",
-        "start": 133.26,
-        "end": 133.68,
+        "word": "Похож",
+        "start": 133.579,
+        "end": 133.72,
         "spoken": true
       },
       {
         "word": "на",
-        "start": 133.68,
+        "start": 133.72,
         "end": 133.84,
         "spoken": true
       },
       {
         "word": "пьеро",
         "start": 133.886,
-        "end": 134.26,
+        "end": 134.28,
         "spoken": true
-      }
-    ],
-    "time": 132.14,
-    "end": 134.26
-  },
-  {
-    "text": "Пора прекратить, играя в героя, быстрее прекратить",
-    "startTime": 134.26,
-    "endTime": 137.78,
-    "words": [
+      },
       {
         "word": "Пора",
-        "start": 134.61,
+        "start": 134.63,
         "end": 134.9,
         "stretch": true,
         "spoken": true
       },
       {
-        "word": "прекратить,",
+        "word": "прекратить",
         "start": 135.109,
-        "end": 135.56,
+        "end": 135.54,
         "spoken": true
-      },
+      }
+    ],
+    "time": 133.44,
+    "end": 135.54
+  },
+  {
+    "text": "Играй в героя Быстрее прекратить",
+    "startTime": 135.54,
+    "endTime": 137.86,
+    "words": [
       {
-        "word": "играя",
-        "start": 135.86,
-        "end": 136.04
+        "word": "Играй",
+        "start": 135.828,
+        "end": 136.02
       },
       {
         "word": "в",
-        "start": 136.156,
-        "end": 136.24,
+        "start": 136.14,
+        "end": 136.22,
         "stretch": true
       },
       {
-        "word": "героя,",
-        "start": 136.24,
-        "end": 136.68,
+        "word": "героя",
+        "start": 136.22,
+        "end": 136.66,
         "spoken": true
       },
       {
-        "word": "быстрее",
-        "start": 137.029,
-        "end": 137.24,
+        "word": "Быстрее",
+        "start": 137.01,
+        "end": 137.26,
         "whisper": true
       },
       {
         "word": "прекратить",
-        "start": 137.379,
-        "end": 137.78,
+        "start": 137.376,
+        "end": 137.86,
         "whisper": true
       }
     ],
-    "time": 134.26,
-    "end": 137.78
+    "time": 135.54,
+    "end": 137.86
   },
   {
-    "text": "Играя в героя, пока в тебя не вогнули перо",
-    "startTime": 137.78,
-    "endTime": 141.16,
+    "text": "Играй в героя Пока в тебя не вакули перо",
+    "startTime": 137.86,
+    "endTime": 141.08,
     "words": [
       {
-        "word": "Играя",
-        "start": 137.78,
+        "word": "Играй",
+        "start": 137.86,
         "end": 138.28,
         "whisper": true
       },
       {
         "word": "в",
-        "start": 138.412,
+        "start": 138.28,
         "end": 138.5,
         "stretch": true,
         "whisper": true
       },
       {
-        "word": "героя,",
+        "word": "героя",
         "start": 138.5,
-        "end": 138.92,
+        "end": 139.02,
         "whisper": true
       },
       {
-        "word": "пока",
-        "start": 139.18,
-        "end": 139.38,
+        "word": "Пока",
+        "start": 139.02,
+        "end": 139.36,
         "whisper": true
       },
       {
         "word": "в",
-        "start": 139.38,
-        "end": 139.52,
+        "start": 139.36,
+        "end": 139.48,
         "whisper": true
       },
       {
         "word": "тебя",
-        "start": 139.52,
-        "end": 139.94,
+        "start": 139.48,
+        "end": 139.88,
         "whisper": true
       },
       {
         "word": "не",
-        "start": 139.94,
-        "end": 140.12,
+        "start": 139.88,
+        "end": 140.14,
         "whisper": true
       },
       {
-        "word": "вогнули",
-        "start": 140.12,
-        "end": 140.6,
+        "word": "вакули",
+        "start": 140.14,
+        "end": 140.56,
         "whisper": true
       },
       {
         "word": "перо",
-        "start": 140.6,
-        "end": 141.16,
+        "start": 140.56,
+        "end": 141.08,
         "whisper": true
       }
     ],
-    "time": 137.78,
-    "end": 141.16
+    "time": 137.86,
+    "end": 141.08
   },
   {
-    "text": "И ты не стал похож на пьеро",
-    "startTime": 141.16,
-    "endTime": 143.28,
+    "text": "И ты не сдавь Похож на пьеро",
+    "startTime": 141.08,
+    "endTime": 143.26,
     "words": [
       {
         "word": "И",
-        "start": 141.16,
-        "end": 141.48,
+        "start": 141.08,
+        "end": 141.42,
         "stretch": true,
         "whisper": true
       },
       {
         "word": "ты",
-        "start": 141.48,
+        "start": 141.42,
         "end": 141.74,
+        "stretch": true,
         "whisper": true
       },
       {
         "word": "не",
         "start": 141.74,
-        "end": 142.04,
+        "end": 142.0,
         "whisper": true
       },
       {
-        "word": "стал",
-        "start": 142.04,
-        "end": 142.24,
+        "word": "сдавь",
+        "start": 142.0,
+        "end": 142.42,
         "whisper": true
       },
       {
-        "word": "похож",
-        "start": 142.24,
-        "end": 142.68,
+        "word": "Похож",
+        "start": 142.42,
+        "end": 142.72,
         "whisper": true
       },
       {
         "word": "на",
-        "start": 142.68,
-        "end": 142.84,
+        "start": 142.72,
+        "end": 142.82,
         "whisper": true
       },
       {
         "word": "пьеро",
-        "start": 142.84,
-        "end": 143.28,
+        "start": 142.82,
+        "end": 143.26,
         "whisper": true
       }
     ],
-    "time": 141.16,
-    "end": 143.28
+    "time": 141.08,
+    "end": 143.26
   }
 ]

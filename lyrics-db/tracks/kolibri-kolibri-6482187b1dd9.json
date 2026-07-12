@@ -1,75 +1,1246 @@
 [
   {
-    "text": "Я с тобой",
-    "startTime": 2.59,
-    "endTime": 11.06,
+    "text": "●",
+    "startTime": 0.3,
+    "endTime": 29.84,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 0.3,
+    "end": 29.84
+  },
+  {
+    "text": "Я з тобою",
+    "startTime": 29.84,
+    "endTime": 29.98,
     "words": [
       {
         "word": "Я",
-        "start": 2.776,
-        "end": 3.99,
+        "start": 29.84,
+        "end": 29.92,
+        "spoken": true
+      },
+      {
+        "word": "з",
+        "start": 29.92,
+        "end": 29.94
+      },
+      {
+        "word": "тобою",
+        "start": 29.94,
+        "end": 29.98
+      }
+    ],
+    "time": 29.84,
+    "end": 29.98
+  },
+  {
+    "text": "У волосі є квіти",
+    "startTime": 30.0,
+    "endTime": 32.4,
+    "words": [
+      {
+        "word": "У",
+        "start": 30.0,
+        "end": 30.28,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "волосі",
+        "start": 30.582,
+        "end": 31.26,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "є",
+        "start": 31.26,
+        "end": 31.58,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "квіти",
+        "start": 31.93,
+        "end": 32.4,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 30.0,
+    "end": 32.4
+  },
+  {
+    "text": "А квіти?",
+    "startTime": 32.4,
+    "endTime": 33.14,
+    "words": [
+      {
+        "word": "А",
+        "start": 32.592,
+        "end": 32.72,
+        "stretch": true
+      },
+      {
+        "word": "квіти?",
+        "start": 32.972,
+        "end": 33.14,
+        "spoken": true
+      }
+    ],
+    "time": 32.4,
+    "end": 33.14
+  },
+  {
+    "text": "Білі -білі -білі квіти",
+    "startTime": 33.78,
+    "endTime": 35.94,
+    "words": [
+      {
+        "word": "Білі",
+        "start": 34.012,
+        "end": 34.26,
+        "spoken": true
+      },
+      {
+        "word": "-білі",
+        "start": 34.515,
+        "end": 34.74,
+        "spoken": true
+      },
+      {
+        "word": "-білі",
+        "start": 34.972,
+        "end": 35.2,
+        "spoken": true
+      },
+      {
+        "word": "квіти",
+        "start": 35.455,
+        "end": 35.94,
+        "sung": true
+      }
+    ],
+    "time": 33.78,
+    "end": 35.94
+  },
+  {
+    "text": "Я буду",
+    "startTime": 35.94,
+    "endTime": 36.94,
+    "words": [
+      {
+        "word": "Я",
+        "start": 35.986,
+        "end": 36.6,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "буду",
+        "start": 36.804,
+        "end": 36.94,
+        "spoken": true
+      }
+    ],
+    "time": 35.94,
+    "end": 36.94
+  },
+  {
+    "text": "Буду -буду до тебе бігти",
+    "startTime": 36.94,
+    "endTime": 40.16,
+    "words": [
+      {
+        "word": "Буду",
+        "start": 37.29,
+        "end": 38.14,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "-буду",
+        "start": 38.395,
+        "end": 38.6,
+        "spoken": true
+      },
+      {
+        "word": "до",
+        "start": 38.832,
+        "end": 39.0,
+        "stretch": true
+      },
+      {
+        "word": "тебе",
+        "start": 39.252,
+        "end": 39.42
+      },
+      {
+        "word": "бігти",
+        "start": 39.77,
+        "end": 40.16,
+        "spoken": true
+      }
+    ],
+    "time": 36.94,
+    "end": 40.16
+  },
+  {
+    "text": "А квіти?",
+    "startTime": 40.16,
+    "endTime": 40.9,
+    "words": [
+      {
+        "word": "А",
+        "start": 40.16,
+        "end": 40.46,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "квіти?",
+        "start": 40.724,
+        "end": 40.9,
+        "spoken": true
+      }
+    ],
+    "time": 40.16,
+    "end": 40.9
+  },
+  {
+    "text": "Білі -білі -білі квіти",
+    "startTime": 41.38,
+    "endTime": 43.72,
+    "words": [
+      {
+        "word": "Білі",
+        "start": 41.668,
+        "end": 41.86,
+        "spoken": true
+      },
+      {
+        "word": "-білі",
+        "start": 42.21,
+        "end": 42.48,
+        "spoken": true
+      },
+      {
+        "word": "-білі",
+        "start": 42.712,
+        "end": 43.0
+      },
+      {
+        "word": "квіти",
+        "start": 43.209,
+        "end": 43.72,
+        "spoken": true
+      }
+    ],
+    "time": 41.38,
+    "end": 43.72
+  },
+  {
+    "text": "Я буду",
+    "startTime": 43.72,
+    "endTime": 44.88,
+    "words": [
+      {
+        "word": "Я",
+        "start": 44.07,
+        "end": 44.4,
         "stretch": true,
         "sung": true
       },
       {
-        "word": "с",
-        "start": 5.743,
-        "end": 7.05,
+        "word": "буду",
+        "start": 44.632,
+        "end": 44.88
+      }
+    ],
+    "time": 43.72,
+    "end": 44.88
+  },
+  {
+    "text": "Буду -буду з тобою гріти",
+    "startTime": 44.88,
+    "endTime": 47.8,
+    "words": [
+      {
+        "word": "Буду",
+        "start": 45.135,
+        "end": 45.9,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "-буду",
+        "start": 46.132,
+        "end": 46.32,
+        "spoken": true
+      },
+      {
+        "word": "з",
+        "start": 46.32,
+        "end": 46.58,
         "stretch": true
       },
       {
-        "word": "тобой",
-        "start": 10.48,
-        "end": 11.06,
+        "word": "тобою",
+        "start": 46.928,
+        "end": 47.16,
+        "spoken": true
+      },
+      {
+        "word": "гріти",
+        "start": 47.16,
+        "end": 47.8,
         "spoken": true
       }
     ],
-    "time": 2.59,
-    "end": 11.06
+    "time": 44.88,
+    "end": 47.8
   },
   {
-    "text": "●",
-    "startTime": 11.36,
-    "endTime": 95.01,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 11.36,
-    "end": 95.01
+    "text": "А квіти?",
+    "startTime": 47.8,
+    "endTime": 48.64,
+    "words": [
+      {
+        "word": "А",
+        "start": 48.052,
+        "end": 48.22,
+        "stretch": true
+      },
+      {
+        "word": "квіти?",
+        "start": 48.472,
+        "end": 48.64,
+        "spoken": true
+      }
+    ],
+    "time": 47.8,
+    "end": 48.64
   },
   {
-    "text": "Я с тобой",
-    "startTime": 95.01,
-    "endTime": 96.13,
+    "text": "Білі -білі -білі квіти",
+    "startTime": 49.12,
+    "endTime": 51.42,
+    "words": [
+      {
+        "word": "Білі",
+        "start": 49.408,
+        "end": 49.6,
+        "spoken": true
+      },
+      {
+        "word": "-білі",
+        "start": 49.95,
+        "end": 50.22,
+        "spoken": true
+      },
+      {
+        "word": "-білі",
+        "start": 50.429,
+        "end": 50.7,
+        "spoken": true
+      },
+      {
+        "word": "квіти",
+        "start": 50.932,
+        "end": 51.42,
+        "spoken": true
+      }
+    ],
+    "time": 49.12,
+    "end": 51.42
+  },
+  {
+    "text": "Я буду",
+    "startTime": 51.42,
+    "endTime": 52.6,
     "words": [
       {
         "word": "Я",
-        "start": 95.01,
-        "end": 95.17,
-        "whisper": true
+        "start": 51.466,
+        "end": 52.12,
+        "stretch": true,
+        "spoken": true
       },
       {
-        "word": "с",
-        "start": 95.266,
-        "end": 95.33,
-        "whisper": true
-      },
-      {
-        "word": "тобой",
-        "start": 95.655,
-        "end": 96.13,
+        "word": "буду",
+        "start": 52.375,
+        "end": 52.6,
         "spoken": true
       }
     ],
-    "time": 95.01,
-    "end": 96.13
+    "time": 51.42,
+    "end": 52.6
+  },
+  {
+    "text": "Буду -буду до тебе бігти",
+    "startTime": 52.6,
+    "endTime": 55.64,
+    "words": [
+      {
+        "word": "Буду",
+        "start": 52.879,
+        "end": 53.62,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "-буду",
+        "start": 53.836,
+        "end": 53.98,
+        "spoken": true
+      },
+      {
+        "word": "до",
+        "start": 54.292,
+        "end": 54.5,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "тебе",
+        "start": 54.74,
+        "end": 54.9,
+        "sung": true
+      },
+      {
+        "word": "бігти",
+        "start": 55.25,
+        "end": 55.64,
+        "spoken": true
+      }
+    ],
+    "time": 52.6,
+    "end": 55.64
+  },
+  {
+    "text": "А квіти?",
+    "startTime": 55.64,
+    "endTime": 56.38,
+    "words": [
+      {
+        "word": "А",
+        "start": 55.803,
+        "end": 55.96,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "квіти?",
+        "start": 56.212,
+        "end": 56.38,
+        "spoken": true
+      }
+    ],
+    "time": 55.64,
+    "end": 56.38
+  },
+  {
+    "text": "Білі -білі -білі квіти",
+    "startTime": 56.6,
+    "endTime": 59.2,
+    "words": [
+      {
+        "word": "Білі",
+        "start": 56.763,
+        "end": 57.36,
+        "stretch": true
+      },
+      {
+        "word": "-білі",
+        "start": 57.71,
+        "end": 57.96,
+        "spoken": true
+      },
+      {
+        "word": "-білі",
+        "start": 58.192,
+        "end": 58.48,
+        "spoken": true
+      },
+      {
+        "word": "квіти",
+        "start": 58.712,
+        "end": 59.2,
+        "spoken": true
+      }
+    ],
+    "time": 56.6,
+    "end": 59.2
+  },
+  {
+    "text": "Я буду, буду, буду з тобою гріти",
+    "startTime": 59.2,
+    "endTime": 63.28,
+    "words": [
+      {
+        "word": "Я",
+        "start": 59.55,
+        "end": 59.82,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "буду,",
+        "start": 60.084,
+        "end": 60.26,
+        "spoken": true
+      },
+      {
+        "word": "буду,",
+        "start": 60.623,
+        "end": 61.22,
+        "stretch": true
+      },
+      {
+        "word": "буду",
+        "start": 61.536,
+        "end": 61.68,
+        "spoken": true
+      },
+      {
+        "word": "з",
+        "start": 61.68,
+        "end": 62.08,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "тобою",
+        "start": 62.43,
+        "end": 62.68,
+        "spoken": true
+      },
+      {
+        "word": "гріти",
+        "start": 62.68,
+        "end": 63.28,
+        "spoken": true
+      }
+    ],
+    "time": 59.2,
+    "end": 63.28
+  },
+  {
+    "text": "Твій удар піддихить твої ядувиті чари",
+    "startTime": 63.28,
+    "endTime": 67.04,
+    "words": [
+      {
+        "word": "Твій",
+        "start": 63.63,
+        "end": 64.04,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "удар",
+        "start": 64.04,
+        "end": 64.3,
+        "spoken": true
+      },
+      {
+        "word": "піддихить",
+        "start": 64.532,
+        "end": 65.22,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "твої",
+        "start": 65.22,
+        "end": 65.6,
+        "spoken": true
+      },
+      {
+        "word": "ядувиті",
+        "start": 65.948,
+        "end": 66.62,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "чари",
+        "start": 66.872,
+        "end": 67.04,
+        "spoken": true
+      }
+    ],
+    "time": 63.28,
+    "end": 67.04
+  },
+  {
+    "text": "На столі розбитий келих і під ранок маримари",
+    "startTime": 67.04,
+    "endTime": 71.0,
+    "words": [
+      {
+        "word": "На",
+        "start": 67.04,
+        "end": 67.28
+      },
+      {
+        "word": "столі",
+        "start": 67.63,
+        "end": 67.9,
+        "spoken": true
+      },
+      {
+        "word": "розбитий",
+        "start": 67.9,
+        "end": 68.6,
+        "spoken": true
+      },
+      {
+        "word": "келих",
+        "start": 68.855,
+        "end": 69.1,
+        "spoken": true
+      },
+      {
+        "word": "і",
+        "start": 69.1,
+        "end": 69.28,
+        "stretch": true
+      },
+      {
+        "word": "під",
+        "start": 69.326,
+        "end": 69.56,
+        "spoken": true
+      },
+      {
+        "word": "ранок",
+        "start": 69.792,
+        "end": 70.02,
+        "spoken": true
+      },
+      {
+        "word": "маримари",
+        "start": 70.299,
+        "end": 71.0,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 67.04,
+    "end": 71.0
+  },
+  {
+    "text": "На годинку п 'ята розірване наше фото",
+    "startTime": 71.0,
+    "endTime": 74.8,
+    "words": [
+      {
+        "word": "На",
+        "start": 71.279,
+        "end": 71.62,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "годинку",
+        "start": 71.759,
+        "end": 72.44,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "п",
+        "start": 72.44,
+        "end": 72.54,
+        "spoken": true
+      },
+      {
+        "word": "'ята",
+        "start": 72.54,
+        "end": 72.76,
+        "spoken": true
+      },
+      {
+        "word": "розірване",
+        "start": 72.76,
+        "end": 73.76,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "наше",
+        "start": 74.072,
+        "end": 74.28,
+        "sung": true
+      },
+      {
+        "word": "фото",
+        "start": 74.592,
+        "end": 74.8,
+        "sung": true
+      }
+    ],
+    "time": 71.0,
+    "end": 74.8
+  },
+  {
+    "text": "У стакані ром і м 'ята, алло, пронто, пронто",
+    "startTime": 74.8,
+    "endTime": 78.68,
+    "words": [
+      {
+        "word": "У",
+        "start": 74.8,
+        "end": 75.04,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "стакані",
+        "start": 75.39,
+        "end": 75.82
+      },
+      {
+        "word": "ром",
+        "start": 75.82,
+        "end": 76.2,
+        "spoken": true
+      },
+      {
+        "word": "і",
+        "start": 76.2,
+        "end": 76.32
+      },
+      {
+        "word": "м",
+        "start": 76.32,
+        "end": 76.44,
+        "spoken": true
+      },
+      {
+        "word": "'ята,",
+        "start": 76.44,
+        "end": 76.66,
+        "spoken": true
+      },
+      {
+        "word": "алло,",
+        "start": 77.075,
+        "end": 77.4,
+        "spoken": true
+      },
+      {
+        "word": "пронто,",
+        "start": 77.533,
+        "end": 77.94
+      },
+      {
+        "word": "пронто",
+        "start": 78.456,
+        "end": 78.68,
+        "spoken": true
+      }
+    ],
+    "time": 74.8,
+    "end": 78.68
+  },
+  {
+    "text": "Ти гаряча, як липень, і ніжна, як вітри",
+    "startTime": 78.68,
+    "endTime": 82.52,
+    "words": [
+      {
+        "word": "Ти",
+        "start": 78.68,
+        "end": 79.06,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "гаряча,",
+        "start": 79.41,
+        "end": 79.76,
+        "sung": true
+      },
+      {
+        "word": "як",
+        "start": 79.976,
+        "end": 80.12,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "липень,",
+        "start": 80.445,
+        "end": 80.86,
+        "spoken": true
+      },
+      {
+        "word": "і",
+        "start": 80.88,
+        "end": 81.14,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "ніжна,",
+        "start": 81.442,
+        "end": 81.68,
+        "spoken": true
+      },
+      {
+        "word": "як",
+        "start": 81.836,
+        "end": 81.94,
+        "spoken": true
+      },
+      {
+        "word": "вітри",
+        "start": 81.94,
+        "end": 82.52,
+        "spoken": true
+      }
+    ],
+    "time": 78.68,
+    "end": 82.52
+  },
+  {
+    "text": "Ти даєш мені кисень, і розлітаються пелюстки",
+    "startTime": 82.52,
+    "endTime": 87.62,
+    "words": [
+      {
+        "word": "Ти",
+        "start": 82.724,
+        "end": 82.86,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "даєш",
+        "start": 83.184,
+        "end": 83.4,
+        "spoken": true
+      },
+      {
+        "word": "мені",
+        "start": 83.4,
+        "end": 83.92,
+        "spoken": true
+      },
+      {
+        "word": "кисень,",
+        "start": 84.27,
+        "end": 84.64,
+        "spoken": true
+      },
+      {
+        "word": "і",
+        "start": 84.76,
+        "end": 85.42,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "розлітаються",
+        "start": 85.49,
+        "end": 86.7,
+        "stretch": true
+      },
+      {
+        "word": "пелюстки",
+        "start": 86.7,
+        "end": 87.62,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 82.52,
+    "end": 87.62
+  },
+  {
+    "text": "Я з тобою зупиняю час",
+    "startTime": 89.2,
+    "endTime": 91.82,
+    "words": [
+      {
+        "word": "Я",
+        "start": 89.2,
+        "end": 89.52,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "з",
+        "start": 89.52,
+        "end": 89.66,
+        "spoken": true
+      },
+      {
+        "word": "тобою",
+        "start": 89.66,
+        "end": 90.24,
+        "spoken": true
+      },
+      {
+        "word": "зупиняю",
+        "start": 90.24,
+        "end": 91.3,
+        "stretch": true
+      },
+      {
+        "word": "час",
+        "start": 91.3,
+        "end": 91.82,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 89.2,
+    "end": 91.82
+  },
+  {
+    "text": "Щоб вогник не погас",
+    "startTime": 93.1,
+    "endTime": 96.2,
+    "words": [
+      {
+        "word": "Щоб",
+        "start": 93.146,
+        "end": 93.76,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "вогник",
+        "start": 93.992,
+        "end": 94.4,
+        "spoken": true
+      },
+      {
+        "word": "не",
+        "start": 94.4,
+        "end": 94.88,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "погас",
+        "start": 95.23,
+        "end": 96.2,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 93.1,
+    "end": 96.2
+  },
+  {
+    "text": "Ай, літо, літо",
+    "startTime": 96.2,
+    "endTime": 97.96,
+    "words": [
+      {
+        "word": "Ай,",
+        "start": 96.524,
+        "end": 96.74,
+        "stretch": true
+      },
+      {
+        "word": "літо,",
+        "start": 96.896,
+        "end": 97.0,
+        "spoken": true
+      },
+      {
+        "word": "літо",
+        "start": 97.379,
+        "end": 97.96,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 96.2,
+    "end": 97.96
+  },
+  {
+    "text": "Кольору мохіто",
+    "startTime": 97.96,
+    "endTime": 100.12,
+    "words": [
+      {
+        "word": "Кольору",
+        "start": 98.308,
+        "end": 99.26,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "мохіто",
+        "start": 99.33,
+        "end": 100.12,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 97.96,
+    "end": 100.12
+  },
+  {
+    "text": "Губи, губи малинового цвіту",
+    "startTime": 100.12,
+    "endTime": 103.98,
+    "words": [
+      {
+        "word": "Губи,",
+        "start": 100.259,
+        "end": 101.12,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "губи",
+        "start": 101.236,
+        "end": 102.0,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "малинового",
+        "start": 102.232,
+        "end": 103.28,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "цвіту",
+        "start": 103.628,
+        "end": 103.98
+      }
+    ],
+    "time": 100.12,
+    "end": 103.98
+  },
+  {
+    "text": "Наші проблеми понесе вітром",
+    "startTime": 103.98,
+    "endTime": 108.2,
+    "words": [
+      {
+        "word": "Наші",
+        "start": 104.143,
+        "end": 104.88,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "проблеми",
+        "start": 105.112,
+        "end": 105.96,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "понесе",
+        "start": 106.076,
+        "end": 107.34,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "вітром",
+        "start": 107.549,
+        "end": 108.2,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 103.98,
+    "end": 108.2
+  },
+  {
+    "text": "І у твоєму волосі є квіти",
+    "startTime": 108.2,
+    "endTime": 111.72,
+    "words": [
+      {
+        "word": "І",
+        "start": 108.38,
+        "end": 108.5,
+        "stretch": true
+      },
+      {
+        "word": "у",
+        "start": 108.5,
+        "end": 108.8,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "твоєму",
+        "start": 109.009,
+        "end": 109.56,
+        "spoken": true
+      },
+      {
+        "word": "волосі",
+        "start": 109.56,
+        "end": 110.64,
+        "stretch": true
+      },
+      {
+        "word": "є",
+        "start": 110.64,
+        "end": 110.92,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "квіти",
+        "start": 110.92,
+        "end": 111.72,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 108.2,
+    "end": 111.72
+  },
+  {
+    "text": "А квіти?",
+    "startTime": 111.72,
+    "endTime": 112.5,
+    "words": [
+      {
+        "word": "А",
+        "start": 111.929,
+        "end": 112.08,
+        "stretch": true
+      },
+      {
+        "word": "квіти?",
+        "start": 112.332,
+        "end": 112.5
+      }
+    ],
+    "time": 111.72,
+    "end": 112.5
+  },
+  {
+    "text": "Білі, білі, білі квіти",
+    "startTime": 112.72,
+    "endTime": 115.34,
+    "words": [
+      {
+        "word": "Білі,",
+        "start": 112.883,
+        "end": 113.6,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "білі,",
+        "start": 113.879,
+        "end": 114.08,
+        "spoken": true
+      },
+      {
+        "word": "білі",
+        "start": 114.312,
+        "end": 114.66,
+        "spoken": true
+      },
+      {
+        "word": "квіти",
+        "start": 114.823,
+        "end": 115.34,
+        "spoken": true
+      }
+    ],
+    "time": 112.72,
+    "end": 115.34
+  },
+  {
+    "text": "Я буду",
+    "startTime": 115.34,
+    "endTime": 116.32,
+    "words": [
+      {
+        "word": "Я",
+        "start": 115.69,
+        "end": 115.98,
+        "stretch": true
+      },
+      {
+        "word": "буду",
+        "start": 116.184,
+        "end": 116.32,
+        "spoken": true
+      }
+    ],
+    "time": 115.34,
+    "end": 116.32
+  },
+  {
+    "text": "Буду, буду",
+    "startTime": 116.32,
+    "endTime": 117.8,
+    "words": [
+      {
+        "word": "Буду,",
+        "start": 116.67,
+        "end": 117.46,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "буду",
+        "start": 117.46,
+        "end": 117.8,
+        "spoken": true
+      }
+    ],
+    "time": 116.32,
+    "end": 117.8
   },
   {
     "text": "●",
-    "startTime": 95.83,
-    "endTime": 145.706,
+    "startTime": 118.1,
+    "endTime": 129.32,
     "words": [],
     "type": "vocal_cue",
-    "time": 95.83,
-    "end": 145.706
+    "time": 118.1,
+    "end": 129.32
+  },
+  {
+    "text": "Дякую за перегляд!",
+    "startTime": 129.32,
+    "endTime": 142.42,
+    "words": [
+      {
+        "word": "Дякую",
+        "start": 129.67,
+        "end": 130.72,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "за",
+        "start": 130.79,
+        "end": 132.12,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "перегляд!",
+        "start": 132.259,
+        "end": 142.42,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 129.32,
+    "end": 142.42
   }
 ]

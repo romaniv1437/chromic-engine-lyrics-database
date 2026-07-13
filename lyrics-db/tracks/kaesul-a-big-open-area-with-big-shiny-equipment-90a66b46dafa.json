@@ -1,12 +1,12 @@
 [
   {
     "text": "Thank you very much.",
-    "startTime": 0.0,
+    "startTime": 0,
     "endTime": 29.98,
     "words": [
       {
         "word": "Thank",
-        "start": 0.0,
+        "start": 0,
         "end": 0.52,
         "singer": "singer1"
       },
@@ -30,7 +30,7 @@
         "singer": "singer1"
       }
     ],
-    "time": 0.0,
+    "time": 0,
     "end": 29.98
   },
   {
@@ -73,13 +73,13 @@
       {
         "word": "Thank",
         "start": 69.52,
-        "end": 70.0,
+        "end": 70,
         "spoken": true,
         "singer": "singer1"
       },
       {
         "word": "you.",
-        "start": 70.0,
+        "start": 70,
         "end": 70.24,
         "spoken": true,
         "singer": "singer1"

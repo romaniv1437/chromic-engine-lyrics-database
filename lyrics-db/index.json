@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T23:15:54.016759+00:00",
-  "totalTracks": 849,
+  "generatedAt": "2026-07-13T23:22:49.458187+00:00",
+  "totalTracks": 850,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11931,6 +11931,20 @@
       },
       "sourcePath": "https://soundcloud.com/zeln-193461874/something-breathing-me",
       "mtimeMs": 1783984554569
+    },
+    "zombizkull::let me die slowly": {
+      "title": "Let me die slowly",
+      "artist": "zombizkull",
+      "originalTrackName": "zombizkull - Let me die slowly",
+      "source": "whisper_only",
+      "file": "tracks/zombizkull-let-me-die-slowly-840ba342d054.json",
+      "files": {
+        "lyrics": "tracks/zombizkull-let-me-die-slowly-840ba342d054.json",
+        "meta": "tracks/zombizkull-let-me-die-slowly-840ba342d054.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lorenzo-956926670/let-me-die-slowly",
+      "mtimeMs": 1783984970587
     }
   },
   "tracks": [
@@ -23879,6 +23893,20 @@
       },
       "sourcePath": "https://soundcloud.com/zeln-193461874/something-breathing-me",
       "mtimeMs": 1783984554569
+    },
+    {
+      "title": "Let me die slowly",
+      "artist": "zombizkull",
+      "originalTrackName": "zombizkull - Let me die slowly",
+      "source": "whisper_only",
+      "file": "tracks/zombizkull-let-me-die-slowly-840ba342d054.json",
+      "files": {
+        "lyrics": "tracks/zombizkull-let-me-die-slowly-840ba342d054.json",
+        "meta": "tracks/zombizkull-let-me-die-slowly-840ba342d054.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lorenzo-956926670/let-me-die-slowly",
+      "mtimeMs": 1783984970587
     }
   ]
 }

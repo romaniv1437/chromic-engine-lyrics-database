@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T18:20:46.360222+00:00",
-  "totalTracks": 839,
+  "generatedAt": "2026-07-13T19:48:01.960014+00:00",
+  "totalTracks": 840,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11791,6 +11791,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-751671231/february-lil-ghost3-wav",
       "mtimeMs": 1783966847366
+    },
+    "kaesul::a big open area with big shiny equipment": {
+      "title": "a big open area with big shiny equipment",
+      "artist": "KAESUL",
+      "originalTrackName": "KAESUL - a big open area with big shiny equipment",
+      "source": "whisper_only",
+      "file": "tracks/kaesul-a-big-open-area-with-big-shiny-equipment-90a66b46dafa.json",
+      "files": {
+        "lyrics": "tracks/kaesul-a-big-open-area-with-big-shiny-equipment-90a66b46dafa.json",
+        "meta": "tracks/kaesul-a-big-open-area-with-big-shiny-equipment-90a66b46dafa.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-37683766/a-big-open-area-with-big-shiny-equipment-10",
+      "mtimeMs": 1783972083094
     }
   },
   "tracks": [
@@ -23599,6 +23613,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-751671231/february-lil-ghost3-wav",
       "mtimeMs": 1783966847366
+    },
+    {
+      "title": "a big open area with big shiny equipment",
+      "artist": "KAESUL",
+      "originalTrackName": "KAESUL - a big open area with big shiny equipment",
+      "source": "whisper_only",
+      "file": "tracks/kaesul-a-big-open-area-with-big-shiny-equipment-90a66b46dafa.json",
+      "files": {
+        "lyrics": "tracks/kaesul-a-big-open-area-with-big-shiny-equipment-90a66b46dafa.json",
+        "meta": "tracks/kaesul-a-big-open-area-with-big-shiny-equipment-90a66b46dafa.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-37683766/a-big-open-area-with-big-shiny-equipment-10",
+      "mtimeMs": 1783972083094
     }
   ]
 }

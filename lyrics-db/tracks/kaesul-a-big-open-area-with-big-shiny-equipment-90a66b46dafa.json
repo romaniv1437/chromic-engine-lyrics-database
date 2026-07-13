@@ -1,0 +1,254 @@
+[
+  {
+    "text": "Thank you very much.",
+    "startTime": 0.0,
+    "endTime": 29.98,
+    "words": [
+      {
+        "word": "Thank",
+        "start": 0.0,
+        "end": 0.52,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 0.52,
+        "end": 0.52,
+        "singer": "singer1"
+      },
+      {
+        "word": "very",
+        "start": 0.87,
+        "end": 29.98,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "much.",
+        "start": 29.98,
+        "end": 29.98,
+        "singer": "singer1"
+      }
+    ],
+    "time": 0.0,
+    "end": 29.98
+  },
+  {
+    "text": "Thank you.",
+    "startTime": 34.86,
+    "endTime": 36.14,
+    "words": [
+      {
+        "word": "Thank",
+        "start": 34.86,
+        "end": 35.571,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you.",
+        "start": 35.571,
+        "end": 36.14,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 34.86,
+    "end": 36.14
+  },
+  {
+    "text": "●",
+    "startTime": 35.22,
+    "endTime": 69.52,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 35.22,
+    "end": 69.52
+  },
+  {
+    "text": "Thank you.",
+    "startTime": 69.52,
+    "endTime": 70.24,
+    "words": [
+      {
+        "word": "Thank",
+        "start": 69.52,
+        "end": 70.0,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you.",
+        "start": 70.0,
+        "end": 70.24,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 69.52,
+    "end": 70.24
+  },
+  {
+    "text": "●",
+    "startTime": 70.54,
+    "endTime": 94.68,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 70.54,
+    "end": 94.68
+  },
+  {
+    "text": "Thank you.",
+    "startTime": 94.68,
+    "endTime": 96.28,
+    "words": [
+      {
+        "word": "Thank",
+        "start": 95.03,
+        "end": 96.08,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you.",
+        "start": 96.08,
+        "end": 96.28,
+        "singer": "singer1"
+      }
+    ],
+    "time": 94.68,
+    "end": 96.28
+  },
+  {
+    "text": "●",
+    "startTime": 96.58,
+    "endTime": 132.78,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 96.58,
+    "end": 132.78
+  },
+  {
+    "text": "Thank you.",
+    "startTime": 132.78,
+    "endTime": 134.18,
+    "words": [
+      {
+        "word": "Thank",
+        "start": 133.13,
+        "end": 134.18,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you.",
+        "start": 134.18,
+        "end": 134.18,
+        "singer": "singer1"
+      }
+    ],
+    "time": 132.78,
+    "end": 134.18
+  },
+  {
+    "text": "●",
+    "startTime": 134.48,
+    "endTime": 157.16,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 134.48,
+    "end": 157.16
+  },
+  {
+    "text": "Thank you.",
+    "startTime": 157.16,
+    "endTime": 158.64,
+    "words": [
+      {
+        "word": "Thank",
+        "start": 157.51,
+        "end": 158.56,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you.",
+        "start": 158.56,
+        "end": 158.64,
+        "singer": "singer1"
+      }
+    ],
+    "time": 157.16,
+    "end": 158.64
+  },
+  {
+    "text": "●",
+    "startTime": 158.94,
+    "endTime": 187.62,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 158.94,
+    "end": 187.62
+  },
+  {
+    "text": "Thank you.",
+    "startTime": 187.62,
+    "endTime": 189.02,
+    "words": [
+      {
+        "word": "Thank",
+        "start": 187.852,
+        "end": 189.02,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you.",
+        "start": 189.02,
+        "end": 189.02,
+        "singer": "singer1"
+      }
+    ],
+    "time": 187.62,
+    "end": 189.02
+  },
+  {
+    "text": "●",
+    "startTime": 189.32,
+    "endTime": 212.58,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 189.32,
+    "end": 212.58
+  },
+  {
+    "text": "●",
+    "startTime": 214.28,
+    "endTime": 244.98,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 214.28,
+    "end": 244.98
+  },
+  {
+    "text": "●",
+    "startTime": 248.08,
+    "endTime": 273.98,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 248.08,
+    "end": 273.98
+  },
+  {
+    "text": "●",
+    "startTime": 276.48,
+    "endTime": 288.067,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 276.48,
+    "end": 288.067
+  }
+]

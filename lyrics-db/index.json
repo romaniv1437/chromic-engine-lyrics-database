@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T23:25:21.118432+00:00",
-  "totalTracks": 850,
+  "generatedAt": "2026-07-13T23:34:51.162739+00:00",
+  "totalTracks": 851,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11945,6 +11945,20 @@
       },
       "sourcePath": "https://soundcloud.com/lilpeep_raresong/lil-peep-girls-open-verse-og",
       "mtimeMs": 1783985121722
+    },
+    "k9ř🥀::marilynm": {
+      "title": "MarilynM",
+      "artist": "K9Ř🥀",
+      "originalTrackName": "K9Ř🥀 - MarilynM",
+      "source": "whisper_only",
+      "file": "tracks/k9-marilynm-5d15a2ba619f.json",
+      "files": {
+        "lyrics": "tracks/k9-marilynm-5d15a2ba619f.json",
+        "meta": "tracks/k9-marilynm-5d15a2ba619f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-197226517/marilynm",
+      "mtimeMs": 1783985691523
     }
   },
   "tracks": [
@@ -23907,6 +23921,20 @@
       },
       "sourcePath": "https://soundcloud.com/lilpeep_raresong/lil-peep-girls-open-verse-og",
       "mtimeMs": 1783985121722
+    },
+    {
+      "title": "MarilynM",
+      "artist": "K9Ř🥀",
+      "originalTrackName": "K9Ř🥀 - MarilynM",
+      "source": "whisper_only",
+      "file": "tracks/k9-marilynm-5d15a2ba619f.json",
+      "files": {
+        "lyrics": "tracks/k9-marilynm-5d15a2ba619f.json",
+        "meta": "tracks/k9-marilynm-5d15a2ba619f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-197226517/marilynm",
+      "mtimeMs": 1783985691523
     }
   ]
 }

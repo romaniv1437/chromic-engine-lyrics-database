@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T21:29:58.051584+00:00",
+  "generatedAt": "2026-07-13T22:01:32.192218+00:00",
   "totalTracks": 846,
   "roots": [
     "lyrics-db/tracks"
@@ -11862,20 +11862,6 @@
       "sourcePath": "https://soundcloud.com/user-37683766/uncle-nelson-3",
       "mtimeMs": 1783972790531
     },
-    "nickfresh::six feet deep": {
-      "title": "Six Feet Deep",
-      "artist": "nickFRESH",
-      "originalTrackName": "nickFRESH - Six Feet Deep",
-      "source": "syncedlyrics",
-      "file": "tracks/nickfresh-six-feet-deep-3c5859c8180f.json",
-      "files": {
-        "lyrics": "tracks/nickfresh-six-feet-deep-3c5859c8180f.json",
-        "meta": "tracks/nickfresh-six-feet-deep-3c5859c8180f.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/ogfresh1/six-feet-deep-12",
-      "mtimeMs": 1783977227347
-    },
     "myst::tonight (on all platforms)": {
       "title": "tonight (ON ALL PLATFORMS)",
       "artist": "myst",
@@ -11889,6 +11875,20 @@
       },
       "sourcePath": "https://soundcloud.com/myst-sd/tonight",
       "mtimeMs": 1783978199355
+    },
+    "nickfresh::six feet deep": {
+      "title": "Six Feet Deep",
+      "artist": "nickFRESH",
+      "originalTrackName": "nickFRESH - Six Feet Deep",
+      "source": "syncedlyrics",
+      "file": "tracks/nickfresh-six-feet-deep-3c5859c8180f.json",
+      "files": {
+        "lyrics": "tracks/nickfresh-six-feet-deep-3c5859c8180f.json",
+        "meta": "tracks/nickfresh-six-feet-deep-3c5859c8180f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ogfresh1/six-feet-deep-12",
+      "mtimeMs": 1783980093476
     }
   },
   "tracks": [
@@ -23769,20 +23769,6 @@
       "mtimeMs": 1783972790531
     },
     {
-      "title": "Six Feet Deep",
-      "artist": "nickFRESH",
-      "originalTrackName": "nickFRESH - Six Feet Deep",
-      "source": "syncedlyrics",
-      "file": "tracks/nickfresh-six-feet-deep-3c5859c8180f.json",
-      "files": {
-        "lyrics": "tracks/nickfresh-six-feet-deep-3c5859c8180f.json",
-        "meta": "tracks/nickfresh-six-feet-deep-3c5859c8180f.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/ogfresh1/six-feet-deep-12",
-      "mtimeMs": 1783977227347
-    },
-    {
       "title": "tonight (ON ALL PLATFORMS)",
       "artist": "myst",
       "originalTrackName": "myst - tonight (ON ALL PLATFORMS)",
@@ -23795,6 +23781,20 @@
       },
       "sourcePath": "https://soundcloud.com/myst-sd/tonight",
       "mtimeMs": 1783978199355
+    },
+    {
+      "title": "Six Feet Deep",
+      "artist": "nickFRESH",
+      "originalTrackName": "nickFRESH - Six Feet Deep",
+      "source": "syncedlyrics",
+      "file": "tracks/nickfresh-six-feet-deep-3c5859c8180f.json",
+      "files": {
+        "lyrics": "tracks/nickfresh-six-feet-deep-3c5859c8180f.json",
+        "meta": "tracks/nickfresh-six-feet-deep-3c5859c8180f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ogfresh1/six-feet-deep-12",
+      "mtimeMs": 1783980093476
     }
   ]
 }

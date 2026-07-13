@@ -88,7 +88,7 @@
       {
         "word": "I",
         "start": 33.888,
-        "end": 34,
+        "end": 34.0,
         "spoken": true,
         "singer": "singer2"
       },
@@ -201,7 +201,7 @@
       },
       {
         "word": "give,",
-        "start": 51,
+        "start": 51.0,
         "end": 51.04,
         "singer": "singer1"
       }
@@ -587,10 +587,10 @@
       },
       {
         "word": "dey",
-        "start": 174,
+        "start": 174.0,
         "end": 174.526,
         "char_starts": [
-          174,
+          174.0,
           174.121,
           174.368
         ],

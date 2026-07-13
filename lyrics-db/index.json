@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T19:54:14.290747+00:00",
-  "totalTracks": 842,
+  "generatedAt": "2026-07-13T19:54:42.812813+00:00",
+  "totalTracks": 843,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11833,6 +11833,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-37683766/morning-psychosis-2",
       "mtimeMs": 1783972455298
+    },
+    "kaesul::adventures in grassland": {
+      "title": "adventures in grassland",
+      "artist": "KAESUL",
+      "originalTrackName": "KAESUL - adventures in grassland",
+      "source": "whisper_only",
+      "file": "tracks/kaesul-adventures-in-grassland-4192e2617053.json",
+      "files": {
+        "lyrics": "tracks/kaesul-adventures-in-grassland-4192e2617053.json",
+        "meta": "tracks/kaesul-adventures-in-grassland-4192e2617053.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-37683766/adventures-in-grassland-4",
+      "mtimeMs": 1783972484886
     }
   },
   "tracks": [
@@ -23683,6 +23697,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-37683766/morning-psychosis-2",
       "mtimeMs": 1783972455298
+    },
+    {
+      "title": "adventures in grassland",
+      "artist": "KAESUL",
+      "originalTrackName": "KAESUL - adventures in grassland",
+      "source": "whisper_only",
+      "file": "tracks/kaesul-adventures-in-grassland-4192e2617053.json",
+      "files": {
+        "lyrics": "tracks/kaesul-adventures-in-grassland-4192e2617053.json",
+        "meta": "tracks/kaesul-adventures-in-grassland-4192e2617053.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-37683766/adventures-in-grassland-4",
+      "mtimeMs": 1783972484886
     }
   ]
 }

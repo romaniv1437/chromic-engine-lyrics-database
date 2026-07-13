@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T21:33:02.814115+00:00",
-  "totalTracks": 838,
+  "generatedAt": "2026-07-13T13:49:56.812177+00:00",
+  "totalTracks": 839,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11777,6 +11777,20 @@
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/ne-ostavlyaut-palcev-prod-by",
       "mtimeMs": 1783891983918
+    },
+    "gho$tboy::february w/ braidedpiercing (prod.unseenscars)": {
+      "title": "february w/ braidedpiercing (prod.unseenscars)",
+      "artist": "GHO$TBOY",
+      "originalTrackName": "GHO$TBOY - february w/ braidedpiercing (prod.unseenscars)",
+      "source": "whisper_only",
+      "file": "tracks/gho-tboy-february-w-braidedpiercing-prod-unseenscars-3fac86888c31.json",
+      "files": {
+        "lyrics": "tracks/gho-tboy-february-w-braidedpiercing-prod-unseenscars-3fac86888c31.json",
+        "meta": "tracks/gho-tboy-february-w-braidedpiercing-prod-unseenscars-3fac86888c31.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-751671231/february-lil-ghost3-wav",
+      "mtimeMs": 1783950599203
     }
   },
   "tracks": [
@@ -23571,6 +23585,20 @@
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/ne-ostavlyaut-palcev-prod-by",
       "mtimeMs": 1783891983918
+    },
+    {
+      "title": "february w/ braidedpiercing (prod.unseenscars)",
+      "artist": "GHO$TBOY",
+      "originalTrackName": "GHO$TBOY - february w/ braidedpiercing (prod.unseenscars)",
+      "source": "whisper_only",
+      "file": "tracks/gho-tboy-february-w-braidedpiercing-prod-unseenscars-3fac86888c31.json",
+      "files": {
+        "lyrics": "tracks/gho-tboy-february-w-braidedpiercing-prod-unseenscars-3fac86888c31.json",
+        "meta": "tracks/gho-tboy-february-w-braidedpiercing-prod-unseenscars-3fac86888c31.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-751671231/february-lil-ghost3-wav",
+      "mtimeMs": 1783950599203
     }
   ]
 }

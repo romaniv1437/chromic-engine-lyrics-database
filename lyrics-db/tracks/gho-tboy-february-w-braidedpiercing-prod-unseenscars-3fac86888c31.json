@@ -1,0 +1,365 @@
+[
+  {
+    "text": "●",
+    "startTime": 0.3,
+    "endTime": 11.79,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 0.3,
+    "end": 11.79
+  },
+  {
+    "text": "Everything you do blows me away This track makes me wanna fucking",
+    "startTime": 11.79,
+    "endTime": 15.17,
+    "words": [
+      {
+        "word": "Everything",
+        "start": 11.79,
+        "end": 12.31,
+        "whisper": true
+      },
+      {
+        "word": "you",
+        "start": 12.31,
+        "end": 12.59,
+        "whisper": true
+      },
+      {
+        "word": "do",
+        "start": 12.59,
+        "end": 12.73,
+        "whisper": true
+      },
+      {
+        "word": "blows",
+        "start": 12.73,
+        "end": 12.99,
+        "whisper": true
+      },
+      {
+        "word": "me",
+        "start": 12.99,
+        "end": 13.25,
+        "spoken": true
+      },
+      {
+        "word": "away",
+        "start": 13.25,
+        "end": 13.65,
+        "whisper": true
+      },
+      {
+        "word": "This",
+        "start": 13.65,
+        "end": 14.03,
+        "whisper": true
+      },
+      {
+        "word": "track",
+        "start": 14.03,
+        "end": 14.25,
+        "whisper": true
+      },
+      {
+        "word": "makes",
+        "start": 14.25,
+        "end": 14.49,
+        "whisper": true
+      },
+      {
+        "word": "me",
+        "start": 14.49,
+        "end": 14.75,
+        "whisper": true
+      },
+      {
+        "word": "wanna",
+        "start": 14.75,
+        "end": 14.91,
+        "whisper": true
+      },
+      {
+        "word": "fucking",
+        "start": 14.91,
+        "end": 15.17,
+        "whisper": true
+      }
+    ],
+    "time": 11.79,
+    "end": 15.17
+  },
+  {
+    "text": "kill myself",
+    "startTime": 15.17,
+    "endTime": 16.05,
+    "words": [
+      {
+        "word": "kill",
+        "start": 15.17,
+        "end": 15.43,
+        "whisper": true
+      },
+      {
+        "word": "myself",
+        "start": 15.78,
+        "end": 16.05,
+        "spoken": true
+      }
+    ],
+    "time": 15.17,
+    "end": 16.05
+  },
+  {
+    "text": "All the times you said you love me more you love me",
+    "startTime": 16.05,
+    "endTime": 19.41,
+    "words": [
+      {
+        "word": "All",
+        "start": 16.05,
+        "end": 16.67,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 16.67,
+        "end": 16.95,
+        "spoken": true
+      },
+      {
+        "word": "times",
+        "start": 16.95,
+        "end": 17.13
+      },
+      {
+        "word": "you",
+        "start": 17.13,
+        "end": 17.23
+      },
+      {
+        "word": "said",
+        "start": 17.23,
+        "end": 17.59,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 17.59,
+        "end": 17.85
+      },
+      {
+        "word": "love",
+        "start": 17.85,
+        "end": 18.07
+      },
+      {
+        "word": "me",
+        "start": 18.116,
+        "end": 18.29,
+        "spoken": true
+      },
+      {
+        "word": "more",
+        "start": 18.29,
+        "end": 18.55,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 18.55,
+        "end": 18.81
+      },
+      {
+        "word": "love",
+        "start": 18.81,
+        "end": 19.03,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 19.258,
+        "end": 19.41,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 16.05,
+    "end": 19.41
+  },
+  {
+    "text": "less",
+    "startTime": 19.41,
+    "endTime": 20.01,
+    "words": [
+      {
+        "word": "less",
+        "start": 19.76,
+        "end": 20.01,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 19.41,
+    "end": 20.01
+  },
+  {
+    "text": "I don't like to think about it I just get depressed",
+    "startTime": 20.01,
+    "endTime": 23.71,
+    "words": [
+      {
+        "word": "I",
+        "start": 20.01,
+        "end": 20.61,
+        "stretch": true
+      },
+      {
+        "word": "don't",
+        "start": 20.61,
+        "end": 20.87,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 20.87,
+        "end": 21.13,
+        "spoken": true
+      },
+      {
+        "word": "to",
+        "start": 21.269,
+        "end": 21.37,
+        "spoken": true
+      },
+      {
+        "word": "think",
+        "start": 21.533,
+        "end": 21.65
+      },
+      {
+        "word": "about",
+        "start": 21.65,
+        "end": 22.11
+      },
+      {
+        "word": "it",
+        "start": 22.11,
+        "end": 22.33,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 22.462,
+        "end": 22.55,
+        "stretch": true
+      },
+      {
+        "word": "just",
+        "start": 22.55,
+        "end": 22.79,
+        "spoken": true
+      },
+      {
+        "word": "get",
+        "start": 22.79,
+        "end": 23.05,
+        "spoken": true
+      },
+      {
+        "word": "depressed",
+        "start": 23.236,
+        "end": 23.71
+      }
+    ],
+    "time": 20.01,
+    "end": 23.71
+  },
+  {
+    "text": "All the times I thought that you were mine you never was",
+    "startTime": 23.71,
+    "endTime": 27.63,
+    "words": [
+      {
+        "word": "All",
+        "start": 23.71,
+        "end": 24.53,
+        "stretch": true
+      },
+      {
+        "word": "the",
+        "start": 24.53,
+        "end": 24.81,
+        "spoken": true
+      },
+      {
+        "word": "times",
+        "start": 24.81,
+        "end": 25.03
+      },
+      {
+        "word": "I",
+        "start": 25.03,
+        "end": 25.21,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "thought",
+        "start": 25.354,
+        "end": 25.45,
+        "spoken": true
+      },
+      {
+        "word": "that",
+        "start": 25.45,
+        "end": 25.75,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 25.75,
+        "end": 25.99
+      },
+      {
+        "word": "were",
+        "start": 26.122,
+        "end": 26.21,
+        "spoken": true
+      },
+      {
+        "word": "mine",
+        "start": 26.21,
+        "end": 26.43
+      },
+      {
+        "word": "you",
+        "start": 26.43,
+        "end": 26.75
+      },
+      {
+        "word": "never",
+        "start": 27.062,
+        "end": 27.27,
+        "spoken": true
+      },
+      {
+        "word": "was",
+        "start": 27.27,
+        "end": 27.63
+      }
+    ],
+    "time": 23.71,
+    "end": 27.63
+  },
+  {
+    "text": "●",
+    "startTime": 27.93,
+    "endTime": 145.636,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 27.93,
+    "end": 145.636
+  }
+]

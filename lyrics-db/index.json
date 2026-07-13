@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T19:57:49.158992+00:00",
-  "totalTracks": 843,
+  "generatedAt": "2026-07-13T19:59:36.347386+00:00",
+  "totalTracks": 844,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11847,6 +11847,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-37683766/adventures-in-grassland-4",
       "mtimeMs": 1783972670183
+    },
+    "kaesul::uncle nelson": {
+      "title": "uncle nelson",
+      "artist": "KAESUL",
+      "originalTrackName": "KAESUL - uncle nelson",
+      "source": "whisper_only",
+      "file": "tracks/kaesul-uncle-nelson-92ce0b77414b.json",
+      "files": {
+        "lyrics": "tracks/kaesul-uncle-nelson-92ce0b77414b.json",
+        "meta": "tracks/kaesul-uncle-nelson-92ce0b77414b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-37683766/uncle-nelson-3",
+      "mtimeMs": 1783972778496
     }
   },
   "tracks": [
@@ -23711,6 +23725,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-37683766/adventures-in-grassland-4",
       "mtimeMs": 1783972670183
+    },
+    {
+      "title": "uncle nelson",
+      "artist": "KAESUL",
+      "originalTrackName": "KAESUL - uncle nelson",
+      "source": "whisper_only",
+      "file": "tracks/kaesul-uncle-nelson-92ce0b77414b.json",
+      "files": {
+        "lyrics": "tracks/kaesul-uncle-nelson-92ce0b77414b.json",
+        "meta": "tracks/kaesul-uncle-nelson-92ce0b77414b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-37683766/uncle-nelson-3",
+      "mtimeMs": 1783972778496
     }
   ]
 }

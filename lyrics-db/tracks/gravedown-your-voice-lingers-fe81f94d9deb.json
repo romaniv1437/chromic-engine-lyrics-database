@@ -44,20 +44,20 @@
   {
     "text": "●",
     "startTime": 1.86,
-    "endTime": 30.0,
+    "endTime": 30,
     "words": [],
     "type": "vocal_cue",
     "time": 1.86,
-    "end": 30.0
+    "end": 30
   },
   {
     "text": "We'll be right back.",
-    "startTime": 30.0,
+    "startTime": 30,
     "endTime": 33.2,
     "words": [
       {
         "word": "We'll",
-        "start": 30.0,
+        "start": 30,
         "end": 31.22,
         "stretch": true,
         "spoken": true,
@@ -85,26 +85,26 @@
         "singer": "singer1"
       }
     ],
-    "time": 30.0,
+    "time": 30,
     "end": 33.2
   },
   {
     "text": "●",
     "startTime": 33.5,
-    "endTime": 60.0,
+    "endTime": 60,
     "words": [],
     "type": "vocal_cue",
     "time": 33.5,
-    "end": 60.0
+    "end": 60
   },
   {
     "text": "I really don't want me to go",
-    "startTime": 60.0,
+    "startTime": 60,
     "endTime": 63.82,
     "words": [
       {
         "word": "I",
-        "start": 60.0,
+        "start": 60,
         "end": 60.28,
         "stretch": true,
         "spoken": true,
@@ -155,7 +155,7 @@
         "singer": "singer1"
       }
     ],
-    "time": 60.0,
+    "time": 60,
     "end": 63.82
   },
   {

@@ -2,20 +2,20 @@
   {
     "text": "●",
     "startTime": 0.3,
-    "endTime": 11.79,
+    "endTime": 11.57,
     "words": [],
     "type": "vocal_cue",
     "time": 0.3,
-    "end": 11.79
+    "end": 11.57
   },
   {
-    "text": "Everything you do blows me away This track makes me wanna fucking",
-    "startTime": 11.79,
-    "endTime": 15.17,
+    "text": "Everything you do blows me away.",
+    "startTime": 11.57,
+    "endTime": 13.65,
     "words": [
       {
         "word": "Everything",
-        "start": 11.79,
+        "start": 11.57,
         "end": 12.31,
         "whisper": true
       },
@@ -34,30 +34,38 @@
       {
         "word": "blows",
         "start": 12.73,
-        "end": 12.99,
+        "end": 12.97,
         "whisper": true
       },
       {
         "word": "me",
-        "start": 12.99,
-        "end": 13.25,
+        "start": 12.97,
+        "end": 13.27,
         "spoken": true
       },
       {
-        "word": "away",
-        "start": 13.25,
+        "word": "away.",
+        "start": 13.27,
         "end": 13.65,
         "whisper": true
-      },
+      }
+    ],
+    "time": 11.57,
+    "end": 13.65
+  },
+  {
+    "text": "This track makes me wanna fucking kill myself.",
+    "startTime": 14.01,
+    "endTime": 15.95,
+    "words": [
       {
         "word": "This",
-        "start": 13.65,
-        "end": 14.03,
-        "whisper": true
+        "start": 14.01,
+        "end": 14.01
       },
       {
         "word": "track",
-        "start": 14.03,
+        "start": 14.01,
         "end": 14.25,
         "whisper": true
       },
@@ -70,296 +78,1892 @@
       {
         "word": "me",
         "start": 14.49,
-        "end": 14.75,
+        "end": 14.73,
         "whisper": true
       },
       {
         "word": "wanna",
-        "start": 14.75,
+        "start": 14.73,
         "end": 14.91,
         "whisper": true
       },
       {
         "word": "fucking",
         "start": 14.91,
-        "end": 15.17,
+        "end": 15.19,
         "whisper": true
-      }
-    ],
-    "time": 11.79,
-    "end": 15.17
-  },
-  {
-    "text": "kill myself",
-    "startTime": 15.17,
-    "endTime": 16.05,
-    "words": [
+      },
       {
         "word": "kill",
-        "start": 15.17,
+        "start": 15.19,
         "end": 15.43,
         "whisper": true
       },
       {
-        "word": "myself",
-        "start": 15.78,
-        "end": 16.05,
+        "word": "myself.",
+        "start": 15.742,
+        "end": 15.95,
         "spoken": true
       }
     ],
-    "time": 15.17,
-    "end": 16.05
+    "time": 14.01,
+    "end": 15.95
   },
   {
-    "text": "All the times you said you love me more you love me",
-    "startTime": 16.05,
-    "endTime": 19.41,
+    "text": "●",
+    "startTime": 16.25,
+    "endTime": 41.57,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 16.25,
+    "end": 41.57
+  },
+  {
+    "text": "You love me more, you love me less.",
+    "startTime": 41.57,
+    "endTime": 43.51,
     "words": [
       {
-        "word": "All",
-        "start": 16.05,
-        "end": 16.67,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "the",
-        "start": 16.67,
-        "end": 16.95,
-        "spoken": true
-      },
-      {
-        "word": "times",
-        "start": 16.95,
-        "end": 17.13
-      },
-      {
-        "word": "you",
-        "start": 17.13,
-        "end": 17.23
-      },
-      {
-        "word": "said",
-        "start": 17.23,
-        "end": 17.59,
-        "spoken": true
-      },
-      {
-        "word": "you",
-        "start": 17.59,
-        "end": 17.85
+        "word": "You",
+        "start": 41.57,
+        "end": 41.57
       },
       {
         "word": "love",
-        "start": 17.85,
-        "end": 18.07
+        "start": 41.57,
+        "end": 41.57
       },
       {
         "word": "me",
-        "start": 18.116,
-        "end": 18.29,
-        "spoken": true
-      },
-      {
-        "word": "more",
-        "start": 18.29,
-        "end": 18.55,
-        "spoken": true
-      },
-      {
-        "word": "you",
-        "start": 18.55,
-        "end": 18.81
-      },
-      {
-        "word": "love",
-        "start": 18.81,
-        "end": 19.03,
-        "spoken": true
-      },
-      {
-        "word": "me",
-        "start": 19.258,
-        "end": 19.41,
-        "stretch": true,
-        "spoken": true
-      }
-    ],
-    "time": 16.05,
-    "end": 19.41
-  },
-  {
-    "text": "less",
-    "startTime": 19.41,
-    "endTime": 20.01,
-    "words": [
-      {
-        "word": "less",
-        "start": 19.76,
-        "end": 20.01,
-        "stretch": true,
-        "sung": true
-      }
-    ],
-    "time": 19.41,
-    "end": 20.01
-  },
-  {
-    "text": "I don't like to think about it I just get depressed",
-    "startTime": 20.01,
-    "endTime": 23.71,
-    "words": [
-      {
-        "word": "I",
-        "start": 20.01,
-        "end": 20.61,
+        "start": 41.762,
+        "end": 41.89,
         "stretch": true
       },
       {
+        "word": "more,",
+        "start": 41.89,
+        "end": 41.89
+      },
+      {
+        "word": "you",
+        "start": 41.89,
+        "end": 42.37,
+        "stretch": true
+      },
+      {
+        "word": "love",
+        "start": 42.37,
+        "end": 42.57,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 42.75,
+        "end": 42.87,
+        "spoken": true
+      },
+      {
+        "word": "less.",
+        "start": 42.87,
+        "end": 43.51
+      }
+    ],
+    "time": 41.57,
+    "end": 43.51
+  },
+  {
+    "text": "I don't like to think about it, I just get depressed.",
+    "startTime": 44.07,
+    "endTime": 47.19,
+    "words": [
+      {
+        "word": "I",
+        "start": 44.07,
+        "end": 44.15,
+        "spoken": true
+      },
+      {
         "word": "don't",
-        "start": 20.61,
-        "end": 20.87,
+        "start": 44.15,
+        "end": 44.43,
         "spoken": true
       },
       {
         "word": "like",
-        "start": 20.87,
-        "end": 21.13,
+        "start": 44.43,
+        "end": 44.65,
         "spoken": true
       },
       {
         "word": "to",
-        "start": 21.269,
-        "end": 21.37,
+        "start": 44.813,
+        "end": 44.93,
         "spoken": true
       },
       {
         "word": "think",
-        "start": 21.533,
-        "end": 21.65
+        "start": 44.93,
+        "end": 45.17
       },
       {
         "word": "about",
-        "start": 21.65,
-        "end": 22.11
+        "start": 45.309,
+        "end": 45.63,
+        "spoken": true
       },
       {
-        "word": "it",
-        "start": 22.11,
-        "end": 22.33,
+        "word": "it,",
+        "start": 45.63,
+        "end": 45.85,
         "spoken": true
       },
       {
         "word": "I",
-        "start": 22.462,
-        "end": 22.55,
-        "stretch": true
+        "start": 45.97,
+        "end": 46.05,
+        "stretch": true,
+        "spoken": true
       },
       {
         "word": "just",
-        "start": 22.55,
-        "end": 22.79,
+        "start": 46.05,
+        "end": 46.37,
         "spoken": true
       },
       {
         "word": "get",
-        "start": 22.79,
-        "end": 23.05,
+        "start": 46.37,
+        "end": 46.57,
         "spoken": true
       },
       {
-        "word": "depressed",
-        "start": 23.236,
-        "end": 23.71
+        "word": "depressed.",
+        "start": 46.92,
+        "end": 47.19
       }
     ],
-    "time": 20.01,
-    "end": 23.71
+    "time": 44.07,
+    "end": 47.19
   },
   {
-    "text": "All the times I thought that you were mine you never was",
-    "startTime": 23.71,
-    "endTime": 27.63,
+    "text": "All the times I thought that you were mine, you never was.",
+    "startTime": 47.91,
+    "endTime": 51.21,
     "words": [
       {
         "word": "All",
-        "start": 23.71,
-        "end": 24.53,
+        "start": 47.91,
+        "end": 48.05,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 48.05,
+        "end": 48.29,
+        "sung": true
+      },
+      {
+        "word": "times",
+        "start": 48.29,
+        "end": 48.53,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 48.53,
+        "end": 48.71,
+        "stretch": true
+      },
+      {
+        "word": "thought",
+        "start": 48.71,
+        "end": 48.97,
+        "spoken": true
+      },
+      {
+        "word": "that",
+        "start": 48.97,
+        "end": 49.29
+      },
+      {
+        "word": "you",
+        "start": 49.29,
+        "end": 49.51,
+        "spoken": true
+      },
+      {
+        "word": "were",
+        "start": 49.51,
+        "end": 49.77,
+        "spoken": true
+      },
+      {
+        "word": "mine,",
+        "start": 49.77,
+        "end": 50.01,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 50.01,
+        "end": 50.13,
+        "spoken": true
+      },
+      {
+        "word": "never",
+        "start": 50.48,
+        "end": 50.83
+      },
+      {
+        "word": "was.",
+        "start": 50.83,
+        "end": 51.21,
+        "sung": true
+      }
+    ],
+    "time": 47.91,
+    "end": 51.21
+  },
+  {
+    "text": "Was it like this from the start and I just never knew?",
+    "startTime": 51.73,
+    "endTime": 55.15,
+    "words": [
+      {
+        "word": "Was",
+        "start": 51.73,
+        "end": 51.97,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 51.97,
+        "end": 52.25,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 52.25,
+        "end": 52.45,
+        "spoken": true
+      },
+      {
+        "word": "this",
+        "start": 52.45,
+        "end": 52.61,
+        "spoken": true
+      },
+      {
+        "word": "from",
+        "start": 52.61,
+        "end": 52.91
+      },
+      {
+        "word": "the",
+        "start": 52.91,
+        "end": 53.21,
+        "spoken": true
+      },
+      {
+        "word": "start",
+        "start": 53.21,
+        "end": 53.45,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 53.45,
+        "end": 53.67,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 53.778,
+        "end": 53.85,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "just",
+        "start": 53.896,
+        "end": 54.19
+      },
+      {
+        "word": "never",
+        "start": 54.454,
+        "end": 54.63,
+        "sung": true
+      },
+      {
+        "word": "knew?",
+        "start": 54.63,
+        "end": 55.15,
+        "spoken": true
+      }
+    ],
+    "time": 51.73,
+    "end": 55.15
+  },
+  {
+    "text": "I could blame it on the season, but girl I'm a mess.",
+    "startTime": 55.51,
+    "endTime": 59.01,
+    "words": [
+      {
+        "word": "I",
+        "start": 55.51,
+        "end": 55.81,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "could",
+        "start": 55.81,
+        "end": 56.11,
+        "spoken": true
+      },
+      {
+        "word": "blame",
+        "start": 56.11,
+        "end": 56.35,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 56.35,
+        "end": 56.73,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "on",
+        "start": 56.73,
+        "end": 56.87,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 56.87,
+        "end": 57.13
+      },
+      {
+        "word": "season,",
+        "start": 57.13,
+        "end": 57.43
+      },
+      {
+        "word": "but",
+        "start": 57.51,
+        "end": 57.79
+      },
+      {
+        "word": "girl",
+        "start": 57.79,
+        "end": 58.05
+      },
+      {
+        "word": "I'm",
+        "start": 58.05,
+        "end": 58.47,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 58.563,
+        "end": 58.65,
+        "stretch": true
+      },
+      {
+        "word": "mess.",
+        "start": 58.65,
+        "end": 59.01
+      }
+    ],
+    "time": 55.51,
+    "end": 59.01
+  },
+  {
+    "text": "And this February got me hating everyone.",
+    "startTime": 59.71,
+    "endTime": 62.85,
+    "words": [
+      {
+        "word": "And",
+        "start": 59.71,
+        "end": 59.79
+      },
+      {
+        "word": "this",
+        "start": 59.79,
+        "end": 60.03,
+        "spoken": true
+      },
+      {
+        "word": "February",
+        "start": 60.38,
+        "end": 60.75,
+        "spoken": true
+      },
+      {
+        "word": "got",
+        "start": 60.75,
+        "end": 61.19,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 61.19,
+        "end": 61.61,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "hating",
+        "start": 61.61,
+        "end": 61.89,
+        "spoken": true
+      },
+      {
+        "word": "everyone.",
+        "start": 61.89,
+        "end": 62.85,
+        "stretch": true,
+        "whisper": true
+      }
+    ],
+    "time": 59.71,
+    "end": 62.85
+  },
+  {
+    "text": "Got me looking on my phone and I ain't got no text",
+    "startTime": 63.37,
+    "endTime": 67.05,
+    "words": [
+      {
+        "word": "Got",
+        "start": 63.37,
+        "end": 63.63
+      },
+      {
+        "word": "me",
+        "start": 63.63,
+        "end": 63.93,
+        "spoken": true
+      },
+      {
+        "word": "looking",
+        "start": 63.93,
+        "end": 64.37,
+        "spoken": true
+      },
+      {
+        "word": "on",
+        "start": 64.37,
+        "end": 64.65,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 64.65,
+        "end": 64.91,
+        "spoken": true
+      },
+      {
+        "word": "phone",
+        "start": 64.91,
+        "end": 65.17,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 65.17,
+        "end": 65.53,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 65.53,
+        "end": 65.69,
+        "stretch": true
+      },
+      {
+        "word": "ain't",
+        "start": 65.69,
+        "end": 65.95
+      },
+      {
+        "word": "got",
+        "start": 65.95,
+        "end": 66.21,
+        "spoken": true
+      },
+      {
+        "word": "no",
+        "start": 66.373,
+        "end": 66.71,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "text",
+        "start": 66.896,
+        "end": 67.05
+      }
+    ],
+    "time": 63.37,
+    "end": 67.05
+  },
+  {
+    "text": "and nobody to call.",
+    "startTime": 67.05,
+    "endTime": 69.09,
+    "words": [
+      {
+        "word": "and",
+        "start": 67.05,
+        "end": 67.41
+      },
+      {
+        "word": "nobody",
+        "start": 67.41,
+        "end": 67.97,
+        "spoken": true
+      },
+      {
+        "word": "to",
+        "start": 68.32,
+        "end": 68.69,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "call.",
+        "start": 68.69,
+        "end": 69.09
+      }
+    ],
+    "time": 67.05,
+    "end": 69.09
+  },
+  {
+    "text": "People acting like they know what I know.",
+    "startTime": 69.09,
+    "endTime": 72.85,
+    "words": [
+      {
+        "word": "People",
+        "start": 69.44,
+        "end": 70.19,
+        "stretch": true
+      },
+      {
+        "word": "acting",
+        "start": 70.283,
+        "end": 70.69,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 70.69,
+        "end": 70.95,
+        "spoken": true
+      },
+      {
+        "word": "they",
+        "start": 70.95,
+        "end": 71.29
+      },
+      {
+        "word": "know",
+        "start": 71.29,
+        "end": 71.65,
+        "spoken": true
+      },
+      {
+        "word": "what",
+        "start": 71.65,
+        "end": 72.11,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 72.398,
+        "end": 72.59,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "know.",
+        "start": 72.59,
+        "end": 72.85
+      }
+    ],
+    "time": 69.09,
+    "end": 72.85
+  },
+  {
+    "text": "You don't know me at all, so what's the act in the",
+    "startTime": 72.93,
+    "endTime": 76.57,
+    "words": [
+      {
+        "word": "You",
+        "start": 72.93,
+        "end": 73.21,
+        "spoken": true
+      },
+      {
+        "word": "don't",
+        "start": 73.21,
+        "end": 73.65
+      },
+      {
+        "word": "know",
+        "start": 73.65,
+        "end": 73.91,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 74.174,
+        "end": 74.35,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "at",
+        "start": 74.35,
+        "end": 74.63
+      },
+      {
+        "word": "all,",
+        "start": 74.63,
+        "end": 74.83
+      },
+      {
+        "word": "so",
+        "start": 75.054,
+        "end": 75.19,
+        "stretch": true
+      },
+      {
+        "word": "what's",
+        "start": 75.19,
+        "end": 75.67,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 75.67,
+        "end": 75.81
+      },
+      {
+        "word": "act",
+        "start": 75.81,
+        "end": 76.07,
+        "spoken": true
+      },
+      {
+        "word": "in",
+        "start": 76.07,
+        "end": 76.25,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 76.25,
+        "end": 76.57
+      }
+    ],
+    "time": 72.93,
+    "end": 76.57
+  },
+  {
+    "text": "phone?",
+    "startTime": 76.57,
+    "endTime": 76.99,
+    "words": [
+      {
+        "word": "phone?",
+        "start": 76.663,
+        "end": 76.99,
+        "spoken": true
+      }
+    ],
+    "time": 76.57,
+    "end": 76.99
+  },
+  {
+    "text": "I know there ain't no one that is catching my fall.",
+    "startTime": 77.59,
+    "endTime": 80.79,
+    "words": [
+      {
+        "word": "I",
+        "start": 77.59,
+        "end": 77.89,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "know",
+        "start": 77.89,
+        "end": 78.05
+      },
+      {
+        "word": "there",
+        "start": 78.143,
+        "end": 78.45,
+        "spoken": true
+      },
+      {
+        "word": "ain't",
+        "start": 78.45,
+        "end": 78.71,
+        "spoken": true
+      },
+      {
+        "word": "no",
+        "start": 78.71,
+        "end": 78.93
+      },
+      {
+        "word": "one",
+        "start": 78.93,
+        "end": 79.19
+      },
+      {
+        "word": "that",
+        "start": 79.19,
+        "end": 79.37,
+        "spoken": true
+      },
+      {
+        "word": "is",
+        "start": 79.37,
+        "end": 79.65,
+        "spoken": true
+      },
+      {
+        "word": "catching",
+        "start": 79.65,
+        "end": 79.99
+      },
+      {
+        "word": "my",
+        "start": 79.99,
+        "end": 80.47,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "fall.",
+        "start": 80.47,
+        "end": 80.79
+      }
+    ],
+    "time": 77.59,
+    "end": 80.79
+  },
+  {
+    "text": "And in this world you're born alone and bitch you're dying alone.",
+    "startTime": 80.95,
+    "endTime": 84.77,
+    "words": [
+      {
+        "word": "And",
+        "start": 80.95,
+        "end": 81.21
+      },
+      {
+        "word": "in",
+        "start": 81.21,
+        "end": 81.35,
+        "spoken": true
+      },
+      {
+        "word": "this",
+        "start": 81.35,
+        "end": 81.61
+      },
+      {
+        "word": "world",
+        "start": 81.61,
+        "end": 81.79,
+        "spoken": true
+      },
+      {
+        "word": "you're",
+        "start": 82.018,
+        "end": 82.17,
+        "spoken": true
+      },
+      {
+        "word": "born",
+        "start": 82.17,
+        "end": 82.31,
+        "spoken": true
+      },
+      {
+        "word": "alone",
+        "start": 82.565,
+        "end": 82.79
+      },
+      {
+        "word": "and",
+        "start": 82.79,
+        "end": 83.07,
+        "spoken": true
+      },
+      {
+        "word": "bitch",
+        "start": 83.07,
+        "end": 83.27,
+        "spoken": true
+      },
+      {
+        "word": "you're",
+        "start": 83.27,
+        "end": 83.53,
+        "spoken": true
+      },
+      {
+        "word": "dying",
+        "start": 83.794,
+        "end": 83.97
+      },
+      {
+        "word": "alone.",
+        "start": 84.016,
+        "end": 84.77
+      }
+    ],
+    "time": 80.95,
+    "end": 84.77
+  },
+  {
+    "text": "Me and ghosts we fit a body out the soul.",
+    "startTime": 85.59,
+    "endTime": 88.55,
+    "words": [
+      {
+        "word": "Me",
+        "start": 85.59,
+        "end": 85.79,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 85.946,
+        "end": 86.05,
+        "spoken": true
+      },
+      {
+        "word": "ghosts",
+        "start": 86.05,
+        "end": 86.19,
+        "spoken": true
+      },
+      {
+        "word": "we",
+        "start": 86.19,
+        "end": 86.55,
+        "stretch": true
+      },
+      {
+        "word": "fit",
+        "start": 86.55,
+        "end": 86.75
+      },
+      {
+        "word": "a",
+        "start": 86.75,
+        "end": 87.09,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "body",
+        "start": 87.09,
+        "end": 87.45,
+        "spoken": true
+      },
+      {
+        "word": "out",
+        "start": 87.45,
+        "end": 87.85
+      },
+      {
+        "word": "the",
+        "start": 88.09,
+        "end": 88.25,
+        "spoken": true
+      },
+      {
+        "word": "soul.",
+        "start": 88.25,
+        "end": 88.55
+      }
+    ],
+    "time": 85.59,
+    "end": 88.55
+  },
+  {
+    "text": "It's kinda funny cause I know they never seen this before.",
+    "startTime": 88.73,
+    "endTime": 92.57,
+    "words": [
+      {
+        "word": "It's",
+        "start": 88.893,
+        "end": 89.11
+      },
+      {
+        "word": "kinda",
+        "start": 89.11,
+        "end": 89.31,
+        "spoken": true
+      },
+      {
+        "word": "funny",
+        "start": 89.31,
+        "end": 89.75,
+        "spoken": true
+      },
+      {
+        "word": "cause",
+        "start": 89.913,
+        "end": 90.13,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 90.13,
+        "end": 90.33,
+        "stretch": true
+      },
+      {
+        "word": "know",
+        "start": 90.423,
+        "end": 90.59
+      },
+      {
+        "word": "they",
+        "start": 90.782,
+        "end": 90.91
+      },
+      {
+        "word": "never",
+        "start": 90.91,
+        "end": 91.23
+      },
+      {
+        "word": "seen",
+        "start": 91.23,
+        "end": 91.59
+      },
+      {
+        "word": "this",
+        "start": 91.758,
+        "end": 91.87,
+        "spoken": true
+      },
+      {
+        "word": "before.",
+        "start": 91.87,
+        "end": 92.57,
+        "spoken": true
+      }
+    ],
+    "time": 88.73,
+    "end": 92.57
+  },
+  {
+    "text": "All the times you said you love me more, you love me",
+    "startTime": 94.51,
+    "endTime": 97.87,
+    "words": [
+      {
+        "word": "All",
+        "start": 94.51,
+        "end": 95.07,
         "stretch": true
       },
       {
         "word": "the",
-        "start": 24.53,
-        "end": 24.81,
+        "start": 95.07,
+        "end": 95.39
+      },
+      {
+        "word": "times",
+        "start": 95.39,
+        "end": 95.63
+      },
+      {
+        "word": "you",
+        "start": 95.63,
+        "end": 95.89,
+        "spoken": true
+      },
+      {
+        "word": "said",
+        "start": 95.89,
+        "end": 96.01,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 96.01,
+        "end": 96.25
+      },
+      {
+        "word": "love",
+        "start": 96.406,
+        "end": 96.51
+      },
+      {
+        "word": "me",
+        "start": 96.51,
+        "end": 96.71,
+        "spoken": true
+      },
+      {
+        "word": "more,",
+        "start": 96.71,
+        "end": 97.01,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 97.03,
+        "end": 97.25,
+        "spoken": true
+      },
+      {
+        "word": "love",
+        "start": 97.25,
+        "end": 97.49,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 97.718,
+        "end": 97.87,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 94.51,
+    "end": 97.87
+  },
+  {
+    "text": "less.",
+    "startTime": 97.87,
+    "endTime": 98.35,
+    "words": [
+      {
+        "word": "less.",
+        "start": 98.158,
+        "end": 98.35,
+        "sung": true
+      }
+    ],
+    "time": 97.87,
+    "end": 98.35
+  },
+  {
+    "text": "I don't like to think about it, I just get depressed.",
+    "startTime": 98.35,
+    "endTime": 102.13,
+    "words": [
+      {
+        "word": "I",
+        "start": 98.35,
+        "end": 98.35
+      },
+      {
+        "word": "don't",
+        "start": 98.35,
+        "end": 99.17,
+        "stretch": true
+      },
+      {
+        "word": "like",
+        "start": 99.17,
+        "end": 99.53
+      },
+      {
+        "word": "to",
+        "start": 99.638,
+        "end": 99.71,
+        "spoken": true
+      },
+      {
+        "word": "think",
+        "start": 99.71,
+        "end": 100.03,
+        "spoken": true
+      },
+      {
+        "word": "about",
+        "start": 100.03,
+        "end": 100.55
+      },
+      {
+        "word": "it,",
+        "start": 100.55,
+        "end": 100.77,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 100.878,
+        "end": 100.95,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "just",
+        "start": 100.95,
+        "end": 101.25
+      },
+      {
+        "word": "get",
+        "start": 101.25,
+        "end": 101.47,
+        "spoken": true
+      },
+      {
+        "word": "depressed.",
+        "start": 101.656,
+        "end": 102.13,
+        "spoken": true
+      }
+    ],
+    "time": 98.35,
+    "end": 102.13
+  },
+  {
+    "text": "All the times I thought that you were mine, you never was.",
+    "startTime": 102.83,
+    "endTime": 106.11,
+    "words": [
+      {
+        "word": "All",
+        "start": 102.83,
+        "end": 102.95,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 102.95,
+        "end": 103.15,
         "spoken": true
       },
       {
         "word": "times",
-        "start": 24.81,
-        "end": 25.03
+        "start": 103.15,
+        "end": 103.41,
+        "spoken": true
       },
       {
         "word": "I",
-        "start": 25.03,
-        "end": 25.21,
+        "start": 103.41,
+        "end": 103.49,
+        "spoken": true
+      },
+      {
+        "word": "thought",
+        "start": 103.49,
+        "end": 103.87,
+        "spoken": true
+      },
+      {
+        "word": "that",
+        "start": 103.87,
+        "end": 104.15,
+        "sung": true
+      },
+      {
+        "word": "you",
+        "start": 104.15,
+        "end": 104.41
+      },
+      {
+        "word": "were",
+        "start": 104.554,
+        "end": 104.65,
+        "spoken": true
+      },
+      {
+        "word": "mine,",
+        "start": 104.65,
+        "end": 104.89,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 104.89,
+        "end": 105.05,
+        "spoken": true
+      },
+      {
+        "word": "never",
+        "start": 105.4,
+        "end": 105.71,
+        "spoken": true
+      },
+      {
+        "word": "was.",
+        "start": 105.71,
+        "end": 106.11
+      }
+    ],
+    "time": 102.83,
+    "end": 106.11
+  },
+  {
+    "text": "Was it like this from the start and I just never knew?",
+    "startTime": 106.63,
+    "endTime": 109.95,
+    "words": [
+      {
+        "word": "Was",
+        "start": 106.786,
+        "end": 106.89
+      },
+      {
+        "word": "it",
+        "start": 106.89,
+        "end": 107.13,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 107.13,
+        "end": 107.35,
+        "spoken": true
+      },
+      {
+        "word": "this",
+        "start": 107.35,
+        "end": 107.49,
+        "spoken": true
+      },
+      {
+        "word": "from",
+        "start": 107.49,
+        "end": 107.81,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 107.81,
+        "end": 108.11,
+        "whisper": true
+      },
+      {
+        "word": "start",
+        "start": 108.11,
+        "end": 108.33,
+        "whisper": true
+      },
+      {
+        "word": "and",
+        "start": 108.33,
+        "end": 108.57,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 108.57,
+        "end": 108.77,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "just",
+        "start": 108.77,
+        "end": 109.07,
+        "whisper": true
+      },
+      {
+        "word": "never",
+        "start": 109.334,
+        "end": 109.51,
+        "sung": true
+      },
+      {
+        "word": "knew?",
+        "start": 109.51,
+        "end": 109.95,
+        "spoken": true
+      }
+    ],
+    "time": 106.63,
+    "end": 109.95
+  },
+  {
+    "text": "Broken my frozen time, 75 degrees tonight, but cold inside.",
+    "startTime": 110.41,
+    "endTime": 114.75,
+    "words": [
+      {
+        "word": "Broken",
+        "start": 110.41,
+        "end": 110.45
+      },
+      {
+        "word": "my",
+        "start": 110.45,
+        "end": 110.89,
+        "stretch": true
+      },
+      {
+        "word": "frozen",
+        "start": 110.89,
+        "end": 111.37
+      },
+      {
+        "word": "time,",
+        "start": 111.37,
+        "end": 111.89
+      },
+      {
+        "word": "75",
+        "start": 112.37,
+        "end": 112.53,
+        "spoken": true
+      },
+      {
+        "word": "degrees",
+        "start": 112.53,
+        "end": 113.17,
+        "sung": true
+      },
+      {
+        "word": "tonight,",
+        "start": 113.422,
+        "end": 113.59,
+        "spoken": true
+      },
+      {
+        "word": "but",
+        "start": 113.802,
+        "end": 113.93
+      },
+      {
+        "word": "cold",
+        "start": 113.93,
+        "end": 114.23
+      },
+      {
+        "word": "inside.",
+        "start": 114.23,
+        "end": 114.75
+      }
+    ],
+    "time": 110.41,
+    "end": 114.75
+  },
+  {
+    "text": "Maybe that's why my lyrics are cold.",
+    "startTime": 114.91,
+    "endTime": 117.33,
+    "words": [
+      {
+        "word": "Maybe",
+        "start": 114.91,
+        "end": 115.27
+      },
+      {
+        "word": "that's",
+        "start": 115.409,
+        "end": 115.71,
+        "spoken": true
+      },
+      {
+        "word": "why",
+        "start": 115.71,
+        "end": 115.85,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 115.85,
+        "end": 116.21,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "lyrics",
+        "start": 116.21,
+        "end": 116.57,
+        "spoken": true
+      },
+      {
+        "word": "are",
+        "start": 116.64,
+        "end": 116.95
+      },
+      {
+        "word": "cold.",
+        "start": 116.95,
+        "end": 117.33
+      }
+    ],
+    "time": 114.91,
+    "end": 117.33
+  },
+  {
+    "text": "All the times you said you love me more, you love me",
+    "startTime": 118.29,
+    "endTime": 121.43,
+    "words": [
+      {
+        "word": "All",
+        "start": 118.29,
+        "end": 118.59,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 118.59,
+        "end": 118.91,
+        "spoken": true
+      },
+      {
+        "word": "times",
+        "start": 118.91,
+        "end": 119.09
+      },
+      {
+        "word": "you",
+        "start": 119.09,
+        "end": 119.27,
+        "spoken": true
+      },
+      {
+        "word": "said",
+        "start": 119.45,
+        "end": 119.57,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 119.57,
+        "end": 119.81,
+        "sung": true
+      },
+      {
+        "word": "love",
+        "start": 119.81,
+        "end": 120.05,
+        "sung": true
+      },
+      {
+        "word": "me",
+        "start": 120.05,
+        "end": 120.27,
+        "spoken": true
+      },
+      {
+        "word": "more,",
+        "start": 120.27,
+        "end": 120.53
+      },
+      {
+        "word": "you",
+        "start": 120.57,
+        "end": 120.79
+      },
+      {
+        "word": "love",
+        "start": 120.79,
+        "end": 121.03,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 121.239,
+        "end": 121.43,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 118.29,
+    "end": 121.43
+  },
+  {
+    "text": "less.",
+    "startTime": 121.43,
+    "endTime": 121.87,
+    "words": [
+      {
+        "word": "less.",
+        "start": 121.43,
+        "end": 121.87
+      }
+    ],
+    "time": 121.43,
+    "end": 121.87
+  },
+  {
+    "text": "I don't like to think about it, I just get depressed.",
+    "startTime": 122.17,
+    "endTime": 125.63,
+    "words": [
+      {
+        "word": "I",
+        "start": 122.263,
+        "end": 122.69,
+        "stretch": true
+      },
+      {
+        "word": "don't",
+        "start": 122.69,
+        "end": 122.79,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 122.79,
+        "end": 123.07
+      },
+      {
+        "word": "to",
+        "start": 123.19,
+        "end": 123.27,
+        "spoken": true
+      },
+      {
+        "word": "think",
+        "start": 123.27,
+        "end": 123.61
+      },
+      {
+        "word": "about",
+        "start": 123.726,
+        "end": 124.05,
+        "spoken": true
+      },
+      {
+        "word": "it,",
+        "start": 124.05,
+        "end": 124.29,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 124.398,
+        "end": 124.47,
+        "stretch": true
+      },
+      {
+        "word": "just",
+        "start": 124.47,
+        "end": 124.77
+      },
+      {
+        "word": "get",
+        "start": 124.77,
+        "end": 125.01,
+        "spoken": true
+      },
+      {
+        "word": "depressed.",
+        "start": 125.36,
+        "end": 125.63
+      }
+    ],
+    "time": 122.17,
+    "end": 125.63
+  },
+  {
+    "text": "All the times I thought that you were mine, you never was.",
+    "startTime": 125.63,
+    "endTime": 129.85,
+    "words": [
+      {
+        "word": "All",
+        "start": 125.676,
+        "end": 126.45,
+        "stretch": true
+      },
+      {
+        "word": "the",
+        "start": 126.45,
+        "end": 126.75,
+        "spoken": true
+      },
+      {
+        "word": "times",
+        "start": 126.75,
+        "end": 126.97
+      },
+      {
+        "word": "I",
+        "start": 126.97,
+        "end": 127.17,
         "stretch": true,
         "spoken": true
       },
       {
         "word": "thought",
-        "start": 25.354,
-        "end": 25.45,
+        "start": 127.17,
+        "end": 127.41,
         "spoken": true
       },
       {
         "word": "that",
-        "start": 25.45,
-        "end": 25.75,
+        "start": 127.41,
+        "end": 127.71,
         "spoken": true
       },
       {
         "word": "you",
-        "start": 25.75,
-        "end": 25.99
+        "start": 127.71,
+        "end": 127.93,
+        "spoken": true
       },
       {
         "word": "were",
-        "start": 26.122,
-        "end": 26.21,
+        "start": 127.93,
+        "end": 128.23,
         "spoken": true
       },
       {
-        "word": "mine",
-        "start": 26.21,
-        "end": 26.43
+        "word": "mine,",
+        "start": 128.23,
+        "end": 128.45,
+        "spoken": true
       },
       {
         "word": "you",
-        "start": 26.43,
-        "end": 26.75
+        "start": 128.75,
+        "end": 128.75
       },
       {
         "word": "never",
-        "start": 27.062,
-        "end": 27.27,
+        "start": 129.05,
+        "end": 129.25
+      },
+      {
+        "word": "was.",
+        "start": 129.6,
+        "end": 129.85,
+        "sung": true
+      }
+    ],
+    "time": 125.63,
+    "end": 129.85
+  },
+  {
+    "text": "Was it like this from the start and I just never knew?",
+    "startTime": 130.21,
+    "endTime": 133.61,
+    "words": [
+      {
+        "word": "Was",
+        "start": 130.21,
+        "end": 130.41,
         "spoken": true
       },
       {
-        "word": "was",
-        "start": 27.27,
-        "end": 27.63
+        "word": "it",
+        "start": 130.41,
+        "end": 130.67,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 130.67,
+        "end": 130.87,
+        "spoken": true
+      },
+      {
+        "word": "this",
+        "start": 130.978,
+        "end": 131.05,
+        "spoken": true
+      },
+      {
+        "word": "from",
+        "start": 131.05,
+        "end": 131.35,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 131.35,
+        "end": 131.63,
+        "spoken": true
+      },
+      {
+        "word": "start",
+        "start": 131.63,
+        "end": 131.85
+      },
+      {
+        "word": "and",
+        "start": 131.85,
+        "end": 132.13,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 132.238,
+        "end": 132.31,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "just",
+        "start": 132.31,
+        "end": 132.63
+      },
+      {
+        "word": "never",
+        "start": 132.63,
+        "end": 132.97
+      },
+      {
+        "word": "knew?",
+        "start": 133.063,
+        "end": 133.61
       }
     ],
-    "time": 23.71,
-    "end": 27.63
+    "time": 130.21,
+    "end": 133.61
   },
   {
-    "text": "●",
-    "startTime": 27.93,
-    "endTime": 145.636,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 27.93,
-    "end": 145.636
+    "text": "I could blame it on the season, but girl I'm a mess.",
+    "startTime": 133.99,
+    "endTime": 137.45,
+    "words": [
+      {
+        "word": "I",
+        "start": 133.99,
+        "end": 134.29,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "could",
+        "start": 134.29,
+        "end": 134.53
+      },
+      {
+        "word": "blame",
+        "start": 134.53,
+        "end": 134.79,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 134.79,
+        "end": 135.11,
+        "stretch": true
+      },
+      {
+        "word": "on",
+        "start": 135.23,
+        "end": 135.31,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 135.31,
+        "end": 135.55
+      },
+      {
+        "word": "season,",
+        "start": 135.55,
+        "end": 135.87
+      },
+      {
+        "word": "but",
+        "start": 135.95,
+        "end": 136.23
+      },
+      {
+        "word": "girl",
+        "start": 136.23,
+        "end": 136.49
+      },
+      {
+        "word": "I'm",
+        "start": 136.49,
+        "end": 136.93,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 136.93,
+        "end": 137.09,
+        "stretch": true
+      },
+      {
+        "word": "mess.",
+        "start": 137.09,
+        "end": 137.45
+      }
+    ],
+    "time": 133.99,
+    "end": 137.45
+  },
+  {
+    "text": "And this February got me hating everyone.",
+    "startTime": 138.13,
+    "endTime": 141.11,
+    "words": [
+      {
+        "word": "And",
+        "start": 138.13,
+        "end": 138.23
+      },
+      {
+        "word": "this",
+        "start": 138.23,
+        "end": 138.45,
+        "spoken": true
+      },
+      {
+        "word": "February",
+        "start": 138.8,
+        "end": 139.19,
+        "spoken": true
+      },
+      {
+        "word": "got",
+        "start": 139.19,
+        "end": 139.63,
+        "spoken": true
+      },
+      {
+        "word": "me",
+        "start": 139.63,
+        "end": 140.03,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "hating",
+        "start": 140.03,
+        "end": 140.31,
+        "whisper": true
+      },
+      {
+        "word": "everyone.",
+        "start": 140.31,
+        "end": 141.11,
+        "stretch": true,
+        "whisper": true
+      }
+    ],
+    "time": 138.13,
+    "end": 141.11
   }
 ]

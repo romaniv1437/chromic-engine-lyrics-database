@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T19:48:14.846278+00:00",
-  "totalTracks": 840,
+  "generatedAt": "2026-07-13T19:53:47.453817+00:00",
+  "totalTracks": 841,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11805,6 +11805,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-37683766/a-big-open-area-with-big-shiny-equipment-10",
       "mtimeMs": 1783972095795
+    },
+    "kaesul::that sinking feeling (main theme)": {
+      "title": "that sinking feeling (main theme)",
+      "artist": "KAESUL",
+      "originalTrackName": "KAESUL - that sinking feeling (main theme)",
+      "source": "whisper_only",
+      "file": "tracks/kaesul-that-sinking-feeling-main-theme-6382129a7cb9.json",
+      "files": {
+        "lyrics": "tracks/kaesul-that-sinking-feeling-main-theme-6382129a7cb9.json",
+        "meta": "tracks/kaesul-that-sinking-feeling-main-theme-6382129a7cb9.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-37683766/that-sinking-feeling-main-theme-1",
+      "mtimeMs": 1783972427899
     }
   },
   "tracks": [
@@ -23627,6 +23641,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-37683766/a-big-open-area-with-big-shiny-equipment-10",
       "mtimeMs": 1783972095795
+    },
+    {
+      "title": "that sinking feeling (main theme)",
+      "artist": "KAESUL",
+      "originalTrackName": "KAESUL - that sinking feeling (main theme)",
+      "source": "whisper_only",
+      "file": "tracks/kaesul-that-sinking-feeling-main-theme-6382129a7cb9.json",
+      "files": {
+        "lyrics": "tracks/kaesul-that-sinking-feeling-main-theme-6382129a7cb9.json",
+        "meta": "tracks/kaesul-that-sinking-feeling-main-theme-6382129a7cb9.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-37683766/that-sinking-feeling-main-theme-1",
+      "mtimeMs": 1783972427899
     }
   ]
 }

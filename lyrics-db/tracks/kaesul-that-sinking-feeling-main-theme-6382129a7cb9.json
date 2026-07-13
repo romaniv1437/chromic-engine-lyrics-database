@@ -1,0 +1,192 @@
+[
+  {
+    "text": "🎵🎵🎵",
+    "startTime": 1.98,
+    "endTime": 3.38,
+    "words": [
+      {
+        "word": "🎵🎵🎵",
+        "start": 1.98,
+        "end": 3.38,
+        "stretch": true
+      }
+    ],
+    "time": 1.98,
+    "end": 3.38
+  },
+  {
+    "text": "●",
+    "startTime": 3.68,
+    "endTime": 33.22,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 3.68,
+    "end": 33.22
+  },
+  {
+    "text": "Blom, blom, blom, blom",
+    "startTime": 33.22,
+    "endTime": 59.98,
+    "words": [
+      {
+        "word": "Blom,",
+        "start": 33.452,
+        "end": 33.86,
+        "spoken": true
+      },
+      {
+        "word": "blom,",
+        "start": 33.94,
+        "end": 34.26,
+        "spoken": true
+      },
+      {
+        "word": "blom,",
+        "start": 34.26,
+        "end": 34.58,
+        "spoken": true
+      },
+      {
+        "word": "blom",
+        "start": 35.155,
+        "end": 59.98,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 33.22,
+    "end": 59.98
+  },
+  {
+    "text": "Nå er vi i stedet.",
+    "startTime": 63.56,
+    "endTime": 65.82,
+    "words": [
+      {
+        "word": "Nå",
+        "start": 63.91,
+        "end": 64.54,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "er",
+        "start": 64.54,
+        "end": 64.8,
+        "spoken": true
+      },
+      {
+        "word": "vi",
+        "start": 64.8,
+        "end": 65.28,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 65.28,
+        "end": 65.32
+      },
+      {
+        "word": "stedet.",
+        "start": 65.32,
+        "end": 65.82,
+        "spoken": true
+      }
+    ],
+    "time": 63.56,
+    "end": 65.82
+  },
+  {
+    "text": "●",
+    "startTime": 66.12,
+    "endTime": 94.7,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 66.12,
+    "end": 94.7
+  },
+  {
+    "text": "Nå, nå, nå, nå, nå",
+    "startTime": 94.7,
+    "endTime": 96.96,
+    "words": [
+      {
+        "word": "Nå,",
+        "start": 94.886,
+        "end": 95.28,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "nå,",
+        "start": 95.28,
+        "end": 95.46,
+        "spoken": true
+      },
+      {
+        "word": "nå,",
+        "start": 95.46,
+        "end": 95.74,
+        "spoken": true
+      },
+      {
+        "word": "nå,",
+        "start": 95.74,
+        "end": 96.04,
+        "spoken": true
+      },
+      {
+        "word": "nå",
+        "start": 96.588,
+        "end": 96.96,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 94.7,
+    "end": 96.96
+  },
+  {
+    "text": "●",
+    "startTime": 97.26,
+    "endTime": 125.14,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 97.26,
+    "end": 125.14
+  },
+  {
+    "text": "Teksting av Nicolai Winther",
+    "startTime": 125.14,
+    "endTime": 126.32,
+    "words": [
+      {
+        "word": "Teksting",
+        "start": 125.44,
+        "end": 125.64,
+        "spoken": true
+      },
+      {
+        "word": "av",
+        "start": 125.64,
+        "end": 125.84,
+        "spoken": true
+      },
+      {
+        "word": "Nicolai",
+        "start": 125.84,
+        "end": 126.14,
+        "spoken": true
+      },
+      {
+        "word": "Winther",
+        "start": 126.14,
+        "end": 126.32,
+        "spoken": true
+      }
+    ],
+    "time": 125.14,
+    "end": 126.32
+  }
+]

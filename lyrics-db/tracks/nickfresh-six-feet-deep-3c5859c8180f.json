@@ -1,0 +1,1000 @@
+[
+  {
+    "text": "●",
+    "startTime": 0.3,
+    "endTime": 19.8,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 0.3,
+    "end": 19.8
+  },
+  {
+    "text": "I'm easy, I'm easy, I'm easy Yeah,",
+    "startTime": 19.8,
+    "endTime": 23.32,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 19.963,
+        "end": 20.177,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "easy,",
+        "start": 20.223,
+        "end": 20.806,
+        "singer": "singer2"
+      },
+      {
+        "word": "I'm",
+        "start": 20.876,
+        "end": 21.183,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "easy,",
+        "start": 21.183,
+        "end": 21.811,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 21.811,
+        "end": 22.189,
+        "sung": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "easy",
+        "start": 22.444,
+        "end": 22.691,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "Yeah,",
+        "start": 22.691,
+        "end": 23.32,
+        "sung": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 19.8,
+    "end": 23.32
+  },
+  {
+    "text": "●",
+    "startTime": 21.66,
+    "endTime": 33.52,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 21.66,
+    "end": 33.52
+  },
+  {
+    "text": "If I talk my pain give you",
+    "startTime": 33.52,
+    "endTime": 38.26,
+    "words": [
+      {
+        "word": "If",
+        "start": 33.52,
+        "end": 33.67,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "I",
+        "start": 33.888,
+        "end": 34.0,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "talk",
+        "start": 34.36,
+        "end": 34.96,
+        "char_starts": [
+          34.36,
+          34.45,
+          34.587,
+          34.752
+        ],
+        "singer": "singer2"
+      },
+      {
+        "word": "my",
+        "start": 34.97,
+        "end": 35.26,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "pain",
+        "start": 35.62,
+        "end": 36.53,
+        "char_starts": [
+          35.62,
+          35.756,
+          35.918,
+          36.111
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "give",
+        "start": 36.89,
+        "end": 37.8,
+        "char_starts": [
+          36.89,
+          37.026,
+          37.186,
+          37.398
+        ],
+        "singer": "singer2"
+      },
+      {
+        "word": "you",
+        "start": 38.08,
+        "end": 38.26,
+        "singer": "singer2"
+      }
+    ],
+    "time": 33.52,
+    "end": 38.26
+  },
+  {
+    "text": "●",
+    "startTime": 38.56,
+    "endTime": 48.3,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 38.56,
+    "end": 48.3
+  },
+  {
+    "text": "Who you go talk am give,",
+    "startTime": 48.3,
+    "endTime": 51.04,
+    "words": [
+      {
+        "word": "Who",
+        "start": 48.3,
+        "end": 48.45,
+        "char_starts": [
+          48.3,
+          48.332,
+          48.366
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "you",
+        "start": 48.709,
+        "end": 48.92,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "go",
+        "start": 48.93,
+        "end": 49.26,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "talk",
+        "start": 50.546,
+        "end": 50.94,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "am",
+        "start": 50.95,
+        "end": 50.99,
+        "singer": "singer1"
+      },
+      {
+        "word": "give,",
+        "start": 51.0,
+        "end": 51.04,
+        "singer": "singer1"
+      }
+    ],
+    "time": 48.3,
+    "end": 51.04
+  },
+  {
+    "text": "If I drink my Burukutu",
+    "startTime": 51.05,
+    "endTime": 53.14,
+    "words": [
+      {
+        "word": "If",
+        "start": 51.05,
+        "end": 51.09,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 51.1,
+        "end": 51.28,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "drink",
+        "start": 51.64,
+        "end": 52.78,
+        "char_starts": [
+          51.64,
+          51.777,
+          51.924,
+          52.097,
+          52.291
+        ],
+        "sung": true,
+        "singer": "singer2",
+        "stretch": true
+      },
+      {
+        "word": "my",
+        "start": 52.79,
+        "end": 52.94,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Burukutu",
+        "start": 52.99,
+        "end": 53.14,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 51.05,
+    "end": 53.14
+  },
+  {
+    "text": "●",
+    "startTime": 53.44,
+    "endTime": 75.66,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 53.44,
+    "end": 75.66
+  },
+  {
+    "text": "Oh, you go talk and gist",
+    "startTime": 75.66,
+    "endTime": 80.82,
+    "words": [
+      {
+        "word": "Oh,",
+        "start": 75.66,
+        "end": 75.81,
+        "char_starts": [
+          75.66,
+          75.691,
+          75.723
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 75.86,
+        "end": 76.01,
+        "char_starts": [
+          75.86,
+          75.89,
+          75.921
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "go",
+        "start": 76.06,
+        "end": 76.32,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "talk",
+        "start": 76.562,
+        "end": 77.82,
+        "char_starts": [
+          76.562,
+          76.751,
+          77.007,
+          77.312
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 77.83,
+        "end": 79.32,
+        "char_starts": [
+          77.83,
+          78.21,
+          78.798
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "gist",
+        "start": 79.68,
+        "end": 80.82,
+        "char_starts": [
+          79.68,
+          79.851,
+          80.066,
+          80.32
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 75.66,
+    "end": 80.82
+  },
+  {
+    "text": "●",
+    "startTime": 81.12,
+    "endTime": 92.2,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 81.12,
+    "end": 92.2
+  },
+  {
+    "text": "All my girls are 32",
+    "startTime": 92.2,
+    "endTime": 94.64,
+    "words": [
+      {
+        "word": "All",
+        "start": 92.2,
+        "end": 92.35,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "my",
+        "start": 92.4,
+        "end": 92.55,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "girls",
+        "start": 92.6,
+        "end": 92.78,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "are",
+        "start": 92.96,
+        "end": 93.14,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "32",
+        "start": 93.5,
+        "end": 94.64,
+        "char_starts": [
+          93.5,
+          94.118
+        ],
+        "sung": true,
+        "singer": "singer2",
+        "stretch": true
+      }
+    ],
+    "time": 92.2,
+    "end": 94.64
+  },
+  {
+    "text": "●",
+    "startTime": 94.94,
+    "endTime": 143.92,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 94.94,
+    "end": 143.92
+  },
+  {
+    "text": "I no dey fuck with",
+    "startTime": 143.92,
+    "endTime": 146.82,
+    "words": [
+      {
+        "word": "I",
+        "start": 143.92,
+        "end": 144.07,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "no",
+        "start": 144.236,
+        "end": 144.84,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "dey",
+        "start": 145.2,
+        "end": 145.543,
+        "char_starts": [
+          145.2,
+          145.269,
+          145.356
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "fuck",
+        "start": 145.903,
+        "end": 146.48,
+        "char_starts": [
+          145.903,
+          145.99,
+          146.121,
+          146.278
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "with",
+        "start": 146.49,
+        "end": 146.82,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 143.92,
+    "end": 146.82
+  },
+  {
+    "text": "●",
+    "startTime": 147.12,
+    "endTime": 152.96,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 147.12,
+    "end": 152.96
+  },
+  {
+    "text": "kids",
+    "startTime": 152.96,
+    "endTime": 153.9,
+    "words": [
+      {
+        "word": "kids",
+        "start": 152.96,
+        "end": 153.9,
+        "char_starts": [
+          152.96,
+          153.126,
+          153.384,
+          153.693
+        ],
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 152.96,
+    "end": 153.9
+  },
+  {
+    "text": "●",
+    "startTime": 154.2,
+    "endTime": 169.02,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 154.2,
+    "end": 169.02
+  },
+  {
+    "text": "My daddy tell me say make I dey push",
+    "startTime": 169.02,
+    "endTime": 175.241,
+    "words": [
+      {
+        "word": "My",
+        "start": 169.02,
+        "end": 169.17,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "daddy",
+        "start": 169.22,
+        "end": 169.37,
+        "char_starts": [
+          169.22,
+          169.247,
+          169.274,
+          169.301,
+          169.328
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "tell",
+        "start": 169.42,
+        "end": 169.74,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 170.65,
+        "end": 172.56,
+        "char_starts": [
+          170.65,
+          171.769
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "say",
+        "start": 172.57,
+        "end": 173.096,
+        "char_starts": [
+          172.57,
+          172.691,
+          172.938
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "make",
+        "start": 173.456,
+        "end": 173.811,
+        "char_starts": [
+          173.456,
+          173.509,
+          173.562,
+          173.628
+        ],
+        "sung": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "I",
+        "start": 173.821,
+        "end": 173.99,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "dey",
+        "start": 174.0,
+        "end": 174.526,
+        "char_starts": [
+          174.0,
+          174.121,
+          174.368
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "push",
+        "start": 174.536,
+        "end": 175.241,
+        "char_starts": [
+          174.536,
+          174.661,
+          174.854,
+          175.086
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 169.02,
+    "end": 175.241
+  },
+  {
+    "text": "Make I no ever quit, Six feet deep, six feet deep",
+    "startTime": 175.251,
+    "endTime": 182.213,
+    "words": [
+      {
+        "word": "Make",
+        "start": 175.251,
+        "end": 175.956,
+        "char_starts": [
+          175.251,
+          175.357,
+          175.525,
+          175.751
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I",
+        "start": 175.966,
+        "end": 176.135,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "no",
+        "start": 176.145,
+        "end": 176.492,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ever",
+        "start": 176.502,
+        "end": 177.208,
+        "char_starts": [
+          176.502,
+          176.627,
+          176.821,
+          177.053
+        ],
+        "sung": true,
+        "singer": "singer2",
+        "stretch": true
+      },
+      {
+        "word": "quit,",
+        "start": 177.568,
+        "end": 178.101,
+        "char_starts": [
+          177.568,
+          177.632,
+          177.712,
+          177.807,
+          177.914
+        ],
+        "sung": true,
+        "singer": "singer2",
+        "stretch": true
+      },
+      {
+        "word": "Six",
+        "start": 178.111,
+        "end": 178.638,
+        "char_starts": [
+          178.111,
+          178.272,
+          178.522
+        ],
+        "singer": "singer1"
+      },
+      {
+        "word": "feet",
+        "start": 178.998,
+        "end": 179.353,
+        "char_starts": [
+          178.998,
+          179.051,
+          179.121,
+          179.203
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "deep,",
+        "start": 179.363,
+        "end": 180.246,
+        "char_starts": [
+          179.363,
+          179.469,
+          179.633,
+          179.83,
+          180.052
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "six",
+        "start": 180.256,
+        "end": 180.783,
+        "char_starts": [
+          180.256,
+          180.417,
+          180.667
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "feet",
+        "start": 180.793,
+        "end": 181.498,
+        "char_starts": [
+          180.793,
+          180.918,
+          181.111,
+          181.343
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "deep",
+        "start": 181.508,
+        "end": 182.213,
+        "char_starts": [
+          181.508,
+          181.633,
+          181.826,
+          182.058
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 175.251,
+    "end": 182.213
+  },
+  {
+    "text": "Six feet deep, six feet deep And you dey see my drip",
+    "startTime": 182.223,
+    "endTime": 187.42,
+    "words": [
+      {
+        "word": "Six",
+        "start": 182.539,
+        "end": 182.749,
+        "char_starts": [
+          182.539,
+          182.581,
+          182.637
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "feet",
+        "start": 182.759,
+        "end": 183.464,
+        "char_starts": [
+          182.759,
+          182.884,
+          183.077,
+          183.309
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "deep,",
+        "start": 183.474,
+        "end": 184.358,
+        "char_starts": [
+          183.474,
+          183.58,
+          183.744,
+          183.942,
+          184.164
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "six",
+        "start": 184.368,
+        "end": 184.894,
+        "char_starts": [
+          184.368,
+          184.529,
+          184.778
+        ],
+        "singer": "singer1"
+      },
+      {
+        "word": "feet",
+        "start": 185.206,
+        "end": 185.609,
+        "char_starts": [
+          185.206,
+          185.266,
+          185.352,
+          185.456
+        ],
+        "sung": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "deep",
+        "start": 185.969,
+        "end": 186.324,
+        "char_starts": [
+          185.969,
+          186.022,
+          186.092,
+          186.174
+        ],
+        "sung": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "And",
+        "start": 186.334,
+        "end": 186.86,
+        "char_starts": [
+          186.334,
+          186.495,
+          186.744
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 186.87,
+        "end": 187.22,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "dey",
+        "start": 187.23,
+        "end": 187.27,
+        "singer": "singer1"
+      },
+      {
+        "word": "see",
+        "start": 187.28,
+        "end": 187.32,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 187.33,
+        "end": 187.37,
+        "singer": "singer1"
+      },
+      {
+        "word": "drip",
+        "start": 187.38,
+        "end": 187.42,
+        "singer": "singer1"
+      }
+    ],
+    "time": 182.223,
+    "end": 187.42
+  },
+  {
+    "text": "Omo na six feet deep, six feet deep shey you dey see my, you dey see my",
+    "startTime": 187.43,
+    "endTime": 188.175,
+    "words": [
+      {
+        "word": "Omo",
+        "start": 187.43,
+        "end": 187.47,
+        "singer": "singer1"
+      },
+      {
+        "word": "na",
+        "start": 187.48,
+        "end": 187.52,
+        "singer": "singer1"
+      },
+      {
+        "word": "six",
+        "start": 187.53,
+        "end": 187.57,
+        "singer": "singer1"
+      },
+      {
+        "word": "feet",
+        "start": 187.58,
+        "end": 187.62,
+        "singer": "singer1"
+      },
+      {
+        "word": "deep,",
+        "start": 187.63,
+        "end": 187.67,
+        "singer": "singer1"
+      },
+      {
+        "word": "six",
+        "start": 187.68,
+        "end": 187.72,
+        "singer": "singer1"
+      },
+      {
+        "word": "feet",
+        "start": 187.73,
+        "end": 187.77,
+        "singer": "singer1"
+      },
+      {
+        "word": "deep",
+        "start": 187.78,
+        "end": 187.82,
+        "singer": "singer1"
+      },
+      {
+        "word": "shey",
+        "start": 187.83,
+        "end": 187.87,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 187.88,
+        "end": 187.92,
+        "singer": "singer1"
+      },
+      {
+        "word": "dey",
+        "start": 187.93,
+        "end": 187.97,
+        "singer": "singer1"
+      },
+      {
+        "word": "see",
+        "start": 187.98,
+        "end": 188.02,
+        "singer": "singer1"
+      },
+      {
+        "word": "my,",
+        "start": 188.03,
+        "end": 188.07,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 188.075,
+        "end": 188.12,
+        "singer": "singer1"
+      },
+      {
+        "word": "dey",
+        "start": 188.075,
+        "end": 188.17,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "see",
+        "start": 188.075,
+        "end": 188.175,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 188.075,
+        "end": 188.175,
+        "whisper": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 187.43,
+    "end": 188.175
+  }
+]

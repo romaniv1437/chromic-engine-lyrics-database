@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T19:59:49.869936+00:00",
-  "totalTracks": 844,
+  "generatedAt": "2026-07-13T21:13:34.303307+00:00",
+  "totalTracks": 845,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11861,6 +11861,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-37683766/uncle-nelson-3",
       "mtimeMs": 1783972790531
+    },
+    "nickfresh::six feet deep": {
+      "title": "Six Feet Deep",
+      "artist": "nickFRESH",
+      "originalTrackName": "nickFRESH - Six Feet Deep",
+      "source": "syncedlyrics",
+      "file": "tracks/nickfresh-six-feet-deep-3c5859c8180f.json",
+      "files": {
+        "lyrics": "tracks/nickfresh-six-feet-deep-3c5859c8180f.json",
+        "meta": "tracks/nickfresh-six-feet-deep-3c5859c8180f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ogfresh1/six-feet-deep-12",
+      "mtimeMs": 1783977215058
     }
   },
   "tracks": [
@@ -23739,6 +23753,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-37683766/uncle-nelson-3",
       "mtimeMs": 1783972790531
+    },
+    {
+      "title": "Six Feet Deep",
+      "artist": "nickFRESH",
+      "originalTrackName": "nickFRESH - Six Feet Deep",
+      "source": "syncedlyrics",
+      "file": "tracks/nickfresh-six-feet-deep-3c5859c8180f.json",
+      "files": {
+        "lyrics": "tracks/nickfresh-six-feet-deep-3c5859c8180f.json",
+        "meta": "tracks/nickfresh-six-feet-deep-3c5859c8180f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ogfresh1/six-feet-deep-12",
+      "mtimeMs": 1783977215058
     }
   ]
 }

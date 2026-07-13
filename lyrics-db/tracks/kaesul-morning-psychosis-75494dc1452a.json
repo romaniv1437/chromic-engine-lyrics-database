@@ -1,0 +1,452 @@
+[
+  {
+    "text": "●",
+    "startTime": 0.3,
+    "endTime": 15.8,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 0.3,
+    "end": 15.8
+  },
+  {
+    "text": "Hello everyone!",
+    "startTime": 15.8,
+    "endTime": 16.76,
+    "words": [
+      {
+        "word": "Hello",
+        "start": 15.8,
+        "end": 16.28,
+        "sung": true
+      },
+      {
+        "word": "everyone!",
+        "start": 16.28,
+        "end": 16.76,
+        "sung": true
+      }
+    ],
+    "time": 15.8,
+    "end": 16.76
+  },
+  {
+    "text": "Today I am going to show you my new DIY",
+    "startTime": 16.76,
+    "endTime": 17.1,
+    "words": [
+      {
+        "word": "Today",
+        "start": 16.76,
+        "end": 17.06,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 17.06,
+        "end": 17.06
+      },
+      {
+        "word": "am",
+        "start": 17.06,
+        "end": 17.06
+      },
+      {
+        "word": "going",
+        "start": 17.06,
+        "end": 17.06
+      },
+      {
+        "word": "to",
+        "start": 17.06,
+        "end": 17.06
+      },
+      {
+        "word": "show",
+        "start": 17.06,
+        "end": 17.08
+      },
+      {
+        "word": "you",
+        "start": 17.08,
+        "end": 17.1
+      },
+      {
+        "word": "my",
+        "start": 17.1,
+        "end": 17.1
+      },
+      {
+        "word": "new",
+        "start": 17.1,
+        "end": 17.1
+      },
+      {
+        "word": "DIY",
+        "start": 17.1,
+        "end": 17.1
+      }
+    ],
+    "time": 16.76,
+    "end": 17.1
+  },
+  {
+    "text": "DIY",
+    "startTime": 17.1,
+    "endTime": 17.34,
+    "words": [
+      {
+        "word": "DIY",
+        "start": 17.1,
+        "end": 17.34,
+        "whisper": true
+      }
+    ],
+    "time": 17.1,
+    "end": 17.34
+  },
+  {
+    "text": "DIY",
+    "startTime": 17.34,
+    "endTime": 18.04,
+    "words": [
+      {
+        "word": "DIY",
+        "start": 17.34,
+        "end": 18.04,
+        "spoken": true
+      }
+    ],
+    "time": 17.34,
+    "end": 18.04
+  },
+  {
+    "text": "●",
+    "startTime": 17.72,
+    "endTime": 31.12,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 17.72,
+    "end": 31.12
+  },
+  {
+    "text": "Thank you for watching.",
+    "startTime": 31.12,
+    "endTime": 47.38,
+    "words": [
+      {
+        "word": "Thank",
+        "start": 31.12,
+        "end": 31.24,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 31.24,
+        "end": 31.26
+      },
+      {
+        "word": "for",
+        "start": 31.61,
+        "end": 47.32,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "watching.",
+        "start": 47.32,
+        "end": 47.38,
+        "spoken": true
+      }
+    ],
+    "time": 31.12,
+    "end": 47.38
+  },
+  {
+    "text": "●",
+    "startTime": 47.68,
+    "endTime": 65.5,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 47.68,
+    "end": 65.5
+  },
+  {
+    "text": "God bless you.",
+    "startTime": 65.5,
+    "endTime": 77.38,
+    "words": [
+      {
+        "word": "God",
+        "start": 65.85,
+        "end": 66.9,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "bless",
+        "start": 67.109,
+        "end": 67.74,
+        "stretch": true
+      },
+      {
+        "word": "you.",
+        "start": 68.09,
+        "end": 77.38,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 65.5,
+    "end": 77.38
+  },
+  {
+    "text": "●",
+    "startTime": 77.68,
+    "endTime": 83.54,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 77.68,
+    "end": 83.54
+  },
+  {
+    "text": "Thank you for watching.",
+    "startTime": 83.54,
+    "endTime": 107.36,
+    "words": [
+      {
+        "word": "Thank",
+        "start": 83.54,
+        "end": 83.7,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 83.7,
+        "end": 83.74
+      },
+      {
+        "word": "for",
+        "start": 84.09,
+        "end": 107.28,
+        "stretch": true
+      },
+      {
+        "word": "watching.",
+        "start": 107.28,
+        "end": 107.36,
+        "spoken": true
+      }
+    ],
+    "time": 83.54,
+    "end": 107.36
+  },
+  {
+    "text": "Storbritannia",
+    "startTime": 109.26,
+    "endTime": 110.66,
+    "words": [
+      {
+        "word": "Storbritannia",
+        "start": 109.26,
+        "end": 110.66,
+        "stretch": true,
+        "sung": true
+      }
+    ],
+    "time": 109.26,
+    "end": 110.66
+  },
+  {
+    "text": "Storbritannia",
+    "startTime": 110.78,
+    "endTime": 111.48,
+    "words": [
+      {
+        "word": "Storbritannia",
+        "start": 111.13,
+        "end": 111.48,
+        "sung": true
+      }
+    ],
+    "time": 110.78,
+    "end": 111.48
+  },
+  {
+    "text": "●",
+    "startTime": 111.78,
+    "endTime": 164.4,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 111.78,
+    "end": 164.4
+  },
+  {
+    "text": "Kjell Sørensen",
+    "startTime": 164.4,
+    "endTime": 167.2,
+    "words": [
+      {
+        "word": "Kjell",
+        "start": 164.75,
+        "end": 165.8,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "Sørensen",
+        "start": 166.102,
+        "end": 167.2,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 164.4,
+    "end": 167.2
+  },
+  {
+    "text": "Kjell Kjell",
+    "startTime": 171.64,
+    "endTime": 173.24,
+    "words": [
+      {
+        "word": "Kjell",
+        "start": 171.64,
+        "end": 173.04,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "Kjell",
+        "start": 173.04,
+        "end": 173.24,
+        "spoken": true
+      }
+    ],
+    "time": 171.64,
+    "end": 173.24
+  },
+  {
+    "text": "●",
+    "startTime": 173.54,
+    "endTime": 210.54,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 173.54,
+    "end": 210.54
+  },
+  {
+    "text": "Teksting av Nicolai Winther",
+    "startTime": 210.54,
+    "endTime": 227.02,
+    "words": [
+      {
+        "word": "Teksting",
+        "start": 210.89,
+        "end": 211.94,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "av",
+        "start": 211.94,
+        "end": 212.06,
+        "spoken": true
+      },
+      {
+        "word": "Nicolai",
+        "start": 212.06,
+        "end": 226.92,
+        "stretch": true
+      },
+      {
+        "word": "Winther",
+        "start": 226.92,
+        "end": 227.02,
+        "spoken": true
+      }
+    ],
+    "time": 210.54,
+    "end": 227.02
+  },
+  {
+    "text": "●",
+    "startTime": 227.32,
+    "endTime": 254.24,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 227.32,
+    "end": 254.24
+  },
+  {
+    "text": "Undertexter av Amara .org -gemenskapen",
+    "startTime": 254.24,
+    "endTime": 257.4,
+    "words": [
+      {
+        "word": "Undertexter",
+        "start": 254.24,
+        "end": 255.64,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "av",
+        "start": 255.64,
+        "end": 255.64
+      },
+      {
+        "word": "Amara",
+        "start": 255.64,
+        "end": 255.68
+      },
+      {
+        "word": ".org",
+        "start": 255.68,
+        "end": 257.4,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "-gemenskapen",
+        "start": 257.4,
+        "end": 257.4
+      }
+    ],
+    "time": 254.24,
+    "end": 257.4
+  },
+  {
+    "text": "Teksting av Nicolai Winther",
+    "startTime": 257.42,
+    "endTime": 260.018,
+    "words": [
+      {
+        "word": "Teksting",
+        "start": 257.42,
+        "end": 259.98,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "av",
+        "start": 259.918,
+        "end": 260.018,
+        "whisper": true
+      },
+      {
+        "word": "Nicolai",
+        "start": 259.918,
+        "end": 260.018,
+        "whisper": true
+      },
+      {
+        "word": "Winther",
+        "start": 259.918,
+        "end": 260.018,
+        "whisper": true
+      }
+    ],
+    "time": 257.42,
+    "end": 260.018
+  }
+]

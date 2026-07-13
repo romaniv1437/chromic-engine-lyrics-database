@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T19:53:47.453817+00:00",
-  "totalTracks": 841,
+  "generatedAt": "2026-07-13T19:54:14.290747+00:00",
+  "totalTracks": 842,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11819,6 +11819,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-37683766/that-sinking-feeling-main-theme-1",
       "mtimeMs": 1783972427899
+    },
+    "kaesul::morning psychosis": {
+      "title": "morning psychosis",
+      "artist": "KAESUL",
+      "originalTrackName": "KAESUL - morning psychosis",
+      "source": "whisper_only",
+      "file": "tracks/kaesul-morning-psychosis-75494dc1452a.json",
+      "files": {
+        "lyrics": "tracks/kaesul-morning-psychosis-75494dc1452a.json",
+        "meta": "tracks/kaesul-morning-psychosis-75494dc1452a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-37683766/morning-psychosis-2",
+      "mtimeMs": 1783972455298
     }
   },
   "tracks": [
@@ -23655,6 +23669,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-37683766/that-sinking-feeling-main-theme-1",
       "mtimeMs": 1783972427899
+    },
+    {
+      "title": "morning psychosis",
+      "artist": "KAESUL",
+      "originalTrackName": "KAESUL - morning psychosis",
+      "source": "whisper_only",
+      "file": "tracks/kaesul-morning-psychosis-75494dc1452a.json",
+      "files": {
+        "lyrics": "tracks/kaesul-morning-psychosis-75494dc1452a.json",
+        "meta": "tracks/kaesul-morning-psychosis-75494dc1452a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-37683766/morning-psychosis-2",
+      "mtimeMs": 1783972455298
     }
   ]
 }

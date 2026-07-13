@@ -1,18 +1,18 @@
 [
   {
     "text": "me",
-    "startTime": 0.0,
+    "startTime": 0,
     "endTime": 2.42,
     "words": [
       {
         "word": "me",
-        "start": 0.0,
+        "start": 0,
         "end": 2.42,
         "stretch": true,
         "whisper": true
       }
     ],
-    "time": 0.0,
+    "time": 0,
     "end": 2.42
   },
   {
@@ -33,25 +33,25 @@
   {
     "text": "●",
     "startTime": 6.44,
-    "endTime": 30.0,
+    "endTime": 30,
     "words": [],
     "type": "vocal_cue",
     "time": 6.44,
-    "end": 30.0
+    "end": 30
   },
   {
     "text": "I feel like Ch ay.",
-    "startTime": 30.0,
+    "startTime": 30,
     "endTime": 30.72,
     "words": [
       {
         "word": "I",
-        "start": 30.0,
-        "end": 30.0
+        "start": 30,
+        "end": 30
       },
       {
         "word": "feel",
-        "start": 30.0,
+        "start": 30,
         "end": 30.24
       },
       {
@@ -70,7 +70,7 @@
         "end": 30.72
       }
     ],
-    "time": 30.0,
+    "time": 30,
     "end": 30.72
   },
   {

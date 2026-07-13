@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T21:13:46.532697+00:00",
-  "totalTracks": 845,
+  "generatedAt": "2026-07-13T21:29:45.940307+00:00",
+  "totalTracks": 846,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11875,6 +11875,20 @@
       },
       "sourcePath": "https://soundcloud.com/ogfresh1/six-feet-deep-12",
       "mtimeMs": 1783977227347
+    },
+    "myst::tonight (on all platforms)": {
+      "title": "tonight (ON ALL PLATFORMS)",
+      "artist": "myst",
+      "originalTrackName": "myst - tonight (ON ALL PLATFORMS)",
+      "source": "whisper_only",
+      "file": "tracks/myst-tonight-on-all-platforms-efcf82014e1b.json",
+      "files": {
+        "lyrics": "tracks/myst-tonight-on-all-platforms-efcf82014e1b.json",
+        "meta": "tracks/myst-tonight-on-all-platforms-efcf82014e1b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/myst-sd/tonight",
+      "mtimeMs": 1783978186678
     }
   },
   "tracks": [
@@ -23767,6 +23781,20 @@
       },
       "sourcePath": "https://soundcloud.com/ogfresh1/six-feet-deep-12",
       "mtimeMs": 1783977227347
+    },
+    {
+      "title": "tonight (ON ALL PLATFORMS)",
+      "artist": "myst",
+      "originalTrackName": "myst - tonight (ON ALL PLATFORMS)",
+      "source": "whisper_only",
+      "file": "tracks/myst-tonight-on-all-platforms-efcf82014e1b.json",
+      "files": {
+        "lyrics": "tracks/myst-tonight-on-all-platforms-efcf82014e1b.json",
+        "meta": "tracks/myst-tonight-on-all-platforms-efcf82014e1b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/myst-sd/tonight",
+      "mtimeMs": 1783978186678
     }
   ]
 }

@@ -9,9 +9,9 @@
     "end": 15.48
   },
   {
-    "text": "All the times you said you love me more, you love me",
+    "text": "All the times you said you love me more,",
     "startTime": 15.48,
-    "endTime": 19.06,
+    "endTime": 18.36,
     "words": [
       {
         "word": "All",
@@ -65,7 +65,16 @@
         "word": "more,",
         "start": 18.08,
         "end": 18.36
-      },
+      }
+    ],
+    "time": 15.48,
+    "end": 18.36
+  },
+  {
+    "text": "you love me less",
+    "startTime": 18.4,
+    "endTime": 19.44,
+    "words": [
       {
         "word": "you",
         "start": 18.4,
@@ -74,37 +83,28 @@
       {
         "word": "love",
         "start": 18.54,
-        "end": 18.88,
-        "sung": true
+        "end": 18.88
       },
       {
         "word": "me",
         "start": 18.88,
         "end": 19.06,
         "spoken": true
-      }
-    ],
-    "time": 15.48,
-    "end": 19.06
-  },
-  {
-    "text": "less",
-    "startTime": 19.06,
-    "endTime": 19.44,
-    "words": [
+      },
       {
         "word": "less",
         "start": 19.288,
-        "end": 19.44
+        "end": 19.44,
+        "spoken": true
       }
     ],
-    "time": 19.06,
+    "time": 18.4,
     "end": 19.44
   },
   {
-    "text": "I don't like to think about it, I just get depressed",
+    "text": "I don't like to think about it,",
     "startTime": 19.44,
-    "endTime": 23.22,
+    "endTime": 22.12,
     "words": [
       {
         "word": "I",
@@ -145,19 +145,26 @@
         "word": "it,",
         "start": 21.78,
         "end": 22.12
-      },
+      }
+    ],
+    "time": 19.44,
+    "end": 22.12
+  },
+  {
+    "text": "I just get depressed",
+    "startTime": 22.16,
+    "endTime": 23.22,
+    "words": [
       {
         "word": "I",
         "start": 22.16,
         "end": 22.32,
-        "stretch": true,
-        "spoken": true
+        "stretch": true
       },
       {
         "word": "just",
         "start": 22.464,
-        "end": 22.56,
-        "spoken": true
+        "end": 22.56
       },
       {
         "word": "get",
@@ -171,13 +178,13 @@
         "end": 23.22
       }
     ],
-    "time": 19.44,
+    "time": 22.16,
     "end": 23.22
   },
   {
-    "text": "All the times I thought that you were mine, you never was",
+    "text": "All the times I thought that you were mine,",
     "startTime": 23.22,
-    "endTime": 27.24,
+    "endTime": 26.22,
     "words": [
       {
         "word": "All",
@@ -229,10 +236,19 @@
       },
       {
         "word": "mine,",
-        "start": 26.068,
+        "start": 25.84,
         "end": 26.22,
         "spoken": true
-      },
+      }
+    ],
+    "time": 23.22,
+    "end": 26.22
+  },
+  {
+    "text": "you never was",
+    "startTime": 26.3,
+    "endTime": 27.24,
+    "words": [
       {
         "word": "you",
         "start": 26.3,
@@ -252,7 +268,7 @@
         "spoken": true
       }
     ],
-    "time": 23.22,
+    "time": 26.3,
     "end": 27.24
   },
   {
@@ -457,9 +473,9 @@
     "end": 38.5
   },
   {
-    "text": "All the times you said you loved me more, you loved me",
+    "text": "All the times you said you loved me more,",
     "startTime": 38.5,
-    "endTime": 42.62,
+    "endTime": 41.9,
     "words": [
       {
         "word": "All",
@@ -510,10 +526,19 @@
       },
       {
         "word": "more,",
-        "start": 41.796,
+        "start": 41.64,
         "end": 41.9,
         "spoken": true
-      },
+      }
+    ],
+    "time": 38.5,
+    "end": 41.9
+  },
+  {
+    "text": "you loved me less",
+    "startTime": 41.94,
+    "endTime": 43.12,
+    "words": [
       {
         "word": "you",
         "start": 41.94,
@@ -523,36 +548,28 @@
         "word": "loved",
         "start": 42.1,
         "end": 42.42,
-        "sung": true
+        "spoken": true
       },
       {
         "word": "me",
         "start": 42.42,
         "end": 42.62,
         "spoken": true
-      }
-    ],
-    "time": 38.5,
-    "end": 42.62
-  },
-  {
-    "text": "less",
-    "startTime": 42.62,
-    "endTime": 43.12,
-    "words": [
+      },
       {
         "word": "less",
         "start": 42.829,
-        "end": 43.12
+        "end": 43.12,
+        "spoken": true
       }
     ],
-    "time": 42.62,
+    "time": 41.94,
     "end": 43.12
   },
   {
-    "text": "I don't like to think about it, I just get depressed",
+    "text": "I don't like to think about it,",
     "startTime": 43.12,
-    "endTime": 46.7,
+    "endTime": 45.66,
     "words": [
       {
         "word": "I",
@@ -591,7 +608,16 @@
         "start": 45.34,
         "end": 45.66,
         "spoken": true
-      },
+      }
+    ],
+    "time": 43.12,
+    "end": 45.66
+  },
+  {
+    "text": "I just get depressed",
+    "startTime": 45.68,
+    "endTime": 46.7,
+    "words": [
       {
         "word": "I",
         "start": 45.68,
@@ -617,13 +643,13 @@
         "end": 46.7
       }
     ],
-    "time": 43.12,
+    "time": 45.68,
     "end": 46.7
   },
   {
-    "text": "All the times I thought that you were mine, you never was",
+    "text": "All the times I thought that you were mine,",
     "startTime": 46.7,
-    "endTime": 50.76,
+    "endTime": 49.76,
     "words": [
       {
         "word": "All",
@@ -675,12 +701,20 @@
         "start": 49.446,
         "end": 49.76,
         "spoken": true
-      },
+      }
+    ],
+    "time": 46.7,
+    "end": 49.76
+  },
+  {
+    "text": "you never was",
+    "startTime": 49.88,
+    "endTime": 50.76,
+    "words": [
       {
         "word": "you",
         "start": 49.88,
-        "end": 49.98,
-        "spoken": true
+        "end": 49.98
       },
       {
         "word": "never",
@@ -695,7 +729,7 @@
         "spoken": true
       }
     ],
-    "time": 46.7,
+    "time": 49.88,
     "end": 50.76
   },
   {
@@ -986,9 +1020,9 @@
     "end": 66.66
   },
   {
-    "text": "And nobody to call",
+    "text": "And nobody to call People acting like they know what I know",
     "startTime": 66.66,
-    "endTime": 68.66,
+    "endTime": 72.54,
     "words": [
       {
         "word": "And",
@@ -1012,16 +1046,7 @@
         "word": "call",
         "start": 68.352,
         "end": 68.66
-      }
-    ],
-    "time": 66.66,
-    "end": 68.66
-  },
-  {
-    "text": "People acting like they know what I know",
-    "startTime": 68.66,
-    "endTime": 72.54,
-    "words": [
+      },
       {
         "word": "People",
         "start": 69.01,
@@ -1068,13 +1093,13 @@
         "spoken": true
       }
     ],
-    "time": 68.66,
+    "time": 66.66,
     "end": 72.54
   },
   {
-    "text": "You don't know me at all, so what's the item I'll fall?",
+    "text": "You don't know me at all, so what's the item",
     "startTime": 72.54,
-    "endTime": 76.46,
+    "endTime": 75.92,
     "words": [
       {
         "word": "You",
@@ -1130,7 +1155,16 @@
         "word": "item",
         "start": 75.38,
         "end": 75.92
-      },
+      }
+    ],
+    "time": 72.54,
+    "end": 75.92
+  },
+  {
+    "text": "I'll fall?",
+    "startTime": 75.92,
+    "endTime": 76.46,
+    "words": [
       {
         "word": "I'll",
         "start": 76.175,
@@ -1145,7 +1179,7 @@
         "spoken": true
       }
     ],
-    "time": 72.54,
+    "time": 75.92,
     "end": 76.46
   },
   {
@@ -1222,9 +1256,9 @@
     "end": 80.46
   },
   {
-    "text": "And in this world, you're born alone and bitch, you're dying alone",
+    "text": "And in this world, you're born alone and bitch,",
     "startTime": 80.46,
-    "endTime": 84.16,
+    "endTime": 83.06,
     "words": [
       {
         "word": "And",
@@ -1276,7 +1310,16 @@
         "start": 82.82,
         "end": 83.06,
         "spoken": true
-      },
+      }
+    ],
+    "time": 80.46,
+    "end": 83.06
+  },
+  {
+    "text": "you're dying alone",
+    "startTime": 83.18,
+    "endTime": 84.16,
+    "words": [
       {
         "word": "you're",
         "start": 83.18,
@@ -1296,13 +1339,13 @@
         "spoken": true
       }
     ],
-    "time": 80.46,
+    "time": 83.18,
     "end": 84.16
   },
   {
-    "text": "Me and Gucci finna buy out the snow It's kinda funny cause",
+    "text": "Me and Gucci finna buy out the snow",
     "startTime": 84.78,
-    "endTime": 89.88,
+    "endTime": 88.2,
     "words": [
       {
         "word": "Me",
@@ -1348,10 +1391,19 @@
       },
       {
         "word": "snow",
-        "start": 88.048,
+        "start": 87.82,
         "end": 88.2,
-        "spoken": true
-      },
+        "sung": true
+      }
+    ],
+    "time": 84.78,
+    "end": 88.2
+  },
+  {
+    "text": "It's kinda funny cause I know they never",
+    "startTime": 88.2,
+    "endTime": 90.92,
+    "words": [
       {
         "word": "It's",
         "start": 88.2,
@@ -1361,7 +1413,8 @@
       {
         "word": "kinda",
         "start": 88.876,
-        "end": 88.98
+        "end": 88.98,
+        "spoken": true
       },
       {
         "word": "funny",
@@ -1370,19 +1423,10 @@
       },
       {
         "word": "cause",
-        "start": 89.48,
+        "start": 89.72,
         "end": 89.88,
         "spoken": true
-      }
-    ],
-    "time": 84.78,
-    "end": 89.88
-  },
-  {
-    "text": "I know they never",
-    "startTime": 89.88,
-    "endTime": 90.92,
-    "words": [
+      },
       {
         "word": "I",
         "start": 89.926,
@@ -1405,13 +1449,13 @@
         "end": 90.92
       }
     ],
-    "time": 89.88,
+    "time": 88.2,
     "end": 90.92
   },
   {
-    "text": "seen us before All the times you said you love me more,",
+    "text": "seen us before",
     "startTime": 90.92,
-    "endTime": 96.78,
+    "endTime": 91.98,
     "words": [
       {
         "word": "seen",
@@ -1429,10 +1473,19 @@
         "start": 91.844,
         "end": 91.98,
         "spoken": true
-      },
+      }
+    ],
+    "time": 90.92,
+    "end": 91.98
+  },
+  {
+    "text": "All the times you said you love me more,",
+    "startTime": 91.98,
+    "endTime": 96.78,
+    "words": [
       {
         "word": "All",
-        "start": 92.05,
+        "start": 92.026,
         "end": 93.14,
         "stretch": true,
         "spoken": true
@@ -1452,13 +1505,13 @@
       {
         "word": "you",
         "start": 95.4,
-        "end": 95.58,
-        "spoken": true
+        "end": 95.58
       },
       {
         "word": "said",
         "start": 95.58,
-        "end": 95.82
+        "end": 95.82,
+        "spoken": true
       },
       {
         "word": "you",
@@ -1469,27 +1522,28 @@
       {
         "word": "love",
         "start": 96.06,
-        "end": 96.34
+        "end": 96.34,
+        "spoken": true
       },
       {
         "word": "me",
         "start": 96.34,
-        "end": 96.52
+        "end": 96.52,
+        "spoken": true
       },
       {
         "word": "more,",
         "start": 96.52,
-        "end": 96.78,
-        "spoken": true
+        "end": 96.78
       }
     ],
-    "time": 90.92,
+    "time": 91.98,
     "end": 96.78
   },
   {
-    "text": "you love me less I don't like to think about it, I",
+    "text": "you love me less",
     "startTime": 96.82,
-    "endTime": 100.72,
+    "endTime": 97.9,
     "words": [
       {
         "word": "you",
@@ -1511,11 +1565,21 @@
       {
         "word": "less",
         "start": 97.732,
-        "end": 97.9
-      },
+        "end": 97.9,
+        "spoken": true
+      }
+    ],
+    "time": 96.82,
+    "end": 97.9
+  },
+  {
+    "text": "I don't like to think about it,",
+    "startTime": 97.9,
+    "endTime": 100.56,
+    "words": [
       {
         "word": "I",
-        "start": 98.225,
+        "start": 98.202,
         "end": 98.74,
         "stretch": true
       },
@@ -1545,30 +1609,31 @@
       },
       {
         "word": "about",
-        "start": 99.936,
+        "start": 99.959,
         "end": 100.2,
         "spoken": true
       },
       {
         "word": "it,",
         "start": 100.2,
-        "end": 100.56
-      },
+        "end": 100.56,
+        "spoken": true
+      }
+    ],
+    "time": 97.9,
+    "end": 100.56
+  },
+  {
+    "text": "I just get depressed",
+    "startTime": 100.6,
+    "endTime": 101.64,
+    "words": [
       {
         "word": "I",
         "start": 100.6,
         "end": 100.72,
         "spoken": true
-      }
-    ],
-    "time": 96.82,
-    "end": 100.72
-  },
-  {
-    "text": "just get",
-    "startTime": 100.72,
-    "endTime": 101.22,
-    "words": [
+      },
       {
         "word": "just",
         "start": 100.888,
@@ -1580,21 +1645,21 @@
         "start": 101.0,
         "end": 101.22,
         "spoken": true
-      }
-    ],
-    "time": 100.72,
-    "end": 101.22
-  },
-  {
-    "text": "depressed All the times I thought that you were mine,",
-    "startTime": 101.22,
-    "endTime": 104.66,
-    "words": [
+      },
       {
         "word": "depressed",
-        "start": 101.472,
+        "start": 101.22,
         "end": 101.64
-      },
+      }
+    ],
+    "time": 100.6,
+    "end": 101.64
+  },
+  {
+    "text": "All the times I thought that you were mine,",
+    "startTime": 101.64,
+    "endTime": 104.66,
+    "words": [
       {
         "word": "All",
         "start": 101.64,
@@ -1648,13 +1713,13 @@
         "spoken": true
       }
     ],
-    "time": 101.22,
+    "time": 101.64,
     "end": 104.66
   },
   {
-    "text": "you never was Wasn't like this from the start and I just",
+    "text": "you never was",
     "startTime": 104.82,
-    "endTime": 108.8,
+    "endTime": 105.66,
     "words": [
       {
         "word": "you",
@@ -1672,17 +1737,28 @@
         "start": 105.492,
         "end": 105.66,
         "spoken": true
-      },
+      }
+    ],
+    "time": 104.82,
+    "end": 105.66
+  },
+  {
+    "text": "Wasn't like this from the start",
+    "startTime": 105.66,
+    "endTime": 108.1,
+    "words": [
       {
         "word": "Wasn't",
-        "start": 105.846,
+        "start": 105.823,
         "end": 106.84,
-        "stretch": true
+        "stretch": true,
+        "sung": true
       },
       {
         "word": "like",
         "start": 106.84,
-        "end": 107.12
+        "end": 107.12,
+        "spoken": true
       },
       {
         "word": "this",
@@ -1707,7 +1783,16 @@
         "start": 107.74,
         "end": 108.1,
         "spoken": true
-      },
+      }
+    ],
+    "time": 105.66,
+    "end": 108.1
+  },
+  {
+    "text": "and I just never knew",
+    "startTime": 108.1,
+    "endTime": 109.56,
+    "words": [
       {
         "word": "and",
         "start": 108.1,
@@ -1726,16 +1811,7 @@
         "start": 108.52,
         "end": 108.8,
         "whisper": true
-      }
-    ],
-    "time": 104.82,
-    "end": 108.8
-  },
-  {
-    "text": "never knew Broken mind, frozen time, 75 degrees tonight",
-    "startTime": 108.8,
-    "endTime": 113.34,
-    "words": [
+      },
       {
         "word": "never",
         "start": 108.8,
@@ -1746,32 +1822,48 @@
         "word": "knew",
         "start": 109.368,
         "end": 109.56,
-        "sung": true
-      },
+        "spoken": true
+      }
+    ],
+    "time": 108.1,
+    "end": 109.56
+  },
+  {
+    "text": "Broken mind, frozen time,",
+    "startTime": 109.56,
+    "endTime": 111.58,
+    "words": [
       {
         "word": "Broken",
-        "start": 109.56,
+        "start": 109.91,
         "end": 110.2,
         "spoken": true
       },
       {
         "word": "mind,",
         "start": 110.2,
-        "end": 110.6,
-        "spoken": true
+        "end": 110.6
       },
       {
         "word": "frozen",
         "start": 110.7,
-        "end": 111.04,
-        "spoken": true
+        "end": 111.04
       },
       {
         "word": "time,",
         "start": 111.04,
         "end": 111.58,
-        "spoken": true
-      },
+        "sung": true
+      }
+    ],
+    "time": 109.56,
+    "end": 111.58
+  },
+  {
+    "text": "75 degrees tonight",
+    "startTime": 111.7,
+    "endTime": 113.34,
+    "words": [
       {
         "word": "75",
         "start": 112.012,
@@ -1791,13 +1883,13 @@
         "spoken": true
       }
     ],
-    "time": 108.8,
+    "time": 111.7,
     "end": 113.34
   },
   {
-    "text": "But cold inside, maybe that's why my lyrics are cold",
+    "text": "But cold inside,",
     "startTime": 113.34,
-    "endTime": 116.92,
+    "endTime": 114.3,
     "words": [
       {
         "word": "But",
@@ -1814,7 +1906,16 @@
         "word": "inside,",
         "start": 113.98,
         "end": 114.3
-      },
+      }
+    ],
+    "time": 113.34,
+    "end": 114.3
+  },
+  {
+    "text": "maybe that's why",
+    "startTime": 114.5,
+    "endTime": 115.58,
+    "words": [
       {
         "word": "maybe",
         "start": 114.5,
@@ -1832,36 +1933,46 @@
         "start": 115.46,
         "end": 115.58,
         "spoken": true
-      },
+      }
+    ],
+    "time": 114.5,
+    "end": 115.58
+  },
+  {
+    "text": "my lyrics are cold",
+    "startTime": 115.58,
+    "endTime": 116.92,
+    "words": [
       {
         "word": "my",
-        "start": 115.65,
+        "start": 115.626,
         "end": 115.86
       },
       {
         "word": "lyrics",
         "start": 115.86,
-        "end": 116.34
+        "end": 116.34,
+        "sung": true
       },
       {
         "word": "are",
         "start": 116.496,
-        "end": 116.6,
-        "spoken": true
+        "end": 116.6
       },
       {
         "word": "cold",
         "start": 116.646,
-        "end": 116.92
+        "end": 116.92,
+        "sung": true
       }
     ],
-    "time": 113.34,
+    "time": 115.58,
     "end": 116.92
   },
   {
-    "text": "All the times you said you love me more, you love me",
+    "text": "All the times you said you love me more,",
     "startTime": 117.64,
-    "endTime": 121.04,
+    "endTime": 120.34,
     "words": [
       {
         "word": "All",
@@ -1914,7 +2025,16 @@
         "start": 120.228,
         "end": 120.34,
         "spoken": true
-      },
+      }
+    ],
+    "time": 117.64,
+    "end": 120.34
+  },
+  {
+    "text": "you love me less",
+    "startTime": 120.36,
+    "endTime": 121.42,
+    "words": [
       {
         "word": "you",
         "start": 120.36,
@@ -1930,29 +2050,21 @@
         "start": 120.84,
         "end": 121.04,
         "spoken": true
-      }
-    ],
-    "time": 117.64,
-    "end": 121.04
-  },
-  {
-    "text": "less",
-    "startTime": 121.04,
-    "endTime": 121.42,
-    "words": [
+      },
       {
         "word": "less",
         "start": 121.249,
-        "end": 121.42
+        "end": 121.42,
+        "spoken": true
       }
     ],
-    "time": 121.04,
+    "time": 120.36,
     "end": 121.42
   },
   {
-    "text": "I don't like to think about it, I just get depressed",
+    "text": "I don't like to think about it,",
     "startTime": 121.42,
-    "endTime": 125.16,
+    "endTime": 124.1,
     "words": [
       {
         "word": "I",
@@ -1994,7 +2106,16 @@
         "start": 123.74,
         "end": 124.1,
         "spoken": true
-      },
+      }
+    ],
+    "time": 121.42,
+    "end": 124.1
+  },
+  {
+    "text": "I just get depressed",
+    "startTime": 124.12,
+    "endTime": 125.16,
+    "words": [
       {
         "word": "I",
         "start": 124.12,
@@ -2019,13 +2140,13 @@
         "end": 125.16
       }
     ],
-    "time": 121.42,
+    "time": 124.12,
     "end": 125.16
   },
   {
-    "text": "All the times I thought that you were mine, you never was",
+    "text": "All the times I thought that you were mine,",
     "startTime": 125.16,
-    "endTime": 129.22,
+    "endTime": 128.2,
     "words": [
       {
         "word": "All",
@@ -2077,7 +2198,16 @@
         "start": 127.84,
         "end": 128.2,
         "spoken": true
-      },
+      }
+    ],
+    "time": 125.16,
+    "end": 128.2
+  },
+  {
+    "text": "you never was",
+    "startTime": 128.32,
+    "endTime": 129.22,
+    "words": [
       {
         "word": "you",
         "start": 128.32,
@@ -2097,7 +2227,7 @@
         "spoken": true
       }
     ],
-    "time": 125.16,
+    "time": 128.32,
     "end": 129.22
   },
   {

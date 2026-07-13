@@ -173,20 +173,20 @@
   {
     "text": "●",
     "startTime": 129.26,
-    "endTime": 150.0,
+    "endTime": 150,
     "words": [],
     "type": "vocal_cue",
     "time": 129.26,
-    "end": 150.0
+    "end": 150
   },
   {
     "text": "Thank you.",
-    "startTime": 150.0,
+    "startTime": 150,
     "endTime": 151.18,
     "words": [
       {
         "word": "Thank",
-        "start": 150.0,
+        "start": 150,
         "end": 151.18,
         "stretch": true,
         "spoken": true
@@ -197,7 +197,7 @@
         "end": 151.18
       }
     ],
-    "time": 150.0,
+    "time": 150,
     "end": 151.18
   },
   {

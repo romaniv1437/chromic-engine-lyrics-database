@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T23:22:49.458187+00:00",
+  "generatedAt": "2026-07-13T23:25:10.164327+00:00",
   "totalTracks": 850,
   "roots": [
     "lyrics-db/tracks"
@@ -11456,20 +11456,6 @@
       "sourcePath": "https://soundcloud.com/hans-d-breivik/lil-peep-well-be-fine-extended",
       "mtimeMs": 1783778096067
     },
-    "lilpeep_raresong::lil peep - girls open verse og": {
-      "title": "Lil Peep - Girls Open Verse OG",
-      "artist": "lilpeep_raresong",
-      "originalTrackName": "lilpeep_raresong - Lil Peep - Girls Open Verse OG",
-      "source": "syncedlyrics",
-      "file": "tracks/lilpeep-raresong-lil-peep-girls-open-verse-og-d535d64a90b0.json",
-      "files": {
-        "lyrics": "tracks/lilpeep-raresong-lil-peep-girls-open-verse-og-d535d64a90b0.json",
-        "meta": "tracks/lilpeep-raresong-lil-peep-girls-open-verse-og-d535d64a90b0.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lilpeep_raresong/lil-peep-girls-open-verse-og",
-      "mtimeMs": 1783780607706
-    },
     "youthe::lil peep - thinking about u (without feature & extended)": {
       "title": "Lil Peep - Thinking About U (Without Feature & Extended)",
       "artist": "youthe",
@@ -11945,6 +11931,20 @@
       },
       "sourcePath": "https://soundcloud.com/lorenzo-956926670/let-me-die-slowly",
       "mtimeMs": 1783984970587
+    },
+    "lilpeep_raresong::lil peep - girls open verse og": {
+      "title": "Lil Peep - Girls Open Verse OG",
+      "artist": "lilpeep_raresong",
+      "originalTrackName": "lilpeep_raresong - Lil Peep - Girls Open Verse OG",
+      "source": "syncedlyrics",
+      "file": "tracks/lilpeep-raresong-lil-peep-girls-open-verse-og-d535d64a90b0.json",
+      "files": {
+        "lyrics": "tracks/lilpeep-raresong-lil-peep-girls-open-verse-og-d535d64a90b0.json",
+        "meta": "tracks/lilpeep-raresong-lil-peep-girls-open-verse-og-d535d64a90b0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lilpeep_raresong/lil-peep-girls-open-verse-og",
+      "mtimeMs": 1783985111583
     }
   },
   "tracks": [
@@ -23419,20 +23419,6 @@
       "mtimeMs": 1783778096067
     },
     {
-      "title": "Lil Peep - Girls Open Verse OG",
-      "artist": "lilpeep_raresong",
-      "originalTrackName": "lilpeep_raresong - Lil Peep - Girls Open Verse OG",
-      "source": "syncedlyrics",
-      "file": "tracks/lilpeep-raresong-lil-peep-girls-open-verse-og-d535d64a90b0.json",
-      "files": {
-        "lyrics": "tracks/lilpeep-raresong-lil-peep-girls-open-verse-og-d535d64a90b0.json",
-        "meta": "tracks/lilpeep-raresong-lil-peep-girls-open-verse-og-d535d64a90b0.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/lilpeep_raresong/lil-peep-girls-open-verse-og",
-      "mtimeMs": 1783780607706
-    },
-    {
       "title": "Lil Peep - Thinking About U (Without Feature & Extended)",
       "artist": "youthe",
       "originalTrackName": "youthe - Lil Peep - Thinking About U (Without Feature & Extended)",
@@ -23907,6 +23893,20 @@
       },
       "sourcePath": "https://soundcloud.com/lorenzo-956926670/let-me-die-slowly",
       "mtimeMs": 1783984970587
+    },
+    {
+      "title": "Lil Peep - Girls Open Verse OG",
+      "artist": "lilpeep_raresong",
+      "originalTrackName": "lilpeep_raresong - Lil Peep - Girls Open Verse OG",
+      "source": "syncedlyrics",
+      "file": "tracks/lilpeep-raresong-lil-peep-girls-open-verse-og-d535d64a90b0.json",
+      "files": {
+        "lyrics": "tracks/lilpeep-raresong-lil-peep-girls-open-verse-og-d535d64a90b0.json",
+        "meta": "tracks/lilpeep-raresong-lil-peep-girls-open-verse-og-d535d64a90b0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lilpeep_raresong/lil-peep-girls-open-verse-og",
+      "mtimeMs": 1783985111583
     }
   ]
 }

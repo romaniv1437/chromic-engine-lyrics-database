@@ -26,20 +26,20 @@
   {
     "text": "●",
     "startTime": 30.28,
-    "endTime": 41.0,
+    "endTime": 41,
     "words": [],
     "type": "vocal_cue",
     "time": 30.28,
-    "end": 41.0
+    "end": 41
   },
   {
     "text": "Teksting av Nicolai Winther",
-    "startTime": 41.0,
+    "startTime": 41,
     "endTime": 59.6,
     "words": [
       {
         "word": "Teksting",
-        "start": 41.0,
+        "start": 41,
         "end": 42.4,
         "stretch": true,
         "sung": true
@@ -65,7 +65,7 @@
         "spoken": true
       }
     ],
-    "time": 41.0,
+    "time": 41,
     "end": 59.6
   },
   {
@@ -326,7 +326,7 @@
   {
     "text": "Teksting av Nicolai Winther",
     "startTime": 253.5,
-    "endTime": 255.0,
+    "endTime": 255,
     "words": [
       {
         "word": "Teksting",
@@ -344,16 +344,16 @@
       {
         "word": "Nicolai",
         "start": 254.816,
-        "end": 255.0,
+        "end": 255,
         "whisper": true
       },
       {
         "word": "Winther",
-        "start": 255.0,
-        "end": 255.0
+        "start": 255,
+        "end": 255
       }
     ],
     "time": 253.5,
-    "end": 255.0
+    "end": 255
   }
 ]

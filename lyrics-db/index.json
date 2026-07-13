@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T22:38:18.832617+00:00",
-  "totalTracks": 847,
+  "generatedAt": "2026-07-13T22:52:58.638152+00:00",
+  "totalTracks": 848,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11903,6 +11903,20 @@
       },
       "sourcePath": "https://soundcloud.com/gravedown/your-voice-lingers",
       "mtimeMs": 1783982300066
+    },
+    "apple alex::green apple prod. me": {
+      "title": "green apple prod. me",
+      "artist": "Apple Alex",
+      "originalTrackName": "Apple Alex - green apple prod. me",
+      "source": "whisper_only",
+      "file": "tracks/apple-alex-green-apple-prod-me-a8ef6db5ca6f.json",
+      "files": {
+        "lyrics": "tracks/apple-alex-green-apple-prod-me-a8ef6db5ca6f.json",
+        "meta": "tracks/apple-alex-green-apple-prod-me-a8ef6db5ca6f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/applealex1/green-apple-prod-me",
+      "mtimeMs": 1783983179648
     }
   },
   "tracks": [
@@ -23823,6 +23837,20 @@
       },
       "sourcePath": "https://soundcloud.com/gravedown/your-voice-lingers",
       "mtimeMs": 1783982300066
+    },
+    {
+      "title": "green apple prod. me",
+      "artist": "Apple Alex",
+      "originalTrackName": "Apple Alex - green apple prod. me",
+      "source": "whisper_only",
+      "file": "tracks/apple-alex-green-apple-prod-me-a8ef6db5ca6f.json",
+      "files": {
+        "lyrics": "tracks/apple-alex-green-apple-prod-me-a8ef6db5ca6f.json",
+        "meta": "tracks/apple-alex-green-apple-prod-me-a8ef6db5ca6f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/applealex1/green-apple-prod-me",
+      "mtimeMs": 1783983179648
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T22:01:32.192218+00:00",
-  "totalTracks": 846,
+  "generatedAt": "2026-07-13T22:38:07.371954+00:00",
+  "totalTracks": 847,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11889,6 +11889,20 @@
       },
       "sourcePath": "https://soundcloud.com/ogfresh1/six-feet-deep-12",
       "mtimeMs": 1783980093476
+    },
+    "gravedown::your voice lingers": {
+      "title": "your voice lingers",
+      "artist": "gravedown",
+      "originalTrackName": "gravedown - your voice lingers",
+      "source": "whisper_only",
+      "file": "tracks/gravedown-your-voice-lingers-fe81f94d9deb.json",
+      "files": {
+        "lyrics": "tracks/gravedown-your-voice-lingers-fe81f94d9deb.json",
+        "meta": "tracks/gravedown-your-voice-lingers-fe81f94d9deb.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/gravedown/your-voice-lingers",
+      "mtimeMs": 1783982288465
     }
   },
   "tracks": [
@@ -23795,6 +23809,20 @@
       },
       "sourcePath": "https://soundcloud.com/ogfresh1/six-feet-deep-12",
       "mtimeMs": 1783980093476
+    },
+    {
+      "title": "your voice lingers",
+      "artist": "gravedown",
+      "originalTrackName": "gravedown - your voice lingers",
+      "source": "whisper_only",
+      "file": "tracks/gravedown-your-voice-lingers-fe81f94d9deb.json",
+      "files": {
+        "lyrics": "tracks/gravedown-your-voice-lingers-fe81f94d9deb.json",
+        "meta": "tracks/gravedown-your-voice-lingers-fe81f94d9deb.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/gravedown/your-voice-lingers",
+      "mtimeMs": 1783982288465
     }
   ]
 }

@@ -1,0 +1,302 @@
+[
+  {
+    "text": "Grave down you fucking son",
+    "startTime": 0.163,
+    "endTime": 1.56,
+    "words": [
+      {
+        "word": "Grave",
+        "start": 0.163,
+        "end": 0.4,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "down",
+        "start": 0.484,
+        "end": 0.54,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 0.54,
+        "end": 0.84,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "fucking",
+        "start": 1.02,
+        "end": 1.14,
+        "singer": "singer2"
+      },
+      {
+        "word": "son",
+        "start": 1.303,
+        "end": 1.56,
+        "singer": "singer2"
+      }
+    ],
+    "time": 0.163,
+    "end": 1.56
+  },
+  {
+    "text": "●",
+    "startTime": 1.86,
+    "endTime": 30.0,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 1.86,
+    "end": 30.0
+  },
+  {
+    "text": "We'll be right back.",
+    "startTime": 30.0,
+    "endTime": 33.2,
+    "words": [
+      {
+        "word": "We'll",
+        "start": 30.0,
+        "end": 31.22,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "be",
+        "start": 31.22,
+        "end": 31.22,
+        "singer": "singer1"
+      },
+      {
+        "word": "right",
+        "start": 31.22,
+        "end": 31.5,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "back.",
+        "start": 31.5,
+        "end": 33.2,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 30.0,
+    "end": 33.2
+  },
+  {
+    "text": "●",
+    "startTime": 33.5,
+    "endTime": 60.0,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 33.5,
+    "end": 60.0
+  },
+  {
+    "text": "I really don't want me to go",
+    "startTime": 60.0,
+    "endTime": 63.82,
+    "words": [
+      {
+        "word": "I",
+        "start": 60.0,
+        "end": 60.28,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "really",
+        "start": 60.28,
+        "end": 61.24,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 61.24,
+        "end": 62.08,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "want",
+        "start": 62.08,
+        "end": 62.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 62.596,
+        "end": 63.08,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 63.08,
+        "end": 63.58,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "go",
+        "start": 63.58,
+        "end": 63.82,
+        "singer": "singer1"
+      }
+    ],
+    "time": 60.0,
+    "end": 63.82
+  },
+  {
+    "text": "●",
+    "startTime": 64.12,
+    "endTime": 81.52,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 64.12,
+    "end": 81.52
+  },
+  {
+    "text": "Take me inside the dream",
+    "startTime": 81.52,
+    "endTime": 85.04,
+    "words": [
+      {
+        "word": "Take",
+        "start": 81.52,
+        "end": 82.52,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 82.52,
+        "end": 83.12,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "inside",
+        "start": 83.12,
+        "end": 83.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 83.82,
+        "end": 84.58,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "dream",
+        "start": 84.58,
+        "end": 85.04,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 81.52,
+    "end": 85.04
+  },
+  {
+    "text": "And I'm lost inside the dream",
+    "startTime": 85.04,
+    "endTime": 87.8,
+    "words": [
+      {
+        "word": "And",
+        "start": 85.04,
+        "end": 85.52,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "I'm",
+        "start": 85.52,
+        "end": 85.96,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lost",
+        "start": 85.96,
+        "end": 86.46,
+        "singer": "singer1"
+      },
+      {
+        "word": "inside",
+        "start": 86.46,
+        "end": 86.84,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 86.84,
+        "end": 87.5,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "dream",
+        "start": 87.5,
+        "end": 87.8,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 85.04,
+    "end": 87.8
+  },
+  {
+    "text": "●",
+    "startTime": 88.1,
+    "endTime": 115.26,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 88.1,
+    "end": 115.26
+  },
+  {
+    "text": "Grave Town",
+    "startTime": 115.26,
+    "endTime": 116.82,
+    "words": [
+      {
+        "word": "Grave",
+        "start": 115.61,
+        "end": 116.66,
+        "stretch": true,
+        "whisper": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "Town",
+        "start": 116.756,
+        "end": 116.82,
+        "whisper": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 115.26,
+    "end": 116.82
+  }
+]

@@ -2,316 +2,1411 @@
   {
     "text": "●",
     "startTime": 0.3,
-    "endTime": 14.95,
+    "endTime": 14.94,
     "words": [],
     "type": "vocal_cue",
     "time": 0.3,
-    "end": 14.95
+    "end": 14.94
   },
   {
-    "text": "I got shadows on me now and I can't fight no more",
-    "startTime": 14.95,
-    "endTime": 19.03,
+    "text": "I got troubles on me now and I can't fight no more",
+    "startTime": 14.94,
+    "endTime": 18.66,
     "words": [
       {
         "word": "I",
-        "start": 15.3,
-        "end": 15.67,
+        "start": 14.94,
+        "end": 15.54,
         "stretch": true,
         "spoken": true
       },
       {
         "word": "got",
-        "start": 15.67,
-        "end": 16.11
+        "start": 15.54,
+        "end": 15.84,
+        "spoken": true
       },
       {
-        "word": "shadows",
-        "start": 16.11,
-        "end": 16.53
+        "word": "troubles",
+        "start": 15.84,
+        "end": 16.36
       },
       {
         "word": "on",
-        "start": 16.53,
-        "end": 16.95,
-        "stretch": true,
-        "spoken": true
+        "start": 16.36,
+        "end": 16.62
       },
       {
         "word": "me",
-        "start": 16.95,
-        "end": 17.27,
-        "stretch": true,
-        "spoken": true
+        "start": 16.62,
+        "end": 16.88
       },
       {
         "word": "now",
-        "start": 17.27,
-        "end": 17.45
+        "start": 16.88,
+        "end": 17.2,
+        "spoken": true
       },
       {
         "word": "and",
-        "start": 17.45,
-        "end": 17.65
+        "start": 17.2,
+        "end": 17.4
       },
       {
         "word": "I",
-        "start": 17.65,
-        "end": 17.83,
+        "start": 17.4,
+        "end": 17.58,
         "stretch": true
       },
       {
         "word": "can't",
-        "start": 17.83,
-        "end": 18.23
+        "start": 17.58,
+        "end": 17.9
       },
       {
         "word": "fight",
-        "start": 18.23,
-        "end": 18.47
+        "start": 17.9,
+        "end": 18.16
       },
       {
         "word": "no",
-        "start": 18.47,
-        "end": 18.75
+        "start": 18.16,
+        "end": 18.36
       },
       {
         "word": "more",
-        "start": 18.75,
-        "end": 19.03
+        "start": 18.36,
+        "end": 18.66
       }
     ],
-    "time": 14.95,
-    "end": 19.03
+    "time": 14.94,
+    "end": 18.66
   },
   {
     "text": "Told me to be careful what I claim, I cannot pay the",
-    "startTime": 19.03,
-    "endTime": 22.73,
+    "startTime": 18.66,
+    "endTime": 22.32,
     "words": [
       {
         "word": "Told",
-        "start": 19.03,
-        "end": 19.33,
+        "start": 18.66,
+        "end": 19.08,
         "spoken": true
       },
       {
         "word": "me",
-        "start": 19.33,
-        "end": 19.61,
+        "start": 19.08,
+        "end": 19.38,
+        "stretch": true,
         "spoken": true
       },
       {
         "word": "to",
-        "start": 19.61,
-        "end": 19.87,
+        "start": 19.38,
+        "end": 19.6,
         "spoken": true
       },
       {
         "word": "be",
-        "start": 19.87,
-        "end": 20.17,
-        "stretch": true,
+        "start": 19.6,
+        "end": 19.8,
         "spoken": true
       },
       {
         "word": "careful",
-        "start": 20.17,
-        "end": 20.51,
+        "start": 19.8,
+        "end": 20.32,
         "spoken": true
       },
       {
         "word": "what",
-        "start": 20.51,
-        "end": 20.87,
+        "start": 20.32,
+        "end": 20.62,
         "spoken": true
       },
       {
         "word": "I",
-        "start": 20.87,
-        "end": 21.17,
-        "stretch": true
+        "start": 20.62,
+        "end": 20.82,
+        "stretch": true,
+        "spoken": true
       },
       {
         "word": "claim,",
-        "start": 21.17,
-        "end": 21.35
+        "start": 20.82,
+        "end": 21.2
       },
       {
         "word": "I",
-        "start": 21.57,
-        "end": 21.69
+        "start": 21.22,
+        "end": 21.38,
+        "stretch": true
       },
       {
         "word": "cannot",
-        "start": 21.69,
-        "end": 22.05
+        "start": 21.38,
+        "end": 21.74
       },
       {
         "word": "pay",
-        "start": 22.05,
-        "end": 22.35
+        "start": 21.74,
+        "end": 22.14
       },
       {
         "word": "the",
-        "start": 22.578,
-        "end": 22.73,
-        "spoken": true
+        "start": 22.14,
+        "end": 22.32
       }
     ],
-    "time": 19.03,
-    "end": 22.73
+    "time": 18.66,
+    "end": 22.32
   },
   {
     "text": "cost",
-    "startTime": 22.73,
-    "endTime": 23.31,
+    "startTime": 22.32,
+    "endTime": 22.8,
     "words": [
       {
         "word": "cost",
-        "start": 22.846,
-        "end": 23.31,
+        "start": 22.608,
+        "end": 22.8,
         "spoken": true
       }
     ],
-    "time": 22.73,
-    "end": 23.31
+    "time": 22.32,
+    "end": 22.8
   },
   {
     "text": "Boy, it's already done",
-    "startTime": 23.31,
-    "endTime": 25.79,
+    "startTime": 22.8,
+    "endTime": 24.78,
     "words": [
       {
         "word": "Boy,",
-        "start": 23.31,
-        "end": 23.71,
+        "start": 22.846,
+        "end": 23.5,
+        "stretch": true,
         "spoken": true
       },
       {
         "word": "it's",
-        "start": 23.77,
-        "end": 24.07,
+        "start": 23.5,
+        "end": 23.74,
         "spoken": true
       },
       {
         "word": "already",
-        "start": 24.07,
-        "end": 24.65,
+        "start": 23.74,
+        "end": 24.1,
         "spoken": true
       },
       {
         "word": "done",
-        "start": 24.65,
-        "end": 25.79,
+        "start": 24.1,
+        "end": 24.78,
         "stretch": true,
         "spoken": true
       }
     ],
-    "time": 23.31,
-    "end": 25.79
+    "time": 22.8,
+    "end": 24.78
   },
   {
     "text": "Boy, it's already done",
-    "startTime": 26.83,
-    "endTime": 30.59,
+    "startTime": 26.64,
+    "endTime": 28.8,
     "words": [
       {
         "word": "Boy,",
-        "start": 26.83,
-        "end": 27.55,
+        "start": 26.64,
+        "end": 27.24,
         "stretch": true,
         "sung": true
       },
       {
         "word": "it's",
-        "start": 27.63,
-        "end": 28.05,
+        "start": 27.3,
+        "end": 27.72,
         "spoken": true
       },
       {
         "word": "already",
-        "start": 28.05,
-        "end": 28.63,
+        "start": 27.72,
+        "end": 28.1,
         "spoken": true
       },
       {
         "word": "done",
-        "start": 28.63,
-        "end": 30.59,
+        "start": 28.1,
+        "end": 28.8,
         "stretch": true
       }
     ],
-    "time": 26.83,
-    "end": 30.59
+    "time": 26.64,
+    "end": 28.8
   },
   {
-    "text": "●",
-    "startTime": 30.89,
-    "endTime": 40.4,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 30.89,
-    "end": 40.4
-  },
-  {
-    "text": "And I know recognition's not the thing",
-    "startTime": 40.4,
-    "endTime": 44.3,
+    "text": "I know recognition's not the point",
+    "startTime": 28.8,
+    "endTime": 43.82,
     "words": [
       {
-        "word": "And",
-        "start": 40.4,
-        "end": 41.12,
+        "word": "I",
+        "start": 28.8,
+        "end": 30.72,
         "stretch": true
       },
       {
-        "word": "I",
-        "start": 41.12,
-        "end": 41.6,
-        "stretch": true,
-        "spoken": true
-      },
-      {
         "word": "know",
-        "start": 41.6,
-        "end": 42.04,
-        "spoken": true
+        "start": 30.883,
+        "end": 39.02,
+        "stretch": true,
+        "sung": true
       },
       {
         "word": "recognition's",
-        "start": 42.04,
-        "end": 43.2,
-        "stretch": true,
-        "spoken": true
+        "start": 39.02,
+        "end": 42.9,
+        "stretch": true
       },
       {
         "word": "not",
-        "start": 43.2,
-        "end": 43.36,
+        "start": 42.9,
+        "end": 43.1,
         "spoken": true
       },
       {
         "word": "the",
-        "start": 43.36,
-        "end": 43.76
+        "start": 43.1,
+        "end": 43.26,
+        "spoken": true
       },
       {
-        "word": "thing",
-        "start": 43.76,
-        "end": 44.3
+        "word": "point",
+        "start": 43.26,
+        "end": 43.82
       }
     ],
-    "time": 40.4,
-    "end": 44.3
+    "time": 28.8,
+    "end": 43.82
   },
   {
     "text": "●",
-    "startTime": 44.6,
-    "endTime": 169.483,
+    "startTime": 44.12,
+    "endTime": 59.34,
     "words": [],
     "type": "vocal_cue",
-    "time": 44.6,
-    "end": 169.483
+    "time": 44.12,
+    "end": 59.34
+  },
+  {
+    "text": "You said I was the way to life",
+    "startTime": 59.34,
+    "endTime": 64.96,
+    "words": [
+      {
+        "word": "You",
+        "start": 59.34,
+        "end": 60.18,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "said",
+        "start": 60.18,
+        "end": 60.82,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 61.17,
+        "end": 62.34,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "was",
+        "start": 62.34,
+        "end": 62.72
+      },
+      {
+        "word": "the",
+        "start": 62.72,
+        "end": 63.26,
+        "stretch": true
+      },
+      {
+        "word": "way",
+        "start": 63.26,
+        "end": 63.74,
+        "stretch": true
+      },
+      {
+        "word": "to",
+        "start": 63.74,
+        "end": 64.24,
+        "stretch": true
+      },
+      {
+        "word": "life",
+        "start": 64.24,
+        "end": 64.96,
+        "stretch": true
+      }
+    ],
+    "time": 59.34,
+    "end": 64.96
+  },
+  {
+    "text": "and for the dead I cannot conversate",
+    "startTime": 64.96,
+    "endTime": 69.32,
+    "words": [
+      {
+        "word": "and",
+        "start": 64.96,
+        "end": 65.18,
+        "spoken": true
+      },
+      {
+        "word": "for",
+        "start": 65.18,
+        "end": 65.78,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 65.78,
+        "end": 66.2
+      },
+      {
+        "word": "dead",
+        "start": 66.2,
+        "end": 66.92,
+        "stretch": true
+      },
+      {
+        "word": "I",
+        "start": 67.24,
+        "end": 67.66,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "cannot",
+        "start": 67.66,
+        "end": 68.16,
+        "whisper": true
+      },
+      {
+        "word": "conversate",
+        "start": 68.51,
+        "end": 69.32,
+        "stretch": true,
+        "whisper": true
+      }
+    ],
+    "time": 64.96,
+    "end": 69.32
+  },
+  {
+    "text": "with none of you I've been walking",
+    "startTime": 69.32,
+    "endTime": 72.38,
+    "words": [
+      {
+        "word": "with",
+        "start": 69.32,
+        "end": 69.62,
+        "whisper": true
+      },
+      {
+        "word": "none",
+        "start": 69.62,
+        "end": 69.9,
+        "whisper": true
+      },
+      {
+        "word": "of",
+        "start": 69.9,
+        "end": 70.06,
+        "whisper": true
+      },
+      {
+        "word": "you",
+        "start": 70.06,
+        "end": 70.42,
+        "whisper": true
+      },
+      {
+        "word": "I've",
+        "start": 70.77,
+        "end": 71.74,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "been",
+        "start": 71.74,
+        "end": 71.96,
+        "spoken": true
+      },
+      {
+        "word": "walking",
+        "start": 71.96,
+        "end": 72.38
+      }
+    ],
+    "time": 69.32,
+    "end": 72.38
+  },
+  {
+    "text": "around like I'm bulletproof Lately",
+    "startTime": 72.38,
+    "endTime": 75.96,
+    "words": [
+      {
+        "word": "around",
+        "start": 72.596,
+        "end": 72.74,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 72.74,
+        "end": 73.22,
+        "sung": true
+      },
+      {
+        "word": "I'm",
+        "start": 73.46,
+        "end": 73.62,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "bulletproof",
+        "start": 73.62,
+        "end": 74.3,
+        "spoken": true
+      },
+      {
+        "word": "Lately",
+        "start": 74.65,
+        "end": 75.96,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 72.38,
+    "end": 75.96
+  },
+  {
+    "text": "I've been feeling like I'm bulletproof",
+    "startTime": 75.96,
+    "endTime": 78.4,
+    "words": [
+      {
+        "word": "I've",
+        "start": 75.96,
+        "end": 76.32,
+        "spoken": true
+      },
+      {
+        "word": "been",
+        "start": 76.32,
+        "end": 76.52,
+        "spoken": true
+      },
+      {
+        "word": "feeling",
+        "start": 76.52,
+        "end": 76.96,
+        "sung": true
+      },
+      {
+        "word": "like",
+        "start": 76.96,
+        "end": 77.3,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 77.3,
+        "end": 77.6
+      },
+      {
+        "word": "bulletproof",
+        "start": 77.6,
+        "end": 78.4,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 75.96,
+    "end": 78.4
+  },
+  {
+    "text": "I've been on my shit since you left",
+    "startTime": 78.4,
+    "endTime": 81.88,
+    "words": [
+      {
+        "word": "I've",
+        "start": 78.75,
+        "end": 79.74,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "been",
+        "start": 79.74,
+        "end": 79.98
+      },
+      {
+        "word": "on",
+        "start": 79.98,
+        "end": 80.18
+      },
+      {
+        "word": "my",
+        "start": 80.18,
+        "end": 80.48
+      },
+      {
+        "word": "shit",
+        "start": 80.48,
+        "end": 80.84,
+        "spoken": true
+      },
+      {
+        "word": "since",
+        "start": 80.84,
+        "end": 81.14,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 81.14,
+        "end": 81.46
+      },
+      {
+        "word": "left",
+        "start": 81.46,
+        "end": 81.88,
+        "spoken": true
+      }
+    ],
+    "time": 78.4,
+    "end": 81.88
+  },
+  {
+    "text": "I don't fuck with you",
+    "startTime": 81.88,
+    "endTime": 83.26,
+    "words": [
+      {
+        "word": "I",
+        "start": 81.88,
+        "end": 82.22,
+        "stretch": true
+      },
+      {
+        "word": "don't",
+        "start": 82.22,
+        "end": 82.42
+      },
+      {
+        "word": "fuck",
+        "start": 82.576,
+        "end": 82.68
+      },
+      {
+        "word": "with",
+        "start": 82.68,
+        "end": 82.96,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 82.96,
+        "end": 83.26,
+        "spoken": true
+      }
+    ],
+    "time": 81.88,
+    "end": 83.26
+  },
+  {
+    "text": "Waste him down in the silence",
+    "startTime": 83.26,
+    "endTime": 85.92,
+    "words": [
+      {
+        "word": "Waste",
+        "start": 83.61,
+        "end": 84.0,
+        "spoken": true
+      },
+      {
+        "word": "him",
+        "start": 84.0,
+        "end": 84.32,
+        "spoken": true
+      },
+      {
+        "word": "down",
+        "start": 84.32,
+        "end": 84.78,
+        "spoken": true
+      },
+      {
+        "word": "in",
+        "start": 84.78,
+        "end": 85.24,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 85.24,
+        "end": 85.38
+      },
+      {
+        "word": "silence",
+        "start": 85.38,
+        "end": 85.92,
+        "spoken": true
+      }
+    ],
+    "time": 83.26,
+    "end": 85.92
+  },
+  {
+    "text": "Crap real close",
+    "startTime": 85.92,
+    "endTime": 87.58,
+    "words": [
+      {
+        "word": "Crap",
+        "start": 85.92,
+        "end": 86.58,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "real",
+        "start": 86.58,
+        "end": 87.0
+      },
+      {
+        "word": "close",
+        "start": 87.0,
+        "end": 87.58
+      }
+    ],
+    "time": 85.92,
+    "end": 87.58
+  },
+  {
+    "text": "Until there wasn't a sound,",
+    "startTime": 87.58,
+    "endTime": 89.6,
+    "words": [
+      {
+        "word": "Until",
+        "start": 87.58,
+        "end": 88.08,
+        "spoken": true
+      },
+      {
+        "word": "there",
+        "start": 88.08,
+        "end": 88.46
+      },
+      {
+        "word": "wasn't",
+        "start": 88.46,
+        "end": 89.06,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 89.06,
+        "end": 89.1
+      },
+      {
+        "word": "sound,",
+        "start": 89.1,
+        "end": 89.6
+      }
+    ],
+    "time": 87.58,
+    "end": 89.6
+  },
+  {
+    "text": "not yet, let me go",
+    "startTime": 89.72,
+    "endTime": 91.48,
+    "words": [
+      {
+        "word": "not",
+        "start": 89.72,
+        "end": 89.96
+      },
+      {
+        "word": "yet,",
+        "start": 90.26,
+        "end": 90.46
+      },
+      {
+        "word": "let",
+        "start": 90.788,
+        "end": 90.9
+      },
+      {
+        "word": "me",
+        "start": 90.9,
+        "end": 91.18
+      },
+      {
+        "word": "go",
+        "start": 91.18,
+        "end": 91.48
+      }
+    ],
+    "time": 89.72,
+    "end": 91.48
+  },
+  {
+    "text": "I don't wanna fuckin' die right now",
+    "startTime": 91.48,
+    "endTime": 94.5,
+    "words": [
+      {
+        "word": "I",
+        "start": 91.48,
+        "end": 91.92,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "don't",
+        "start": 91.92,
+        "end": 92.3,
+        "spoken": true
+      },
+      {
+        "word": "wanna",
+        "start": 92.3,
+        "end": 92.48,
+        "spoken": true
+      },
+      {
+        "word": "fuckin'",
+        "start": 92.48,
+        "end": 92.94,
+        "spoken": true
+      },
+      {
+        "word": "die",
+        "start": 93.22,
+        "end": 93.38
+      },
+      {
+        "word": "right",
+        "start": 93.38,
+        "end": 93.88
+      },
+      {
+        "word": "now",
+        "start": 93.88,
+        "end": 94.5,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 91.48,
+    "end": 94.5
+  },
+  {
+    "text": "I got hoes in there tryna suck me dry right now",
+    "startTime": 94.5,
+    "endTime": 98.5,
+    "words": [
+      {
+        "word": "I",
+        "start": 94.5,
+        "end": 94.88,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "got",
+        "start": 94.88,
+        "end": 95.16
+      },
+      {
+        "word": "hoes",
+        "start": 95.16,
+        "end": 95.7
+      },
+      {
+        "word": "in",
+        "start": 95.7,
+        "end": 95.92
+      },
+      {
+        "word": "there",
+        "start": 95.92,
+        "end": 96.14
+      },
+      {
+        "word": "tryna",
+        "start": 96.14,
+        "end": 96.5
+      },
+      {
+        "word": "suck",
+        "start": 96.5,
+        "end": 96.94
+      },
+      {
+        "word": "me",
+        "start": 96.94,
+        "end": 97.22
+      },
+      {
+        "word": "dry",
+        "start": 97.22,
+        "end": 97.46
+      },
+      {
+        "word": "right",
+        "start": 97.53,
+        "end": 97.94
+      },
+      {
+        "word": "now",
+        "start": 98.276,
+        "end": 98.5,
+        "stretch": true
+      }
+    ],
+    "time": 94.5,
+    "end": 98.5
+  },
+  {
+    "text": "Let me flow, cut the motherfuckin' line",
+    "startTime": 98.5,
+    "endTime": 101.44,
+    "words": [
+      {
+        "word": "Let",
+        "start": 98.764,
+        "end": 98.94
+      },
+      {
+        "word": "me",
+        "start": 98.94,
+        "end": 99.14
+      },
+      {
+        "word": "flow,",
+        "start": 99.14,
+        "end": 99.46
+      },
+      {
+        "word": "cut",
+        "start": 99.56,
+        "end": 99.88,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 99.88,
+        "end": 100.16,
+        "spoken": true
+      },
+      {
+        "word": "motherfuckin'",
+        "start": 100.16,
+        "end": 101.22,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "line",
+        "start": 101.22,
+        "end": 101.44
+      }
+    ],
+    "time": 98.5,
+    "end": 101.44
+  },
+  {
+    "text": "Lights down on my own in the background",
+    "startTime": 101.44,
+    "endTime": 104.78,
+    "words": [
+      {
+        "word": "Lights",
+        "start": 101.44,
+        "end": 102.0
+      },
+      {
+        "word": "down",
+        "start": 102.0,
+        "end": 102.5
+      },
+      {
+        "word": "on",
+        "start": 102.5,
+        "end": 102.96,
+        "stretch": true
+      },
+      {
+        "word": "my",
+        "start": 102.96,
+        "end": 103.16
+      },
+      {
+        "word": "own",
+        "start": 103.16,
+        "end": 103.52
+      },
+      {
+        "word": "in",
+        "start": 103.52,
+        "end": 103.96,
+        "stretch": true
+      },
+      {
+        "word": "the",
+        "start": 103.96,
+        "end": 104.14
+      },
+      {
+        "word": "background",
+        "start": 104.14,
+        "end": 104.78
+      }
+    ],
+    "time": 101.44,
+    "end": 104.78
+  },
+  {
+    "text": "That's where I belong, singin' songs for the people",
+    "startTime": 104.78,
+    "endTime": 108.52,
+    "words": [
+      {
+        "word": "That's",
+        "start": 104.78,
+        "end": 105.5
+      },
+      {
+        "word": "where",
+        "start": 105.5,
+        "end": 105.62
+      },
+      {
+        "word": "I",
+        "start": 105.62,
+        "end": 105.92,
+        "stretch": true
+      },
+      {
+        "word": "belong,",
+        "start": 106.172,
+        "end": 106.34
+      },
+      {
+        "word": "singin'",
+        "start": 106.826,
+        "end": 107.18
+      },
+      {
+        "word": "songs",
+        "start": 107.18,
+        "end": 107.52
+      },
+      {
+        "word": "for",
+        "start": 107.52,
+        "end": 107.9,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 107.9,
+        "end": 108.12,
+        "spoken": true
+      },
+      {
+        "word": "people",
+        "start": 108.12,
+        "end": 108.52,
+        "spoken": true
+      }
+    ],
+    "time": 104.78,
+    "end": 108.52
+  },
+  {
+    "text": "Who've been strugglin' for far too long",
+    "startTime": 108.52,
+    "endTime": 111.48,
+    "words": [
+      {
+        "word": "Who've",
+        "start": 108.52,
+        "end": 108.96,
+        "spoken": true
+      },
+      {
+        "word": "been",
+        "start": 108.96,
+        "end": 109.16
+      },
+      {
+        "word": "strugglin'",
+        "start": 109.16,
+        "end": 109.72,
+        "spoken": true
+      },
+      {
+        "word": "for",
+        "start": 109.82,
+        "end": 110.06,
+        "spoken": true
+      },
+      {
+        "word": "far",
+        "start": 110.06,
+        "end": 110.48
+      },
+      {
+        "word": "too",
+        "start": 110.48,
+        "end": 110.84
+      },
+      {
+        "word": "long",
+        "start": 110.84,
+        "end": 111.48,
+        "stretch": true
+      }
+    ],
+    "time": 108.52,
+    "end": 111.48
+  },
+  {
+    "text": "Am I really that evil, am I wrong, people?",
+    "startTime": 111.48,
+    "endTime": 115.04,
+    "words": [
+      {
+        "word": "Am",
+        "start": 111.48,
+        "end": 112.0,
+        "stretch": true
+      },
+      {
+        "word": "I",
+        "start": 112.0,
+        "end": 112.18,
+        "stretch": true
+      },
+      {
+        "word": "really",
+        "start": 112.18,
+        "end": 112.6
+      },
+      {
+        "word": "that",
+        "start": 112.6,
+        "end": 112.92
+      },
+      {
+        "word": "evil,",
+        "start": 112.92,
+        "end": 113.62
+      },
+      {
+        "word": "am",
+        "start": 113.7,
+        "end": 114.0
+      },
+      {
+        "word": "I",
+        "start": 114.0,
+        "end": 114.16,
+        "stretch": true
+      },
+      {
+        "word": "wrong,",
+        "start": 114.346,
+        "end": 114.58
+      },
+      {
+        "word": "people?",
+        "start": 114.855,
+        "end": 115.04
+      }
+    ],
+    "time": 111.48,
+    "end": 115.04
+  },
+  {
+    "text": "●",
+    "startTime": 115.34,
+    "endTime": 135.7,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 115.34,
+    "end": 135.7
+  },
+  {
+    "text": "We'll be right back.",
+    "startTime": 135.7,
+    "endTime": 139.64,
+    "words": [
+      {
+        "word": "We'll",
+        "start": 135.839,
+        "end": 137.1,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "be",
+        "start": 137.45,
+        "end": 138.5,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "right",
+        "start": 138.5,
+        "end": 139.16,
+        "spoken": true
+      },
+      {
+        "word": "back.",
+        "start": 139.16,
+        "end": 139.64
+      }
+    ],
+    "time": 135.7,
+    "end": 139.64
+  },
+  {
+    "text": "●",
+    "startTime": 139.94,
+    "endTime": 147.58,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 139.94,
+    "end": 147.58
+  },
+  {
+    "text": "I'll resurrect you right back from the dead",
+    "startTime": 147.58,
+    "endTime": 151.08,
+    "words": [
+      {
+        "word": "I'll",
+        "start": 147.58,
+        "end": 147.96
+      },
+      {
+        "word": "resurrect",
+        "start": 147.96,
+        "end": 147.96
+      },
+      {
+        "word": "you",
+        "start": 147.96,
+        "end": 147.96
+      },
+      {
+        "word": "right",
+        "start": 147.96,
+        "end": 148.26
+      },
+      {
+        "word": "back",
+        "start": 148.26,
+        "end": 148.76
+      },
+      {
+        "word": "from",
+        "start": 148.76,
+        "end": 149.28
+      },
+      {
+        "word": "the",
+        "start": 149.28,
+        "end": 149.66
+      },
+      {
+        "word": "dead",
+        "start": 150.01,
+        "end": 151.08,
+        "stretch": true
+      }
+    ],
+    "time": 147.58,
+    "end": 151.08
+  },
+  {
+    "text": "I'll leave you to take my final breath",
+    "startTime": 154.08,
+    "endTime": 158.54,
+    "words": [
+      {
+        "word": "I'll",
+        "start": 154.08,
+        "end": 154.62,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "leave",
+        "start": 154.62,
+        "end": 154.62
+      },
+      {
+        "word": "you",
+        "start": 154.62,
+        "end": 155.1,
+        "stretch": true
+      },
+      {
+        "word": "to",
+        "start": 155.1,
+        "end": 155.66,
+        "stretch": true
+      },
+      {
+        "word": "take",
+        "start": 155.66,
+        "end": 156.46,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 156.46,
+        "end": 156.82,
+        "stretch": true
+      },
+      {
+        "word": "final",
+        "start": 156.82,
+        "end": 157.66,
+        "stretch": true
+      },
+      {
+        "word": "breath",
+        "start": 158.01,
+        "end": 158.54,
+        "stretch": true
+      }
+    ],
+    "time": 154.08,
+    "end": 158.54
+  },
+  {
+    "text": "Instead,",
+    "startTime": 159.58,
+    "endTime": 160.12,
+    "words": [
+      {
+        "word": "Instead,",
+        "start": 159.58,
+        "end": 160.12,
+        "spoken": true
+      }
+    ],
+    "time": 159.58,
+    "end": 160.12
+  },
+  {
+    "text": "I'll resurrect",
+    "startTime": 160.6,
+    "endTime": 162.68,
+    "words": [
+      {
+        "word": "I'll",
+        "start": 160.95,
+        "end": 161.84,
+        "stretch": true
+      },
+      {
+        "word": "resurrect",
+        "start": 161.84,
+        "end": 162.68,
+        "stretch": true
+      }
+    ],
+    "time": 160.6,
+    "end": 162.68
+  },
+  {
+    "text": "you right back",
+    "startTime": 162.68,
+    "endTime": 164.66,
+    "words": [
+      {
+        "word": "you",
+        "start": 162.68,
+        "end": 163.66,
+        "stretch": true
+      },
+      {
+        "word": "right",
+        "start": 163.66,
+        "end": 164.18
+      },
+      {
+        "word": "back",
+        "start": 164.18,
+        "end": 164.66
+      }
+    ],
+    "time": 162.68,
+    "end": 164.66
+  },
+  {
+    "text": "from the dead",
+    "startTime": 164.66,
+    "endTime": 166.38,
+    "words": [
+      {
+        "word": "from",
+        "start": 164.66,
+        "end": 165.2,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 165.2,
+        "end": 165.7,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "dead",
+        "start": 165.7,
+        "end": 166.38,
+        "stretch": true
+      }
+    ],
+    "time": 164.66,
+    "end": 166.38
   }
 ]

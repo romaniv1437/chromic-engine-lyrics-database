@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T23:08:32.088148+00:00",
+  "generatedAt": "2026-07-13T23:12:04.796576+00:00",
   "totalTracks": 848,
   "roots": [
     "lyrics-db/tracks"
@@ -11412,20 +11412,6 @@
       "sourcePath": "https://soundcloud.com/officialantwon/visine-prod-shlomo-featuring-lil-peep",
       "mtimeMs": 1783723762178
     },
-    "lil skil::*rare* haloween w/ lil peep": {
-      "title": "*RARE* haloween w/ lil peep",
-      "artist": "lil skil",
-      "originalTrackName": "lil skil - *RARE* haloween w/ lil peep",
-      "source": "whisper_only",
-      "file": "tracks/lil-skil-rare-haloween-w-lil-peep-3d788b43ace1.json",
-      "files": {
-        "lyrics": "tracks/lil-skil-rare-haloween-w-lil-peep-3d788b43ace1.json",
-        "meta": "tracks/lil-skil-rare-haloween-w-lil-peep-3d788b43ace1.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/rainybear16/vacancy-ft-lil-peep",
-      "mtimeMs": 1783724101127
-    },
     "gg neeks, lil peep::mo murda ft. lil peep (prod. willie g)": {
       "title": "MO MURDA FT. LIL PEEP (Prod. Willie G)",
       "artist": "GG NEEKS, Lil peep",
@@ -11917,6 +11903,20 @@
       },
       "sourcePath": "https://soundcloud.com/gravedown/your-voice-lingers",
       "mtimeMs": 1783984112691
+    },
+    "lil skil::*rare* haloween w/ lil peep": {
+      "title": "*RARE* haloween w/ lil peep",
+      "artist": "lil skil",
+      "originalTrackName": "lil skil - *RARE* haloween w/ lil peep",
+      "source": "whisper_only",
+      "file": "tracks/lil-skil-rare-haloween-w-lil-peep-3d788b43ace1.json",
+      "files": {
+        "lyrics": "tracks/lil-skil-rare-haloween-w-lil-peep-3d788b43ace1.json",
+        "meta": "tracks/lil-skil-rare-haloween-w-lil-peep-3d788b43ace1.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/rainybear16/vacancy-ft-lil-peep",
+      "mtimeMs": 1783984325804
     }
   },
   "tracks": [
@@ -23347,20 +23347,6 @@
       "mtimeMs": 1783723762178
     },
     {
-      "title": "*RARE* haloween w/ lil peep",
-      "artist": "lil skil",
-      "originalTrackName": "lil skil - *RARE* haloween w/ lil peep",
-      "source": "whisper_only",
-      "file": "tracks/lil-skil-rare-haloween-w-lil-peep-3d788b43ace1.json",
-      "files": {
-        "lyrics": "tracks/lil-skil-rare-haloween-w-lil-peep-3d788b43ace1.json",
-        "meta": "tracks/lil-skil-rare-haloween-w-lil-peep-3d788b43ace1.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/rainybear16/vacancy-ft-lil-peep",
-      "mtimeMs": 1783724101127
-    },
-    {
       "title": "MO MURDA FT. LIL PEEP (Prod. Willie G)",
       "artist": "GG NEEKS, Lil peep",
       "originalTrackName": "GG NEEKS, Lil peep - MO MURDA FT. LIL PEEP (Prod. Willie G)",
@@ -23851,6 +23837,20 @@
       },
       "sourcePath": "https://soundcloud.com/gravedown/your-voice-lingers",
       "mtimeMs": 1783984112691
+    },
+    {
+      "title": "*RARE* haloween w/ lil peep",
+      "artist": "lil skil",
+      "originalTrackName": "lil skil - *RARE* haloween w/ lil peep",
+      "source": "whisper_only",
+      "file": "tracks/lil-skil-rare-haloween-w-lil-peep-3d788b43ace1.json",
+      "files": {
+        "lyrics": "tracks/lil-skil-rare-haloween-w-lil-peep-3d788b43ace1.json",
+        "meta": "tracks/lil-skil-rare-haloween-w-lil-peep-3d788b43ace1.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/rainybear16/vacancy-ft-lil-peep",
+      "mtimeMs": 1783984325804
     }
   ]
 }

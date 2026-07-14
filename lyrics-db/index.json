@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T21:22:31.207346+00:00",
-  "totalTracks": 853,
+  "generatedAt": "2026-07-14T21:26:46.986487+00:00",
+  "totalTracks": 854,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11987,6 +11987,20 @@
       },
       "sourcePath": "https://soundcloud.com/original-god/udontknowme",
       "mtimeMs": 1784064152641
+    },
+    "michał lewańczyk::lil peep - \"hit\" prod. john mello & mike frost (full cdq version)": {
+      "title": "Lil Peep - \"Hit\" prod. John Mello & Mike Frost (FULL CDQ VERSION)",
+      "artist": "Michał Lewańczyk",
+      "originalTrackName": "Michał Lewańczyk - Lil Peep - \"Hit\" prod. John Mello & Mike Frost (FULL CDQ VERSION)",
+      "source": "whisper_only",
+      "file": "tracks/micha-lewa-czyk-lil-peep-hit-prod-john-mello-mike-frost-full-cdq-versi-c80c07663143.json",
+      "files": {
+        "lyrics": "tracks/micha-lewa-czyk-lil-peep-hit-prod-john-mello-mike-frost-full-cdq-versi-c80c07663143.json",
+        "meta": "tracks/micha-lewa-czyk-lil-peep-hit-prod-john-mello-mike-frost-full-cdq-versi-c80c07663143.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/micha-lewa-czyk/lil-peep-hit-prod-john-mello-mike-frost-full-cdq-version",
+      "mtimeMs": 1784064407395
     }
   },
   "tracks": [
@@ -23991,6 +24005,20 @@
       },
       "sourcePath": "https://soundcloud.com/original-god/udontknowme",
       "mtimeMs": 1784064152641
+    },
+    {
+      "title": "Lil Peep - \"Hit\" prod. John Mello & Mike Frost (FULL CDQ VERSION)",
+      "artist": "Michał Lewańczyk",
+      "originalTrackName": "Michał Lewańczyk - Lil Peep - \"Hit\" prod. John Mello & Mike Frost (FULL CDQ VERSION)",
+      "source": "whisper_only",
+      "file": "tracks/micha-lewa-czyk-lil-peep-hit-prod-john-mello-mike-frost-full-cdq-versi-c80c07663143.json",
+      "files": {
+        "lyrics": "tracks/micha-lewa-czyk-lil-peep-hit-prod-john-mello-mike-frost-full-cdq-versi-c80c07663143.json",
+        "meta": "tracks/micha-lewa-czyk-lil-peep-hit-prod-john-mello-mike-frost-full-cdq-versi-c80c07663143.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/micha-lewa-czyk/lil-peep-hit-prod-john-mello-mike-frost-full-cdq-version",
+      "mtimeMs": 1784064407395
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T23:34:51.162739+00:00",
-  "totalTracks": 851,
+  "generatedAt": "2026-07-14T16:12:00.494627+00:00",
+  "totalTracks": 852,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11959,6 +11959,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-197226517/marilynm",
       "mtimeMs": 1783985691523
+    },
+    "ibuprofen::jt4350.3": {
+      "title": "jt4350.3",
+      "artist": "ibuprofen",
+      "originalTrackName": "ibuprofen - jt4350.3",
+      "source": "whisper_only",
+      "file": "tracks/ibuprofen-jt4350-3-eb4801b83c22.json",
+      "files": {
+        "lyrics": "tracks/ibuprofen-jt4350-3-eb4801b83c22.json",
+        "meta": "tracks/ibuprofen-jt4350-3-eb4801b83c22.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ilbuprofen/jt4350-3",
+      "mtimeMs": 1784045521953
     }
   },
   "tracks": [
@@ -23935,6 +23949,20 @@
       },
       "sourcePath": "https://soundcloud.com/user-197226517/marilynm",
       "mtimeMs": 1783985691523
+    },
+    {
+      "title": "jt4350.3",
+      "artist": "ibuprofen",
+      "originalTrackName": "ibuprofen - jt4350.3",
+      "source": "whisper_only",
+      "file": "tracks/ibuprofen-jt4350-3-eb4801b83c22.json",
+      "files": {
+        "lyrics": "tracks/ibuprofen-jt4350-3-eb4801b83c22.json",
+        "meta": "tracks/ibuprofen-jt4350-3-eb4801b83c22.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ilbuprofen/jt4350-3",
+      "mtimeMs": 1784045521953
     }
   ]
 }

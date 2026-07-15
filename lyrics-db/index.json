@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T04:23:41.009268+00:00",
-  "totalTracks": 857,
+  "generatedAt": "2026-07-15T11:46:09.405337+00:00",
+  "totalTracks": 858,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12043,6 +12043,20 @@
       },
       "sourcePath": "https://soundcloud.com/trap-boi-gawbi/cashclick-boog-gang-in-here-ft-yatta-free-yatta",
       "mtimeMs": 1784089422025
+    },
+    "rojer ⚡️::round one: press start": {
+      "title": "round one: press start",
+      "artist": "rojer ⚡️",
+      "originalTrackName": "rojer ⚡️ - round one: press start",
+      "source": "whisper_only",
+      "file": "tracks/rojer-round-one-press-start-afbc913f1f4e.json",
+      "files": {
+        "lyrics": "tracks/rojer-round-one-press-start-afbc913f1f4e.json",
+        "meta": "tracks/rojer-round-one-press-start-afbc913f1f4e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/jerronor/round-1-press-start",
+      "mtimeMs": 1784115970075
     }
   },
   "tracks": [
@@ -24103,6 +24117,20 @@
       },
       "sourcePath": "https://soundcloud.com/trap-boi-gawbi/cashclick-boog-gang-in-here-ft-yatta-free-yatta",
       "mtimeMs": 1784089422025
+    },
+    {
+      "title": "round one: press start",
+      "artist": "rojer ⚡️",
+      "originalTrackName": "rojer ⚡️ - round one: press start",
+      "source": "whisper_only",
+      "file": "tracks/rojer-round-one-press-start-afbc913f1f4e.json",
+      "files": {
+        "lyrics": "tracks/rojer-round-one-press-start-afbc913f1f4e.json",
+        "meta": "tracks/rojer-round-one-press-start-afbc913f1f4e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/jerronor/round-1-press-start",
+      "mtimeMs": 1784115970075
     }
   ]
 }

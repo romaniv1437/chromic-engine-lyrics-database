@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T13:38:57.822083+00:00",
-  "totalTracks": 860,
+  "generatedAt": "2026-07-15T13:46:03.865833+00:00",
+  "totalTracks": 861,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12085,6 +12085,20 @@
       },
       "sourcePath": "https://soundcloud.com/lilpeep1/pills-on-me",
       "mtimeMs": 1784122738903
+    },
+    "lil peep [rare]::lil peep - the kronik (without feature extended)": {
+      "title": "Lil Peep - The Kronik (Without Feature Extended)",
+      "artist": "lil Peep [Rare]",
+      "originalTrackName": "lil Peep [Rare] - Lil Peep - The Kronik (Without Feature Extended)",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-rare-lil-peep-the-kronik-without-feature-extended-2f37afdb85c4.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-rare-lil-peep-the-kronik-without-feature-extended-2f37afdb85c4.json",
+        "meta": "tracks/lil-peep-rare-lil-peep-the-kronik-without-feature-extended-2f37afdb85c4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/rayn-606797171/lil-peep-the-kronik-without",
+      "mtimeMs": 1784123164307
     }
   },
   "tracks": [
@@ -24187,6 +24201,20 @@
       },
       "sourcePath": "https://soundcloud.com/lilpeep1/pills-on-me",
       "mtimeMs": 1784122738903
+    },
+    {
+      "title": "Lil Peep - The Kronik (Without Feature Extended)",
+      "artist": "lil Peep [Rare]",
+      "originalTrackName": "lil Peep [Rare] - Lil Peep - The Kronik (Without Feature Extended)",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-rare-lil-peep-the-kronik-without-feature-extended-2f37afdb85c4.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-rare-lil-peep-the-kronik-without-feature-extended-2f37afdb85c4.json",
+        "meta": "tracks/lil-peep-rare-lil-peep-the-kronik-without-feature-extended-2f37afdb85c4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/rayn-606797171/lil-peep-the-kronik-without",
+      "mtimeMs": 1784123164307
     }
   ]
 }

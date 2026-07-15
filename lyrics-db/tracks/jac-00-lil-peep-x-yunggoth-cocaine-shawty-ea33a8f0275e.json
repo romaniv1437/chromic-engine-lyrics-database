@@ -17,7 +17,8 @@
           0.675,
           0.757
         ],
-        "whisper": true
+        "whisper": true,
+        "singer": "singer1"
       },
       {
         "word": "shawty,",
@@ -32,30 +33,35 @@
           1.531,
           1.666
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "lookin'",
         "start": 2.12,
         "end": 2.7,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "at",
         "start": 2.71,
         "end": 3.14,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "me",
         "start": 3.15,
         "end": 3.52,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "naughty",
         "start": 3.859,
-        "end": 4.26
+        "end": 4.26,
+        "singer": "singer2"
       }
     ],
     "time": 0.37,
@@ -70,66 +76,77 @@
         "word": "Met",
         "start": 4.27,
         "end": 4.7,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "her",
         "start": 4.71,
         "end": 4.81,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "at",
         "start": 4.82,
-        "end": 5.18
+        "end": 5.18,
+        "singer": "singer2"
       },
       {
         "word": "the",
         "start": 5.19,
         "end": 5.46,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "party,",
         "start": 5.47,
         "end": 6.06,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "now",
         "start": 6.07,
         "end": 6.4,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "she",
         "start": 6.68,
         "end": 6.92,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "all",
         "start": 6.93,
         "end": 7.28,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "up",
         "start": 7.29,
         "end": 7.7,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "on",
         "start": 7.71,
         "end": 8.18,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "me",
         "start": 8.236,
         "end": 8.54,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       }
     ],
     "time": 4.27,
@@ -144,54 +161,63 @@
         "word": "If",
         "start": 8.6,
         "end": 8.65,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "you",
         "start": 8.76,
         "end": 9.06,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "lookin'",
         "start": 9.07,
         "end": 9.54,
-        "sung": true
+        "sung": true,
+        "singer": "singer2"
       },
       {
         "word": "for",
         "start": 9.55,
         "end": 9.78,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "me,",
         "start": 9.79,
         "end": 10.36,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "posted",
         "start": 10.37,
         "end": 10.86,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "with",
         "start": 11.18,
         "end": 11.28,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "my",
         "start": 11.29,
-        "end": 11.5
+        "end": 11.5,
+        "singer": "singer2"
       },
       {
         "word": ".40",
         "start": 11.51,
         "end": 11.86,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       }
     ],
     "time": 8.6,
@@ -206,35 +232,41 @@
         "word": "Cocaine",
         "start": 12.952,
         "end": 13.04,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "shawty,",
         "start": 13.816,
         "end": 13.92,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "touchin'",
         "start": 14.36,
-        "end": 14.98
+        "end": 14.98,
+        "singer": "singer2"
       },
       {
         "word": "on",
         "start": 15.54,
-        "end": 15.68
+        "end": 15.68,
+        "singer": "singer2"
       },
       {
         "word": "your",
         "start": 15.69,
         "end": 15.9,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "body",
         "start": 15.91,
         "end": 16.12,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       }
     ],
     "time": 12.82,
@@ -258,13 +290,15 @@
         "word": "I",
         "start": 24.68,
         "end": 25.38,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "only",
         "start": 25.39,
         "end": 25.49,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "pull",
@@ -276,7 +310,8 @@
           25.816,
           26.046
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "one-seater",
@@ -291,9 +326,10 @@
           26.642,
           26.755,
           26.875,
-          27,
+          27.0,
           27.132
-        ]
+        ],
+        "singer": "singer1"
       }
     ],
     "time": 24.68,
@@ -308,70 +344,82 @@
         "word": "Try",
         "start": 27.39,
         "end": 27.49,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "to",
         "start": 27.5,
         "end": 27.78,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "make",
         "start": 27.79,
         "end": 28.34,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "me",
         "start": 28.52,
         "end": 28.98,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "settle,",
         "start": 29.04,
-        "end": 29.04
+        "end": 29.04,
+        "singer": "singer1"
       },
       {
         "word": "boy,",
         "start": 29.05,
         "end": 29.34,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "I",
         "start": 29.35,
         "end": 29.54,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "call",
         "start": 29.55,
         "end": 29.88,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "her",
         "start": 29.89,
         "end": 30.14,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "on",
         "start": 30.15,
         "end": 30.52,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "the",
         "start": 30.53,
-        "end": 30.8
+        "end": 30.8,
+        "singer": "singer1"
       },
       {
         "word": "weekend",
         "start": 30.81,
-        "end": 30.85
+        "end": 30.85,
+        "singer": "singer1"
       }
     ],
     "time": 27.39,
@@ -380,150 +428,166 @@
   {
     "text": "Bentley dranks, quarter pound, I need it for the weekend, yeah",
     "startTime": 35.41,
-    "endTime": 36.61,
+    "endTime": 38.897,
     "words": [
       {
         "word": "Bentley",
         "start": 35.41,
-        "end": 35.51,
-        "spoken": true
+        "end": 35.878,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "dranks,",
-        "start": 35.52,
-        "end": 35.62,
-        "spoken": true
+        "start": 36.11,
+        "end": 36.345,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "quarter",
-        "start": 35.63,
-        "end": 35.73,
-        "spoken": true
+        "start": 36.345,
+        "end": 36.813,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "pound,",
-        "start": 35.74,
-        "end": 35.84,
-        "spoken": true
+        "start": 36.813,
+        "end": 37.214,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 35.85,
-        "end": 35.95,
-        "spoken": true
+        "start": 37.214,
+        "end": 37.294,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "need",
-        "start": 35.96,
-        "end": 36.06,
-        "spoken": true
+        "start": 37.294,
+        "end": 37.561,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "it",
-        "start": 36.07,
-        "end": 36.17,
-        "spoken": true
+        "start": 37.561,
+        "end": 37.695,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "for",
-        "start": 36.18,
-        "end": 36.28,
-        "spoken": true
+        "start": 37.765,
+        "end": 37.895,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 36.29,
-        "end": 36.39,
-        "spoken": true
+        "start": 37.895,
+        "end": 38.095,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "weekend,",
-        "start": 36.4,
-        "end": 36.5,
-        "spoken": true
+        "start": 38.281,
+        "end": 38.63,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "yeah",
-        "start": 36.51,
-        "end": 36.61,
-        "spoken": true
+        "start": 38.63,
+        "end": 38.897,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 35.41,
-    "end": 36.61
+    "end": 38.897
   },
   {
     "text": "Live my life alone, that's why I only pull one-seater, ayy",
     "startTime": 39.27,
-    "endTime": 40.47,
+    "endTime": 42.531,
     "words": [
       {
         "word": "Live",
-        "start": 39.33,
-        "end": 39.37,
-        "spoken": true
+        "start": 39.386,
+        "end": 39.541,
+        "singer": "singer1"
       },
       {
         "word": "my",
-        "start": 39.38,
-        "end": 39.48
+        "start": 39.541,
+        "end": 39.676,
+        "singer": "singer1"
       },
       {
         "word": "life",
-        "start": 39.49,
-        "end": 39.59
+        "start": 39.839,
+        "end": 39.947,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "alone,",
-        "start": 39.6,
-        "end": 39.7,
-        "spoken": true
+        "start": 39.947,
+        "end": 40.353,
+        "singer": "singer1"
       },
       {
         "word": "that's",
-        "start": 39.71,
-        "end": 39.81,
-        "spoken": true
+        "start": 40.469,
+        "end": 40.759,
+        "singer": "singer1"
       },
       {
         "word": "why",
-        "start": 39.82,
-        "end": 39.92,
-        "spoken": true
+        "start": 40.759,
+        "end": 40.962,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 39.93,
-        "end": 40.03,
-        "spoken": true
+        "start": 40.962,
+        "end": 41.042,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "only",
-        "start": 40.04,
-        "end": 40.14,
-        "spoken": true
+        "start": 41.042,
+        "end": 41.313,
+        "singer": "singer1"
       },
       {
         "word": "pull",
-        "start": 40.15,
-        "end": 40.25,
-        "spoken": true
+        "start": 41.313,
+        "end": 41.584,
+        "singer": "singer1"
       },
       {
         "word": "one-seater,",
-        "start": 40.26,
-        "end": 40.36,
-        "spoken": true
+        "start": 41.934,
+        "end": 42.328,
+        "singer": "singer1"
       },
       {
         "word": "ayy",
-        "start": 40.37,
-        "end": 40.47,
-        "spoken": true
+        "start": 42.328,
+        "end": 42.531,
+        "singer": "singer1"
       }
     ],
     "time": 39.27,
-    "end": 40.47
+    "end": 42.531
   },
   {
     "text": "Yeah, ayy,",
@@ -534,7 +598,8 @@
         "word": "Yeah,",
         "start": 42.88,
         "end": 43.03,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "ayy,",
@@ -546,7 +611,8 @@
           43.247,
           43.353
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 42.88,
@@ -555,89 +621,99 @@
   {
     "text": "Try to make me settle, boy, I call her on the weekend, yah",
     "startTime": 43.42,
-    "endTime": 44.84,
+    "endTime": 46.969,
     "words": [
       {
         "word": "Try",
         "start": 43.42,
-        "end": 43.52,
-        "spoken": true
+        "end": 43.651,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "to",
-        "start": 43.53,
-        "end": 43.63,
-        "spoken": true
+        "start": 43.743,
+        "end": 43.805,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "make",
-        "start": 43.7,
-        "end": 43.74,
-        "sung": true
+        "start": 43.805,
+        "end": 44.114,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "me",
-        "start": 43.75,
-        "end": 43.85,
-        "spoken": true
+        "start": 44.114,
+        "end": 44.268,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "settle,",
-        "start": 43.86,
-        "end": 43.96,
-        "sung": true
+        "start": 44.268,
+        "end": 44.808,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "boy,",
-        "start": 43.97,
-        "end": 44.07,
-        "spoken": true
+        "start": 44.808,
+        "end": 45.116,
+        "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 44.08,
-        "end": 44.18,
-        "spoken": true
+        "start": 45.116,
+        "end": 45.196,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "call",
-        "start": 44.19,
-        "end": 44.29,
-        "spoken": true
+        "start": 45.359,
+        "end": 45.504,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "her",
-        "start": 44.3,
-        "end": 44.4,
-        "spoken": true
+        "start": 45.504,
+        "end": 45.736,
+        "singer": "singer1"
       },
       {
         "word": "on",
-        "start": 44.41,
-        "end": 44.51,
-        "spoken": true
+        "start": 45.828,
+        "end": 45.89,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 44.52,
-        "end": 44.62,
-        "spoken": true
+        "start": 45.89,
+        "end": 46.121,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "weekend,",
-        "start": 44.63,
-        "end": 44.73,
-        "spoken": true
+        "start": 46.446,
+        "end": 46.738,
+        "singer": "singer1"
       },
       {
         "word": "yah",
-        "start": 44.74,
-        "end": 44.84,
-        "spoken": true
+        "start": 46.738,
+        "end": 46.969,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 43.42,
-    "end": 44.84
+    "end": 46.969
   },
   {
     "text": "yeah,",
@@ -655,7 +731,8 @@
           47.635,
           47.756
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 47.36,
@@ -664,85 +741,97 @@
   {
     "text": "Danger when I want to, boy, you know it's Puerto Rican, ayy",
     "startTime": 47.83,
-    "endTime": 49.14,
+    "endTime": 51.356,
     "words": [
       {
         "word": "Danger",
         "start": 47.83,
-        "end": 47.93,
-        "spoken": true
+        "end": 48.27,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "when",
-        "start": 47.94,
-        "end": 48.04,
-        "spoken": true
+        "start": 48.27,
+        "end": 48.563,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 48.05,
-        "end": 48.15
+        "start": 48.563,
+        "end": 48.643,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "want",
-        "start": 48.16,
-        "end": 48.26,
-        "spoken": true
+        "start": 48.643,
+        "end": 48.936,
+        "singer": "singer1"
       },
       {
         "word": "to,",
-        "start": 48.27,
-        "end": 48.37,
-        "spoken": true
+        "start": 48.936,
+        "end": 49.156,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "boy,",
-        "start": 48.38,
-        "end": 48.48,
-        "spoken": true
+        "start": 49.156,
+        "end": 49.45,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "you",
-        "start": 48.49,
-        "end": 48.59,
-        "spoken": true
+        "start": 49.45,
+        "end": 49.67,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "know",
-        "start": 48.6,
-        "end": 48.7
+        "start": 49.67,
+        "end": 49.963,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "it's",
-        "start": 48.71,
-        "end": 48.81
+        "start": 49.963,
+        "end": 50.256,
+        "singer": "singer1"
       },
       {
         "word": "Puerto",
-        "start": 48.82,
-        "end": 48.92,
-        "spoken": true
+        "start": 50.302,
+        "end": 50.696,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "Rican,",
-        "start": 48.93,
-        "end": 49.03,
-        "spoken": true
+        "start": 50.696,
+        "end": 51.136,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "ayy",
-        "start": 49.04,
-        "end": 49.14,
-        "spoken": true
+        "start": 51.268,
+        "end": 51.356,
+        "singer": "singer2"
       }
     ],
     "time": 47.83,
-    "end": 49.14
+    "end": 51.356
   },
   {
     "text": "ayy, ayy",
     "startTime": 51.74,
-    "endTime": 52.69,
+    "endTime": 52.78,
     "words": [
       {
         "word": "ayy,",
@@ -754,155 +843,180 @@
           52.269,
           52.397
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "ayy",
-        "start": 52.59,
-        "end": 52.69
+        "start": 52.68,
+        "end": 52.78,
+        "char_starts": [
+          52.68,
+          52.713,
+          52.75
+        ],
+        "singer": "singer1"
       }
     ],
     "time": 51.74,
-    "end": 52.69
+    "end": 52.78
   },
   {
     "text": "Rifle on my Louboutins, what she call my shooter song",
     "startTime": 52.23,
-    "endTime": 53.32,
+    "endTime": 55.965,
     "words": [
       {
         "word": "Rifle",
-        "start": 52.23,
-        "end": 52.33,
-        "whisper": true
+        "start": 52.439,
+        "end": 52.654,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "on",
-        "start": 52.4,
-        "end": 52.44,
-        "sung": true
+        "start": 52.654,
+        "end": 52.824,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "my",
-        "start": 52.45,
-        "end": 52.55,
-        "spoken": true
+        "start": 52.824,
+        "end": 52.994,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "Louboutins,",
-        "start": 52.56,
-        "end": 52.66
+        "start": 53.344,
+        "end": 53.928,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "what",
-        "start": 52.67,
-        "end": 52.77,
-        "spoken": true
+        "start": 53.928,
+        "end": 54.267,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "she",
-        "start": 52.78,
-        "end": 52.88,
-        "spoken": true
+        "start": 54.267,
+        "end": 54.522,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "call",
-        "start": 52.89,
-        "end": 52.99,
-        "spoken": true
+        "start": 54.522,
+        "end": 54.861,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "my",
-        "start": 53,
-        "end": 53.1
+        "start": 54.861,
+        "end": 55.031,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "shooter",
-        "start": 53.11,
-        "end": 53.21,
-        "spoken": true
+        "start": 55.17,
+        "end": 55.625,
+        "singer": "singer1"
       },
       {
         "word": "song",
-        "start": 53.22,
-        "end": 53.32,
-        "spoken": true
+        "start": 55.625,
+        "end": 55.965,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 52.23,
-    "end": 53.32
+    "end": 55.965
   },
   {
     "text": "Xannie, ain't no foolin', boy, damn foreign shootin' star",
     "startTime": 56.38,
-    "endTime": 57.43,
+    "endTime": 60.259,
     "words": [
       {
         "word": "Xannie,",
-        "start": 56.38,
-        "end": 56.48,
-        "spoken": true
+        "start": 56.712,
+        "end": 56.934,
+        "singer": "singer1"
       },
       {
         "word": "ain't",
-        "start": 56.49,
-        "end": 56.59,
-        "spoken": true
+        "start": 56.934,
+        "end": 57.33,
+        "singer": "singer1"
       },
       {
         "word": "no",
-        "start": 56.6,
-        "end": 56.7,
-        "spoken": true
+        "start": 57.33,
+        "end": 57.488,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "foolin',",
-        "start": 56.77,
-        "end": 56.81,
-        "spoken": true
+        "start": 57.838,
+        "end": 58.122,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "boy,",
-        "start": 56.82,
-        "end": 56.92,
-        "spoken": true
+        "start": 58.312,
+        "end": 58.438,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "damn",
-        "start": 56.93,
-        "end": 57.03
+        "start": 58.438,
+        "end": 58.755,
+        "singer": "singer1"
       },
       {
         "word": "foreign",
-        "start": 57.04,
-        "end": 57.14,
-        "spoken": true
+        "start": 58.987,
+        "end": 59.309,
+        "singer": "singer1"
       },
       {
         "word": "shootin'",
-        "start": 57.15,
-        "end": 57.25,
-        "spoken": true
+        "start": 59.518,
+        "end": 59.942,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "star",
-        "start": 57.26,
-        "end": 57.43,
-        "spoken": true
+        "start": 59.942,
+        "end": 60.259,
+        "spoken": true,
+        "singer": "singer2"
       }
     ],
     "time": 56.38,
-    "end": 57.43
+    "end": 60.259
   },
   {
     "text": "Live and love, I die alone, pretty bitches in my phone",
-    "startTime": 60.6,
+    "startTime": 60.69,
     "endTime": 64.98,
     "words": [
       {
         "word": "Live",
-        "start": 60.6,
-        "end": 60.88
+        "start": 60.69,
+        "end": 60.88,
+        "singer": "singer2"
       },
       {
         "word": "and",
@@ -913,72 +1027,83 @@
           61.213,
           61.319
         ],
-        "spoken": true
+        "singer": "singer1"
       },
       {
         "word": "love,",
         "start": 61.45,
-        "end": 61.72
+        "end": 61.72,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "I",
         "start": 61.73,
         "end": 61.92,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "die",
         "start": 62.132,
         "end": 62.26,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "alone,",
         "start": 62.27,
-        "end": 62.7
+        "end": 62.7,
+        "singer": "singer1"
       },
       {
         "word": "pretty",
         "start": 62.849,
         "end": 63.08,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "bitches",
         "start": 63.62,
-        "end": 63.64
+        "end": 63.64,
+        "singer": "singer1"
       },
       {
         "word": "in",
         "start": 63.882,
-        "end": 64.32
+        "end": 64.32,
+        "singer": "singer1"
       },
       {
         "word": "my",
         "start": 64.446,
         "end": 64.62,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "phone",
         "start": 64.63,
         "end": 64.98,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 60.6,
+    "time": 60.69,
     "end": 64.98
   },
   {
     "text": "Skinny bitches in my home, cocaine shawty, give me dome",
     "startTime": 64.99,
-    "endTime": 68.88,
+    "endTime": 95.28,
     "words": [
       {
         "word": "Skinny",
         "start": 65.036,
         "end": 65.22,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "bitches",
@@ -994,417 +1119,523 @@
           65.756
         ],
         "sung": true,
+        "singer": "singer1",
         "stretch": true
       },
       {
         "word": "in",
         "start": 65.91,
-        "end": 66.46,
-        "spoken": true
+        "end": 66.48,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "my",
-        "start": 66.609,
+        "start": 66.606,
         "end": 66.78,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "home,",
         "start": 66.79,
         "end": 67.22,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "cocaine",
         "start": 67.23,
         "end": 67.66,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "shawty,",
-        "start": 67.67,
-        "end": 67.94
+        "start": 68.04,
+        "end": 68.04,
+        "singer": "singer1"
       },
       {
         "word": "give",
-        "start": 67.95,
-        "end": 68.16,
-        "spoken": true
+        "start": 68.4,
+        "end": 95.12,
+        "char_starts": [
+          68.4,
+          72.408,
+          78.269,
+          86.127
+        ],
+        "sung": true,
+        "singer": "singer1",
+        "stretch": true
       },
       {
         "word": "me",
-        "start": 68.17,
-        "end": 68.66,
-        "spoken": true
+        "start": 95.13,
+        "end": 95.17,
+        "singer": "singer1"
       },
       {
         "word": "dome",
-        "start": 68.796,
-        "end": 68.88,
-        "spoken": true
+        "start": 95.18,
+        "end": 95.28,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 64.99,
-    "end": 68.88
+    "end": 95.28
   },
   {
     "text": "Cocaine shawty, wipe your nose, cocaine shawty, die alone",
-    "startTime": 69.34,
-    "endTime": 74.87,
+    "startTime": 69.74,
+    "endTime": 76.45,
     "words": [
       {
         "word": "Cocaine",
-        "start": 69.472,
-        "end": 69.56
+        "start": 69.8,
+        "end": 69.84,
+        "singer": "singer1"
       },
       {
         "word": "shawty,",
-        "start": 69.57,
-        "end": 70.08,
-        "sung": true
+        "start": 69.85,
+        "end": 69.95,
+        "singer": "singer1"
       },
       {
         "word": "wipe",
-        "start": 70.312,
-        "end": 70.46,
-        "spoken": true
+        "start": 69.96,
+        "end": 70.06,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "your",
-        "start": 70.47,
-        "end": 70.94,
-        "spoken": true
+        "start": 70.42,
+        "end": 71.25,
+        "char_starts": [
+          70.42,
+          70.591,
+          70.837,
+          71.126
+        ],
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "nose,",
-        "start": 70.95,
-        "end": 71.24,
-        "spoken": true
+        "start": 71.61,
+        "end": 72.75,
+        "char_starts": [
+          71.61,
+          71.776,
+          72.018,
+          72.3,
+          72.613
+        ],
+        "singer": "singer1"
       },
       {
         "word": "cocaine",
-        "start": 71.6,
-        "end": 73.92,
+        "start": 74.74,
+        "end": 75.89,
         "char_starts": [
-          71.6,
-          71.799,
-          71.998,
-          72.213,
-          72.47,
-          72.765,
-          73.094
+          74.74,
+          74.839,
+          74.964,
+          75.127,
+          75.321,
+          75.543,
+          75.791
         ],
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "shawty,",
-        "start": 74.232,
-        "end": 74.44
+        "start": 75.9,
+        "end": 76.05,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "die",
-        "start": 74.45,
-        "end": 74.76,
-        "spoken": true
+        "start": 76.1,
+        "end": 76.25,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "alone",
-        "start": 74.77,
-        "end": 74.87,
-        "spoken": true
+        "start": 76.3,
+        "end": 76.45,
+        "char_starts": [
+          76.3,
+          76.328,
+          76.358,
+          76.39,
+          76.423
+        ],
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 69.34,
-    "end": 74.87
+    "time": 69.74,
+    "end": 76.45
   },
   {
-    "text": "Cocaine shawty, cry alone,",
-    "startTime": 74.88,
-    "endTime": 78.363,
+    "text": "Cocaine shawty, wipe your nose, cocaine shawty, die alone",
+    "startTime": 78.53,
+    "endTime": 84.56,
     "words": [
       {
         "word": "Cocaine",
-        "start": 75.23,
-        "end": 78.033,
+        "start": 78.576,
+        "end": 79.13,
         "char_starts": [
-          75.23,
-          75.47,
-          75.71,
-          75.974,
-          76.289,
-          76.65,
-          77.053
+          78.576,
+          78.623,
+          78.684,
+          78.761,
+          78.855,
+          78.963,
+          79.082
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "shawty,",
+        "start": 79.14,
+        "end": 79.461,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wipe",
+        "start": 79.471,
+        "end": 79.65,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "your",
+        "start": 79.66,
+        "end": 79.87,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "nose,",
+        "start": 79.88,
+        "end": 80.51,
+        "singer": "singer1"
+      },
+      {
+        "word": "cocaine",
+        "start": 80.52,
+        "end": 81.19,
+        "char_starts": [
+          80.52,
+          80.577,
+          80.634,
+          80.719,
+          80.832,
+          80.97,
+          81.132
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "shawty,",
+        "start": 81.316,
+        "end": 82.69,
+        "char_starts": [
+          81.316,
+          81.437,
+          81.614,
+          81.822,
+          82.053,
+          82.304,
+          82.573
+        ],
+        "singer": "singer1"
+      },
+      {
+        "word": "die",
+        "start": 84.27,
+        "end": 84.45,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "alone",
+        "start": 84.46,
+        "end": 84.56,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 78.53,
+    "end": 84.56
+  },
+  {
+    "text": "Cocaine shawty, cry alone, cocaine shawty, yeah, yeah",
+    "startTime": 82.84,
+    "endTime": 87.46,
+    "words": [
+      {
+        "word": "Cocaine",
+        "start": 82.933,
+        "end": 83.45,
+        "char_starts": [
+          82.933,
+          82.977,
+          83.033,
+          83.107,
+          83.194,
+          83.294,
+          83.406
         ],
         "sung": true,
+        "singer": "singer1",
         "stretch": true
       },
       {
         "word": "shawty,",
-        "start": 78.043,
-        "end": 78.143,
-        "spoken": true
+        "start": 83.81,
+        "end": 84.21,
+        "char_starts": [
+          83.81,
+          83.846,
+          83.897,
+          83.957,
+          84.024,
+          84.097,
+          84.176
+        ],
+        "singer": "singer1"
       },
       {
         "word": "cry",
-        "start": 78.153,
-        "end": 78.253,
-        "spoken": true
+        "start": 84.22,
+        "end": 84.55,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "alone,",
-        "start": 78.263,
-        "end": 78.363,
-        "spoken": true
-      }
-    ],
-    "time": 74.88,
-    "end": 78.363
-  },
-  {
-    "text": "cocaine shawty, cry alone",
-    "startTime": 78.373,
-    "endTime": 78.803,
-    "words": [
+        "start": 84.56,
+        "end": 84.93,
+        "spoken": true,
+        "singer": "singer1"
+      },
       {
         "word": "cocaine",
-        "start": 78.373,
-        "end": 78.473,
-        "spoken": true
+        "start": 85.29,
+        "end": 85.65,
+        "char_starts": [
+          85.29,
+          85.321,
+          85.36,
+          85.411,
+          85.471,
+          85.541,
+          85.618
+        ],
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "shawty,",
-        "start": 78.543,
-        "end": 78.583,
-        "sung": true
+        "start": 86.01,
+        "end": 87.15,
+        "char_starts": [
+          86.01,
+          86.11,
+          86.257,
+          86.429,
+          86.621,
+          86.829,
+          87.051
+        ],
+        "singer": "singer1"
       },
       {
-        "word": "cry",
-        "start": 78.593,
-        "end": 78.693,
-        "spoken": true
+        "word": "yeah,",
+        "start": 87.25,
+        "end": 87.31,
+        "singer": "singer1"
       },
       {
-        "word": "alone",
-        "start": 78.703,
-        "end": 78.803,
-        "spoken": true
+        "word": "yeah",
+        "start": 87.36,
+        "end": 87.46,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 78.373,
-    "end": 78.803
+    "time": 82.84,
+    "end": 87.46
   },
   {
-    "text": "Cocaine",
-    "startTime": 87.24,
-    "endTime": 87.28,
+    "text": "Cocaine shawty, lookin' at me naughty (yeah)",
+    "startTime": 87.18,
+    "endTime": 91.068,
     "words": [
       {
         "word": "Cocaine",
-        "start": 87.24,
-        "end": 87.28
+        "start": 87.273,
+        "end": 87.896,
+        "singer": "singer1"
+      },
+      {
+        "word": "shawty,",
+        "start": 88.246,
+        "end": 88.612,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lookin'",
+        "start": 88.612,
+        "end": 89.329,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "at",
+        "start": 89.329,
+        "end": 89.533,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 89.533,
+        "end": 89.738,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "naughty",
+        "start": 89.993,
+        "end": 90.454,
+        "singer": "singer1"
+      },
+      {
+        "word": "(yeah)",
+        "start": 90.57,
+        "end": 91.068,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 87.24,
-    "end": 87.28
+    "time": 87.18,
+    "end": 91.068
   },
   {
     "text": "Met her at the party (yeah), now she all up on me (yeah)",
     "startTime": 91.5,
-    "endTime": 93.56,
+    "endTime": 95.577,
     "words": [
       {
         "word": "Met",
-        "start": 91.5,
-        "end": 91.6
+        "start": 91.663,
+        "end": 91.778,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "her",
-        "start": 91.67,
-        "end": 91.71,
-        "spoken": true
+        "start": 91.778,
+        "end": 92.056,
+        "singer": "singer1"
       },
       {
         "word": "at",
-        "start": 91.72,
-        "end": 91.82,
-        "spoken": true
+        "start": 92.056,
+        "end": 92.241,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 91.83,
-        "end": 91.93,
-        "spoken": true
+        "start": 92.241,
+        "end": 92.519,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "party",
-        "start": 91.94,
-        "end": 92.04,
-        "spoken": true
+        "start": 92.774,
+        "end": 92.983,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(yeah),",
-        "start": 92.05,
-        "end": 92.15,
+        "start": 92.983,
+        "end": 93.631,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "now",
-        "start": 92.16,
-        "end": 92.26,
-        "spoken": true
+        "start": 93.631,
+        "end": 93.909,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "she",
-        "start": 92.27,
-        "end": 92.37,
-        "spoken": true
+        "start": 93.909,
+        "end": 94.187,
+        "singer": "singer1"
       },
       {
         "word": "all",
-        "start": 92.38,
-        "end": 92.48,
-        "spoken": true
+        "start": 94.354,
+        "end": 94.465,
+        "singer": "singer1"
       },
       {
         "word": "up",
-        "start": 92.49,
-        "end": 92.59,
-        "spoken": true
+        "start": 94.465,
+        "end": 94.65,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "on",
-        "start": 92.783,
-        "end": 93.05,
-        "spoken": true
+        "start": 94.65,
+        "end": 94.836,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "me",
-        "start": 93.06,
-        "end": 93.45,
-        "spoken": true
+        "start": 94.836,
+        "end": 95.021,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(yeah)",
-        "start": 93.46,
-        "end": 93.56,
+        "start": 95.021,
+        "end": 95.577,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 91.5,
-    "end": 93.56
-  },
-  {
-    "text": "Cocaine shawty, wipe your nose, cocaine",
-    "startTime": 93.03,
-    "endTime": 97.04,
-    "words": [
-      {
-        "word": "Cocaine",
-        "start": 93.03,
-        "end": 93.18,
-        "spoken": true
-      },
-      {
-        "word": "shawty,",
-        "start": 93.23,
-        "end": 93.63
-      },
-      {
-        "word": "wipe",
-        "start": 93.99,
-        "end": 94.99,
-        "char_starts": [
-          93.99,
-          94.156,
-          94.452,
-          94.84
-        ],
-        "sung": true,
-        "stretch": true
-      },
-      {
-        "word": "your",
-        "start": 95,
-        "end": 95.43,
-        "spoken": true
-      },
-      {
-        "word": "nose,",
-        "start": 95.79,
-        "end": 96.93,
-        "char_starts": [
-          95.79,
-          95.956,
-          96.198,
-          96.48,
-          96.793
-        ],
-        "sung": true,
-        "stretch": true
-      },
-      {
-        "word": "cocaine",
-        "start": 96.94,
-        "end": 97.04,
-        "spoken": true
-      }
-    ],
-    "time": 93.03,
-    "end": 97.04
-  },
-  {
-    "text": "Cocaine shawty, cry alone, cocaine",
-    "startTime": 94.15,
-    "endTime": 96.82,
-    "words": [
-      {
-        "word": "Cocaine",
-        "start": 94.15,
-        "end": 94.3
-      },
-      {
-        "word": "shawty,",
-        "start": 94.396,
-        "end": 94.63,
-        "spoken": true
-      },
-      {
-        "word": "cry",
-        "start": 94.962,
-        "end": 95.21,
-        "char_starts": [
-          94.962,
-          95.033,
-          95.16
-        ],
-        "spoken": true
-      },
-      {
-        "word": "alone,",
-        "start": 95.57,
-        "end": 96.71,
-        "char_starts": [
-          95.57,
-          95.697,
-          95.881,
-          96.097,
-          96.337,
-          96.597
-        ],
-        "sung": true,
-        "stretch": true
-      },
-      {
-        "word": "cocaine",
-        "start": 96.72,
-        "end": 96.82,
-        "spoken": true
-      }
-    ],
-    "time": 94.15,
-    "end": 96.82
+    "end": 95.577
   },
   {
     "text": "If you lookin' for me (yeah), posted with my .40 (.40)",
@@ -1415,399 +1646,354 @@
         "word": "If",
         "start": 96.03,
         "end": 96.13,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "you",
         "start": 96.14,
-        "end": 96.24
+        "end": 96.24,
+        "singer": "singer1"
       },
       {
         "word": "lookin'",
         "start": 96.25,
         "end": 96.35,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "for",
         "start": 96.36,
         "end": 96.46,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "me",
         "start": 96.47,
         "end": 96.57,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(yeah),",
         "start": 96.58,
         "end": 96.68,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "posted",
         "start": 96.69,
         "end": 96.79,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "with",
         "start": 96.8,
         "end": 96.9,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "my",
         "start": 96.91,
         "end": 97.01,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": ".40",
         "start": 97.08,
         "end": 97.12,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(.40)",
         "start": 97.13,
         "end": 97.23,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 96.03,
     "end": 97.23
   },
   {
-    "text": "shawty, lookin'",
-    "startTime": 96.07,
-    "endTime": 97.93,
+    "text": "Cocaine shawty, cry",
+    "startTime": 97.54,
+    "endTime": 99.997,
     "words": [
       {
-        "word": "shawty,",
-        "start": 96.07,
-        "end": 96.43
+        "word": "Cocaine",
+        "start": 97.54,
+        "end": 98.552,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
-        "word": "lookin'",
-        "start": 96.79,
-        "end": 97.93,
-        "char_starts": [
-          96.79,
-          96.89,
-          97.037,
-          97.209,
-          97.401,
-          97.609,
-          97.831
-        ],
-        "spoken": true
+        "word": "shawty,",
+        "start": 98.715,
+        "end": 99.563,
+        "singer": "singer1"
+      },
+      {
+        "word": "cry",
+        "start": 99.563,
+        "end": 99.997,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 96.07,
-    "end": 97.93
+    "time": 97.54,
+    "end": 99.997
   },
   {
     "text": "Cocaine shawty (yeah), touchin' on your body (shh)",
     "startTime": 100.27,
-    "endTime": 101.14,
+    "endTime": 104.131,
     "words": [
       {
         "word": "Cocaine",
-        "start": 100.33,
-        "end": 100.37,
-        "spoken": true
+        "start": 100.363,
+        "end": 100.899,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "shawty",
-        "start": 100.38,
-        "end": 100.48,
-        "spoken": true
+        "start": 100.899,
+        "end": 101.437,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(yeah),",
-        "start": 100.49,
-        "end": 100.59,
+        "start": 101.437,
+        "end": 102.066,
         "adlib": true,
-        "sung": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "touchin'",
-        "start": 100.6,
-        "end": 100.7,
-        "spoken": true
+        "start": 102.066,
+        "end": 102.784,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "on",
-        "start": 100.71,
-        "end": 100.81,
-        "spoken": true
+        "start": 102.784,
+        "end": 102.964,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "your",
-        "start": 100.82,
-        "end": 100.92,
-        "spoken": true
+        "start": 102.964,
+        "end": 103.323,
+        "sung": true,
+        "singer": "singer2"
       },
       {
         "word": "body",
-        "start": 100.93,
-        "end": 101.03,
-        "spoken": true
+        "start": 103.538,
+        "end": 103.682,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "(shh)",
-        "start": 101.04,
-        "end": 101.14,
+        "start": 103.682,
+        "end": 104.131,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       }
     ],
     "time": 100.27,
-    "end": 101.14
-  },
-  {
-    "text": "shawty, die alone",
-    "startTime": 102.83,
-    "endTime": 103.43,
-    "words": [
-      {
-        "word": "shawty,",
-        "start": 103.058,
-        "end": 103.21,
-        "sung": true
-      },
-      {
-        "word": "die",
-        "start": 103.22,
-        "end": 103.32,
-        "spoken": true
-      },
-      {
-        "word": "alone",
-        "start": 103.33,
-        "end": 103.43,
-        "spoken": true
-      }
-    ],
-    "time": 102.83,
-    "end": 103.43
-  },
-  {
-    "text": "at me naughty (yeah)",
-    "startTime": 103.23,
-    "endTime": 104.06,
-    "words": [
-      {
-        "word": "at",
-        "start": 103.346,
-        "end": 103.55,
-        "spoken": true
-      },
-      {
-        "word": "me",
-        "start": 103.56,
-        "end": 103.71,
-        "spoken": true
-      },
-      {
-        "word": "naughty",
-        "start": 103.76,
-        "end": 103.91,
-        "spoken": true
-      },
-      {
-        "word": "(yeah)",
-        "start": 103.96,
-        "end": 104.06,
-        "adlib": true,
-        "spoken": true
-      }
-    ],
-    "time": 103.23,
-    "end": 104.06
+    "end": 104.131
   },
   {
     "text": "Pull up in a 'Rari (skrrt), tell my ex I'm sorry (sorry)",
     "startTime": 104.56,
-    "endTime": 105.87,
+    "endTime": 108.43,
     "words": [
       {
         "word": "Pull",
-        "start": 104.62,
-        "end": 104.66
+        "start": 104.723,
+        "end": 104.904,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "up",
-        "start": 104.67,
-        "end": 104.77
+        "start": 104.904,
+        "end": 105.076,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "in",
-        "start": 104.78,
-        "end": 104.88,
-        "spoken": true
+        "start": 105.076,
+        "end": 105.248,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "a",
-        "start": 104.89,
-        "end": 104.99,
-        "spoken": true
+        "start": 105.248,
+        "end": 105.334,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "'Rari",
-        "start": 105,
-        "end": 105.1,
-        "spoken": true
+        "start": 105.334,
+        "end": 105.764,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(skrrt),",
-        "start": 105.11,
-        "end": 105.21,
+        "start": 105.764,
+        "end": 106.452,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "tell",
-        "start": 105.22,
-        "end": 105.32,
-        "spoken": true
+        "start": 106.452,
+        "end": 106.796,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "my",
-        "start": 105.33,
-        "end": 105.43,
-        "spoken": true
+        "start": 106.796,
+        "end": 106.968,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "ex",
-        "start": 105.44,
-        "end": 105.54,
-        "spoken": true
+        "start": 106.968,
+        "end": 107.14,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "I'm",
-        "start": 105.55,
-        "end": 105.65,
-        "spoken": true
+        "start": 107.14,
+        "end": 107.398,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "sorry",
-        "start": 105.66,
-        "end": 105.76,
-        "spoken": true
+        "start": 107.398,
+        "end": 107.828,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(sorry)",
-        "start": 105.77,
-        "end": 105.87,
+        "start": 107.828,
+        "end": 108.43,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 104.56,
-    "end": 105.87
-  },
-  {
-    "text": "shawty, yeah, yeah",
-    "startTime": 107.57,
-    "endTime": 108.13,
-    "words": [
-      {
-        "word": "shawty,",
-        "start": 107.57,
-        "end": 107.91,
-        "spoken": true
-      },
-      {
-        "word": "yeah,",
-        "start": 107.92,
-        "end": 108.02,
-        "spoken": true
-      },
-      {
-        "word": "yeah",
-        "start": 108.03,
-        "end": 108.13,
-        "spoken": true
-      }
-    ],
-    "time": 107.57,
-    "end": 108.13
+    "end": 108.43
   },
   {
     "text": "She cannot afford me (nah), shoutout to my mommy (mom)",
     "startTime": 108.86,
-    "endTime": 109.95,
+    "endTime": 112.775,
     "words": [
       {
         "word": "She",
         "start": 108.86,
-        "end": 108.96,
-        "spoken": true
+        "end": 109.121,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "cannot",
-        "start": 108.97,
-        "end": 109.07,
-        "spoken": true
+        "start": 109.121,
+        "end": 109.643,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "afford",
-        "start": 109.08,
-        "end": 109.18
+        "start": 109.643,
+        "end": 110.165,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "me",
-        "start": 109.19,
-        "end": 109.29,
-        "spoken": true
+        "start": 110.165,
+        "end": 110.339,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(nah),",
-        "start": 109.3,
-        "end": 109.4,
+        "start": 110.339,
+        "end": 110.861,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "shoutout",
-        "start": 109.41,
-        "end": 109.51,
-        "spoken": true
+        "start": 110.861,
+        "end": 111.557,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "to",
-        "start": 109.52,
-        "end": 109.62,
-        "spoken": true
+        "start": 111.557,
+        "end": 111.731,
+        "singer": "singer1"
       },
       {
         "word": "my",
-        "start": 109.63,
-        "end": 109.73,
-        "spoken": true
+        "start": 111.731,
+        "end": 111.905,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "mommy",
-        "start": 109.74,
-        "end": 109.84,
-        "spoken": true
+        "start": 111.905,
+        "end": 112.34,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(mom)",
-        "start": 109.85,
-        "end": 109.95,
+        "start": 112.34,
+        "end": 112.775,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 108.86,
-    "end": 109.95
+    "end": 112.775
   },
   {
     "text": "Pull up with the Tommy (Tom'), my bitch in Abercrombie ('cromb)",
@@ -1817,367 +2003,480 @@
       {
         "word": "Pull",
         "start": 113.21,
-        "end": 113.31
+        "end": 113.31,
+        "singer": "singer1"
       },
       {
         "word": "up",
         "start": 113.38,
-        "end": 113.42
+        "end": 113.42,
+        "singer": "singer1"
       },
       {
         "word": "with",
         "start": 113.43,
         "end": 113.53,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "the",
         "start": 113.54,
-        "end": 113.64
+        "end": 113.64,
+        "singer": "singer1"
       },
       {
         "word": "Tommy",
         "start": 113.65,
         "end": 113.75,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(Tom'),",
         "start": 113.76,
         "end": 113.86,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "my",
         "start": 113.87,
         "end": 113.97,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "bitch",
         "start": 113.98,
         "end": 114.08,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "in",
         "start": 114.09,
         "end": 114.19,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "Abercrombie",
         "start": 114.2,
         "end": 114.3,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "('cromb)",
         "start": 114.31,
         "end": 114.41,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 113.21,
     "end": 114.41
   },
   {
+    "text": "alone, cocaine shawty, cry",
+    "startTime": 113.82,
+    "endTime": 117.62,
+    "words": [
+      {
+        "word": "alone,",
+        "start": 113.82,
+        "end": 114.14,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "cocaine",
+        "start": 114.15,
+        "end": 115.64,
+        "char_starts": [
+          114.15,
+          114.278,
+          114.406,
+          114.584,
+          114.833,
+          115.144,
+          115.513
+        ],
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "shawty,",
+        "start": 116.0,
+        "end": 117.14,
+        "char_starts": [
+          116.0,
+          116.1,
+          116.247,
+          116.42,
+          116.612,
+          116.82,
+          117.041
+        ],
+        "singer": "singer1"
+      },
+      {
+        "word": "cry",
+        "start": 117.432,
+        "end": 117.62,
+        "char_starts": [
+          117.432,
+          117.486,
+          117.583
+        ],
+        "singer": "singer1"
+      }
+    ],
+    "time": 113.82,
+    "end": 117.62
+  },
+  {
     "text": "Leanin' out the bottle (lean), I feel like a zombie (damn)",
     "startTime": 117.64,
-    "endTime": 118.84,
+    "endTime": 121.492,
     "words": [
       {
         "word": "Leanin'",
-        "start": 117.64,
-        "end": 117.74,
-        "spoken": true
+        "start": 117.779,
+        "end": 118.202,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "out",
-        "start": 117.81,
-        "end": 117.85
+        "start": 118.202,
+        "end": 118.443,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 117.86,
-        "end": 117.96,
-        "spoken": true
+        "start": 118.443,
+        "end": 118.683,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "bottle",
-        "start": 117.97,
-        "end": 118.07,
-        "spoken": true
+        "start": 118.683,
+        "end": 119.165,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(lean),",
-        "start": 118.08,
-        "end": 118.18,
+        "start": 119.165,
+        "end": 119.727,
         "adlib": true,
-        "spoken": true
+        "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 118.19,
-        "end": 118.29,
-        "spoken": true
+        "start": 119.727,
+        "end": 119.807,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "feel",
-        "start": 118.3,
-        "end": 118.4,
-        "spoken": true
+        "start": 119.97,
+        "end": 120.128,
+        "sung": true,
+        "singer": "singer2"
       },
       {
         "word": "like",
-        "start": 118.41,
-        "end": 118.51,
-        "spoken": true
+        "start": 120.267,
+        "end": 120.449,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "a",
-        "start": 118.52,
-        "end": 118.62,
-        "spoken": true
+        "start": 120.449,
+        "end": 120.529,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "zombie",
-        "start": 118.63,
-        "end": 118.73,
-        "spoken": true
+        "start": 120.529,
+        "end": 121.011,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "(damn)",
-        "start": 118.74,
-        "end": 118.84,
+        "start": 121.011,
+        "end": 121.492,
         "adlib": true,
-        "spoken": true
+        "sung": true,
+        "singer": "singer2"
       }
     ],
     "time": 117.64,
-    "end": 118.84
+    "end": 121.492
   },
   {
     "text": "Cocaine shawty (sha'), lookin' at me naughty (nau')",
     "startTime": 121.92,
-    "endTime": 122.79,
+    "endTime": 125.925,
     "words": [
       {
         "word": "Cocaine",
-        "start": 121.92,
-        "end": 122.02
+        "start": 122.129,
+        "end": 122.557,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "shawty",
-        "start": 122.09,
-        "end": 122.13
+        "start": 122.557,
+        "end": 123.103,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(sha'),",
-        "start": 122.14,
-        "end": 122.24,
-        "adlib": true
+        "start": 123.266,
+        "end": 123.74,
+        "adlib": true,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "lookin'",
-        "start": 122.25,
-        "end": 122.35,
-        "spoken": true
+        "start": 123.74,
+        "end": 124.378,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "at",
-        "start": 122.36,
-        "end": 122.46,
-        "spoken": true
+        "start": 124.378,
+        "end": 124.56,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "me",
-        "start": 122.47,
-        "end": 122.57,
-        "spoken": true
+        "start": 124.56,
+        "end": 124.742,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "naughty",
-        "start": 122.58,
-        "end": 122.68,
-        "spoken": true
+        "start": 124.858,
+        "end": 125.379,
+        "singer": "singer1"
       },
       {
         "word": "(nau')",
-        "start": 122.69,
-        "end": 122.79,
+        "start": 125.425,
+        "end": 125.925,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 121.92,
-    "end": 122.79
+    "end": 125.925
   },
   {
     "text": "Met her at the party (par'), now she all up on me (Yeah)",
     "startTime": 126.37,
-    "endTime": 127.79,
+    "endTime": 130.276,
     "words": [
       {
         "word": "Met",
-        "start": 126.43,
-        "end": 126.47
+        "start": 126.509,
+        "end": 126.636,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "her",
-        "start": 126.48,
-        "end": 126.58,
-        "spoken": true
+        "start": 126.636,
+        "end": 126.903,
+        "singer": "singer1"
       },
       {
         "word": "at",
-        "start": 126.59,
-        "end": 126.69
+        "start": 126.903,
+        "end": 127.08,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 126.7,
-        "end": 126.8,
-        "spoken": true
+        "start": 127.08,
+        "end": 127.346,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "party",
-        "start": 126.81,
-        "end": 126.91,
-        "spoken": true
+        "start": 127.578,
+        "end": 127.79,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(par'),",
-        "start": 126.92,
-        "end": 127.02,
+        "start": 127.79,
+        "end": 128.412,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "now",
-        "start": 127.03,
-        "end": 127.13,
-        "spoken": true
+        "start": 128.412,
+        "end": 128.678,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "she",
-        "start": 127.14,
-        "end": 127.24,
-        "spoken": true
+        "start": 128.678,
+        "end": 128.944,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "all",
-        "start": 127.25,
-        "end": 127.35,
-        "spoken": true
+        "start": 129.104,
+        "end": 129.211,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "up",
-        "start": 127.36,
-        "end": 127.46,
-        "spoken": true
+        "start": 129.257,
+        "end": 129.388,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "on",
-        "start": 127.53,
-        "end": 127.57,
-        "spoken": true
+        "start": 129.388,
+        "end": 129.566,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "me",
-        "start": 127.58,
-        "end": 127.68,
-        "spoken": true
+        "start": 129.566,
+        "end": 129.743,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(Yeah)",
-        "start": 127.69,
-        "end": 127.79,
+        "start": 129.743,
+        "end": 130.276,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 126.37,
-    "end": 127.79
+    "end": 130.276
   },
   {
     "text": "If you lookin' for me (for), posted with my .40 (.40)",
     "startTime": 130.71,
-    "endTime": 131.91,
+    "endTime": 134.616,
     "words": [
       {
         "word": "If",
-        "start": 130.71,
-        "end": 130.81,
-        "spoken": true
+        "start": 130.819,
+        "end": 130.892,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "you",
-        "start": 130.88,
-        "end": 130.92,
-        "sung": true
+        "start": 130.892,
+        "end": 131.164,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "lookin'",
-        "start": 130.93,
-        "end": 131.03,
-        "spoken": true
+        "start": 131.164,
+        "end": 131.8,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "for",
-        "start": 131.04,
-        "end": 131.14,
-        "spoken": true
+        "start": 131.963,
+        "end": 132.073,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "me",
-        "start": 131.15,
-        "end": 131.25,
-        "spoken": true
+        "start": 132.073,
+        "end": 132.254,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(for),",
-        "start": 131.26,
-        "end": 131.36,
+        "start": 132.254,
+        "end": 132.799,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "posted",
-        "start": 131.37,
-        "end": 131.47,
-        "spoken": true
+        "start": 132.799,
+        "end": 133.344,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "with",
-        "start": 131.48,
-        "end": 131.58,
-        "spoken": true
+        "start": 133.562,
+        "end": 133.708,
+        "singer": "singer1"
       },
       {
         "word": "my",
-        "start": 131.59,
-        "end": 131.69,
-        "spoken": true
+        "start": 133.708,
+        "end": 133.889,
+        "singer": "singer1"
       },
       {
         "word": ".40",
-        "start": 131.7,
-        "end": 131.8,
-        "spoken": true
+        "start": 134.053,
+        "end": 134.162,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(.40)",
-        "start": 131.81,
-        "end": 131.91,
+        "start": 134.162,
+        "end": 134.616,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 130.71,
-    "end": 131.91
+    "end": 134.616
   },
   {
     "text": "Cocaine shawty (shawty), touchin' on your body (shh)",
@@ -2188,966 +2487,1129 @@
         "word": "Cocaine",
         "start": 135.05,
         "end": 135.15,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "shawty",
         "start": 135.22,
-        "end": 135.26
+        "end": 135.26,
+        "singer": "singer1"
       },
       {
         "word": "(shawty),",
         "start": 135.27,
         "end": 135.37,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "touchin'",
         "start": 135.38,
         "end": 135.48,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "on",
         "start": 135.49,
         "end": 135.59,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "your",
         "start": 135.6,
         "end": 135.7,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "body",
         "start": 135.71,
         "end": 135.81,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(shh)",
         "start": 135.82,
         "end": 135.92,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 135.05,
     "end": 135.92
   },
   {
+    "text": "alone",
+    "startTime": 136.22,
+    "endTime": 137.02,
+    "words": [
+      {
+        "word": "alone",
+        "start": 136.29,
+        "end": 137.02,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 136.22,
+    "end": 137.02
+  },
+  {
     "text": "Pull up in a 'Rari (yeah), tell my ex I'm sorry (yeah)",
     "startTime": 139.48,
-    "endTime": 140.79,
+    "endTime": 143.314,
     "words": [
       {
         "word": "Pull",
-        "start": 139.54,
-        "end": 139.58
+        "start": 139.55,
+        "end": 139.837,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "up",
-        "start": 139.59,
-        "end": 139.69,
-        "spoken": true
+        "start": 139.837,
+        "end": 140.015,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "in",
-        "start": 139.7,
-        "end": 139.8
+        "start": 140.015,
+        "end": 140.193,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "a",
-        "start": 139.81,
-        "end": 139.91,
-        "spoken": true
+        "start": 140.193,
+        "end": 140.282,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "'Rari",
-        "start": 139.92,
-        "end": 140.02,
-        "spoken": true
+        "start": 140.55,
+        "end": 140.728,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(yeah),",
-        "start": 140.03,
-        "end": 140.13,
+        "start": 140.728,
+        "end": 141.352,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "tell",
-        "start": 140.14,
-        "end": 140.24,
-        "spoken": true
+        "start": 141.352,
+        "end": 141.709,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "my",
-        "start": 140.25,
-        "end": 140.35,
-        "spoken": true
+        "start": 141.709,
+        "end": 141.887,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "ex",
-        "start": 140.36,
-        "end": 140.46,
-        "spoken": true
+        "start": 141.887,
+        "end": 142.066,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "I'm",
-        "start": 140.47,
-        "end": 140.57,
-        "spoken": true
+        "start": 142.226,
+        "end": 142.333,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "sorry",
-        "start": 140.64,
-        "end": 140.68,
-        "spoken": true
+        "start": 142.333,
+        "end": 142.779,
+        "singer": "singer1"
       },
       {
         "word": "(yeah)",
-        "start": 140.69,
-        "end": 140.79,
+        "start": 142.825,
+        "end": 143.314,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 139.48,
-    "end": 140.79
+    "end": 143.314
   },
   {
     "text": "She cannot afford me (nah), shoutout to my mommy (mom)",
     "startTime": 143.74,
-    "endTime": 144.83,
+    "endTime": 147.655,
     "words": [
       {
         "word": "She",
-        "start": 143.74,
-        "end": 143.84
+        "start": 143.897,
+        "end": 144.001,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "cannot",
-        "start": 143.91,
-        "end": 143.95,
-        "spoken": true
+        "start": 144.001,
+        "end": 144.523,
+        "singer": "singer1"
       },
       {
         "word": "afford",
-        "start": 143.96,
-        "end": 144.06,
-        "spoken": true
+        "start": 144.836,
+        "end": 145.045,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "me",
-        "start": 144.07,
-        "end": 144.17,
-        "spoken": true
+        "start": 145.045,
+        "end": 145.219,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(nah),",
-        "start": 144.18,
-        "end": 144.28,
+        "start": 145.219,
+        "end": 145.741,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "shoutout",
-        "start": 144.29,
-        "end": 144.39,
-        "spoken": true
+        "start": 145.741,
+        "end": 146.437,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "to",
-        "start": 144.4,
-        "end": 144.5,
-        "spoken": true
+        "start": 146.437,
+        "end": 146.611,
+        "singer": "singer2"
       },
       {
         "word": "my",
-        "start": 144.51,
-        "end": 144.61,
-        "spoken": true
+        "start": 146.611,
+        "end": 146.785,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "mommy",
-        "start": 144.62,
-        "end": 144.72,
-        "spoken": true
+        "start": 146.948,
+        "end": 147.22,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "(mom)",
-        "start": 144.73,
-        "end": 144.83,
+        "start": 147.22,
+        "end": 147.655,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       }
     ],
     "time": 143.74,
-    "end": 144.83
+    "end": 147.655
   },
   {
     "text": "Pull up with the Tommy (Tom'), my bitch in Abercrombie ('cromb)",
     "startTime": 148.09,
-    "endTime": 149.29,
+    "endTime": 152.104,
     "words": [
       {
         "word": "Pull",
-        "start": 148.09,
-        "end": 148.19
+        "start": 148.272,
+        "end": 148.393,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "up",
-        "start": 148.26,
-        "end": 148.3
+        "start": 148.393,
+        "end": 148.544,
+        "singer": "singer1"
       },
       {
         "word": "with",
-        "start": 148.31,
-        "end": 148.41,
-        "spoken": true
+        "start": 148.544,
+        "end": 148.847,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 148.42,
-        "end": 148.52,
-        "spoken": true
+        "start": 148.847,
+        "end": 149.075,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "Tommy",
-        "start": 148.53,
-        "end": 148.63,
-        "spoken": true
+        "start": 149.302,
+        "end": 149.453,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "(Tom'),",
-        "start": 148.64,
-        "end": 148.74,
+        "start": 149.453,
+        "end": 149.983,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "my",
-        "start": 148.75,
-        "end": 148.85,
-        "spoken": true
+        "start": 149.983,
+        "end": 150.135,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "bitch",
-        "start": 148.86,
-        "end": 148.96,
-        "spoken": true
+        "start": 150.228,
+        "end": 150.514,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "in",
-        "start": 148.97,
-        "end": 149.07,
-        "spoken": true
+        "start": 150.514,
+        "end": 150.665,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "Abercrombie",
-        "start": 149.08,
-        "end": 149.18,
-        "spoken": true
+        "start": 150.99,
+        "end": 151.498,
+        "singer": "singer1"
       },
       {
         "word": "('cromb)",
-        "start": 149.19,
-        "end": 149.29,
+        "start": 151.568,
+        "end": 152.104,
         "adlib": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 148.09,
-    "end": 149.29
+    "end": 152.104
   },
   {
     "text": "Leanin' out the bottle (damn), I feel like a zombie",
     "startTime": 152.55,
-    "endTime": 153.64,
+    "endTime": 158.049,
     "words": [
       {
         "word": "Leanin'",
-        "start": 152.61,
-        "end": 152.65,
-        "spoken": true
+        "start": 152.62,
+        "end": 153.466,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "out",
-        "start": 152.66,
-        "end": 152.76,
-        "spoken": true
+        "start": 153.702,
+        "end": 153.859,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 152.77,
-        "end": 152.87,
-        "spoken": true
+        "start": 153.859,
+        "end": 154.252,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "bottle",
-        "start": 152.88,
-        "end": 152.98,
-        "spoken": true
+        "start": 154.252,
+        "end": 155.038,
+        "singer": "singer1"
       },
       {
         "word": "(damn),",
-        "start": 152.99,
-        "end": 153.09,
+        "start": 155.386,
+        "end": 155.954,
         "adlib": true,
-        "spoken": true
+        "singer": "singer2"
       },
       {
         "word": "I",
-        "start": 153.1,
-        "end": 153.2,
-        "spoken": true
+        "start": 155.954,
+        "end": 156.085,
+        "singer": "singer2"
       },
       {
         "word": "feel",
-        "start": 153.21,
-        "end": 153.31,
-        "spoken": true
+        "start": 156.085,
+        "end": 156.609,
+        "singer": "singer2"
       },
       {
         "word": "like",
-        "start": 153.32,
-        "end": 153.42,
-        "spoken": true
+        "start": 156.923,
+        "end": 157.132,
+        "singer": "singer1"
       },
       {
         "word": "a",
-        "start": 153.43,
-        "end": 153.53,
-        "spoken": true
+        "start": 157.132,
+        "end": 157.263,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "zombie",
-        "start": 153.54,
-        "end": 153.64,
-        "spoken": true
+        "start": 157.263,
+        "end": 158.049,
+        "singer": "singer1"
       }
     ],
     "time": 152.55,
-    "end": 153.64
+    "end": 158.049
   },
   {
     "text": "Bentley dranks, quarter pound, I need it for the weekend, yeah",
     "startTime": 158.66,
-    "endTime": 159.86,
+    "endTime": 161.079,
     "words": [
       {
         "word": "Bentley",
         "start": 158.66,
-        "end": 158.76,
-        "spoken": true
+        "end": 158.981,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "dranks,",
-        "start": 158.77,
-        "end": 158.87,
-        "spoken": true
+        "start": 158.981,
+        "end": 159.302,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "quarter",
-        "start": 158.88,
-        "end": 158.98,
-        "spoken": true
+        "start": 159.302,
+        "end": 159.623,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "pound,",
-        "start": 158.99,
-        "end": 159.09,
-        "spoken": true
+        "start": 159.739,
+        "end": 159.898,
+        "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 159.1,
-        "end": 159.2,
-        "spoken": true
+        "start": 159.898,
+        "end": 159.978,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "need",
-        "start": 159.21,
-        "end": 159.31,
-        "spoken": true
+        "start": 159.978,
+        "end": 160.162,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "it",
-        "start": 159.32,
-        "end": 159.42,
-        "spoken": true
+        "start": 160.162,
+        "end": 160.254,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "for",
-        "start": 159.43,
-        "end": 159.53,
-        "spoken": true
+        "start": 160.254,
+        "end": 160.391,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 159.54,
-        "end": 159.64,
-        "spoken": true
+        "start": 160.391,
+        "end": 160.529,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "weekend,",
-        "start": 159.71,
-        "end": 159.75
+        "start": 160.529,
+        "end": 160.896,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "yeah",
-        "start": 159.76,
-        "end": 159.86,
-        "spoken": true
+        "start": 160.896,
+        "end": 161.079,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 158.66,
-    "end": 159.86
+    "end": 161.079
   },
   {
     "text": "Live my life alone, that's why I only pull one-seater, ayy",
     "startTime": 161.31,
-    "endTime": 162.51,
+    "endTime": 165.243,
     "words": [
       {
         "word": "Live",
-        "start": 161.31,
-        "end": 161.41,
-        "spoken": true
+        "start": 161.356,
+        "end": 161.638,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "my",
-        "start": 161.42,
-        "end": 161.52,
-        "sung": true
+        "start": 161.638,
+        "end": 161.802,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "life",
-        "start": 161.53,
-        "end": 161.63,
-        "spoken": true
+        "start": 161.802,
+        "end": 162.129,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "alone,",
-        "start": 161.64,
-        "end": 161.74,
-        "spoken": true
+        "start": 162.129,
+        "end": 162.621,
+        "singer": "singer1"
       },
       {
         "word": "that's",
-        "start": 161.75,
-        "end": 161.85,
-        "spoken": true
+        "start": 162.621,
+        "end": 163.113,
+        "singer": "singer1"
       },
       {
         "word": "why",
-        "start": 161.86,
-        "end": 161.96,
-        "spoken": true
+        "start": 163.113,
+        "end": 163.358,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 161.97,
-        "end": 162.07,
-        "spoken": true
+        "start": 163.358,
+        "end": 163.44,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "only",
-        "start": 162.08,
-        "end": 162.18,
-        "spoken": true
+        "start": 163.637,
+        "end": 163.768,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "pull",
-        "start": 162.19,
-        "end": 162.29
+        "start": 163.965,
+        "end": 164.096,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "one-seater,",
-        "start": 162.3,
-        "end": 162.4,
-        "spoken": true
+        "start": 164.096,
+        "end": 164.997,
+        "singer": "singer1"
       },
       {
         "word": "ayy",
-        "start": 162.41,
-        "end": 162.51,
-        "spoken": true
+        "start": 165.145,
+        "end": 165.243,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 161.31,
-    "end": 162.51
+    "end": 165.243
   },
   {
     "text": "Try to make me settle, boy, I call her on the weekend, yah",
     "startTime": 165.68,
-    "endTime": 167.1,
+    "endTime": 169.541,
     "words": [
       {
         "word": "Try",
         "start": 165.68,
-        "end": 165.78
+        "end": 165.932,
+        "singer": "singer1"
       },
       {
         "word": "to",
-        "start": 165.79,
-        "end": 165.89
+        "start": 165.932,
+        "end": 166.1,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "make",
-        "start": 165.9,
-        "end": 166
+        "start": 166.301,
+        "end": 166.435,
+        "singer": "singer1"
       },
       {
         "word": "me",
-        "start": 166.01,
-        "end": 166.11,
-        "spoken": true
+        "start": 166.435,
+        "end": 166.603,
+        "singer": "singer1"
       },
       {
         "word": "settle,",
-        "start": 166.12,
-        "end": 166.22,
-        "spoken": true
+        "start": 166.835,
+        "end": 167.191,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "boy,",
-        "start": 166.29,
-        "end": 166.33
+        "start": 167.377,
+        "end": 167.527,
+        "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 166.34,
-        "end": 166.44,
-        "spoken": true
+        "start": 167.527,
+        "end": 167.61,
+        "singer": "singer1"
       },
       {
         "word": "call",
-        "start": 166.45,
-        "end": 166.55
+        "start": 167.61,
+        "end": 167.946,
+        "singer": "singer1"
       },
       {
         "word": "her",
-        "start": 166.56,
-        "end": 166.66,
-        "spoken": true
+        "start": 167.946,
+        "end": 168.198,
+        "singer": "singer1"
       },
       {
         "word": "on",
-        "start": 166.73,
-        "end": 166.77,
-        "spoken": true
+        "start": 168.198,
+        "end": 168.366,
+        "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 166.78,
-        "end": 166.88,
-        "spoken": true
+        "start": 168.459,
+        "end": 168.618,
+        "singer": "singer1"
       },
       {
         "word": "weekend,",
-        "start": 166.89,
-        "end": 166.99
+        "start": 168.943,
+        "end": 169.289,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "yah",
-        "start": 167,
-        "end": 167.1
+        "start": 169.289,
+        "end": 169.541,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 165.68,
-    "end": 167.1
+    "end": 169.541
   },
   {
     "text": "Danger when I want to, boy, you know it's Puerto Rican, ayy",
     "startTime": 169.97,
-    "endTime": 171.28,
+    "endTime": 173.948,
     "words": [
       {
         "word": "Danger",
-        "start": 170.03,
-        "end": 170.07
+        "start": 170.063,
+        "end": 170.467,
+        "singer": "singer1"
       },
       {
         "word": "when",
-        "start": 170.08,
-        "end": 170.18,
-        "spoken": true
+        "start": 170.467,
+        "end": 170.799,
+        "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 170.19,
-        "end": 170.29
+        "start": 170.799,
+        "end": 170.882,
+        "singer": "singer1"
       },
       {
         "word": "want",
-        "start": 170.3,
-        "end": 170.4
+        "start": 171.081,
+        "end": 171.213,
+        "singer": "singer1"
       },
       {
         "word": "to,",
-        "start": 170.41,
-        "end": 170.51
+        "start": 171.213,
+        "end": 171.462,
+        "singer": "singer1"
       },
       {
         "word": "boy,",
-        "start": 170.52,
-        "end": 170.62
+        "start": 171.661,
+        "end": 171.793,
+        "singer": "singer1"
       },
       {
         "word": "you",
-        "start": 170.63,
-        "end": 170.73
+        "start": 171.793,
+        "end": 172.042,
+        "singer": "singer1"
       },
       {
         "word": "know",
-        "start": 170.74,
-        "end": 170.84
+        "start": 172.042,
+        "end": 172.373,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "it's",
-        "start": 170.85,
-        "end": 170.95
+        "start": 172.373,
+        "end": 172.705,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "Puerto",
-        "start": 170.96,
-        "end": 171.06
+        "start": 173.003,
+        "end": 173.202,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "Rican,",
-        "start": 171.13,
-        "end": 171.17
+        "start": 173.365,
+        "end": 173.699,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "ayy",
-        "start": 171.18,
-        "end": 171.28
+        "start": 173.699,
+        "end": 173.948,
+        "singer": "singer1"
       }
     ],
     "time": 169.97,
-    "end": 171.28
+    "end": 173.948
   },
   {
     "text": "Rifle on my Louboutins, what she call my shooter song",
     "startTime": 174.39,
-    "endTime": 175.48,
+    "endTime": 178.728,
     "words": [
       {
         "word": "Rifle",
         "start": 174.39,
-        "end": 174.49
+        "end": 174.883,
+        "singer": "singer1"
       },
       {
         "word": "on",
-        "start": 174.5,
-        "end": 174.6
+        "start": 175.001,
+        "end": 175.08,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "my",
-        "start": 174.61,
-        "end": 174.71,
-        "spoken": true
+        "start": 175.08,
+        "end": 175.277,
+        "singer": "singer1"
       },
       {
         "word": "Louboutins,",
-        "start": 174.72,
-        "end": 174.82
+        "start": 175.277,
+        "end": 176.362,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "what",
-        "start": 174.83,
-        "end": 174.93,
-        "spoken": true
+        "start": 176.362,
+        "end": 176.756,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "she",
-        "start": 175,
-        "end": 175.04,
-        "spoken": true
+        "start": 176.756,
+        "end": 177.052,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "call",
-        "start": 175.05,
-        "end": 175.15
+        "start": 177.145,
+        "end": 177.446,
+        "singer": "singer1"
       },
       {
         "word": "my",
-        "start": 175.16,
-        "end": 175.26,
-        "spoken": true
+        "start": 177.446,
+        "end": 177.644,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "shooter",
-        "start": 175.27,
-        "end": 175.37,
-        "spoken": true
+        "start": 177.69,
+        "end": 178.334,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "song",
-        "start": 175.38,
-        "end": 175.48,
-        "spoken": true
+        "start": 178.334,
+        "end": 178.728,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 174.39,
-    "end": 175.48
+    "end": 178.728
   },
   {
     "text": "Xannie, ain't no foolin', boy, damn, foreign shootin' star",
     "startTime": 179.21,
-    "endTime": 180.19,
+    "endTime": 182.621,
     "words": [
       {
         "word": "Xannie,",
         "start": 179.21,
-        "end": 179.31,
-        "spoken": true
+        "end": 179.688,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "ain't",
-        "start": 179.32,
-        "end": 179.42,
-        "spoken": true
+        "start": 179.893,
+        "end": 180.029,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "no",
-        "start": 179.43,
-        "end": 179.53,
-        "spoken": true
+        "start": 180.029,
+        "end": 180.165,
+        "singer": "singer1"
       },
       {
         "word": "foolin',",
-        "start": 179.54,
-        "end": 179.64,
-        "spoken": true
+        "start": 180.444,
+        "end": 180.711,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "boy,",
-        "start": 179.65,
-        "end": 179.75,
-        "spoken": true
+        "start": 180.711,
+        "end": 180.984,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "damn,",
-        "start": 179.82,
-        "end": 179.86,
-        "spoken": true
+        "start": 180.984,
+        "end": 181.325,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "foreign",
-        "start": 179.87,
-        "end": 179.97,
-        "spoken": true
+        "start": 181.488,
+        "end": 181.802,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "shootin'",
-        "start": 179.98,
-        "end": 180.08,
-        "spoken": true
+        "start": 181.802,
+        "end": 182.348,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "star",
-        "start": 180.09,
-        "end": 180.19
+        "start": 182.348,
+        "end": 182.621,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 179.21,
-    "end": 180.19
+    "end": 182.621
   },
   {
     "text": "Live and love, I die alone, pretty bitches in my phone",
-    "startTime": 183,
-    "endTime": 184.2,
+    "startTime": 183.0,
+    "endTime": 186.798,
     "words": [
       {
         "word": "Live",
-        "start": 183.06,
-        "end": 183.1
+        "start": 183.116,
+        "end": 183.345,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "and",
-        "start": 183.11,
-        "end": 183.21
+        "start": 183.345,
+        "end": 183.604,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "love,",
-        "start": 183.22,
-        "end": 183.32
+        "start": 183.604,
+        "end": 184.036,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "I",
-        "start": 183.33,
-        "end": 183.43,
-        "spoken": true
+        "start": 184.036,
+        "end": 184.122,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "die",
-        "start": 183.44,
-        "end": 183.54,
-        "spoken": true
+        "start": 184.122,
+        "end": 184.381,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "alone,",
-        "start": 183.55,
-        "end": 183.65,
-        "spoken": true
+        "start": 184.427,
+        "end": 184.899,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "pretty",
-        "start": 183.66,
-        "end": 183.76,
-        "spoken": true
+        "start": 184.899,
+        "end": 185.417,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "bitches",
-        "start": 183.77,
-        "end": 183.87,
-        "spoken": true
+        "start": 185.767,
+        "end": 186.021,
+        "singer": "singer1"
       },
       {
         "word": "in",
-        "start": 183.88,
-        "end": 183.98,
-        "spoken": true
+        "start": 186.021,
+        "end": 186.194,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "my",
-        "start": 183.99,
-        "end": 184.09,
-        "spoken": true
+        "start": 186.194,
+        "end": 186.366,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "phone",
-        "start": 184.1,
-        "end": 184.2,
-        "spoken": true
+        "start": 186.366,
+        "end": 186.798,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 183,
-    "end": 184.2
+    "time": 183.0,
+    "end": 186.798
   },
   {
     "text": "Skinny bitches in my home, cocaine shawty, give me dome",
     "startTime": 187.22,
-    "endTime": 188.31,
+    "endTime": 191.333,
     "words": [
       {
         "word": "Skinny",
         "start": 187.22,
-        "end": 187.32,
-        "spoken": true
+        "end": 187.756,
+        "sung": true,
+        "singer": "singer1"
       },
       {
         "word": "bitches",
-        "start": 187.33,
-        "end": 187.43,
-        "spoken": true
+        "start": 188.104,
+        "end": 188.382,
+        "singer": "singer1"
       },
       {
         "word": "in",
-        "start": 187.5,
-        "end": 187.54
+        "start": 188.489,
+        "end": 188.561,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "my",
-        "start": 187.55,
-        "end": 187.65,
-        "spoken": true
+        "start": 188.561,
+        "end": 188.74,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "home,",
-        "start": 187.66,
-        "end": 187.76
+        "start": 188.833,
+        "end": 189.187,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "cocaine",
-        "start": 187.77,
-        "end": 187.87,
-        "spoken": true
+        "start": 189.187,
+        "end": 189.813,
+        "singer": "singer1"
       },
       {
         "word": "shawty,",
-        "start": 187.88,
-        "end": 187.98,
-        "spoken": true
+        "start": 190.163,
+        "end": 190.439,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "give",
-        "start": 187.99,
-        "end": 188.09
+        "start": 190.654,
+        "end": 190.797,
+        "singer": "singer2"
       },
       {
         "word": "me",
-        "start": 188.1,
-        "end": 188.2
+        "start": 190.797,
+        "end": 190.975,
+        "singer": "singer1"
       },
       {
         "word": "dome",
-        "start": 188.21,
-        "end": 188.31,
-        "spoken": true
+        "start": 191.114,
+        "end": 191.333,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
     "time": 187.22,
-    "end": 188.31
+    "end": 191.333
   },
   {
     "text": "Cocaine shawty, wipe your nose, cocaine shawty, die alone",
     "startTime": 191.79,
-    "endTime": 192.77,
+    "endTime": 195.633,
     "words": [
       {
         "word": "Cocaine",
-        "start": 191.79,
-        "end": 191.89
+        "start": 191.906,
+        "end": 192.339,
+        "singer": "singer1"
       },
       {
         "word": "shawty,",
-        "start": 191.9,
-        "end": 192
+        "start": 192.478,
+        "end": 192.888,
+        "singer": "singer1"
       },
       {
         "word": "wipe",
-        "start": 192.01,
-        "end": 192.11
+        "start": 192.981,
+        "end": 193.202,
+        "singer": "singer1"
       },
       {
         "word": "your",
-        "start": 192.12,
-        "end": 192.22
+        "start": 193.202,
+        "end": 193.515,
+        "singer": "singer2"
       },
       {
         "word": "nose,",
-        "start": 192.23,
-        "end": 192.33
+        "start": 193.561,
+        "end": 193.908,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "cocaine",
-        "start": 192.34,
-        "end": 192.44
+        "start": 194.233,
+        "end": 194.457,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "shawty,",
-        "start": 192.45,
-        "end": 192.55
+        "start": 194.503,
+        "end": 195.006,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "die",
-        "start": 192.56,
-        "end": 192.66
+        "start": 195.147,
+        "end": 195.241,
+        "singer": "singer2"
       },
       {
         "word": "alone",
-        "start": 192.67,
-        "end": 192.77
+        "start": 195.241,
+        "end": 195.633,
+        "spoken": true,
+        "singer": "singer2"
       }
     ],
     "time": 191.79,
-    "end": 192.77
+    "end": 195.633
   },
   {
     "text": "Cocaine shawty, cry alone,",
@@ -3158,25 +3620,29 @@
         "word": "Cocaine",
         "start": 196.06,
         "end": 196.16,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "shawty,",
         "start": 196.23,
         "end": 196.27,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "cry",
         "start": 196.28,
         "end": 196.38,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "alone,",
         "start": 196.39,
         "end": 196.49,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       }
     ],
     "time": 196.06,
@@ -3189,23 +3655,30 @@
     "words": [
       {
         "word": "cocaine",
-        "start": 196.5,
-        "end": 196.6
+        "start": 196.802,
+        "end": 197.569,
+        "singer": "singer2"
       },
       {
         "word": "shawty,",
-        "start": 196.61,
-        "end": 196.71
+        "start": 197.871,
+        "end": 198.638,
+        "sung": true,
+        "singer": "singer2"
       },
       {
         "word": "cry",
-        "start": 196.72,
-        "end": 196.82
+        "start": 198.638,
+        "end": 199.096,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "alone",
-        "start": 196.83,
-        "end": 196.93
+        "start": 199.446,
+        "end": 199.86,
+        "sung": true,
+        "singer": "singer2"
       }
     ],
     "time": 196.5,
@@ -3219,17 +3692,20 @@
       {
         "word": "Cocaine",
         "start": 200.42,
-        "end": 200.52
+        "end": 200.52,
+        "singer": "singer2"
       },
       {
         "word": "shawty,",
         "start": 200.59,
-        "end": 200.63
+        "end": 200.63,
+        "singer": "singer2"
       },
       {
         "word": "wipe,",
         "start": 200.64,
-        "end": 200.74
+        "end": 200.74,
+        "singer": "singer2"
       }
     ],
     "time": 200.42,
@@ -3242,18 +3718,23 @@
     "words": [
       {
         "word": "cocaine",
-        "start": 200.75,
-        "end": 200.85
+        "start": 201.1,
+        "end": 201.808,
+        "singer": "singer2"
       },
       {
         "word": "shawty,",
-        "start": 200.86,
-        "end": 200.96
+        "start": 202.158,
+        "end": 202.866,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "wipe",
-        "start": 200.97,
-        "end": 201.07
+        "start": 202.866,
+        "end": 203.47,
+        "spoken": true,
+        "singer": "singer2"
       }
     ],
     "time": 200.75,
@@ -3262,52 +3743,64 @@
   {
     "text": "Cocaine shawty, cry alone, cocaine shawty, yeah, yeah",
     "startTime": 204.83,
-    "endTime": 205.7,
+    "endTime": 211.55,
     "words": [
       {
         "word": "Cocaine",
-        "start": 204.83,
-        "end": 204.93
+        "start": 205.18,
+        "end": 205.853,
+        "singer": "singer2"
       },
       {
         "word": "shawty,",
-        "start": 205,
-        "end": 205.04
+        "start": 206.062,
+        "end": 206.875,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "cry",
-        "start": 205.05,
-        "end": 205.15
+        "start": 207.138,
+        "end": 207.313,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "alone,",
-        "start": 205.16,
-        "end": 205.26
+        "start": 207.661,
+        "end": 208.19,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "cocaine",
-        "start": 205.27,
-        "end": 205.37
+        "start": 208.54,
+        "end": 209.213,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "shawty,",
-        "start": 205.38,
-        "end": 205.48
+        "start": 209.329,
+        "end": 210.235,
+        "singer": "singer2"
       },
       {
         "word": "yeah,",
-        "start": 205.49,
-        "end": 205.59,
-        "spoken": true
+        "start": 210.585,
+        "end": 210.966,
+        "whisper": true,
+        "singer": "singer1"
       },
       {
         "word": "yeah",
-        "start": 205.6,
-        "end": 205.7,
-        "spoken": true
+        "start": 211.175,
+        "end": 211.55,
+        "spoken": true,
+        "singer": "singer2"
       }
     ],
     "time": 204.83,
-    "end": 205.7
+    "end": 211.55
   }
 ]

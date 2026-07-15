@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T13:52:07.956535+00:00",
+  "generatedAt": "2026-07-15T14:58:40.968051+00:00",
   "totalTracks": 862,
   "roots": [
     "lyrics-db/tracks"
@@ -11342,20 +11342,6 @@
       "sourcePath": "https://soundcloud.com/smokeasac/lil-peep-doubt-me-ft-eddy-baker-prod-by-smokeasac",
       "mtimeMs": 1783719262848
     },
-    "jac.00::lil peep x yunggoth - cocaine shawty": {
-      "title": "Lil Peep X YungGoth - Cocaine Shawty",
-      "artist": "JAC.00",
-      "originalTrackName": "JAC.00 - Lil Peep X YungGoth - Cocaine Shawty",
-      "source": "syncedlyrics",
-      "file": "tracks/jac-00-lil-peep-x-yunggoth-cocaine-shawty-ea33a8f0275e.json",
-      "files": {
-        "lyrics": "tracks/jac-00-lil-peep-x-yunggoth-cocaine-shawty-ea33a8f0275e.json",
-        "meta": "tracks/jac-00-lil-peep-x-yunggoth-cocaine-shawty-ea33a8f0275e.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/jac_00/lil-peep-x-yunggoth-cocaine-shawty",
-      "mtimeMs": 1783723124108
-    },
     "lil peep::lil peep- dead money ft. yunggoth, boy froot": {
       "title": "Lil Peep- Dead Money ft. YungGoth, Boy Froot",
       "artist": "Lil Peep",
@@ -12113,6 +12099,20 @@
       },
       "sourcePath": "https://soundcloud.com/sirpeep69/lil-peep-sick",
       "mtimeMs": 1784123529014
+    },
+    "jac.00::lil peep x yunggoth - cocaine shawty": {
+      "title": "Lil Peep X YungGoth - Cocaine Shawty",
+      "artist": "JAC.00",
+      "originalTrackName": "JAC.00 - Lil Peep X YungGoth - Cocaine Shawty",
+      "source": "lrclib_plain",
+      "file": "tracks/jac-00-lil-peep-x-yunggoth-cocaine-shawty-ea33a8f0275e.json",
+      "files": {
+        "lyrics": "tracks/jac-00-lil-peep-x-yunggoth-cocaine-shawty-ea33a8f0275e.json",
+        "meta": "tracks/jac-00-lil-peep-x-yunggoth-cocaine-shawty-ea33a8f0275e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/jac_00/lil-peep-x-yunggoth-cocaine-shawty",
+      "mtimeMs": 1784127521482
     }
   },
   "tracks": [
@@ -23473,20 +23473,6 @@
       "mtimeMs": 1783719262848
     },
     {
-      "title": "Lil Peep X YungGoth - Cocaine Shawty",
-      "artist": "JAC.00",
-      "originalTrackName": "JAC.00 - Lil Peep X YungGoth - Cocaine Shawty",
-      "source": "syncedlyrics",
-      "file": "tracks/jac-00-lil-peep-x-yunggoth-cocaine-shawty-ea33a8f0275e.json",
-      "files": {
-        "lyrics": "tracks/jac-00-lil-peep-x-yunggoth-cocaine-shawty-ea33a8f0275e.json",
-        "meta": "tracks/jac-00-lil-peep-x-yunggoth-cocaine-shawty-ea33a8f0275e.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/jac_00/lil-peep-x-yunggoth-cocaine-shawty",
-      "mtimeMs": 1783723124108
-    },
-    {
       "title": "Lil Peep- Dead Money ft. YungGoth, Boy Froot",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - Lil Peep- Dead Money ft. YungGoth, Boy Froot",
@@ -24243,6 +24229,20 @@
       },
       "sourcePath": "https://soundcloud.com/sirpeep69/lil-peep-sick",
       "mtimeMs": 1784123529014
+    },
+    {
+      "title": "Lil Peep X YungGoth - Cocaine Shawty",
+      "artist": "JAC.00",
+      "originalTrackName": "JAC.00 - Lil Peep X YungGoth - Cocaine Shawty",
+      "source": "lrclib_plain",
+      "file": "tracks/jac-00-lil-peep-x-yunggoth-cocaine-shawty-ea33a8f0275e.json",
+      "files": {
+        "lyrics": "tracks/jac-00-lil-peep-x-yunggoth-cocaine-shawty-ea33a8f0275e.json",
+        "meta": "tracks/jac-00-lil-peep-x-yunggoth-cocaine-shawty-ea33a8f0275e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/jac_00/lil-peep-x-yunggoth-cocaine-shawty",
+      "mtimeMs": 1784127521482
     }
   ]
 }

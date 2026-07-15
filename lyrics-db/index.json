@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T15:59:40.511791+00:00",
-  "totalTracks": 863,
+  "generatedAt": "2026-07-15T21:45:20.471541+00:00",
+  "totalTracks": 864,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12127,6 +12127,20 @@
       },
       "sourcePath": "https://soundcloud.com/jjcrazy65/glowin-wit-spookyz-prod-thukk",
       "mtimeMs": 1784131181284
+    },
+    "tec::##love###spell": {
+      "title": "##love###spell",
+      "artist": "tec",
+      "originalTrackName": "tec - ##love###spell",
+      "source": "whisper_only",
+      "file": "tracks/tec-love-spell-763c3df29c1b.json",
+      "files": {
+        "lyrics": "tracks/tec-love-spell-763c3df29c1b.json",
+        "meta": "tracks/tec-love-spell-763c3df29c1b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/tec-ruined-you/lovespell",
+      "mtimeMs": 1784151922382
     }
   },
   "tracks": [
@@ -24271,6 +24285,20 @@
       },
       "sourcePath": "https://soundcloud.com/jjcrazy65/glowin-wit-spookyz-prod-thukk",
       "mtimeMs": 1784131181284
+    },
+    {
+      "title": "##love###spell",
+      "artist": "tec",
+      "originalTrackName": "tec - ##love###spell",
+      "source": "whisper_only",
+      "file": "tracks/tec-love-spell-763c3df29c1b.json",
+      "files": {
+        "lyrics": "tracks/tec-love-spell-763c3df29c1b.json",
+        "meta": "tracks/tec-love-spell-763c3df29c1b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/tec-ruined-you/lovespell",
+      "mtimeMs": 1784151922382
     }
   ]
 }

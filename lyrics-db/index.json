@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T11:46:09.405337+00:00",
-  "totalTracks": 858,
+  "generatedAt": "2026-07-15T11:54:31.963787+00:00",
+  "totalTracks": 859,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12057,6 +12057,20 @@
       },
       "sourcePath": "https://soundcloud.com/jerronor/round-1-press-start",
       "mtimeMs": 1784115970075
+    },
+    "zdes holodno::lil peep - nothing to u": {
+      "title": "Lil Peep - Nothing To U",
+      "artist": "Zdes Holodno",
+      "originalTrackName": "Zdes Holodno - Lil Peep - Nothing To U",
+      "source": "lrclib_plain",
+      "file": "tracks/zdes-holodno-lil-peep-nothing-to-u-c54c4cda761d.json",
+      "files": {
+        "lyrics": "tracks/zdes-holodno-lil-peep-nothing-to-u-c54c4cda761d.json",
+        "meta": "tracks/zdes-holodno-lil-peep-nothing-to-u-c54c4cda761d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/zdes_holodno/lil-peep-nothing-to-u",
+      "mtimeMs": 1784116473019
     }
   },
   "tracks": [
@@ -24131,6 +24145,20 @@
       },
       "sourcePath": "https://soundcloud.com/jerronor/round-1-press-start",
       "mtimeMs": 1784115970075
+    },
+    {
+      "title": "Lil Peep - Nothing To U",
+      "artist": "Zdes Holodno",
+      "originalTrackName": "Zdes Holodno - Lil Peep - Nothing To U",
+      "source": "lrclib_plain",
+      "file": "tracks/zdes-holodno-lil-peep-nothing-to-u-c54c4cda761d.json",
+      "files": {
+        "lyrics": "tracks/zdes-holodno-lil-peep-nothing-to-u-c54c4cda761d.json",
+        "meta": "tracks/zdes-holodno-lil-peep-nothing-to-u-c54c4cda761d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/zdes_holodno/lil-peep-nothing-to-u",
+      "mtimeMs": 1784116473019
     }
   ]
 }

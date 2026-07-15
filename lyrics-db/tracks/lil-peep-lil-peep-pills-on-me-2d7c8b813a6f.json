@@ -1,0 +1,2885 @@
+[
+  {
+    "text": "●",
+    "startTime": 0.3,
+    "endTime": 27.16,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 0.3,
+    "end": 27.16
+  },
+  {
+    "text": "Pills on mix, i'll be getting high",
+    "startTime": 27.16,
+    "endTime": 29.98,
+    "words": [
+      {
+        "word": "Pills",
+        "start": 27.51,
+        "end": 27.96,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "on",
+        "start": 28.236,
+        "end": 28.42,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "mix,",
+        "start": 28.699,
+        "end": 29.02,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "i'll",
+        "start": 29.409,
+        "end": 29.6,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "be",
+        "start": 29.6,
+        "end": 29.78,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "getting",
+        "start": 29.78,
+        "end": 29.98,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "high",
+        "start": 29.98,
+        "end": 29.98,
+        "singer": "singer1"
+      }
+    ],
+    "time": 27.16,
+    "end": 29.98
+  },
+  {
+    "text": "Pain in my eyes, pain glorified",
+    "startTime": 30.92,
+    "endTime": 34.28,
+    "words": [
+      {
+        "word": "Pain",
+        "start": 30.92,
+        "end": 31.24,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "in",
+        "start": 31.24,
+        "end": 31.6,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "my",
+        "start": 31.786,
+        "end": 32.04,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "eyes,",
+        "start": 32.249,
+        "end": 32.58,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "pain",
+        "start": 32.923,
+        "end": 33.08,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "glorified",
+        "start": 33.08,
+        "end": 34.28,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 30.92,
+    "end": 34.28
+  },
+  {
+    "text": "Drugs on me, when i ride by",
+    "startTime": 34.28,
+    "endTime": 37.74,
+    "words": [
+      {
+        "word": "Drugs",
+        "start": 34.63,
+        "end": 34.96,
+        "singer": "singer2"
+      },
+      {
+        "word": "on",
+        "start": 35.2,
+        "end": 35.36,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "me,",
+        "start": 35.36,
+        "end": 36.06,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "when",
+        "start": 36.32,
+        "end": 36.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "i",
+        "start": 36.48,
+        "end": 36.8,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ride",
+        "start": 37.028,
+        "end": 37.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "by",
+        "start": 37.18,
+        "end": 37.74,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 34.28,
+    "end": 37.74
+  },
+  {
+    "text": "Fans on my lawn, i could do a dime",
+    "startTime": 37.74,
+    "endTime": 41.14,
+    "words": [
+      {
+        "word": "Fans",
+        "start": 37.74,
+        "end": 38.38,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 38.38,
+        "end": 38.72,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "my",
+        "start": 38.859,
+        "end": 39.04,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lawn,",
+        "start": 39.244,
+        "end": 39.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "i",
+        "start": 39.72,
+        "end": 40.0,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "could",
+        "start": 40.0,
+        "end": 40.24,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "do",
+        "start": 40.24,
+        "end": 40.52,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 40.52,
+        "end": 40.76,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "dime",
+        "start": 40.76,
+        "end": 41.14,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 37.74,
+    "end": 41.14
+  },
+  {
+    "text": "I would never snitch, i look like a bitch",
+    "startTime": 41.14,
+    "endTime": 44.72,
+    "words": [
+      {
+        "word": "I",
+        "start": 41.303,
+        "end": 41.72,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "would",
+        "start": 41.876,
+        "end": 41.98,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "never",
+        "start": 41.98,
+        "end": 42.32,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "snitch,",
+        "start": 42.32,
+        "end": 43.08,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "i",
+        "start": 43.36,
+        "end": 43.54,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "look",
+        "start": 43.54,
+        "end": 43.68,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "like",
+        "start": 43.726,
+        "end": 44.08,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 44.08,
+        "end": 44.32,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "bitch",
+        "start": 44.366,
+        "end": 44.72,
+        "singer": "singer2"
+      }
+    ],
+    "time": 41.14,
+    "end": 44.72
+  },
+  {
+    "text": "But i ain't a bitch, i could fuck your bitch",
+    "startTime": 44.72,
+    "endTime": 48.26,
+    "words": [
+      {
+        "word": "But",
+        "start": 45.022,
+        "end": 45.32,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "i",
+        "start": 45.32,
+        "end": 45.6,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "ain't",
+        "start": 45.6,
+        "end": 45.86,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 45.93,
+        "end": 46.06,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bitch,",
+        "start": 46.3,
+        "end": 46.46,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "i",
+        "start": 46.82,
+        "end": 47.06,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "could",
+        "start": 47.06,
+        "end": 47.24,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fuck",
+        "start": 47.24,
+        "end": 47.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "your",
+        "start": 47.48,
+        "end": 47.8,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bitch",
+        "start": 47.87,
+        "end": 48.26,
+        "singer": "singer2"
+      }
+    ],
+    "time": 44.72,
+    "end": 48.26
+  },
+  {
+    "text": "I be in japan, i can't be your man",
+    "startTime": 48.26,
+    "endTime": 51.68,
+    "words": [
+      {
+        "word": "I",
+        "start": 48.562,
+        "end": 48.84,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "be",
+        "start": 48.84,
+        "end": 49.08,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "in",
+        "start": 49.08,
+        "end": 49.3,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "japan,",
+        "start": 49.486,
+        "end": 49.9,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "i",
+        "start": 50.34,
+        "end": 50.52,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "can't",
+        "start": 50.566,
+        "end": 50.8,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "be",
+        "start": 50.8,
+        "end": 51.04,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "your",
+        "start": 51.22,
+        "end": 51.34,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "man",
+        "start": 51.433,
+        "end": 51.68,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 48.26,
+    "end": 51.68
+  },
+  {
+    "text": "But i got a plan, tat it on my hand",
+    "startTime": 51.68,
+    "endTime": 55.38,
+    "words": [
+      {
+        "word": "But",
+        "start": 51.889,
+        "end": 52.36,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "i",
+        "start": 52.36,
+        "end": 52.56,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "got",
+        "start": 52.56,
+        "end": 52.84,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 52.979,
+        "end": 53.12,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "plan,",
+        "start": 53.36,
+        "end": 53.52,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "tat",
+        "start": 53.94,
+        "end": 54.16,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 54.16,
+        "end": 54.42,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 54.516,
+        "end": 54.58,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 54.58,
+        "end": 55.0,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "hand",
+        "start": 55.0,
+        "end": 55.38,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 51.68,
+    "end": 55.38
+  },
+  {
+    "text": "Sing it in a whip, sing it to your bitch",
+    "startTime": 55.38,
+    "endTime": 58.82,
+    "words": [
+      {
+        "word": "Sing",
+        "start": 55.45,
+        "end": 55.92,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 56.106,
+        "end": 56.26,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "in",
+        "start": 56.26,
+        "end": 56.38,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 56.38,
+        "end": 56.68,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "whip,",
+        "start": 56.68,
+        "end": 57.0,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "sing",
+        "start": 57.546,
+        "end": 57.68,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 57.796,
+        "end": 58.0,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 58.0,
+        "end": 58.06,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "your",
+        "start": 58.06,
+        "end": 58.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bitch",
+        "start": 58.473,
+        "end": 58.82,
+        "singer": "singer2"
+      }
+    ],
+    "time": 55.38,
+    "end": 58.82
+  },
+  {
+    "text": "Sing it to your man, i don't give a shit",
+    "startTime": 58.82,
+    "endTime": 62.34,
+    "words": [
+      {
+        "word": "Sing",
+        "start": 59.122,
+        "end": 59.42,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "it",
+        "start": 59.588,
+        "end": 59.7,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "to",
+        "start": 59.7,
+        "end": 59.86,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "your",
+        "start": 60.046,
+        "end": 60.18,
+        "sung": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "man,",
+        "start": 60.384,
+        "end": 60.52,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "i",
+        "start": 60.52,
+        "end": 61.14,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 61.14,
+        "end": 61.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "give",
+        "start": 61.38,
+        "end": 61.58,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 61.58,
+        "end": 61.9,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "shit",
+        "start": 62.016,
+        "end": 62.34,
+        "singer": "singer2"
+      }
+    ],
+    "time": 58.82,
+    "end": 62.34
+  },
+  {
+    "text": "I be making hits, you be taking shit",
+    "startTime": 62.34,
+    "endTime": 65.76,
+    "words": [
+      {
+        "word": "I",
+        "start": 62.665,
+        "end": 62.92,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "be",
+        "start": 62.92,
+        "end": 63.12,
+        "singer": "singer2"
+      },
+      {
+        "word": "making",
+        "start": 63.372,
+        "end": 63.54,
+        "singer": "singer2"
+      },
+      {
+        "word": "hits,",
+        "start": 63.61,
+        "end": 64.06,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 64.44,
+        "end": 64.7,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "be",
+        "start": 64.7,
+        "end": 64.94,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "taking",
+        "start": 64.94,
+        "end": 65.34,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "shit",
+        "start": 65.34,
+        "end": 65.76,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 62.34,
+    "end": 65.76
+  },
+  {
+    "text": "I can make it flip, like a gucci may break",
+    "startTime": 65.76,
+    "endTime": 69.22,
+    "words": [
+      {
+        "word": "I",
+        "start": 66.085,
+        "end": 66.42,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "can",
+        "start": 66.42,
+        "end": 66.68,
+        "singer": "singer2"
+      },
+      {
+        "word": "make",
+        "start": 66.68,
+        "end": 66.92,
+        "singer": "singer2"
+      },
+      {
+        "word": "it",
+        "start": 67.1,
+        "end": 67.22,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "flip,",
+        "start": 67.364,
+        "end": 67.46,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "like",
+        "start": 67.54,
+        "end": 67.86,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 67.86,
+        "end": 68.08,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "gucci",
+        "start": 68.08,
+        "end": 68.46,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "may",
+        "start": 68.46,
+        "end": 68.88,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "break",
+        "start": 68.88,
+        "end": 69.22,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 65.76,
+    "end": 69.22
+  },
+  {
+    "text": "I'm a backstreet boy, baby take a look",
+    "startTime": 69.22,
+    "endTime": 72.98,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 69.484,
+        "end": 69.66,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 69.792,
+        "end": 69.88,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "backstreet",
+        "start": 70.205,
+        "end": 70.64,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "boy,",
+        "start": 70.64,
+        "end": 71.3,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "baby",
+        "start": 71.73,
+        "end": 71.9,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "take",
+        "start": 71.97,
+        "end": 72.3,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 72.3,
+        "end": 72.6,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "look",
+        "start": 72.6,
+        "end": 72.98,
+        "singer": "singer2"
+      }
+    ],
+    "time": 69.22,
+    "end": 72.98
+  },
+  {
+    "text": "Took her back home and i wrote a couple of loves",
+    "startTime": 72.98,
+    "endTime": 76.56,
+    "words": [
+      {
+        "word": "Took",
+        "start": 73.235,
+        "end": 73.48,
+        "singer": "singer2"
+      },
+      {
+        "word": "her",
+        "start": 73.684,
+        "end": 73.82,
+        "singer": "singer2"
+      },
+      {
+        "word": "back",
+        "start": 74.072,
+        "end": 74.24,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "home",
+        "start": 74.456,
+        "end": 74.6,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 74.6,
+        "end": 74.88,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "i",
+        "start": 74.88,
+        "end": 75.18,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wrote",
+        "start": 75.18,
+        "end": 75.3,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 75.3,
+        "end": 75.56,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "couple",
+        "start": 75.56,
+        "end": 75.9,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "of",
+        "start": 75.9,
+        "end": 76.4,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "loves",
+        "start": 76.4,
+        "end": 76.56,
+        "singer": "singer2"
+      }
+    ],
+    "time": 72.98,
+    "end": 76.56
+  },
+  {
+    "text": "I ain't gonna lie, i don't wanna die",
+    "startTime": 76.56,
+    "endTime": 80.02,
+    "words": [
+      {
+        "word": "I",
+        "start": 76.884,
+        "end": 77.1,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "ain't",
+        "start": 77.1,
+        "end": 77.28,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "gonna",
+        "start": 77.556,
+        "end": 77.74,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "lie,",
+        "start": 77.74,
+        "end": 78.26,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "i",
+        "start": 78.6,
+        "end": 78.84,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 78.84,
+        "end": 79.1,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 79.1,
+        "end": 79.38,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "die",
+        "start": 79.45,
+        "end": 80.02,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 76.56,
+    "end": 80.02
+  },
+  {
+    "text": "I just wanna ride around, fated all night",
+    "startTime": 80.02,
+    "endTime": 83.6,
+    "words": [
+      {
+        "word": "I",
+        "start": 80.159,
+        "end": 80.56,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "just",
+        "start": 80.56,
+        "end": 80.9,
+        "singer": "singer2"
+      },
+      {
+        "word": "wanna",
+        "start": 80.9,
+        "end": 81.18,
+        "singer": "singer2"
+      },
+      {
+        "word": "ride",
+        "start": 81.25,
+        "end": 81.62,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "around,",
+        "start": 81.666,
+        "end": 82.02,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fated",
+        "start": 82.08,
+        "end": 82.54,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "all",
+        "start": 82.54,
+        "end": 83.08,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "night",
+        "start": 83.08,
+        "end": 83.6,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 80.02,
+    "end": 83.6
+  },
+  {
+    "text": "Baby by my side, told me that she blind",
+    "startTime": 83.6,
+    "endTime": 87.12,
+    "words": [
+      {
+        "word": "Baby",
+        "start": 83.67,
+        "end": 84.26,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "by",
+        "start": 84.26,
+        "end": 84.56,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 84.606,
+        "end": 84.86,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "side,",
+        "start": 84.86,
+        "end": 85.4,
+        "singer": "singer2"
+      },
+      {
+        "word": "told",
+        "start": 85.72,
+        "end": 85.9,
+        "singer": "singer2"
+      },
+      {
+        "word": "me",
+        "start": 85.9,
+        "end": 86.12,
+        "singer": "singer2"
+      },
+      {
+        "word": "that",
+        "start": 86.24,
+        "end": 86.32,
+        "singer": "singer2"
+      },
+      {
+        "word": "she",
+        "start": 86.32,
+        "end": 86.66,
+        "singer": "singer2"
+      },
+      {
+        "word": "blind",
+        "start": 86.706,
+        "end": 87.12,
+        "singer": "singer2"
+      }
+    ],
+    "time": 83.6,
+    "end": 87.12
+  },
+  {
+    "text": "Fuck me with a friend, make em both cry",
+    "startTime": 87.12,
+    "endTime": 90.32,
+    "words": [
+      {
+        "word": "Fuck",
+        "start": 87.352,
+        "end": 87.6,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "me",
+        "start": 87.6,
+        "end": 87.84,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "with",
+        "start": 87.84,
+        "end": 88.1,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 88.1,
+        "end": 88.44,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "friend,",
+        "start": 88.44,
+        "end": 88.92,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "make",
+        "start": 89.372,
+        "end": 89.42,
+        "singer": "singer2"
+      },
+      {
+        "word": "em",
+        "start": 89.588,
+        "end": 89.7,
+        "singer": "singer2"
+      },
+      {
+        "word": "both",
+        "start": 89.77,
+        "end": 89.96,
+        "singer": "singer2"
+      },
+      {
+        "word": "cry",
+        "start": 89.96,
+        "end": 90.32,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 87.12,
+    "end": 90.32
+  },
+  {
+    "text": "One more time,",
+    "startTime": 90.74,
+    "endTime": 92.48,
+    "words": [
+      {
+        "word": "One",
+        "start": 90.903,
+        "end": 91.32,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "more",
+        "start": 91.32,
+        "end": 91.82,
+        "singer": "singer2"
+      },
+      {
+        "word": "time,",
+        "start": 91.82,
+        "end": 92.48,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 90.74,
+    "end": 92.48
+  },
+  {
+    "text": "one more time",
+    "startTime": 92.68,
+    "endTime": 94.26,
+    "words": [
+      {
+        "word": "one",
+        "start": 92.68,
+        "end": 93.16,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "more",
+        "start": 93.346,
+        "end": 93.62,
+        "singer": "singer2"
+      },
+      {
+        "word": "time",
+        "start": 93.783,
+        "end": 94.26,
+        "stretch": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 92.68,
+    "end": 94.26
+  },
+  {
+    "text": "One more line, give me one more line",
+    "startTime": 94.26,
+    "endTime": 97.7,
+    "words": [
+      {
+        "word": "One",
+        "start": 94.423,
+        "end": 94.88,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "more",
+        "start": 94.88,
+        "end": 95.34,
+        "singer": "singer2"
+      },
+      {
+        "word": "line,",
+        "start": 95.34,
+        "end": 95.68,
+        "singer": "singer2"
+      },
+      {
+        "word": "give",
+        "start": 95.84,
+        "end": 96.04,
+        "singer": "singer2"
+      },
+      {
+        "word": "me",
+        "start": 96.16,
+        "end": 96.24,
+        "singer": "singer2"
+      },
+      {
+        "word": "one",
+        "start": 96.24,
+        "end": 96.74,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "more",
+        "start": 96.879,
+        "end": 97.14,
+        "singer": "singer2"
+      },
+      {
+        "word": "line",
+        "start": 97.303,
+        "end": 97.7,
+        "singer": "singer2"
+      }
+    ],
+    "time": 94.26,
+    "end": 97.7
+  },
+  {
+    "text": "I ain't gonna die",
+    "startTime": 97.7,
+    "endTime": 99.16,
+    "words": [
+      {
+        "word": "I",
+        "start": 97.979,
+        "end": 98.2,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "ain't",
+        "start": 98.2,
+        "end": 98.5,
+        "singer": "singer2"
+      },
+      {
+        "word": "gonna",
+        "start": 98.5,
+        "end": 98.8,
+        "singer": "singer2"
+      },
+      {
+        "word": "die",
+        "start": 98.8,
+        "end": 99.16,
+        "singer": "singer2"
+      }
+    ],
+    "time": 97.7,
+    "end": 99.16
+  },
+  {
+    "text": "Pills on mix, i'll be getting high",
+    "startTime": 99.66,
+    "endTime": 101.42,
+    "words": [
+      {
+        "word": "Pills",
+        "start": 99.66,
+        "end": 99.66,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 99.66,
+        "end": 99.66,
+        "singer": "singer1"
+      },
+      {
+        "word": "mix,",
+        "start": 99.66,
+        "end": 99.66,
+        "singer": "singer1"
+      },
+      {
+        "word": "i'll",
+        "start": 99.76,
+        "end": 100.18,
+        "singer": "singer2"
+      },
+      {
+        "word": "be",
+        "start": 100.18,
+        "end": 100.32,
+        "singer": "singer2"
+      },
+      {
+        "word": "getting",
+        "start": 100.39,
+        "end": 100.66,
+        "singer": "singer2"
+      },
+      {
+        "word": "high",
+        "start": 100.823,
+        "end": 101.42,
+        "stretch": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 99.66,
+    "end": 101.42
+  },
+  {
+    "text": "Pain in my eyes, pain glorified",
+    "startTime": 101.42,
+    "endTime": 104.12,
+    "words": [
+      {
+        "word": "Pain",
+        "start": 101.49,
+        "end": 101.96,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "in",
+        "start": 101.96,
+        "end": 102.28,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "my",
+        "start": 102.28,
+        "end": 102.7,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "eyes,",
+        "start": 102.7,
+        "end": 103.04,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "pain",
+        "start": 103.5,
+        "end": 103.7,
+        "singer": "singer2"
+      },
+      {
+        "word": "glorified",
+        "start": 103.909,
+        "end": 104.12,
+        "singer": "singer2"
+      }
+    ],
+    "time": 101.42,
+    "end": 104.12
+  },
+  {
+    "text": "Drugs on me, when i ride by",
+    "startTime": 104.88,
+    "endTime": 108.4,
+    "words": [
+      {
+        "word": "Drugs",
+        "start": 105.019,
+        "end": 105.54,
+        "sung": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "on",
+        "start": 105.816,
+        "end": 106.0,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "me,",
+        "start": 106.0,
+        "end": 106.54,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "when",
+        "start": 106.8,
+        "end": 107.06,
+        "singer": "singer2"
+      },
+      {
+        "word": "i",
+        "start": 107.06,
+        "end": 107.4,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "ride",
+        "start": 107.446,
+        "end": 107.78,
+        "singer": "singer2"
+      },
+      {
+        "word": "by",
+        "start": 107.896,
+        "end": 108.4,
+        "stretch": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 104.88,
+    "end": 108.4
+  },
+  {
+    "text": "Fans on my lawn, i could do a dime",
+    "startTime": 108.4,
+    "endTime": 111.74,
+    "words": [
+      {
+        "word": "Fans",
+        "start": 108.539,
+        "end": 108.98,
+        "singer": "singer2"
+      },
+      {
+        "word": "on",
+        "start": 108.98,
+        "end": 109.3,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "my",
+        "start": 109.3,
+        "end": 109.64,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "lawn,",
+        "start": 109.64,
+        "end": 109.94,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "i",
+        "start": 110.36,
+        "end": 110.58,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "could",
+        "start": 110.58,
+        "end": 110.84,
+        "singer": "singer2"
+      },
+      {
+        "word": "do",
+        "start": 110.979,
+        "end": 111.14,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 111.14,
+        "end": 111.34,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "dime",
+        "start": 111.433,
+        "end": 111.74,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 108.4,
+    "end": 111.74
+  },
+  {
+    "text": "I would never snitch, i look like a bitch",
+    "startTime": 111.74,
+    "endTime": 115.28,
+    "words": [
+      {
+        "word": "I",
+        "start": 112.088,
+        "end": 112.34,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "would",
+        "start": 112.34,
+        "end": 112.6,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "never",
+        "start": 112.816,
+        "end": 112.96,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "snitch,",
+        "start": 113.006,
+        "end": 113.7,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "i",
+        "start": 114.06,
+        "end": 114.14,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "look",
+        "start": 114.14,
+        "end": 114.28,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "like",
+        "start": 114.326,
+        "end": 114.66,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 114.66,
+        "end": 114.94,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "bitch",
+        "start": 114.94,
+        "end": 115.28,
+        "singer": "singer2"
+      }
+    ],
+    "time": 111.74,
+    "end": 115.28
+  },
+  {
+    "text": "But i ain't a bitch, i could fuck your bitch",
+    "startTime": 115.28,
+    "endTime": 118.88,
+    "words": [
+      {
+        "word": "But",
+        "start": 115.605,
+        "end": 115.86,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "i",
+        "start": 115.86,
+        "end": 116.12,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "ain't",
+        "start": 116.12,
+        "end": 116.44,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 116.533,
+        "end": 116.66,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bitch,",
+        "start": 116.924,
+        "end": 117.1,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "i",
+        "start": 117.32,
+        "end": 117.64,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "could",
+        "start": 117.64,
+        "end": 117.84,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fuck",
+        "start": 117.84,
+        "end": 118.08,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "your",
+        "start": 118.08,
+        "end": 118.4,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bitch",
+        "start": 118.47,
+        "end": 118.88,
+        "singer": "singer2"
+      }
+    ],
+    "time": 115.28,
+    "end": 118.88
+  },
+  {
+    "text": "I be in Japan, i can't be your man",
+    "startTime": 118.88,
+    "endTime": 122.36,
+    "words": [
+      {
+        "word": "I",
+        "start": 119.135,
+        "end": 119.36,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "be",
+        "start": 119.36,
+        "end": 119.62,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "in",
+        "start": 119.62,
+        "end": 119.86,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "Japan,",
+        "start": 120.046,
+        "end": 120.48,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "i",
+        "start": 120.94,
+        "end": 121.1,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "can't",
+        "start": 121.17,
+        "end": 121.42,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "be",
+        "start": 121.42,
+        "end": 121.64,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "your",
+        "start": 121.808,
+        "end": 121.92,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "man",
+        "start": 122.036,
+        "end": 122.36,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 118.88,
+    "end": 122.36
+  },
+  {
+    "text": "But i got a plan, tat it on my hand",
+    "startTime": 122.36,
+    "endTime": 125.92,
+    "words": [
+      {
+        "word": "But",
+        "start": 122.406,
+        "end": 122.96,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "i",
+        "start": 122.96,
+        "end": 123.16,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "got",
+        "start": 123.16,
+        "end": 123.44,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 123.579,
+        "end": 123.74,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "plan,",
+        "start": 123.995,
+        "end": 124.22,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "tat",
+        "start": 124.6,
+        "end": 124.72,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 124.72,
+        "end": 124.92,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 124.92,
+        "end": 125.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 125.18,
+        "end": 125.56,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "hand",
+        "start": 125.56,
+        "end": 125.92,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 122.36,
+    "end": 125.92
+  },
+  {
+    "text": "Sing it in a whip, sing it to your bitch",
+    "startTime": 125.92,
+    "endTime": 129.44,
+    "words": [
+      {
+        "word": "Sing",
+        "start": 125.92,
+        "end": 126.48,
+        "singer": "singer2"
+      },
+      {
+        "word": "it",
+        "start": 126.48,
+        "end": 126.8,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "in",
+        "start": 126.8,
+        "end": 127.0,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 127.0,
+        "end": 127.28,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "whip,",
+        "start": 127.28,
+        "end": 127.68,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "sing",
+        "start": 128.233,
+        "end": 128.34,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 128.433,
+        "end": 128.56,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "to",
+        "start": 128.632,
+        "end": 128.68,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "your",
+        "start": 128.68,
+        "end": 128.94,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bitch",
+        "start": 129.056,
+        "end": 129.44,
+        "singer": "singer2"
+      }
+    ],
+    "time": 125.92,
+    "end": 129.44
+  },
+  {
+    "text": "Sing it to your man, i don't give a shit",
+    "startTime": 129.44,
+    "endTime": 132.98,
+    "words": [
+      {
+        "word": "Sing",
+        "start": 129.719,
+        "end": 130.02,
+        "singer": "singer2"
+      },
+      {
+        "word": "it",
+        "start": 130.2,
+        "end": 130.32,
+        "singer": "singer2"
+      },
+      {
+        "word": "to",
+        "start": 130.32,
+        "end": 130.42,
+        "singer": "singer2"
+      },
+      {
+        "word": "your",
+        "start": 130.6,
+        "end": 130.72,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "man,",
+        "start": 130.948,
+        "end": 131.1,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "i",
+        "start": 131.58,
+        "end": 131.76,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 131.76,
+        "end": 131.92,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "give",
+        "start": 131.966,
+        "end": 132.2,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 132.2,
+        "end": 132.5,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "shit",
+        "start": 132.593,
+        "end": 132.98,
+        "singer": "singer2"
+      }
+    ],
+    "time": 129.44,
+    "end": 132.98
+  },
+  {
+    "text": "I be making hits, you be taking shit",
+    "startTime": 132.98,
+    "endTime": 136.36,
+    "words": [
+      {
+        "word": "I",
+        "start": 133.259,
+        "end": 133.5,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "be",
+        "start": 133.5,
+        "end": 133.74,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "making",
+        "start": 133.74,
+        "end": 134.14,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "hits,",
+        "start": 134.186,
+        "end": 134.64,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 135.06,
+        "end": 135.3,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "be",
+        "start": 135.3,
+        "end": 135.58,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "taking",
+        "start": 135.58,
+        "end": 135.82,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "shit",
+        "start": 135.913,
+        "end": 136.36,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 132.98,
+    "end": 136.36
+  },
+  {
+    "text": "I can make it flip, like a gucci may break",
+    "startTime": 136.36,
+    "endTime": 139.8,
+    "words": [
+      {
+        "word": "I",
+        "start": 136.71,
+        "end": 137.0,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "can",
+        "start": 137.0,
+        "end": 137.28,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "make",
+        "start": 137.28,
+        "end": 137.5,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "it",
+        "start": 137.68,
+        "end": 137.8,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "flip,",
+        "start": 137.8,
+        "end": 138.06,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "like",
+        "start": 138.14,
+        "end": 138.44,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 138.44,
+        "end": 138.66,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "gucci",
+        "start": 138.66,
+        "end": 139.04,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "may",
+        "start": 139.04,
+        "end": 139.36,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "break",
+        "start": 139.499,
+        "end": 139.8,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 136.36,
+    "end": 139.8
+  },
+  {
+    "text": "I'm a backstreet boy, baby take a look",
+    "startTime": 139.8,
+    "endTime": 143.58,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 139.87,
+        "end": 140.24,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 140.356,
+        "end": 140.46,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "backstreet",
+        "start": 140.81,
+        "end": 141.24,
+        "singer": "singer2"
+      },
+      {
+        "word": "boy,",
+        "start": 141.24,
+        "end": 141.84,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "baby",
+        "start": 142.336,
+        "end": 142.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "take",
+        "start": 142.55,
+        "end": 142.88,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 142.88,
+        "end": 143.3,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "look",
+        "start": 143.3,
+        "end": 143.58,
+        "singer": "singer2"
+      }
+    ],
+    "time": 139.8,
+    "end": 143.58
+  },
+  {
+    "text": "Took her back home and i wrote a couple",
+    "startTime": 143.58,
+    "endTime": 146.5,
+    "words": [
+      {
+        "word": "Took",
+        "start": 143.835,
+        "end": 144.04,
+        "singer": "singer2"
+      },
+      {
+        "word": "her",
+        "start": 144.268,
+        "end": 144.42,
+        "singer": "singer2"
+      },
+      {
+        "word": "back",
+        "start": 144.648,
+        "end": 144.8,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "home",
+        "start": 144.8,
+        "end": 145.22,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "and",
+        "start": 145.22,
+        "end": 145.46,
+        "singer": "singer1"
+      },
+      {
+        "word": "i",
+        "start": 145.46,
+        "end": 145.74,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wrote",
+        "start": 145.74,
+        "end": 145.88,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "a",
+        "start": 145.88,
+        "end": 146.14,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "couple",
+        "start": 146.14,
+        "end": 146.5,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 143.58,
+    "end": 146.5
+  },
+  {
+    "text": "hoops",
+    "startTime": 146.5,
+    "endTime": 146.88,
+    "words": [
+      {
+        "word": "hoops",
+        "start": 146.5,
+        "end": 146.88,
+        "singer": "singer2"
+      }
+    ],
+    "time": 146.5,
+    "end": 146.88
+  },
+  {
+    "text": "I ain't gonna lie, i don't wanna die",
+    "startTime": 147.24,
+    "endTime": 150.58,
+    "words": [
+      {
+        "word": "I",
+        "start": 147.356,
+        "end": 147.68,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "ain't",
+        "start": 147.8,
+        "end": 147.88,
+        "singer": "singer2"
+      },
+      {
+        "word": "gonna",
+        "start": 148.108,
+        "end": 148.26,
+        "singer": "singer2"
+      },
+      {
+        "word": "lie,",
+        "start": 148.306,
+        "end": 148.86,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "i",
+        "start": 149.18,
+        "end": 149.4,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "don't",
+        "start": 149.4,
+        "end": 149.68,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "wanna",
+        "start": 149.68,
+        "end": 149.96,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "die",
+        "start": 150.03,
+        "end": 150.58,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 147.24,
+    "end": 150.58
+  },
+  {
+    "text": "I just wanna ride around, fated all night",
+    "startTime": 150.58,
+    "endTime": 154.14,
+    "words": [
+      {
+        "word": "I",
+        "start": 150.812,
+        "end": 151.16,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "just",
+        "start": 151.16,
+        "end": 151.44,
+        "singer": "singer2"
+      },
+      {
+        "word": "wanna",
+        "start": 151.44,
+        "end": 151.76,
+        "singer": "singer2"
+      },
+      {
+        "word": "ride",
+        "start": 151.83,
+        "end": 152.2,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "around,",
+        "start": 152.27,
+        "end": 152.58,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fated",
+        "start": 152.8,
+        "end": 153.1,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "all",
+        "start": 153.1,
+        "end": 153.62,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "night",
+        "start": 153.62,
+        "end": 154.14,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 150.58,
+    "end": 154.14
+  },
+  {
+    "text": "Baby by my side, told me that she blind",
+    "startTime": 154.14,
+    "endTime": 157.72,
+    "words": [
+      {
+        "word": "Baby",
+        "start": 154.256,
+        "end": 154.82,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "by",
+        "start": 154.82,
+        "end": 155.12,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 155.12,
+        "end": 155.46,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "side,",
+        "start": 155.762,
+        "end": 155.98,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "told",
+        "start": 156.36,
+        "end": 156.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 156.48,
+        "end": 156.7,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "that",
+        "start": 156.7,
+        "end": 156.9,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "she",
+        "start": 157.016,
+        "end": 157.24,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "blind",
+        "start": 157.31,
+        "end": 157.72,
+        "singer": "singer2"
+      }
+    ],
+    "time": 154.14,
+    "end": 157.72
+  },
+  {
+    "text": "Fuck me with a friend, make em both cry",
+    "startTime": 157.72,
+    "endTime": 161.26,
+    "words": [
+      {
+        "word": "Fuck",
+        "start": 157.952,
+        "end": 158.16,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "me",
+        "start": 158.16,
+        "end": 158.42,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "with",
+        "start": 158.42,
+        "end": 158.66,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "a",
+        "start": 158.846,
+        "end": 158.98,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "friend,",
+        "start": 159.28,
+        "end": 159.48,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "make",
+        "start": 159.86,
+        "end": 160.04,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "em",
+        "start": 160.04,
+        "end": 160.3,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "both",
+        "start": 160.3,
+        "end": 160.58,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "cry",
+        "start": 160.58,
+        "end": 161.26,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 157.72,
+    "end": 161.26
+  },
+  {
+    "text": "One more time,",
+    "startTime": 161.26,
+    "endTime": 163.04,
+    "words": [
+      {
+        "word": "One",
+        "start": 161.61,
+        "end": 161.9,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "more",
+        "start": 162.224,
+        "end": 162.44,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "time,",
+        "start": 162.44,
+        "end": 163.04,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 161.26,
+    "end": 163.04
+  },
+  {
+    "text": "one more time",
+    "startTime": 163.26,
+    "endTime": 164.82,
+    "words": [
+      {
+        "word": "one",
+        "start": 163.515,
+        "end": 163.76,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "more",
+        "start": 163.76,
+        "end": 164.18,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "time",
+        "start": 164.18,
+        "end": 164.82,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 163.26,
+    "end": 164.82
+  },
+  {
+    "text": "One more line, give me one more line",
+    "startTime": 164.82,
+    "endTime": 168.32,
+    "words": [
+      {
+        "word": "One",
+        "start": 164.82,
+        "end": 165.46,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "more",
+        "start": 165.748,
+        "end": 165.94,
+        "singer": "singer2"
+      },
+      {
+        "word": "line,",
+        "start": 165.94,
+        "end": 166.24,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "give",
+        "start": 166.56,
+        "end": 166.6,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 166.6,
+        "end": 166.84,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "one",
+        "start": 166.84,
+        "end": 167.34,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "more",
+        "start": 167.34,
+        "end": 167.74,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "line",
+        "start": 167.74,
+        "end": 168.32,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 164.82,
+    "end": 168.32
+  },
+  {
+    "text": "I ain't gonna die",
+    "startTime": 168.32,
+    "endTime": 169.84,
+    "words": [
+      {
+        "word": "I",
+        "start": 168.575,
+        "end": 168.78,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "ain't",
+        "start": 168.984,
+        "end": 169.12,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "gonna",
+        "start": 169.19,
+        "end": 169.46,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "die",
+        "start": 169.46,
+        "end": 169.84,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 168.32,
+    "end": 169.84
+  }
+]

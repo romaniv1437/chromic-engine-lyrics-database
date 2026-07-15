@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T11:54:43.722161+00:00",
-  "totalTracks": 859,
+  "generatedAt": "2026-07-15T13:38:48.891203+00:00",
+  "totalTracks": 860,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12071,6 +12071,20 @@
       },
       "sourcePath": "https://soundcloud.com/zdes_holodno/lil-peep-nothing-to-u",
       "mtimeMs": 1784116484355
+    },
+    "lil peep::lil peep - pills on me": {
+      "title": "Lil Peep - Pills On Me",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep - Pills On Me",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-lil-peep-pills-on-me-2d7c8b813a6f.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-pills-on-me-2d7c8b813a6f.json",
+        "meta": "tracks/lil-peep-lil-peep-pills-on-me-2d7c8b813a6f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lilpeep1/pills-on-me",
+      "mtimeMs": 1784122729433
     }
   },
   "tracks": [
@@ -24159,6 +24173,20 @@
       },
       "sourcePath": "https://soundcloud.com/zdes_holodno/lil-peep-nothing-to-u",
       "mtimeMs": 1784116484355
+    },
+    {
+      "title": "Lil Peep - Pills On Me",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep - Pills On Me",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-lil-peep-pills-on-me-2d7c8b813a6f.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-pills-on-me-2d7c8b813a6f.json",
+        "meta": "tracks/lil-peep-lil-peep-pills-on-me-2d7c8b813a6f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lilpeep1/pills-on-me",
+      "mtimeMs": 1784122729433
     }
   ]
 }

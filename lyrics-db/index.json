@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T13:46:11.630520+00:00",
-  "totalTracks": 861,
+  "generatedAt": "2026-07-15T13:52:07.956535+00:00",
+  "totalTracks": 862,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12099,6 +12099,20 @@
       },
       "sourcePath": "https://soundcloud.com/rayn-606797171/lil-peep-the-kronik-without",
       "mtimeMs": 1784123172430
+    },
+    "☆lil peep☆::☆lil peep☆ - sick": {
+      "title": "☆LiL PEEP☆ - Sick",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - ☆LiL PEEP☆ - Sick",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-lil-peep-sick-03106932da41.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-sick-03106932da41.json",
+        "meta": "tracks/lil-peep-lil-peep-sick-03106932da41.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/sirpeep69/lil-peep-sick",
+      "mtimeMs": 1784123529014
     }
   },
   "tracks": [
@@ -24215,6 +24229,20 @@
       },
       "sourcePath": "https://soundcloud.com/rayn-606797171/lil-peep-the-kronik-without",
       "mtimeMs": 1784123172430
+    },
+    {
+      "title": "☆LiL PEEP☆ - Sick",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - ☆LiL PEEP☆ - Sick",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-lil-peep-sick-03106932da41.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-sick-03106932da41.json",
+        "meta": "tracks/lil-peep-lil-peep-sick-03106932da41.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/sirpeep69/lil-peep-sick",
+      "mtimeMs": 1784123529014
     }
   ]
 }

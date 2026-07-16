@@ -42,20 +42,20 @@
   {
     "text": "●",
     "startTime": 2.44,
-    "endTime": 30.0,
+    "endTime": 30,
     "words": [],
     "type": "vocal_cue",
     "time": 2.44,
-    "end": 30.0
+    "end": 30
   },
   {
     "text": "really hit the field,",
-    "startTime": 30.0,
+    "startTime": 30,
     "endTime": 30.86,
     "words": [
       {
         "word": "really",
-        "start": 30.0,
+        "start": 30,
         "end": 30.26
       },
       {
@@ -76,17 +76,17 @@
         "end": 30.86
       }
     ],
-    "time": 30.0,
+    "time": 30,
     "end": 30.86
   },
   {
     "text": "tell em, fuck sports pray to God",
-    "startTime": 31.0,
+    "startTime": 31,
     "endTime": 32.58,
     "words": [
       {
         "word": "tell",
-        "start": 31.0,
+        "start": 31,
         "end": 31.06
       },
       {
@@ -121,7 +121,7 @@
         "spoken": true
       }
     ],
-    "time": 31.0,
+    "time": 31,
     "end": 32.58
   },
   {
@@ -221,12 +221,12 @@
       {
         "word": "seen",
         "start": 35.86,
-        "end": 36.0,
+        "end": 36,
         "spoken": true
       },
       {
         "word": "it",
-        "start": 36.0,
+        "start": 36,
         "end": 36.12,
         "spoken": true
       }
@@ -406,7 +406,7 @@
   {
     "text": "that shit bouncing off",
     "startTime": 40.98,
-    "endTime": 42.0,
+    "endTime": 42,
     "words": [
       {
         "word": "that",
@@ -427,21 +427,21 @@
       {
         "word": "off",
         "start": 41.84,
-        "end": 42.0,
+        "end": 42,
         "spoken": true
       }
     ],
     "time": 40.98,
-    "end": 42.0
+    "end": 42
   },
   {
     "text": "the trap,",
-    "startTime": 42.0,
+    "startTime": 42,
     "endTime": 42.38,
     "words": [
       {
         "word": "the",
-        "start": 42.0,
+        "start": 42,
         "end": 42.26,
         "spoken": true
       },
@@ -451,7 +451,7 @@
         "end": 42.38
       }
     ],
-    "time": 42.0,
+    "time": 42,
     "end": 42.38
   },
   {
@@ -474,11 +474,11 @@
       {
         "word": "flip",
         "start": 42.7,
-        "end": 43.0
+        "end": 43
       },
       {
         "word": "that",
-        "start": 43.0,
+        "start": 43,
         "end": 43.6,
         "stretch": true,
         "spoken": true
@@ -533,7 +533,7 @@
   {
     "text": "I can't fix that I don't sip lean,",
     "startTime": 44.64,
-    "endTime": 47.0,
+    "endTime": 47,
     "words": [
       {
         "word": "I",
@@ -555,7 +555,7 @@
       {
         "word": "that",
         "start": 45.61,
-        "end": 46.0,
+        "end": 46,
         "stretch": true,
         "whisper": true
       },
@@ -578,11 +578,11 @@
       {
         "word": "lean,",
         "start": 46.76,
-        "end": 47.0
+        "end": 47
       }
     ],
     "time": 44.64,
-    "end": 47.0
+    "end": 47
   },
   {
     "text": "bitch, I pop molly red and blue,",
@@ -873,7 +873,7 @@
       {
         "word": "ain't",
         "start": 57.88,
-        "end": 58.0,
+        "end": 58,
         "whisper": true
       },
       {
@@ -1374,11 +1374,11 @@
       {
         "word": "suck",
         "start": 85.72,
-        "end": 86.0
+        "end": 86
       },
       {
         "word": "dick",
-        "start": 86.0,
+        "start": 86,
         "end": 86.18
       },
       {
@@ -1423,7 +1423,7 @@
       {
         "word": "Hellcat,",
         "start": 87.61,
-        "end": 88.0,
+        "end": 88,
         "spoken": true
       },
       {
@@ -1646,12 +1646,12 @@
   },
   {
     "text": "Bitch, I do it, it gettin' dead bad",
-    "startTime": 97.0,
+    "startTime": 97,
     "endTime": 99.14,
     "words": [
       {
         "word": "Bitch,",
-        "start": 97.0,
+        "start": 97,
         "end": 97.4,
         "spoken": true
       },
@@ -1697,7 +1697,7 @@
         "spoken": true
       }
     ],
-    "time": 97.0,
+    "time": 97,
     "end": 99.14
   },
   {
@@ -2190,7 +2190,7 @@
       {
         "word": "in",
         "start": 128.732,
-        "end": 129.0,
+        "end": 129,
         "stretch": true,
         "whisper": true
       },

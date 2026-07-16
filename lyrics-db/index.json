@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-16T04:46:09.425650+00:00",
-  "totalTracks": 867,
+  "generatedAt": "2026-07-16T04:53:49.605954+00:00",
+  "totalTracks": 868,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12183,6 +12183,20 @@
       },
       "sourcePath": "https://soundcloud.com/curatedexposure/natia-feat-5mil-ftw",
       "mtimeMs": 1784177170729
+    },
+    "tnfmb, snuffcide::corpse looks sad w/ snuffcide (tnfmb)": {
+      "title": "corpse looks sad w/ snuffcide (tnfmb)",
+      "artist": "tnfmb, snuffcide",
+      "originalTrackName": "tnfmb, snuffcide - corpse looks sad w/ snuffcide (tnfmb)",
+      "source": "whisper_only",
+      "file": "tracks/tnfmb-snuffcide-corpse-looks-sad-w-snuffcide-tnfmb-4108b6fe6ed4.json",
+      "files": {
+        "lyrics": "tracks/tnfmb-snuffcide-corpse-looks-sad-w-snuffcide-tnfmb-4108b6fe6ed4.json",
+        "meta": "tracks/tnfmb-snuffcide-corpse-looks-sad-w-snuffcide-tnfmb-4108b6fe6ed4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/tnfmb/corpsepapi",
+      "mtimeMs": 1784177631690
     }
   },
   "tracks": [
@@ -24383,6 +24397,20 @@
       },
       "sourcePath": "https://soundcloud.com/curatedexposure/natia-feat-5mil-ftw",
       "mtimeMs": 1784177170729
+    },
+    {
+      "title": "corpse looks sad w/ snuffcide (tnfmb)",
+      "artist": "tnfmb, snuffcide",
+      "originalTrackName": "tnfmb, snuffcide - corpse looks sad w/ snuffcide (tnfmb)",
+      "source": "whisper_only",
+      "file": "tracks/tnfmb-snuffcide-corpse-looks-sad-w-snuffcide-tnfmb-4108b6fe6ed4.json",
+      "files": {
+        "lyrics": "tracks/tnfmb-snuffcide-corpse-looks-sad-w-snuffcide-tnfmb-4108b6fe6ed4.json",
+        "meta": "tracks/tnfmb-snuffcide-corpse-looks-sad-w-snuffcide-tnfmb-4108b6fe6ed4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/tnfmb/corpsepapi",
+      "mtimeMs": 1784177631690
     }
   ]
 }

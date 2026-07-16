@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-16T04:54:05.775816+00:00",
-  "totalTracks": 868,
+  "generatedAt": "2026-07-16T05:06:28.335292+00:00",
+  "totalTracks": 869,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12197,6 +12197,20 @@
       },
       "sourcePath": "https://soundcloud.com/tnfmb/corpsepapi",
       "mtimeMs": 1784177646586
+    },
+    "xandera::zombie w/ gl!tz + disoc8 (genshi)": {
+      "title": "zombie w/ gl!tz + disoc8 (genshi)",
+      "artist": "xandera",
+      "originalTrackName": "xandera - zombie w/ gl!tz + disoc8 (genshi)",
+      "source": "whisper_only",
+      "file": "tracks/xandera-zombie-w-gl-tz-disoc8-genshi-33b8d83b49d0.json",
+      "files": {
+        "lyrics": "tracks/xandera-zombie-w-gl-tz-disoc8-genshi-33b8d83b49d0.json",
+        "meta": "tracks/xandera-zombie-w-gl-tz-disoc8-genshi-33b8d83b49d0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/xannndera/zombie-gltz-disoc8-genshi",
+      "mtimeMs": 1784178389347
     }
   },
   "tracks": [
@@ -24411,6 +24425,20 @@
       },
       "sourcePath": "https://soundcloud.com/tnfmb/corpsepapi",
       "mtimeMs": 1784177646586
+    },
+    {
+      "title": "zombie w/ gl!tz + disoc8 (genshi)",
+      "artist": "xandera",
+      "originalTrackName": "xandera - zombie w/ gl!tz + disoc8 (genshi)",
+      "source": "whisper_only",
+      "file": "tracks/xandera-zombie-w-gl-tz-disoc8-genshi-33b8d83b49d0.json",
+      "files": {
+        "lyrics": "tracks/xandera-zombie-w-gl-tz-disoc8-genshi-33b8d83b49d0.json",
+        "meta": "tracks/xandera-zombie-w-gl-tz-disoc8-genshi-33b8d83b49d0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/xannndera/zombie-gltz-disoc8-genshi",
+      "mtimeMs": 1784178389347
     }
   ]
 }

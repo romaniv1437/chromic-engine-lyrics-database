@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T21:45:32.867651+00:00",
-  "totalTracks": 864,
+  "generatedAt": "2026-07-16T04:21:30.291466+00:00",
+  "totalTracks": 865,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12141,6 +12141,20 @@
       },
       "sourcePath": "https://soundcloud.com/tec-ruined-you/lovespell",
       "mtimeMs": 1784151933563
+    },
+    "aaron elliott::celly ru - 1 day (feat. mozzy, june)": {
+      "title": "Celly Ru - 1 Day (feat. Mozzy, June)",
+      "artist": "Aaron Elliott",
+      "originalTrackName": "Aaron Elliott - Celly Ru - 1 Day (feat. Mozzy, June)",
+      "source": "syncedlyrics",
+      "file": "tracks/aaron-elliott-celly-ru-1-day-feat-mozzy-june-bdd370e94726.json",
+      "files": {
+        "lyrics": "tracks/aaron-elliott-celly-ru-1-day-feat-mozzy-june-bdd370e94726.json",
+        "meta": "tracks/aaron-elliott-celly-ru-1-day-feat-mozzy-june-bdd370e94726.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/aaron-elliott-4/celly-ru-1-day-feat-mozzy-june",
+      "mtimeMs": 1784175691756
     }
   },
   "tracks": [
@@ -24299,6 +24313,20 @@
       },
       "sourcePath": "https://soundcloud.com/tec-ruined-you/lovespell",
       "mtimeMs": 1784151933563
+    },
+    {
+      "title": "Celly Ru - 1 Day (feat. Mozzy, June)",
+      "artist": "Aaron Elliott",
+      "originalTrackName": "Aaron Elliott - Celly Ru - 1 Day (feat. Mozzy, June)",
+      "source": "syncedlyrics",
+      "file": "tracks/aaron-elliott-celly-ru-1-day-feat-mozzy-june-bdd370e94726.json",
+      "files": {
+        "lyrics": "tracks/aaron-elliott-celly-ru-1-day-feat-mozzy-june-bdd370e94726.json",
+        "meta": "tracks/aaron-elliott-celly-ru-1-day-feat-mozzy-june-bdd370e94726.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/aaron-elliott-4/celly-ru-1-day-feat-mozzy-june",
+      "mtimeMs": 1784175691756
     }
   ]
 }

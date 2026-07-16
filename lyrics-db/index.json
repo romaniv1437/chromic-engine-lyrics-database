@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-16T05:06:39.584158+00:00",
-  "totalTracks": 869,
+  "generatedAt": "2026-07-16T09:45:07.628928+00:00",
+  "totalTracks": 870,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12211,6 +12211,20 @@
       },
       "sourcePath": "https://soundcloud.com/xannndera/zombie-gltz-disoc8-genshi",
       "mtimeMs": 1784178401697
+    },
+    "cool fish::pupsies - misery (slowed)": {
+      "title": "pupsies - misery (slowed)",
+      "artist": "Cool Fish",
+      "originalTrackName": "Cool Fish - pupsies - misery (slowed)",
+      "source": "lrclib_plain",
+      "file": "tracks/cool-fish-pupsies-misery-slowed-e6535b9587ba.json",
+      "files": {
+        "lyrics": "tracks/cool-fish-pupsies-misery-slowed-e6535b9587ba.json",
+        "meta": "tracks/cool-fish-pupsies-misery-slowed-e6535b9587ba.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/alex-coretes/pupsies-misery-slowed",
+      "mtimeMs": 1784195108741
     }
   },
   "tracks": [
@@ -24439,6 +24453,20 @@
       },
       "sourcePath": "https://soundcloud.com/xannndera/zombie-gltz-disoc8-genshi",
       "mtimeMs": 1784178401697
+    },
+    {
+      "title": "pupsies - misery (slowed)",
+      "artist": "Cool Fish",
+      "originalTrackName": "Cool Fish - pupsies - misery (slowed)",
+      "source": "lrclib_plain",
+      "file": "tracks/cool-fish-pupsies-misery-slowed-e6535b9587ba.json",
+      "files": {
+        "lyrics": "tracks/cool-fish-pupsies-misery-slowed-e6535b9587ba.json",
+        "meta": "tracks/cool-fish-pupsies-misery-slowed-e6535b9587ba.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/alex-coretes/pupsies-misery-slowed",
+      "mtimeMs": 1784195108741
     }
   ]
 }

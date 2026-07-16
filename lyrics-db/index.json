@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-16T15:40:27.631747+00:00",
-  "totalTracks": 870,
+  "generatedAt": "2026-07-16T21:06:45.213588+00:00",
+  "totalTracks": 871,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12225,6 +12225,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/white-tee-w-yung-bruh-prod-nedarb",
       "mtimeMs": 1784216428715
+    },
+    "lil peep::awful things ft. lil tracy (prod. by smokeasac x iivi)": {
+      "title": "Awful Things ft. Lil Tracy (prod. by smokeasac x IIVI)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Awful Things ft. Lil Tracy (prod. by smokeasac x IIVI)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-awful-things-ft-lil-tracy-prod-by-smokeasac-x-iivi-74ec8aed84f3.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-awful-things-ft-lil-tracy-prod-by-smokeasac-x-iivi-74ec8aed84f3.json",
+        "meta": "tracks/lil-peep-awful-things-ft-lil-tracy-prod-by-smokeasac-x-iivi-74ec8aed84f3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/awful-things",
+      "mtimeMs": 1784236005747
     }
   },
   "tracks": [
@@ -24467,6 +24481,20 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/white-tee-w-yung-bruh-prod-nedarb",
       "mtimeMs": 1784216428715
+    },
+    {
+      "title": "Awful Things ft. Lil Tracy (prod. by smokeasac x IIVI)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Awful Things ft. Lil Tracy (prod. by smokeasac x IIVI)",
+      "source": "syncedlyrics",
+      "file": "tracks/lil-peep-awful-things-ft-lil-tracy-prod-by-smokeasac-x-iivi-74ec8aed84f3.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-awful-things-ft-lil-tracy-prod-by-smokeasac-x-iivi-74ec8aed84f3.json",
+        "meta": "tracks/lil-peep-awful-things-ft-lil-tracy-prod-by-smokeasac-x-iivi-74ec8aed84f3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/awful-things",
+      "mtimeMs": 1784236005747
     }
   ]
 }

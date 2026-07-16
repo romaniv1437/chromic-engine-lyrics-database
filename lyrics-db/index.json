@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-16T04:21:42.832568+00:00",
-  "totalTracks": 865,
+  "generatedAt": "2026-07-16T04:38:10.744681+00:00",
+  "totalTracks": 866,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12155,6 +12155,20 @@
       },
       "sourcePath": "https://soundcloud.com/aaron-elliott-4/celly-ru-1-day-feat-mozzy-june",
       "mtimeMs": 1784175704004
+    },
+    "az chike::b.h.t.o [prod. fortwoe]": {
+      "title": "B.H.T.O [Prod. Fortwoe]",
+      "artist": "Az Chike",
+      "originalTrackName": "Az Chike - B.H.T.O [Prod. Fortwoe]",
+      "source": "whisper_only",
+      "file": "tracks/az-chike-b-h-t-o-prod-fortwoe-e3762ca7fb53.json",
+      "files": {
+        "lyrics": "tracks/az-chike-b-h-t-o-prod-fortwoe-e3762ca7fb53.json",
+        "meta": "tracks/az-chike-b-h-t-o-prod-fortwoe-e3762ca7fb53.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/chikebes/bhto-prod-fortwoe",
+      "mtimeMs": 1784176691565
     }
   },
   "tracks": [
@@ -24327,6 +24341,20 @@
       },
       "sourcePath": "https://soundcloud.com/aaron-elliott-4/celly-ru-1-day-feat-mozzy-june",
       "mtimeMs": 1784175704004
+    },
+    {
+      "title": "B.H.T.O [Prod. Fortwoe]",
+      "artist": "Az Chike",
+      "originalTrackName": "Az Chike - B.H.T.O [Prod. Fortwoe]",
+      "source": "whisper_only",
+      "file": "tracks/az-chike-b-h-t-o-prod-fortwoe-e3762ca7fb53.json",
+      "files": {
+        "lyrics": "tracks/az-chike-b-h-t-o-prod-fortwoe-e3762ca7fb53.json",
+        "meta": "tracks/az-chike-b-h-t-o-prod-fortwoe-e3762ca7fb53.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/chikebes/bhto-prod-fortwoe",
+      "mtimeMs": 1784176691565
     }
   ]
 }

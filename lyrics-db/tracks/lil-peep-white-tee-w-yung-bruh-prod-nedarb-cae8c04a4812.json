@@ -1,1998 +1,1386 @@
 [
   {
     "text": "●",
-    "startTime": 5.03,
-    "endTime": 132.285,
+    "startTime": 0.3,
+    "endTime": 27.13,
     "words": [],
     "type": "vocal_cue",
-    "time": 5.03,
-    "end": 132.285
+    "time": 0.3,
+    "end": 27.13
   },
   {
-    "text": "●",
-    "startTime": 9.76,
-    "endTime": 132.285,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 9.76,
-    "end": 132.285
-  },
-  {
-    "text": "●",
-    "startTime": 14.48,
-    "endTime": 132.285,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 14.48,
-    "end": 132.285
-  },
-  {
-    "text": "●",
-    "startTime": 19.21,
-    "endTime": 132.285,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 19.21,
-    "end": 132.285
-  },
-  {
-    "text": "I used to think I loved you, now I know it ain't",
-    "startTime": 24.24,
-    "endTime": 27.72,
+    "text": "ain't true now i know it's not true",
+    "startTime": 27.13,
+    "endTime": 29.65,
     "words": [
-      {
-        "word": "I",
-        "start": 24.576,
-        "end": 24.8,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "used",
-        "start": 24.8,
-        "end": 25.14,
-        "spoken": true
-      },
-      {
-        "word": "to",
-        "start": 25.14,
-        "end": 25.34,
-        "spoken": true
-      },
-      {
-        "word": "think",
-        "start": 25.484,
-        "end": 25.58,
-        "spoken": true
-      },
-      {
-        "word": "I",
-        "start": 25.58,
-        "end": 25.88,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "loved",
-        "start": 25.88,
-        "end": 26.2,
-        "spoken": true
-      },
-      {
-        "word": "you,",
-        "start": 26.44,
-        "end": 26.6,
-        "spoken": true
-      },
-      {
-        "word": "now",
-        "start": 26.86,
-        "end": 26.9
-      },
-      {
-        "word": "I",
-        "start": 26.9,
-        "end": 26.9
-      },
-      {
-        "word": "know",
-        "start": 26.9,
-        "end": 27.18,
-        "spoken": true
-      },
-      {
-        "word": "it",
-        "start": 27.18,
-        "end": 27.4,
-        "spoken": true
-      },
       {
         "word": "ain't",
-        "start": 27.4,
-        "end": 27.72
-      }
-    ],
-    "time": 24.24,
-    "end": 27.72
-  },
-  {
-    "text": "true, now I know it's not true",
-    "startTime": 27.72,
-    "endTime": 29.64,
-    "words": [
-      {
-        "word": "true,",
-        "start": 27.72,
-        "end": 28.1,
-        "spoken": true
-      },
-      {
-        "word": "now",
-        "start": 28.146,
-        "end": 28.48
-      },
-      {
-        "word": "I",
-        "start": 28.48,
-        "end": 28.5
-      },
-      {
-        "word": "know",
-        "start": 28.5,
-        "end": 28.72,
-        "spoken": true
-      },
-      {
-        "word": "it's",
-        "start": 28.72,
-        "end": 29.08,
-        "spoken": true
-      },
-      {
-        "word": "not",
-        "start": 29.08,
-        "end": 29.36,
-        "spoken": true
+        "start": 27.13,
+        "end": 27.77,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "true",
-        "start": 29.36,
-        "end": 29.64,
-        "spoken": true
-      }
-    ],
-    "time": 27.72,
-    "end": 29.64
-  },
-  {
-    "text": "50 on my boxers, bitch I know you see me Shinin' in",
-    "startTime": 29.64,
-    "endTime": 33.54,
-    "words": [
-      {
-        "word": "50",
-        "start": 29.71,
-        "end": 30.08,
-        "stretch": true,
-        "spoken": true
+        "start": 27.77,
+        "end": 28.07,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
-        "word": "on",
-        "start": 30.08,
-        "end": 30.36,
-        "spoken": true
+        "word": "now",
+        "start": 28.163,
+        "end": 28.43,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
-        "word": "my",
-        "start": 30.552,
-        "end": 30.68,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "boxers,",
-        "start": 30.68,
-        "end": 31.32,
-        "spoken": true
-      },
-      {
-        "word": "bitch",
-        "start": 31.38,
-        "end": 31.6
-      },
-      {
-        "word": "I",
-        "start": 31.6,
-        "end": 31.68,
-        "spoken": true
+        "word": "i",
+        "start": 28.43,
+        "end": 28.47,
+        "singer": "singer1"
       },
       {
         "word": "know",
-        "start": 31.68,
-        "end": 31.88,
-        "spoken": true
-      },
-      {
-        "word": "you",
-        "start": 31.88,
-        "end": 32.22
-      },
-      {
-        "word": "see",
-        "start": 32.22,
-        "end": 32.46
-      },
-      {
-        "word": "me",
-        "start": 32.576,
-        "end": 32.88,
-        "stretch": true
-      },
-      {
-        "word": "Shinin'",
-        "start": 32.926,
-        "end": 33.28
-      },
-      {
-        "word": "in",
-        "start": 33.34,
-        "end": 33.54
-      }
-    ],
-    "time": 29.64,
-    "end": 33.54
-  },
-  {
-    "text": "my white T, it's easy, I make it look easy",
-    "startTime": 33.54,
-    "endTime": 36.62,
-    "words": [
-      {
-        "word": "my",
-        "start": 33.54,
-        "end": 33.8
-      },
-      {
-        "word": "white",
-        "start": 33.8,
-        "end": 34.16
-      },
-      {
-        "word": "T,",
-        "start": 34.16,
-        "end": 34.4
+        "start": 28.47,
+        "end": 28.71,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "it's",
-        "start": 34.62,
-        "end": 34.76
+        "start": 28.71,
+        "end": 29.09,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
-        "word": "easy,",
-        "start": 34.76,
-        "end": 35.08
+        "word": "not",
+        "start": 29.09,
+        "end": 29.33,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
-        "word": "I",
-        "start": 35.3,
-        "end": 35.54,
+        "word": "true",
+        "start": 29.33,
+        "end": 29.65,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 27.13,
+    "end": 29.65
+  },
+  {
+    "text": "50 on my boxers bitch",
+    "startTime": 29.65,
+    "endTime": 31.59,
+    "words": [
+      {
+        "word": "50",
+        "start": 29.696,
+        "end": 30.09,
         "stretch": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
-        "word": "make",
-        "start": 35.54,
-        "end": 35.74,
-        "spoken": true
+        "word": "on",
+        "start": 30.09,
+        "end": 30.35,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
-        "word": "it",
-        "start": 35.74,
-        "end": 35.94,
-        "spoken": true
+        "word": "my",
+        "start": 30.542,
+        "end": 30.67,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
-        "word": "look",
-        "start": 36.072,
-        "end": 36.16,
-        "spoken": true
+        "word": "boxers",
+        "start": 30.67,
+        "end": 31.27,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bitch",
+        "start": 31.363,
+        "end": 31.59,
+        "singer": "singer1"
+      }
+    ],
+    "time": 29.65,
+    "end": 31.59
+  },
+  {
+    "text": "i know you see me shining in my white tee",
+    "startTime": 31.59,
+    "endTime": 34.37,
+    "words": [
+      {
+        "word": "i",
+        "start": 31.59,
+        "end": 31.69,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "know",
+        "start": 31.69,
+        "end": 31.89,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 31.89,
+        "end": 32.21,
+        "singer": "singer1"
+      },
+      {
+        "word": "see",
+        "start": 32.21,
+        "end": 32.43,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 32.569,
+        "end": 32.89,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "shining",
+        "start": 32.936,
+        "end": 33.25,
+        "singer": "singer1"
+      },
+      {
+        "word": "in",
+        "start": 33.418,
+        "end": 33.53,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 33.53,
+        "end": 33.81,
+        "singer": "singer1"
+      },
+      {
+        "word": "white",
+        "start": 33.81,
+        "end": 34.15,
+        "singer": "singer1"
+      },
+      {
+        "word": "tee",
+        "start": 34.15,
+        "end": 34.37,
+        "singer": "singer1"
+      }
+    ],
+    "time": 31.59,
+    "end": 34.37
+  },
+  {
+    "text": "it's easy i make it look easy",
+    "startTime": 34.37,
+    "endTime": 36.63,
+    "words": [
+      {
+        "word": "it's",
+        "start": 34.533,
+        "end": 34.75,
+        "singer": "singer1"
       },
       {
         "word": "easy",
-        "start": 36.16,
-        "end": 36.62,
-        "sung": true
-      }
-    ],
-    "time": 33.54,
-    "end": 36.62
-  },
-  {
-    "text": "Believe me, we Gucci Young pump bitch, fuckin' on the young bitch",
-    "startTime": 36.62,
-    "endTime": 42.02,
-    "words": [
-      {
-        "word": "Believe",
-        "start": 36.62,
-        "end": 37.18,
-        "spoken": true
+        "start": 34.75,
+        "end": 35.11,
+        "singer": "singer1"
       },
       {
-        "word": "me,",
-        "start": 37.18,
-        "end": 37.48,
-        "spoken": true
+        "word": "i",
+        "start": 35.11,
+        "end": 35.53,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "make",
+        "start": 35.576,
+        "end": 35.73,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "it",
+        "start": 35.73,
+        "end": 35.95,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "look",
+        "start": 36.082,
+        "end": 36.17,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "easy",
+        "start": 36.17,
+        "end": 36.63,
+        "singer": "singer1"
+      }
+    ],
+    "time": 34.37,
+    "end": 36.63
+  },
+  {
+    "text": "believe me we gucci",
+    "startTime": 36.63,
+    "endTime": 38.27,
+    "words": [
+      {
+        "word": "believe",
+        "start": 36.955,
+        "end": 37.25,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 37.25,
+        "end": 37.49,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "we",
-        "start": 37.676,
-        "end": 37.78
+        "start": 37.658,
+        "end": 37.77,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
-        "word": "Gucci",
-        "start": 37.78,
-        "end": 38.24
-      },
+        "word": "gucci",
+        "start": 37.77,
+        "end": 38.27,
+        "singer": "singer1"
+      }
+    ],
+    "time": 36.63,
+    "end": 38.27
+  },
+  {
+    "text": "young pump bitch fuckin on the young bitch",
+    "startTime": 38.27,
+    "endTime": 41.87,
+    "words": [
       {
-        "word": "Young",
-        "start": 38.59,
-        "end": 39.3,
+        "word": "young",
+        "start": 38.62,
+        "end": 39.29,
         "stretch": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "pump",
-        "start": 39.3,
-        "end": 39.74,
-        "spoken": true
-      },
-      {
-        "word": "bitch,",
-        "start": 39.74,
-        "end": 40.04,
-        "spoken": true
-      },
-      {
-        "word": "fuckin'",
-        "start": 40.19,
-        "end": 40.42,
-        "spoken": true
-      },
-      {
-        "word": "on",
-        "start": 40.62,
-        "end": 40.78,
-        "spoken": true
-      },
-      {
-        "word": "the",
-        "start": 40.936,
-        "end": 41.04
-      },
-      {
-        "word": "young",
-        "start": 41.04,
-        "end": 41.38,
-        "spoken": true
+        "start": 39.336,
+        "end": 39.73,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "bitch",
-        "start": 41.38,
-        "end": 42.02,
-        "spoken": true
+        "start": 39.73,
+        "end": 40.05,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fuckin",
+        "start": 40.166,
+        "end": 40.45,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 40.45,
+        "end": 40.77,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 40.77,
+        "end": 41.05,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "young",
+        "start": 41.05,
+        "end": 41.41,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bitch",
+        "start": 41.41,
+        "end": 41.87,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 36.62,
-    "end": 42.02
+    "time": 38.27,
+    "end": 41.87
   },
   {
-    "text": "Fell in love when she saw me in the club, bitch Young",
-    "startTime": 42.02,
-    "endTime": 45.62,
+    "text": "fell in love when she saw me in the club",
+    "startTime": 41.87,
+    "endTime": 44.55,
     "words": [
       {
-        "word": "Fell",
-        "start": 42.159,
-        "end": 42.36,
-        "spoken": true
+        "word": "fell",
+        "start": 41.87,
+        "end": 42.37,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "in",
-        "start": 42.546,
-        "end": 42.68,
-        "stretch": true,
-        "spoken": true
+        "start": 42.502,
+        "end": 42.59,
+        "singer": "singer1"
       },
       {
         "word": "love",
-        "start": 42.68,
-        "end": 42.9,
-        "spoken": true
+        "start": 42.59,
+        "end": 42.91,
+        "singer": "singer1"
       },
       {
         "word": "when",
-        "start": 42.9,
-        "end": 43.08,
-        "spoken": true
+        "start": 42.91,
+        "end": 43.09,
+        "singer": "singer1"
       },
       {
         "word": "she",
-        "start": 43.08,
-        "end": 43.26,
-        "spoken": true
+        "start": 43.09,
+        "end": 43.25,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "saw",
-        "start": 43.26,
-        "end": 43.52,
-        "spoken": true
+        "start": 43.25,
+        "end": 43.53,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "me",
-        "start": 43.52,
-        "end": 43.82,
-        "spoken": true
+        "start": 43.53,
+        "end": 43.85,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "in",
-        "start": 43.82,
-        "end": 44.02,
-        "spoken": true
+        "start": 43.85,
+        "end": 43.95,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 44.14,
-        "end": 44.22,
-        "spoken": true
-      },
-      {
-        "word": "club,",
-        "start": 44.22,
-        "end": 44.56,
-        "spoken": true
-      },
-      {
-        "word": "bitch",
-        "start": 44.84,
-        "end": 44.94,
-        "spoken": true
-      },
-      {
-        "word": "Young",
-        "start": 45.172,
-        "end": 45.62,
-        "sung": true
-      }
-    ],
-    "time": 42.02,
-    "end": 45.62
-  },
-  {
-    "text": "pump bitch, fuckin' on the jump, bitch",
-    "startTime": 45.62,
-    "endTime": 48.08,
-    "words": [
-      {
-        "word": "pump",
-        "start": 45.713,
-        "end": 46.16
-      },
-      {
-        "word": "bitch,",
-        "start": 46.16,
-        "end": 46.44
-      },
-      {
-        "word": "fuckin'",
-        "start": 46.753,
-        "end": 46.86
-      },
-      {
-        "word": "on",
-        "start": 47.0,
-        "end": 47.2
-      },
-      {
-        "word": "the",
-        "start": 47.339,
-        "end": 47.46
-      },
-      {
-        "word": "jump,",
-        "start": 47.46,
-        "end": 47.74
-      },
-      {
-        "word": "bitch",
-        "start": 47.92,
-        "end": 48.08
-      }
-    ],
-    "time": 45.62,
-    "end": 48.08
-  },
-  {
-    "text": "Shawty fell in love, now she doin' all my drugs, young boy",
-    "startTime": 48.08,
-    "endTime": 51.26,
-    "words": [
-      {
-        "word": "Shawty",
-        "start": 48.08,
-        "end": 48.5,
-        "spoken": true
-      },
-      {
-        "word": "fell",
-        "start": 48.5,
-        "end": 48.84,
-        "spoken": true
-      },
-      {
-        "word": "in",
-        "start": 48.956,
-        "end": 49.1,
-        "spoken": true
-      },
-      {
-        "word": "love,",
-        "start": 49.1,
-        "end": 49.26,
-        "spoken": true
-      },
-      {
-        "word": "now",
-        "start": 49.32,
-        "end": 49.46,
-        "spoken": true
-      },
-      {
-        "word": "she",
-        "start": 49.628,
-        "end": 49.74,
-        "spoken": true
-      },
-      {
-        "word": "doin'",
-        "start": 49.74,
-        "end": 50.06,
-        "spoken": true
-      },
-      {
-        "word": "all",
-        "start": 50.24,
-        "end": 50.36,
-        "spoken": true
-      },
-      {
-        "word": "my",
-        "start": 50.528,
-        "end": 50.64,
-        "spoken": true
-      },
-      {
-        "word": "drugs,",
-        "start": 50.64,
-        "end": 50.9,
-        "spoken": true
-      },
-      {
-        "word": "young",
-        "start": 51.086,
-        "end": 51.24,
-        "spoken": true
-      },
-      {
-        "word": "boy",
-        "start": 51.24,
-        "end": 51.26
-      }
-    ],
-    "time": 48.08,
-    "end": 51.26
-  },
-  {
-    "text": "Standin' in the club like Lil Mama in my eyes, now I",
-    "startTime": 51.26,
-    "endTime": 54.56,
-    "words": [
-      {
-        "word": "Standin'",
-        "start": 51.26,
-        "end": 51.78,
-        "spoken": true
-      },
-      {
-        "word": "in",
-        "start": 51.78,
-        "end": 51.98,
-        "spoken": true
-      },
-      {
-        "word": "the",
-        "start": 51.98,
-        "end": 52.18,
-        "spoken": true
+        "start": 44.118,
+        "end": 44.23,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "club",
-        "start": 52.18,
-        "end": 52.44,
-        "spoken": true
-      },
-      {
-        "word": "like",
-        "start": 52.44,
-        "end": 52.64,
-        "spoken": true
-      },
-      {
-        "word": "Lil",
-        "start": 52.64,
-        "end": 52.9,
-        "spoken": true
-      },
-      {
-        "word": "Mama",
-        "start": 52.9,
-        "end": 53.24,
-        "spoken": true
-      },
-      {
-        "word": "in",
-        "start": 53.24,
-        "end": 53.44,
-        "spoken": true
-      },
-      {
-        "word": "my",
-        "start": 53.44,
-        "end": 53.82,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "eyes,",
-        "start": 53.82,
-        "end": 54.04,
-        "spoken": true
-      },
-      {
-        "word": "now",
-        "start": 54.14,
-        "end": 54.42,
-        "spoken": true
-      },
-      {
-        "word": "I",
-        "start": 54.42,
-        "end": 54.56,
-        "spoken": true
+        "start": 44.23,
+        "end": 44.55,
+        "singer": "singer1"
       }
     ],
-    "time": 51.26,
-    "end": 54.56
+    "time": 41.87,
+    "end": 44.55
   },
   {
-    "text": "should go home with me tonight",
-    "startTime": 54.56,
-    "endTime": 56.0,
+    "text": "bitch young pump bitch fuckin on the drunk",
+    "startTime": 44.55,
+    "endTime": 47.61,
     "words": [
       {
-        "word": "should",
-        "start": 54.56,
-        "end": 54.7,
-        "spoken": true
+        "word": "bitch",
+        "start": 44.596,
+        "end": 45.23,
+        "sung": true,
+        "singer": "singer1"
       },
       {
-        "word": "go",
-        "start": 54.7,
-        "end": 54.98,
-        "spoken": true
+        "word": "young",
+        "start": 45.23,
+        "end": 45.65,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
-        "word": "home",
-        "start": 54.98,
-        "end": 55.18,
-        "spoken": true
+        "word": "pump",
+        "start": 45.72,
+        "end": 46.23,
+        "singer": "singer1"
       },
       {
-        "word": "with",
-        "start": 55.18,
-        "end": 55.4,
-        "spoken": true
+        "word": "bitch",
+        "start": 46.369,
+        "end": 46.47,
+        "singer": "singer1"
       },
       {
-        "word": "me",
-        "start": 55.4,
-        "end": 55.6,
-        "spoken": true
-      },
-      {
-        "word": "tonight",
-        "start": 55.6,
-        "end": 56.0,
-        "spoken": true
-      }
-    ],
-    "time": 54.56,
-    "end": 56.0
-  },
-  {
-    "text": "We connect like wifi, yeah I'm on the table, booty on my",
-    "startTime": 56.0,
-    "endTime": 60.26,
-    "words": [
-      {
-        "word": "We",
-        "start": 56.0,
-        "end": 56.38,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "connect",
-        "start": 56.38,
-        "end": 56.58,
-        "spoken": true
-      },
-      {
-        "word": "like",
-        "start": 56.58,
-        "end": 56.98,
-        "spoken": true
-      },
-      {
-        "word": "wifi,",
-        "start": 56.98,
-        "end": 57.62,
-        "sung": true
-      },
-      {
-        "word": "yeah",
-        "start": 57.84,
-        "end": 58.0,
-        "spoken": true
-      },
-      {
-        "word": "I'm",
-        "start": 58.0,
-        "end": 58.18,
-        "spoken": true
+        "word": "fuckin",
+        "start": 46.563,
+        "end": 46.87,
+        "singer": "singer1"
       },
       {
         "word": "on",
-        "start": 58.18,
-        "end": 58.36,
-        "spoken": true
+        "start": 46.986,
+        "end": 47.19,
+        "stretch": true,
+        "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 58.36,
-        "end": 58.66,
-        "spoken": true
+        "start": 47.346,
+        "end": 47.45,
+        "singer": "singer1"
       },
       {
-        "word": "table,",
-        "start": 58.66,
-        "end": 59.14,
-        "spoken": true
+        "word": "drunk",
+        "start": 47.45,
+        "end": 47.61,
+        "singer": "singer1"
+      }
+    ],
+    "time": 44.55,
+    "end": 47.61
+  },
+  {
+    "text": "bitch now she doing all my drugs young boy",
+    "startTime": 47.61,
+    "endTime": 51.31,
+    "words": [
+      {
+        "word": "bitch",
+        "start": 47.886,
+        "end": 48.07,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
-        "word": "booty",
-        "start": 59.4,
-        "end": 59.62
+        "word": "now",
+        "start": 48.946,
+        "end": 49.15,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "she",
+        "start": 49.15,
+        "end": 49.63,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "doing",
+        "start": 49.769,
+        "end": 50.09,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "all",
+        "start": 50.09,
+        "end": 50.37,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 50.514,
+        "end": 50.61,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "drugs",
+        "start": 50.61,
+        "end": 50.91,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "young",
+        "start": 51.073,
+        "end": 51.25,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "boy",
+        "start": 51.25,
+        "end": 51.31,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 47.61,
+    "end": 51.31
+  },
+  {
+    "text": "standing in the club like lil momma aint on my side she",
+    "startTime": 51.31,
+    "endTime": 54.69,
+    "words": [
+      {
+        "word": "standing",
+        "start": 51.31,
+        "end": 51.63,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "in",
+        "start": 51.63,
+        "end": 51.97,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "the",
+        "start": 51.97,
+        "end": 52.19,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "club",
+        "start": 52.19,
+        "end": 52.43,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "like",
+        "start": 52.43,
+        "end": 52.69,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "lil",
+        "start": 52.69,
+        "end": 52.93,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "momma",
+        "start": 52.93,
+        "end": 53.25,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "aint",
+        "start": 53.25,
+        "end": 53.43,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "on",
-        "start": 59.62,
-        "end": 59.94,
-        "stretch": true
+        "start": 53.43,
+        "end": 53.63,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "my",
-        "start": 59.94,
-        "end": 60.26,
+        "start": 53.63,
+        "end": 53.87,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "side",
+        "start": 53.87,
+        "end": 54.23,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "she",
+        "start": 54.23,
+        "end": 54.69,
         "stretch": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       }
     ],
-    "time": 56.0,
-    "end": 60.26
+    "time": 51.31,
+    "end": 54.69
   },
   {
-    "text": "waist",
-    "startTime": 60.26,
-    "endTime": 60.54,
+    "text": "going with me tonight we can do like wi -fi yeah i'm",
+    "startTime": 54.69,
+    "endTime": 58.17,
     "words": [
       {
-        "word": "waist",
-        "start": 60.26,
-        "end": 60.54
-      }
-    ],
-    "time": 60.26,
-    "end": 60.54
-  },
-  {
-    "text": "Take out my switchblade, tonight you'll be safe",
-    "startTime": 60.54,
-    "endTime": 63.94,
-    "words": [
-      {
-        "word": "Take",
-        "start": 60.54,
-        "end": 60.88
+        "word": "going",
+        "start": 54.69,
+        "end": 54.99,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
-        "word": "out",
-        "start": 60.88,
-        "end": 61.22,
-        "spoken": true
+        "word": "with",
+        "start": 54.99,
+        "end": 55.25,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
-        "word": "my",
-        "start": 61.22,
-        "end": 61.52,
+        "word": "me",
+        "start": 55.25,
+        "end": 55.59,
         "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "switchblade,",
-        "start": 61.52,
-        "end": 62.08,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
         "word": "tonight",
-        "start": 62.42,
-        "end": 62.72,
-        "spoken": true
+        "start": 55.59,
+        "end": 56.05,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
-        "word": "you'll",
-        "start": 62.72,
-        "end": 63.08,
-        "spoken": true
-      },
-      {
-        "word": "be",
-        "start": 63.08,
-        "end": 63.4,
+        "word": "we",
+        "start": 56.05,
+        "end": 56.41,
         "stretch": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
-        "word": "safe",
-        "start": 63.4,
-        "end": 63.94,
-        "spoken": true
+        "word": "can",
+        "start": 56.41,
+        "end": 56.49,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "do",
+        "start": 56.49,
+        "end": 56.71,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "like",
+        "start": 56.71,
+        "end": 56.95,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "wi",
+        "start": 56.95,
+        "end": 57.31,
+        "stretch": true,
+        "sung": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "-fi",
+        "start": 57.31,
+        "end": 57.65,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "yeah",
+        "start": 57.65,
+        "end": 57.99,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "i'm",
+        "start": 57.99,
+        "end": 58.17,
+        "spoken": true,
+        "singer": "singer2"
       }
     ],
-    "time": 60.54,
-    "end": 63.94
+    "time": 54.69,
+    "end": 58.17
   },
   {
-    "text": "There's no switchblade and I will pull it out",
-    "startTime": 63.94,
-    "endTime": 66.96,
+    "text": "on the table",
+    "startTime": 58.17,
+    "endTime": 59.21,
     "words": [
       {
-        "word": "There's",
-        "start": 64.172,
-        "end": 64.5,
-        "sung": true
+        "word": "on",
+        "start": 58.17,
+        "end": 58.39,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
-        "word": "no",
-        "start": 64.5,
-        "end": 64.62,
-        "spoken": true
+        "word": "the",
+        "start": 58.39,
+        "end": 58.65,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
-        "word": "switchblade",
-        "start": 64.62,
-        "end": 65.28,
-        "spoken": true
+        "word": "table",
+        "start": 58.65,
+        "end": 59.21,
+        "spoken": true,
+        "singer": "singer2"
+      }
+    ],
+    "time": 58.17,
+    "end": 59.21
+  },
+  {
+    "text": "booty on my waist and got my switchblade tonight",
+    "startTime": 59.21,
+    "endTime": 62.65,
+    "words": [
+      {
+        "word": "booty",
+        "start": 59.21,
+        "end": 59.61,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "on",
+        "start": 59.61,
+        "end": 59.93,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "my",
+        "start": 59.93,
+        "end": 60.25,
+        "stretch": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "waist",
+        "start": 60.25,
+        "end": 60.59,
+        "singer": "singer1"
       },
       {
         "word": "and",
-        "start": 65.28,
-        "end": 65.56,
-        "spoken": true
+        "start": 60.59,
+        "end": 60.83,
+        "singer": "singer1"
       },
       {
-        "word": "I",
-        "start": 65.56,
-        "end": 65.82,
+        "word": "got",
+        "start": 60.83,
+        "end": 61.15,
+        "spoken": true,
+        "singer": "singer2"
+      },
+      {
+        "word": "my",
+        "start": 61.15,
+        "end": 61.47,
         "stretch": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer2"
       },
       {
-        "word": "will",
-        "start": 65.82,
-        "end": 66.0,
-        "spoken": true
+        "word": "switchblade",
+        "start": 61.47,
+        "end": 62.23,
+        "spoken": true,
+        "singer": "singer2"
       },
       {
-        "word": "pull",
-        "start": 66.0,
-        "end": 66.28,
-        "spoken": true
-      },
-      {
-        "word": "it",
-        "start": 66.28,
-        "end": 66.7,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "out",
-        "start": 66.7,
-        "end": 66.96,
-        "spoken": true
+        "word": "tonight",
+        "start": 62.23,
+        "end": 62.65,
+        "spoken": true,
+        "singer": "singer2"
       }
     ],
-    "time": 63.94,
-    "end": 66.96
+    "time": 59.21,
+    "end": 62.65
   },
   {
-    "text": "There's love goin' up, baby will you hold me down",
-    "startTime": 66.96,
-    "endTime": 70.04,
+    "text": "●",
+    "startTime": 62.95,
+    "endTime": 77.95,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 62.95,
+    "end": 77.95
+  },
+  {
+    "text": "love you now i know it ain't true",
+    "startTime": 77.95,
+    "endTime": 80.29,
     "words": [
       {
-        "word": "There's",
-        "start": 66.96,
-        "end": 67.52,
-        "sung": true
-      },
-      {
         "word": "love",
-        "start": 67.52,
-        "end": 67.68,
-        "spoken": true
-      },
-      {
-        "word": "goin'",
-        "start": 67.68,
-        "end": 68.12,
-        "spoken": true
-      },
-      {
-        "word": "up,",
-        "start": 68.34,
-        "end": 68.44,
-        "spoken": true
-      },
-      {
-        "word": "baby",
-        "start": 68.5,
-        "end": 68.86
-      },
-      {
-        "word": "will",
-        "start": 68.86,
-        "end": 69.1,
-        "spoken": true
+        "start": 78.089,
+        "end": 78.35,
+        "singer": "singer1"
       },
       {
         "word": "you",
-        "start": 69.1,
-        "end": 69.26,
-        "spoken": true
-      },
-      {
-        "word": "hold",
-        "start": 69.26,
-        "end": 69.42,
-        "spoken": true
-      },
-      {
-        "word": "me",
-        "start": 69.684,
-        "end": 69.86,
-        "stretch": true
-      },
-      {
-        "word": "down",
-        "start": 69.86,
-        "end": 70.04,
-        "spoken": true
-      }
-    ],
-    "time": 66.96,
-    "end": 70.04
-  },
-  {
-    "text": "And the ice on my wrist, eat all my wrist break",
-    "startTime": 70.04,
-    "endTime": 73.38,
-    "words": [
-      {
-        "word": "And",
-        "start": 70.328,
-        "end": 70.52,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "the",
-        "start": 70.52,
-        "end": 70.56
-      },
-      {
-        "word": "ice",
-        "start": 70.56,
-        "end": 70.88,
-        "spoken": true
-      },
-      {
-        "word": "on",
-        "start": 70.88,
-        "end": 71.1,
-        "spoken": true
-      },
-      {
-        "word": "my",
-        "start": 71.1,
-        "end": 71.46,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "wrist,",
-        "start": 71.46,
-        "end": 71.82,
-        "spoken": true
-      },
-      {
-        "word": "eat",
-        "start": 72.18,
-        "end": 72.22
-      },
-      {
-        "word": "all",
-        "start": 72.22,
-        "end": 72.42,
-        "spoken": true
-      },
-      {
-        "word": "my",
-        "start": 72.42,
-        "end": 72.72
-      },
-      {
-        "word": "wrist",
-        "start": 72.72,
-        "end": 73.06
-      },
-      {
-        "word": "break",
-        "start": 73.06,
-        "end": 73.38
-      }
-    ],
-    "time": 70.04,
-    "end": 73.38
-  },
-  {
-    "text": "I'm in your driveway, baby let's skirt away",
-    "startTime": 73.38,
-    "endTime": 76.72,
-    "words": [
-      {
-        "word": "I'm",
-        "start": 73.656,
-        "end": 73.84,
-        "stretch": true,
-        "sung": true
-      },
-      {
-        "word": "in",
-        "start": 73.84,
-        "end": 74.0,
-        "spoken": true
-      },
-      {
-        "word": "your",
-        "start": 74.0,
-        "end": 74.26,
-        "spoken": true
-      },
-      {
-        "word": "driveway,",
-        "start": 74.26,
-        "end": 74.72,
-        "spoken": true
-      },
-      {
-        "word": "baby",
-        "start": 75.06,
-        "end": 75.22,
-        "spoken": true
-      },
-      {
-        "word": "let's",
-        "start": 75.22,
-        "end": 75.68,
-        "spoken": true
-      },
-      {
-        "word": "skirt",
-        "start": 75.68,
-        "end": 75.86,
-        "sung": true
-      },
-      {
-        "word": "away",
-        "start": 75.86,
-        "end": 76.72,
-        "stretch": true
-      }
-    ],
-    "time": 73.38,
-    "end": 76.72
-  },
-  {
-    "text": "Used to think I loved you, now I know it ain't true,",
-    "startTime": 76.72,
-    "endTime": 80.28,
-    "words": [
-      {
-        "word": "Used",
-        "start": 76.72,
-        "end": 77.12,
-        "spoken": true
-      },
-      {
-        "word": "to",
-        "start": 77.12,
-        "end": 77.52,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "think",
-        "start": 77.676,
-        "end": 77.78,
-        "spoken": true
-      },
-      {
-        "word": "I",
-        "start": 77.972,
-        "end": 78.1,
-        "stretch": true
-      },
-      {
-        "word": "loved",
-        "start": 78.1,
-        "end": 78.42
-      },
-      {
-        "word": "you,",
-        "start": 78.624,
-        "end": 78.76,
-        "spoken": true
+        "start": 78.59,
+        "end": 78.75,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "now",
-        "start": 78.92,
-        "end": 79.0,
-        "spoken": true
+        "start": 78.796,
+        "end": 79.07,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
-        "word": "I",
-        "start": 79.0,
-        "end": 79.14,
-        "spoken": true
+        "word": "i",
+        "start": 79.07,
+        "end": 79.13,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "know",
-        "start": 79.14,
-        "end": 79.4,
-        "spoken": true
+        "start": 79.13,
+        "end": 79.39,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "it",
-        "start": 79.4,
-        "end": 79.64,
-        "spoken": true
+        "start": 79.39,
+        "end": 79.65,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "ain't",
-        "start": 79.64,
-        "end": 79.92
-      },
-      {
-        "word": "true,",
-        "start": 79.92,
-        "end": 80.28,
-        "spoken": true
-      }
-    ],
-    "time": 76.72,
-    "end": 80.28
-  },
-  {
-    "text": "now I know it's not true",
-    "startTime": 80.3,
-    "endTime": 81.86,
-    "words": [
-      {
-        "word": "now",
-        "start": 80.3,
-        "end": 80.6,
-        "spoken": true
-      },
-      {
-        "word": "I",
-        "start": 80.6,
-        "end": 80.7,
-        "spoken": true
-      },
-      {
-        "word": "know",
-        "start": 80.7,
-        "end": 80.94,
-        "spoken": true
-      },
-      {
-        "word": "it's",
-        "start": 80.94,
-        "end": 81.3,
-        "spoken": true
-      },
-      {
-        "word": "not",
-        "start": 81.3,
-        "end": 81.56,
-        "spoken": true
+        "start": 79.65,
+        "end": 80.07,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "true",
-        "start": 81.56,
-        "end": 81.86,
-        "spoken": true
+        "start": 80.07,
+        "end": 80.29,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 80.3,
-    "end": 81.86
+    "time": 77.95,
+    "end": 80.29
   },
   {
-    "text": "50 on my boxers, bitch I know you see me Shinin' in",
-    "startTime": 81.86,
-    "endTime": 85.76,
+    "text": "now i know it's not true 50 on my boxers",
+    "startTime": 80.29,
+    "endTime": 83.51,
     "words": [
       {
-        "word": "50",
-        "start": 81.93,
-        "end": 82.3,
-        "stretch": true
+        "word": "now",
+        "start": 80.36,
+        "end": 80.63,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
-        "word": "on",
-        "start": 82.3,
-        "end": 82.58
-      },
-      {
-        "word": "my",
-        "start": 82.58,
-        "end": 82.9,
-        "stretch": true
-      },
-      {
-        "word": "boxers,",
-        "start": 82.9,
-        "end": 83.48,
-        "spoken": true
-      },
-      {
-        "word": "bitch",
-        "start": 83.68,
-        "end": 83.8,
-        "spoken": true
-      },
-      {
-        "word": "I",
-        "start": 83.8,
-        "end": 83.88,
-        "spoken": true
+        "word": "i",
+        "start": 80.63,
+        "end": 80.69,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "know",
-        "start": 83.88,
-        "end": 84.1,
-        "spoken": true
-      },
-      {
-        "word": "you",
-        "start": 84.1,
-        "end": 84.46
-      },
-      {
-        "word": "see",
-        "start": 84.46,
-        "end": 84.64
-      },
-      {
-        "word": "me",
-        "start": 84.64,
-        "end": 85.1,
-        "stretch": true
-      },
-      {
-        "word": "Shinin'",
-        "start": 85.146,
-        "end": 85.5
-      },
-      {
-        "word": "in",
-        "start": 85.54,
-        "end": 85.76
-      }
-    ],
-    "time": 81.86,
-    "end": 85.76
-  },
-  {
-    "text": "my white T, it's easy, I make it look easy",
-    "startTime": 85.76,
-    "endTime": 88.86,
-    "words": [
-      {
-        "word": "my",
-        "start": 85.76,
-        "end": 86.04
-      },
-      {
-        "word": "white",
-        "start": 86.04,
-        "end": 86.36
-      },
-      {
-        "word": "T,",
-        "start": 86.36,
-        "end": 86.6
+        "start": 80.69,
+        "end": 81.11,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "it's",
-        "start": 86.8,
-        "end": 86.94
+        "start": 81.11,
+        "end": 81.35,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
-        "word": "easy,",
-        "start": 86.94,
-        "end": 87.28
+        "word": "not",
+        "start": 81.35,
+        "end": 81.57,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
-        "word": "I",
-        "start": 87.56,
-        "end": 87.76,
+        "word": "true",
+        "start": 81.57,
+        "end": 81.89,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "50",
+        "start": 81.936,
+        "end": 82.31,
         "stretch": true,
-        "spoken": true
+        "spoken": true,
+        "singer": "singer1"
       },
       {
-        "word": "make",
-        "start": 87.76,
-        "end": 87.98,
-        "spoken": true
+        "word": "on",
+        "start": 82.31,
+        "end": 82.59,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
-        "word": "it",
-        "start": 87.98,
-        "end": 88.14,
-        "spoken": true
+        "word": "my",
+        "start": 82.59,
+        "end": 82.89,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
-        "word": "look",
-        "start": 88.284,
-        "end": 88.38,
-        "spoken": true
+        "word": "boxers",
+        "start": 82.89,
+        "end": 83.51,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 80.29,
+    "end": 83.51
+  },
+  {
+    "text": "bitch i know you see me shining",
+    "startTime": 83.51,
+    "endTime": 85.47,
+    "words": [
+      {
+        "word": "bitch",
+        "start": 83.51,
+        "end": 83.77,
+        "singer": "singer1"
+      },
+      {
+        "word": "i",
+        "start": 83.77,
+        "end": 83.95,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "know",
+        "start": 83.95,
+        "end": 84.13,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "you",
+        "start": 84.13,
+        "end": 84.43,
+        "singer": "singer1"
+      },
+      {
+        "word": "see",
+        "start": 84.43,
+        "end": 84.67,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 84.67,
+        "end": 85.11,
+        "stretch": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "shining",
+        "start": 85.156,
+        "end": 85.47,
+        "singer": "singer1"
+      }
+    ],
+    "time": 83.51,
+    "end": 85.47
+  },
+  {
+    "text": "in my white tee it's easy i make",
+    "startTime": 85.47,
+    "endTime": 87.99,
+    "words": [
+      {
+        "word": "in",
+        "start": 85.638,
+        "end": 85.75,
+        "singer": "singer1"
+      },
+      {
+        "word": "my",
+        "start": 85.75,
+        "end": 86.03,
+        "singer": "singer1"
+      },
+      {
+        "word": "white",
+        "start": 86.03,
+        "end": 86.39,
+        "singer": "singer1"
+      },
+      {
+        "word": "tee",
+        "start": 86.39,
+        "end": 86.61,
+        "singer": "singer1"
+      },
+      {
+        "word": "it's",
+        "start": 86.749,
+        "end": 87.01,
+        "singer": "singer1"
       },
       {
         "word": "easy",
-        "start": 88.38,
-        "end": 88.86,
-        "sung": true
-      }
-    ],
-    "time": 85.76,
-    "end": 88.86
-  },
-  {
-    "text": "Believe me, we Gucci Young pump bitch, fuckin' on the young bitch",
-    "startTime": 88.86,
-    "endTime": 94.06,
-    "words": [
-      {
-        "word": "Believe",
-        "start": 89.185,
-        "end": 89.48
+        "start": 87.01,
+        "end": 87.31,
+        "singer": "singer1"
       },
       {
-        "word": "me,",
-        "start": 89.48,
-        "end": 89.7,
-        "spoken": true
+        "word": "i",
+        "start": 87.31,
+        "end": 87.75,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "make",
+        "start": 87.75,
+        "end": 87.99,
+        "singer": "singer1"
+      }
+    ],
+    "time": 85.47,
+    "end": 87.99
+  },
+  {
+    "text": "it look easy believe me we gucci",
+    "startTime": 87.99,
+    "endTime": 91.07,
+    "words": [
+      {
+        "word": "it",
+        "start": 87.99,
+        "end": 88.19,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "look",
+        "start": 88.346,
+        "end": 88.45,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "easy",
+        "start": 88.45,
+        "end": 88.85,
+        "sung": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "believe",
+        "start": 88.85,
+        "end": 89.47,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "me",
+        "start": 89.47,
+        "end": 89.71,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "we",
-        "start": 89.864,
-        "end": 89.96,
-        "whisper": true
+        "start": 89.866,
+        "end": 89.97,
+        "whisper": true,
+        "singer": "singer1"
       },
       {
-        "word": "Gucci",
-        "start": 90.006,
-        "end": 90.96,
-        "stretch": true
-      },
+        "word": "gucci",
+        "start": 90.016,
+        "end": 91.07,
+        "stretch": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 87.99,
+    "end": 91.07
+  },
+  {
+    "text": "young pump bitch fuckin on the young bitch",
+    "startTime": 91.07,
+    "endTime": 94.11,
+    "words": [
       {
-        "word": "Young",
-        "start": 91.272,
-        "end": 91.48,
-        "spoken": true
+        "word": "young",
+        "start": 91.31,
+        "end": 91.47,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "pump",
-        "start": 91.55,
-        "end": 91.94
-      },
-      {
-        "word": "bitch,",
-        "start": 91.986,
-        "end": 92.26
-      },
-      {
-        "word": "fuckin'",
-        "start": 92.386,
-        "end": 92.64,
-        "spoken": true
-      },
-      {
-        "word": "on",
-        "start": 92.88,
-        "end": 93.0,
-        "spoken": true
-      },
-      {
-        "word": "the",
-        "start": 93.156,
-        "end": 93.26,
-        "spoken": true
-      },
-      {
-        "word": "young",
-        "start": 93.26,
-        "end": 93.62,
-        "spoken": true
+        "start": 91.54,
+        "end": 91.97,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "bitch",
-        "start": 93.62,
-        "end": 94.06,
-        "spoken": true
+        "start": 91.97,
+        "end": 92.27,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "fuckin",
+        "start": 92.386,
+        "end": 92.69,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "on",
+        "start": 92.69,
+        "end": 93.05,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "the",
+        "start": 93.05,
+        "end": 93.27,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "young",
+        "start": 93.27,
+        "end": 93.61,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bitch",
+        "start": 93.61,
+        "end": 94.11,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 88.86,
-    "end": 94.06
+    "time": 91.07,
+    "end": 94.11
   },
   {
-    "text": "Fell in love when she saw me in the club, bitch Young",
-    "startTime": 94.06,
-    "endTime": 97.88,
+    "text": "fell in love when she saw me in the club",
+    "startTime": 94.11,
+    "endTime": 96.77,
     "words": [
       {
-        "word": "Fell",
-        "start": 94.06,
-        "end": 94.62,
-        "spoken": true
+        "word": "fell",
+        "start": 94.11,
+        "end": 94.63,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "in",
-        "start": 94.716,
-        "end": 94.78
+        "start": 94.762,
+        "end": 94.85,
+        "singer": "singer1"
       },
       {
         "word": "love",
-        "start": 94.78,
-        "end": 95.12
+        "start": 94.85,
+        "end": 95.15,
+        "singer": "singer1"
       },
       {
         "word": "when",
-        "start": 95.12,
-        "end": 95.3
+        "start": 95.15,
+        "end": 95.31,
+        "singer": "singer1"
       },
       {
         "word": "she",
-        "start": 95.3,
-        "end": 95.5,
-        "spoken": true
+        "start": 95.31,
+        "end": 95.45,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "saw",
-        "start": 95.5,
-        "end": 95.86,
-        "spoken": true
+        "start": 95.45,
+        "end": 95.81,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "me",
-        "start": 95.86,
-        "end": 96.08,
-        "spoken": true
+        "start": 95.81,
+        "end": 96.11,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "in",
-        "start": 96.08,
-        "end": 96.2,
-        "spoken": true
+        "start": 96.11,
+        "end": 96.23,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "the",
-        "start": 96.363,
-        "end": 96.5,
-        "spoken": true
-      },
-      {
-        "word": "club,",
-        "start": 96.5,
-        "end": 96.78,
-        "spoken": true
-      },
-      {
-        "word": "bitch",
-        "start": 97.16,
-        "end": 97.16
-      },
-      {
-        "word": "Young",
-        "start": 97.51,
-        "end": 97.88,
-        "sung": true
-      }
-    ],
-    "time": 94.06,
-    "end": 97.88
-  },
-  {
-    "text": "pump bitch, fuckin' on the jump, bitch",
-    "startTime": 97.88,
-    "endTime": 100.3,
-    "words": [
-      {
-        "word": "pump",
-        "start": 97.95,
-        "end": 98.4
-      },
-      {
-        "word": "bitch,",
-        "start": 98.4,
-        "end": 98.66
-      },
-      {
-        "word": "fuckin'",
-        "start": 98.86,
-        "end": 99.08
-      },
-      {
-        "word": "on",
-        "start": 99.24,
-        "end": 99.4
-      },
-      {
-        "word": "the",
-        "start": 99.556,
-        "end": 99.66
-      },
-      {
-        "word": "jump,",
-        "start": 99.66,
-        "end": 100.02
-      },
-      {
-        "word": "bitch",
-        "start": 100.16,
-        "end": 100.3
-      }
-    ],
-    "time": 97.88,
-    "end": 100.3
-  },
-  {
-    "text": "Shawty fell in love, now she doin' all my drugs, young boy",
-    "startTime": 100.3,
-    "endTime": 103.46,
-    "words": [
-      {
-        "word": "Shawty",
-        "start": 100.346,
-        "end": 100.72,
-        "spoken": true
-      },
-      {
-        "word": "fell",
-        "start": 100.72,
-        "end": 101.06,
-        "spoken": true
-      },
-      {
-        "word": "in",
-        "start": 101.176,
-        "end": 101.26
-      },
-      {
-        "word": "love,",
-        "start": 101.26,
-        "end": 101.48,
-        "spoken": true
-      },
-      {
-        "word": "now",
-        "start": 101.58,
-        "end": 101.7,
-        "sung": true
-      },
-      {
-        "word": "she",
-        "start": 101.7,
-        "end": 101.94,
-        "spoken": true
-      },
-      {
-        "word": "doin'",
-        "start": 101.94,
-        "end": 102.28,
-        "spoken": true
-      },
-      {
-        "word": "all",
-        "start": 102.46,
-        "end": 102.6,
-        "spoken": true
-      },
-      {
-        "word": "my",
-        "start": 102.756,
-        "end": 102.86,
-        "spoken": true
-      },
-      {
-        "word": "drugs,",
-        "start": 102.86,
-        "end": 103.14,
-        "spoken": true
-      },
-      {
-        "word": "young",
-        "start": 103.14,
-        "end": 103.44,
-        "spoken": true
-      },
-      {
-        "word": "boy",
-        "start": 103.44,
-        "end": 103.46
-      }
-    ],
-    "time": 100.3,
-    "end": 103.46
-  },
-  {
-    "text": "Standin' in the club like Lil Mama in my eyes, now I",
-    "startTime": 103.46,
-    "endTime": 106.76,
-    "words": [
-      {
-        "word": "Standin'",
-        "start": 103.46,
-        "end": 103.98,
-        "spoken": true
-      },
-      {
-        "word": "in",
-        "start": 103.98,
-        "end": 104.18,
-        "spoken": true
-      },
-      {
-        "word": "the",
-        "start": 104.18,
-        "end": 104.42,
-        "spoken": true
+        "start": 96.369,
+        "end": 96.51,
+        "spoken": true,
+        "singer": "singer1"
       },
       {
         "word": "club",
-        "start": 104.42,
-        "end": 104.64,
-        "spoken": true
-      },
-      {
-        "word": "like",
-        "start": 104.64,
-        "end": 104.86,
-        "spoken": true
-      },
-      {
-        "word": "Lil",
-        "start": 104.86,
-        "end": 105.14,
-        "spoken": true
-      },
-      {
-        "word": "Mama",
-        "start": 105.14,
-        "end": 105.42,
-        "spoken": true
-      },
-      {
-        "word": "in",
-        "start": 105.42,
-        "end": 105.62,
-        "spoken": true
-      },
-      {
-        "word": "my",
-        "start": 105.62,
-        "end": 106.0,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "eyes,",
-        "start": 106.0,
-        "end": 106.3,
-        "spoken": true
-      },
-      {
-        "word": "now",
-        "start": 106.3,
-        "end": 106.6,
-        "spoken": true
-      },
-      {
-        "word": "I",
-        "start": 106.6,
-        "end": 106.76,
-        "stretch": true,
-        "spoken": true
+        "start": 96.51,
+        "end": 96.77,
+        "spoken": true,
+        "singer": "singer1"
       }
     ],
-    "time": 103.46,
-    "end": 106.76
+    "time": 94.11,
+    "end": 96.77
   },
   {
-    "text": "should go home with me tonight",
-    "startTime": 106.76,
-    "endTime": 108.16,
+    "text": "bitch",
+    "startTime": 96.77,
+    "endTime": 97.53,
     "words": [
       {
-        "word": "should",
-        "start": 106.76,
-        "end": 106.9,
-        "spoken": true
-      },
-      {
-        "word": "go",
-        "start": 106.9,
-        "end": 107.22,
+        "word": "bitch",
+        "start": 96.816,
+        "end": 97.53,
         "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "home",
-        "start": 107.22,
-        "end": 107.36,
-        "spoken": true
-      },
-      {
-        "word": "with",
-        "start": 107.36,
-        "end": 107.54,
-        "spoken": true
-      },
-      {
-        "word": "me",
-        "start": 107.54,
-        "end": 107.78,
-        "spoken": true
-      },
-      {
-        "word": "tonight",
-        "start": 107.78,
-        "end": 108.16,
-        "spoken": true
+        "sung": true,
+        "singer": "singer1"
       }
     ],
-    "time": 106.76,
-    "end": 108.16
-  },
-  {
-    "text": "We connect like wifi, yeah I'm on the table, booty on my",
-    "startTime": 108.16,
-    "endTime": 112.46,
-    "words": [
-      {
-        "word": "We",
-        "start": 108.16,
-        "end": 108.58,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "connect",
-        "start": 108.58,
-        "end": 108.8,
-        "spoken": true
-      },
-      {
-        "word": "like",
-        "start": 108.8,
-        "end": 109.18,
-        "spoken": true
-      },
-      {
-        "word": "wifi,",
-        "start": 109.18,
-        "end": 109.74
-      },
-      {
-        "word": "yeah",
-        "start": 110.02,
-        "end": 110.18,
-        "sung": true
-      },
-      {
-        "word": "I'm",
-        "start": 110.18,
-        "end": 110.44,
-        "spoken": true
-      },
-      {
-        "word": "on",
-        "start": 110.44,
-        "end": 110.58,
-        "spoken": true
-      },
-      {
-        "word": "the",
-        "start": 110.58,
-        "end": 110.86,
-        "spoken": true
-      },
-      {
-        "word": "table,",
-        "start": 110.86,
-        "end": 111.34,
-        "spoken": true
-      },
-      {
-        "word": "booty",
-        "start": 111.34,
-        "end": 111.84
-      },
-      {
-        "word": "on",
-        "start": 111.84,
-        "end": 112.16,
-        "stretch": true
-      },
-      {
-        "word": "my",
-        "start": 112.16,
-        "end": 112.46
-      }
-    ],
-    "time": 108.16,
-    "end": 112.46
-  },
-  {
-    "text": "waist",
-    "startTime": 112.46,
-    "endTime": 112.76,
-    "words": [
-      {
-        "word": "waist",
-        "start": 112.46,
-        "end": 112.76
-      }
-    ],
-    "time": 112.46,
-    "end": 112.76
-  },
-  {
-    "text": "Take out my switchblade, tonight you'll be safe",
-    "startTime": 112.76,
-    "endTime": 116.18,
-    "words": [
-      {
-        "word": "Take",
-        "start": 112.76,
-        "end": 113.1
-      },
-      {
-        "word": "out",
-        "start": 113.1,
-        "end": 113.4,
-        "spoken": true
-      },
-      {
-        "word": "my",
-        "start": 113.4,
-        "end": 113.7,
-        "spoken": true
-      },
-      {
-        "word": "switchblade,",
-        "start": 113.7,
-        "end": 114.36,
-        "spoken": true
-      },
-      {
-        "word": "tonight",
-        "start": 114.68,
-        "end": 114.92,
-        "spoken": true
-      },
-      {
-        "word": "you'll",
-        "start": 115.106,
-        "end": 115.28,
-        "spoken": true
-      },
-      {
-        "word": "be",
-        "start": 115.28,
-        "end": 115.6,
-        "stretch": true,
-        "spoken": true
-      },
-      {
-        "word": "safe",
-        "start": 115.6,
-        "end": 116.18,
-        "spoken": true
-      }
-    ],
-    "time": 112.76,
-    "end": 116.18
+    "time": 96.77,
+    "end": 97.53
   },
   {
     "text": "●",
-    "startTime": 119.58,
-    "endTime": 132.285,
+    "startTime": 97.83,
+    "endTime": 114.36,
     "words": [],
     "type": "vocal_cue",
-    "time": 119.58,
-    "end": 132.285
+    "time": 97.83,
+    "end": 114.36
+  },
+  {
+    "text": "young pump bitch",
+    "startTime": 114.36,
+    "endTime": 116.02,
+    "words": [
+      {
+        "word": "young",
+        "start": 114.523,
+        "end": 114.72,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "pump",
+        "start": 114.79,
+        "end": 115.04,
+        "spoken": true,
+        "singer": "singer1"
+      },
+      {
+        "word": "bitch",
+        "start": 115.04,
+        "end": 116.02,
+        "stretch": true,
+        "spoken": true,
+        "singer": "singer1"
+      }
+    ],
+    "time": 114.36,
+    "end": 116.02
   },
   {
     "text": "●",
-    "startTime": 122.68,
+    "startTime": 116.32,
     "endTime": 132.285,
     "words": [],
     "type": "vocal_cue",
-    "time": 122.68,
-    "end": 132.285
-  },
-  {
-    "text": "●",
-    "startTime": 125.78,
-    "endTime": 132.285,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 125.78,
-    "end": 132.285
-  },
-  {
-    "text": "●",
-    "startTime": 128.88,
-    "endTime": 132.285,
-    "words": [],
-    "type": "vocal_cue",
-    "time": 128.88,
+    "time": 116.32,
     "end": 132.285
   }
 ]

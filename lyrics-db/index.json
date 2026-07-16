@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-16T04:38:24.072298+00:00",
-  "totalTracks": 866,
+  "generatedAt": "2026-07-16T04:45:56.700787+00:00",
+  "totalTracks": 867,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12169,6 +12169,20 @@
       },
       "sourcePath": "https://soundcloud.com/chikebes/bhto-prod-fortwoe",
       "mtimeMs": 1784176705392
+    },
+    "skyy likes watching movies::natia feat. 5mil - f.t.w.": {
+      "title": "Natia Feat. 5MIL - F.T.W.",
+      "artist": "Skyy Likes Watching Movies",
+      "originalTrackName": "Skyy Likes Watching Movies - Natia Feat. 5MIL - F.T.W.",
+      "source": "whisper_only",
+      "file": "tracks/skyy-likes-watching-movies-natia-feat-5mil-f-t-w-961275df7429.json",
+      "files": {
+        "lyrics": "tracks/skyy-likes-watching-movies-natia-feat-5mil-f-t-w-961275df7429.json",
+        "meta": "tracks/skyy-likes-watching-movies-natia-feat-5mil-f-t-w-961275df7429.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/curatedexposure/natia-feat-5mil-ftw",
+      "mtimeMs": 1784177157781
     }
   },
   "tracks": [
@@ -24355,6 +24369,20 @@
       },
       "sourcePath": "https://soundcloud.com/chikebes/bhto-prod-fortwoe",
       "mtimeMs": 1784176705392
+    },
+    {
+      "title": "Natia Feat. 5MIL - F.T.W.",
+      "artist": "Skyy Likes Watching Movies",
+      "originalTrackName": "Skyy Likes Watching Movies - Natia Feat. 5MIL - F.T.W.",
+      "source": "whisper_only",
+      "file": "tracks/skyy-likes-watching-movies-natia-feat-5mil-f-t-w-961275df7429.json",
+      "files": {
+        "lyrics": "tracks/skyy-likes-watching-movies-natia-feat-5mil-f-t-w-961275df7429.json",
+        "meta": "tracks/skyy-likes-watching-movies-natia-feat-5mil-f-t-w-961275df7429.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/curatedexposure/natia-feat-5mil-ftw",
+      "mtimeMs": 1784177157781
     }
   ]
 }

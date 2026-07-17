@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T21:41:59.387286+00:00",
+  "generatedAt": "2026-07-17T21:49:41.837420+00:00",
   "totalTracks": 875,
   "roots": [
     "lyrics-db/tracks"
@@ -12226,22 +12226,6 @@
       "sourcePath": "https://soundcloud.com/lil_peep/awful-things",
       "mtimeMs": 1784236016544
     },
-    "ibeantrill::lil peep - told ya": {
-      "title": "LiL PEEP - Told Ya",
-      "artist": "ibeantrill",
-      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
-      "source": "syncedlyrics",
-      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
-      "files": {
-        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
-        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
-      "mtimeMs": 1784292329140,
-      "has_haptics": true,
-      "haptics_version": 1
-    },
     "madk1d, #единица::крипипасты": {
       "title": "крипипасты",
       "artist": "madk1d, #единица",
@@ -12303,6 +12287,22 @@
       },
       "sourcePath": "https://soundcloud.com/bigheadonthebeat/lil-peep-benz-truck-pt-2-prod-by-killbighead-x-smokeasac-artwork-crimewave",
       "mtimeMs": 1784324520602
+    },
+    "ibeantrill::lil peep - told ya": {
+      "title": "LiL PEEP - Told Ya",
+      "artist": "ibeantrill",
+      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
+      "source": "whisper_only",
+      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+      "files": {
+        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
+      "mtimeMs": 1784324983010,
+      "has_haptics": true,
+      "haptics_version": 3
     }
   },
   "tracks": [
@@ -24547,22 +24547,6 @@
       "mtimeMs": 1784236016544
     },
     {
-      "title": "LiL PEEP - Told Ya",
-      "artist": "ibeantrill",
-      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
-      "source": "syncedlyrics",
-      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
-      "files": {
-        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
-        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
-      "mtimeMs": 1784292329140,
-      "has_haptics": true,
-      "haptics_version": 1
-    },
-    {
       "title": "крипипасты",
       "artist": "madk1d, #единица",
       "originalTrackName": "madk1d, #единица - крипипасты",
@@ -24623,6 +24607,22 @@
       },
       "sourcePath": "https://soundcloud.com/bigheadonthebeat/lil-peep-benz-truck-pt-2-prod-by-killbighead-x-smokeasac-artwork-crimewave",
       "mtimeMs": 1784324520602
+    },
+    {
+      "title": "LiL PEEP - Told Ya",
+      "artist": "ibeantrill",
+      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
+      "source": "whisper_only",
+      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+      "files": {
+        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
+      "mtimeMs": 1784324983010,
+      "has_haptics": true,
+      "haptics_version": 3
     }
   ]
 }

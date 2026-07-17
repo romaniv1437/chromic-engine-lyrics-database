@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T21:06:55.347525+00:00",
+  "generatedAt": "2026-07-17T11:44:22.813504+00:00",
   "totalTracks": 871,
   "roots": [
     "lyrics-db/tracks"
@@ -10542,20 +10542,6 @@
       "sourcePath": "https://soundcloud.com/6hours/lil-peep-x-lil-tracy-fuck-fame-prod-dj-smokey",
       "mtimeMs": 1782860456785
     },
-    "ibeantrill::lil peep - told ya": {
-      "title": "LiL PEEP - Told Ya",
-      "artist": "ibeantrill",
-      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
-      "source": "whisper_only",
-      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
-      "files": {
-        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
-        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
-      "mtimeMs": 1783065487407
-    },
     "playboi carti, vory::made it this far (outro)": {
       "title": "MADE IT THIS FAR (OUTRO)",
       "artist": "PLAYBOI CARTI, VORY",
@@ -12239,6 +12225,22 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/awful-things",
       "mtimeMs": 1784236016544
+    },
+    "ibeantrill::lil peep - told ya": {
+      "title": "LiL PEEP - Told Ya",
+      "artist": "ibeantrill",
+      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
+      "source": "whisper_only",
+      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+      "files": {
+        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
+      "mtimeMs": 1784288664028,
+      "has_haptics": true,
+      "haptics_version": 1
     }
   },
   "tracks": [
@@ -22799,20 +22801,6 @@
       "mtimeMs": 1782860456785
     },
     {
-      "title": "LiL PEEP - Told Ya",
-      "artist": "ibeantrill",
-      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
-      "source": "whisper_only",
-      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
-      "files": {
-        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
-        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
-      "mtimeMs": 1783065487407
-    },
-    {
       "title": "MADE IT THIS FAR (OUTRO)",
       "artist": "PLAYBOI CARTI, VORY",
       "originalTrackName": "PLAYBOI CARTI, VORY - MADE IT THIS FAR (OUTRO)",
@@ -24495,6 +24483,22 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/awful-things",
       "mtimeMs": 1784236016544
+    },
+    {
+      "title": "LiL PEEP - Told Ya",
+      "artist": "ibeantrill",
+      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
+      "source": "whisper_only",
+      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+      "files": {
+        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
+      "mtimeMs": 1784288664028,
+      "has_haptics": true,
+      "haptics_version": 1
     }
   ]
 }

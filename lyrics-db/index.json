@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T12:45:27.970169+00:00",
-  "totalTracks": 871,
+  "generatedAt": "2026-07-17T16:31:43.655256+00:00",
+  "totalTracks": 872,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12241,6 +12241,22 @@
       "mtimeMs": 1784292329140,
       "has_haptics": true,
       "haptics_version": 1
+    },
+    "madk1d, #единица::крипипасты": {
+      "title": "крипипасты",
+      "artist": "madk1d, #единица",
+      "originalTrackName": "madk1d, #единица - крипипасты",
+      "source": "whisper_only",
+      "file": "tracks/madk1d-3285651ad558.json",
+      "files": {
+        "lyrics": "tracks/madk1d-3285651ad558.json",
+        "meta": "tracks/madk1d-3285651ad558.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/skyrendsolo/krippipasty",
+      "mtimeMs": 1784305904864,
+      "has_haptics": false,
+      "haptics_version": null
     }
   },
   "tracks": [
@@ -24499,6 +24515,22 @@
       "mtimeMs": 1784292329140,
       "has_haptics": true,
       "haptics_version": 1
+    },
+    {
+      "title": "крипипасты",
+      "artist": "madk1d, #единица",
+      "originalTrackName": "madk1d, #единица - крипипасты",
+      "source": "whisper_only",
+      "file": "tracks/madk1d-3285651ad558.json",
+      "files": {
+        "lyrics": "tracks/madk1d-3285651ad558.json",
+        "meta": "tracks/madk1d-3285651ad558.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/skyrendsolo/krippipasty",
+      "mtimeMs": 1784305904864,
+      "has_haptics": false,
+      "haptics_version": null
     }
   ]
 }

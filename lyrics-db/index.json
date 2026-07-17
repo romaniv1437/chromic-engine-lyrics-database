@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T16:31:57.966739+00:00",
-  "totalTracks": 873,
+  "generatedAt": "2026-07-17T16:33:29.429655+00:00",
+  "totalTracks": 874,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12271,6 +12271,22 @@
       },
       "sourcePath": "https://soundcloud.com/user-736147963/nyan-mp3-etoyu-vesnoj",
       "mtimeMs": 1784305918592,
+      "has_haptics": false,
+      "haptics_version": null
+    },
+    "valentinoff::темный принц - overdose  (ntro remix by valentinoff)": {
+      "title": "ТЕМНЫЙ ПРИНЦ - OVERDOSE  (NTRO REMIX BY VALENTINOFF)",
+      "artist": "VaLentinoff",
+      "originalTrackName": "VaLentinoff - ТЕМНЫЙ ПРИНЦ - OVERDOSE  (NTRO REMIX BY VALENTINOFF)",
+      "source": "syncedlyrics",
+      "file": "tracks/valentinoff-overdose-ntro-remix-by-valentinoff-bda5c579919a.json",
+      "files": {
+        "lyrics": "tracks/valentinoff-overdose-ntro-remix-by-valentinoff-bda5c579919a.json",
+        "meta": "tracks/valentinoff-overdose-ntro-remix-by-valentinoff-bda5c579919a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil-sklipe/temnyj-princz-overdose-ntro",
+      "mtimeMs": 1784306010305,
       "has_haptics": false,
       "haptics_version": null
     }
@@ -24561,6 +24577,22 @@
       },
       "sourcePath": "https://soundcloud.com/user-736147963/nyan-mp3-etoyu-vesnoj",
       "mtimeMs": 1784305918592,
+      "has_haptics": false,
+      "haptics_version": null
+    },
+    {
+      "title": "ТЕМНЫЙ ПРИНЦ - OVERDOSE  (NTRO REMIX BY VALENTINOFF)",
+      "artist": "VaLentinoff",
+      "originalTrackName": "VaLentinoff - ТЕМНЫЙ ПРИНЦ - OVERDOSE  (NTRO REMIX BY VALENTINOFF)",
+      "source": "syncedlyrics",
+      "file": "tracks/valentinoff-overdose-ntro-remix-by-valentinoff-bda5c579919a.json",
+      "files": {
+        "lyrics": "tracks/valentinoff-overdose-ntro-remix-by-valentinoff-bda5c579919a.json",
+        "meta": "tracks/valentinoff-overdose-ntro-remix-by-valentinoff-bda5c579919a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil-sklipe/temnyj-princz-overdose-ntro",
+      "mtimeMs": 1784306010305,
       "has_haptics": false,
       "haptics_version": null
     }

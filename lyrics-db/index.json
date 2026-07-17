@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T16:31:43.655256+00:00",
-  "totalTracks": 872,
+  "generatedAt": "2026-07-17T16:31:57.966739+00:00",
+  "totalTracks": 873,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12255,6 +12255,22 @@
       },
       "sourcePath": "https://soundcloud.com/skyrendsolo/krippipasty",
       "mtimeMs": 1784305904864,
+      "has_haptics": false,
+      "haptics_version": null
+    },
+    "nεllyn_::nyan.mp3 - этою весной": {
+      "title": "nyan.mp3 - Этою весной",
+      "artist": "Nεllyn_",
+      "originalTrackName": "Nεllyn_ - nyan.mp3 - Этою весной",
+      "source": "lrclib_plain",
+      "file": "tracks/n-llyn-nyan-mp3-08d607d714bc.json",
+      "files": {
+        "lyrics": "tracks/n-llyn-nyan-mp3-08d607d714bc.json",
+        "meta": "tracks/n-llyn-nyan-mp3-08d607d714bc.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-736147963/nyan-mp3-etoyu-vesnoj",
+      "mtimeMs": 1784305918592,
       "has_haptics": false,
       "haptics_version": null
     }
@@ -24529,6 +24545,22 @@
       },
       "sourcePath": "https://soundcloud.com/skyrendsolo/krippipasty",
       "mtimeMs": 1784305904864,
+      "has_haptics": false,
+      "haptics_version": null
+    },
+    {
+      "title": "nyan.mp3 - Этою весной",
+      "artist": "Nεllyn_",
+      "originalTrackName": "Nεllyn_ - nyan.mp3 - Этою весной",
+      "source": "lrclib_plain",
+      "file": "tracks/n-llyn-nyan-mp3-08d607d714bc.json",
+      "files": {
+        "lyrics": "tracks/n-llyn-nyan-mp3-08d607d714bc.json",
+        "meta": "tracks/n-llyn-nyan-mp3-08d607d714bc.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-736147963/nyan-mp3-etoyu-vesnoj",
+      "mtimeMs": 1784305918592,
       "has_haptics": false,
       "haptics_version": null
     }

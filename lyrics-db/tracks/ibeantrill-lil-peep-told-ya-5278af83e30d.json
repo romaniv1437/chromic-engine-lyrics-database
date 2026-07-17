@@ -1,238 +1,287 @@
 {
   "lines": [
     {
-      "text": "●",
-      "startTime": 0.3,
-      "endTime": 13.28,
-      "words": [],
-      "type": "vocal_cue",
-      "time": 0.3,
-      "end": 13.28
-    },
-    {
-      "text": "oh yeah i told ya i do it for my soldier i",
-      "startTime": 13.28,
-      "endTime": 17.18,
+      "text": "お前, チャーミングな広いおでこしてんな",
+      "startTime": 6.722,
+      "endTime": 12.94,
       "words": [
         {
-          "word": "oh",
-          "start": 13.28,
-          "end": 13.84,
-          "stretch": true
+          "word": "お前,",
+          "start": 6.722,
+          "end": 7.706
         },
         {
-          "word": "yeah",
-          "start": 13.956,
-          "end": 14.4,
+          "word": "チャーミングな広いおでこしてんな",
+          "start": 8.054,
+          "end": 12.94,
+          "sung": true
+        }
+      ],
+      "time": 6.722,
+      "end": 12.94
+    },
+    {
+      "text": "お前—",
+      "startTime": 13.36,
+      "endTime": 13.793,
+      "words": [
+        {
+          "word": "お",
+          "start": 13.36,
+          "end": 13.527,
           "spoken": true
         },
         {
-          "word": "i",
-          "start": 14.586,
-          "end": 14.8,
-          "stretch": true,
+          "word": "前",
+          "start": 13.527,
+          "end": 13.693,
+          "spoken": true
+        },
+        {
+          "word": "—",
+          "start": 13.693,
+          "end": 13.793
+        }
+      ],
+      "time": 13.36,
+      "end": 13.793
+    },
+    {
+      "text": "Oh yeah, I told ya",
+      "startTime": 13.36,
+      "endTime": 15.22,
+      "words": [
+        {
+          "word": "Oh",
+          "start": 13.36,
+          "end": 13.88
+        },
+        {
+          "word": "yeah,",
+          "start": 13.95,
+          "end": 14.7,
+          "char_starts": [
+            13.95,
+            14.04,
+            14.177,
+            14.339,
+            14.521
+          ],
+          "spoken": true
+        },
+        {
+          "word": "I",
+          "start": 14.7,
+          "end": 14.84,
           "spoken": true
         },
         {
           "word": "told",
-          "start": 14.8,
-          "end": 15.06,
-          "spoken": true
+          "start": 14.84,
+          "end": 15.12,
+          "sung": true
         },
         {
           "word": "ya",
-          "start": 15.246,
-          "end": 15.48,
-          "stretch": true,
+          "start": 15.12,
+          "end": 15.22,
           "spoken": true
-        },
+        }
+      ],
+      "time": 13.36,
+      "end": 15.22
+    },
+    {
+      "text": "I do it for my soldier",
+      "startTime": 15.52,
+      "endTime": 16.7,
+      "words": [
         {
-          "word": "i",
-          "start": 15.48,
-          "end": 15.7,
-          "stretch": true
+          "word": "I",
+          "start": 15.52,
+          "end": 15.64
         },
         {
           "word": "do",
-          "start": 15.7,
-          "end": 15.96
+          "start": 15.64,
+          "end": 15.92
         },
         {
           "word": "it",
-          "start": 16.032,
-          "end": 16.08
+          "start": 15.92,
+          "end": 16.06
         },
         {
           "word": "for",
-          "start": 16.126,
+          "start": 16.106,
           "end": 16.32,
           "spoken": true
         },
         {
           "word": "my",
           "start": 16.32,
-          "end": 16.58,
+          "end": 16.6,
           "spoken": true
         },
         {
           "word": "soldier",
-          "start": 16.58,
-          "end": 16.9
-        },
-        {
-          "word": "i",
-          "start": 16.97,
-          "end": 17.18,
-          "stretch": true,
-          "spoken": true
+          "start": 16.6,
+          "end": 16.7
         }
       ],
-      "time": 13.28,
-      "end": 17.18
+      "time": 15.52,
+      "end": 16.7
     },
     {
-      "text": "could show ya sundoh ya but then you lose your fuck is",
-      "startTime": 17.18,
-      "endTime": 20.38,
+      "text": "I can show ya, some dough ya",
+      "startTime": 16.88,
+      "endTime": 18.64,
       "words": [
         {
-          "word": "could",
-          "start": 17.312,
-          "end": 17.4,
+          "word": "I",
+          "start": 16.95,
+          "end": 17.14,
+          "spoken": true
+        },
+        {
+          "word": "can",
+          "start": 17.284,
+          "end": 17.38,
           "spoken": true
         },
         {
           "word": "show",
-          "start": 17.4,
-          "end": 17.66,
+          "start": 17.38,
+          "end": 17.64,
           "spoken": true
+        },
+        {
+          "word": "ya,",
+          "start": 17.94,
+          "end": 18.14,
+          "spoken": true
+        },
+        {
+          "word": "some",
+          "start": 18.14,
+          "end": 18.26,
+          "spoken": true
+        },
+        {
+          "word": "dough",
+          "start": 18.26,
+          "end": 18.54
         },
         {
           "word": "ya",
-          "start": 17.66,
-          "end": 18.0,
-          "stretch": true
-        },
+          "start": 18.54,
+          "end": 18.64
+        }
+      ],
+      "time": 16.88,
+      "end": 18.64
+    },
+    {
+      "text": "But then you lose your focus when I told ya, it's over",
+      "startTime": 19.06,
+      "endTime": 21.96,
+      "words": [
         {
-          "word": "sundoh",
-          "start": 18.0,
-          "end": 18.56,
-          "spoken": true
-        },
-        {
-          "word": "ya",
-          "start": 18.676,
-          "end": 18.86,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "but",
-          "start": 18.86,
-          "end": 19.16,
+          "word": "But",
+          "start": 19.06,
+          "end": 19.14,
           "spoken": true
         },
         {
           "word": "then",
-          "start": 19.16,
-          "end": 19.36
+          "start": 19.14,
+          "end": 19.34,
+          "spoken": true
         },
         {
           "word": "you",
-          "start": 19.492,
-          "end": 19.58,
+          "start": 19.46,
+          "end": 19.54,
           "spoken": true
         },
         {
           "word": "lose",
-          "start": 19.58,
-          "end": 19.8,
+          "start": 19.54,
+          "end": 19.78,
           "spoken": true
         },
         {
           "word": "your",
-          "start": 19.8,
-          "end": 20.04,
-          "spoken": true
+          "start": 19.78,
+          "end": 20.06
         },
         {
-          "word": "fuck",
-          "start": 20.04,
-          "end": 20.2,
-          "spoken": true
+          "word": "focus",
+          "start": 20.06,
+          "end": 20.3
         },
         {
-          "word": "is",
-          "start": 20.2,
-          "end": 20.38,
-          "spoken": true
-        }
-      ],
-      "time": 17.18,
-      "end": 20.38
-    },
-    {
-      "text": "what i told ya it's over she call my motorola like i",
-      "startTime": 20.38,
-      "endTime": 24.32,
-      "words": [
-        {
-          "word": "what",
-          "start": 20.38,
+          "word": "when",
+          "start": 20.3,
           "end": 20.62,
           "spoken": true
         },
         {
-          "word": "i",
+          "word": "I",
           "start": 20.62,
-          "end": 20.9,
-          "stretch": true,
+          "end": 20.88,
           "spoken": true
         },
         {
           "word": "told",
-          "start": 20.9,
-          "end": 21.06
+          "start": 20.88,
+          "end": 21.12,
+          "spoken": true
         },
         {
-          "word": "ya",
-          "start": 21.06,
-          "end": 21.38,
-          "stretch": true
+          "word": "ya,",
+          "start": 21.324,
+          "end": 21.46
         },
         {
           "word": "it's",
-          "start": 21.45,
-          "end": 21.88,
-          "stretch": true,
+          "start": 21.46,
+          "end": 21.86,
           "spoken": true
         },
         {
           "word": "over",
-          "start": 22.012,
-          "end": 22.1
-        },
+          "start": 21.86,
+          "end": 21.96
+        }
+      ],
+      "time": 19.06,
+      "end": 21.96
+    },
+    {
+      "text": "She call my Motorola like a ho, ya, I told ya",
+      "startTime": 22.08,
+      "endTime": 25.5,
+      "words": [
         {
-          "word": "she",
-          "start": 22.1,
-          "end": 22.58,
-          "stretch": true,
+          "word": "She",
+          "start": 22.08,
+          "end": 22.52,
           "spoken": true
         },
         {
           "word": "call",
-          "start": 22.58,
+          "start": 22.52,
           "end": 22.76
         },
         {
           "word": "my",
-          "start": 22.969,
+          "start": 22.946,
           "end": 23.16,
-          "stretch": true,
           "spoken": true
         },
         {
-          "word": "motorola",
+          "word": "Motorola",
           "start": 23.16,
           "end": 23.74,
           "spoken": true
@@ -240,2376 +289,2193 @@
         {
           "word": "like",
           "start": 23.833,
-          "end": 24.06,
+          "end": 24.04,
           "spoken": true
         },
         {
-          "word": "i",
-          "start": 24.216,
-          "end": 24.32,
-          "stretch": true,
-          "spoken": true
-        }
-      ],
-      "time": 20.38,
-      "end": 24.32
-    },
-    {
-      "text": "owe ya i told ya she bitch",
-      "startTime": 24.32,
-      "endTime": 26.28,
-      "words": [
-        {
-          "word": "owe",
-          "start": 24.32,
-          "end": 24.5,
+          "word": "a",
+          "start": 24.04,
+          "end": 24.16,
           "spoken": true
         },
         {
-          "word": "ya",
-          "start": 24.5,
-          "end": 24.78
+          "word": "ho,",
+          "start": 24.253,
+          "end": 24.52,
+          "spoken": true
         },
         {
-          "word": "i",
-          "start": 24.896,
-          "end": 25.1,
-          "stretch": true,
+          "word": "ya,",
+          "start": 24.772,
+          "end": 24.94,
+          "spoken": true
+        },
+        {
+          "word": "I",
+          "start": 24.94,
+          "end": 25.04,
           "spoken": true
         },
         {
           "word": "told",
-          "start": 25.1,
-          "end": 25.38
+          "start": 25.04,
+          "end": 25.4,
+          "spoken": true
         },
         {
           "word": "ya",
-          "start": 25.543,
-          "end": 25.68,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "she",
-          "start": 25.68,
-          "end": 25.96,
-          "spoken": true
-        },
-        {
-          "word": "bitch",
-          "start": 25.96,
-          "end": 26.28
+          "start": 25.4,
+          "end": 25.5
         }
       ],
-      "time": 24.32,
-      "end": 26.28
+      "time": 22.08,
+      "end": 25.5
     },
     {
-      "text": "you wanna fuckin' they corolla",
-      "startTime": 26.28,
-      "endTime": 28.2,
+      "text": "These can wanna ya, in they Corolla, Corona",
+      "startTime": 25.7,
+      "endTime": 28.67,
       "words": [
         {
-          "word": "you",
-          "start": 26.28,
-          "end": 26.44,
+          "word": "These",
+          "start": 25.7,
+          "end": 26.138
+        },
+        {
+          "word": "can",
+          "start": 26.148,
+          "end": 26.4,
           "spoken": true
         },
         {
           "word": "wanna",
-          "start": 26.44,
+          "start": 26.4,
           "end": 26.74,
           "spoken": true
         },
         {
-          "word": "fuckin'",
-          "start": 26.879,
-          "end": 27.16,
+          "word": "ya,",
+          "start": 26.903,
+          "end": 27.112,
+          "spoken": true
+        },
+        {
+          "word": "in",
+          "start": 27.261,
+          "end": 27.36,
           "spoken": true
         },
         {
           "word": "they",
-          "start": 27.484,
-          "end": 27.54,
+          "start": 27.36,
+          "end": 27.5,
           "spoken": true
         },
         {
-          "word": "corolla",
-          "start": 27.54,
-          "end": 28.2
+          "word": "Corolla,",
+          "start": 27.5,
+          "end": 28.16,
+          "char_starts": [
+            27.5,
+            27.549,
+            27.607,
+            27.675,
+            27.752,
+            27.835,
+            27.924,
+            28.019
+          ]
+        },
+        {
+          "word": "Corona",
+          "start": 28.466,
+          "end": 28.67,
+          "char_starts": [
+            28.466,
+            28.496,
+            28.526,
+            28.561,
+            28.599,
+            28.64
+          ]
         }
       ],
-      "time": 26.28,
-      "end": 28.2
+      "time": 25.7,
+      "end": 28.67
     },
     {
-      "text": "corona i'm sippin' em all over",
-      "startTime": 28.2,
-      "endTime": 29.98,
+      "text": "I'm sippin' and I'm smokin, I'm a stoner, I told ya",
+      "startTime": 28.92,
+      "endTime": 32.36,
       "words": [
         {
-          "word": "corona",
-          "start": 28.55,
-          "end": 28.86,
-          "spoken": true
-        },
-        {
-          "word": "i'm",
-          "start": 28.86,
-          "end": 29.48,
-          "stretch": true
+          "word": "I'm",
+          "start": 28.92,
+          "end": 29.42
         },
         {
           "word": "sippin'",
-          "start": 29.48,
-          "end": 29.9
+          "start": 29.42,
+          "end": 29.92
         },
         {
-          "word": "em",
-          "start": 29.94,
-          "end": 29.98
+          "word": "and",
+          "start": 29.92,
+          "end": 30.18
         },
         {
-          "word": "all",
-          "start": 29.98,
-          "end": 29.98
+          "word": "I'm",
+          "start": 30.18,
+          "end": 30.44
         },
         {
-          "word": "over",
-          "start": 29.98,
-          "end": 29.98
-        }
-      ],
-      "time": 28.2,
-      "end": 29.98
-    },
-    {
-      "text": "the place smoking i'm a stoner",
-      "startTime": 29.98,
-      "endTime": 31.6,
-      "words": [
-        {
-          "word": "the",
-          "start": 29.98,
-          "end": 29.98
+          "word": "smokin,",
+          "start": 30.644,
+          "end": 30.78,
+          "spoken": true
         },
         {
-          "word": "place",
-          "start": 29.98,
-          "end": 29.98
-        },
-        {
-          "word": "smoking",
-          "start": 30.0,
-          "end": 30.66
-        },
-        {
-          "word": "i'm",
-          "start": 30.66,
+          "word": "I'm",
+          "start": 30.78,
           "end": 31.06,
-          "stretch": true,
           "spoken": true
         },
         {
           "word": "a",
           "start": 31.06,
-          "end": 31.22,
-          "stretch": true,
+          "end": 31.24,
           "spoken": true
         },
         {
-          "word": "stoner",
-          "start": 31.22,
-          "end": 31.6
-        }
-      ],
-      "time": 29.98,
-      "end": 31.6
-    },
-    {
-      "text": "i told ya i need a couple",
-      "startTime": 31.6,
-      "endTime": 33.6,
-      "words": [
+          "word": "stoner,",
+          "start": 31.24,
+          "end": 31.58
+        },
         {
-          "word": "i",
-          "start": 31.763,
-          "end": 31.98,
-          "stretch": true
+          "word": "I",
+          "start": 31.766,
+          "end": 31.96,
+          "spoken": true
         },
         {
           "word": "told",
-          "start": 31.98,
-          "end": 32.22
-        },
-        {
-          "word": "ya",
-          "start": 32.22,
-          "end": 32.6,
-          "stretch": true
-        },
-        {
-          "word": "i",
-          "start": 32.6,
-          "end": 32.78,
-          "stretch": true
-        },
-        {
-          "word": "need",
-          "start": 32.78,
-          "end": 33.16
-        },
-        {
-          "word": "a",
-          "start": 33.16,
-          "end": 33.4,
-          "stretch": true
-        },
-        {
-          "word": "couple",
-          "start": 33.4,
-          "end": 33.6
-        }
-      ],
-      "time": 31.6,
-      "end": 33.6
-    },
-    {
-      "text": "pounds",
-      "startTime": 33.6,
-      "endTime": 33.96,
-      "words": [
-        {
-          "word": "pounds",
-          "start": 33.6,
-          "end": 33.96,
-          "spoken": true
-        }
-      ],
-      "time": 33.6,
-      "end": 33.96
-    },
-    {
-      "text": "of marijuana for the roller",
-      "startTime": 33.96,
-      "endTime": 35.76,
-      "words": [
-        {
-          "word": "of",
-          "start": 34.152,
-          "end": 34.28,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "marijuana",
-          "start": 34.535,
-          "end": 34.88,
-          "spoken": true
-        },
-        {
-          "word": "for",
-          "start": 35.159,
-          "end": 35.36,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 35.36,
-          "end": 35.5,
+          "start": 31.96,
+          "end": 32.26,
           "sung": true
         },
         {
-          "word": "roller",
-          "start": 35.5,
-          "end": 35.76,
+          "word": "ya",
+          "start": 32.26,
+          "end": 32.36,
           "spoken": true
         }
       ],
-      "time": 33.96,
-      "end": 35.76
+      "time": 28.92,
+      "end": 32.36
     },
     {
-      "text": "but you know it's both smoking",
-      "startTime": 35.76,
-      "endTime": 37.52,
+      "text": "Told Ya - Lil Peep",
+      "startTime": 31.97,
+      "endTime": 34.07,
       "words": [
         {
-          "word": "but",
-          "start": 35.806,
-          "end": 36.1,
+          "word": "Told",
+          "start": 31.97,
+          "end": 32.57,
           "spoken": true
         },
         {
-          "word": "you",
-          "start": 36.1,
-          "end": 36.3
+          "word": "Ya",
+          "start": 32.57,
+          "end": 32.87
+        },
+        {
+          "word": "-",
+          "start": 32.87,
+          "end": 33.02
+        },
+        {
+          "word": "Lil",
+          "start": 33.02,
+          "end": 33.47
+        },
+        {
+          "word": "Peep",
+          "start": 33.47,
+          "end": 34.07,
+          "spoken": true
+        }
+      ],
+      "time": 31.97,
+      "end": 34.07
+    },
+    {
+      "text": "You know us boys, we smokin' on the Cobra's, I told ya",
+      "startTime": 36.08,
+      "endTime": 39.16,
+      "words": [
+        {
+          "word": "You",
+          "start": 36.08,
+          "end": 36.26
         },
         {
           "word": "know",
-          "start": 36.3,
+          "start": 36.26,
           "end": 36.54
         },
         {
-          "word": "it's",
-          "start": 36.679,
-          "end": 36.98,
+          "word": "us",
+          "start": 36.54,
+          "end": 36.633
+        },
+        {
+          "word": "boys,",
+          "start": 36.703,
+          "end": 36.867,
           "spoken": true
         },
         {
-          "word": "both",
-          "start": 36.98,
-          "end": 37.04,
+          "word": "we",
+          "start": 36.877,
+          "end": 36.96,
           "spoken": true
         },
         {
-          "word": "smoking",
-          "start": 37.04,
-          "end": 37.52,
-          "sung": true
-        }
-      ],
-      "time": 35.76,
-      "end": 37.52
-    },
-    {
-      "text": "on the cobras i told ya",
-      "startTime": 37.52,
-      "endTime": 39.38,
-      "words": [
+          "word": "smokin'",
+          "start": 37.31,
+          "end": 37.62,
+          "char_starts": [
+            37.31,
+            37.34,
+            37.37,
+            37.4,
+            37.43,
+            37.463,
+            37.498
+          ],
+          "spoken": true
+        },
         {
           "word": "on",
-          "start": 37.52,
-          "end": 37.86,
-          "stretch": true,
+          "start": 37.62,
+          "end": 37.84,
           "spoken": true
         },
         {
           "word": "the",
-          "start": 37.976,
-          "end": 38.1,
+          "start": 37.979,
+          "end": 38.08,
           "spoken": true
         },
         {
-          "word": "cobras",
-          "start": 38.1,
-          "end": 38.38,
+          "word": "Cobra's,",
+          "start": 38.43,
+          "end": 38.84,
+          "char_starts": [
+            38.43,
+            38.461,
+            38.492,
+            38.524,
+            38.56,
+            38.599,
+            38.641,
+            38.686
+          ],
           "spoken": true
         },
         {
-          "word": "i",
-          "start": 38.589,
-          "end": 38.82,
-          "stretch": true,
+          "word": "I",
+          "start": 38.84,
+          "end": 38.94,
           "spoken": true
         },
         {
           "word": "told",
-          "start": 38.82,
-          "end": 39.06
+          "start": 38.95,
+          "end": 39.06,
+          "spoken": true
         },
         {
           "word": "ya",
-          "start": 39.246,
-          "end": 39.38,
-          "stretch": true,
+          "start": 39.06,
+          "end": 39.16,
           "spoken": true
         }
       ],
-      "time": 37.52,
-      "end": 39.38
+      "time": 36.08,
+      "end": 39.16
     },
     {
-      "text": "you know it's both smoking",
-      "startTime": 39.38,
-      "endTime": 40.92,
+      "text": "You know us boys, we smokin' on the Boners, no homo",
+      "startTime": 39.52,
+      "endTime": 42.38,
       "words": [
         {
-          "word": "you",
-          "start": 39.38,
-          "end": 39.66,
+          "word": "You",
+          "start": 39.52,
+          "end": 39.68,
           "spoken": true
         },
         {
           "word": "know",
-          "start": 39.66,
-          "end": 39.96
+          "start": 39.68,
+          "end": 39.96,
+          "spoken": true
         },
         {
-          "word": "it's",
+          "word": "us",
           "start": 39.96,
-          "end": 40.24
+          "end": 40.069,
+          "spoken": true
         },
         {
-          "word": "both",
-          "start": 40.24,
-          "end": 40.38
+          "word": "boys,",
+          "start": 40.079,
+          "end": 40.34
         },
         {
-          "word": "smoking",
-          "start": 40.38,
-          "end": 40.92
-        }
-      ],
-      "time": 39.38,
-      "end": 40.92
-    },
-    {
-      "text": "on the boners no homer",
-      "startTime": 40.92,
-      "endTime": 42.84,
-      "words": [
+          "word": "we",
+          "start": 40.34,
+          "end": 40.6
+        },
+        {
+          "word": "smokin'",
+          "start": 40.876,
+          "end": 41.06
+        },
         {
           "word": "on",
-          "start": 40.92,
-          "end": 41.26,
-          "stretch": true
+          "start": 41.06,
+          "end": 41.26
         },
         {
           "word": "the",
           "start": 41.399,
-          "end": 41.52,
+          "end": 41.5,
           "spoken": true
         },
         {
-          "word": "boners",
-          "start": 41.52,
-          "end": 41.94,
+          "word": "Boners,",
+          "start": 41.5,
+          "end": 42.08,
           "spoken": true
         },
         {
           "word": "no",
-          "start": 42.033,
+          "start": 42.08,
           "end": 42.28,
-          "stretch": true,
           "spoken": true
         },
         {
-          "word": "homer",
-          "start": 42.616,
-          "end": 42.84,
-          "spoken": true
+          "word": "homo",
+          "start": 42.28,
+          "end": 42.38
         }
       ],
-      "time": 40.92,
-      "end": 42.84
+      "time": 39.52,
+      "end": 42.38
     },
     {
-      "text": "i'm ballin' like a broker",
-      "startTime": 42.84,
-      "endTime": 44.3,
+      "text": "I'm ballin' like a broker, but I'm broker, I told ya",
+      "startTime": 42.8,
+      "endTime": 45.98,
       "words": [
         {
-          "word": "i'm",
-          "start": 42.84,
-          "end": 43.26,
-          "stretch": true,
+          "word": "I'm",
+          "start": 42.8,
+          "end": 43.28,
           "spoken": true
         },
         {
           "word": "ballin'",
-          "start": 43.26,
-          "end": 43.5,
-          "spoken": true
+          "start": 43.28,
+          "end": 43.48
         },
         {
           "word": "like",
-          "start": 43.58,
-          "end": 43.78,
+          "start": 43.526,
+          "end": 43.8,
           "spoken": true
         },
         {
           "word": "a",
-          "start": 43.78,
-          "end": 44.08,
-          "stretch": true,
-          "sung": true
+          "start": 43.8,
+          "end": 44.06
         },
         {
-          "word": "broker",
-          "start": 44.08,
-          "end": 44.3,
-          "spoken": true
-        }
-      ],
-      "time": 42.84,
-      "end": 44.3
-    },
-    {
-      "text": "but i'm broken i",
-      "startTime": 44.3,
-      "endTime": 45.64,
-      "words": [
+          "word": "broker,",
+          "start": 44.06,
+          "end": 44.34
+        },
         {
           "word": "but",
-          "start": 44.393,
-          "end": 44.64,
+          "start": 44.386,
+          "end": 44.62,
           "spoken": true
         },
         {
-          "word": "i'm",
-          "start": 44.826,
+          "word": "I'm",
+          "start": 44.824,
           "end": 44.96,
-          "stretch": true,
           "spoken": true
         },
         {
-          "word": "broken",
+          "word": "broker,",
           "start": 44.96,
-          "end": 45.18
+          "end": 45.18,
+          "spoken": true
         },
         {
-          "word": "i",
-          "start": 45.456,
-          "end": 45.64,
-          "stretch": true,
+          "word": "I",
+          "start": 45.459,
+          "end": 45.66,
           "spoken": true
-        }
-      ],
-      "time": 44.3,
-      "end": 45.64
-    },
-    {
-      "text": "told ya i'm feelin' like the joker",
-      "startTime": 45.64,
-      "endTime": 47.74,
-      "words": [
+        },
         {
           "word": "told",
-          "start": 45.64,
-          "end": 45.9
+          "start": 45.66,
+          "end": 45.88
         },
         {
           "word": "ya",
-          "start": 46.086,
-          "end": 46.32,
-          "stretch": true,
-          "spoken": true
-        },
+          "start": 45.88,
+          "end": 45.98
+        }
+      ],
+      "time": 42.8,
+      "end": 45.98
+    },
+    {
+      "text": "I'm feelin' like the Joker, get your throat cut, I told ya",
+      "startTime": 46.3,
+      "endTime": 49.4,
+      "words": [
         {
-          "word": "i'm",
-          "start": 46.32,
-          "end": 46.64,
-          "stretch": true,
+          "word": "I'm",
+          "start": 46.3,
+          "end": 46.66,
           "spoken": true
         },
         {
           "word": "feelin'",
-          "start": 46.64,
-          "end": 46.9
+          "start": 46.66,
+          "end": 46.9,
+          "spoken": true
         },
         {
           "word": "like",
-          "start": 47.04,
-          "end": 47.24,
+          "start": 46.97,
+          "end": 47.2,
           "spoken": true
         },
         {
           "word": "the",
-          "start": 47.24,
-          "end": 47.48,
-          "spoken": true
+          "start": 47.2,
+          "end": 47.48
         },
         {
-          "word": "joker",
-          "start": 47.48,
-          "end": 47.74,
-          "spoken": true
-        }
-      ],
-      "time": 45.64,
-      "end": 47.74
-    },
-    {
-      "text": "get your throat cut i told ya i'm shootin'",
-      "startTime": 47.74,
-      "endTime": 50.4,
-      "words": [
+          "word": "Joker,",
+          "start": 47.672,
+          "end": 47.8
+        },
         {
           "word": "get",
-          "start": 47.74,
-          "end": 48.02,
+          "start": 47.8,
+          "end": 48.0,
           "spoken": true
         },
         {
           "word": "your",
-          "start": 48.02,
+          "start": 48.0,
           "end": 48.28,
           "spoken": true
         },
         {
           "word": "throat",
           "start": 48.28,
-          "end": 48.5,
+          "end": 48.48,
           "spoken": true
         },
         {
-          "word": "cut",
-          "start": 48.5,
+          "word": "cut,",
+          "start": 48.48,
           "end": 48.84
         },
         {
-          "word": "i",
+          "word": "I",
           "start": 48.886,
-          "end": 49.1,
-          "stretch": true,
+          "end": 49.12,
           "spoken": true
         },
         {
           "word": "told",
-          "start": 49.1,
-          "end": 49.34,
-          "spoken": true
+          "start": 49.12,
+          "end": 49.3
         },
         {
           "word": "ya",
-          "start": 49.52,
-          "end": 49.64,
-          "spoken": true
-        },
+          "start": 49.3,
+          "end": 49.4
+        }
+      ],
+      "time": 46.3,
+      "end": 49.4
+    },
+    {
+      "text": "I'm shootin' boners, with my super soaker, I told ya",
+      "startTime": 49.74,
+      "endTime": 52.86,
+      "words": [
         {
-          "word": "i'm",
-          "start": 49.64,
-          "end": 50.04,
-          "stretch": true,
+          "word": "I'm",
+          "start": 49.74,
+          "end": 50.06,
           "spoken": true
         },
         {
           "word": "shootin'",
-          "start": 50.256,
-          "end": 50.4
-        }
-      ],
-      "time": 47.74,
-      "end": 50.4
-    },
-    {
-      "text": "bitches with my super soaker i told ya",
-      "startTime": 50.54,
-      "endTime": 53.12,
-      "words": [
+          "start": 50.264,
+          "end": 50.4,
+          "sung": true
+        },
         {
-          "word": "bitches",
-          "start": 50.54,
+          "word": "boners,",
+          "start": 50.4,
           "end": 50.74,
           "spoken": true
         },
         {
           "word": "with",
           "start": 50.74,
-          "end": 51.04,
+          "end": 51.02,
           "spoken": true
         },
         {
           "word": "my",
-          "start": 51.196,
-          "end": 51.3,
+          "start": 51.2,
+          "end": 51.32,
           "spoken": true
         },
         {
           "word": "super",
-          "start": 51.3,
+          "start": 51.32,
           "end": 51.68,
           "spoken": true
         },
         {
-          "word": "soaker",
+          "word": "soaker,",
           "start": 51.68,
           "end": 52.14,
           "spoken": true
         },
         {
-          "word": "i",
-          "start": 52.326,
-          "end": 52.48,
-          "stretch": true,
+          "word": "I",
+          "start": 52.303,
+          "end": 52.5,
           "spoken": true
         },
         {
           "word": "told",
-          "start": 52.48,
-          "end": 52.74,
+          "start": 52.5,
+          "end": 52.76,
           "spoken": true
         },
         {
           "word": "ya",
-          "start": 52.968,
-          "end": 53.12,
-          "stretch": true,
-          "spoken": true
+          "start": 52.76,
+          "end": 52.86
         }
       ],
-      "time": 50.54,
-      "end": 53.12
+      "time": 49.74,
+      "end": 52.86
     },
     {
-      "text": "i'm swervin' up the curve and arrow",
-      "startTime": 53.12,
-      "endTime": 55.34,
+      "text": "I'm swervin' up the curb in that Rover, I told ya",
+      "startTime": 53.18,
+      "endTime": 56.34,
       "words": [
         {
-          "word": "i'm",
-          "start": 53.12,
-          "end": 53.5,
-          "stretch": true,
-          "spoken": true
+          "word": "I'm",
+          "start": 53.18,
+          "end": 53.5
         },
         {
           "word": "swervin'",
-          "start": 53.5,
-          "end": 53.72
+          "start": 53.704,
+          "end": 53.84,
+          "spoken": true
         },
         {
           "word": "up",
           "start": 53.84,
-          "end": 54.04,
+          "end": 54.02,
           "spoken": true
         },
         {
           "word": "the",
-          "start": 54.04,
-          "end": 54.26,
+          "start": 54.02,
+          "end": 54.24,
           "spoken": true
         },
         {
-          "word": "curve",
-          "start": 54.512,
-          "end": 54.68
+          "word": "curb",
+          "start": 54.24,
+          "end": 54.525
         },
         {
-          "word": "and",
-          "start": 54.68,
-          "end": 54.98,
+          "word": "in",
+          "start": 54.611,
+          "end": 54.668
+        },
+        {
+          "word": "that",
+          "start": 54.678,
+          "end": 54.952,
           "spoken": true
         },
         {
-          "word": "arrow",
-          "start": 54.98,
-          "end": 55.34,
+          "word": "Rover,",
+          "start": 54.952,
+          "end": 55.38,
           "spoken": true
-        }
-      ],
-      "time": 53.12,
-      "end": 55.34
-    },
-    {
-      "text": "i told ya your flow",
-      "startTime": 55.34,
-      "endTime": 57.14,
-      "words": [
+        },
         {
-          "word": "i",
-          "start": 55.676,
-          "end": 55.9,
-          "stretch": true,
-          "spoken": true
+          "word": "I",
+          "start": 55.38,
+          "end": 55.88
         },
         {
           "word": "told",
-          "start": 55.9,
-          "end": 56.18,
+          "start": 55.88,
+          "end": 56.24,
           "spoken": true
         },
         {
           "word": "ya",
-          "start": 56.18,
-          "end": 56.54,
-          "stretch": true
-        },
+          "start": 56.24,
+          "end": 56.34,
+          "spoken": true
+        }
+      ],
+      "time": 53.18,
+      "end": 56.34
+    },
+    {
+      "text": "Your flow so absurd, ya, I know it, I told ya",
+      "startTime": 56.54,
+      "endTime": 59.68,
+      "words": [
         {
-          "word": "your",
+          "word": "Your",
           "start": 56.54,
-          "end": 56.9
+          "end": 56.8
         },
         {
           "word": "flow",
-          "start": 56.9,
-          "end": 57.14
-        }
-      ],
-      "time": 55.34,
-      "end": 57.14
-    },
-    {
-      "text": "so absurd bitch i know it",
-      "startTime": 57.14,
-      "endTime": 59.16,
-      "words": [
+          "start": 56.8,
+          "end": 57.1
+        },
         {
           "word": "so",
-          "start": 57.14,
-          "end": 57.58,
-          "stretch": true
-        },
-        {
-          "word": "absurd",
-          "start": 57.58,
-          "end": 58.0
-        },
-        {
-          "word": "bitch",
-          "start": 58.0,
-          "end": 58.34,
+          "start": 57.1,
+          "end": 57.56,
           "spoken": true
         },
         {
-          "word": "i",
-          "start": 58.34,
-          "end": 58.6,
-          "stretch": true,
+          "word": "absurd,",
+          "start": 57.56,
+          "end": 58.0,
+          "spoken": true
+        },
+        {
+          "word": "ya,",
+          "start": 58.0,
+          "end": 58.4,
+          "spoken": true
+        },
+        {
+          "word": "I",
+          "start": 58.4,
+          "end": 58.54,
           "spoken": true
         },
         {
           "word": "know",
-          "start": 58.6,
+          "start": 58.54,
           "end": 58.82,
-          "sung": true
-        },
-        {
-          "word": "it",
-          "start": 58.82,
-          "end": 59.16,
-          "stretch": true,
-          "sung": true
-        }
-      ],
-      "time": 57.14,
-      "end": 59.16
-    },
-    {
-      "text": "i told ya one verse go",
-      "startTime": 59.16,
-      "endTime": 60.82,
-      "words": [
-        {
-          "word": "i",
-          "start": 59.16,
-          "end": 59.34,
-          "stretch": true,
           "spoken": true
         },
         {
+          "word": "it,",
+          "start": 59.048,
+          "end": 59.2
+        },
+        {
+          "word": "I",
+          "start": 59.2,
+          "end": 59.38
+        },
+        {
           "word": "told",
-          "start": 59.34,
-          "end": 59.6,
+          "start": 59.38,
+          "end": 59.58,
           "spoken": true
         },
         {
           "word": "ya",
-          "start": 59.6,
-          "end": 59.9
-        },
-        {
-          "word": "one",
-          "start": 59.9,
-          "end": 60.38,
-          "stretch": true
-        },
-        {
-          "word": "verse",
-          "start": 60.38,
-          "end": 60.54
-        },
-        {
-          "word": "go",
-          "start": 60.54,
-          "end": 60.82
+          "start": 59.58,
+          "end": 59.68,
+          "spoken": true
         }
       ],
-      "time": 59.16,
-      "end": 60.82
+      "time": 56.54,
+      "end": 59.68
     },
     {
-      "text": "for a burden bitch i blow",
-      "startTime": 60.82,
-      "endTime": 62.26,
+      "text": "One verse, goes for a bird, the I blow it, I told ya",
+      "startTime": 60.32,
+      "endTime": 63.12,
       "words": [
         {
+          "word": "One",
+          "start": 60.32,
+          "end": 60.42
+        },
+        {
+          "word": "verse,",
+          "start": 60.43,
+          "end": 60.52
+        },
+        {
+          "word": "goes",
+          "start": 60.52,
+          "end": 60.8
+        },
+        {
           "word": "for",
-          "start": 60.82,
-          "end": 61.12,
+          "start": 60.8,
+          "end": 61.1,
           "spoken": true
         },
         {
           "word": "a",
-          "start": 61.12,
-          "end": 61.28,
-          "stretch": true,
+          "start": 61.1,
+          "end": 61.24,
           "spoken": true
         },
         {
-          "word": "burden",
-          "start": 61.28,
-          "end": 61.44,
+          "word": "bird,",
+          "start": 61.24,
+          "end": 61.42,
           "spoken": true
         },
         {
-          "word": "bitch",
-          "start": 61.44,
-          "end": 61.8,
+          "word": "the",
+          "start": 61.42,
+          "end": 61.76,
           "sung": true
         },
         {
-          "word": "i",
-          "start": 61.896,
+          "word": "I",
+          "start": 61.88,
           "end": 61.96,
-          "stretch": true,
           "spoken": true
         },
         {
           "word": "blow",
           "start": 61.96,
-          "end": 62.26,
+          "end": 62.24,
           "spoken": true
-        }
-      ],
-      "time": 60.82,
-      "end": 62.26
-    },
-    {
-      "text": "it i told ya i'm geeked",
-      "startTime": 62.26,
-      "endTime": 64.12,
-      "words": [
-        {
-          "word": "it",
-          "start": 62.476,
-          "end": 62.62,
-          "stretch": true
         },
         {
-          "word": "i",
-          "start": 62.62,
-          "end": 62.8,
-          "stretch": true,
+          "word": "it,",
+          "start": 62.24,
+          "end": 62.56
+        },
+        {
+          "word": "I",
+          "start": 62.606,
+          "end": 62.82,
           "spoken": true
         },
         {
           "word": "told",
-          "start": 62.8,
-          "end": 63.04,
+          "start": 62.82,
+          "end": 63.02,
           "spoken": true
         },
         {
           "word": "ya",
-          "start": 63.249,
-          "end": 63.42,
-          "stretch": true,
-          "spoken": true
-        },
+          "start": 63.02,
+          "end": 63.12
+        }
+      ],
+      "time": 60.32,
+      "end": 63.12
+    },
+    {
+      "text": "I'm geeked up like a nerd, writin' these poems, I told ya",
+      "startTime": 63.48,
+      "endTime": 66.3,
+      "words": [
         {
-          "word": "i'm",
-          "start": 63.42,
-          "end": 63.78,
-          "stretch": true,
+          "word": "I'm",
+          "start": 63.48,
+          "end": 63.82,
           "spoken": true
         },
         {
           "word": "geeked",
-          "start": 63.984,
-          "end": 64.12
-        }
-      ],
-      "time": 62.26,
-      "end": 64.12
-    },
-    {
-      "text": "out like a nerve right in",
-      "startTime": 64.12,
-      "endTime": 65.26,
-      "words": [
+          "start": 64.0,
+          "end": 64.12,
+          "sung": true
+        },
         {
-          "word": "out",
+          "word": "up",
           "start": 64.12,
-          "end": 64.22,
+          "end": 64.238,
           "spoken": true
         },
         {
           "word": "like",
-          "start": 64.22,
-          "end": 64.52,
+          "start": 64.238,
+          "end": 64.475,
           "spoken": true
         },
         {
           "word": "a",
-          "start": 64.52,
-          "end": 64.7,
-          "stretch": true,
+          "start": 64.475,
+          "end": 64.535,
           "spoken": true
         },
         {
-          "word": "nerve",
-          "start": 64.7,
-          "end": 64.82
-        },
-        {
-          "word": "right",
-          "start": 64.959,
-          "end": 65.1,
+          "word": "nerd,",
+          "start": 64.545,
+          "end": 64.831,
           "spoken": true
         },
         {
-          "word": "in",
-          "start": 65.1,
-          "end": 65.26,
+          "word": "writin'",
+          "start": 64.957,
+          "end": 65.246,
           "spoken": true
-        }
-      ],
-      "time": 64.12,
-      "end": 65.26
-    },
-    {
-      "text": "these bones",
-      "startTime": 65.26,
-      "endTime": 65.86,
-      "words": [
+        },
         {
           "word": "these",
-          "start": 65.38,
-          "end": 65.46,
+          "start": 65.395,
+          "end": 65.542,
           "spoken": true
         },
         {
-          "word": "bones",
-          "start": 65.46,
-          "end": 65.86,
+          "word": "poems,",
+          "start": 65.552,
+          "end": 65.897,
           "spoken": true
-        }
-      ],
-      "time": 65.26,
-      "end": 65.86
-    },
-    {
-      "text": "i told ya i'm geeked out like a nerve right",
-      "startTime": 65.86,
-      "endTime": 68.54,
-      "words": [
+        },
         {
-          "word": "i",
-          "start": 66.023,
-          "end": 66.22,
-          "stretch": true,
+          "word": "I",
+          "start": 65.897,
+          "end": 65.957,
           "spoken": true
         },
         {
           "word": "told",
-          "start": 66.22,
-          "end": 66.5,
-          "spoken": true
+          "start": 66.037,
+          "end": 66.194
         },
         {
           "word": "ya",
-          "start": 66.686,
-          "end": 66.88,
-          "stretch": true,
+          "start": 66.204,
+          "end": 66.3,
           "spoken": true
-        },
+        }
+      ],
+      "time": 63.48,
+      "end": 66.3
+    },
+    {
+      "text": "I'm geeked up like a nerd writin' these—",
+      "startTime": 66.312,
+      "endTime": 71.262,
+      "words": [
         {
-          "word": "i'm",
-          "start": 66.88,
-          "end": 67.06,
-          "spoken": true
+          "word": "I'm",
+          "start": 66.582,
+          "end": 66.762,
+          "sung": true
         },
         {
           "word": "geeked",
-          "start": 67.372,
-          "end": 67.58
+          "start": 66.762,
+          "end": 67.662,
+          "char_starts": [
+            66.762,
+            66.852,
+            66.975,
+            67.121,
+            67.286,
+            67.466
+          ],
+          "spoken": true
         },
         {
-          "word": "out",
-          "start": 67.58,
-          "end": 67.72
+          "word": "up",
+          "start": 67.708,
+          "end": 67.962
         },
         {
           "word": "like",
-          "start": 67.72,
-          "end": 67.92
+          "start": 67.962,
+          "end": 68.562
         },
         {
           "word": "a",
-          "start": 68.028,
-          "end": 68.1,
-          "stretch": true
+          "start": 68.562,
+          "end": 68.712
         },
         {
-          "word": "nerve",
-          "start": 68.1,
-          "end": 68.26
+          "word": "nerd",
+          "start": 68.805,
+          "end": 69.312,
+          "spoken": true
         },
         {
-          "word": "right",
-          "start": 68.26,
-          "end": 68.54
+          "word": "writin'",
+          "start": 69.451,
+          "end": 70.362,
+          "char_starts": [
+            69.451,
+            69.529,
+            69.621,
+            69.732,
+            69.857,
+            69.991,
+            70.137
+          ],
+          "spoken": true
+        },
+        {
+          "word": "these—",
+          "start": 70.712,
+          "end": 71.262,
+          "char_starts": [
+            70.712,
+            70.767,
+            70.829,
+            70.903,
+            70.984,
+            71.074
+          ],
+          "spoken": true
         }
       ],
-      "time": 65.86,
-      "end": 68.54
+      "time": 66.312,
+      "end": 71.262
     },
     {
       "text": "●",
-      "startTime": 68.84,
-      "endTime": 81.58,
+      "startTime": 70.612,
+      "endTime": 81.55,
       "words": [],
       "type": "vocal_cue",
-      "time": 68.84,
-      "end": 81.58
+      "time": 70.612,
+      "end": 81.55
     },
     {
-      "text": "Oh, yeah, I told you I do it for my soldier",
-      "startTime": 81.58,
-      "endTime": 85.44,
+      "text": "Oh yeah, I told ya",
+      "startTime": 81.545,
+      "endTime": 83.48,
       "words": [
         {
-          "word": "Oh,",
-          "start": 81.58,
-          "end": 82.14,
-          "stretch": true,
+          "word": "Oh",
+          "start": 81.545,
+          "end": 81.821,
           "whisper": true
         },
         {
           "word": "yeah,",
-          "start": 82.78,
-          "end": 83.2
+          "start": 82.171,
+          "end": 82.513,
+          "char_starts": [
+            82.171,
+            82.212,
+            82.258,
+            82.311,
+            82.37
+          ],
+          "whisper": true
         },
         {
           "word": "I",
-          "start": 83.2,
-          "end": 83.4,
-          "stretch": true
+          "start": 82.513,
+          "end": 82.651
         },
         {
           "word": "told",
-          "start": 83.4,
-          "end": 83.66
+          "start": 82.651,
+          "end": 83.204
         },
         {
-          "word": "you",
-          "start": 83.66,
-          "end": 84.02
-        },
+          "word": "ya",
+          "start": 83.204,
+          "end": 83.48
+        }
+      ],
+      "time": 81.545,
+      "end": 83.48
+    },
+    {
+      "text": "I do it for my soldier",
+      "startTime": 84.1,
+      "endTime": 85.12,
+      "words": [
         {
           "word": "I",
-          "start": 84.066,
-          "end": 84.24,
-          "stretch": true,
+          "start": 84.1,
+          "end": 84.2,
           "spoken": true
         },
         {
           "word": "do",
-          "start": 84.24,
-          "end": 84.52,
+          "start": 84.273,
+          "end": 84.322,
           "spoken": true
         },
         {
           "word": "it",
-          "start": 84.64,
-          "end": 84.72,
+          "start": 84.322,
+          "end": 84.443,
           "spoken": true
         },
         {
           "word": "for",
-          "start": 84.72,
-          "end": 84.88,
+          "start": 84.443,
+          "end": 84.625,
           "spoken": true
         },
         {
           "word": "my",
-          "start": 85.06,
-          "end": 85.18,
-          "stretch": true,
+          "start": 84.625,
+          "end": 84.747,
           "spoken": true
         },
         {
           "word": "soldier",
-          "start": 85.18,
-          "end": 85.44,
+          "start": 84.747,
+          "end": 85.12,
           "spoken": true
         }
       ],
-      "time": 81.58,
-      "end": 85.44
+      "time": 84.1,
+      "end": 85.12
     },
     {
-      "text": "I can show you some doya, but then you lose your focus",
-      "startTime": 85.44,
-      "endTime": 88.88,
+      "text": "I can show ya, some dough ya",
+      "startTime": 85.133,
+      "endTime": 86.91,
       "words": [
         {
           "word": "I",
-          "start": 85.44,
-          "end": 85.76,
-          "stretch": true,
+          "start": 85.133,
+          "end": 85.233,
           "spoken": true
         },
         {
           "word": "can",
-          "start": 85.76,
-          "end": 86.02,
+          "start": 85.233,
+          "end": 85.477,
           "spoken": true
         },
         {
           "word": "show",
-          "start": 86.02,
-          "end": 86.22,
+          "start": 85.477,
+          "end": 85.803,
           "spoken": true
         },
         {
-          "word": "you",
-          "start": 86.22,
-          "end": 86.56,
+          "word": "ya,",
+          "start": 85.803,
+          "end": 86.047,
           "spoken": true
         },
         {
           "word": "some",
-          "start": 86.56,
-          "end": 86.84,
-          "spoken": true
+          "start": 86.047,
+          "end": 86.373
         },
         {
-          "word": "doya,",
-          "start": 86.84,
-          "end": 87.4,
-          "sung": true
+          "word": "dough",
+          "start": 86.617,
+          "end": 86.78
         },
         {
-          "word": "but",
-          "start": 87.672,
-          "end": 87.76,
+          "word": "ya",
+          "start": 86.78,
+          "end": 86.91,
           "spoken": true
+        }
+      ],
+      "time": 85.133,
+      "end": 86.91
+    },
+    {
+      "text": "But then you lose your focus when I told ya, it's over",
+      "startTime": 86.924,
+      "endTime": 90.24,
+      "words": [
+        {
+          "word": "But",
+          "start": 86.924,
+          "end": 87.156
         },
         {
           "word": "then",
-          "start": 87.76,
-          "end": 87.94,
-          "spoken": true
+          "start": 87.156,
+          "end": 87.465,
+          "whisper": true
         },
         {
           "word": "you",
-          "start": 87.94,
-          "end": 88.16,
-          "spoken": true
+          "start": 87.604,
+          "end": 87.697
         },
         {
           "word": "lose",
-          "start": 88.16,
-          "end": 88.36,
-          "spoken": true
+          "start": 87.697,
+          "end": 88.006
         },
         {
           "word": "your",
-          "start": 88.516,
-          "end": 88.62,
+          "start": 88.006,
+          "end": 88.315,
           "spoken": true
         },
         {
           "word": "focus",
-          "start": 88.62,
-          "end": 88.88,
+          "start": 88.547,
+          "end": 88.702,
           "spoken": true
-        }
-      ],
-      "time": 85.44,
-      "end": 88.88
-    },
-    {
-      "text": "what I told you it's over",
-      "startTime": 88.88,
-      "endTime": 90.68,
-      "words": [
+        },
         {
-          "word": "what",
-          "start": 88.88,
-          "end": 89.2,
+          "word": "when",
+          "start": 88.887,
+          "end": 89.011,
           "spoken": true
         },
         {
           "word": "I",
-          "start": 89.2,
-          "end": 89.52,
-          "stretch": true,
+          "start": 89.011,
+          "end": 89.111,
           "spoken": true
         },
         {
           "word": "told",
-          "start": 89.52,
-          "end": 89.64
+          "start": 89.111,
+          "end": 89.42,
+          "spoken": true
         },
         {
-          "word": "you",
-          "start": 89.64,
-          "end": 90.04
+          "word": "ya,",
+          "start": 89.42,
+          "end": 89.652
         },
         {
           "word": "it's",
-          "start": 90.04,
-          "end": 90.42
+          "start": 89.652,
+          "end": 89.961
         },
         {
           "word": "over",
-          "start": 90.42,
-          "end": 90.68
+          "start": 89.961,
+          "end": 90.24
         }
       ],
-      "time": 88.88,
-      "end": 90.68
+      "time": 86.924,
+      "end": 90.24
     },
     {
-      "text": "She call my motorola like I owe you",
-      "startTime": 90.68,
-      "endTime": 93.36,
+      "text": "She call my Motorola like a ho, ya, I told ya",
+      "startTime": 90.248,
+      "endTime": 93.77,
       "words": [
         {
           "word": "She",
-          "start": 90.866,
-          "end": 91.12
+          "start": 90.248,
+          "end": 90.551
         },
         {
           "word": "call",
-          "start": 91.12,
-          "end": 91.36
+          "start": 90.793,
+          "end": 90.955
         },
         {
           "word": "my",
-          "start": 91.36,
-          "end": 91.64
+          "start": 91.076,
+          "end": 91.157
         },
         {
-          "word": "motorola",
-          "start": 91.64,
-          "end": 92.3
+          "word": "Motorola",
+          "start": 91.157,
+          "end": 91.965,
+          "char_starts": [
+            91.157,
+            91.218,
+            91.279,
+            91.348,
+            91.43,
+            91.524,
+            91.63,
+            91.746
+          ]
         },
         {
           "word": "like",
-          "start": 92.3,
-          "end": 92.68
+          "start": 91.965,
+          "end": 92.369
+        },
+        {
+          "word": "a",
+          "start": 92.369,
+          "end": 92.47
+        },
+        {
+          "word": "ho,",
+          "start": 92.47,
+          "end": 92.773
+        },
+        {
+          "word": "ya,",
+          "start": 92.773,
+          "end": 93.076
         },
         {
           "word": "I",
-          "start": 92.68,
-          "end": 93.02,
-          "stretch": true
-        },
-        {
-          "word": "owe",
-          "start": 93.02,
-          "end": 93.08
-        },
-        {
-          "word": "you",
-          "start": 93.08,
-          "end": 93.36
-        }
-      ],
-      "time": 90.68,
-      "end": 93.36
-    },
-    {
-      "text": "I told you the bitch you wanna fucking they",
-      "startTime": 93.36,
-      "endTime": 96.06,
-      "words": [
-        {
-          "word": "I",
-          "start": 93.612,
-          "end": 93.78,
-          "stretch": true
+          "start": 93.076,
+          "end": 93.177
         },
         {
           "word": "told",
-          "start": 93.78,
-          "end": 93.92
+          "start": 93.419,
+          "end": 93.581
         },
         {
-          "word": "you",
-          "start": 93.92,
-          "end": 94.3
+          "word": "ya",
+          "start": 93.581,
+          "end": 93.77
+        }
+      ],
+      "time": 90.248,
+      "end": 93.77
+    },
+    {
+      "text": "These over, wanna call in they Corolla, Corona",
+      "startTime": 93.783,
+      "endTime": 97.158,
+      "words": [
+        {
+          "word": "These",
+          "start": 93.829,
+          "end": 94.216
         },
         {
-          "word": "the",
-          "start": 94.3,
-          "end": 94.62
-        },
-        {
-          "word": "bitch",
-          "start": 94.62,
-          "end": 94.86
-        },
-        {
-          "word": "you",
-          "start": 94.86,
-          "end": 95.12
+          "word": "over,",
+          "start": 94.355,
+          "end": 94.648
         },
         {
           "word": "wanna",
-          "start": 95.12,
-          "end": 95.32
+          "start": 94.648,
+          "end": 95.081
         },
         {
-          "word": "fucking",
-          "start": 95.436,
-          "end": 95.76
+          "word": "call",
+          "start": 95.081,
+          "end": 95.427
+        },
+        {
+          "word": "in",
+          "start": 95.427,
+          "end": 95.6
         },
         {
           "word": "they",
-          "start": 95.853,
-          "end": 96.06
-        }
-      ],
-      "time": 93.36,
-      "end": 96.06
-    },
-    {
-      "text": "I'm sipping and smoking I'm a stoner.",
-      "startTime": 97.26,
-      "endTime": 100.08,
-      "words": [
+          "start": 95.808,
+          "end": 95.946
+        },
         {
-          "word": "I'm",
-          "start": 97.515,
-          "end": 97.82,
-          "stretch": true,
+          "word": "Corolla,",
+          "start": 96.225,
+          "end": 96.639,
+          "char_starts": [
+            96.225,
+            96.256,
+            96.287,
+            96.322,
+            96.361,
+            96.403,
+            96.449,
+            96.497
+          ],
           "spoken": true
         },
         {
-          "word": "sipping",
-          "start": 98.156,
-          "end": 98.38
+          "word": "Corona",
+          "start": 96.894,
+          "end": 97.158,
+          "spoken": true
+        }
+      ],
+      "time": 93.783,
+      "end": 97.158
+    },
+    {
+      "text": "I'm sippin' and I'm smokin, I'm a stoner, I told ya",
+      "startTime": 97.158,
+      "endTime": 100.48,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 97.158,
+          "end": 97.402,
+          "spoken": true
+        },
+        {
+          "word": "sippin'",
+          "start": 97.518,
+          "end": 97.971,
+          "sung": true
         },
         {
           "word": "and",
-          "start": 98.38,
-          "end": 98.76,
+          "start": 97.971,
+          "end": 98.215
+        },
+        {
+          "word": "I'm",
+          "start": 98.361,
+          "end": 98.459,
           "spoken": true
         },
         {
-          "word": "smoking",
-          "start": 99.06,
-          "end": 99.26,
+          "word": "smokin,",
+          "start": 98.459,
+          "end": 99.028,
           "spoken": true
         },
         {
           "word": "I'm",
-          "start": 99.26,
-          "end": 99.62,
-          "stretch": true,
+          "start": 99.174,
+          "end": 99.272,
           "spoken": true
         },
         {
           "word": "a",
-          "start": 99.713,
-          "end": 99.8,
-          "stretch": true,
+          "start": 99.272,
+          "end": 99.372,
           "spoken": true
         },
         {
-          "word": "stoner.",
-          "start": 99.8,
-          "end": 100.08,
+          "word": "stoner,",
+          "start": 99.674,
+          "end": 99.941,
           "spoken": true
-        }
-      ],
-      "time": 97.26,
-      "end": 100.08
-    },
-    {
-      "text": "I told you I need a couple pounds of marijuana",
-      "startTime": 100.36,
-      "endTime": 103.42,
-      "words": [
+        },
         {
           "word": "I",
-          "start": 100.406,
-          "end": 100.52,
-          "stretch": true,
-          "spoken": true
+          "start": 99.941,
+          "end": 100.041
         },
         {
           "word": "told",
-          "start": 100.52,
-          "end": 100.8,
+          "start": 100.236,
+          "end": 100.366,
           "spoken": true
         },
         {
-          "word": "you",
-          "start": 100.956,
-          "end": 101.06,
-          "spoken": true
-        },
-        {
-          "word": "I",
-          "start": 101.06,
-          "end": 101.34,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "need",
-          "start": 101.34,
-          "end": 101.7
-        },
-        {
-          "word": "a",
-          "start": 101.839,
-          "end": 101.98,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "couple",
-          "start": 101.98,
-          "end": 102.18,
-          "spoken": true
-        },
-        {
-          "word": "pounds",
-          "start": 102.18,
-          "end": 102.56
-        },
-        {
-          "word": "of",
-          "start": 102.56,
-          "end": 102.92,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "marijuana",
-          "start": 102.92,
-          "end": 103.42,
+          "word": "ya",
+          "start": 100.366,
+          "end": 100.48,
           "spoken": true
         }
       ],
-      "time": 100.36,
-      "end": 103.42
+      "time": 97.158,
+      "end": 100.48
     },
     {
-      "text": "For the roller, you know, it's both smoking on the covers.",
-      "startTime": 103.42,
-      "endTime": 106.94,
+      "text": "Told Ya - Lil Peep",
+      "startTime": 100.491,
+      "endTime": 102.591,
       "words": [
         {
-          "word": "For",
-          "start": 103.72,
-          "end": 103.92,
-          "stretch": true,
+          "word": "Told",
+          "start": 100.841,
+          "end": 101.091,
           "spoken": true
         },
         {
-          "word": "the",
-          "start": 103.92,
-          "end": 104.06,
+          "word": "Ya",
+          "start": 101.091,
+          "end": 101.391,
           "spoken": true
         },
         {
-          "word": "roller,",
-          "start": 104.06,
-          "end": 104.32
+          "word": "-",
+          "start": 101.391,
+          "end": 101.541
         },
         {
-          "word": "you",
-          "start": 104.52,
-          "end": 104.8,
+          "word": "Lil",
+          "start": 101.796,
+          "end": 101.991,
           "spoken": true
         },
         {
-          "word": "know,",
-          "start": 104.8,
-          "end": 105.1
+          "word": "Peep",
+          "start": 101.991,
+          "end": 102.591,
+          "sung": true
+        }
+      ],
+      "time": 100.491,
+      "end": 102.591
+    },
+    {
+      "text": "You know us boys, we smokin' on the Cobra's, I told ya",
+      "startTime": 103.911,
+      "endTime": 107.39,
+      "words": [
+        {
+          "word": "You",
+          "start": 103.911,
+          "end": 104.154
         },
         {
-          "word": "it's",
-          "start": 105.28,
-          "end": 105.42,
+          "word": "know",
+          "start": 104.349,
+          "end": 104.479,
           "spoken": true
         },
         {
-          "word": "both",
-          "start": 105.42,
-          "end": 105.58,
+          "word": "us",
+          "start": 104.479,
+          "end": 104.641,
           "spoken": true
         },
         {
-          "word": "smoking",
-          "start": 105.58,
-          "end": 106.06,
+          "word": "boys,",
+          "start": 104.641,
+          "end": 105.047
+        },
+        {
+          "word": "we",
+          "start": 105.047,
+          "end": 105.209
+        },
+        {
+          "word": "smokin'",
+          "start": 105.255,
+          "end": 105.777,
           "spoken": true
         },
         {
           "word": "on",
-          "start": 106.106,
-          "end": 106.44,
-          "stretch": true,
-          "spoken": true
+          "start": 105.777,
+          "end": 105.939
         },
         {
           "word": "the",
-          "start": 106.533,
-          "end": 106.68,
+          "start": 106.085,
+          "end": 106.182,
           "spoken": true
         },
         {
-          "word": "covers.",
-          "start": 106.68,
-          "end": 106.94,
+          "word": "Cobra's,",
+          "start": 106.182,
+          "end": 106.831,
           "spoken": true
-        }
-      ],
-      "time": 103.42,
-      "end": 106.94
-    },
-    {
-      "text": "I told you, you know It's both smoking on the bonus no",
-      "startTime": 107.28,
-      "endTime": 110.9,
-      "words": [
+        },
         {
           "word": "I",
-          "start": 107.28,
-          "end": 107.4,
-          "spoken": true
+          "start": 106.831,
+          "end": 106.931
         },
         {
           "word": "told",
-          "start": 107.4,
-          "end": 107.64
-        },
-        {
-          "word": "you,",
-          "start": 107.826,
-          "end": 107.98,
+          "start": 107.126,
+          "end": 107.256,
           "spoken": true
         },
         {
-          "word": "you",
-          "start": 108.0,
-          "end": 108.26,
+          "word": "ya",
+          "start": 107.256,
+          "end": 107.39,
+          "spoken": true
+        }
+      ],
+      "time": 103.911,
+      "end": 107.39
+    },
+    {
+      "text": "You know us boys, we smokin' on the Boners, no homo",
+      "startTime": 107.399,
+      "endTime": 110.765,
+      "words": [
+        {
+          "word": "You",
+          "start": 107.399,
+          "end": 107.645,
           "spoken": true
         },
         {
           "word": "know",
-          "start": 108.26,
-          "end": 108.56
-        },
-        {
-          "word": "It's",
-          "start": 108.676,
-          "end": 108.82,
-          "spoken": true
-        },
-        {
-          "word": "both",
-          "start": 108.82,
-          "end": 109.0,
-          "spoken": true
-        },
-        {
-          "word": "smoking",
-          "start": 109.0,
-          "end": 109.5
-        },
-        {
-          "word": "on",
-          "start": 109.5,
-          "end": 109.8,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 109.8,
-          "end": 110.08,
-          "spoken": true
-        },
-        {
-          "word": "bonus",
-          "start": 110.08,
-          "end": 110.42
-        },
-        {
-          "word": "no",
-          "start": 110.708,
-          "end": 110.9,
-          "stretch": true
-        }
-      ],
-      "time": 107.28,
-      "end": 110.9
-    },
-    {
-      "text": "homer.",
-      "startTime": 110.9,
-      "endTime": 111.44,
-      "words": [
-        {
-          "word": "homer.",
-          "start": 110.9,
-          "end": 111.44,
-          "spoken": true
-        }
-      ],
-      "time": 110.9,
-      "end": 111.44
-    },
-    {
-      "text": "I'm boning like a broker, but I'm broken",
-      "startTime": 111.44,
-      "endTime": 113.72,
-      "words": [
-        {
-          "word": "I'm",
-          "start": 111.44,
-          "end": 111.82,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "boning",
-          "start": 111.82,
-          "end": 112.04,
-          "spoken": true
-        },
-        {
-          "word": "like",
-          "start": 112.04,
-          "end": 112.4
-        },
-        {
-          "word": "a",
-          "start": 112.4,
-          "end": 112.66,
-          "stretch": true
-        },
-        {
-          "word": "broker,",
-          "start": 112.66,
-          "end": 112.88
-        },
-        {
-          "word": "but",
-          "start": 112.92,
-          "end": 113.22,
-          "spoken": true
-        },
-        {
-          "word": "I'm",
-          "start": 113.22,
-          "end": 113.52,
-          "spoken": true
-        },
-        {
-          "word": "broken",
-          "start": 113.52,
-          "end": 113.72
-        }
-      ],
-      "time": 111.44,
-      "end": 113.72
-    },
-    {
-      "text": "I told you I'm feeling like the Joker",
-      "startTime": 113.72,
-      "endTime": 116.24,
-      "words": [
-        {
-          "word": "I",
-          "start": 114.044,
-          "end": 114.26,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 114.26,
-          "end": 114.46
-        },
-        {
-          "word": "you",
-          "start": 114.46,
-          "end": 114.9
-        },
-        {
-          "word": "I'm",
-          "start": 114.9,
-          "end": 115.22,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "feeling",
-          "start": 115.22,
-          "end": 115.42,
-          "spoken": true
-        },
-        {
-          "word": "like",
-          "start": 115.42,
-          "end": 115.82,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 115.82,
-          "end": 116.06,
-          "spoken": true
-        },
-        {
-          "word": "Joker",
-          "start": 116.06,
-          "end": 116.24,
-          "spoken": true
-        }
-      ],
-      "time": 113.72,
-      "end": 116.24
-    },
-    {
-      "text": "get your dog cut.",
-      "startTime": 116.24,
-      "endTime": 117.44,
-      "words": [
-        {
-          "word": "get",
-          "start": 116.24,
-          "end": 116.58,
+          "start": 107.831,
+          "end": 107.974,
           "sung": true
         },
         {
-          "word": "your",
-          "start": 116.736,
-          "end": 116.84,
+          "word": "us",
+          "start": 107.974,
+          "end": 108.138,
           "spoken": true
         },
         {
-          "word": "dog",
-          "start": 116.84,
-          "end": 117.14,
+          "word": "boys,",
+          "start": 108.138,
+          "end": 108.548
+        },
+        {
+          "word": "we",
+          "start": 108.647,
+          "end": 108.713,
           "spoken": true
         },
         {
-          "word": "cut.",
-          "start": 117.14,
-          "end": 117.44
-        }
-      ],
-      "time": 116.24,
-      "end": 117.44
-    },
-    {
-      "text": "I told you I'll shoot the bitches",
-      "startTime": 117.56,
-      "endTime": 119.32,
-      "words": [
-        {
-          "word": "I",
-          "start": 117.56,
-          "end": 117.82,
-          "stretch": true,
+          "word": "smokin'",
+          "start": 108.713,
+          "end": 109.287,
           "spoken": true
         },
         {
-          "word": "told",
-          "start": 117.82,
-          "end": 117.92
-        },
-        {
-          "word": "you",
-          "start": 118.106,
-          "end": 118.34,
-          "spoken": true
-        },
-        {
-          "word": "I'll",
-          "start": 118.34,
-          "end": 118.66,
-          "spoken": true
-        },
-        {
-          "word": "shoot",
-          "start": 118.66,
-          "end": 118.8
+          "word": "on",
+          "start": 109.287,
+          "end": 109.451
         },
         {
           "word": "the",
-          "start": 118.963,
-          "end": 119.08,
+          "start": 109.451,
+          "end": 109.698,
           "spoken": true
         },
         {
-          "word": "bitches",
-          "start": 119.08,
-          "end": 119.32,
+          "word": "Boners,",
+          "start": 109.698,
+          "end": 110.272,
+          "spoken": true
+        },
+        {
+          "word": "no",
+          "start": 110.272,
+          "end": 110.437
+        },
+        {
+          "word": "homo",
+          "start": 110.634,
+          "end": 110.765
+        }
+      ],
+      "time": 107.399,
+      "end": 110.765
+    },
+    {
+      "text": "I'm ballin' like a broker, but I'm broker, I told ya",
+      "startTime": 110.765,
+      "endTime": 114.33,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 110.765,
+          "end": 111.02,
+          "spoken": true
+        },
+        {
+          "word": "ballin'",
+          "start": 111.02,
+          "end": 111.615,
+          "spoken": true
+        },
+        {
+          "word": "like",
+          "start": 111.615,
+          "end": 111.955,
+          "spoken": true
+        },
+        {
+          "word": "a",
+          "start": 111.955,
+          "end": 112.055
+        },
+        {
+          "word": "broker,",
+          "start": 112.055,
+          "end": 112.651
+        },
+        {
+          "word": "but",
+          "start": 112.651,
+          "end": 112.906
+        },
+        {
+          "word": "I'm",
+          "start": 112.906,
+          "end": 113.161,
+          "spoken": true
+        },
+        {
+          "word": "broker,",
+          "start": 113.161,
+          "end": 113.756,
+          "spoken": true
+        },
+        {
+          "word": "I",
+          "start": 113.756,
+          "end": 113.856
+        },
+        {
+          "word": "told",
+          "start": 114.042,
+          "end": 114.196,
+          "spoken": true
+        },
+        {
+          "word": "ya",
+          "start": 114.196,
+          "end": 114.33,
           "spoken": true
         }
       ],
-      "time": 117.56,
-      "end": 119.32
+      "time": 110.765,
+      "end": 114.33
     },
     {
-      "text": "with my super soaking",
-      "startTime": 119.32,
-      "endTime": 120.64,
+      "text": "I'm feelin' like the Joker, get your throat cut, I told ya",
+      "startTime": 114.336,
+      "endTime": 117.76,
       "words": [
         {
+          "word": "I'm",
+          "start": 114.336,
+          "end": 114.555,
+          "spoken": true
+        },
+        {
+          "word": "feelin'",
+          "start": 114.555,
+          "end": 115.067,
+          "spoken": true
+        },
+        {
+          "word": "like",
+          "start": 115.067,
+          "end": 115.359,
+          "spoken": true
+        },
+        {
+          "word": "the",
+          "start": 115.359,
+          "end": 115.578,
+          "spoken": true
+        },
+        {
+          "word": "Joker,",
+          "start": 115.578,
+          "end": 116.016,
+          "spoken": true
+        },
+        {
+          "word": "get",
+          "start": 116.016,
+          "end": 116.236,
+          "spoken": true
+        },
+        {
+          "word": "your",
+          "start": 116.411,
+          "end": 116.528,
+          "sung": true
+        },
+        {
+          "word": "throat",
+          "start": 116.791,
+          "end": 116.966
+        },
+        {
+          "word": "cut,",
+          "start": 116.966,
+          "end": 117.259,
+          "spoken": true
+        },
+        {
+          "word": "I",
+          "start": 117.259,
+          "end": 117.359
+        },
+        {
+          "word": "told",
+          "start": 117.452,
+          "end": 117.651,
+          "spoken": true
+        },
+        {
+          "word": "ya",
+          "start": 117.651,
+          "end": 117.76,
+          "spoken": true
+        }
+      ],
+      "time": 114.336,
+      "end": 117.76
+    },
+    {
+      "text": "I'm shootin' your with my super soaker, I told ya",
+      "startTime": 117.77,
+      "endTime": 121.07,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 117.77,
+          "end": 118.018
+        },
+        {
+          "word": "shootin'",
+          "start": 118.111,
+          "end": 118.68,
+          "char_starts": [
+            118.111,
+            118.154,
+            118.202,
+            118.258,
+            118.321,
+            118.39,
+            118.462,
+            118.54
+          ],
+          "spoken": true
+        },
+        {
+          "word": "your",
+          "start": 118.879,
+          "end": 119.011,
+          "spoken": true
+        },
+        {
           "word": "with",
-          "start": 119.32,
-          "end": 119.6
+          "start": 119.011,
+          "end": 119.342,
+          "spoken": true
         },
         {
           "word": "my",
-          "start": 119.756,
-          "end": 119.86,
+          "start": 119.342,
+          "end": 119.507,
           "spoken": true
         },
         {
           "word": "super",
-          "start": 119.86,
-          "end": 120.24,
+          "start": 119.755,
+          "end": 119.921,
           "spoken": true
         },
         {
-          "word": "soaking",
-          "start": 120.24,
-          "end": 120.64,
+          "word": "soaker,",
+          "start": 119.921,
+          "end": 120.5,
           "spoken": true
-        }
-      ],
-      "time": 119.32,
-      "end": 120.64
-    },
-    {
-      "text": "I told you I'm swerving up",
-      "startTime": 120.64,
-      "endTime": 122.54,
-      "words": [
+        },
         {
           "word": "I",
-          "start": 120.872,
-          "end": 121.08,
-          "stretch": true,
-          "spoken": true
+          "start": 120.5,
+          "end": 120.6
         },
         {
           "word": "told",
-          "start": 121.08,
-          "end": 121.3,
+          "start": 120.799,
+          "end": 120.931,
           "spoken": true
         },
         {
-          "word": "you",
-          "start": 121.528,
-          "end": 121.68,
+          "word": "ya",
+          "start": 120.931,
+          "end": 121.07,
           "spoken": true
-        },
-        {
-          "word": "I'm",
-          "start": 121.68,
-          "end": 122.04,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "swerving",
-          "start": 122.04,
-          "end": 122.36
-        },
-        {
-          "word": "up",
-          "start": 122.36,
-          "end": 122.54
         }
       ],
-      "time": 120.64,
-      "end": 122.54
+      "time": 117.77,
+      "end": 121.07
     },
     {
-      "text": "in a curve and an arrow.",
-      "startTime": 122.54,
-      "endTime": 123.98,
+      "text": "I'm swervin' up the curb in that Rover, I told ya",
+      "startTime": 121.079,
+      "endTime": 124.56,
       "words": [
         {
-          "word": "in",
-          "start": 122.54,
-          "end": 122.8
+          "word": "I'm",
+          "start": 121.079,
+          "end": 121.348,
+          "spoken": true
         },
         {
-          "word": "a",
-          "start": 122.8,
-          "end": 122.96,
+          "word": "swervin'",
+          "start": 121.534,
+          "end": 122.065,
+          "char_starts": [
+            121.534,
+            121.574,
+            121.616,
+            121.665,
+            121.72,
+            121.781,
+            121.846,
+            121.914
+          ],
+          "sung": true,
           "stretch": true
         },
         {
-          "word": "curve",
-          "start": 122.96,
-          "end": 123.22
+          "word": "up",
+          "start": 122.065,
+          "end": 122.244
         },
         {
-          "word": "and",
-          "start": 123.22,
-          "end": 123.5
+          "word": "the",
+          "start": 122.244,
+          "end": 122.513
         },
         {
-          "word": "an",
-          "start": 123.644,
-          "end": 123.74,
+          "word": "curb",
+          "start": 122.513,
+          "end": 122.871
+        },
+        {
+          "word": "in",
+          "start": 122.871,
+          "end": 123.051
+        },
+        {
+          "word": "that",
+          "start": 123.051,
+          "end": 123.409
+        },
+        {
+          "word": "Rover,",
+          "start": 123.664,
+          "end": 123.947,
           "spoken": true
         },
-        {
-          "word": "arrow.",
-          "start": 123.74,
-          "end": 123.98,
-          "spoken": true
-        }
-      ],
-      "time": 122.54,
-      "end": 123.98
-    },
-    {
-      "text": "I told you don't flow so, sir, bitch",
-      "startTime": 124.24,
-      "endTime": 126.84,
-      "words": [
         {
           "word": "I",
-          "start": 124.31,
-          "end": 124.54,
-          "stretch": true,
-          "spoken": true
+          "start": 123.947,
+          "end": 124.047
         },
         {
           "word": "told",
-          "start": 124.54,
-          "end": 124.76,
+          "start": 124.262,
+          "end": 124.405,
           "spoken": true
         },
         {
-          "word": "you",
-          "start": 124.964,
-          "end": 125.1,
+          "word": "ya",
+          "start": 124.405,
+          "end": 124.56,
           "spoken": true
-        },
+        }
+      ],
+      "time": 121.079,
+      "end": 124.56
+    },
+    {
+      "text": "Your flow so absurd, flow I know it, I told ya",
+      "startTime": 127.72,
+      "endTime": 128.82,
+      "words": [
         {
-          "word": "don't",
-          "start": 125.1,
-          "end": 125.46,
+          "word": "Your",
+          "start": 127.72,
+          "end": 127.82,
           "spoken": true
         },
         {
           "word": "flow",
-          "start": 125.46,
-          "end": 125.7
-        },
-        {
-          "word": "so,",
-          "start": 125.816,
-          "end": 126.08,
+          "start": 127.82,
+          "end": 127.92,
           "spoken": true
         },
         {
-          "word": "sir,",
-          "start": 126.22,
-          "end": 126.54,
+          "word": "so",
+          "start": 127.92,
+          "end": 128.02,
           "spoken": true
         },
         {
-          "word": "bitch",
-          "start": 126.679,
-          "end": 126.84,
-          "spoken": true
-        }
-      ],
-      "time": 124.24,
-      "end": 126.84
-    },
-    {
-      "text": "I know I told you one verse go for a bird",
-      "startTime": 126.84,
-      "endTime": 129.98,
-      "words": [
+          "word": "absurd,",
+          "start": 128.02,
+          "end": 128.12
+        },
+        {
+          "word": "flow",
+          "start": 128.12,
+          "end": 128.22
+        },
         {
           "word": "I",
-          "start": 127.056,
-          "end": 127.2,
-          "stretch": true,
-          "spoken": true
+          "start": 128.22,
+          "end": 128.32
         },
         {
           "word": "know",
-          "start": 127.2,
-          "end": 127.36,
+          "start": 128.38,
+          "end": 128.42,
+          "spoken": true
+        },
+        {
+          "word": "it,",
+          "start": 128.42,
+          "end": 128.52,
           "spoken": true
         },
         {
           "word": "I",
-          "start": 127.648,
-          "end": 127.84,
-          "stretch": true,
+          "start": 128.52,
+          "end": 128.62,
           "spoken": true
         },
         {
           "word": "told",
-          "start": 127.84,
-          "end": 128.18,
-          "spoken": true
+          "start": 128.62,
+          "end": 128.72
         },
         {
-          "word": "you",
-          "start": 128.389,
-          "end": 128.56,
-          "spoken": true
-        },
+          "word": "ya",
+          "start": 128.72,
+          "end": 128.82
+        }
+      ],
+      "time": 127.72,
+      "end": 128.82
+    },
+    {
+      "text": "One verse, goes for a bird, a I blow it, I told ya",
+      "startTime": 128.49,
+      "endTime": 131.68,
+      "words": [
         {
-          "word": "one",
-          "start": 128.56,
+          "word": "One",
+          "start": 128.49,
           "end": 128.84,
           "spoken": true
         },
         {
-          "word": "verse",
+          "word": "verse,",
           "start": 128.84,
-          "end": 129.1
+          "end": 129.08
         },
         {
-          "word": "go",
-          "start": 129.239,
-          "end": 129.4,
-          "stretch": true,
+          "word": "goes",
+          "start": 129.243,
+          "end": 129.38,
           "spoken": true
         },
         {
           "word": "for",
-          "start": 129.4,
-          "end": 129.68,
-          "sung": true
+          "start": 129.38,
+          "end": 129.66,
+          "spoken": true
         },
         {
           "word": "a",
-          "start": 129.68,
-          "end": 129.82,
+          "start": 129.66,
+          "end": 129.8
+        },
+        {
+          "word": "bird,",
+          "start": 129.8,
+          "end": 129.98
+        },
+        {
+          "word": "a",
+          "start": 129.98,
+          "end": 130.33,
           "spoken": true
         },
         {
-          "word": "bird",
-          "start": 129.82,
-          "end": 129.98,
-          "spoken": true
-        }
-      ],
-      "time": 126.84,
-      "end": 129.98
-    },
-    {
-      "text": "bitch. I'll blow it.",
-      "startTime": 129.98,
-      "endTime": 131.16,
-      "words": [
-        {
-          "word": "bitch.",
-          "start": 130.143,
-          "end": 130.32,
-          "spoken": true
-        },
-        {
-          "word": "I'll",
-          "start": 130.38,
-          "end": 130.72,
+          "word": "I",
+          "start": 130.34,
+          "end": 130.68,
           "spoken": true
         },
         {
           "word": "blow",
-          "start": 130.72,
+          "start": 130.68,
           "end": 130.82
         },
         {
-          "word": "it.",
+          "word": "it,",
           "start": 130.82,
-          "end": 131.16,
-          "spoken": true
-        }
-      ],
-      "time": 129.98,
-      "end": 131.16
-    },
-    {
-      "text": "I told you I'm geeked out like a nerd",
-      "startTime": 131.26,
-      "endTime": 133.42,
-      "words": [
+          "end": 131.12
+        },
         {
           "word": "I",
-          "start": 131.26,
-          "end": 131.46,
-          "stretch": true,
+          "start": 131.166,
+          "end": 131.44,
           "spoken": true
         },
         {
           "word": "told",
-          "start": 131.46,
-          "end": 131.62
+          "start": 131.44,
+          "end": 131.58
         },
         {
-          "word": "you",
-          "start": 131.806,
-          "end": 132.0,
-          "spoken": true
-        },
+          "word": "ya",
+          "start": 131.58,
+          "end": 131.68
+        }
+      ],
+      "time": 128.49,
+      "end": 131.68
+    },
+    {
+      "text": "I'm geeked up like a nerd, writin' these poems, I told ya",
+      "startTime": 132.12,
+      "endTime": 135.2,
+      "words": [
         {
           "word": "I'm",
-          "start": 132.0,
-          "end": 132.32,
-          "stretch": true,
+          "start": 132.12,
+          "end": 132.34,
           "spoken": true
         },
         {
           "word": "geeked",
-          "start": 132.548,
+          "start": 132.556,
           "end": 132.7,
-          "spoken": true
+          "sung": true
         },
         {
-          "word": "out",
+          "word": "up",
           "start": 132.7,
-          "end": 132.78,
+          "end": 132.76,
           "spoken": true
         },
         {
           "word": "like",
-          "start": 132.78,
+          "start": 132.76,
           "end": 133.06,
           "spoken": true
         },
         {
           "word": "a",
           "start": 133.06,
-          "end": 133.26,
-          "stretch": true,
-          "sung": true
+          "end": 133.24,
+          "spoken": true
         },
         {
-          "word": "nerd",
-          "start": 133.26,
-          "end": 133.42,
-          "spoken": true
-        }
-      ],
-      "time": 131.26,
-      "end": 133.42
-    },
-    {
-      "text": "writing these poems",
-      "startTime": 133.42,
-      "endTime": 134.34,
-      "words": [
+          "word": "nerd,",
+          "start": 133.24,
+          "end": 133.4
+        },
         {
-          "word": "writing",
-          "start": 133.536,
-          "end": 133.72,
+          "word": "writin'",
+          "start": 133.539,
+          "end": 133.68,
           "spoken": true
         },
         {
           "word": "these",
-          "start": 133.936,
-          "end": 134.08,
+          "start": 133.872,
+          "end": 134.0,
           "spoken": true
         },
         {
-          "word": "poems",
-          "start": 134.08,
+          "word": "poems,",
+          "start": 134.0,
           "end": 134.34,
           "spoken": true
-        }
-      ],
-      "time": 133.42,
-      "end": 134.34
-    },
-    {
-      "text": "I told you I'm geeked out like a nerd writing these poems",
-      "startTime": 134.34,
-      "endTime": 138.12,
-      "words": [
+        },
         {
           "word": "I",
-          "start": 134.572,
-          "end": 134.76,
-          "stretch": true,
-          "spoken": true
+          "start": 134.595,
+          "end": 134.86
         },
         {
           "word": "told",
-          "start": 134.76,
-          "end": 135.08,
+          "start": 134.86,
+          "end": 135.1,
           "spoken": true
         },
         {
-          "word": "you",
-          "start": 135.266,
-          "end": 135.4,
+          "word": "ya",
+          "start": 135.1,
+          "end": 135.2,
           "spoken": true
-        },
+        }
+      ],
+      "time": 132.12,
+      "end": 135.2
+    },
+    {
+      "text": "I'm geeked up like a nerd writin' these—",
+      "startTime": 135.5,
+      "endTime": 137.72,
+      "words": [
         {
           "word": "I'm",
-          "start": 135.4,
-          "end": 135.74,
-          "stretch": true,
-          "spoken": true
+          "start": 135.5,
+          "end": 135.7
         },
         {
           "word": "geeked",
-          "start": 135.992,
+          "start": 135.976,
           "end": 136.16,
           "spoken": true
         },
         {
-          "word": "out",
+          "word": "up",
           "start": 136.16,
-          "end": 136.28,
+          "end": 136.26,
           "spoken": true
         },
         {
           "word": "like",
-          "start": 136.28,
+          "start": 136.26,
           "end": 136.48,
           "spoken": true
         },
         {
           "word": "a",
           "start": 136.48,
-          "end": 136.7,
-          "stretch": true
+          "end": 136.68
         },
         {
           "word": "nerd",
-          "start": 136.7,
-          "end": 136.86
+          "start": 136.68,
+          "end": 136.84
         },
         {
-          "word": "writing",
-          "start": 137.023,
-          "end": 137.14,
+          "word": "writin'",
+          "start": 137.003,
+          "end": 137.12,
           "spoken": true
         },
         {
-          "word": "these",
-          "start": 137.14,
-          "end": 137.86,
+          "word": "these—",
+          "start": 137.12,
+          "end": 137.72,
           "spoken": true
-        },
-        {
-          "word": "poems",
-          "start": 138.016,
-          "end": 138.12
         }
       ],
-      "time": 134.34,
-      "end": 138.12
-    },
-    {
-      "text": "●",
-      "startTime": 138.42,
-      "endTime": 151.2,
-      "words": [],
-      "type": "vocal_cue",
-      "time": 138.42,
-      "end": 151.2
+      "time": 135.5,
+      "end": 137.72
     }
   ],
   "haptics": {
@@ -2628,26 +2494,32 @@
     },
     "events": [
       {
+        "time": 14.211,
+        "intensity": 0.03,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
         "time": 14.838,
-        "intensity": 0.05,
+        "intensity": 0.06,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 15.488,
-        "intensity": 0.07,
+        "intensity": 0.1,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 16.138,
-        "intensity": 0.08,
+        "intensity": 0.06,
         "duration_ms": 40,
         "type": "kick"
       },
       {
         "time": 16.788,
-        "intensity": 0.04,
+        "intensity": 0.03,
         "duration_ms": 40,
         "type": "snare"
       },
@@ -2659,97 +2531,97 @@
       },
       {
         "time": 18.065,
-        "intensity": 0.15,
+        "intensity": 0.11,
         "duration_ms": 40,
         "type": "beat"
       },
       {
         "time": 18.692,
-        "intensity": 0.08,
-        "duration_ms": 40,
-        "type": "beat"
-      },
-      {
-        "time": 19.342,
-        "intensity": 0.09,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 19.992,
-        "intensity": 0.06,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 20.643,
-        "intensity": 0.22,
-        "duration_ms": 40,
-        "type": "beat"
-      },
-      {
-        "time": 21.386,
-        "intensity": 0.03,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 22.129,
-        "intensity": 0.05,
-        "duration_ms": 40,
-        "type": "beat"
-      },
-      {
-        "time": 22.779,
-        "intensity": 0.06,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 23.429,
-        "intensity": 0.05,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 24.265,
-        "intensity": 0.13,
-        "duration_ms": 40,
-        "type": "beat"
-      },
-      {
-        "time": 24.915,
-        "intensity": 0.15,
-        "duration_ms": 40,
-        "type": "beat"
-      },
-      {
-        "time": 25.565,
         "intensity": 0.12,
         "duration_ms": 40,
         "type": "beat"
       },
       {
-        "time": 26.169,
+        "time": 19.342,
+        "intensity": 0.06,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 19.992,
+        "intensity": 0.05,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 20.643,
+        "intensity": 0.26,
+        "duration_ms": 40,
+        "type": "beat"
+      },
+      {
+        "time": 21.386,
+        "intensity": 0.05,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 22.129,
+        "intensity": 0.06,
+        "duration_ms": 40,
+        "type": "beat"
+      },
+      {
+        "time": 22.779,
+        "intensity": 0.09,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 23.429,
+        "intensity": 0.02,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 24.265,
+        "intensity": 0.07,
+        "duration_ms": 40,
+        "type": "beat"
+      },
+      {
+        "time": 24.915,
+        "intensity": 0.19,
+        "duration_ms": 40,
+        "type": "beat"
+      },
+      {
+        "time": 25.542,
+        "intensity": 0.08,
+        "duration_ms": 40,
+        "type": "beat"
+      },
+      {
+        "time": 26.146,
         "intensity": 0.0,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 26.773,
+        "time": 26.749,
+        "intensity": 0.01,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 27.353,
         "intensity": 0.0,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 27.376,
-        "intensity": 0.0,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 27.98,
-        "intensity": 0.03,
+        "time": 27.957,
+        "intensity": 0.01,
         "duration_ms": 40,
         "type": "snare"
       },
@@ -2767,115 +2639,115 @@
       },
       {
         "time": 30.047,
-        "intensity": 0.06,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 30.697,
-        "intensity": 0.07,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 31.347,
-        "intensity": 0.06,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 31.997,
-        "intensity": 0.04,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 32.624,
-        "intensity": 0.06,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 33.274,
         "intensity": 0.05,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 33.924,
-        "intensity": 0.04,
+        "time": 30.72,
+        "intensity": 0.21,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 34.551,
-        "intensity": 0.2,
-        "duration_ms": 40,
-        "type": "beat"
-      },
-      {
-        "time": 35.201,
-        "intensity": 0.62,
-        "duration_ms": 80,
-        "type": "kick"
-      },
-      {
-        "time": 35.852,
-        "intensity": 0.13,
-        "duration_ms": 40,
-        "type": "beat"
-      },
-      {
-        "time": 36.479,
+        "time": 31.347,
         "intensity": 0.07,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 37.129,
+        "time": 31.997,
+        "intensity": 0.05,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 32.624,
+        "intensity": 0.19,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 33.39,
+        "intensity": 0.05,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 34.133,
+        "intensity": 0.04,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 34.783,
         "intensity": 0.03,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 37.825,
-        "intensity": 0.11,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 38.522,
+        "time": 35.41,
         "intensity": 0.04,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 39.265,
-        "intensity": 0.12,
-        "duration_ms": 40,
-        "type": "beat"
-      },
-      {
-        "time": 39.915,
-        "intensity": 0.1,
+        "time": 36.061,
+        "intensity": 0.05,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 40.449,
+        "time": 36.711,
+        "intensity": 0.11,
+        "duration_ms": 40,
+        "type": "kick"
+      },
+      {
+        "time": 37.361,
         "intensity": 0.06,
         "duration_ms": 40,
         "type": "snare"
       },
       {
+        "time": 37.988,
+        "intensity": 0.14,
+        "duration_ms": 40,
+        "type": "beat"
+      },
+      {
+        "time": 38.638,
+        "intensity": 0.25,
+        "duration_ms": 40,
+        "type": "beat"
+      },
+      {
+        "time": 39.265,
+        "intensity": 0.04,
+        "duration_ms": 40,
+        "type": "beat"
+      },
+      {
+        "time": 39.915,
+        "intensity": 0.06,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 40.449,
+        "intensity": 0.04,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
         "time": 40.983,
-        "intensity": 0.08,
+        "intensity": 0.05,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 41.633,
-        "intensity": 0.04,
+        "intensity": 0.03,
         "duration_ms": 40,
         "type": "snare"
       },
@@ -2887,13 +2759,13 @@
       },
       {
         "time": 42.91,
-        "intensity": 0.09,
+        "intensity": 0.06,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 43.561,
-        "intensity": 0.08,
+        "intensity": 0.1,
         "duration_ms": 40,
         "type": "kick"
       },
@@ -2905,19 +2777,19 @@
       },
       {
         "time": 44.838,
-        "intensity": 0.04,
+        "intensity": 0.07,
         "duration_ms": 40,
         "type": "beat"
       },
       {
         "time": 45.488,
-        "intensity": 0.46,
-        "duration_ms": 40,
+        "intensity": 0.5,
+        "duration_ms": 80,
         "type": "beat"
       },
       {
         "time": 46.138,
-        "intensity": 0.1,
+        "intensity": 0.09,
         "duration_ms": 40,
         "type": "beat"
       },
@@ -2935,67 +2807,67 @@
       },
       {
         "time": 48.065,
-        "intensity": 0.13,
+        "intensity": 0.12,
         "duration_ms": 40,
         "type": "beat"
       },
       {
         "time": 48.808,
-        "intensity": 0.05,
+        "intensity": 0.03,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 49.551,
-        "intensity": 0.04,
+        "intensity": 0.09,
         "duration_ms": 40,
         "type": "beat"
       },
       {
         "time": 50.202,
-        "intensity": 0.06,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 50.852,
         "intensity": 0.05,
         "duration_ms": 40,
         "type": "snare"
       },
       {
+        "time": 50.852,
+        "intensity": 0.03,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
         "time": 51.688,
-        "intensity": 0.02,
+        "intensity": 0.05,
         "duration_ms": 40,
         "type": "beat"
       },
       {
         "time": 52.338,
-        "intensity": 0.27,
+        "intensity": 0.25,
         "duration_ms": 40,
         "type": "beat"
       },
       {
         "time": 52.988,
-        "intensity": 0.16,
+        "intensity": 0.05,
         "duration_ms": 40,
         "type": "beat"
       },
       {
         "time": 53.615,
-        "intensity": 0.04,
+        "intensity": 0.03,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 54.149,
-        "intensity": 0.04,
+        "intensity": 0.03,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 54.706,
-        "intensity": 0.1,
+        "intensity": 0.15,
         "duration_ms": 40,
         "type": "beat"
       },
@@ -3007,31 +2879,31 @@
       },
       {
         "time": 55.983,
-        "intensity": 0.06,
+        "intensity": 0.05,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 56.633,
-        "intensity": 0.06,
+        "intensity": 0.07,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 57.493,
-        "intensity": 0.11,
+        "time": 57.469,
+        "intensity": 0.04,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 58.143,
-        "intensity": 0.37,
+        "intensity": 0.3,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 58.77,
-        "intensity": 0.05,
+        "time": 58.793,
+        "intensity": 0.04,
         "duration_ms": 40,
         "type": "snare"
       },
@@ -3043,13 +2915,13 @@
       },
       {
         "time": 60.07,
-        "intensity": 0.09,
+        "intensity": 0.04,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 60.906,
-        "intensity": 0.05,
+        "intensity": 0.09,
         "duration_ms": 40,
         "type": "snare"
       },
@@ -3061,13 +2933,13 @@
       },
       {
         "time": 62.206,
-        "intensity": 0.05,
+        "intensity": 0.04,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 62.856,
-        "intensity": 0.09,
+        "time": 62.833,
+        "intensity": 0.04,
         "duration_ms": 40,
         "type": "snare"
       },
@@ -3085,7 +2957,7 @@
       },
       {
         "time": 64.784,
-        "intensity": 0.03,
+        "intensity": 0.06,
         "duration_ms": 40,
         "type": "snare"
       },
@@ -3097,13 +2969,13 @@
       },
       {
         "time": 66.061,
-        "intensity": 0.23,
+        "intensity": 0.13,
         "duration_ms": 40,
         "type": "beat"
       },
       {
         "time": 66.711,
-        "intensity": 0.07,
+        "intensity": 0.17,
         "duration_ms": 40,
         "type": "beat"
       },
@@ -3115,37 +2987,37 @@
       },
       {
         "time": 68.151,
-        "intensity": 0.0,
+        "intensity": 0.01,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 68.847,
-        "intensity": 0.18,
+        "intensity": 0.3,
         "duration_ms": 40,
         "type": "beat"
       },
       {
         "time": 69.497,
-        "intensity": 0.46,
+        "intensity": 0.33,
         "duration_ms": 40,
         "type": "kick"
       },
       {
         "time": 70.124,
-        "intensity": 0.02,
+        "intensity": 0.01,
         "duration_ms": 40,
         "type": "beat"
       },
       {
         "time": 70.844,
-        "intensity": 0.1,
+        "intensity": 0.09,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 71.541,
-        "intensity": 0.08,
+        "intensity": 0.1,
         "duration_ms": 40,
         "type": "snare"
       },
@@ -3157,73 +3029,73 @@
       },
       {
         "time": 72.934,
-        "intensity": 0.35,
+        "intensity": 0.33,
         "duration_ms": 40,
         "type": "kick"
       },
       {
         "time": 73.584,
-        "intensity": 0.13,
+        "intensity": 0.12,
         "duration_ms": 40,
         "type": "kick"
       },
       {
         "time": 74.281,
-        "intensity": 0.03,
+        "intensity": 0.04,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 74.977,
-        "intensity": 0.07,
+        "intensity": 0.12,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 75.697,
-        "intensity": 0.18,
+        "intensity": 0.17,
         "duration_ms": 40,
         "type": "beat"
       },
       {
         "time": 76.347,
-        "intensity": 0.35,
+        "intensity": 0.38,
         "duration_ms": 40,
         "type": "kick"
       },
       {
         "time": 76.997,
-        "intensity": 0.18,
+        "intensity": 0.16,
         "duration_ms": 40,
         "type": "beat"
       },
       {
-        "time": 77.694,
-        "intensity": 0.03,
+        "time": 77.833,
+        "intensity": 0.42,
         "duration_ms": 40,
-        "type": "snare"
+        "type": "kick"
       },
       {
-        "time": 78.391,
-        "intensity": 0.07,
+        "time": 78.483,
+        "intensity": 0.16,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 79.134,
-        "intensity": 0.27,
+        "intensity": 0.23,
         "duration_ms": 40,
         "type": "beat"
       },
       {
         "time": 79.784,
-        "intensity": 0.26,
+        "intensity": 0.25,
         "duration_ms": 40,
         "type": "kick"
       },
       {
         "time": 80.434,
-        "intensity": 0.01,
+        "intensity": 0.02,
         "duration_ms": 40,
         "type": "snare"
       },
@@ -3325,7 +3197,7 @@
       },
       {
         "time": 91.487,
-        "intensity": 0.01,
+        "intensity": 0.0,
         "duration_ms": 40,
         "type": "snare"
       },
@@ -3343,13 +3215,13 @@
       },
       {
         "time": 93.367,
-        "intensity": 0.0,
+        "intensity": 0.01,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 93.994,
-        "intensity": 0.0,
+        "intensity": 0.01,
         "duration_ms": 40,
         "type": "snare"
       },
@@ -3363,7 +3235,7 @@
         "time": 95.248,
         "intensity": 0.0,
         "duration_ms": 40,
-        "type": "beat"
+        "type": "snare"
       },
       {
         "time": 95.875,
@@ -3373,7 +3245,7 @@
       },
       {
         "time": 96.502,
-        "intensity": 0.06,
+        "intensity": 0.05,
         "duration_ms": 40,
         "type": "snare"
       },
@@ -3385,37 +3257,37 @@
       },
       {
         "time": 97.779,
-        "intensity": 0.08,
+        "intensity": 0.05,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 98.406,
-        "intensity": 0.06,
+        "intensity": 0.04,
         "duration_ms": 40,
         "type": "kick"
       },
       {
         "time": 99.056,
-        "intensity": 0.07,
+        "intensity": 0.04,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 99.706,
-        "intensity": 0.13,
+        "intensity": 0.16,
         "duration_ms": 40,
         "type": "kick"
       },
       {
         "time": 100.357,
-        "intensity": 0.55,
+        "intensity": 0.61,
         "duration_ms": 80,
         "type": "beat"
       },
       {
         "time": 100.984,
-        "intensity": 0.14,
+        "intensity": 0.1,
         "duration_ms": 40,
         "type": "beat"
       },
@@ -3427,109 +3299,109 @@
       },
       {
         "time": 102.168,
-        "intensity": 0.09,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 102.702,
-        "intensity": 0.12,
-        "duration_ms": 40,
-        "type": "beat"
-      },
-      {
-        "time": 103.352,
-        "intensity": 0.04,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 103.979,
-        "intensity": 0.1,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 104.629,
-        "intensity": 0.06,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 105.279,
-        "intensity": 0.08,
-        "duration_ms": 40,
-        "type": "kick"
-      },
-      {
-        "time": 105.929,
-        "intensity": 0.02,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 106.556,
-        "intensity": 0.17,
-        "duration_ms": 40,
-        "type": "beat"
-      },
-      {
-        "time": 107.207,
-        "intensity": 0.24,
-        "duration_ms": 40,
-        "type": "beat"
-      },
-      {
-        "time": 107.833,
-        "intensity": 0.09,
-        "duration_ms": 40,
-        "type": "beat"
-      },
-      {
-        "time": 108.484,
         "intensity": 0.05,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 109.018,
-        "intensity": 0.13,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 109.552,
-        "intensity": 0.03,
+        "time": 102.702,
+        "intensity": 0.16,
         "duration_ms": 40,
         "type": "beat"
       },
       {
-        "time": 110.202,
-        "intensity": 0.14,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 110.852,
-        "intensity": 0.08,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 111.479,
+        "time": 103.352,
         "intensity": 0.06,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 112.338,
+        "time": 103.979,
+        "intensity": 0.18,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 104.629,
+        "intensity": 0.02,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 105.279,
+        "intensity": 0.05,
+        "duration_ms": 40,
+        "type": "kick"
+      },
+      {
+        "time": 105.929,
         "intensity": 0.04,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 112.988,
+        "time": 106.556,
         "intensity": 0.14,
+        "duration_ms": 40,
+        "type": "beat"
+      },
+      {
+        "time": 107.207,
+        "intensity": 0.2,
+        "duration_ms": 40,
+        "type": "beat"
+      },
+      {
+        "time": 107.833,
+        "intensity": 0.07,
+        "duration_ms": 40,
+        "type": "beat"
+      },
+      {
+        "time": 108.484,
+        "intensity": 0.08,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 109.018,
+        "intensity": 0.09,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 109.552,
+        "intensity": 0.02,
+        "duration_ms": 40,
+        "type": "beat"
+      },
+      {
+        "time": 110.202,
+        "intensity": 0.07,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 110.852,
+        "intensity": 0.04,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 111.479,
+        "intensity": 0.07,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 112.338,
+        "intensity": 0.05,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 112.988,
+        "intensity": 0.17,
         "duration_ms": 40,
         "type": "snare"
       },
@@ -3541,25 +3413,25 @@
       },
       {
         "time": 114.265,
-        "intensity": 0.05,
+        "intensity": 0.03,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 114.916,
-        "intensity": 0.07,
+        "intensity": 0.06,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 115.566,
-        "intensity": 0.04,
+        "intensity": 0.03,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 116.216,
-        "intensity": 0.05,
+        "intensity": 0.02,
         "duration_ms": 40,
         "type": "snare"
       },
@@ -3571,19 +3443,19 @@
       },
       {
         "time": 117.47,
-        "intensity": 0.08,
+        "intensity": 0.06,
         "duration_ms": 40,
         "type": "kick"
       },
       {
         "time": 118.12,
-        "intensity": 0.07,
+        "intensity": 0.04,
         "duration_ms": 40,
         "type": "beat"
       },
       {
         "time": 118.77,
-        "intensity": 0.05,
+        "intensity": 0.09,
         "duration_ms": 40,
         "type": "snare"
       },
@@ -3595,103 +3467,103 @@
       },
       {
         "time": 120.117,
-        "intensity": 0.11,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 120.79,
-        "intensity": 0.03,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 121.394,
-        "intensity": 0.06,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 121.998,
-        "intensity": 0.02,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 122.625,
         "intensity": 0.07,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 123.275,
-        "intensity": 0.1,
+        "time": 120.813,
+        "intensity": 0.01,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 123.925,
-        "intensity": 0.05,
+        "time": 121.556,
+        "intensity": 0.08,
         "duration_ms": 40,
-        "type": "snare"
+        "type": "beat"
       },
       {
-        "time": 124.552,
-        "intensity": 0.1,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 125.202,
+        "time": 122.183,
         "intensity": 0.04,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 125.852,
-        "intensity": 0.15,
-        "duration_ms": 40,
-        "type": "kick"
-      },
-      {
-        "time": 126.502,
-        "intensity": 0.05,
+        "time": 122.717,
+        "intensity": 0.06,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 127.129,
-        "intensity": 0.16,
+        "time": 123.275,
+        "intensity": 0.09,
         "duration_ms": 40,
-        "type": "beat"
+        "type": "snare"
       },
       {
-        "time": 127.779,
-        "intensity": 0.59,
-        "duration_ms": 80,
-        "type": "beat"
-      },
-      {
-        "time": 128.406,
-        "intensity": 0.03,
-        "duration_ms": 40,
-        "type": "beat"
-      },
-      {
-        "time": 129.057,
+        "time": 123.925,
         "intensity": 0.07,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 129.614,
+        "time": 124.552,
+        "intensity": 0.05,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 125.202,
+        "intensity": 0.03,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 125.852,
+        "intensity": 0.12,
+        "duration_ms": 40,
+        "type": "kick"
+      },
+      {
+        "time": 126.502,
         "intensity": 0.08,
         "duration_ms": 40,
         "type": "snare"
       },
       {
+        "time": 127.129,
+        "intensity": 0.07,
+        "duration_ms": 40,
+        "type": "beat"
+      },
+      {
+        "time": 127.779,
+        "intensity": 0.33,
+        "duration_ms": 40,
+        "type": "beat"
+      },
+      {
+        "time": 128.406,
+        "intensity": 0.01,
+        "duration_ms": 40,
+        "type": "beat"
+      },
+      {
+        "time": 129.057,
+        "intensity": 0.1,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
+        "time": 129.614,
+        "intensity": 0.09,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
         "time": 130.148,
-        "intensity": 0.22,
+        "intensity": 0.19,
         "duration_ms": 40,
         "type": "kick"
       },
@@ -3703,7 +3575,7 @@
       },
       {
         "time": 131.425,
-        "intensity": 0.06,
+        "intensity": 0.05,
         "duration_ms": 40,
         "type": "snare"
       },
@@ -3715,7 +3587,7 @@
       },
       {
         "time": 132.702,
-        "intensity": 0.14,
+        "intensity": 0.15,
         "duration_ms": 40,
         "type": "kick"
       },
@@ -3727,21 +3599,21 @@
       },
       {
         "time": 133.979,
-        "intensity": 0.05,
+        "intensity": 0.04,
         "duration_ms": 40,
         "type": "beat"
       },
       {
         "time": 134.536,
-        "intensity": 0.04,
+        "intensity": 0.05,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 135.14,
-        "intensity": 0.04,
+        "intensity": 0.05,
         "duration_ms": 40,
-        "type": "snare"
+        "type": "beat"
       },
       {
         "time": 135.721,
@@ -3751,13 +3623,13 @@
       },
       {
         "time": 136.348,
-        "intensity": 0.12,
+        "intensity": 0.14,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 136.975,
-        "intensity": 0.05,
+        "intensity": 0.03,
         "duration_ms": 40,
         "type": "beat"
       },
@@ -3775,31 +3647,31 @@
       },
       {
         "time": 138.925,
-        "intensity": 0.02,
+        "intensity": 0.07,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 139.598,
-        "intensity": 0.1,
+        "time": 139.622,
+        "intensity": 0.04,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 140.225,
-        "intensity": 0.01,
+        "time": 140.341,
+        "intensity": 0.04,
         "duration_ms": 40,
         "type": "snare"
       },
       {
-        "time": 140.968,
-        "intensity": 0.12,
+        "time": 141.061,
+        "intensity": 0.04,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 141.711,
-        "intensity": 0.04,
+        "intensity": 0.02,
         "duration_ms": 40,
         "type": "snare"
       },
@@ -3823,49 +3695,49 @@
       },
       {
         "time": 144.266,
-        "intensity": 0.14,
+        "intensity": 0.13,
         "duration_ms": 40,
         "type": "beat"
       },
       {
         "time": 144.916,
-        "intensity": 0.2,
+        "intensity": 0.19,
         "duration_ms": 40,
         "type": "kick"
       },
       {
         "time": 145.566,
-        "intensity": 0.11,
+        "intensity": 0.05,
         "duration_ms": 40,
         "type": "beat"
       },
       {
         "time": 146.193,
-        "intensity": 0.04,
-        "duration_ms": 40,
-        "type": "snare"
-      },
-      {
-        "time": 146.866,
         "intensity": 0.02,
         "duration_ms": 40,
         "type": "snare"
       },
       {
+        "time": 146.866,
+        "intensity": 0.0,
+        "duration_ms": 40,
+        "type": "snare"
+      },
+      {
         "time": 147.702,
-        "intensity": 0.06,
+        "intensity": 0.08,
         "duration_ms": 40,
         "type": "beat"
       },
       {
         "time": 148.352,
-        "intensity": 0.09,
+        "intensity": 0.12,
         "duration_ms": 40,
         "type": "beat"
       },
       {
         "time": 148.979,
-        "intensity": 0.03,
+        "intensity": 0.01,
         "duration_ms": 40,
         "type": "beat"
       },
@@ -3876,14 +3748,14 @@
         "type": "snare"
       },
       {
-        "time": 150.28,
-        "intensity": 0.01,
+        "time": 150.303,
+        "intensity": 0.03,
         "duration_ms": 40,
         "type": "snare"
       },
       {
         "time": 150.906,
-        "intensity": 0.02,
+        "intensity": 0.01,
         "duration_ms": 40,
         "type": "snare"
       },
@@ -3895,7 +3767,7 @@
       },
       {
         "time": 152.23,
-        "intensity": 0.04,
+        "intensity": 0.03,
         "duration_ms": 40,
         "type": "snare"
       }

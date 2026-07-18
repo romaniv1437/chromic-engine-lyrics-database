@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T11:04:53.677428+00:00",
-  "totalTracks": 878,
+  "generatedAt": "2026-07-18T12:36:01.848322+00:00",
+  "totalTracks": 879,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12345,6 +12345,22 @@
       },
       "sourcePath": "https://soundcloud.com/haroon-tahir-686277074/ryomen-sukuna-x-jane-the-long",
       "mtimeMs": 1784372694158,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    "myongchoi::music for deaf people": {
+      "title": "Music For Deaf People",
+      "artist": "myongchoi",
+      "originalTrackName": "myongchoi - Music For Deaf People",
+      "source": "syncedlyrics",
+      "file": "tracks/myongchoi-music-for-deaf-people-21496bc34611.json",
+      "files": {
+        "lyrics": "tracks/myongchoi-music-for-deaf-people-21496bc34611.json",
+        "meta": "tracks/myongchoi-music-for-deaf-people-21496bc34611.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://on.soundcloud.com/chnZlZALRmEeqAS3s1",
+      "mtimeMs": 1784378162333,
       "has_haptics": true,
       "haptics_version": 4
     }
@@ -24709,6 +24725,22 @@
       },
       "sourcePath": "https://soundcloud.com/haroon-tahir-686277074/ryomen-sukuna-x-jane-the-long",
       "mtimeMs": 1784372694158,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Music For Deaf People",
+      "artist": "myongchoi",
+      "originalTrackName": "myongchoi - Music For Deaf People",
+      "source": "syncedlyrics",
+      "file": "tracks/myongchoi-music-for-deaf-people-21496bc34611.json",
+      "files": {
+        "lyrics": "tracks/myongchoi-music-for-deaf-people-21496bc34611.json",
+        "meta": "tracks/myongchoi-music-for-deaf-people-21496bc34611.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://on.soundcloud.com/chnZlZALRmEeqAS3s1",
+      "mtimeMs": 1784378162333,
       "has_haptics": true,
       "haptics_version": 4
     }

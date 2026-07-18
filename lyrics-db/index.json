@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T12:36:01.848322+00:00",
+  "generatedAt": "2026-07-18T14:45:15.123035+00:00",
   "totalTracks": 879,
   "roots": [
     "lyrics-db/tracks"
@@ -12316,22 +12316,6 @@
       "sourcePath": "https://soundcloud.com/summermelodyrecords/dtalm-sparkling-eyes-astrevea",
       "mtimeMs": 1784360890887
     },
-    "ibeantrill::lil peep - told ya": {
-      "title": "LiL PEEP - Told Ya",
-      "artist": "ibeantrill",
-      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
-      "source": "whisper_only",
-      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
-      "files": {
-        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
-        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
-      "mtimeMs": 1784372667138,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
     "harun::ryomen sukuna x jane-the long faces(slowed+reverbed)": {
       "title": "Ryomen Sukuna X Jane-the long faces(slowed+reverbed)",
       "artist": "Harun",
@@ -12361,6 +12345,22 @@
       },
       "sourcePath": "https://on.soundcloud.com/chnZlZALRmEeqAS3s1",
       "mtimeMs": 1784378162333,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    "ibeantrill::lil peep - told ya": {
+      "title": "LiL PEEP - Told Ya",
+      "artist": "ibeantrill",
+      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
+      "source": "whisper_only",
+      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+      "files": {
+        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
+      "mtimeMs": 1784385916915,
       "has_haptics": true,
       "haptics_version": 4
     }
@@ -24697,22 +24697,6 @@
       "mtimeMs": 1784360890887
     },
     {
-      "title": "LiL PEEP - Told Ya",
-      "artist": "ibeantrill",
-      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
-      "source": "whisper_only",
-      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
-      "files": {
-        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
-        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
-      "mtimeMs": 1784372667138,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
-    {
       "title": "Ryomen Sukuna X Jane-the long faces(slowed+reverbed)",
       "artist": "Harun",
       "originalTrackName": "Harun - Ryomen Sukuna X Jane-the long faces(slowed+reverbed)",
@@ -24741,6 +24725,22 @@
       },
       "sourcePath": "https://on.soundcloud.com/chnZlZALRmEeqAS3s1",
       "mtimeMs": 1784378162333,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "LiL PEEP - Told Ya",
+      "artist": "ibeantrill",
+      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
+      "source": "whisper_only",
+      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+      "files": {
+        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
+      "mtimeMs": 1784385916915,
       "has_haptics": true,
       "haptics_version": 4
     }

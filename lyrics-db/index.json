@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T21:58:28.516313+00:00",
-  "totalTracks": 875,
+  "generatedAt": "2026-07-18T07:47:14.940289+00:00",
+  "totalTracks": 876,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12303,6 +12303,22 @@
       "mtimeMs": 1784325509564,
       "has_haptics": true,
       "haptics_version": 3
+    },
+    "dtalm::dtalm - sparkling eyes (original mix) [smld157]": {
+      "title": "DTALM - Sparkling Eyes (Original Mix) [SMLD157]",
+      "artist": "DTALM",
+      "originalTrackName": "DTALM - DTALM - Sparkling Eyes (Original Mix) [SMLD157]",
+      "source": "whisper_only",
+      "file": "tracks/dtalm-dtalm-sparkling-eyes-original-mix-smld157-40d34a7fa83b.json",
+      "files": {
+        "lyrics": "tracks/dtalm-dtalm-sparkling-eyes-original-mix-smld157-40d34a7fa83b.json",
+        "meta": "tracks/dtalm-dtalm-sparkling-eyes-original-mix-smld157-40d34a7fa83b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/summermelodyrecords/dtalm-sparkling-eyes-original",
+      "mtimeMs": 1784360836170,
+      "has_haptics": false,
+      "haptics_version": null
     }
   },
   "tracks": [
@@ -24623,6 +24639,22 @@
       "mtimeMs": 1784325509564,
       "has_haptics": true,
       "haptics_version": 3
+    },
+    {
+      "title": "DTALM - Sparkling Eyes (Original Mix) [SMLD157]",
+      "artist": "DTALM",
+      "originalTrackName": "DTALM - DTALM - Sparkling Eyes (Original Mix) [SMLD157]",
+      "source": "whisper_only",
+      "file": "tracks/dtalm-dtalm-sparkling-eyes-original-mix-smld157-40d34a7fa83b.json",
+      "files": {
+        "lyrics": "tracks/dtalm-dtalm-sparkling-eyes-original-mix-smld157-40d34a7fa83b.json",
+        "meta": "tracks/dtalm-dtalm-sparkling-eyes-original-mix-smld157-40d34a7fa83b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/summermelodyrecords/dtalm-sparkling-eyes-original",
+      "mtimeMs": 1784360836170,
+      "has_haptics": false,
+      "haptics_version": null
     }
   ]
 }

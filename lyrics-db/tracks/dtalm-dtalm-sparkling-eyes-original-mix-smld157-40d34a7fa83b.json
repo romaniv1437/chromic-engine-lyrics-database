@@ -1,174 +1,172 @@
-{
-  "lines": [
-    {
-      "text": "●",
-      "startTime": 0.3,
-      "endTime": 12.38,
-      "words": [],
-      "type": "vocal_cue",
-      "time": 0.3,
-      "end": 12.38
-    },
-    {
-      "text": "Thanks for watching!",
-      "startTime": 12.38,
-      "endTime": 27.72,
-      "words": [
-        {
-          "word": "Thanks",
-          "start": 12.426,
-          "end": 13.78,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "for",
-          "start": 13.873,
-          "end": 14.94,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "watching!",
-          "start": 15.288,
-          "end": 27.72,
-          "stretch": true,
-          "spoken": true
-        }
-      ],
-      "time": 12.38,
-      "end": 27.72
-    },
-    {
-      "text": "●",
-      "startTime": 28.02,
-      "endTime": 37.8,
-      "words": [],
-      "type": "vocal_cue",
-      "time": 28.02,
-      "end": 37.8
-    },
-    {
-      "text": "Thank you.",
-      "startTime": 37.8,
-      "endTime": 40.6,
-      "words": [
-        {
-          "word": "Thank",
-          "start": 38.148,
-          "end": 39.2,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "you.",
-          "start": 39.2,
-          "end": 40.6,
-          "stretch": true,
-          "spoken": true
-        }
-      ],
-      "time": 37.8,
-      "end": 40.6
-    },
-    {
-      "text": "●",
-      "startTime": 40.9,
-      "endTime": 67.42,
-      "words": [],
-      "type": "vocal_cue",
-      "time": 40.9,
-      "end": 67.42
-    },
-    {
-      "text": "We'll be right back.",
-      "startTime": 67.42,
-      "endTime": 69.9,
-      "words": [
-        {
-          "word": "We'll",
-          "start": 67.77,
-          "end": 68.82,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "be",
-          "start": 68.82,
-          "end": 68.82
-        },
-        {
-          "word": "right",
-          "start": 68.82,
-          "end": 68.82
-        },
-        {
-          "word": "back.",
-          "start": 68.82,
-          "end": 69.9,
-          "stretch": true
-        }
-      ],
-      "time": 67.42,
-      "end": 69.9
-    },
-    {
-      "text": "●",
-      "startTime": 70.2,
-      "endTime": 90.0,
-      "words": [],
-      "type": "vocal_cue",
-      "time": 70.2,
-      "end": 90.0
-    },
-    {
-      "text": "Thank you.",
-      "startTime": 90.0,
-      "endTime": 92.66,
-      "words": [
-        {
-          "word": "Thank",
-          "start": 90.35,
-          "end": 90.82,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "you.",
-          "start": 91.17,
-          "end": 92.66,
-          "stretch": true
-        }
-      ],
-      "time": 90.0,
-      "end": 92.66
-    },
-    {
-      "text": "●",
-      "startTime": 92.96,
-      "endTime": 120.0,
-      "words": [],
-      "type": "vocal_cue",
-      "time": 92.96,
-      "end": 120.0
-    },
-    {
-      "text": "●",
-      "startTime": 122.04,
-      "endTime": 158.48,
-      "words": [],
-      "type": "vocal_cue",
-      "time": 122.04,
-      "end": 158.48
-    },
-    {
-      "text": "●",
-      "startTime": 161.58,
-      "endTime": 180.64,
-      "words": [],
-      "type": "vocal_cue",
-      "time": 161.58,
-      "end": 180.64
-    }
-  ]
-}
+[
+  {
+    "text": "●",
+    "startTime": 0.3,
+    "endTime": 12.38,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 0.3,
+    "end": 12.38
+  },
+  {
+    "text": "Thanks for watching!",
+    "startTime": 12.38,
+    "endTime": 27.72,
+    "words": [
+      {
+        "word": "Thanks",
+        "start": 12.426,
+        "end": 13.78,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "for",
+        "start": 13.873,
+        "end": 14.94,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "watching!",
+        "start": 15.288,
+        "end": 27.72,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 12.38,
+    "end": 27.72
+  },
+  {
+    "text": "●",
+    "startTime": 28.02,
+    "endTime": 37.8,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 28.02,
+    "end": 37.8
+  },
+  {
+    "text": "Thank you.",
+    "startTime": 37.8,
+    "endTime": 40.6,
+    "words": [
+      {
+        "word": "Thank",
+        "start": 38.148,
+        "end": 39.2,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "you.",
+        "start": 39.2,
+        "end": 40.6,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 37.8,
+    "end": 40.6
+  },
+  {
+    "text": "●",
+    "startTime": 40.9,
+    "endTime": 67.42,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 40.9,
+    "end": 67.42
+  },
+  {
+    "text": "We'll be right back.",
+    "startTime": 67.42,
+    "endTime": 69.9,
+    "words": [
+      {
+        "word": "We'll",
+        "start": 67.77,
+        "end": 68.82,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "be",
+        "start": 68.82,
+        "end": 68.82
+      },
+      {
+        "word": "right",
+        "start": 68.82,
+        "end": 68.82
+      },
+      {
+        "word": "back.",
+        "start": 68.82,
+        "end": 69.9,
+        "stretch": true
+      }
+    ],
+    "time": 67.42,
+    "end": 69.9
+  },
+  {
+    "text": "●",
+    "startTime": 70.2,
+    "endTime": 90,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 70.2,
+    "end": 90
+  },
+  {
+    "text": "Thank you.",
+    "startTime": 90,
+    "endTime": 92.66,
+    "words": [
+      {
+        "word": "Thank",
+        "start": 90.35,
+        "end": 90.82,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "you.",
+        "start": 91.17,
+        "end": 92.66,
+        "stretch": true
+      }
+    ],
+    "time": 90,
+    "end": 92.66
+  },
+  {
+    "text": "●",
+    "startTime": 92.96,
+    "endTime": 120,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 92.96,
+    "end": 120
+  },
+  {
+    "text": "●",
+    "startTime": 122.04,
+    "endTime": 158.48,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 122.04,
+    "end": 158.48
+  },
+  {
+    "text": "●",
+    "startTime": 161.58,
+    "endTime": 180.64,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 161.58,
+    "end": 180.64
+  }
+]

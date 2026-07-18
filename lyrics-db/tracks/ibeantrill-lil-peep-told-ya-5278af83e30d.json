@@ -1,2684 +1,2682 @@
-{
-  "lines": [
-    {
-      "text": "she ute she ute",
-      "startTime": 0.279,
-      "endTime": 4.38,
-      "words": [
-        {
-          "word": "she",
-          "start": 0.279,
-          "end": 0.54,
-          "stretch": true,
-          "whisper": true
-        },
-        {
-          "word": "ute",
-          "start": 0.54,
-          "end": 1.76,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "she",
-          "start": 2.11,
-          "end": 2.94,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "ute",
-          "start": 2.94,
-          "end": 4.38,
-          "stretch": true,
-          "spoken": true
-        }
-      ],
-      "time": 0.279,
-      "end": 4.38
-    },
-    {
-      "text": "she ute she ute she ute she ute she ute",
-      "startTime": 6.06,
-      "endTime": 10.14,
-      "words": [
-        {
-          "word": "she",
-          "start": 6.41,
-          "end": 6.66,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "ute",
-          "start": 6.66,
-          "end": 7.0,
-          "spoken": true
-        },
-        {
-          "word": "she",
-          "start": 7.0,
-          "end": 7.4
-        },
-        {
-          "word": "ute",
-          "start": 7.4,
-          "end": 8.02,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "she",
-          "start": 8.02,
-          "end": 8.14,
-          "spoken": true
-        },
-        {
-          "word": "ute",
-          "start": 8.14,
-          "end": 9.46,
-          "stretch": true
-        },
-        {
-          "word": "she",
-          "start": 9.46,
-          "end": 9.46
-        },
-        {
-          "word": "ute",
-          "start": 9.46,
-          "end": 9.74,
-          "spoken": true
-        },
-        {
-          "word": "she",
-          "start": 9.74,
-          "end": 9.74
-        },
-        {
-          "word": "ute",
-          "start": 9.74,
-          "end": 10.14,
-          "spoken": true
-        }
-      ],
-      "time": 6.06,
-      "end": 10.14
-    },
-    {
-      "text": "oh yeah, i told ya i do it for my soldier",
-      "startTime": 10.14,
-      "endTime": 16.92,
-      "words": [
-        {
-          "word": "oh",
-          "start": 10.14,
-          "end": 10.14
-        },
-        {
-          "word": "yeah,",
-          "start": 10.49,
-          "end": 14.46,
-          "stretch": true,
-          "sung": true
-        },
-        {
-          "word": "i",
-          "start": 14.74,
-          "end": 14.8,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 14.8,
-          "end": 15.1,
-          "spoken": true
-        },
-        {
-          "word": "ya",
-          "start": 15.256,
-          "end": 15.36,
-          "spoken": true
-        },
-        {
-          "word": "i",
-          "start": 15.36,
-          "end": 15.68,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "do",
-          "start": 15.68,
-          "end": 15.94
-        },
-        {
-          "word": "it",
-          "start": 15.94,
-          "end": 16.04
-        },
-        {
-          "word": "for",
-          "start": 16.11,
-          "end": 16.3,
-          "spoken": true
-        },
-        {
-          "word": "my",
-          "start": 16.3,
-          "end": 16.6,
-          "stretch": true,
-          "sung": true
-        },
-        {
-          "word": "soldier",
-          "start": 16.6,
-          "end": 16.92,
-          "spoken": true
-        }
-      ],
-      "time": 10.14,
-      "end": 16.92
-    },
-    {
-      "text": "i can show ya to know ya",
-      "startTime": 16.92,
-      "endTime": 18.86,
-      "words": [
-        {
-          "word": "i",
-          "start": 16.966,
-          "end": 17.18,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "can",
-          "start": 17.3,
-          "end": 17.38,
-          "spoken": true
-        },
-        {
-          "word": "show",
-          "start": 17.38,
-          "end": 17.64,
-          "spoken": true
-        },
-        {
-          "word": "ya",
-          "start": 17.64,
-          "end": 18.0,
-          "stretch": true
-        },
-        {
-          "word": "to",
-          "start": 18.046,
-          "end": 18.22,
-          "spoken": true
-        },
-        {
-          "word": "know",
-          "start": 18.22,
-          "end": 18.5,
-          "spoken": true
-        },
-        {
-          "word": "ya",
-          "start": 18.663,
-          "end": 18.86,
-          "stretch": true,
-          "spoken": true
-        }
-      ],
-      "time": 16.92,
-      "end": 18.86
-    },
-    {
-      "text": "but then you lose your focus",
-      "startTime": 18.86,
-      "endTime": 20.3,
-      "words": [
-        {
-          "word": "but",
-          "start": 18.86,
-          "end": 19.16
-        },
-        {
-          "word": "then",
-          "start": 19.16,
-          "end": 19.34
-        },
-        {
-          "word": "you",
-          "start": 19.484,
-          "end": 19.58,
-          "spoken": true
-        },
-        {
-          "word": "lose",
-          "start": 19.58,
-          "end": 19.8,
-          "spoken": true
-        },
-        {
-          "word": "your",
-          "start": 19.8,
-          "end": 20.06,
-          "spoken": true
-        },
-        {
-          "word": "focus",
-          "start": 20.06,
-          "end": 20.3,
-          "spoken": true
-        }
-      ],
-      "time": 18.86,
-      "end": 20.3
-    },
-    {
-      "text": "what i told ya it's over",
-      "startTime": 20.3,
-      "endTime": 22.1,
-      "words": [
-        {
-          "word": "what",
-          "start": 20.3,
-          "end": 20.64,
-          "spoken": true
-        },
-        {
-          "word": "i",
-          "start": 20.64,
-          "end": 20.9,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 20.9,
-          "end": 21.08,
-          "spoken": true
-        },
-        {
-          "word": "ya",
-          "start": 21.08,
-          "end": 21.42,
-          "stretch": true
-        },
-        {
-          "word": "it's",
-          "start": 21.466,
-          "end": 21.86,
-          "sung": true
-        },
-        {
-          "word": "over",
-          "start": 21.86,
-          "end": 22.1,
-          "spoken": true
-        }
-      ],
-      "time": 20.3,
-      "end": 22.1
-    },
-    {
-      "text": "she called my motorola like i owe ya i told ya she",
-      "startTime": 22.1,
-      "endTime": 25.98,
-      "words": [
-        {
-          "word": "she",
-          "start": 22.1,
-          "end": 22.58,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "called",
-          "start": 22.58,
-          "end": 22.76
-        },
-        {
-          "word": "my",
-          "start": 22.969,
-          "end": 23.14,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "motorola",
-          "start": 23.14,
-          "end": 23.74,
-          "spoken": true
-        },
-        {
-          "word": "like",
-          "start": 23.833,
-          "end": 24.08,
-          "spoken": true
-        },
-        {
-          "word": "i",
-          "start": 24.243,
-          "end": 24.36,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "owe",
-          "start": 24.36,
-          "end": 24.46
-        },
-        {
-          "word": "ya",
-          "start": 24.46,
-          "end": 24.78,
-          "stretch": true
-        },
-        {
-          "word": "i",
-          "start": 24.896,
-          "end": 25.06,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 25.06,
-          "end": 25.38,
-          "spoken": true
-        },
-        {
-          "word": "ya",
-          "start": 25.543,
-          "end": 25.68,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "she",
-          "start": 25.68,
-          "end": 25.98,
-          "spoken": true
-        }
-      ],
-      "time": 22.1,
-      "end": 25.98
-    },
-    {
-      "text": "bitchin' wanna fuckin' a carola",
-      "startTime": 25.98,
-      "endTime": 28.26,
-      "words": [
-        {
-          "word": "bitchin'",
-          "start": 25.98,
-          "end": 26.48,
-          "spoken": true
-        },
-        {
-          "word": "wanna",
-          "start": 26.52,
-          "end": 26.76,
-          "spoken": true
-        },
-        {
-          "word": "fuckin'",
-          "start": 26.899,
-          "end": 27.16,
-          "spoken": true
-        },
-        {
-          "word": "a",
-          "start": 27.464,
-          "end": 27.52,
-          "spoken": true
-        },
-        {
-          "word": "carola",
-          "start": 27.729,
-          "end": 28.26
-        }
-      ],
-      "time": 25.98,
-      "end": 28.26
-    },
-    {
-      "text": "I'm sippin' and I'm smokin', I'm a stoner I told ya, I",
-      "startTime": 28.26,
-      "endTime": 32.8,
-      "words": [
-        {
-          "word": "I'm",
-          "start": 28.26,
-          "end": 29.28,
-          "stretch": true
-        },
-        {
-          "word": "sippin'",
-          "start": 29.28,
-          "end": 29.9
-        },
-        {
-          "word": "and",
-          "start": 29.96,
-          "end": 30.1
-        },
-        {
-          "word": "I'm",
-          "start": 30.1,
-          "end": 30.38
-        },
-        {
-          "word": "smokin',",
-          "start": 30.62,
-          "end": 30.78,
-          "spoken": true
-        },
-        {
-          "word": "I'm",
-          "start": 30.78,
-          "end": 31.04,
-          "spoken": true
-        },
-        {
-          "word": "a",
-          "start": 31.04,
-          "end": 31.24,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "stoner",
-          "start": 31.24,
-          "end": 31.58
-        },
-        {
-          "word": "I",
-          "start": 31.766,
-          "end": 31.94,
-          "stretch": true
-        },
-        {
-          "word": "told",
-          "start": 31.94,
-          "end": 32.2
-        },
-        {
-          "word": "ya,",
-          "start": 32.2,
-          "end": 32.44
-        },
-        {
-          "word": "I",
-          "start": 32.52,
-          "end": 32.8,
-          "stretch": true
-        }
-      ],
-      "time": 28.26,
-      "end": 32.8
-    },
-    {
-      "text": "need a couple pounds of marijuana",
-      "startTime": 32.8,
-      "endTime": 34.88,
-      "words": [
-        {
-          "word": "need",
-          "start": 32.8,
-          "end": 33.18
-        },
-        {
-          "word": "a",
-          "start": 33.18,
-          "end": 33.32
-        },
-        {
-          "word": "couple",
-          "start": 33.32,
-          "end": 33.6
-        },
-        {
-          "word": "pounds",
-          "start": 33.6,
-          "end": 33.94
-        },
-        {
-          "word": "of",
-          "start": 33.94,
-          "end": 34.34,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "marijuana",
-          "start": 34.526,
-          "end": 34.88,
-          "spoken": true
-        }
-      ],
-      "time": 32.8,
-      "end": 34.88
-    },
-    {
-      "text": "For the roller, you know it's boy,",
-      "startTime": 34.88,
-      "endTime": 36.9,
-      "words": [
-        {
-          "word": "For",
-          "start": 35.132,
-          "end": 35.3,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 35.3,
-          "end": 35.5,
-          "spoken": true
-        },
-        {
-          "word": "roller,",
-          "start": 35.5,
-          "end": 35.74
-        },
-        {
-          "word": "you",
-          "start": 36.08,
-          "end": 36.28
-        },
-        {
-          "word": "know",
-          "start": 36.28,
-          "end": 36.54
-        },
-        {
-          "word": "it's",
-          "start": 36.679,
-          "end": 36.84,
-          "spoken": true
-        },
-        {
-          "word": "boy,",
-          "start": 36.84,
-          "end": 36.9,
-          "spoken": true
-        }
-      ],
-      "time": 34.88,
-      "end": 36.9
-    },
-    {
-      "text": "we smokin' on the cobras",
-      "startTime": 37.02,
-      "endTime": 38.54,
-      "words": [
-        {
-          "word": "we",
-          "start": 37.02,
-          "end": 37.24
-        },
-        {
-          "word": "smokin'",
-          "start": 37.468,
-          "end": 37.62,
-          "spoken": true
-        },
-        {
-          "word": "on",
-          "start": 37.62,
-          "end": 37.84,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 37.979,
-          "end": 38.08,
-          "spoken": true
-        },
-        {
-          "word": "cobras",
-          "start": 38.08,
-          "end": 38.54
-        }
-      ],
-      "time": 37.02,
-      "end": 38.54
-    },
-    {
-      "text": "I told ya, you know it's boy,",
-      "startTime": 38.54,
-      "endTime": 40.34,
-      "words": [
-        {
-          "word": "I",
-          "start": 38.61,
-          "end": 38.78,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 38.78,
-          "end": 39.04,
-          "spoken": true
-        },
-        {
-          "word": "ya,",
-          "start": 39.208,
-          "end": 39.32,
-          "spoken": true
-        },
-        {
-          "word": "you",
-          "start": 39.42,
-          "end": 39.66,
-          "sung": true
-        },
-        {
-          "word": "know",
-          "start": 39.66,
-          "end": 39.96,
-          "spoken": true
-        },
-        {
-          "word": "it's",
-          "start": 39.96,
-          "end": 40.22
-        },
-        {
-          "word": "boy,",
-          "start": 40.22,
-          "end": 40.34,
-          "spoken": true
-        }
-      ],
-      "time": 38.54,
-      "end": 40.34
-    },
-    {
-      "text": "we smokin' on the boners",
-      "startTime": 40.42,
-      "endTime": 41.94,
-      "words": [
-        {
-          "word": "we",
-          "start": 40.42,
-          "end": 40.56
-        },
-        {
-          "word": "smokin'",
-          "start": 40.56,
-          "end": 41.04
-        },
-        {
-          "word": "on",
-          "start": 41.04,
-          "end": 41.24
-        },
-        {
-          "word": "the",
-          "start": 41.396,
-          "end": 41.5,
-          "spoken": true
-        },
-        {
-          "word": "boners",
-          "start": 41.5,
-          "end": 41.94,
-          "spoken": true
-        }
-      ],
-      "time": 40.42,
-      "end": 41.94
-    },
-    {
-      "text": "No homer, I'm ballin' like a broker,",
-      "startTime": 41.94,
-      "endTime": 44.28,
-      "words": [
-        {
-          "word": "No",
-          "start": 42.033,
-          "end": 42.3,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "homer,",
-          "start": 42.6,
-          "end": 42.8,
-          "spoken": true
-        },
-        {
-          "word": "I'm",
-          "start": 42.88,
-          "end": 43.28,
-          "stretch": true
-        },
-        {
-          "word": "ballin'",
-          "start": 43.28,
-          "end": 43.48
-        },
-        {
-          "word": "like",
-          "start": 43.526,
-          "end": 43.8,
-          "spoken": true
-        },
-        {
-          "word": "a",
-          "start": 43.8,
-          "end": 44.08,
-          "stretch": true,
-          "sung": true
-        },
-        {
-          "word": "broker,",
-          "start": 44.08,
-          "end": 44.28,
-          "spoken": true
-        }
-      ],
-      "time": 41.94,
-      "end": 44.28
-    },
-    {
-      "text": "but I'm broker",
-      "startTime": 44.36,
-      "endTime": 45.18,
-      "words": [
-        {
-          "word": "but",
-          "start": 44.36,
-          "end": 44.64,
-          "spoken": true
-        },
-        {
-          "word": "I'm",
-          "start": 44.826,
-          "end": 44.98,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "broker",
-          "start": 44.98,
-          "end": 45.18,
-          "spoken": true
-        }
-      ],
-      "time": 44.36,
-      "end": 45.18
-    },
-    {
-      "text": "I told ya, I'm feelin' like the joker, get your throat cut",
-      "startTime": 45.18,
-      "endTime": 48.82,
-      "words": [
-        {
-          "word": "I",
-          "start": 45.432,
-          "end": 45.6,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 45.6,
-          "end": 45.9,
-          "spoken": true
-        },
-        {
-          "word": "ya,",
-          "start": 46.092,
-          "end": 46.22,
-          "spoken": true
-        },
-        {
-          "word": "I'm",
-          "start": 46.28,
-          "end": 46.68,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "feelin'",
-          "start": 46.68,
-          "end": 46.92
-        },
-        {
-          "word": "like",
-          "start": 46.99,
-          "end": 47.18,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 47.18,
-          "end": 47.48
-        },
-        {
-          "word": "joker,",
-          "start": 47.48,
-          "end": 47.72
-        },
-        {
-          "word": "get",
-          "start": 47.8,
-          "end": 48.02,
-          "spoken": true
-        },
-        {
-          "word": "your",
-          "start": 48.02,
-          "end": 48.3,
-          "spoken": true
-        },
-        {
-          "word": "throat",
-          "start": 48.3,
-          "end": 48.5,
-          "spoken": true
-        },
-        {
-          "word": "cut",
-          "start": 48.5,
-          "end": 48.82
-        }
-      ],
-      "time": 45.18,
-      "end": 48.82
-    },
-    {
-      "text": "I told ya, I'm shootin' bitches with my super soaker",
-      "startTime": 48.82,
-      "endTime": 52.26,
-      "words": [
-        {
-          "word": "I",
-          "start": 48.89,
-          "end": 49.04,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 49.04,
-          "end": 49.34,
-          "spoken": true
-        },
-        {
-          "word": "ya,",
-          "start": 49.508,
-          "end": 49.62,
-          "spoken": true
-        },
-        {
-          "word": "I'm",
-          "start": 49.72,
-          "end": 50.1,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "shootin'",
-          "start": 50.292,
-          "end": 50.42
-        },
-        {
-          "word": "bitches",
-          "start": 50.56,
-          "end": 50.76,
-          "spoken": true
-        },
-        {
-          "word": "with",
-          "start": 50.76,
-          "end": 51.02,
-          "spoken": true
-        },
-        {
-          "word": "my",
-          "start": 51.176,
-          "end": 51.28,
-          "spoken": true
-        },
-        {
-          "word": "super",
-          "start": 51.28,
-          "end": 51.68,
-          "spoken": true
-        },
-        {
-          "word": "soaker",
-          "start": 51.68,
-          "end": 52.26,
-          "spoken": true
-        }
-      ],
-      "time": 48.82,
-      "end": 52.26
-    },
-    {
-      "text": "I told ya, I'm swervin' up the curb and that rope",
-      "startTime": 52.26,
-      "endTime": 55.48,
-      "words": [
-        {
-          "word": "I",
-          "start": 52.33,
-          "end": 52.46,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 52.46,
-          "end": 52.74,
-          "spoken": true
-        },
-        {
-          "word": "ya,",
-          "start": 52.92,
-          "end": 53.04,
-          "spoken": true
-        },
-        {
-          "word": "I'm",
-          "start": 53.14,
-          "end": 53.5,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "swervin'",
-          "start": 53.5,
-          "end": 53.72
-        },
-        {
-          "word": "up",
-          "start": 53.836,
-          "end": 54.04,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 54.04,
-          "end": 54.3,
-          "spoken": true
-        },
-        {
-          "word": "curb",
-          "start": 54.528,
-          "end": 54.68
-        },
-        {
-          "word": "and",
-          "start": 54.68,
-          "end": 54.96,
-          "spoken": true
-        },
-        {
-          "word": "that",
-          "start": 54.96,
-          "end": 55.22,
-          "spoken": true
-        },
-        {
-          "word": "rope",
-          "start": 55.22,
-          "end": 55.48,
-          "spoken": true
-        }
-      ],
-      "time": 52.26,
-      "end": 55.48
-    },
-    {
-      "text": "I told ya, your flow is so absurd,",
-      "startTime": 55.48,
-      "endTime": 58.02,
-      "words": [
-        {
-          "word": "I",
-          "start": 55.732,
-          "end": 55.9,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 55.9,
-          "end": 56.18,
-          "spoken": true
-        },
-        {
-          "word": "ya,",
-          "start": 56.18,
-          "end": 56.54
-        },
-        {
-          "word": "your",
-          "start": 56.56,
-          "end": 56.74
-        },
-        {
-          "word": "flow",
-          "start": 56.74,
-          "end": 57.12
-        },
-        {
-          "word": "is",
-          "start": 57.12,
-          "end": 57.38
-        },
-        {
-          "word": "so",
-          "start": 57.38,
-          "end": 57.64
-        },
-        {
-          "word": "absurd,",
-          "start": 57.64,
-          "end": 58.02,
-          "spoken": true
-        }
-      ],
-      "time": 55.48,
-      "end": 58.02
-    },
-    {
-      "text": "bitch, I know it",
-      "startTime": 58.22,
-      "endTime": 59.18,
-      "words": [
-        {
-          "word": "bitch,",
-          "start": 58.22,
-          "end": 58.4,
-          "spoken": true
-        },
-        {
-          "word": "I",
-          "start": 58.4,
-          "end": 58.58,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "know",
-          "start": 58.58,
-          "end": 58.8
-        },
-        {
-          "word": "it",
-          "start": 58.8,
-          "end": 59.18,
-          "stretch": true
-        }
-      ],
-      "time": 58.22,
-      "end": 59.18
-    },
-    {
-      "text": "I told ya, one verse go for a purpose,",
-      "startTime": 59.18,
-      "endTime": 61.62,
-      "words": [
-        {
-          "word": "I",
-          "start": 59.18,
-          "end": 59.34,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 59.34,
-          "end": 59.6,
-          "spoken": true
-        },
-        {
-          "word": "ya,",
-          "start": 59.6,
-          "end": 59.98
-        },
-        {
-          "word": "one",
-          "start": 60.14,
-          "end": 60.24
-        },
-        {
-          "word": "verse",
-          "start": 60.24,
-          "end": 60.52
-        },
-        {
-          "word": "go",
-          "start": 60.52,
-          "end": 60.76
-        },
-        {
-          "word": "for",
-          "start": 60.76,
-          "end": 61.1
-        },
-        {
-          "word": "a",
-          "start": 61.1,
-          "end": 61.26,
-          "stretch": true
-        },
-        {
-          "word": "purpose,",
-          "start": 61.26,
-          "end": 61.62,
-          "spoken": true
-        }
-      ],
-      "time": 59.18,
-      "end": 61.62
-    },
-    {
-      "text": "I'll blow it",
-      "startTime": 61.64,
-      "endTime": 62.6,
-      "words": [
-        {
-          "word": "I'll",
-          "start": 61.942,
-          "end": 62.16,
-          "stretch": true
-        },
-        {
-          "word": "blow",
-          "start": 62.16,
-          "end": 62.24
-        },
-        {
-          "word": "it",
-          "start": 62.24,
-          "end": 62.6,
-          "stretch": true
-        }
-      ],
-      "time": 61.64,
-      "end": 62.6
-    },
-    {
-      "text": "I told ya, I'm geeked out like a nerd,",
-      "startTime": 62.6,
-      "endTime": 64.82,
-      "words": [
-        {
-          "word": "I",
-          "start": 62.6,
-          "end": 62.78,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 62.78,
-          "end": 63.04,
-          "spoken": true
-        },
-        {
-          "word": "ya,",
-          "start": 63.249,
-          "end": 63.42,
-          "spoken": true
-        },
-        {
-          "word": "I'm",
-          "start": 63.44,
-          "end": 63.8,
-          "stretch": true
-        },
-        {
-          "word": "geeked",
-          "start": 64.004,
-          "end": 64.14,
-          "spoken": true
-        },
-        {
-          "word": "out",
-          "start": 64.14,
-          "end": 64.22,
-          "spoken": true
-        },
-        {
-          "word": "like",
-          "start": 64.22,
-          "end": 64.54,
-          "spoken": true
-        },
-        {
-          "word": "a",
-          "start": 64.54,
-          "end": 64.7,
-          "stretch": true
-        },
-        {
-          "word": "nerd,",
-          "start": 64.7,
-          "end": 64.82
-        }
-      ],
-      "time": 62.6,
-      "end": 64.82
-    },
-    {
-      "text": "ridin' these balls",
-      "startTime": 64.84,
-      "endTime": 65.9,
-      "words": [
-        {
-          "word": "ridin'",
-          "start": 64.956,
-          "end": 65.24,
-          "spoken": true
-        },
-        {
-          "word": "these",
-          "start": 65.36,
-          "end": 65.44,
-          "spoken": true
-        },
-        {
-          "word": "balls",
-          "start": 65.44,
-          "end": 65.9,
-          "spoken": true
-        }
-      ],
-      "time": 64.84,
-      "end": 65.9
-    },
-    {
-      "text": "I told ya, I'm geeked out like a nerd,",
-      "startTime": 65.9,
-      "endTime": 68.28,
-      "words": [
-        {
-          "word": "I",
-          "start": 66.016,
-          "end": 66.18,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 66.18,
-          "end": 66.48,
-          "spoken": true
-        },
-        {
-          "word": "ya,",
-          "start": 66.672,
-          "end": 66.8,
-          "spoken": true
-        },
-        {
-          "word": "I'm",
-          "start": 66.9,
-          "end": 67.18,
-          "spoken": true
-        },
-        {
-          "word": "geeked",
-          "start": 67.444,
-          "end": 67.62
-        },
-        {
-          "word": "out",
-          "start": 67.62,
-          "end": 67.7
-        },
-        {
-          "word": "like",
-          "start": 67.7,
-          "end": 67.9
-        },
-        {
-          "word": "a",
-          "start": 67.9,
-          "end": 68.1,
-          "stretch": true
-        },
-        {
-          "word": "nerd,",
-          "start": 68.1,
-          "end": 68.28
-        }
-      ],
-      "time": 65.9,
-      "end": 68.28
-    },
-    {
-      "text": "ridin' these balls",
-      "startTime": 68.42,
-      "endTime": 69.66,
-      "words": [
-        {
-          "word": "ridin'",
-          "start": 68.42,
-          "end": 68.66
-        },
-        {
-          "word": "these",
-          "start": 68.768,
-          "end": 68.84,
-          "spoken": true
-        },
-        {
-          "word": "balls",
-          "start": 68.84,
-          "end": 69.66,
-          "stretch": true
-        }
-      ],
-      "time": 68.42,
-      "end": 69.66
-    },
-    {
-      "text": "●",
-      "startTime": 69.96,
-      "endTime": 81.96,
-      "words": [],
-      "type": "vocal_cue",
-      "time": 69.96,
-      "end": 81.96
-    },
-    {
-      "text": "Oh yeah,",
-      "startTime": 81.96,
-      "endTime": 83.0,
-      "words": [
-        {
-          "word": "Oh",
-          "start": 81.96,
-          "end": 82.48,
-          "stretch": true,
-          "whisper": true
-        },
-        {
-          "word": "yeah,",
-          "start": 82.619,
-          "end": 83.0
-        }
-      ],
-      "time": 81.96,
-      "end": 83.0
-    },
-    {
-      "text": "I told ya, I do it for my soldier",
-      "startTime": 83.22,
-      "endTime": 85.46,
-      "words": [
-        {
-          "word": "I",
-          "start": 83.22,
-          "end": 83.32
-        },
-        {
-          "word": "told",
-          "start": 83.32,
-          "end": 83.62
-        },
-        {
-          "word": "ya,",
-          "start": 83.62,
-          "end": 83.9
-        },
-        {
-          "word": "I",
-          "start": 84.08,
-          "end": 84.24,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "do",
-          "start": 84.24,
-          "end": 84.5,
-          "spoken": true
-        },
-        {
-          "word": "it",
-          "start": 84.5,
-          "end": 84.64,
-          "spoken": true
-        },
-        {
-          "word": "for",
-          "start": 84.64,
-          "end": 84.86,
-          "spoken": true
-        },
-        {
-          "word": "my",
-          "start": 85.016,
-          "end": 85.12,
-          "spoken": true
-        },
-        {
-          "word": "soldier",
-          "start": 85.12,
-          "end": 85.46,
-          "spoken": true
-        }
-      ],
-      "time": 83.22,
-      "end": 85.46
-    },
-    {
-      "text": "I can show ya, some dough ya,",
-      "startTime": 85.46,
-      "endTime": 87.26,
-      "words": [
-        {
-          "word": "I",
-          "start": 85.46,
-          "end": 85.66,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "can",
-          "start": 85.66,
-          "end": 85.9,
-          "spoken": true
-        },
-        {
-          "word": "show",
-          "start": 85.9,
-          "end": 86.22,
-          "spoken": true
-        },
-        {
-          "word": "ya,",
-          "start": 86.22,
-          "end": 86.58
-        },
-        {
-          "word": "some",
-          "start": 86.64,
-          "end": 86.88,
-          "spoken": true
-        },
-        {
-          "word": "dough",
-          "start": 86.88,
-          "end": 87.08,
-          "spoken": true
-        },
-        {
-          "word": "ya,",
-          "start": 87.08,
-          "end": 87.26,
-          "spoken": true
-        }
-      ],
-      "time": 85.46,
-      "end": 87.26
-    },
-    {
-      "text": "but then you lose your focus",
-      "startTime": 87.56,
-      "endTime": 88.86,
-      "words": [
-        {
-          "word": "but",
-          "start": 87.632,
-          "end": 87.68,
-          "spoken": true
-        },
-        {
-          "word": "then",
-          "start": 87.68,
-          "end": 87.92,
-          "spoken": true
-        },
-        {
-          "word": "you",
-          "start": 87.92,
-          "end": 88.1,
-          "spoken": true
-        },
-        {
-          "word": "lose",
-          "start": 88.1,
-          "end": 88.36,
-          "spoken": true
-        },
-        {
-          "word": "your",
-          "start": 88.492,
-          "end": 88.58,
-          "spoken": true
-        },
-        {
-          "word": "focus",
-          "start": 88.58,
-          "end": 88.86,
-          "spoken": true
-        }
-      ],
-      "time": 87.56,
-      "end": 88.86
-    },
-    {
-      "text": "What I told ya, it's over, she call my motorola",
-      "startTime": 88.86,
-      "endTime": 92.28,
-      "words": [
-        {
-          "word": "What",
-          "start": 88.86,
-          "end": 89.2,
-          "spoken": true
-        },
-        {
-          "word": "I",
-          "start": 89.344,
-          "end": 89.44,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 89.44,
-          "end": 89.64
-        },
-        {
-          "word": "ya,",
-          "start": 89.64,
-          "end": 89.86
-        },
-        {
-          "word": "it's",
-          "start": 90.06,
-          "end": 90.44
-        },
-        {
-          "word": "over,",
-          "start": 90.44,
-          "end": 90.64
-        },
-        {
-          "word": "she",
-          "start": 90.84,
-          "end": 91.1
-        },
-        {
-          "word": "call",
-          "start": 91.1,
-          "end": 91.32
-        },
-        {
-          "word": "my",
-          "start": 91.32,
-          "end": 91.68,
-          "stretch": true
-        },
-        {
-          "word": "motorola",
-          "start": 91.68,
-          "end": 92.28
-        }
-      ],
-      "time": 88.86,
-      "end": 92.28
-    },
-    {
-      "text": "Like I owe ya, I told ya, these bitches wanna fuckin'",
-      "startTime": 92.28,
-      "endTime": 95.74,
-      "words": [
-        {
-          "word": "Like",
-          "start": 92.28,
-          "end": 92.6
-        },
-        {
-          "word": "I",
-          "start": 92.6,
-          "end": 93.04,
-          "stretch": true
-        },
-        {
-          "word": "owe",
-          "start": 93.04,
-          "end": 93.04
-        },
-        {
-          "word": "ya,",
-          "start": 93.04,
-          "end": 93.26
-        },
-        {
-          "word": "I",
-          "start": 93.44,
-          "end": 93.7,
-          "stretch": true
-        },
-        {
-          "word": "told",
-          "start": 93.7,
-          "end": 93.9
-        },
-        {
-          "word": "ya,",
-          "start": 93.9,
-          "end": 94.2
-        },
-        {
-          "word": "these",
-          "start": 94.52,
-          "end": 94.6
-        },
-        {
-          "word": "bitches",
-          "start": 94.6,
-          "end": 94.9,
-          "spoken": true
-        },
-        {
-          "word": "wanna",
-          "start": 94.9,
-          "end": 95.34,
-          "spoken": true
-        },
-        {
-          "word": "fuckin'",
-          "start": 95.456,
-          "end": 95.74,
-          "spoken": true
-        }
-      ],
-      "time": 92.28,
-      "end": 95.74
-    },
-    {
-      "text": "They corona, corona, I'm sippin' and I'm smokin'",
-      "startTime": 95.94,
-      "endTime": 99.28,
-      "words": [
-        {
-          "word": "They",
-          "start": 95.94,
-          "end": 96.02,
-          "whisper": true
-        },
-        {
-          "word": "corona,",
-          "start": 96.229,
-          "end": 96.58,
-          "spoken": true
-        },
-        {
-          "word": "corona,",
-          "start": 96.886,
-          "end": 97.5,
-          "spoken": true
-        },
-        {
-          "word": "I'm",
-          "start": 97.72,
-          "end": 97.98,
-          "spoken": true
-        },
-        {
-          "word": "sippin'",
-          "start": 98.292,
-          "end": 98.5,
-          "spoken": true
-        },
-        {
-          "word": "and",
-          "start": 98.54,
-          "end": 98.72,
-          "spoken": true
-        },
-        {
-          "word": "I'm",
-          "start": 98.72,
-          "end": 99.04,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "smokin'",
-          "start": 99.184,
-          "end": 99.28
-        }
-      ],
-      "time": 95.94,
-      "end": 99.28
-    },
-    {
-      "text": "I'm a stoner, I told ya,",
-      "startTime": 99.28,
-      "endTime": 101.04,
-      "words": [
-        {
-          "word": "I'm",
-          "start": 99.28,
-          "end": 99.62,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "a",
-          "start": 99.713,
-          "end": 99.78,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "stoner,",
-          "start": 99.78,
-          "end": 100.08,
-          "spoken": true
-        },
-        {
-          "word": "I",
-          "start": 100.32,
-          "end": 100.52,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 100.52,
-          "end": 100.76
-        },
-        {
-          "word": "ya,",
-          "start": 100.928,
-          "end": 101.04,
-          "spoken": true
-        }
-      ],
-      "time": 99.28,
-      "end": 101.04
-    },
-    {
-      "text": "I need a couple pounds of marijuana",
-      "startTime": 101.2,
-      "endTime": 103.38,
-      "words": [
-        {
-          "word": "I",
-          "start": 101.2,
-          "end": 101.4,
-          "stretch": true
-        },
-        {
-          "word": "need",
-          "start": 101.4,
-          "end": 101.68
-        },
-        {
-          "word": "a",
-          "start": 101.776,
-          "end": 101.84,
-          "stretch": true
-        },
-        {
-          "word": "couple",
-          "start": 101.84,
-          "end": 102.18,
-          "spoken": true
-        },
-        {
-          "word": "pounds",
-          "start": 102.18,
-          "end": 102.48
-        },
-        {
-          "word": "of",
-          "start": 102.689,
-          "end": 102.88,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "marijuana",
-          "start": 102.88,
-          "end": 103.38,
-          "spoken": true
-        }
-      ],
-      "time": 101.2,
-      "end": 103.38
-    },
-    {
-      "text": "For the roller, you know it's boy,",
-      "startTime": 103.38,
-      "endTime": 105.54,
-      "words": [
-        {
-          "word": "For",
-          "start": 103.704,
-          "end": 103.92,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 103.92,
-          "end": 104.06,
-          "spoken": true
-        },
-        {
-          "word": "roller,",
-          "start": 104.06,
-          "end": 104.3
-        },
-        {
-          "word": "you",
-          "start": 104.5,
-          "end": 104.82,
-          "spoken": true
-        },
-        {
-          "word": "know",
-          "start": 104.82,
-          "end": 105.1
-        },
-        {
-          "word": "it's",
-          "start": 105.239,
-          "end": 105.42,
-          "spoken": true
-        },
-        {
-          "word": "boy,",
-          "start": 105.42,
-          "end": 105.54,
-          "spoken": true
-        }
-      ],
-      "time": 103.38,
-      "end": 105.54
-    },
-    {
-      "text": "we smokin' on the cobras",
-      "startTime": 105.68,
-      "endTime": 106.94,
-      "words": [
-        {
-          "word": "we",
-          "start": 105.68,
-          "end": 105.8
-        },
-        {
-          "word": "smokin'",
-          "start": 106.028,
-          "end": 106.18,
-          "spoken": true
-        },
-        {
-          "word": "on",
-          "start": 106.18,
-          "end": 106.42,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 106.552,
-          "end": 106.64,
-          "spoken": true
-        },
-        {
-          "word": "cobras",
-          "start": 106.64,
-          "end": 106.94,
-          "spoken": true
-        }
-      ],
-      "time": 105.68,
-      "end": 106.94
-    },
-    {
-      "text": "I told ya, you know it's boy,",
-      "startTime": 106.94,
-      "endTime": 108.96,
-      "words": [
-        {
-          "word": "I",
-          "start": 107.149,
-          "end": 107.34,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 107.34,
-          "end": 107.62,
-          "spoken": true
-        },
-        {
-          "word": "ya,",
-          "start": 107.776,
-          "end": 107.88,
-          "spoken": true
-        },
-        {
-          "word": "you",
-          "start": 107.98,
-          "end": 108.24,
-          "spoken": true
-        },
-        {
-          "word": "know",
-          "start": 108.24,
-          "end": 108.54
-        },
-        {
-          "word": "it's",
-          "start": 108.703,
-          "end": 108.82,
-          "spoken": true
-        },
-        {
-          "word": "boy,",
-          "start": 108.82,
-          "end": 108.96,
-          "spoken": true
-        }
-      ],
-      "time": 106.94,
-      "end": 108.96
-    },
-    {
-      "text": "we smokin' on the boners",
-      "startTime": 109.02,
-      "endTime": 110.5,
-      "words": [
-        {
-          "word": "we",
-          "start": 109.02,
-          "end": 109.22
-        },
-        {
-          "word": "smokin'",
-          "start": 109.448,
-          "end": 109.6,
-          "spoken": true
-        },
-        {
-          "word": "on",
-          "start": 109.6,
-          "end": 109.8,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 109.8,
-          "end": 110.08,
-          "spoken": true
-        },
-        {
-          "word": "boners",
-          "start": 110.08,
-          "end": 110.5
-        }
-      ],
-      "time": 109.02,
-      "end": 110.5
-    },
-    {
-      "text": "No homer, I'm ballin' like a broker,",
-      "startTime": 110.5,
-      "endTime": 112.84,
-      "words": [
-        {
-          "word": "No",
-          "start": 110.716,
-          "end": 110.86,
-          "stretch": true
-        },
-        {
-          "word": "homer,",
-          "start": 110.86,
-          "end": 111.34
-        },
-        {
-          "word": "I'm",
-          "start": 111.44,
-          "end": 111.84,
-          "stretch": true
-        },
-        {
-          "word": "ballin'",
-          "start": 111.84,
-          "end": 112.04
-        },
-        {
-          "word": "like",
-          "start": 112.04,
-          "end": 112.36
-        },
-        {
-          "word": "a",
-          "start": 112.36,
-          "end": 112.66,
-          "stretch": true
-        },
-        {
-          "word": "broker,",
-          "start": 112.66,
-          "end": 112.84
-        }
-      ],
-      "time": 110.5,
-      "end": 112.84
-    },
-    {
-      "text": "but I'm broker I told ya,",
-      "startTime": 112.92,
-      "endTime": 114.72,
-      "words": [
-        {
-          "word": "but",
-          "start": 112.92,
-          "end": 113.22,
-          "spoken": true
-        },
-        {
-          "word": "I'm",
-          "start": 113.22,
-          "end": 113.54,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "broker",
-          "start": 113.54,
-          "end": 113.76
-        },
-        {
-          "word": "I",
-          "start": 114.024,
-          "end": 114.2,
-          "stretch": true
-        },
-        {
-          "word": "told",
-          "start": 114.2,
-          "end": 114.48,
-          "spoken": true
-        },
-        {
-          "word": "ya,",
-          "start": 114.48,
-          "end": 114.72,
-          "spoken": true
-        }
-      ],
-      "time": 112.92,
-      "end": 114.72
-    },
-    {
-      "text": "I'm feelin' like a joker,",
-      "startTime": 114.86,
-      "endTime": 116.28,
-      "words": [
-        {
-          "word": "I'm",
-          "start": 114.86,
-          "end": 115.2,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "feelin'",
-          "start": 115.2,
-          "end": 115.52,
-          "spoken": true
-        },
-        {
-          "word": "like",
-          "start": 115.62,
-          "end": 115.78,
-          "spoken": true
-        },
-        {
-          "word": "a",
-          "start": 115.78,
-          "end": 116.02,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "joker,",
-          "start": 116.02,
-          "end": 116.28,
-          "spoken": true
-        }
-      ],
-      "time": 114.86,
-      "end": 116.28
-    },
-    {
-      "text": "get your thong cut I told ya,",
-      "startTime": 116.48,
-      "endTime": 118.22,
-      "words": [
-        {
-          "word": "get",
-          "start": 116.48,
-          "end": 116.58,
-          "spoken": true
-        },
-        {
-          "word": "your",
-          "start": 116.736,
-          "end": 116.84,
-          "spoken": true
-        },
-        {
-          "word": "thong",
-          "start": 116.84,
-          "end": 117.14,
-          "spoken": true
-        },
-        {
-          "word": "cut",
-          "start": 117.14,
-          "end": 117.38
-        },
-        {
-          "word": "I",
-          "start": 117.473,
-          "end": 117.6,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 117.6,
-          "end": 117.92,
-          "spoken": true
-        },
-        {
-          "word": "ya,",
-          "start": 118.1,
-          "end": 118.22,
-          "spoken": true
-        }
-      ],
-      "time": 116.48,
-      "end": 118.22
-    },
-    {
-      "text": "I'm shootin' bitches with my super soaker",
-      "startTime": 118.32,
-      "endTime": 120.7,
-      "words": [
-        {
-          "word": "I'm",
-          "start": 118.32,
-          "end": 118.64,
-          "stretch": true
-        },
-        {
-          "word": "shootin'",
-          "start": 118.868,
-          "end": 119.02,
-          "spoken": true
-        },
-        {
-          "word": "bitches",
-          "start": 119.08,
-          "end": 119.32,
-          "spoken": true
-        },
-        {
-          "word": "with",
-          "start": 119.32,
-          "end": 119.62,
-          "spoken": true
-        },
-        {
-          "word": "my",
-          "start": 119.764,
-          "end": 119.86,
-          "spoken": true
-        },
-        {
-          "word": "super",
-          "start": 119.86,
-          "end": 120.26,
-          "spoken": true
-        },
-        {
-          "word": "soaker",
-          "start": 120.26,
-          "end": 120.7,
-          "spoken": true
-        }
-      ],
-      "time": 118.32,
-      "end": 120.7
-    },
-    {
-      "text": "I told ya, I'm swervin' up the curb in that road",
-      "startTime": 120.7,
-      "endTime": 124.06,
-      "words": [
-        {
-          "word": "I",
-          "start": 120.886,
-          "end": 121.02,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 121.02,
-          "end": 121.34,
-          "spoken": true
-        },
-        {
-          "word": "ya,",
-          "start": 121.484,
-          "end": 121.58,
-          "spoken": true
-        },
-        {
-          "word": "I'm",
-          "start": 121.66,
-          "end": 122.06,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "swervin'",
-          "start": 122.06,
-          "end": 122.32
-        },
-        {
-          "word": "up",
-          "start": 122.32,
-          "end": 122.62,
-          "stretch": true
-        },
-        {
-          "word": "the",
-          "start": 122.62,
-          "end": 122.92
-        },
-        {
-          "word": "curb",
-          "start": 122.92,
-          "end": 123.2
-        },
-        {
-          "word": "in",
-          "start": 123.2,
-          "end": 123.46
-        },
-        {
-          "word": "that",
-          "start": 123.664,
-          "end": 123.8,
-          "spoken": true
-        },
-        {
-          "word": "road",
-          "start": 123.8,
-          "end": 124.06,
-          "spoken": true
-        }
-      ],
-      "time": 120.7,
-      "end": 124.06
-    },
-    {
-      "text": "I told ya, your flow so absurd, bitch, I know it",
-      "startTime": 124.06,
-      "endTime": 127.76,
-      "words": [
-        {
-          "word": "I",
-          "start": 124.292,
-          "end": 124.46,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 124.46,
-          "end": 124.76,
-          "spoken": true
-        },
-        {
-          "word": "ya,",
-          "start": 124.94,
-          "end": 125.06,
-          "spoken": true
-        },
-        {
-          "word": "your",
-          "start": 125.18,
-          "end": 125.38
-        },
-        {
-          "word": "flow",
-          "start": 125.38,
-          "end": 125.7
-        },
-        {
-          "word": "so",
-          "start": 125.816,
-          "end": 126.18,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "absurd,",
-          "start": 126.18,
-          "end": 126.56,
-          "spoken": true
-        },
-        {
-          "word": "bitch,",
-          "start": 126.74,
-          "end": 126.92,
-          "spoken": true
-        },
-        {
-          "word": "I",
-          "start": 127.088,
-          "end": 127.2,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "know",
-          "start": 127.2,
-          "end": 127.38,
-          "spoken": true
-        },
-        {
-          "word": "it",
-          "start": 127.608,
-          "end": 127.76,
-          "stretch": true
-        }
-      ],
-      "time": 124.06,
-      "end": 127.76
-    },
-    {
-      "text": "I told ya, one verse go for a purpose, I'll blow it",
-      "startTime": 127.76,
-      "endTime": 131.14,
-      "words": [
-        {
-          "word": "I",
-          "start": 127.76,
-          "end": 127.9,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 127.9,
-          "end": 128.18,
-          "spoken": true
-        },
-        {
-          "word": "ya,",
-          "start": 128.372,
-          "end": 128.5,
-          "spoken": true
-        },
-        {
-          "word": "one",
-          "start": 128.86,
-          "end": 128.86
-        },
-        {
-          "word": "verse",
-          "start": 128.86,
-          "end": 129.1
-        },
-        {
-          "word": "go",
-          "start": 129.263,
-          "end": 129.38,
-          "spoken": true
-        },
-        {
-          "word": "for",
-          "start": 129.38,
-          "end": 129.66,
-          "spoken": true
-        },
-        {
-          "word": "a",
-          "start": 129.66,
-          "end": 129.8
-        },
-        {
-          "word": "purpose,",
-          "start": 129.8,
-          "end": 130.0
-        },
-        {
-          "word": "I'll",
-          "start": 130.22,
-          "end": 130.68,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "blow",
-          "start": 130.68,
-          "end": 130.78,
-          "spoken": true
-        },
-        {
-          "word": "it",
-          "start": 130.78,
-          "end": 131.14,
-          "stretch": true
-        }
-      ],
-      "time": 127.76,
-      "end": 131.14
-    },
-    {
-      "text": "I told ya, I'm geeked out like a nerd,",
-      "startTime": 131.14,
-      "endTime": 133.38,
-      "words": [
-        {
-          "word": "I",
-          "start": 131.186,
-          "end": 131.38,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 131.38,
-          "end": 131.62,
-          "spoken": true
-        },
-        {
-          "word": "ya,",
-          "start": 131.764,
-          "end": 131.86,
-          "spoken": true
-        },
-        {
-          "word": "I'm",
-          "start": 131.98,
-          "end": 132.36,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "geeked",
-          "start": 132.564,
-          "end": 132.7,
-          "spoken": true
-        },
-        {
-          "word": "out",
-          "start": 132.7,
-          "end": 132.76,
-          "spoken": true
-        },
-        {
-          "word": "like",
-          "start": 132.76,
-          "end": 133.1,
-          "spoken": true
-        },
-        {
-          "word": "a",
-          "start": 133.1,
-          "end": 133.24
-        },
-        {
-          "word": "nerd,",
-          "start": 133.24,
-          "end": 133.38
-        }
-      ],
-      "time": 131.14,
-      "end": 133.38
-    },
-    {
-      "text": "ridin' these balls",
-      "startTime": 133.48,
-      "endTime": 134.36,
-      "words": [
-        {
-          "word": "ridin'",
-          "start": 133.526,
-          "end": 133.82,
-          "spoken": true
-        },
-        {
-          "word": "these",
-          "start": 133.952,
-          "end": 134.04,
-          "spoken": true
-        },
-        {
-          "word": "balls",
-          "start": 134.04,
-          "end": 134.36,
-          "spoken": true
-        }
-      ],
-      "time": 133.48,
-      "end": 134.36
-    },
-    {
-      "text": "I told ya, I'm geeked out like a nerd,",
-      "startTime": 134.36,
-      "endTime": 136.84,
-      "words": [
-        {
-          "word": "I",
-          "start": 134.592,
-          "end": 134.8,
-          "stretch": true,
-          "spoken": true
-        },
-        {
-          "word": "told",
-          "start": 134.8,
-          "end": 135.04,
-          "spoken": true
-        },
-        {
-          "word": "ya,",
-          "start": 135.208,
-          "end": 135.32,
-          "spoken": true
-        },
-        {
-          "word": "I'm",
-          "start": 135.48,
-          "end": 135.74,
-          "spoken": true
-        },
-        {
-          "word": "geeked",
-          "start": 135.992,
-          "end": 136.16,
-          "spoken": true
-        },
-        {
-          "word": "out",
-          "start": 136.16,
-          "end": 136.24,
-          "spoken": true
-        },
-        {
-          "word": "like",
-          "start": 136.24,
-          "end": 136.48,
-          "spoken": true
-        },
-        {
-          "word": "a",
-          "start": 136.48,
-          "end": 136.66,
-          "stretch": true
-        },
-        {
-          "word": "nerd,",
-          "start": 136.66,
-          "end": 136.84
-        }
-      ],
-      "time": 134.36,
-      "end": 136.84
-    },
-    {
-      "text": "ridin' these",
-      "startTime": 136.84,
-      "endTime": 137.42,
-      "words": [
-        {
-          "word": "ridin'",
-          "start": 137.003,
-          "end": 137.28,
-          "spoken": true
-        },
-        {
-          "word": "these",
-          "start": 137.32,
-          "end": 137.42,
-          "spoken": true
-        }
-      ],
-      "time": 136.84,
-      "end": 137.42
-    },
-    {
-      "text": "●",
-      "startTime": 137.72,
-      "endTime": 156.271,
-      "words": [],
-      "type": "vocal_cue",
-      "time": 137.72,
-      "end": 156.271
-    }
-  ]
-}
+[
+  {
+    "text": "she ute she ute",
+    "startTime": 0.279,
+    "endTime": 4.38,
+    "words": [
+      {
+        "word": "she",
+        "start": 0.279,
+        "end": 0.54,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "ute",
+        "start": 0.54,
+        "end": 1.76,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "she",
+        "start": 2.11,
+        "end": 2.94,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "ute",
+        "start": 2.94,
+        "end": 4.38,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 0.279,
+    "end": 4.38
+  },
+  {
+    "text": "she ute she ute she ute she ute she ute",
+    "startTime": 6.06,
+    "endTime": 10.14,
+    "words": [
+      {
+        "word": "she",
+        "start": 6.41,
+        "end": 6.66,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "ute",
+        "start": 6.66,
+        "end": 7,
+        "spoken": true
+      },
+      {
+        "word": "she",
+        "start": 7,
+        "end": 7.4
+      },
+      {
+        "word": "ute",
+        "start": 7.4,
+        "end": 8.02,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "she",
+        "start": 8.02,
+        "end": 8.14,
+        "spoken": true
+      },
+      {
+        "word": "ute",
+        "start": 8.14,
+        "end": 9.46,
+        "stretch": true
+      },
+      {
+        "word": "she",
+        "start": 9.46,
+        "end": 9.46
+      },
+      {
+        "word": "ute",
+        "start": 9.46,
+        "end": 9.74,
+        "spoken": true
+      },
+      {
+        "word": "she",
+        "start": 9.74,
+        "end": 9.74
+      },
+      {
+        "word": "ute",
+        "start": 9.74,
+        "end": 10.14,
+        "spoken": true
+      }
+    ],
+    "time": 6.06,
+    "end": 10.14
+  },
+  {
+    "text": "oh yeah, i told ya i do it for my soldier",
+    "startTime": 10.14,
+    "endTime": 16.92,
+    "words": [
+      {
+        "word": "oh",
+        "start": 10.14,
+        "end": 10.14
+      },
+      {
+        "word": "yeah,",
+        "start": 10.49,
+        "end": 14.46,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "i",
+        "start": 14.74,
+        "end": 14.8,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 14.8,
+        "end": 15.1,
+        "spoken": true
+      },
+      {
+        "word": "ya",
+        "start": 15.256,
+        "end": 15.36,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 15.36,
+        "end": 15.68,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "do",
+        "start": 15.68,
+        "end": 15.94
+      },
+      {
+        "word": "it",
+        "start": 15.94,
+        "end": 16.04
+      },
+      {
+        "word": "for",
+        "start": 16.11,
+        "end": 16.3,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 16.3,
+        "end": 16.6,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "soldier",
+        "start": 16.6,
+        "end": 16.92,
+        "spoken": true
+      }
+    ],
+    "time": 10.14,
+    "end": 16.92
+  },
+  {
+    "text": "i can show ya to know ya",
+    "startTime": 16.92,
+    "endTime": 18.86,
+    "words": [
+      {
+        "word": "i",
+        "start": 16.966,
+        "end": 17.18,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "can",
+        "start": 17.3,
+        "end": 17.38,
+        "spoken": true
+      },
+      {
+        "word": "show",
+        "start": 17.38,
+        "end": 17.64,
+        "spoken": true
+      },
+      {
+        "word": "ya",
+        "start": 17.64,
+        "end": 18,
+        "stretch": true
+      },
+      {
+        "word": "to",
+        "start": 18.046,
+        "end": 18.22,
+        "spoken": true
+      },
+      {
+        "word": "know",
+        "start": 18.22,
+        "end": 18.5,
+        "spoken": true
+      },
+      {
+        "word": "ya",
+        "start": 18.663,
+        "end": 18.86,
+        "stretch": true,
+        "spoken": true
+      }
+    ],
+    "time": 16.92,
+    "end": 18.86
+  },
+  {
+    "text": "but then you lose your focus",
+    "startTime": 18.86,
+    "endTime": 20.3,
+    "words": [
+      {
+        "word": "but",
+        "start": 18.86,
+        "end": 19.16
+      },
+      {
+        "word": "then",
+        "start": 19.16,
+        "end": 19.34
+      },
+      {
+        "word": "you",
+        "start": 19.484,
+        "end": 19.58,
+        "spoken": true
+      },
+      {
+        "word": "lose",
+        "start": 19.58,
+        "end": 19.8,
+        "spoken": true
+      },
+      {
+        "word": "your",
+        "start": 19.8,
+        "end": 20.06,
+        "spoken": true
+      },
+      {
+        "word": "focus",
+        "start": 20.06,
+        "end": 20.3,
+        "spoken": true
+      }
+    ],
+    "time": 18.86,
+    "end": 20.3
+  },
+  {
+    "text": "what i told ya it's over",
+    "startTime": 20.3,
+    "endTime": 22.1,
+    "words": [
+      {
+        "word": "what",
+        "start": 20.3,
+        "end": 20.64,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 20.64,
+        "end": 20.9,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 20.9,
+        "end": 21.08,
+        "spoken": true
+      },
+      {
+        "word": "ya",
+        "start": 21.08,
+        "end": 21.42,
+        "stretch": true
+      },
+      {
+        "word": "it's",
+        "start": 21.466,
+        "end": 21.86,
+        "sung": true
+      },
+      {
+        "word": "over",
+        "start": 21.86,
+        "end": 22.1,
+        "spoken": true
+      }
+    ],
+    "time": 20.3,
+    "end": 22.1
+  },
+  {
+    "text": "she called my motorola like i owe ya i told ya she",
+    "startTime": 22.1,
+    "endTime": 25.98,
+    "words": [
+      {
+        "word": "she",
+        "start": 22.1,
+        "end": 22.58,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "called",
+        "start": 22.58,
+        "end": 22.76
+      },
+      {
+        "word": "my",
+        "start": 22.969,
+        "end": 23.14,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "motorola",
+        "start": 23.14,
+        "end": 23.74,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 23.833,
+        "end": 24.08,
+        "spoken": true
+      },
+      {
+        "word": "i",
+        "start": 24.243,
+        "end": 24.36,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "owe",
+        "start": 24.36,
+        "end": 24.46
+      },
+      {
+        "word": "ya",
+        "start": 24.46,
+        "end": 24.78,
+        "stretch": true
+      },
+      {
+        "word": "i",
+        "start": 24.896,
+        "end": 25.06,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 25.06,
+        "end": 25.38,
+        "spoken": true
+      },
+      {
+        "word": "ya",
+        "start": 25.543,
+        "end": 25.68,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "she",
+        "start": 25.68,
+        "end": 25.98,
+        "spoken": true
+      }
+    ],
+    "time": 22.1,
+    "end": 25.98
+  },
+  {
+    "text": "bitchin' wanna fuckin' a carola",
+    "startTime": 25.98,
+    "endTime": 28.26,
+    "words": [
+      {
+        "word": "bitchin'",
+        "start": 25.98,
+        "end": 26.48,
+        "spoken": true
+      },
+      {
+        "word": "wanna",
+        "start": 26.52,
+        "end": 26.76,
+        "spoken": true
+      },
+      {
+        "word": "fuckin'",
+        "start": 26.899,
+        "end": 27.16,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 27.464,
+        "end": 27.52,
+        "spoken": true
+      },
+      {
+        "word": "carola",
+        "start": 27.729,
+        "end": 28.26
+      }
+    ],
+    "time": 25.98,
+    "end": 28.26
+  },
+  {
+    "text": "I'm sippin' and I'm smokin', I'm a stoner I told ya, I",
+    "startTime": 28.26,
+    "endTime": 32.8,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 28.26,
+        "end": 29.28,
+        "stretch": true
+      },
+      {
+        "word": "sippin'",
+        "start": 29.28,
+        "end": 29.9
+      },
+      {
+        "word": "and",
+        "start": 29.96,
+        "end": 30.1
+      },
+      {
+        "word": "I'm",
+        "start": 30.1,
+        "end": 30.38
+      },
+      {
+        "word": "smokin',",
+        "start": 30.62,
+        "end": 30.78,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 30.78,
+        "end": 31.04,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 31.04,
+        "end": 31.24,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "stoner",
+        "start": 31.24,
+        "end": 31.58
+      },
+      {
+        "word": "I",
+        "start": 31.766,
+        "end": 31.94,
+        "stretch": true
+      },
+      {
+        "word": "told",
+        "start": 31.94,
+        "end": 32.2
+      },
+      {
+        "word": "ya,",
+        "start": 32.2,
+        "end": 32.44
+      },
+      {
+        "word": "I",
+        "start": 32.52,
+        "end": 32.8,
+        "stretch": true
+      }
+    ],
+    "time": 28.26,
+    "end": 32.8
+  },
+  {
+    "text": "need a couple pounds of marijuana",
+    "startTime": 32.8,
+    "endTime": 34.88,
+    "words": [
+      {
+        "word": "need",
+        "start": 32.8,
+        "end": 33.18
+      },
+      {
+        "word": "a",
+        "start": 33.18,
+        "end": 33.32
+      },
+      {
+        "word": "couple",
+        "start": 33.32,
+        "end": 33.6
+      },
+      {
+        "word": "pounds",
+        "start": 33.6,
+        "end": 33.94
+      },
+      {
+        "word": "of",
+        "start": 33.94,
+        "end": 34.34,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "marijuana",
+        "start": 34.526,
+        "end": 34.88,
+        "spoken": true
+      }
+    ],
+    "time": 32.8,
+    "end": 34.88
+  },
+  {
+    "text": "For the roller, you know it's boy,",
+    "startTime": 34.88,
+    "endTime": 36.9,
+    "words": [
+      {
+        "word": "For",
+        "start": 35.132,
+        "end": 35.3,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 35.3,
+        "end": 35.5,
+        "spoken": true
+      },
+      {
+        "word": "roller,",
+        "start": 35.5,
+        "end": 35.74
+      },
+      {
+        "word": "you",
+        "start": 36.08,
+        "end": 36.28
+      },
+      {
+        "word": "know",
+        "start": 36.28,
+        "end": 36.54
+      },
+      {
+        "word": "it's",
+        "start": 36.679,
+        "end": 36.84,
+        "spoken": true
+      },
+      {
+        "word": "boy,",
+        "start": 36.84,
+        "end": 36.9,
+        "spoken": true
+      }
+    ],
+    "time": 34.88,
+    "end": 36.9
+  },
+  {
+    "text": "we smokin' on the cobras",
+    "startTime": 37.02,
+    "endTime": 38.54,
+    "words": [
+      {
+        "word": "we",
+        "start": 37.02,
+        "end": 37.24
+      },
+      {
+        "word": "smokin'",
+        "start": 37.468,
+        "end": 37.62,
+        "spoken": true
+      },
+      {
+        "word": "on",
+        "start": 37.62,
+        "end": 37.84,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 37.979,
+        "end": 38.08,
+        "spoken": true
+      },
+      {
+        "word": "cobras",
+        "start": 38.08,
+        "end": 38.54
+      }
+    ],
+    "time": 37.02,
+    "end": 38.54
+  },
+  {
+    "text": "I told ya, you know it's boy,",
+    "startTime": 38.54,
+    "endTime": 40.34,
+    "words": [
+      {
+        "word": "I",
+        "start": 38.61,
+        "end": 38.78,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 38.78,
+        "end": 39.04,
+        "spoken": true
+      },
+      {
+        "word": "ya,",
+        "start": 39.208,
+        "end": 39.32,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 39.42,
+        "end": 39.66,
+        "sung": true
+      },
+      {
+        "word": "know",
+        "start": 39.66,
+        "end": 39.96,
+        "spoken": true
+      },
+      {
+        "word": "it's",
+        "start": 39.96,
+        "end": 40.22
+      },
+      {
+        "word": "boy,",
+        "start": 40.22,
+        "end": 40.34,
+        "spoken": true
+      }
+    ],
+    "time": 38.54,
+    "end": 40.34
+  },
+  {
+    "text": "we smokin' on the boners",
+    "startTime": 40.42,
+    "endTime": 41.94,
+    "words": [
+      {
+        "word": "we",
+        "start": 40.42,
+        "end": 40.56
+      },
+      {
+        "word": "smokin'",
+        "start": 40.56,
+        "end": 41.04
+      },
+      {
+        "word": "on",
+        "start": 41.04,
+        "end": 41.24
+      },
+      {
+        "word": "the",
+        "start": 41.396,
+        "end": 41.5,
+        "spoken": true
+      },
+      {
+        "word": "boners",
+        "start": 41.5,
+        "end": 41.94,
+        "spoken": true
+      }
+    ],
+    "time": 40.42,
+    "end": 41.94
+  },
+  {
+    "text": "No homer, I'm ballin' like a broker,",
+    "startTime": 41.94,
+    "endTime": 44.28,
+    "words": [
+      {
+        "word": "No",
+        "start": 42.033,
+        "end": 42.3,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "homer,",
+        "start": 42.6,
+        "end": 42.8,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 42.88,
+        "end": 43.28,
+        "stretch": true
+      },
+      {
+        "word": "ballin'",
+        "start": 43.28,
+        "end": 43.48
+      },
+      {
+        "word": "like",
+        "start": 43.526,
+        "end": 43.8,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 43.8,
+        "end": 44.08,
+        "stretch": true,
+        "sung": true
+      },
+      {
+        "word": "broker,",
+        "start": 44.08,
+        "end": 44.28,
+        "spoken": true
+      }
+    ],
+    "time": 41.94,
+    "end": 44.28
+  },
+  {
+    "text": "but I'm broker",
+    "startTime": 44.36,
+    "endTime": 45.18,
+    "words": [
+      {
+        "word": "but",
+        "start": 44.36,
+        "end": 44.64,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 44.826,
+        "end": 44.98,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "broker",
+        "start": 44.98,
+        "end": 45.18,
+        "spoken": true
+      }
+    ],
+    "time": 44.36,
+    "end": 45.18
+  },
+  {
+    "text": "I told ya, I'm feelin' like the joker, get your throat cut",
+    "startTime": 45.18,
+    "endTime": 48.82,
+    "words": [
+      {
+        "word": "I",
+        "start": 45.432,
+        "end": 45.6,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 45.6,
+        "end": 45.9,
+        "spoken": true
+      },
+      {
+        "word": "ya,",
+        "start": 46.092,
+        "end": 46.22,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 46.28,
+        "end": 46.68,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "feelin'",
+        "start": 46.68,
+        "end": 46.92
+      },
+      {
+        "word": "like",
+        "start": 46.99,
+        "end": 47.18,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 47.18,
+        "end": 47.48
+      },
+      {
+        "word": "joker,",
+        "start": 47.48,
+        "end": 47.72
+      },
+      {
+        "word": "get",
+        "start": 47.8,
+        "end": 48.02,
+        "spoken": true
+      },
+      {
+        "word": "your",
+        "start": 48.02,
+        "end": 48.3,
+        "spoken": true
+      },
+      {
+        "word": "throat",
+        "start": 48.3,
+        "end": 48.5,
+        "spoken": true
+      },
+      {
+        "word": "cut",
+        "start": 48.5,
+        "end": 48.82
+      }
+    ],
+    "time": 45.18,
+    "end": 48.82
+  },
+  {
+    "text": "I told ya, I'm shootin' bitches with my super soaker",
+    "startTime": 48.82,
+    "endTime": 52.26,
+    "words": [
+      {
+        "word": "I",
+        "start": 48.89,
+        "end": 49.04,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 49.04,
+        "end": 49.34,
+        "spoken": true
+      },
+      {
+        "word": "ya,",
+        "start": 49.508,
+        "end": 49.62,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 49.72,
+        "end": 50.1,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "shootin'",
+        "start": 50.292,
+        "end": 50.42
+      },
+      {
+        "word": "bitches",
+        "start": 50.56,
+        "end": 50.76,
+        "spoken": true
+      },
+      {
+        "word": "with",
+        "start": 50.76,
+        "end": 51.02,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 51.176,
+        "end": 51.28,
+        "spoken": true
+      },
+      {
+        "word": "super",
+        "start": 51.28,
+        "end": 51.68,
+        "spoken": true
+      },
+      {
+        "word": "soaker",
+        "start": 51.68,
+        "end": 52.26,
+        "spoken": true
+      }
+    ],
+    "time": 48.82,
+    "end": 52.26
+  },
+  {
+    "text": "I told ya, I'm swervin' up the curb and that rope",
+    "startTime": 52.26,
+    "endTime": 55.48,
+    "words": [
+      {
+        "word": "I",
+        "start": 52.33,
+        "end": 52.46,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 52.46,
+        "end": 52.74,
+        "spoken": true
+      },
+      {
+        "word": "ya,",
+        "start": 52.92,
+        "end": 53.04,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 53.14,
+        "end": 53.5,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "swervin'",
+        "start": 53.5,
+        "end": 53.72
+      },
+      {
+        "word": "up",
+        "start": 53.836,
+        "end": 54.04,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 54.04,
+        "end": 54.3,
+        "spoken": true
+      },
+      {
+        "word": "curb",
+        "start": 54.528,
+        "end": 54.68
+      },
+      {
+        "word": "and",
+        "start": 54.68,
+        "end": 54.96,
+        "spoken": true
+      },
+      {
+        "word": "that",
+        "start": 54.96,
+        "end": 55.22,
+        "spoken": true
+      },
+      {
+        "word": "rope",
+        "start": 55.22,
+        "end": 55.48,
+        "spoken": true
+      }
+    ],
+    "time": 52.26,
+    "end": 55.48
+  },
+  {
+    "text": "I told ya, your flow is so absurd,",
+    "startTime": 55.48,
+    "endTime": 58.02,
+    "words": [
+      {
+        "word": "I",
+        "start": 55.732,
+        "end": 55.9,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 55.9,
+        "end": 56.18,
+        "spoken": true
+      },
+      {
+        "word": "ya,",
+        "start": 56.18,
+        "end": 56.54
+      },
+      {
+        "word": "your",
+        "start": 56.56,
+        "end": 56.74
+      },
+      {
+        "word": "flow",
+        "start": 56.74,
+        "end": 57.12
+      },
+      {
+        "word": "is",
+        "start": 57.12,
+        "end": 57.38
+      },
+      {
+        "word": "so",
+        "start": 57.38,
+        "end": 57.64
+      },
+      {
+        "word": "absurd,",
+        "start": 57.64,
+        "end": 58.02,
+        "spoken": true
+      }
+    ],
+    "time": 55.48,
+    "end": 58.02
+  },
+  {
+    "text": "bitch, I know it",
+    "startTime": 58.22,
+    "endTime": 59.18,
+    "words": [
+      {
+        "word": "bitch,",
+        "start": 58.22,
+        "end": 58.4,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 58.4,
+        "end": 58.58,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "know",
+        "start": 58.58,
+        "end": 58.8
+      },
+      {
+        "word": "it",
+        "start": 58.8,
+        "end": 59.18,
+        "stretch": true
+      }
+    ],
+    "time": 58.22,
+    "end": 59.18
+  },
+  {
+    "text": "I told ya, one verse go for a purpose,",
+    "startTime": 59.18,
+    "endTime": 61.62,
+    "words": [
+      {
+        "word": "I",
+        "start": 59.18,
+        "end": 59.34,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 59.34,
+        "end": 59.6,
+        "spoken": true
+      },
+      {
+        "word": "ya,",
+        "start": 59.6,
+        "end": 59.98
+      },
+      {
+        "word": "one",
+        "start": 60.14,
+        "end": 60.24
+      },
+      {
+        "word": "verse",
+        "start": 60.24,
+        "end": 60.52
+      },
+      {
+        "word": "go",
+        "start": 60.52,
+        "end": 60.76
+      },
+      {
+        "word": "for",
+        "start": 60.76,
+        "end": 61.1
+      },
+      {
+        "word": "a",
+        "start": 61.1,
+        "end": 61.26,
+        "stretch": true
+      },
+      {
+        "word": "purpose,",
+        "start": 61.26,
+        "end": 61.62,
+        "spoken": true
+      }
+    ],
+    "time": 59.18,
+    "end": 61.62
+  },
+  {
+    "text": "I'll blow it",
+    "startTime": 61.64,
+    "endTime": 62.6,
+    "words": [
+      {
+        "word": "I'll",
+        "start": 61.942,
+        "end": 62.16,
+        "stretch": true
+      },
+      {
+        "word": "blow",
+        "start": 62.16,
+        "end": 62.24
+      },
+      {
+        "word": "it",
+        "start": 62.24,
+        "end": 62.6,
+        "stretch": true
+      }
+    ],
+    "time": 61.64,
+    "end": 62.6
+  },
+  {
+    "text": "I told ya, I'm geeked out like a nerd,",
+    "startTime": 62.6,
+    "endTime": 64.82,
+    "words": [
+      {
+        "word": "I",
+        "start": 62.6,
+        "end": 62.78,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 62.78,
+        "end": 63.04,
+        "spoken": true
+      },
+      {
+        "word": "ya,",
+        "start": 63.249,
+        "end": 63.42,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 63.44,
+        "end": 63.8,
+        "stretch": true
+      },
+      {
+        "word": "geeked",
+        "start": 64.004,
+        "end": 64.14,
+        "spoken": true
+      },
+      {
+        "word": "out",
+        "start": 64.14,
+        "end": 64.22,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 64.22,
+        "end": 64.54,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 64.54,
+        "end": 64.7,
+        "stretch": true
+      },
+      {
+        "word": "nerd,",
+        "start": 64.7,
+        "end": 64.82
+      }
+    ],
+    "time": 62.6,
+    "end": 64.82
+  },
+  {
+    "text": "ridin' these balls",
+    "startTime": 64.84,
+    "endTime": 65.9,
+    "words": [
+      {
+        "word": "ridin'",
+        "start": 64.956,
+        "end": 65.24,
+        "spoken": true
+      },
+      {
+        "word": "these",
+        "start": 65.36,
+        "end": 65.44,
+        "spoken": true
+      },
+      {
+        "word": "balls",
+        "start": 65.44,
+        "end": 65.9,
+        "spoken": true
+      }
+    ],
+    "time": 64.84,
+    "end": 65.9
+  },
+  {
+    "text": "I told ya, I'm geeked out like a nerd,",
+    "startTime": 65.9,
+    "endTime": 68.28,
+    "words": [
+      {
+        "word": "I",
+        "start": 66.016,
+        "end": 66.18,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 66.18,
+        "end": 66.48,
+        "spoken": true
+      },
+      {
+        "word": "ya,",
+        "start": 66.672,
+        "end": 66.8,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 66.9,
+        "end": 67.18,
+        "spoken": true
+      },
+      {
+        "word": "geeked",
+        "start": 67.444,
+        "end": 67.62
+      },
+      {
+        "word": "out",
+        "start": 67.62,
+        "end": 67.7
+      },
+      {
+        "word": "like",
+        "start": 67.7,
+        "end": 67.9
+      },
+      {
+        "word": "a",
+        "start": 67.9,
+        "end": 68.1,
+        "stretch": true
+      },
+      {
+        "word": "nerd,",
+        "start": 68.1,
+        "end": 68.28
+      }
+    ],
+    "time": 65.9,
+    "end": 68.28
+  },
+  {
+    "text": "ridin' these balls",
+    "startTime": 68.42,
+    "endTime": 69.66,
+    "words": [
+      {
+        "word": "ridin'",
+        "start": 68.42,
+        "end": 68.66
+      },
+      {
+        "word": "these",
+        "start": 68.768,
+        "end": 68.84,
+        "spoken": true
+      },
+      {
+        "word": "balls",
+        "start": 68.84,
+        "end": 69.66,
+        "stretch": true
+      }
+    ],
+    "time": 68.42,
+    "end": 69.66
+  },
+  {
+    "text": "●",
+    "startTime": 69.96,
+    "endTime": 81.96,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 69.96,
+    "end": 81.96
+  },
+  {
+    "text": "Oh yeah,",
+    "startTime": 81.96,
+    "endTime": 83,
+    "words": [
+      {
+        "word": "Oh",
+        "start": 81.96,
+        "end": 82.48,
+        "stretch": true,
+        "whisper": true
+      },
+      {
+        "word": "yeah,",
+        "start": 82.619,
+        "end": 83
+      }
+    ],
+    "time": 81.96,
+    "end": 83
+  },
+  {
+    "text": "I told ya, I do it for my soldier",
+    "startTime": 83.22,
+    "endTime": 85.46,
+    "words": [
+      {
+        "word": "I",
+        "start": 83.22,
+        "end": 83.32
+      },
+      {
+        "word": "told",
+        "start": 83.32,
+        "end": 83.62
+      },
+      {
+        "word": "ya,",
+        "start": 83.62,
+        "end": 83.9
+      },
+      {
+        "word": "I",
+        "start": 84.08,
+        "end": 84.24,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "do",
+        "start": 84.24,
+        "end": 84.5,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 84.5,
+        "end": 84.64,
+        "spoken": true
+      },
+      {
+        "word": "for",
+        "start": 84.64,
+        "end": 84.86,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 85.016,
+        "end": 85.12,
+        "spoken": true
+      },
+      {
+        "word": "soldier",
+        "start": 85.12,
+        "end": 85.46,
+        "spoken": true
+      }
+    ],
+    "time": 83.22,
+    "end": 85.46
+  },
+  {
+    "text": "I can show ya, some dough ya,",
+    "startTime": 85.46,
+    "endTime": 87.26,
+    "words": [
+      {
+        "word": "I",
+        "start": 85.46,
+        "end": 85.66,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "can",
+        "start": 85.66,
+        "end": 85.9,
+        "spoken": true
+      },
+      {
+        "word": "show",
+        "start": 85.9,
+        "end": 86.22,
+        "spoken": true
+      },
+      {
+        "word": "ya,",
+        "start": 86.22,
+        "end": 86.58
+      },
+      {
+        "word": "some",
+        "start": 86.64,
+        "end": 86.88,
+        "spoken": true
+      },
+      {
+        "word": "dough",
+        "start": 86.88,
+        "end": 87.08,
+        "spoken": true
+      },
+      {
+        "word": "ya,",
+        "start": 87.08,
+        "end": 87.26,
+        "spoken": true
+      }
+    ],
+    "time": 85.46,
+    "end": 87.26
+  },
+  {
+    "text": "but then you lose your focus",
+    "startTime": 87.56,
+    "endTime": 88.86,
+    "words": [
+      {
+        "word": "but",
+        "start": 87.632,
+        "end": 87.68,
+        "spoken": true
+      },
+      {
+        "word": "then",
+        "start": 87.68,
+        "end": 87.92,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 87.92,
+        "end": 88.1,
+        "spoken": true
+      },
+      {
+        "word": "lose",
+        "start": 88.1,
+        "end": 88.36,
+        "spoken": true
+      },
+      {
+        "word": "your",
+        "start": 88.492,
+        "end": 88.58,
+        "spoken": true
+      },
+      {
+        "word": "focus",
+        "start": 88.58,
+        "end": 88.86,
+        "spoken": true
+      }
+    ],
+    "time": 87.56,
+    "end": 88.86
+  },
+  {
+    "text": "What I told ya, it's over, she call my motorola",
+    "startTime": 88.86,
+    "endTime": 92.28,
+    "words": [
+      {
+        "word": "What",
+        "start": 88.86,
+        "end": 89.2,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 89.344,
+        "end": 89.44,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 89.44,
+        "end": 89.64
+      },
+      {
+        "word": "ya,",
+        "start": 89.64,
+        "end": 89.86
+      },
+      {
+        "word": "it's",
+        "start": 90.06,
+        "end": 90.44
+      },
+      {
+        "word": "over,",
+        "start": 90.44,
+        "end": 90.64
+      },
+      {
+        "word": "she",
+        "start": 90.84,
+        "end": 91.1
+      },
+      {
+        "word": "call",
+        "start": 91.1,
+        "end": 91.32
+      },
+      {
+        "word": "my",
+        "start": 91.32,
+        "end": 91.68,
+        "stretch": true
+      },
+      {
+        "word": "motorola",
+        "start": 91.68,
+        "end": 92.28
+      }
+    ],
+    "time": 88.86,
+    "end": 92.28
+  },
+  {
+    "text": "Like I owe ya, I told ya, these bitches wanna fuckin'",
+    "startTime": 92.28,
+    "endTime": 95.74,
+    "words": [
+      {
+        "word": "Like",
+        "start": 92.28,
+        "end": 92.6
+      },
+      {
+        "word": "I",
+        "start": 92.6,
+        "end": 93.04,
+        "stretch": true
+      },
+      {
+        "word": "owe",
+        "start": 93.04,
+        "end": 93.04
+      },
+      {
+        "word": "ya,",
+        "start": 93.04,
+        "end": 93.26
+      },
+      {
+        "word": "I",
+        "start": 93.44,
+        "end": 93.7,
+        "stretch": true
+      },
+      {
+        "word": "told",
+        "start": 93.7,
+        "end": 93.9
+      },
+      {
+        "word": "ya,",
+        "start": 93.9,
+        "end": 94.2
+      },
+      {
+        "word": "these",
+        "start": 94.52,
+        "end": 94.6
+      },
+      {
+        "word": "bitches",
+        "start": 94.6,
+        "end": 94.9,
+        "spoken": true
+      },
+      {
+        "word": "wanna",
+        "start": 94.9,
+        "end": 95.34,
+        "spoken": true
+      },
+      {
+        "word": "fuckin'",
+        "start": 95.456,
+        "end": 95.74,
+        "spoken": true
+      }
+    ],
+    "time": 92.28,
+    "end": 95.74
+  },
+  {
+    "text": "They corona, corona, I'm sippin' and I'm smokin'",
+    "startTime": 95.94,
+    "endTime": 99.28,
+    "words": [
+      {
+        "word": "They",
+        "start": 95.94,
+        "end": 96.02,
+        "whisper": true
+      },
+      {
+        "word": "corona,",
+        "start": 96.229,
+        "end": 96.58,
+        "spoken": true
+      },
+      {
+        "word": "corona,",
+        "start": 96.886,
+        "end": 97.5,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 97.72,
+        "end": 97.98,
+        "spoken": true
+      },
+      {
+        "word": "sippin'",
+        "start": 98.292,
+        "end": 98.5,
+        "spoken": true
+      },
+      {
+        "word": "and",
+        "start": 98.54,
+        "end": 98.72,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 98.72,
+        "end": 99.04,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "smokin'",
+        "start": 99.184,
+        "end": 99.28
+      }
+    ],
+    "time": 95.94,
+    "end": 99.28
+  },
+  {
+    "text": "I'm a stoner, I told ya,",
+    "startTime": 99.28,
+    "endTime": 101.04,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 99.28,
+        "end": 99.62,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 99.713,
+        "end": 99.78,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "stoner,",
+        "start": 99.78,
+        "end": 100.08,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 100.32,
+        "end": 100.52,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 100.52,
+        "end": 100.76
+      },
+      {
+        "word": "ya,",
+        "start": 100.928,
+        "end": 101.04,
+        "spoken": true
+      }
+    ],
+    "time": 99.28,
+    "end": 101.04
+  },
+  {
+    "text": "I need a couple pounds of marijuana",
+    "startTime": 101.2,
+    "endTime": 103.38,
+    "words": [
+      {
+        "word": "I",
+        "start": 101.2,
+        "end": 101.4,
+        "stretch": true
+      },
+      {
+        "word": "need",
+        "start": 101.4,
+        "end": 101.68
+      },
+      {
+        "word": "a",
+        "start": 101.776,
+        "end": 101.84,
+        "stretch": true
+      },
+      {
+        "word": "couple",
+        "start": 101.84,
+        "end": 102.18,
+        "spoken": true
+      },
+      {
+        "word": "pounds",
+        "start": 102.18,
+        "end": 102.48
+      },
+      {
+        "word": "of",
+        "start": 102.689,
+        "end": 102.88,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "marijuana",
+        "start": 102.88,
+        "end": 103.38,
+        "spoken": true
+      }
+    ],
+    "time": 101.2,
+    "end": 103.38
+  },
+  {
+    "text": "For the roller, you know it's boy,",
+    "startTime": 103.38,
+    "endTime": 105.54,
+    "words": [
+      {
+        "word": "For",
+        "start": 103.704,
+        "end": 103.92,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 103.92,
+        "end": 104.06,
+        "spoken": true
+      },
+      {
+        "word": "roller,",
+        "start": 104.06,
+        "end": 104.3
+      },
+      {
+        "word": "you",
+        "start": 104.5,
+        "end": 104.82,
+        "spoken": true
+      },
+      {
+        "word": "know",
+        "start": 104.82,
+        "end": 105.1
+      },
+      {
+        "word": "it's",
+        "start": 105.239,
+        "end": 105.42,
+        "spoken": true
+      },
+      {
+        "word": "boy,",
+        "start": 105.42,
+        "end": 105.54,
+        "spoken": true
+      }
+    ],
+    "time": 103.38,
+    "end": 105.54
+  },
+  {
+    "text": "we smokin' on the cobras",
+    "startTime": 105.68,
+    "endTime": 106.94,
+    "words": [
+      {
+        "word": "we",
+        "start": 105.68,
+        "end": 105.8
+      },
+      {
+        "word": "smokin'",
+        "start": 106.028,
+        "end": 106.18,
+        "spoken": true
+      },
+      {
+        "word": "on",
+        "start": 106.18,
+        "end": 106.42,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 106.552,
+        "end": 106.64,
+        "spoken": true
+      },
+      {
+        "word": "cobras",
+        "start": 106.64,
+        "end": 106.94,
+        "spoken": true
+      }
+    ],
+    "time": 105.68,
+    "end": 106.94
+  },
+  {
+    "text": "I told ya, you know it's boy,",
+    "startTime": 106.94,
+    "endTime": 108.96,
+    "words": [
+      {
+        "word": "I",
+        "start": 107.149,
+        "end": 107.34,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 107.34,
+        "end": 107.62,
+        "spoken": true
+      },
+      {
+        "word": "ya,",
+        "start": 107.776,
+        "end": 107.88,
+        "spoken": true
+      },
+      {
+        "word": "you",
+        "start": 107.98,
+        "end": 108.24,
+        "spoken": true
+      },
+      {
+        "word": "know",
+        "start": 108.24,
+        "end": 108.54
+      },
+      {
+        "word": "it's",
+        "start": 108.703,
+        "end": 108.82,
+        "spoken": true
+      },
+      {
+        "word": "boy,",
+        "start": 108.82,
+        "end": 108.96,
+        "spoken": true
+      }
+    ],
+    "time": 106.94,
+    "end": 108.96
+  },
+  {
+    "text": "we smokin' on the boners",
+    "startTime": 109.02,
+    "endTime": 110.5,
+    "words": [
+      {
+        "word": "we",
+        "start": 109.02,
+        "end": 109.22
+      },
+      {
+        "word": "smokin'",
+        "start": 109.448,
+        "end": 109.6,
+        "spoken": true
+      },
+      {
+        "word": "on",
+        "start": 109.6,
+        "end": 109.8,
+        "spoken": true
+      },
+      {
+        "word": "the",
+        "start": 109.8,
+        "end": 110.08,
+        "spoken": true
+      },
+      {
+        "word": "boners",
+        "start": 110.08,
+        "end": 110.5
+      }
+    ],
+    "time": 109.02,
+    "end": 110.5
+  },
+  {
+    "text": "No homer, I'm ballin' like a broker,",
+    "startTime": 110.5,
+    "endTime": 112.84,
+    "words": [
+      {
+        "word": "No",
+        "start": 110.716,
+        "end": 110.86,
+        "stretch": true
+      },
+      {
+        "word": "homer,",
+        "start": 110.86,
+        "end": 111.34
+      },
+      {
+        "word": "I'm",
+        "start": 111.44,
+        "end": 111.84,
+        "stretch": true
+      },
+      {
+        "word": "ballin'",
+        "start": 111.84,
+        "end": 112.04
+      },
+      {
+        "word": "like",
+        "start": 112.04,
+        "end": 112.36
+      },
+      {
+        "word": "a",
+        "start": 112.36,
+        "end": 112.66,
+        "stretch": true
+      },
+      {
+        "word": "broker,",
+        "start": 112.66,
+        "end": 112.84
+      }
+    ],
+    "time": 110.5,
+    "end": 112.84
+  },
+  {
+    "text": "but I'm broker I told ya,",
+    "startTime": 112.92,
+    "endTime": 114.72,
+    "words": [
+      {
+        "word": "but",
+        "start": 112.92,
+        "end": 113.22,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 113.22,
+        "end": 113.54,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "broker",
+        "start": 113.54,
+        "end": 113.76
+      },
+      {
+        "word": "I",
+        "start": 114.024,
+        "end": 114.2,
+        "stretch": true
+      },
+      {
+        "word": "told",
+        "start": 114.2,
+        "end": 114.48,
+        "spoken": true
+      },
+      {
+        "word": "ya,",
+        "start": 114.48,
+        "end": 114.72,
+        "spoken": true
+      }
+    ],
+    "time": 112.92,
+    "end": 114.72
+  },
+  {
+    "text": "I'm feelin' like a joker,",
+    "startTime": 114.86,
+    "endTime": 116.28,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 114.86,
+        "end": 115.2,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "feelin'",
+        "start": 115.2,
+        "end": 115.52,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 115.62,
+        "end": 115.78,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 115.78,
+        "end": 116.02,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "joker,",
+        "start": 116.02,
+        "end": 116.28,
+        "spoken": true
+      }
+    ],
+    "time": 114.86,
+    "end": 116.28
+  },
+  {
+    "text": "get your thong cut I told ya,",
+    "startTime": 116.48,
+    "endTime": 118.22,
+    "words": [
+      {
+        "word": "get",
+        "start": 116.48,
+        "end": 116.58,
+        "spoken": true
+      },
+      {
+        "word": "your",
+        "start": 116.736,
+        "end": 116.84,
+        "spoken": true
+      },
+      {
+        "word": "thong",
+        "start": 116.84,
+        "end": 117.14,
+        "spoken": true
+      },
+      {
+        "word": "cut",
+        "start": 117.14,
+        "end": 117.38
+      },
+      {
+        "word": "I",
+        "start": 117.473,
+        "end": 117.6,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 117.6,
+        "end": 117.92,
+        "spoken": true
+      },
+      {
+        "word": "ya,",
+        "start": 118.1,
+        "end": 118.22,
+        "spoken": true
+      }
+    ],
+    "time": 116.48,
+    "end": 118.22
+  },
+  {
+    "text": "I'm shootin' bitches with my super soaker",
+    "startTime": 118.32,
+    "endTime": 120.7,
+    "words": [
+      {
+        "word": "I'm",
+        "start": 118.32,
+        "end": 118.64,
+        "stretch": true
+      },
+      {
+        "word": "shootin'",
+        "start": 118.868,
+        "end": 119.02,
+        "spoken": true
+      },
+      {
+        "word": "bitches",
+        "start": 119.08,
+        "end": 119.32,
+        "spoken": true
+      },
+      {
+        "word": "with",
+        "start": 119.32,
+        "end": 119.62,
+        "spoken": true
+      },
+      {
+        "word": "my",
+        "start": 119.764,
+        "end": 119.86,
+        "spoken": true
+      },
+      {
+        "word": "super",
+        "start": 119.86,
+        "end": 120.26,
+        "spoken": true
+      },
+      {
+        "word": "soaker",
+        "start": 120.26,
+        "end": 120.7,
+        "spoken": true
+      }
+    ],
+    "time": 118.32,
+    "end": 120.7
+  },
+  {
+    "text": "I told ya, I'm swervin' up the curb in that road",
+    "startTime": 120.7,
+    "endTime": 124.06,
+    "words": [
+      {
+        "word": "I",
+        "start": 120.886,
+        "end": 121.02,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 121.02,
+        "end": 121.34,
+        "spoken": true
+      },
+      {
+        "word": "ya,",
+        "start": 121.484,
+        "end": 121.58,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 121.66,
+        "end": 122.06,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "swervin'",
+        "start": 122.06,
+        "end": 122.32
+      },
+      {
+        "word": "up",
+        "start": 122.32,
+        "end": 122.62,
+        "stretch": true
+      },
+      {
+        "word": "the",
+        "start": 122.62,
+        "end": 122.92
+      },
+      {
+        "word": "curb",
+        "start": 122.92,
+        "end": 123.2
+      },
+      {
+        "word": "in",
+        "start": 123.2,
+        "end": 123.46
+      },
+      {
+        "word": "that",
+        "start": 123.664,
+        "end": 123.8,
+        "spoken": true
+      },
+      {
+        "word": "road",
+        "start": 123.8,
+        "end": 124.06,
+        "spoken": true
+      }
+    ],
+    "time": 120.7,
+    "end": 124.06
+  },
+  {
+    "text": "I told ya, your flow so absurd, bitch, I know it",
+    "startTime": 124.06,
+    "endTime": 127.76,
+    "words": [
+      {
+        "word": "I",
+        "start": 124.292,
+        "end": 124.46,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 124.46,
+        "end": 124.76,
+        "spoken": true
+      },
+      {
+        "word": "ya,",
+        "start": 124.94,
+        "end": 125.06,
+        "spoken": true
+      },
+      {
+        "word": "your",
+        "start": 125.18,
+        "end": 125.38
+      },
+      {
+        "word": "flow",
+        "start": 125.38,
+        "end": 125.7
+      },
+      {
+        "word": "so",
+        "start": 125.816,
+        "end": 126.18,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "absurd,",
+        "start": 126.18,
+        "end": 126.56,
+        "spoken": true
+      },
+      {
+        "word": "bitch,",
+        "start": 126.74,
+        "end": 126.92,
+        "spoken": true
+      },
+      {
+        "word": "I",
+        "start": 127.088,
+        "end": 127.2,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "know",
+        "start": 127.2,
+        "end": 127.38,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 127.608,
+        "end": 127.76,
+        "stretch": true
+      }
+    ],
+    "time": 124.06,
+    "end": 127.76
+  },
+  {
+    "text": "I told ya, one verse go for a purpose, I'll blow it",
+    "startTime": 127.76,
+    "endTime": 131.14,
+    "words": [
+      {
+        "word": "I",
+        "start": 127.76,
+        "end": 127.9,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 127.9,
+        "end": 128.18,
+        "spoken": true
+      },
+      {
+        "word": "ya,",
+        "start": 128.372,
+        "end": 128.5,
+        "spoken": true
+      },
+      {
+        "word": "one",
+        "start": 128.86,
+        "end": 128.86
+      },
+      {
+        "word": "verse",
+        "start": 128.86,
+        "end": 129.1
+      },
+      {
+        "word": "go",
+        "start": 129.263,
+        "end": 129.38,
+        "spoken": true
+      },
+      {
+        "word": "for",
+        "start": 129.38,
+        "end": 129.66,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 129.66,
+        "end": 129.8
+      },
+      {
+        "word": "purpose,",
+        "start": 129.8,
+        "end": 130
+      },
+      {
+        "word": "I'll",
+        "start": 130.22,
+        "end": 130.68,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "blow",
+        "start": 130.68,
+        "end": 130.78,
+        "spoken": true
+      },
+      {
+        "word": "it",
+        "start": 130.78,
+        "end": 131.14,
+        "stretch": true
+      }
+    ],
+    "time": 127.76,
+    "end": 131.14
+  },
+  {
+    "text": "I told ya, I'm geeked out like a nerd,",
+    "startTime": 131.14,
+    "endTime": 133.38,
+    "words": [
+      {
+        "word": "I",
+        "start": 131.186,
+        "end": 131.38,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 131.38,
+        "end": 131.62,
+        "spoken": true
+      },
+      {
+        "word": "ya,",
+        "start": 131.764,
+        "end": 131.86,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 131.98,
+        "end": 132.36,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "geeked",
+        "start": 132.564,
+        "end": 132.7,
+        "spoken": true
+      },
+      {
+        "word": "out",
+        "start": 132.7,
+        "end": 132.76,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 132.76,
+        "end": 133.1,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 133.1,
+        "end": 133.24
+      },
+      {
+        "word": "nerd,",
+        "start": 133.24,
+        "end": 133.38
+      }
+    ],
+    "time": 131.14,
+    "end": 133.38
+  },
+  {
+    "text": "ridin' these balls",
+    "startTime": 133.48,
+    "endTime": 134.36,
+    "words": [
+      {
+        "word": "ridin'",
+        "start": 133.526,
+        "end": 133.82,
+        "spoken": true
+      },
+      {
+        "word": "these",
+        "start": 133.952,
+        "end": 134.04,
+        "spoken": true
+      },
+      {
+        "word": "balls",
+        "start": 134.04,
+        "end": 134.36,
+        "spoken": true
+      }
+    ],
+    "time": 133.48,
+    "end": 134.36
+  },
+  {
+    "text": "I told ya, I'm geeked out like a nerd,",
+    "startTime": 134.36,
+    "endTime": 136.84,
+    "words": [
+      {
+        "word": "I",
+        "start": 134.592,
+        "end": 134.8,
+        "stretch": true,
+        "spoken": true
+      },
+      {
+        "word": "told",
+        "start": 134.8,
+        "end": 135.04,
+        "spoken": true
+      },
+      {
+        "word": "ya,",
+        "start": 135.208,
+        "end": 135.32,
+        "spoken": true
+      },
+      {
+        "word": "I'm",
+        "start": 135.48,
+        "end": 135.74,
+        "spoken": true
+      },
+      {
+        "word": "geeked",
+        "start": 135.992,
+        "end": 136.16,
+        "spoken": true
+      },
+      {
+        "word": "out",
+        "start": 136.16,
+        "end": 136.24,
+        "spoken": true
+      },
+      {
+        "word": "like",
+        "start": 136.24,
+        "end": 136.48,
+        "spoken": true
+      },
+      {
+        "word": "a",
+        "start": 136.48,
+        "end": 136.66,
+        "stretch": true
+      },
+      {
+        "word": "nerd,",
+        "start": 136.66,
+        "end": 136.84
+      }
+    ],
+    "time": 134.36,
+    "end": 136.84
+  },
+  {
+    "text": "ridin' these",
+    "startTime": 136.84,
+    "endTime": 137.42,
+    "words": [
+      {
+        "word": "ridin'",
+        "start": 137.003,
+        "end": 137.28,
+        "spoken": true
+      },
+      {
+        "word": "these",
+        "start": 137.32,
+        "end": 137.42,
+        "spoken": true
+      }
+    ],
+    "time": 136.84,
+    "end": 137.42
+  },
+  {
+    "text": "●",
+    "startTime": 137.72,
+    "endTime": 156.271,
+    "words": [],
+    "type": "vocal_cue",
+    "time": 137.72,
+    "end": 156.271
+  }
+]

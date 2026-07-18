@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T17:35:25.368565+00:00",
+  "generatedAt": "2026-07-18T17:39:28.757546+00:00",
   "totalTracks": 879,
   "roots": [
     "lyrics-db/tracks"
@@ -12352,7 +12352,7 @@
       "title": "Ryomen Sukuna X Jane-the long faces(slowed+reverbed)",
       "artist": "Harun",
       "originalTrackName": "Harun - Ryomen Sukuna X Jane-the long faces(slowed+reverbed)",
-      "source": "soundcloud_extension_translate",
+      "source": "whisper_only",
       "file": "tracks/harun-ryomen-sukuna-x-jane-the-long-faces-slowed-reverbed-5731515bc953.json",
       "files": {
         "lyrics": "tracks/harun-ryomen-sukuna-x-jane-the-long-faces-slowed-reverbed-5731515bc953.json",
@@ -12362,7 +12362,9 @@
         }
       },
       "sourcePath": "https://soundcloud.com/haroon-tahir-686277074/ryomen-sukuna-x-jane-the-long",
-      "mtimeMs": 1784396125368
+      "mtimeMs": 1784396369783,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -24732,7 +24734,7 @@
       "title": "Ryomen Sukuna X Jane-the long faces(slowed+reverbed)",
       "artist": "Harun",
       "originalTrackName": "Harun - Ryomen Sukuna X Jane-the long faces(slowed+reverbed)",
-      "source": "soundcloud_extension_translate",
+      "source": "whisper_only",
       "file": "tracks/harun-ryomen-sukuna-x-jane-the-long-faces-slowed-reverbed-5731515bc953.json",
       "files": {
         "lyrics": "tracks/harun-ryomen-sukuna-x-jane-the-long-faces-slowed-reverbed-5731515bc953.json",
@@ -24742,7 +24744,9 @@
         }
       },
       "sourcePath": "https://soundcloud.com/haroon-tahir-686277074/ryomen-sukuna-x-jane-the-long",
-      "mtimeMs": 1784396125368
+      "mtimeMs": 1784396369783,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

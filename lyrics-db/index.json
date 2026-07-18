@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T17:39:54.034196+00:00",
-  "totalTracks": 879,
+  "generatedAt": "2026-07-18T17:45:29.674623+00:00",
+  "totalTracks": 880,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12365,6 +12365,22 @@
       "mtimeMs": 1784396394581,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "artemis::gojo vs sukuna [jujutsu kaisen] judas - lady gaga": {
+      "title": "Gojo Vs Sukuna [Jujutsu Kaisen] Judas - Lady Gaga",
+      "artist": "Artemis",
+      "originalTrackName": "Artemis - Gojo Vs Sukuna [Jujutsu Kaisen] Judas - Lady Gaga",
+      "source": "whisper_only",
+      "file": "tracks/artemis-gojo-vs-sukuna-jujutsu-kaisen-judas-lady-gaga-e0a669b1040a.json",
+      "files": {
+        "lyrics": "tracks/artemis-gojo-vs-sukuna-jujutsu-kaisen-judas-lady-gaga-e0a669b1040a.json",
+        "meta": "tracks/artemis-gojo-vs-sukuna-jujutsu-kaisen-judas-lady-gaga-e0a669b1040a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/artemis-110004862/gojo-vs-sukuna-jujutsu-kaisen-judas-lady-gaga-1",
+      "mtimeMs": 1784396730142,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -24747,6 +24763,22 @@
       "mtimeMs": 1784396394581,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Gojo Vs Sukuna [Jujutsu Kaisen] Judas - Lady Gaga",
+      "artist": "Artemis",
+      "originalTrackName": "Artemis - Gojo Vs Sukuna [Jujutsu Kaisen] Judas - Lady Gaga",
+      "source": "whisper_only",
+      "file": "tracks/artemis-gojo-vs-sukuna-jujutsu-kaisen-judas-lady-gaga-e0a669b1040a.json",
+      "files": {
+        "lyrics": "tracks/artemis-gojo-vs-sukuna-jujutsu-kaisen-judas-lady-gaga-e0a669b1040a.json",
+        "meta": "tracks/artemis-gojo-vs-sukuna-jujutsu-kaisen-judas-lady-gaga-e0a669b1040a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/artemis-110004862/gojo-vs-sukuna-jujutsu-kaisen-judas-lady-gaga-1",
+      "mtimeMs": 1784396730142,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

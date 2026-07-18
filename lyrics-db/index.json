@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T14:45:15.123035+00:00",
+  "generatedAt": "2026-07-18T17:35:25.368565+00:00",
   "totalTracks": 879,
   "roots": [
     "lyrics-db/tracks"
@@ -12316,22 +12316,6 @@
       "sourcePath": "https://soundcloud.com/summermelodyrecords/dtalm-sparkling-eyes-astrevea",
       "mtimeMs": 1784360890887
     },
-    "harun::ryomen sukuna x jane-the long faces(slowed+reverbed)": {
-      "title": "Ryomen Sukuna X Jane-the long faces(slowed+reverbed)",
-      "artist": "Harun",
-      "originalTrackName": "Harun - Ryomen Sukuna X Jane-the long faces(slowed+reverbed)",
-      "source": "whisper_only",
-      "file": "tracks/harun-ryomen-sukuna-x-jane-the-long-faces-slowed-reverbed-5731515bc953.json",
-      "files": {
-        "lyrics": "tracks/harun-ryomen-sukuna-x-jane-the-long-faces-slowed-reverbed-5731515bc953.json",
-        "meta": "tracks/harun-ryomen-sukuna-x-jane-the-long-faces-slowed-reverbed-5731515bc953.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/haroon-tahir-686277074/ryomen-sukuna-x-jane-the-long",
-      "mtimeMs": 1784372694158,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
     "myongchoi::music for deaf people": {
       "title": "Music For Deaf People",
       "artist": "myongchoi",
@@ -12363,6 +12347,22 @@
       "mtimeMs": 1784385916915,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "harun::ryomen sukuna x jane-the long faces(slowed+reverbed)": {
+      "title": "Ryomen Sukuna X Jane-the long faces(slowed+reverbed)",
+      "artist": "Harun",
+      "originalTrackName": "Harun - Ryomen Sukuna X Jane-the long faces(slowed+reverbed)",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/harun-ryomen-sukuna-x-jane-the-long-faces-slowed-reverbed-5731515bc953.json",
+      "files": {
+        "lyrics": "tracks/harun-ryomen-sukuna-x-jane-the-long-faces-slowed-reverbed-5731515bc953.json",
+        "meta": "tracks/harun-ryomen-sukuna-x-jane-the-long-faces-slowed-reverbed-5731515bc953.meta.json",
+        "translations": {
+          "fa": "tracks/harun-ryomen-sukuna-x-jane-the-long-faces-slowed-reverbed-5731515bc953.fa.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/haroon-tahir-686277074/ryomen-sukuna-x-jane-the-long",
+      "mtimeMs": 1784396125368
     }
   },
   "tracks": [
@@ -24697,22 +24697,6 @@
       "mtimeMs": 1784360890887
     },
     {
-      "title": "Ryomen Sukuna X Jane-the long faces(slowed+reverbed)",
-      "artist": "Harun",
-      "originalTrackName": "Harun - Ryomen Sukuna X Jane-the long faces(slowed+reverbed)",
-      "source": "whisper_only",
-      "file": "tracks/harun-ryomen-sukuna-x-jane-the-long-faces-slowed-reverbed-5731515bc953.json",
-      "files": {
-        "lyrics": "tracks/harun-ryomen-sukuna-x-jane-the-long-faces-slowed-reverbed-5731515bc953.json",
-        "meta": "tracks/harun-ryomen-sukuna-x-jane-the-long-faces-slowed-reverbed-5731515bc953.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/haroon-tahir-686277074/ryomen-sukuna-x-jane-the-long",
-      "mtimeMs": 1784372694158,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
-    {
       "title": "Music For Deaf People",
       "artist": "myongchoi",
       "originalTrackName": "myongchoi - Music For Deaf People",
@@ -24743,6 +24727,22 @@
       "mtimeMs": 1784385916915,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    {
+      "title": "Ryomen Sukuna X Jane-the long faces(slowed+reverbed)",
+      "artist": "Harun",
+      "originalTrackName": "Harun - Ryomen Sukuna X Jane-the long faces(slowed+reverbed)",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/harun-ryomen-sukuna-x-jane-the-long-faces-slowed-reverbed-5731515bc953.json",
+      "files": {
+        "lyrics": "tracks/harun-ryomen-sukuna-x-jane-the-long-faces-slowed-reverbed-5731515bc953.json",
+        "meta": "tracks/harun-ryomen-sukuna-x-jane-the-long-faces-slowed-reverbed-5731515bc953.meta.json",
+        "translations": {
+          "fa": "tracks/harun-ryomen-sukuna-x-jane-the-long-faces-slowed-reverbed-5731515bc953.fa.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/haroon-tahir-686277074/ryomen-sukuna-x-jane-the-long",
+      "mtimeMs": 1784396125368
     }
   ]
 }

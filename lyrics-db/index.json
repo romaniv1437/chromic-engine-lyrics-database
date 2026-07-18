@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T07:48:10.498780+00:00",
+  "generatedAt": "2026-07-18T09:24:41.757490+00:00",
   "totalTracks": 877,
   "roots": [
     "lyrics-db/tracks"
@@ -12288,22 +12288,6 @@
       "sourcePath": "https://soundcloud.com/bigheadonthebeat/lil-peep-benz-truck-pt-2-prod-by-killbighead-x-smokeasac-artwork-crimewave",
       "mtimeMs": 1784324520602
     },
-    "ibeantrill::lil peep - told ya": {
-      "title": "LiL PEEP - Told Ya",
-      "artist": "ibeantrill",
-      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
-      "source": "whisper_only",
-      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
-      "files": {
-        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
-        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
-      "mtimeMs": 1784325509564,
-      "has_haptics": true,
-      "haptics_version": 3
-    },
     "dtalm::dtalm - sparkling eyes (original mix) [smld157]": {
       "title": "DTALM - Sparkling Eyes (Original Mix) [SMLD157]",
       "artist": "DTALM",
@@ -12331,6 +12315,22 @@
       },
       "sourcePath": "https://soundcloud.com/summermelodyrecords/dtalm-sparkling-eyes-astrevea",
       "mtimeMs": 1784360890887
+    },
+    "ibeantrill::lil peep - told ya": {
+      "title": "LiL PEEP - Told Ya",
+      "artist": "ibeantrill",
+      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
+      "source": "whisper_only",
+      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+      "files": {
+        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
+      "mtimeMs": 1784366682435,
+      "has_haptics": false,
+      "haptics_version": null
     }
   },
   "tracks": [
@@ -24637,22 +24637,6 @@
       "mtimeMs": 1784324520602
     },
     {
-      "title": "LiL PEEP - Told Ya",
-      "artist": "ibeantrill",
-      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
-      "source": "whisper_only",
-      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
-      "files": {
-        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
-        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
-      "mtimeMs": 1784325509564,
-      "has_haptics": true,
-      "haptics_version": 3
-    },
-    {
       "title": "DTALM - Sparkling Eyes (Original Mix) [SMLD157]",
       "artist": "DTALM",
       "originalTrackName": "DTALM - DTALM - Sparkling Eyes (Original Mix) [SMLD157]",
@@ -24679,6 +24663,22 @@
       },
       "sourcePath": "https://soundcloud.com/summermelodyrecords/dtalm-sparkling-eyes-astrevea",
       "mtimeMs": 1784360890887
+    },
+    {
+      "title": "LiL PEEP - Told Ya",
+      "artist": "ibeantrill",
+      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
+      "source": "whisper_only",
+      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+      "files": {
+        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
+      "mtimeMs": 1784366682435,
+      "has_haptics": false,
+      "haptics_version": null
     }
   ]
 }

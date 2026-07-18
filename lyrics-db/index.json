@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T17:45:29.674623+00:00",
-  "totalTracks": 880,
+  "generatedAt": "2026-07-18T20:10:11.674964+00:00",
+  "totalTracks": 881,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12379,6 +12379,22 @@
       },
       "sourcePath": "https://soundcloud.com/artemis-110004862/gojo-vs-sukuna-jujutsu-kaisen-judas-lady-gaga-1",
       "mtimeMs": 1784396730142,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    "::bladee_tldr": {
+      "title": "bladee_tldr",
+      "artist": "",
+      "originalTrackName": "bladee_tldr",
+      "source": "whisper_only",
+      "file": "tracks/bladee-tldr-c2a4613cf323.json",
+      "files": {
+        "lyrics": "tracks/bladee-tldr-c2a4613cf323.json",
+        "meta": "tracks/bladee-tldr-c2a4613cf323.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "file://bladee_tldr.mp3",
+      "mtimeMs": 1784405412687,
       "has_haptics": true,
       "haptics_version": 4
     }
@@ -24777,6 +24793,22 @@
       },
       "sourcePath": "https://soundcloud.com/artemis-110004862/gojo-vs-sukuna-jujutsu-kaisen-judas-lady-gaga-1",
       "mtimeMs": 1784396730142,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "bladee_tldr",
+      "artist": "",
+      "originalTrackName": "bladee_tldr",
+      "source": "whisper_only",
+      "file": "tracks/bladee-tldr-c2a4613cf323.json",
+      "files": {
+        "lyrics": "tracks/bladee-tldr-c2a4613cf323.json",
+        "meta": "tracks/bladee-tldr-c2a4613cf323.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "file://bladee_tldr.mp3",
+      "mtimeMs": 1784405412687,
       "has_haptics": true,
       "haptics_version": 4
     }

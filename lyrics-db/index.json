@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T07:47:49.272133+00:00",
-  "totalTracks": 876,
+  "generatedAt": "2026-07-18T07:48:03.669428+00:00",
+  "totalTracks": 877,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12317,6 +12317,22 @@
       },
       "sourcePath": "https://soundcloud.com/summermelodyrecords/dtalm-sparkling-eyes-original",
       "mtimeMs": 1784360869926
+    },
+    "dtalm::dtalm - sparkling eyes (astrevea remix) [smld157]": {
+      "title": "DTALM - Sparkling Eyes (Astrevea Remix) [SMLD157]",
+      "artist": "DTALM",
+      "originalTrackName": "DTALM - DTALM - Sparkling Eyes (Astrevea Remix) [SMLD157]",
+      "source": "whisper_only",
+      "file": "tracks/dtalm-dtalm-sparkling-eyes-astrevea-remix-smld157-392fbda6f68e.json",
+      "files": {
+        "lyrics": "tracks/dtalm-dtalm-sparkling-eyes-astrevea-remix-smld157-392fbda6f68e.json",
+        "meta": "tracks/dtalm-dtalm-sparkling-eyes-astrevea-remix-smld157-392fbda6f68e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/summermelodyrecords/dtalm-sparkling-eyes-astrevea",
+      "mtimeMs": 1784360884385,
+      "has_haptics": false,
+      "haptics_version": null
     }
   },
   "tracks": [
@@ -24651,6 +24667,22 @@
       },
       "sourcePath": "https://soundcloud.com/summermelodyrecords/dtalm-sparkling-eyes-original",
       "mtimeMs": 1784360869926
+    },
+    {
+      "title": "DTALM - Sparkling Eyes (Astrevea Remix) [SMLD157]",
+      "artist": "DTALM",
+      "originalTrackName": "DTALM - DTALM - Sparkling Eyes (Astrevea Remix) [SMLD157]",
+      "source": "whisper_only",
+      "file": "tracks/dtalm-dtalm-sparkling-eyes-astrevea-remix-smld157-392fbda6f68e.json",
+      "files": {
+        "lyrics": "tracks/dtalm-dtalm-sparkling-eyes-astrevea-remix-smld157-392fbda6f68e.json",
+        "meta": "tracks/dtalm-dtalm-sparkling-eyes-astrevea-remix-smld157-392fbda6f68e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/summermelodyrecords/dtalm-sparkling-eyes-astrevea",
+      "mtimeMs": 1784360884385,
+      "has_haptics": false,
+      "haptics_version": null
     }
   ]
 }

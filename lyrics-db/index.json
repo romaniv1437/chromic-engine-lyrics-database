@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T20:10:11.674964+00:00",
-  "totalTracks": 881,
+  "generatedAt": "2026-07-19T13:56:58.767299+00:00",
+  "totalTracks": 882,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -12395,6 +12395,22 @@
       },
       "sourcePath": "file://bladee_tldr.mp3",
       "mtimeMs": 1784405412687,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    "bexey::bexey & lil peep - repair [prod.paulie] (music video in description)": {
+      "title": "BEXEY & LiL PEEP - Repair [Prod.Paulie] (music video in description)",
+      "artist": "BEXEY",
+      "originalTrackName": "BEXEY - BEXEY & LiL PEEP - Repair [Prod.Paulie] (music video in description)",
+      "source": "lrclib_plain",
+      "file": "tracks/bexey-bexey-lil-peep-repair-prod-paulie-music-video-in-description-8191a3b80bed.json",
+      "files": {
+        "lyrics": "tracks/bexey-bexey-lil-peep-repair-prod-paulie-music-video-in-description-8191a3b80bed.json",
+        "meta": "tracks/bexey-bexey-lil-peep-repair-prod-paulie-music-video-in-description-8191a3b80bed.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bexeyswan/bexey-lil-peep-repair-prodpaulie",
+      "mtimeMs": 1784469419595,
       "has_haptics": true,
       "haptics_version": 4
     }
@@ -24809,6 +24825,22 @@
       },
       "sourcePath": "file://bladee_tldr.mp3",
       "mtimeMs": 1784405412687,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "BEXEY & LiL PEEP - Repair [Prod.Paulie] (music video in description)",
+      "artist": "BEXEY",
+      "originalTrackName": "BEXEY - BEXEY & LiL PEEP - Repair [Prod.Paulie] (music video in description)",
+      "source": "lrclib_plain",
+      "file": "tracks/bexey-bexey-lil-peep-repair-prod-paulie-music-video-in-description-8191a3b80bed.json",
+      "files": {
+        "lyrics": "tracks/bexey-bexey-lil-peep-repair-prod-paulie-music-video-in-description-8191a3b80bed.json",
+        "meta": "tracks/bexey-bexey-lil-peep-repair-prod-paulie-music-video-in-description-8191a3b80bed.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bexeyswan/bexey-lil-peep-repair-prodpaulie",
+      "mtimeMs": 1784469419595,
       "has_haptics": true,
       "haptics_version": 4
     }

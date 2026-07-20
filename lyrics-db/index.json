@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-20T10:09:27.439835+00:00",
-  "totalTracks": 1,
+  "generatedAt": "2026-07-20T14:34:09.353792+00:00",
+  "totalTracks": 2,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -21,6 +21,23 @@
       "mtimeMs": 1784542168165,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "3doki::fly 2 asia (pröz)": {
+      "title": "FLY 2 ASIA (Pröz)",
+      "artist": "3DOKI",
+      "originalTrackName": "3DOKI - FLY 2 ASIA (Pröz)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-inn1nlz1aeyVzxfu-yjBzTg-original.jpg",
+      "file": "tracks/3doki-fly-2-asia-pr-z-fc6dbfd8e57d.json",
+      "files": {
+        "lyrics": "tracks/3doki-fly-2-asia-pr-z-fc6dbfd8e57d.json",
+        "meta": "tracks/3doki-fly-2-asia-pr-z-fc6dbfd8e57d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-852479618-320026678/fly-2-asia-proez",
+      "mtimeMs": 1784558050038,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -38,6 +55,23 @@
       },
       "sourcePath": "https://soundcloud.com/silentrm-net/purplepalace",
       "mtimeMs": 1784542168165,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "FLY 2 ASIA (Pröz)",
+      "artist": "3DOKI",
+      "originalTrackName": "3DOKI - FLY 2 ASIA (Pröz)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-inn1nlz1aeyVzxfu-yjBzTg-original.jpg",
+      "file": "tracks/3doki-fly-2-asia-pr-z-fc6dbfd8e57d.json",
+      "files": {
+        "lyrics": "tracks/3doki-fly-2-asia-pr-z-fc6dbfd8e57d.json",
+        "meta": "tracks/3doki-fly-2-asia-pr-z-fc6dbfd8e57d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-852479618-320026678/fly-2-asia-proez",
+      "mtimeMs": 1784558050038,
       "has_haptics": true,
       "haptics_version": 4
     }

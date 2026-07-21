@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-20T21:38:09.704740+00:00",
-  "totalTracks": 154,
+  "generatedAt": "2026-07-21T12:30:26.433815+00:00",
+  "totalTracks": 155,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -2158,6 +2158,23 @@
       },
       "sourcePath": "https://soundcloud.com/user-852479618-320026678/fly-2-asia-proez",
       "mtimeMs": 1784558050038,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    "askai::ep — fearless: zenless zone zero ost": {
+      "title": "EP — Fearless: Zenless Zone Zero OST",
+      "artist": "Askai",
+      "originalTrackName": "Askai - EP — Fearless: Zenless Zone Zero OST",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-gfZfKUKGZj4qA0iW-eBZe6g-original.jpg",
+      "file": "tracks/askai-ep-fearless-zenless-zone-zero-ost-7bad9bee59d3.json",
+      "files": {
+        "lyrics": "tracks/askai-ep-fearless-zenless-zone-zero-ost-7bad9bee59d3.json",
+        "meta": "tracks/askai-ep-fearless-zenless-zone-zero-ost-7bad9bee59d3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/askai-146045411/ep-fearless-zenless-zone-zero",
+      "mtimeMs": 1784637027667,
       "has_haptics": true,
       "haptics_version": 4
     }
@@ -4335,6 +4352,23 @@
       },
       "sourcePath": "https://soundcloud.com/user-852479618-320026678/fly-2-asia-proez",
       "mtimeMs": 1784558050038,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "EP — Fearless: Zenless Zone Zero OST",
+      "artist": "Askai",
+      "originalTrackName": "Askai - EP — Fearless: Zenless Zone Zero OST",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-gfZfKUKGZj4qA0iW-eBZe6g-original.jpg",
+      "file": "tracks/askai-ep-fearless-zenless-zone-zero-ost-7bad9bee59d3.json",
+      "files": {
+        "lyrics": "tracks/askai-ep-fearless-zenless-zone-zero-ost-7bad9bee59d3.json",
+        "meta": "tracks/askai-ep-fearless-zenless-zone-zero-ost-7bad9bee59d3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/askai-146045411/ep-fearless-zenless-zone-zero",
+      "mtimeMs": 1784637027667,
       "has_haptics": true,
       "haptics_version": 4
     }

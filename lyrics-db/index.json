@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T15:34:06.839734+00:00",
-  "totalTracks": 2,
+  "generatedAt": "2026-07-22T15:44:07.770042+00:00",
+  "totalTracks": 3,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -38,6 +38,23 @@
       "mtimeMs": 1784734447449,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "owlordie::dengi (prod. viramaina)": {
+      "title": "DENGI (prod. Viramaina)",
+      "artist": "OWLORDIE",
+      "originalTrackName": "OWLORDIE - DENGI (prod. Viramaina)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000252150275-nfdle0-original.jpg",
+      "file": "tracks/owlordie-dengi-prod-viramaina-1b421b810282.json",
+      "files": {
+        "lyrics": "tracks/owlordie-dengi-prod-viramaina-1b421b810282.json",
+        "meta": "tracks/owlordie-dengi-prod-viramaina-1b421b810282.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/owlordie/dengi-prod-viramaina",
+      "mtimeMs": 1784735048218,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -72,6 +89,23 @@
       },
       "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane?in=romaniv666-skater/sets/elrc-chromic-lyrics&si=40fb665dca884e35996203f84556457a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
       "mtimeMs": 1784734447449,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "DENGI (prod. Viramaina)",
+      "artist": "OWLORDIE",
+      "originalTrackName": "OWLORDIE - DENGI (prod. Viramaina)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000252150275-nfdle0-original.jpg",
+      "file": "tracks/owlordie-dengi-prod-viramaina-1b421b810282.json",
+      "files": {
+        "lyrics": "tracks/owlordie-dengi-prod-viramaina-1b421b810282.json",
+        "meta": "tracks/owlordie-dengi-prod-viramaina-1b421b810282.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/owlordie/dengi-prod-viramaina",
+      "mtimeMs": 1784735048218,
       "has_haptics": true,
       "haptics_version": 4
     }

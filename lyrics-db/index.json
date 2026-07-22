@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T15:44:07.770042+00:00",
-  "totalTracks": 3,
+  "generatedAt": "2026-07-22T15:44:59.338865+00:00",
+  "totalTracks": 4,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -55,6 +55,23 @@
       "mtimeMs": 1784735048218,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "lil peep::runninoutoftime (r.o.o.t) (ft. p2goldma$k)": {
+      "title": "RunninOutOfTime (R.O.O.T) (ft. P2GOLDMA$K)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - RunninOutOfTime (R.O.O.T) (ft. P2GOLDMA$K)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000234261011-uknopl-original.jpg",
+      "file": "tracks/lil-peep-runninoutoftime-r-o-o-t-ft-p2goldma-k-aa752efc73c9.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-runninoutoftime-r-o-o-t-ft-p2goldma-k-aa752efc73c9.json",
+        "meta": "tracks/lil-peep-runninoutoftime-r-o-o-t-ft-p2goldma-k-aa752efc73c9.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/harry-berrisford/runninoutoftime-r-o-o-t-ft",
+      "mtimeMs": 1784735100174,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -106,6 +123,23 @@
       },
       "sourcePath": "https://soundcloud.com/owlordie/dengi-prod-viramaina",
       "mtimeMs": 1784735048218,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "RunninOutOfTime (R.O.O.T) (ft. P2GOLDMA$K)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - RunninOutOfTime (R.O.O.T) (ft. P2GOLDMA$K)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000234261011-uknopl-original.jpg",
+      "file": "tracks/lil-peep-runninoutoftime-r-o-o-t-ft-p2goldma-k-aa752efc73c9.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-runninoutoftime-r-o-o-t-ft-p2goldma-k-aa752efc73c9.json",
+        "meta": "tracks/lil-peep-runninoutoftime-r-o-o-t-ft-p2goldma-k-aa752efc73c9.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/harry-berrisford/runninoutoftime-r-o-o-t-ft",
+      "mtimeMs": 1784735100174,
       "has_haptics": true,
       "haptics_version": 4
     }

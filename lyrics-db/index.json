@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T11:05:03.528613+00:00",
-  "totalTracks": 889,
+  "generatedAt": "2026-07-23T11:13:31.857380+00:00",
+  "totalTracks": 890,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -15210,6 +15210,23 @@
       "mtimeMs": 1784804622237,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "screwedcrew::brennan savage - existential feat. killstation \\choppeddascrewed by dirtyxanax/": {
+      "title": "Brennan Savage - Existential Feat. Killstation \\ChoppedDaScrewed by dirtyxanax/",
+      "artist": "ScrewedCrew",
+      "originalTrackName": "ScrewedCrew - Brennan Savage - Existential Feat. Killstation \\ChoppedDaScrewed by dirtyxanax/",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000344246928-vyyc4j-original.jpg",
+      "file": "tracks/screwedcrew-brennan-savage-existential-feat-killstation-choppeddascrew-729dd58ccfe3.json",
+      "files": {
+        "lyrics": "tracks/screwedcrew-brennan-savage-existential-feat-killstation-choppeddascrew-729dd58ccfe3.json",
+        "meta": "tracks/screwedcrew-brennan-savage-existential-feat-killstation-choppeddascrew-729dd58ccfe3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/screwedcrew/brennan-savage-existential-feat-killstation-choppeddascrewed-by-anarchyboy",
+      "mtimeMs": 1784805211856,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -30418,6 +30435,23 @@
       "mtimeMs": 1784804622237,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Brennan Savage - Existential Feat. Killstation \\ChoppedDaScrewed by dirtyxanax/",
+      "artist": "ScrewedCrew",
+      "originalTrackName": "ScrewedCrew - Brennan Savage - Existential Feat. Killstation \\ChoppedDaScrewed by dirtyxanax/",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000344246928-vyyc4j-original.jpg",
+      "file": "tracks/screwedcrew-brennan-savage-existential-feat-killstation-choppeddascrew-729dd58ccfe3.json",
+      "files": {
+        "lyrics": "tracks/screwedcrew-brennan-savage-existential-feat-killstation-choppeddascrew-729dd58ccfe3.json",
+        "meta": "tracks/screwedcrew-brennan-savage-existential-feat-killstation-choppeddascrew-729dd58ccfe3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/screwedcrew/brennan-savage-existential-feat-killstation-choppeddascrewed-by-anarchyboy",
+      "mtimeMs": 1784805211856,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

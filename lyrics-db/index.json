@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T17:31:30.540832+00:00",
-  "totalTracks": 15,
+  "generatedAt": "2026-07-24T17:31:41.944343+00:00",
+  "totalTracks": 16,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -259,6 +259,23 @@
       "mtimeMs": 1784914290540,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "kizaru::kizaru x geekey - 3'6(master.by garrysun)": {
+      "title": "KIZARU x GEEKEY - 3'6(Master.by Garrysun)",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - KIZARU x GEEKEY - 3'6(Master.by Garrysun)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000125851458-hblz9b-original.jpg",
+      "file": "tracks/kizaru-kizaru-x-geekey-3-6-master-by-garrysun-0e3343955ea7.json",
+      "files": {
+        "lyrics": "tracks/kizaru-kizaru-x-geekey-3-6-master-by-garrysun-0e3343955ea7.json",
+        "meta": "tracks/kizaru-kizaru-x-geekey-3-6-master-by-garrysun-0e3343955ea7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-geekey-36masterby-garrysun",
+      "mtimeMs": 1784914302499,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -516,6 +533,23 @@
       "mtimeMs": 1784914290540,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "KIZARU x GEEKEY - 3'6(Master.by Garrysun)",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - KIZARU x GEEKEY - 3'6(Master.by Garrysun)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000125851458-hblz9b-original.jpg",
+      "file": "tracks/kizaru-kizaru-x-geekey-3-6-master-by-garrysun-0e3343955ea7.json",
+      "files": {
+        "lyrics": "tracks/kizaru-kizaru-x-geekey-3-6-master-by-garrysun-0e3343955ea7.json",
+        "meta": "tracks/kizaru-kizaru-x-geekey-3-6-master-by-garrysun-0e3343955ea7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-geekey-36masterby-garrysun",
+      "mtimeMs": 1784914302499,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

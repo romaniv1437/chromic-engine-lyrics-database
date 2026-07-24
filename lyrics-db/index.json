@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T17:31:02.709243+00:00",
-  "totalTracks": 13,
+  "generatedAt": "2026-07-24T17:31:14.449807+00:00",
+  "totalTracks": 14,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -225,6 +225,23 @@
       "mtimeMs": 1784914263311,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "kizaru::kizaru & bmb - ровный криминал (feat. tot cuba)": {
+      "title": "KIZARU & BMB - Ровный Криминал (feat. TOT Cuba)",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - KIZARU & BMB - Ровный Криминал (feat. TOT Cuba)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000298348866-obhluh-original.jpg",
+      "file": "tracks/kizaru-kizaru-bmb-feat-tot-cuba-82293a86612c.json",
+      "files": {
+        "lyrics": "tracks/kizaru-kizaru-bmb-feat-tot-cuba-82293a86612c.json",
+        "meta": "tracks/kizaru-kizaru-bmb-feat-tot-cuba-82293a86612c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u-2/kizaru-bmb-rovnyy-kriminal-feat-tot-cuba",
+      "mtimeMs": 1784914274817,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -446,6 +463,23 @@
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/6-yvn-kee-x-tot-cuba-do-six",
       "mtimeMs": 1784914263311,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "KIZARU & BMB - Ровный Криминал (feat. TOT Cuba)",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - KIZARU & BMB - Ровный Криминал (feat. TOT Cuba)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000298348866-obhluh-original.jpg",
+      "file": "tracks/kizaru-kizaru-bmb-feat-tot-cuba-82293a86612c.json",
+      "files": {
+        "lyrics": "tracks/kizaru-kizaru-bmb-feat-tot-cuba-82293a86612c.json",
+        "meta": "tracks/kizaru-kizaru-bmb-feat-tot-cuba-82293a86612c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u-2/kizaru-bmb-rovnyy-kriminal-feat-tot-cuba",
+      "mtimeMs": 1784914274817,
       "has_haptics": true,
       "haptics_version": 4
     }

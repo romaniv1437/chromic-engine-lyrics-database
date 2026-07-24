@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T17:48:31.252835+00:00",
-  "totalTracks": 22,
+  "generatedAt": "2026-07-24T17:59:01.763737+00:00",
+  "totalTracks": 23,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -378,6 +378,23 @@
       "mtimeMs": 1784915311252,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "lyoha  berezin::yvnkxx - юго - западный экспресс": {
+      "title": "YVNKXX - Юго - Западный Экспресс",
+      "artist": "Lyoha  Berezin",
+      "originalTrackName": "Lyoha  Berezin - YVNKXX - Юго - Западный Экспресс",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/avatars-000425637081-bbn9ew-original.jpg",
+      "file": "tracks/lyoha-berezin-yvnkxx-469efa2f0a91.json",
+      "files": {
+        "lyrics": "tracks/lyoha-berezin-yvnkxx-469efa2f0a91.json",
+        "meta": "tracks/lyoha-berezin-yvnkxx-469efa2f0a91.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lyoha-berezin/yvnkxx-yugo-zapadnyy-ekspress",
+      "mtimeMs": 1784915942159,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -754,6 +771,23 @@
       "mtimeMs": 1784915311252,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "YVNKXX - Юго - Западный Экспресс",
+      "artist": "Lyoha  Berezin",
+      "originalTrackName": "Lyoha  Berezin - YVNKXX - Юго - Западный Экспресс",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/avatars-000425637081-bbn9ew-original.jpg",
+      "file": "tracks/lyoha-berezin-yvnkxx-469efa2f0a91.json",
+      "files": {
+        "lyrics": "tracks/lyoha-berezin-yvnkxx-469efa2f0a91.json",
+        "meta": "tracks/lyoha-berezin-yvnkxx-469efa2f0a91.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lyoha-berezin/yvnkxx-yugo-zapadnyy-ekspress",
+      "mtimeMs": 1784915942159,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

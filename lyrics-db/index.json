@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T17:19:53.444389+00:00",
+  "generatedAt": "2026-07-24T17:19:59.444772+00:00",
   "totalTracks": 10,
   "roots": [
     "lyrics-db/tracks"
@@ -141,23 +141,6 @@
       "has_haptics": true,
       "haptics_version": 4
     },
-    "kizaru::kizaru x tixbeats - hip hop estet": {
-      "title": "KIZARU x TIXBEATS - HIP HOP ESTET",
-      "artist": "KIZARU",
-      "originalTrackName": "KIZARU - KIZARU x TIXBEATS - HIP HOP ESTET",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000141192069-b9ehqg-original.jpg",
-      "file": "tracks/kizaru-kizaru-x-tixbeats-hip-hop-estet-5f8dfb061645.json",
-      "files": {
-        "lyrics": "tracks/kizaru-kizaru-x-tixbeats-hip-hop-estet-5f8dfb061645.json",
-        "meta": "tracks/kizaru-kizaru-x-tixbeats-hip-hop-estet-5f8dfb061645.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-tixbeats-hip-hop-estet",
-      "mtimeMs": 1784913588540,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
     "ac1dz::shame - mitski": {
       "title": "Shame - Mitski",
       "artist": "ac1dz",
@@ -174,6 +157,23 @@
       "mtimeMs": 1784913594066,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "kizaru::kizaru x tixbeats - hip hop estet": {
+      "title": "KIZARU x TIXBEATS - HIP HOP ESTET",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - KIZARU x TIXBEATS - HIP HOP ESTET",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000141192069-b9ehqg-original.jpg",
+      "file": "tracks/kizaru-kizaru-x-tixbeats-hip-hop-estet-5f8dfb061645.json",
+      "files": {
+        "lyrics": "tracks/kizaru-kizaru-x-tixbeats-hip-hop-estet-5f8dfb061645.json",
+        "meta": "tracks/kizaru-kizaru-x-tixbeats-hip-hop-estet-5f8dfb061645.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-tixbeats-hip-hop-estet",
+      "mtimeMs": 1784913599444,
+      "has_haptics": false,
+      "haptics_version": null
     }
   },
   "tracks": [
@@ -314,23 +314,6 @@
       "haptics_version": 4
     },
     {
-      "title": "KIZARU x TIXBEATS - HIP HOP ESTET",
-      "artist": "KIZARU",
-      "originalTrackName": "KIZARU - KIZARU x TIXBEATS - HIP HOP ESTET",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000141192069-b9ehqg-original.jpg",
-      "file": "tracks/kizaru-kizaru-x-tixbeats-hip-hop-estet-5f8dfb061645.json",
-      "files": {
-        "lyrics": "tracks/kizaru-kizaru-x-tixbeats-hip-hop-estet-5f8dfb061645.json",
-        "meta": "tracks/kizaru-kizaru-x-tixbeats-hip-hop-estet-5f8dfb061645.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-tixbeats-hip-hop-estet",
-      "mtimeMs": 1784913588540,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
-    {
       "title": "Shame - Mitski",
       "artist": "ac1dz",
       "originalTrackName": "ac1dz - Shame - Mitski",
@@ -346,6 +329,23 @@
       "mtimeMs": 1784913594066,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    {
+      "title": "KIZARU x TIXBEATS - HIP HOP ESTET",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - KIZARU x TIXBEATS - HIP HOP ESTET",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000141192069-b9ehqg-original.jpg",
+      "file": "tracks/kizaru-kizaru-x-tixbeats-hip-hop-estet-5f8dfb061645.json",
+      "files": {
+        "lyrics": "tracks/kizaru-kizaru-x-tixbeats-hip-hop-estet-5f8dfb061645.json",
+        "meta": "tracks/kizaru-kizaru-x-tixbeats-hip-hop-estet-5f8dfb061645.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-tixbeats-hip-hop-estet",
+      "mtimeMs": 1784913599444,
+      "has_haptics": false,
+      "haptics_version": null
     }
   ]
 }

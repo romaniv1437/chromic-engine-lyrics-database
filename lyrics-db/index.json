@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T14:00:41.632418+00:00",
-  "totalTracks": 8,
+  "generatedAt": "2026-07-24T17:19:48.067393+00:00",
+  "totalTracks": 9,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -140,6 +140,23 @@
       "mtimeMs": 1784901642249,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "kizaru::kizaru x tixbeats - hip hop estet": {
+      "title": "KIZARU x TIXBEATS - HIP HOP ESTET",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - KIZARU x TIXBEATS - HIP HOP ESTET",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000141192069-b9ehqg-original.jpg",
+      "file": "tracks/kizaru-kizaru-x-tixbeats-hip-hop-estet-5f8dfb061645.json",
+      "files": {
+        "lyrics": "tracks/kizaru-kizaru-x-tixbeats-hip-hop-estet-5f8dfb061645.json",
+        "meta": "tracks/kizaru-kizaru-x-tixbeats-hip-hop-estet-5f8dfb061645.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-tixbeats-hip-hop-estet",
+      "mtimeMs": 1784913588540,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -276,6 +293,23 @@
       },
       "sourcePath": "https://soundcloud.com/beartrapsound/idfc2",
       "mtimeMs": 1784901642249,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "KIZARU x TIXBEATS - HIP HOP ESTET",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - KIZARU x TIXBEATS - HIP HOP ESTET",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000141192069-b9ehqg-original.jpg",
+      "file": "tracks/kizaru-kizaru-x-tixbeats-hip-hop-estet-5f8dfb061645.json",
+      "files": {
+        "lyrics": "tracks/kizaru-kizaru-x-tixbeats-hip-hop-estet-5f8dfb061645.json",
+        "meta": "tracks/kizaru-kizaru-x-tixbeats-hip-hop-estet-5f8dfb061645.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-tixbeats-hip-hop-estet",
+      "mtimeMs": 1784913588540,
       "has_haptics": true,
       "haptics_version": 4
     }

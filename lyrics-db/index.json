@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T13:45:44.029198+00:00",
-  "totalTracks": 6,
+  "generatedAt": "2026-07-24T13:50:27.791660+00:00",
+  "totalTracks": 7,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -106,6 +106,23 @@
       "mtimeMs": 1784900744029,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "chase atlantic::swim": {
+      "title": "Swim",
+      "artist": "Chase Atlantic",
+      "originalTrackName": "Chase Atlantic - Swim",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000245604849-c3xnw2-original.jpg",
+      "file": "tracks/chase-atlantic-swim-48f098bd8d7a.json",
+      "files": {
+        "lyrics": "tracks/chase-atlantic-swim-48f098bd8d7a.json",
+        "meta": "tracks/chase-atlantic-swim-48f098bd8d7a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/chaseatlantic/swim-2",
+      "mtimeMs": 1784901028699,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -210,6 +227,23 @@
       "mtimeMs": 1784900744029,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Swim",
+      "artist": "Chase Atlantic",
+      "originalTrackName": "Chase Atlantic - Swim",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000245604849-c3xnw2-original.jpg",
+      "file": "tracks/chase-atlantic-swim-48f098bd8d7a.json",
+      "files": {
+        "lyrics": "tracks/chase-atlantic-swim-48f098bd8d7a.json",
+        "meta": "tracks/chase-atlantic-swim-48f098bd8d7a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/chaseatlantic/swim-2",
+      "mtimeMs": 1784901028699,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

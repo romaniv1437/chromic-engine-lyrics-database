@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T17:32:10.618107+00:00",
-  "totalTracks": 18,
+  "generatedAt": "2026-07-24T17:32:12.959668+00:00",
+  "totalTracks": 19,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -310,6 +310,23 @@
       "mtimeMs": 1784914330618,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "kizaru::9.yvn kxx x tot cuba - 1$dollar (bonus track prod.by wndrk)": {
+      "title": "9.YVN KXX x Tot Cuba - 1$dollar (BONUS TRACK Prod.by WNDRK)",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - 9.YVN KXX x Tot Cuba - 1$dollar (BONUS TRACK Prod.by WNDRK)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000061452305-n4l7dy-original.jpg",
+      "file": "tracks/kizaru-9-yvn-kxx-x-tot-cuba-1-dollar-bonus-track-prod-by-wndrk-abc73ed80727.json",
+      "files": {
+        "lyrics": "tracks/kizaru-9-yvn-kxx-x-tot-cuba-1-dollar-bonus-track-prod-by-wndrk-abc73ed80727.json",
+        "meta": "tracks/kizaru-9-yvn-kxx-x-tot-cuba-1-dollar-bonus-track-prod-by-wndrk-abc73ed80727.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/9-yvn-kee-x-tot-cuba-1-dollar",
+      "mtimeMs": 1784914333406,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -618,6 +635,23 @@
       "mtimeMs": 1784914330618,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "9.YVN KXX x Tot Cuba - 1$dollar (BONUS TRACK Prod.by WNDRK)",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - 9.YVN KXX x Tot Cuba - 1$dollar (BONUS TRACK Prod.by WNDRK)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000061452305-n4l7dy-original.jpg",
+      "file": "tracks/kizaru-9-yvn-kxx-x-tot-cuba-1-dollar-bonus-track-prod-by-wndrk-abc73ed80727.json",
+      "files": {
+        "lyrics": "tracks/kizaru-9-yvn-kxx-x-tot-cuba-1-dollar-bonus-track-prod-by-wndrk-abc73ed80727.json",
+        "meta": "tracks/kizaru-9-yvn-kxx-x-tot-cuba-1-dollar-bonus-track-prod-by-wndrk-abc73ed80727.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/9-yvn-kee-x-tot-cuba-1-dollar",
+      "mtimeMs": 1784914333406,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

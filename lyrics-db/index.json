@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T13:50:27.791660+00:00",
+  "generatedAt": "2026-07-24T13:50:42.537459+00:00",
   "totalTracks": 7,
   "roots": [
     "lyrics-db/tracks"
@@ -120,9 +120,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/chaseatlantic/swim-2",
-      "mtimeMs": 1784901028699,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1784901042537,
+      "has_haptics": false,
+      "haptics_version": null
     }
   },
   "tracks": [
@@ -241,9 +241,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/chaseatlantic/swim-2",
-      "mtimeMs": 1784901028699,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1784901042537,
+      "has_haptics": false,
+      "haptics_version": null
     }
   ]
 }

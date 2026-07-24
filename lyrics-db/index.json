@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T17:31:20.158859+00:00",
-  "totalTracks": 15,
+  "generatedAt": "2026-07-24T17:31:26.172646+00:00",
+  "totalTracks": 14,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -222,9 +222,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/6-yvn-kee-x-tot-cuba-do-six",
-      "mtimeMs": 1784914263311,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1784914278826,
+      "has_haptics": false,
+      "haptics_version": null
     },
     "kizaru::kizaru & bmb - ровный криминал (feat. tot cuba)": {
       "title": "KIZARU & BMB - Ровный Криминал (feat. TOT Cuba)",
@@ -239,26 +239,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u-2/kizaru-bmb-rovnyy-kriminal-feat-tot-cuba",
-      "mtimeMs": 1784914274817,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
-    "kizaru::5.demirra_profit x yvn kxx - mir perepolnen": {
-      "title": "5.Demirra_Profit x YVN KXX - Mir Perepolnen",
-      "artist": "KIZARU",
-      "originalTrackName": "KIZARU - 5.Demirra_Profit x YVN KXX - Mir Perepolnen",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000061453358-ruj6e6-original.jpg",
-      "file": "tracks/kizaru-5-demirra-profit-x-yvn-kxx-mir-perepolnen-78c85fc5be69.json",
-      "files": {
-        "lyrics": "tracks/kizaru-5-demirra-profit-x-yvn-kxx-mir-perepolnen-78c85fc5be69.json",
-        "meta": "tracks/kizaru-5-demirra-profit-x-yvn-kxx-mir-perepolnen-78c85fc5be69.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/5-demirra_profit-x-yvn-kee-mir",
-      "mtimeMs": 1784914280858,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1784914286172,
+      "has_haptics": false,
+      "haptics_version": null
     }
   },
   "tracks": [
@@ -479,9 +462,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/6-yvn-kee-x-tot-cuba-do-six",
-      "mtimeMs": 1784914263311,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1784914278826,
+      "has_haptics": false,
+      "haptics_version": null
     },
     {
       "title": "KIZARU & BMB - Ровный Криминал (feat. TOT Cuba)",
@@ -496,26 +479,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u-2/kizaru-bmb-rovnyy-kriminal-feat-tot-cuba",
-      "mtimeMs": 1784914274817,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
-    {
-      "title": "5.Demirra_Profit x YVN KXX - Mir Perepolnen",
-      "artist": "KIZARU",
-      "originalTrackName": "KIZARU - 5.Demirra_Profit x YVN KXX - Mir Perepolnen",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000061453358-ruj6e6-original.jpg",
-      "file": "tracks/kizaru-5-demirra-profit-x-yvn-kxx-mir-perepolnen-78c85fc5be69.json",
-      "files": {
-        "lyrics": "tracks/kizaru-5-demirra-profit-x-yvn-kxx-mir-perepolnen-78c85fc5be69.json",
-        "meta": "tracks/kizaru-5-demirra-profit-x-yvn-kxx-mir-perepolnen-78c85fc5be69.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/5-demirra_profit-x-yvn-kee-mir",
-      "mtimeMs": 1784914280858,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1784914286172,
+      "has_haptics": false,
+      "haptics_version": null
     }
   ]
 }

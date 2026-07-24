@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T12:43:21.662689+00:00",
-  "totalTracks": 2,
+  "generatedAt": "2026-07-24T12:52:59.049252+00:00",
+  "totalTracks": 3,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -38,6 +38,23 @@
       "mtimeMs": 1784897002065,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "nicoteen ninyo::why am i ok": {
+      "title": "why am i ok",
+      "artist": "nicoteen ninyo",
+      "originalTrackName": "nicoteen ninyo - why am i ok",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-dEe0EumJ8YQt9wTK-wssuYw-original.jpg",
+      "file": "tracks/nicoteen-ninyo-why-am-i-ok-e82942553e58.json",
+      "files": {
+        "lyrics": "tracks/nicoteen-ninyo-why-am-i-ok-e82942553e58.json",
+        "meta": "tracks/nicoteen-ninyo-why-am-i-ok-e82942553e58.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/nicoteenninyo/why-am-i-ok",
+      "mtimeMs": 1784897579590,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -72,6 +89,23 @@
       },
       "sourcePath": "https://soundcloud.com/zinkairi/pathetic-societyslowed",
       "mtimeMs": 1784897002065,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "why am i ok",
+      "artist": "nicoteen ninyo",
+      "originalTrackName": "nicoteen ninyo - why am i ok",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-dEe0EumJ8YQt9wTK-wssuYw-original.jpg",
+      "file": "tracks/nicoteen-ninyo-why-am-i-ok-e82942553e58.json",
+      "files": {
+        "lyrics": "tracks/nicoteen-ninyo-why-am-i-ok-e82942553e58.json",
+        "meta": "tracks/nicoteen-ninyo-why-am-i-ok-e82942553e58.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/nicoteenninyo/why-am-i-ok",
+      "mtimeMs": 1784897579590,
       "has_haptics": true,
       "haptics_version": 4
     }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T17:31:57.389107+00:00",
+  "generatedAt": "2026-07-24T17:32:07.300764+00:00",
   "totalTracks": 18,
   "roots": [
     "lyrics-db/tracks"
@@ -277,23 +277,6 @@
       "has_haptics": true,
       "haptics_version": 4
     },
-    "kizaru::yvn kxx x 13m13 - pust' etot mir": {
-      "title": "YVN KXX x 13M13 - PUST' ETOT MIR",
-      "artist": "KIZARU",
-      "originalTrackName": "KIZARU - YVN KXX x 13M13 - PUST' ETOT MIR",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000080883839-a0faot-original.jpg",
-      "file": "tracks/kizaru-yvn-kxx-x-13m13-pust-etot-mir-ab9bb66120ee.json",
-      "files": {
-        "lyrics": "tracks/kizaru-yvn-kxx-x-13m13-pust-etot-mir-ab9bb66120ee.json",
-        "meta": "tracks/kizaru-yvn-kxx-x-13m13-pust-etot-mir-ab9bb66120ee.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/yvn-kxx-x-13m13",
-      "mtimeMs": 1784914314018,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
     "offmi::сын морей": {
       "title": "сын морей",
       "artist": "OFFMi",
@@ -310,6 +293,23 @@
       "mtimeMs": 1784914318001,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "kizaru::yvn kxx x 13m13 - pust' etot mir": {
+      "title": "YVN KXX x 13M13 - PUST' ETOT MIR",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - YVN KXX x 13M13 - PUST' ETOT MIR",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000080883839-a0faot-original.jpg",
+      "file": "tracks/kizaru-yvn-kxx-x-13m13-pust-etot-mir-ab9bb66120ee.json",
+      "files": {
+        "lyrics": "tracks/kizaru-yvn-kxx-x-13m13-pust-etot-mir-ab9bb66120ee.json",
+        "meta": "tracks/kizaru-yvn-kxx-x-13m13-pust-etot-mir-ab9bb66120ee.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/yvn-kxx-x-13m13",
+      "mtimeMs": 1784914327300,
+      "has_haptics": false,
+      "haptics_version": null
     }
   },
   "tracks": [
@@ -586,23 +586,6 @@
       "haptics_version": 4
     },
     {
-      "title": "YVN KXX x 13M13 - PUST' ETOT MIR",
-      "artist": "KIZARU",
-      "originalTrackName": "KIZARU - YVN KXX x 13M13 - PUST' ETOT MIR",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000080883839-a0faot-original.jpg",
-      "file": "tracks/kizaru-yvn-kxx-x-13m13-pust-etot-mir-ab9bb66120ee.json",
-      "files": {
-        "lyrics": "tracks/kizaru-yvn-kxx-x-13m13-pust-etot-mir-ab9bb66120ee.json",
-        "meta": "tracks/kizaru-yvn-kxx-x-13m13-pust-etot-mir-ab9bb66120ee.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/yvn-kxx-x-13m13",
-      "mtimeMs": 1784914314018,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
-    {
       "title": "сын морей",
       "artist": "OFFMi",
       "originalTrackName": "OFFMi - сын морей",
@@ -618,6 +601,23 @@
       "mtimeMs": 1784914318001,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    {
+      "title": "YVN KXX x 13M13 - PUST' ETOT MIR",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - YVN KXX x 13M13 - PUST' ETOT MIR",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000080883839-a0faot-original.jpg",
+      "file": "tracks/kizaru-yvn-kxx-x-13m13-pust-etot-mir-ab9bb66120ee.json",
+      "files": {
+        "lyrics": "tracks/kizaru-yvn-kxx-x-13m13-pust-etot-mir-ab9bb66120ee.json",
+        "meta": "tracks/kizaru-yvn-kxx-x-13m13-pust-etot-mir-ab9bb66120ee.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/yvn-kxx-x-13m13",
+      "mtimeMs": 1784914327300,
+      "has_haptics": false,
+      "haptics_version": null
     }
   ]
 }

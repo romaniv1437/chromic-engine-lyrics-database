@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T17:23:07.455893+00:00",
-  "totalTracks": 11,
+  "generatedAt": "2026-07-24T17:30:38.816155+00:00",
+  "totalTracks": 12,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -191,6 +191,23 @@
       "mtimeMs": 1784913787455,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "kizaru::yvn kxx, tndxtrb - s drugoi planetbi": {
+      "title": "YVN KXX, TNDXTRB - S DRUGOI PLANETbI",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - YVN KXX, TNDXTRB - S DRUGOI PLANETbI",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000072384007-4s2do1-original.jpg",
+      "file": "tracks/kizaru-yvn-kxx-tndxtrb-s-drugoi-planetbi-4e57cdfb17f4.json",
+      "files": {
+        "lyrics": "tracks/kizaru-yvn-kxx-tndxtrb-s-drugoi-planetbi-4e57cdfb17f4.json",
+        "meta": "tracks/kizaru-yvn-kxx-tndxtrb-s-drugoi-planetbi-4e57cdfb17f4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/yvn-kxx-tndxtrb-s-drugoi",
+      "mtimeMs": 1784914239729,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -380,6 +397,23 @@
       "mtimeMs": 1784913787455,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "YVN KXX, TNDXTRB - S DRUGOI PLANETbI",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - YVN KXX, TNDXTRB - S DRUGOI PLANETbI",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000072384007-4s2do1-original.jpg",
+      "file": "tracks/kizaru-yvn-kxx-tndxtrb-s-drugoi-planetbi-4e57cdfb17f4.json",
+      "files": {
+        "lyrics": "tracks/kizaru-yvn-kxx-tndxtrb-s-drugoi-planetbi-4e57cdfb17f4.json",
+        "meta": "tracks/kizaru-yvn-kxx-tndxtrb-s-drugoi-planetbi-4e57cdfb17f4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/yvn-kxx-tndxtrb-s-drugoi",
+      "mtimeMs": 1784914239729,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

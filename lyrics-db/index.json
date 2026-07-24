@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T17:30:54.349018+00:00",
-  "totalTracks": 12,
+  "generatedAt": "2026-07-24T17:31:02.709243+00:00",
+  "totalTracks": 13,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -208,6 +208,23 @@
       "mtimeMs": 1784914254348,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "kizaru::6.yvn kxx x tot cuba - do six por": {
+      "title": "6.YVN KXX x Tot Cuba - Do Six Por",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - 6.YVN KXX x Tot Cuba - Do Six Por",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000061453205-ph4qpc-original.jpg",
+      "file": "tracks/kizaru-6-yvn-kxx-x-tot-cuba-do-six-por-25020c228106.json",
+      "files": {
+        "lyrics": "tracks/kizaru-6-yvn-kxx-x-tot-cuba-do-six-por-25020c228106.json",
+        "meta": "tracks/kizaru-6-yvn-kxx-x-tot-cuba-do-six-por-25020c228106.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/6-yvn-kee-x-tot-cuba-do-six",
+      "mtimeMs": 1784914263311,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -414,6 +431,23 @@
       "mtimeMs": 1784914254348,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "6.YVN KXX x Tot Cuba - Do Six Por",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - 6.YVN KXX x Tot Cuba - Do Six Por",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000061453205-ph4qpc-original.jpg",
+      "file": "tracks/kizaru-6-yvn-kxx-x-tot-cuba-do-six-por-25020c228106.json",
+      "files": {
+        "lyrics": "tracks/kizaru-6-yvn-kxx-x-tot-cuba-do-six-por-25020c228106.json",
+        "meta": "tracks/kizaru-6-yvn-kxx-x-tot-cuba-do-six-por-25020c228106.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/6-yvn-kee-x-tot-cuba-do-six",
+      "mtimeMs": 1784914263311,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

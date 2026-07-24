@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T12:22:40.970613+00:00",
-  "totalTracks": 1,
+  "generatedAt": "2026-07-24T12:43:21.662689+00:00",
+  "totalTracks": 2,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -21,6 +21,23 @@
       "mtimeMs": 1784895760970,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "zinkairi::pathetic - society(slowed)": {
+      "title": "Pathetic - Society(slowed)",
+      "artist": "ZINKAIRI",
+      "originalTrackName": "ZINKAIRI - Pathetic - Society(slowed)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-asQM3xe2ADEIh5Wq-nm5LVQ-original.jpg",
+      "file": "tracks/zinkairi-pathetic-society-slowed-4eae1fb6d3d5.json",
+      "files": {
+        "lyrics": "tracks/zinkairi-pathetic-society-slowed-4eae1fb6d3d5.json",
+        "meta": "tracks/zinkairi-pathetic-society-slowed-4eae1fb6d3d5.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/zinkairi/pathetic-societyslowed",
+      "mtimeMs": 1784897002065,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -40,6 +57,23 @@
       "mtimeMs": 1784895760970,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Pathetic - Society(slowed)",
+      "artist": "ZINKAIRI",
+      "originalTrackName": "ZINKAIRI - Pathetic - Society(slowed)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-asQM3xe2ADEIh5Wq-nm5LVQ-original.jpg",
+      "file": "tracks/zinkairi-pathetic-society-slowed-4eae1fb6d3d5.json",
+      "files": {
+        "lyrics": "tracks/zinkairi-pathetic-society-slowed-4eae1fb6d3d5.json",
+        "meta": "tracks/zinkairi-pathetic-society-slowed-4eae1fb6d3d5.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/zinkairi/pathetic-societyslowed",
+      "mtimeMs": 1784897002065,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

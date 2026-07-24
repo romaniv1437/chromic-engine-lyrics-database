@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T17:31:14.449807+00:00",
+  "generatedAt": "2026-07-24T17:31:18.826570+00:00",
   "totalTracks": 14,
   "roots": [
     "lyrics-db/tracks"
@@ -209,23 +209,6 @@
       "has_haptics": false,
       "haptics_version": null
     },
-    "kizaru::6.yvn kxx x tot cuba - do six por": {
-      "title": "6.YVN KXX x Tot Cuba - Do Six Por",
-      "artist": "KIZARU",
-      "originalTrackName": "KIZARU - 6.YVN KXX x Tot Cuba - Do Six Por",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000061453205-ph4qpc-original.jpg",
-      "file": "tracks/kizaru-6-yvn-kxx-x-tot-cuba-do-six-por-25020c228106.json",
-      "files": {
-        "lyrics": "tracks/kizaru-6-yvn-kxx-x-tot-cuba-do-six-por-25020c228106.json",
-        "meta": "tracks/kizaru-6-yvn-kxx-x-tot-cuba-do-six-por-25020c228106.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/6-yvn-kee-x-tot-cuba-do-six",
-      "mtimeMs": 1784914263311,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
     "kizaru::kizaru & bmb - ровный криминал (feat. tot cuba)": {
       "title": "KIZARU & BMB - Ровный Криминал (feat. TOT Cuba)",
       "artist": "KIZARU",
@@ -242,6 +225,23 @@
       "mtimeMs": 1784914274817,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "kizaru::6.yvn kxx x tot cuba - do six por": {
+      "title": "6.YVN KXX x Tot Cuba - Do Six Por",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - 6.YVN KXX x Tot Cuba - Do Six Por",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000061453205-ph4qpc-original.jpg",
+      "file": "tracks/kizaru-6-yvn-kxx-x-tot-cuba-do-six-por-25020c228106.json",
+      "files": {
+        "lyrics": "tracks/kizaru-6-yvn-kxx-x-tot-cuba-do-six-por-25020c228106.json",
+        "meta": "tracks/kizaru-6-yvn-kxx-x-tot-cuba-do-six-por-25020c228106.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/6-yvn-kee-x-tot-cuba-do-six",
+      "mtimeMs": 1784914278826,
+      "has_haptics": false,
+      "haptics_version": null
     }
   },
   "tracks": [
@@ -450,23 +450,6 @@
       "haptics_version": null
     },
     {
-      "title": "6.YVN KXX x Tot Cuba - Do Six Por",
-      "artist": "KIZARU",
-      "originalTrackName": "KIZARU - 6.YVN KXX x Tot Cuba - Do Six Por",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000061453205-ph4qpc-original.jpg",
-      "file": "tracks/kizaru-6-yvn-kxx-x-tot-cuba-do-six-por-25020c228106.json",
-      "files": {
-        "lyrics": "tracks/kizaru-6-yvn-kxx-x-tot-cuba-do-six-por-25020c228106.json",
-        "meta": "tracks/kizaru-6-yvn-kxx-x-tot-cuba-do-six-por-25020c228106.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/6-yvn-kee-x-tot-cuba-do-six",
-      "mtimeMs": 1784914263311,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
-    {
       "title": "KIZARU & BMB - Ровный Криминал (feat. TOT Cuba)",
       "artist": "KIZARU",
       "originalTrackName": "KIZARU - KIZARU & BMB - Ровный Криминал (feat. TOT Cuba)",
@@ -482,6 +465,23 @@
       "mtimeMs": 1784914274817,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    {
+      "title": "6.YVN KXX x Tot Cuba - Do Six Por",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - 6.YVN KXX x Tot Cuba - Do Six Por",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000061453205-ph4qpc-original.jpg",
+      "file": "tracks/kizaru-6-yvn-kxx-x-tot-cuba-do-six-por-25020c228106.json",
+      "files": {
+        "lyrics": "tracks/kizaru-6-yvn-kxx-x-tot-cuba-do-six-por-25020c228106.json",
+        "meta": "tracks/kizaru-6-yvn-kxx-x-tot-cuba-do-six-por-25020c228106.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/6-yvn-kee-x-tot-cuba-do-six",
+      "mtimeMs": 1784914278826,
+      "has_haptics": false,
+      "haptics_version": null
     }
   ]
 }

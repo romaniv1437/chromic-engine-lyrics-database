@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T17:33:39.046660+00:00",
-  "totalTracks": 21,
+  "generatedAt": "2026-07-24T17:48:13.937030+00:00",
+  "totalTracks": 22,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -361,6 +361,23 @@
       "mtimeMs": 1784914419838,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "kizaru::yvn kxx x phvntxm - delau kak nado (mastered by gvrdibeat)": {
+      "title": "YVN KXX x PHVNTXM - DELAU KAK NADO (Mastered By GVRDIBEAT)",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - YVN KXX x PHVNTXM - DELAU KAK NADO (Mastered By GVRDIBEAT)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000079056379-i14512-original.jpg",
+      "file": "tracks/kizaru-yvn-kxx-x-phvntxm-delau-kak-nado-mastered-by-gvrdibeat-24575a5f85e6.json",
+      "files": {
+        "lyrics": "tracks/kizaru-yvn-kxx-x-phvntxm-delau-kak-nado-mastered-by-gvrdibeat-24575a5f85e6.json",
+        "meta": "tracks/kizaru-yvn-kxx-x-phvntxm-delau-kak-nado-mastered-by-gvrdibeat-24575a5f85e6.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/delau-kak-nado-mastered-by",
+      "mtimeMs": 1784915294711,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -718,6 +735,23 @@
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/2-yvn-kee-x-tot-cuba-ne-skazka",
       "mtimeMs": 1784914419838,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "YVN KXX x PHVNTXM - DELAU KAK NADO (Mastered By GVRDIBEAT)",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - YVN KXX x PHVNTXM - DELAU KAK NADO (Mastered By GVRDIBEAT)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000079056379-i14512-original.jpg",
+      "file": "tracks/kizaru-yvn-kxx-x-phvntxm-delau-kak-nado-mastered-by-gvrdibeat-24575a5f85e6.json",
+      "files": {
+        "lyrics": "tracks/kizaru-yvn-kxx-x-phvntxm-delau-kak-nado-mastered-by-gvrdibeat-24575a5f85e6.json",
+        "meta": "tracks/kizaru-yvn-kxx-x-phvntxm-delau-kak-nado-mastered-by-gvrdibeat-24575a5f85e6.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/delau-kak-nado-mastered-by",
+      "mtimeMs": 1784915294711,
       "has_haptics": true,
       "haptics_version": 4
     }

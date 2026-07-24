@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T17:32:21.934924+00:00",
-  "totalTracks": 19,
+  "generatedAt": "2026-07-24T17:32:28.935741+00:00",
+  "totalTracks": 20,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -327,6 +327,23 @@
       "mtimeMs": 1784914341934,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "kizaru::yvn kxx x anton ak - ostrov socrovish": {
+      "title": "YVN KXX x Anton AK - Ostrov Socrovish",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - YVN KXX x Anton AK - Ostrov Socrovish",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000074349344-gne7nk-original.jpg",
+      "file": "tracks/kizaru-yvn-kxx-x-anton-ak-ostrov-socrovish-0401f6d2fc52.json",
+      "files": {
+        "lyrics": "tracks/kizaru-yvn-kxx-x-anton-ak-ostrov-socrovish-0401f6d2fc52.json",
+        "meta": "tracks/kizaru-yvn-kxx-x-anton-ak-ostrov-socrovish-0401f6d2fc52.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/yvn-kxx-x-anton-ak",
+      "mtimeMs": 1784914349351,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -652,6 +669,23 @@
       "mtimeMs": 1784914341934,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "YVN KXX x Anton AK - Ostrov Socrovish",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - YVN KXX x Anton AK - Ostrov Socrovish",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000074349344-gne7nk-original.jpg",
+      "file": "tracks/kizaru-yvn-kxx-x-anton-ak-ostrov-socrovish-0401f6d2fc52.json",
+      "files": {
+        "lyrics": "tracks/kizaru-yvn-kxx-x-anton-ak-ostrov-socrovish-0401f6d2fc52.json",
+        "meta": "tracks/kizaru-yvn-kxx-x-anton-ak-ostrov-socrovish-0401f6d2fc52.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/yvn-kxx-x-anton-ak",
+      "mtimeMs": 1784914349351,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

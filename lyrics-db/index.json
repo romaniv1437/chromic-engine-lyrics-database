@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T12:59:51.842294+00:00",
-  "totalTracks": 4,
+  "generatedAt": "2026-07-24T13:33:55.099983+00:00",
+  "totalTracks": 5,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -72,6 +72,23 @@
       "mtimeMs": 1784897991842,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "ann from country::yan kee - день сурка (2012)": {
+      "title": "YAN KEE - ДЕНЬ СУРКА (2012)",
+      "artist": "Ann From country",
+      "originalTrackName": "Ann From country - YAN KEE - ДЕНЬ СУРКА (2012)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-ylML7VSr9lSazwDz-p8yhQA-original.jpg",
+      "file": "tracks/ann-from-country-yan-kee-2012-a49eb773bc41.json",
+      "files": {
+        "lyrics": "tracks/ann-from-country-yan-kee-2012-a49eb773bc41.json",
+        "meta": "tracks/ann-from-country-yan-kee-2012-a49eb773bc41.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ann-from-country/yan-kee-den-surka-2012",
+      "mtimeMs": 1784900035796,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -142,6 +159,23 @@
       "mtimeMs": 1784897991842,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "YAN KEE - ДЕНЬ СУРКА (2012)",
+      "artist": "Ann From country",
+      "originalTrackName": "Ann From country - YAN KEE - ДЕНЬ СУРКА (2012)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-ylML7VSr9lSazwDz-p8yhQA-original.jpg",
+      "file": "tracks/ann-from-country-yan-kee-2012-a49eb773bc41.json",
+      "files": {
+        "lyrics": "tracks/ann-from-country-yan-kee-2012-a49eb773bc41.json",
+        "meta": "tracks/ann-from-country-yan-kee-2012-a49eb773bc41.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ann-from-country/yan-kee-den-surka-2012",
+      "mtimeMs": 1784900035796,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T12:53:11.105663+00:00",
-  "totalTracks": 3,
+  "generatedAt": "2026-07-24T12:59:41.003610+00:00",
+  "totalTracks": 4,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -55,6 +55,23 @@
       "mtimeMs": 1784897591105,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "teamsesh::bones - deadboy": {
+      "title": "Bones - DeadBoy",
+      "artist": "TeamSESH",
+      "originalTrackName": "TeamSESH - Bones - DeadBoy",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000075337350-g85x27-original.jpg",
+      "file": "tracks/teamsesh-bones-deadboy-bd3bb5d4049b.json",
+      "files": {
+        "lyrics": "tracks/teamsesh-bones-deadboy-bd3bb5d4049b.json",
+        "meta": "tracks/teamsesh-bones-deadboy-bd3bb5d4049b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/teamsesh/deadboy",
+      "mtimeMs": 1784897981713,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -108,6 +125,23 @@
       "mtimeMs": 1784897591105,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Bones - DeadBoy",
+      "artist": "TeamSESH",
+      "originalTrackName": "TeamSESH - Bones - DeadBoy",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000075337350-g85x27-original.jpg",
+      "file": "tracks/teamsesh-bones-deadboy-bd3bb5d4049b.json",
+      "files": {
+        "lyrics": "tracks/teamsesh-bones-deadboy-bd3bb5d4049b.json",
+        "meta": "tracks/teamsesh-bones-deadboy-bd3bb5d4049b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/teamsesh/deadboy",
+      "mtimeMs": 1784897981713,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

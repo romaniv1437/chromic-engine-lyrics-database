@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T17:32:37.378711+00:00",
-  "totalTracks": 20,
+  "generatedAt": "2026-07-24T17:33:39.046660+00:00",
+  "totalTracks": 21,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -344,6 +344,23 @@
       "mtimeMs": 1784914357378,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "kizaru::2.yvn kxx x tot cuba - ne skazka": {
+      "title": "2.YVN KXX x Tot Cuba - Ne Skazka",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - 2.YVN KXX x Tot Cuba - Ne Skazka",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000061454047-klx9yz-original.jpg",
+      "file": "tracks/kizaru-2-yvn-kxx-x-tot-cuba-ne-skazka-15381f0455ca.json",
+      "files": {
+        "lyrics": "tracks/kizaru-2-yvn-kxx-x-tot-cuba-ne-skazka-15381f0455ca.json",
+        "meta": "tracks/kizaru-2-yvn-kxx-x-tot-cuba-ne-skazka-15381f0455ca.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/2-yvn-kee-x-tot-cuba-ne-skazka",
+      "mtimeMs": 1784914419838,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -686,6 +703,23 @@
       "mtimeMs": 1784914357378,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "2.YVN KXX x Tot Cuba - Ne Skazka",
+      "artist": "KIZARU",
+      "originalTrackName": "KIZARU - 2.YVN KXX x Tot Cuba - Ne Skazka",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000061454047-klx9yz-original.jpg",
+      "file": "tracks/kizaru-2-yvn-kxx-x-tot-cuba-ne-skazka-15381f0455ca.json",
+      "files": {
+        "lyrics": "tracks/kizaru-2-yvn-kxx-x-tot-cuba-ne-skazka-15381f0455ca.json",
+        "meta": "tracks/kizaru-2-yvn-kxx-x-tot-cuba-ne-skazka-15381f0455ca.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/2-yvn-kee-x-tot-cuba-ne-skazka",
+      "mtimeMs": 1784914419838,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T13:50:42.537459+00:00",
-  "totalTracks": 7,
+  "generatedAt": "2026-07-24T14:00:41.632418+00:00",
+  "totalTracks": 8,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -123,6 +123,23 @@
       "mtimeMs": 1784901042537,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "blackbear::idfc": {
+      "title": "idfc",
+      "artist": "Blackbear",
+      "originalTrackName": "Blackbear - idfc",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000106814577-rxaod1-original.png",
+      "file": "tracks/blackbear-idfc-dcc345f39ac6.json",
+      "files": {
+        "lyrics": "tracks/blackbear-idfc-dcc345f39ac6.json",
+        "meta": "tracks/blackbear-idfc-dcc345f39ac6.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/beartrapsound/idfc2",
+      "mtimeMs": 1784901642249,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -244,6 +261,23 @@
       "mtimeMs": 1784901042537,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "idfc",
+      "artist": "Blackbear",
+      "originalTrackName": "Blackbear - idfc",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000106814577-rxaod1-original.png",
+      "file": "tracks/blackbear-idfc-dcc345f39ac6.json",
+      "files": {
+        "lyrics": "tracks/blackbear-idfc-dcc345f39ac6.json",
+        "meta": "tracks/blackbear-idfc-dcc345f39ac6.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/beartrapsound/idfc2",
+      "mtimeMs": 1784901642249,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

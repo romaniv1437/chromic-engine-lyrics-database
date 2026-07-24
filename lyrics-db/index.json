@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T17:19:48.067393+00:00",
-  "totalTracks": 9,
+  "generatedAt": "2026-07-24T17:19:53.444389+00:00",
+  "totalTracks": 10,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -157,6 +157,23 @@
       "mtimeMs": 1784913588540,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "ac1dz::shame - mitski": {
+      "title": "Shame - Mitski",
+      "artist": "ac1dz",
+      "originalTrackName": "ac1dz - Shame - Mitski",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-TigujeTnNVXrHBHM-6dx4Dg-original.jpg",
+      "file": "tracks/ac1dz-shame-mitski-dadc16c06a48.json",
+      "files": {
+        "lyrics": "tracks/ac1dz-shame-mitski-dadc16c06a48.json",
+        "meta": "tracks/ac1dz-shame-mitski-dadc16c06a48.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-902210106/shame-mitski",
+      "mtimeMs": 1784913594066,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -310,6 +327,23 @@
       },
       "sourcePath": "https://soundcloud.com/k-i-z-a-r-u/kizaru-x-tixbeats-hip-hop-estet",
       "mtimeMs": 1784913588540,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Shame - Mitski",
+      "artist": "ac1dz",
+      "originalTrackName": "ac1dz - Shame - Mitski",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-TigujeTnNVXrHBHM-6dx4Dg-original.jpg",
+      "file": "tracks/ac1dz-shame-mitski-dadc16c06a48.json",
+      "files": {
+        "lyrics": "tracks/ac1dz-shame-mitski-dadc16c06a48.json",
+        "meta": "tracks/ac1dz-shame-mitski-dadc16c06a48.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-902210106/shame-mitski",
+      "mtimeMs": 1784913594066,
       "has_haptics": true,
       "haptics_version": 4
     }

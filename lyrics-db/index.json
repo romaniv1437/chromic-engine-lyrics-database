@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-25T01:12:31.393151+00:00",
-  "totalTracks": 25,
+  "generatedAt": "2026-07-25T01:12:40.967497+00:00",
+  "totalTracks": 26,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -429,6 +429,23 @@
       "mtimeMs": 1784941952088,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "boolymon::osamason - thorns": {
+      "title": "osamason - thorns",
+      "artist": "Boolymon",
+      "originalTrackName": "Boolymon - osamason - thorns",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-BmZ8DCjyzHaJI2NK-aczgAw-original.jpg",
+      "file": "tracks/boolymon-osamason-thorns-2967166c1d1f.json",
+      "files": {
+        "lyrics": "tracks/boolymon-osamason-thorns-2967166c1d1f.json",
+        "meta": "tracks/boolymon-osamason-thorns-2967166c1d1f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/boolymon/osamason-thorns",
+      "mtimeMs": 1784941961556,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -854,6 +871,23 @@
       },
       "sourcePath": "https://soundcloud.com/nocturnal00/osamason-hitman-prod-gyro",
       "mtimeMs": 1784941952088,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "osamason - thorns",
+      "artist": "Boolymon",
+      "originalTrackName": "Boolymon - osamason - thorns",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-BmZ8DCjyzHaJI2NK-aczgAw-original.jpg",
+      "file": "tracks/boolymon-osamason-thorns-2967166c1d1f.json",
+      "files": {
+        "lyrics": "tracks/boolymon-osamason-thorns-2967166c1d1f.json",
+        "meta": "tracks/boolymon-osamason-thorns-2967166c1d1f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/boolymon/osamason-thorns",
+      "mtimeMs": 1784941961556,
       "has_haptics": true,
       "haptics_version": 4
     }

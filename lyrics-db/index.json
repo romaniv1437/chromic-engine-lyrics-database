@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T17:59:15.980289+00:00",
-  "totalTracks": 23,
+  "generatedAt": "2026-07-25T01:11:03.683055+00:00",
+  "totalTracks": 24,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -395,6 +395,23 @@
       "mtimeMs": 1784915955980,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "hldmyhnd::cdg² - destroy lonely": {
+      "title": "cdg² - destroy lonely",
+      "artist": "Hldmyhnd",
+      "originalTrackName": "Hldmyhnd - cdg² - destroy lonely",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-SYgpy1KPo1mbEcwD-kAcsWQ-original.jpg",
+      "file": "tracks/hldmyhnd-cdg-destroy-lonely-392837c66cfa.json",
+      "files": {
+        "lyrics": "tracks/hldmyhnd-cdg-destroy-lonely-392837c66cfa.json",
+        "meta": "tracks/hldmyhnd-cdg-destroy-lonely-392837c66cfa.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/hldmyhndd/cdg-destroy-lonely",
+      "mtimeMs": 1784941864454,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -788,6 +805,23 @@
       "mtimeMs": 1784915955980,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "cdg² - destroy lonely",
+      "artist": "Hldmyhnd",
+      "originalTrackName": "Hldmyhnd - cdg² - destroy lonely",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-SYgpy1KPo1mbEcwD-kAcsWQ-original.jpg",
+      "file": "tracks/hldmyhnd-cdg-destroy-lonely-392837c66cfa.json",
+      "files": {
+        "lyrics": "tracks/hldmyhnd-cdg-destroy-lonely-392837c66cfa.json",
+        "meta": "tracks/hldmyhnd-cdg-destroy-lonely-392837c66cfa.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/hldmyhndd/cdg-destroy-lonely",
+      "mtimeMs": 1784941864454,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

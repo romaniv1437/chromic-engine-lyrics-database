@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-25T01:11:03.683055+00:00",
-  "totalTracks": 24,
+  "generatedAt": "2026-07-25T01:12:31.393151+00:00",
+  "totalTracks": 25,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -412,6 +412,23 @@
       "mtimeMs": 1784941864454,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "nocturnal::osamason - hitman": {
+      "title": "osamason - hitman",
+      "artist": "nocturnal",
+      "originalTrackName": "nocturnal - osamason - hitman",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-FzPcegnuXOsbVMst-1ympXA-original.png",
+      "file": "tracks/nocturnal-osamason-hitman-12553dd5a6e9.json",
+      "files": {
+        "lyrics": "tracks/nocturnal-osamason-hitman-12553dd5a6e9.json",
+        "meta": "tracks/nocturnal-osamason-hitman-12553dd5a6e9.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/nocturnal00/osamason-hitman-prod-gyro",
+      "mtimeMs": 1784941952088,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -820,6 +837,23 @@
       },
       "sourcePath": "https://soundcloud.com/hldmyhndd/cdg-destroy-lonely",
       "mtimeMs": 1784941864454,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "osamason - hitman",
+      "artist": "nocturnal",
+      "originalTrackName": "nocturnal - osamason - hitman",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-FzPcegnuXOsbVMst-1ympXA-original.png",
+      "file": "tracks/nocturnal-osamason-hitman-12553dd5a6e9.json",
+      "files": {
+        "lyrics": "tracks/nocturnal-osamason-hitman-12553dd5a6e9.json",
+        "meta": "tracks/nocturnal-osamason-hitman-12553dd5a6e9.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/nocturnal00/osamason-hitman-prod-gyro",
+      "mtimeMs": 1784941952088,
       "has_haptics": true,
       "haptics_version": 4
     }

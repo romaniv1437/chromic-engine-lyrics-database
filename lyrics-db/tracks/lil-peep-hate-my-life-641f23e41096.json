@@ -1,0 +1,746 @@
+{
+  "source": "guided-whisper",
+  "meta": {
+    "track_title": "hate my life",
+    "artist": "Lil Peep",
+    "lyrics_source": "lrclib_plain",
+    "line_timestamps_source": "guided-whisper",
+    "has_annotations": false,
+    "singers": [
+      {
+        "id": "singer1",
+        "role": "lead",
+        "name": "Lil Peep"
+      }
+    ],
+    "quality": {
+      "score": 0.695,
+      "label": "medium",
+      "timing_confidence": 0.5,
+      "anchor_audio_coverage": 0.889,
+      "lines": 8,
+      "vocal_cues": 1,
+      "words": 44,
+      "interpolated_words": 22,
+      "low_confidence_segments": 3,
+      "text_verified": true
+    },
+    "credits": {
+      "aligner_version": "2.0.0",
+      "generated_at": "2026-07-28T15:54:25+00:00",
+      "method": "Whisper supplies word-level timing; a verified official-lyrics anchor supplies the text. With no anchor the text is pure Whisper ASR.",
+      "language": "en",
+      "lyrics_text": {
+        "source": "lrclib_plain",
+        "verified": true,
+        "anchor_used": true,
+        "anchor_rejected_wrong_song": false,
+        "providers": [
+          {
+            "name": "Genius",
+            "url": "https://genius.com",
+            "tried": true,
+            "hit": false
+          },
+          {
+            "name": "LRCLIB",
+            "url": "https://lrclib.net",
+            "tried": true,
+            "hit": true
+          }
+        ]
+      },
+      "timing": {
+        "engine": "mlx",
+        "library": "mlx-whisper",
+        "asr_model": "openai/whisper",
+        "model_size": "medium",
+        "description": "Apple MLX port of OpenAI Whisper"
+      },
+      "strategy": "guided-whisper",
+      "attribution": [
+        "Synced lyrics from LRCLIB (lrclib.net)",
+        "Word timing by mlx-whisper (Whisper medium)"
+      ]
+    },
+    "blind_recovery": {
+      "stage": "demucs_primary",
+      "trigger": "vocal_separation_flag"
+    }
+  },
+  "lines": [
+    {
+      "type": "vocal_cue",
+      "time": 0.3,
+      "end": 43.84,
+      "text": "●"
+    },
+    {
+      "time": 43.84,
+      "text": "All alone",
+      "words": [
+        {
+          "word": "All",
+          "start": 43.84,
+          "end": 44.84,
+          "char_starts": [
+            43.84,
+            44.146,
+            44.62
+          ]
+        },
+        {
+          "word": "alone",
+          "start": 44.85,
+          "end": 44.89
+        }
+      ]
+    },
+    {
+      "time": 44.9,
+      "text": "I had no one, on my own",
+      "words": [
+        {
+          "word": "I",
+          "start": 44.9,
+          "end": 44.94
+        },
+        {
+          "word": "had",
+          "start": 44.95,
+          "end": 44.99
+        },
+        {
+          "word": "no",
+          "start": 45,
+          "end": 45.04
+        },
+        {
+          "word": "one,",
+          "start": 45.05,
+          "end": 45.09
+        },
+        {
+          "word": "on",
+          "start": 45.1,
+          "end": 45.14
+        },
+        {
+          "word": "my",
+          "start": 45.15,
+          "end": 45.19
+        },
+        {
+          "word": "own",
+          "start": 45.2,
+          "end": 45.24
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 45.25,
+      "text": "Now I'm on my phone, smoking dope",
+      "words": [
+        {
+          "word": "Now",
+          "start": 45.25,
+          "end": 45.29
+        },
+        {
+          "word": "I'm",
+          "start": 45.3,
+          "end": 45.34
+        },
+        {
+          "word": "on",
+          "start": 45.35,
+          "end": 45.39
+        },
+        {
+          "word": "my",
+          "start": 45.4,
+          "end": 45.44
+        },
+        {
+          "word": "phone,",
+          "start": 45.45,
+          "end": 45.49
+        },
+        {
+          "word": "smoking",
+          "start": 45.5,
+          "end": 45.54
+        },
+        {
+          "word": "dope",
+          "start": 45.55,
+          "end": 45.59
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 45.6,
+      "text": "And I hate my fucking life",
+      "words": [
+        {
+          "word": "And",
+          "start": 45.6,
+          "end": 45.64
+        },
+        {
+          "word": "I",
+          "start": 45.65,
+          "end": 45.69
+        },
+        {
+          "word": "hate",
+          "start": 45.7,
+          "end": 45.74
+        },
+        {
+          "word": "my",
+          "start": 45.75,
+          "end": 45.79
+        },
+        {
+          "word": "fucking",
+          "start": 45.8,
+          "end": 45.84
+        },
+        {
+          "word": "life",
+          "start": 45.85,
+          "end": 45.89
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 45.9,
+      "text": "All alone",
+      "words": [
+        {
+          "word": "All",
+          "start": 45.9,
+          "end": 46.082
+        },
+        {
+          "word": "alone",
+          "start": 46.082,
+          "end": 46.386
+        }
+      ]
+    },
+    {
+      "time": 46.44,
+      "text": "I had no one, on my own",
+      "words": [
+        {
+          "word": "I",
+          "start": 46.44,
+          "end": 47
+        },
+        {
+          "word": "had",
+          "start": 47.01,
+          "end": 47.7,
+          "char_starts": [
+            47.01,
+            47.221,
+            47.548
+          ]
+        },
+        {
+          "word": "no",
+          "start": 47.71,
+          "end": 48.56
+        },
+        {
+          "word": "one,",
+          "start": 48.57,
+          "end": 49.4,
+          "char_starts": [
+            48.57,
+            48.717,
+            48.944,
+            49.217
+          ]
+        },
+        {
+          "word": "on",
+          "start": 49.41,
+          "end": 49.8
+        },
+        {
+          "word": "my",
+          "start": 49.81,
+          "end": 50.34
+        },
+        {
+          "word": "own",
+          "start": 50.35,
+          "end": 51.26,
+          "char_starts": [
+            50.35,
+            50.628,
+            51.06
+          ]
+        }
+      ]
+    },
+    {
+      "time": 51.27,
+      "text": "Now I'm on my phone, smoking dope",
+      "words": [
+        {
+          "word": "Now",
+          "start": 51.27,
+          "end": 52.12,
+          "char_starts": [
+            51.27,
+            51.53,
+            51.933
+          ]
+        },
+        {
+          "word": "I'm",
+          "start": 52.13,
+          "end": 52.42
+        },
+        {
+          "word": "on",
+          "start": 52.43,
+          "end": 52.76
+        },
+        {
+          "word": "my",
+          "start": 52.77,
+          "end": 53.16
+        },
+        {
+          "word": "phone,",
+          "start": 53.17,
+          "end": 54.5,
+          "char_starts": [
+            53.17,
+            53.303,
+            53.455,
+            53.635,
+            53.836,
+            54.055
+          ]
+        },
+        {
+          "word": "smoking",
+          "start": 54.82,
+          "end": 55.52,
+          "char_starts": [
+            54.82,
+            54.88,
+            54.954,
+            55.043,
+            55.143,
+            55.252,
+            55.369
+          ]
+        },
+        {
+          "word": "dope",
+          "start": 55.64,
+          "end": 56.04
+        }
+      ]
+    },
+    {
+      "time": 56.05,
+      "text": "And I hate my fucking life",
+      "words": [
+        {
+          "word": "And",
+          "start": 56.05,
+          "end": 56.84,
+          "char_starts": [
+            56.05,
+            56.292,
+            56.666
+          ]
+        },
+        {
+          "word": "I",
+          "start": 56.85,
+          "end": 57.32
+        },
+        {
+          "word": "hate",
+          "start": 57.33,
+          "end": 57.74
+        },
+        {
+          "word": "my",
+          "start": 57.75,
+          "end": 57.8
+        },
+        {
+          "word": "fucking",
+          "start": 57.81,
+          "end": 58.26
+        },
+        {
+          "word": "life",
+          "start": 58.27,
+          "end": 60.52,
+          "char_starts": [
+            58.27,
+            58.608,
+            59.105,
+            59.773
+          ]
+        }
+      ]
+    }
+  ],
+  "annotations": {},
+  "raw_whisper": [
+    {
+      "text": "I  had  no  one,  on  my  own",
+      "start": 23.88,
+      "end": 29.86,
+      "words": [
+        {
+          "word": "I",
+          "start": 23.88,
+          "end": 25.28
+        },
+        {
+          "word": "had",
+          "start": 25.28,
+          "end": 26.58
+        },
+        {
+          "word": "no",
+          "start": 26.58,
+          "end": 27.68
+        },
+        {
+          "word": "one,",
+          "start": 27.68,
+          "end": 28.76
+        },
+        {
+          "word": "on",
+          "start": 29.64,
+          "end": 29.82
+        },
+        {
+          "word": "my",
+          "start": 29.82,
+          "end": 29.86
+        },
+        {
+          "word": "own",
+          "start": 29.86,
+          "end": 29.86
+        }
+      ]
+    },
+    {
+      "text": "Now  I'm  on  my  phone,  smokin'  dope",
+      "start": 29.86,
+      "end": 34.92,
+      "words": [
+        {
+          "word": "Now",
+          "start": 29.86,
+          "end": 30.74
+        },
+        {
+          "word": "I'm",
+          "start": 30.74,
+          "end": 31.14
+        },
+        {
+          "word": "on",
+          "start": 31.14,
+          "end": 31.4
+        },
+        {
+          "word": "my",
+          "start": 31.4,
+          "end": 31.88
+        },
+        {
+          "word": "phone,",
+          "start": 31.88,
+          "end": 33.16
+        },
+        {
+          "word": "smokin'",
+          "start": 33.66,
+          "end": 34.3
+        },
+        {
+          "word": "dope",
+          "start": 34.42,
+          "end": 34.92
+        }
+      ]
+    },
+    {
+      "text": "And  I  hate  my  fuckin'  life",
+      "start": 34.92,
+      "end": 39.72,
+      "words": [
+        {
+          "word": "And",
+          "start": 34.92,
+          "end": 35.5
+        },
+        {
+          "word": "I",
+          "start": 35.5,
+          "end": 35.88
+        },
+        {
+          "word": "hate",
+          "start": 35.88,
+          "end": 36.02
+        },
+        {
+          "word": "my",
+          "start": 36.02,
+          "end": 36.52
+        },
+        {
+          "word": "fuckin'",
+          "start": 36.52,
+          "end": 36.94
+        },
+        {
+          "word": "life",
+          "start": 39.38,
+          "end": 39.72
+        }
+      ]
+    },
+    {
+      "text": "All  along,  I  had  no  one  on  my  own",
+      "start": 43.84,
+      "end": 51.26,
+      "words": [
+        {
+          "word": "All",
+          "start": 43.84,
+          "end": 44.84
+        },
+        {
+          "word": "along,",
+          "start": 44.84,
+          "end": 45.84
+        },
+        {
+          "word": "I",
+          "start": 46.44,
+          "end": 47
+        },
+        {
+          "word": "had",
+          "start": 47,
+          "end": 47.7
+        },
+        {
+          "word": "no",
+          "start": 47.7,
+          "end": 48.56
+        },
+        {
+          "word": "one",
+          "start": 48.56,
+          "end": 49.4
+        },
+        {
+          "word": "on",
+          "start": 49.4,
+          "end": 49.8
+        },
+        {
+          "word": "my",
+          "start": 49.8,
+          "end": 50.34
+        },
+        {
+          "word": "own",
+          "start": 50.34,
+          "end": 51.26
+        }
+      ]
+    },
+    {
+      "text": "Now  I'm  on  my  phone,  smokin'  dope",
+      "start": 51.26,
+      "end": 56.04,
+      "words": [
+        {
+          "word": "Now",
+          "start": 51.26,
+          "end": 52.12
+        },
+        {
+          "word": "I'm",
+          "start": 52.12,
+          "end": 52.42
+        },
+        {
+          "word": "on",
+          "start": 52.42,
+          "end": 52.76
+        },
+        {
+          "word": "my",
+          "start": 52.76,
+          "end": 53.16
+        },
+        {
+          "word": "phone,",
+          "start": 53.16,
+          "end": 54.5
+        },
+        {
+          "word": "smokin'",
+          "start": 54.82,
+          "end": 55.52
+        },
+        {
+          "word": "dope",
+          "start": 55.64,
+          "end": 56.04
+        }
+      ]
+    },
+    {
+      "text": "And  I  ain't  my  fucking  life",
+      "start": 56.04,
+      "end": 60.52,
+      "words": [
+        {
+          "word": "And",
+          "start": 56.04,
+          "end": 56.84
+        },
+        {
+          "word": "I",
+          "start": 56.84,
+          "end": 57.32
+        },
+        {
+          "word": "ain't",
+          "start": 57.32,
+          "end": 57.74
+        },
+        {
+          "word": "my",
+          "start": 57.74,
+          "end": 57.8
+        },
+        {
+          "word": "fucking",
+          "start": 57.8,
+          "end": 58.26
+        },
+        {
+          "word": "life",
+          "start": 58.26,
+          "end": 60.52
+        }
+      ]
+    }
+  ],
+  "reference_text": [
+    {
+      "text": "All alone",
+      "words": [
+        "All",
+        "alone"
+      ]
+    },
+    {
+      "text": "I had no one, on my own",
+      "words": [
+        "I",
+        "had",
+        "no",
+        "one,",
+        "on",
+        "my",
+        "own"
+      ]
+    },
+    {
+      "text": "Now I'm on my phone, smoking dope",
+      "words": [
+        "Now",
+        "I'm",
+        "on",
+        "my",
+        "phone,",
+        "smoking",
+        "dope"
+      ]
+    },
+    {
+      "text": "And I hate my fucking life",
+      "words": [
+        "And",
+        "I",
+        "hate",
+        "my",
+        "fucking",
+        "life"
+      ]
+    },
+    {
+      "text": "All alone",
+      "words": [
+        "All",
+        "alone"
+      ]
+    },
+    {
+      "text": "I had no one, on my own",
+      "words": [
+        "I",
+        "had",
+        "no",
+        "one,",
+        "on",
+        "my",
+        "own"
+      ]
+    },
+    {
+      "text": "Now I'm on my phone, smoking dope",
+      "words": [
+        "Now",
+        "I'm",
+        "on",
+        "my",
+        "phone,",
+        "smoking",
+        "dope"
+      ]
+    },
+    {
+      "text": "And I hate my fucking life",
+      "words": [
+        "And",
+        "I",
+        "hate",
+        "my",
+        "fucking",
+        "life"
+      ]
+    }
+  ],
+  "haptics_sidecar": "283488229.haptics.json"
+}

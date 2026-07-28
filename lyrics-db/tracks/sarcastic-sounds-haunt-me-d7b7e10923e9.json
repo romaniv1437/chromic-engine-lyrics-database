@@ -1,0 +1,659 @@
+{
+  "source": "blind-whisper",
+  "meta": {
+    "track_title": "Haunt Me",
+    "artist": "Sarcastic Sounds",
+    "lyrics_source": "whisper_only",
+    "line_timestamps_source": "blind-whisper",
+    "has_annotations": false,
+    "singers": [
+      {
+        "id": "singer1",
+        "role": "lead",
+        "name": "Sarcastic Sounds"
+      }
+    ],
+    "quality": {
+      "score": 0.7,
+      "label": "medium",
+      "timing_confidence": 1,
+      "anchor_audio_coverage": null,
+      "lines": 8,
+      "vocal_cues": 3,
+      "words": 46,
+      "interpolated_words": 0,
+      "low_confidence_segments": 0,
+      "text_verified": false
+    },
+    "credits": {
+      "aligner_version": "2.0.0",
+      "generated_at": "2026-07-28T15:53:28+00:00",
+      "method": "Whisper supplies word-level timing; a verified official-lyrics anchor supplies the text. With no anchor the text is pure Whisper ASR.",
+      "language": null,
+      "lyrics_text": {
+        "source": "whisper_only",
+        "verified": false,
+        "anchor_used": false,
+        "anchor_rejected_wrong_song": false,
+        "providers": []
+      },
+      "timing": {
+        "engine": "mlx",
+        "library": "mlx-whisper",
+        "asr_model": "openai/whisper",
+        "model_size": "medium",
+        "description": "Apple MLX port of OpenAI Whisper"
+      },
+      "strategy": "blind-whisper",
+      "attribution": [
+        "Lyrics transcribed by OpenAI Whisper (unverified ASR — no official source matched)",
+        "Word timing by mlx-whisper (Whisper medium)"
+      ]
+    },
+    "blind_recovery": {
+      "stage": "demucs_primary",
+      "trigger": "vocal_separation_flag"
+    },
+    "blind_resegment": {
+      "status": "applied",
+      "batches": 2,
+      "applied": 2,
+      "words": 46,
+      "before": 8,
+      "after": 8
+    }
+  },
+  "lines": [
+    {
+      "time": 1.58,
+      "text": "Everything I ever did, I did for her.",
+      "words": [
+        {
+          "word": "Everything",
+          "start": 1.58,
+          "end": 2.16
+        },
+        {
+          "word": "I",
+          "start": 2.16,
+          "end": 2.4,
+          "stretch": true
+        },
+        {
+          "word": "ever",
+          "start": 2.4,
+          "end": 2.76
+        },
+        {
+          "word": "did,",
+          "start": 2.76,
+          "end": 3.06
+        },
+        {
+          "word": "I",
+          "start": 3.48,
+          "end": 3.7,
+          "stretch": true
+        },
+        {
+          "word": "did",
+          "start": 3.7,
+          "end": 3.92
+        },
+        {
+          "word": "for",
+          "start": 3.92,
+          "end": 4.12
+        },
+        {
+          "word": "her.",
+          "start": 4.12,
+          "end": 4.58
+        }
+      ]
+    },
+    {
+      "time": 5.04,
+      "text": "Now she's gone.",
+      "words": [
+        {
+          "word": "Now",
+          "start": 5.04,
+          "end": 5.3
+        },
+        {
+          "word": "she's",
+          "start": 5.3,
+          "end": 5.68
+        },
+        {
+          "word": "gone.",
+          "start": 5.68,
+          "end": 6.1
+        }
+      ]
+    },
+    {
+      "time": 6.98,
+      "text": "But I'm still here.",
+      "words": [
+        {
+          "word": "But",
+          "start": 6.98,
+          "end": 7.26
+        },
+        {
+          "word": "I'm",
+          "start": 7.26,
+          "end": 7.54
+        },
+        {
+          "word": "still",
+          "start": 7.54,
+          "end": 7.84
+        },
+        {
+          "word": "here.",
+          "start": 7.84,
+          "end": 8.5
+        }
+      ]
+    },
+    {
+      "time": 9.68,
+      "text": "What would she think of me now?",
+      "words": [
+        {
+          "word": "What",
+          "start": 9.68,
+          "end": 10.26
+        },
+        {
+          "word": "would",
+          "start": 10.26,
+          "end": 10.44
+        },
+        {
+          "word": "she",
+          "start": 10.44,
+          "end": 10.66
+        },
+        {
+          "word": "think",
+          "start": 10.66,
+          "end": 10.88
+        },
+        {
+          "word": "of",
+          "start": 10.88,
+          "end": 11.06
+        },
+        {
+          "word": "me",
+          "start": 11.06,
+          "end": 11.3
+        },
+        {
+          "word": "now?",
+          "start": 11.3,
+          "end": 11.56
+        }
+      ]
+    },
+    {
+      "type": "vocal_cue",
+      "time": 11.86,
+      "end": 30,
+      "text": "●"
+    },
+    {
+      "time": 30,
+      "text": "I hear you fall asleep",
+      "words": [
+        {
+          "word": "I",
+          "start": 30,
+          "end": 30.78,
+          "stretch": true
+        },
+        {
+          "word": "hear",
+          "start": 30.78,
+          "end": 31.68,
+          "stretch": true
+        },
+        {
+          "word": "you",
+          "start": 31.68,
+          "end": 31.96
+        },
+        {
+          "word": "fall",
+          "start": 31.96,
+          "end": 32.78,
+          "stretch": true
+        },
+        {
+          "word": "asleep",
+          "start": 32.78,
+          "end": 34.26,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "type": "vocal_cue",
+      "time": 34.56,
+      "end": 64.42,
+      "text": "●"
+    },
+    {
+      "time": 64.42,
+      "text": "Every night when you fall asleep",
+      "words": [
+        {
+          "word": "Every",
+          "start": 64.42,
+          "end": 65.82,
+          "stretch": true
+        },
+        {
+          "word": "night",
+          "start": 65.82,
+          "end": 67.22,
+          "stretch": true
+        },
+        {
+          "word": "when",
+          "start": 67.22,
+          "end": 67.8
+        },
+        {
+          "word": "you",
+          "start": 67.8,
+          "end": 68.22
+        },
+        {
+          "word": "fall",
+          "start": 68.22,
+          "end": 68.74
+        },
+        {
+          "word": "asleep",
+          "start": 68.74,
+          "end": 70.44,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 70.44,
+      "text": "I see you like he haunts me",
+      "words": [
+        {
+          "word": "I",
+          "start": 70.44,
+          "end": 71.7,
+          "stretch": true
+        },
+        {
+          "word": "see",
+          "start": 71.7,
+          "end": 72.3,
+          "stretch": true
+        },
+        {
+          "word": "you",
+          "start": 72.3,
+          "end": 73.26,
+          "stretch": true
+        },
+        {
+          "word": "like",
+          "start": 73.26,
+          "end": 74.12,
+          "stretch": true
+        },
+        {
+          "word": "he",
+          "start": 74.12,
+          "end": 74.88,
+          "stretch": true
+        },
+        {
+          "word": "haunts",
+          "start": 74.88,
+          "end": 75.46
+        },
+        {
+          "word": "me",
+          "start": 75.46,
+          "end": 76.26,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 76.84,
+      "text": "Every night when you fall asleep",
+      "words": [
+        {
+          "word": "Every",
+          "start": 76.84,
+          "end": 77.82,
+          "stretch": true
+        },
+        {
+          "word": "night",
+          "start": 77.82,
+          "end": 79.12,
+          "stretch": true
+        },
+        {
+          "word": "when",
+          "start": 79.12,
+          "end": 79.72
+        },
+        {
+          "word": "you",
+          "start": 79.72,
+          "end": 80.22,
+          "stretch": true
+        },
+        {
+          "word": "fall",
+          "start": 80.22,
+          "end": 80.78
+        },
+        {
+          "word": "asleep",
+          "start": 80.78,
+          "end": 82.44,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "type": "vocal_cue",
+      "time": 82.74,
+      "end": 99.102766,
+      "text": "●"
+    }
+  ],
+  "annotations": {},
+  "raw_whisper": [
+    {
+      "text": "Everything  I  ever  did,  I  did  for  her.  Now  she's  gone.  But  I'm  still  here.  What  would",
+      "start": 1.58,
+      "end": 10.44,
+      "words": [
+        {
+          "word": "Everything",
+          "start": 1.58,
+          "end": 2.16
+        },
+        {
+          "word": "I",
+          "start": 2.16,
+          "end": 2.4
+        },
+        {
+          "word": "ever",
+          "start": 2.4,
+          "end": 2.76
+        },
+        {
+          "word": "did,",
+          "start": 2.76,
+          "end": 3.06
+        },
+        {
+          "word": "I",
+          "start": 3.48,
+          "end": 3.7
+        },
+        {
+          "word": "did",
+          "start": 3.7,
+          "end": 3.92
+        },
+        {
+          "word": "for",
+          "start": 3.92,
+          "end": 4.12
+        },
+        {
+          "word": "her.",
+          "start": 4.12,
+          "end": 4.58
+        },
+        {
+          "word": "Now",
+          "start": 5.04,
+          "end": 5.3
+        },
+        {
+          "word": "she's",
+          "start": 5.3,
+          "end": 5.68
+        },
+        {
+          "word": "gone.",
+          "start": 5.68,
+          "end": 6.1
+        },
+        {
+          "word": "But",
+          "start": 6.98,
+          "end": 7.26
+        },
+        {
+          "word": "I'm",
+          "start": 7.26,
+          "end": 7.54
+        },
+        {
+          "word": "still",
+          "start": 7.54,
+          "end": 7.84
+        },
+        {
+          "word": "here.",
+          "start": 7.84,
+          "end": 8.5
+        },
+        {
+          "word": "What",
+          "start": 9.68,
+          "end": 10.26
+        },
+        {
+          "word": "would",
+          "start": 10.26,
+          "end": 10.44
+        }
+      ]
+    },
+    {
+      "text": "she  think  of  me  now?",
+      "start": 10.44,
+      "end": 11.56,
+      "words": [
+        {
+          "word": "she",
+          "start": 10.44,
+          "end": 10.66
+        },
+        {
+          "word": "think",
+          "start": 10.66,
+          "end": 10.88
+        },
+        {
+          "word": "of",
+          "start": 10.88,
+          "end": 11.06
+        },
+        {
+          "word": "me",
+          "start": 11.06,
+          "end": 11.3
+        },
+        {
+          "word": "now?",
+          "start": 11.3,
+          "end": 11.56
+        }
+      ]
+    },
+    {
+      "text": "I  hear  you  fall  asleep",
+      "start": 30,
+      "end": 34.26,
+      "words": [
+        {
+          "word": "I",
+          "start": 30,
+          "end": 30.78
+        },
+        {
+          "word": "hear",
+          "start": 30.78,
+          "end": 31.68
+        },
+        {
+          "word": "you",
+          "start": 31.68,
+          "end": 31.96
+        },
+        {
+          "word": "fall",
+          "start": 31.96,
+          "end": 32.78
+        },
+        {
+          "word": "asleep",
+          "start": 32.78,
+          "end": 34.26
+        }
+      ]
+    },
+    {
+      "text": "Every  night  when  you  fall  asleep",
+      "start": 64.42,
+      "end": 70.44,
+      "words": [
+        {
+          "word": "Every",
+          "start": 64.42,
+          "end": 65.82
+        },
+        {
+          "word": "night",
+          "start": 65.82,
+          "end": 67.22
+        },
+        {
+          "word": "when",
+          "start": 67.22,
+          "end": 67.8
+        },
+        {
+          "word": "you",
+          "start": 67.8,
+          "end": 68.22
+        },
+        {
+          "word": "fall",
+          "start": 68.22,
+          "end": 68.74
+        },
+        {
+          "word": "asleep",
+          "start": 68.74,
+          "end": 70.44
+        }
+      ]
+    },
+    {
+      "text": "I  see  you  like  he  haunts  me",
+      "start": 70.44,
+      "end": 76.26,
+      "words": [
+        {
+          "word": "I",
+          "start": 70.44,
+          "end": 71.7
+        },
+        {
+          "word": "see",
+          "start": 71.7,
+          "end": 72.3
+        },
+        {
+          "word": "you",
+          "start": 72.3,
+          "end": 73.26
+        },
+        {
+          "word": "like",
+          "start": 73.26,
+          "end": 74.12
+        },
+        {
+          "word": "he",
+          "start": 74.12,
+          "end": 74.88
+        },
+        {
+          "word": "haunts",
+          "start": 74.88,
+          "end": 75.46
+        },
+        {
+          "word": "me",
+          "start": 75.46,
+          "end": 76.26
+        }
+      ]
+    },
+    {
+      "text": "Every  night  when  you  fall  asleep",
+      "start": 76.84,
+      "end": 82.44,
+      "words": [
+        {
+          "word": "Every",
+          "start": 76.84,
+          "end": 77.82
+        },
+        {
+          "word": "night",
+          "start": 77.82,
+          "end": 79.12
+        },
+        {
+          "word": "when",
+          "start": 79.12,
+          "end": 79.72
+        },
+        {
+          "word": "you",
+          "start": 79.72,
+          "end": 80.22
+        },
+        {
+          "word": "fall",
+          "start": 80.22,
+          "end": 80.78
+        },
+        {
+          "word": "asleep",
+          "start": 80.78,
+          "end": 82.44
+        }
+      ]
+    }
+  ],
+  "haptics_sidecar": "433834584.haptics.json"
+}

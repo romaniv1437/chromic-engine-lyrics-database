@@ -1,0 +1,68 @@
+{
+  "track_title": "Sunlight On Your Skin",
+  "artist": "Lil Peep",
+  "lyrics_source": "lrclib_plain",
+  "line_timestamps_source": "guided-whisper",
+  "has_annotations": false,
+  "singers": [
+    {
+      "id": "singer1",
+      "role": "lead",
+      "name": "Lil Peep"
+    }
+  ],
+  "quality": {
+    "score": 0.98,
+    "label": "high",
+    "timing_confidence": 1,
+    "anchor_audio_coverage": 0.961,
+    "lines": 33,
+    "vocal_cues": 0,
+    "words": 310,
+    "interpolated_words": 0,
+    "low_confidence_segments": 0,
+    "text_verified": true
+  },
+  "credits": {
+    "aligner_version": "2.0.0",
+    "generated_at": "2026-07-28T15:52:19+00:00",
+    "method": "Whisper supplies word-level timing; a verified official-lyrics anchor supplies the text. With no anchor the text is pure Whisper ASR.",
+    "language": "en",
+    "lyrics_text": {
+      "source": "lrclib_plain",
+      "verified": true,
+      "anchor_used": true,
+      "anchor_rejected_wrong_song": false,
+      "providers": [
+        {
+          "name": "Genius",
+          "url": "https://genius.com",
+          "tried": true,
+          "hit": false
+        },
+        {
+          "name": "LRCLIB",
+          "url": "https://lrclib.net",
+          "tried": true,
+          "hit": true
+        }
+      ]
+    },
+    "timing": {
+      "engine": "mlx",
+      "library": "mlx-whisper",
+      "asr_model": "openai/whisper",
+      "model_size": "medium",
+      "description": "Apple MLX port of OpenAI Whisper"
+    },
+    "strategy": "guided-whisper",
+    "attribution": [
+      "Synced lyrics from LRCLIB (lrclib.net)",
+      "Word timing by mlx-whisper (Whisper medium)"
+    ]
+  },
+  "blind_recovery": {
+    "stage": "demucs_primary",
+    "trigger": "vocal_separation_flag"
+  }
+}

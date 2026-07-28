@@ -1,0 +1,68 @@
+{
+  "track_title": "hate my life",
+  "artist": "Lil Peep",
+  "lyrics_source": "lrclib_plain",
+  "line_timestamps_source": "guided-whisper",
+  "has_annotations": false,
+  "singers": [
+    {
+      "id": "singer1",
+      "role": "lead",
+      "name": "Lil Peep"
+    }
+  ],
+  "quality": {
+    "score": 0.695,
+    "label": "medium",
+    "timing_confidence": 0.5,
+    "anchor_audio_coverage": 0.889,
+    "lines": 8,
+    "vocal_cues": 1,
+    "words": 44,
+    "interpolated_words": 22,
+    "low_confidence_segments": 3,
+    "text_verified": true
+  },
+  "credits": {
+    "aligner_version": "2.0.0",
+    "generated_at": "2026-07-28T15:54:25+00:00",
+    "method": "Whisper supplies word-level timing; a verified official-lyrics anchor supplies the text. With no anchor the text is pure Whisper ASR.",
+    "language": "en",
+    "lyrics_text": {
+      "source": "lrclib_plain",
+      "verified": true,
+      "anchor_used": true,
+      "anchor_rejected_wrong_song": false,
+      "providers": [
+        {
+          "name": "Genius",
+          "url": "https://genius.com",
+          "tried": true,
+          "hit": false
+        },
+        {
+          "name": "LRCLIB",
+          "url": "https://lrclib.net",
+          "tried": true,
+          "hit": true
+        }
+      ]
+    },
+    "timing": {
+      "engine": "mlx",
+      "library": "mlx-whisper",
+      "asr_model": "openai/whisper",
+      "model_size": "medium",
+      "description": "Apple MLX port of OpenAI Whisper"
+    },
+    "strategy": "guided-whisper",
+    "attribution": [
+      "Synced lyrics from LRCLIB (lrclib.net)",
+      "Word timing by mlx-whisper (Whisper medium)"
+    ]
+  },
+  "blind_recovery": {
+    "stage": "demucs_primary",
+    "trigger": "vocal_separation_flag"
+  }
+}

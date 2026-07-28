@@ -19,37 +19,6 @@ lyrics-db/
     └── {trackId}.{type}.json
 ```
 
-### Track IDs
-
-Track IDs follow the format `{slugified-artist}-{slugified-title}-{sha1-hash}`. The SHA1 hash is computed from the normalized artist + title, serving as a collision-safe content identifier.
-
-Example: `kizaru-x-geekey-zabudem-pro-nih-d464cd03791b`
-
-### File Types per Track
-
-Each track can have up to five files, all sharing the same `{trackId}` prefix:
-
-| File                         | Content                                                            |
-| ---------------------------- | ------------------------------------------------------------------ |
-| `{trackId}.json`             | Main lyrics data — words, timestamps, fill state per word          |
-| `{trackId}.meta.json`        | Metadata — sources, alignment run info, stanzas, confidence scores |
-| `{trackId}.annotations.json` | User-facing annotations linked to lyrics lines                     |
-| `{trackId}.haptics.json`     | Haptic feedback events synced to audio/lyrics                      |
-| `{trackId}.{lang}.json`      | Translation into another language (e.g. `{trackId}.uk.json`)       |
-
-### How Tracks Are Added
-
-Tracks are produced by the Chromic Engine lyrics pipeline:
-
-1. **Search & download** — yt-dlp searches for the track and downloads audio
-2. **Lyric source fetch** — Genius or LRCLIB provides reference lyrics
-3. **Forced-alignment** — Whisper (local MLX or cloud Modal/faster-whisper) aligns words to audio timestamps
-4. **Post-processing** — annotation fetch, translation (TranslateGemma), haptic event generation, degenerate-tail trimming
-5. **Export** — all `{trackId}.*.json` files are written to `lyrics-db/tracks/` and `index.json` is updated
-
-See [chromic-engine/lyrics-engine](https://github.com/romaniv1437/chromic-engine) for the pipeline implementation.
-
 ## Related
 
-- [chromic-engine](https://github.com/romaniv1437/chromic-engine) — main application repository
-- [chromic-engine SoundCloud extension](https://github.com/romaniv1437/chromic-engine/tree/main/soundcloud-extension) — runtime that uses this database
+- [chromic-engine SoundCloud extension](https://github.com/romaniv1437/chromic-extension) — runtime that uses this database

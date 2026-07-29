@@ -1,0 +1,2159 @@
+{
+  "source": "guided-whisper",
+  "meta": {
+    "track_title": "Rape Me",
+    "artist": "Nirvana",
+    "lyrics_source": "lrclib_plain",
+    "line_timestamps_source": "guided-whisper",
+    "has_annotations": false,
+    "singers": [
+      {
+        "id": "singer1",
+        "role": "lead",
+        "name": "Nirvana"
+      }
+    ],
+    "quality": {
+      "score": 0.298,
+      "label": "low",
+      "timing_confidence": 0.177,
+      "anchor_audio_coverage": 0.419,
+      "lines": 38,
+      "vocal_cues": 7,
+      "words": 147,
+      "interpolated_words": 121,
+      "low_confidence_segments": 30,
+      "text_verified": true
+    },
+    "credits": {
+      "aligner_version": "2.0.0",
+      "generated_at": "2026-07-29T12:05:05+00:00",
+      "method": "Whisper supplies word-level timing; a verified official-lyrics anchor supplies the text. With no anchor the text is pure Whisper ASR.",
+      "language": "en",
+      "lyrics_text": {
+        "source": "lrclib_plain",
+        "verified": true,
+        "anchor_used": true,
+        "anchor_rejected_wrong_song": false,
+        "providers": [
+          {
+            "name": "Genius",
+            "url": "https://genius.com",
+            "tried": true,
+            "hit": false
+          },
+          {
+            "name": "LRCLIB",
+            "url": "https://lrclib.net",
+            "tried": true,
+            "hit": true
+          }
+        ]
+      },
+      "timing": {
+        "engine": "mlx",
+        "library": "mlx-whisper",
+        "asr_model": "openai/whisper",
+        "model_size": "medium",
+        "description": "Apple MLX port of OpenAI Whisper"
+      },
+      "strategy": "guided-whisper",
+      "attribution": [
+        "Synced lyrics from LRCLIB (lrclib.net)",
+        "Word timing by mlx-whisper (Whisper medium)"
+      ]
+    }
+  },
+  "lines": [
+    {
+      "type": "vocal_cue",
+      "time": 0.3,
+      "end": 10.68,
+      "text": "●"
+    },
+    {
+      "time": 10.68,
+      "text": "Rape me",
+      "words": [
+        {
+          "word": "Rape",
+          "start": 10.68,
+          "end": 12.08,
+          "char_starts": [
+            10.68,
+            10.89,
+            11.2,
+            11.615
+          ]
+        },
+        {
+          "word": "me",
+          "start": 12.09,
+          "end": 13.48,
+          "char_starts": [
+            12.09,
+            12.994
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vocal_cue",
+      "time": 13.78,
+      "end": 18.91,
+      "text": "●"
+    },
+    {
+      "time": 18.91,
+      "text": "Rape me, my friend",
+      "words": [
+        {
+          "word": "Rape",
+          "start": 18.91,
+          "end": 20.96,
+          "char_starts": [
+            18.91,
+            19.218,
+            19.671,
+            20.278
+          ]
+        },
+        {
+          "word": "me,",
+          "start": 20.97,
+          "end": 23.1,
+          "char_starts": [
+            20.97,
+            21.513,
+            22.355
+          ]
+        },
+        {
+          "word": "my",
+          "start": 25.18,
+          "end": 26.6,
+          "char_starts": [
+            25.18,
+            26.103
+          ]
+        },
+        {
+          "word": "friend",
+          "start": 26.61,
+          "end": 26.76
+        }
+      ]
+    },
+    {
+      "type": "vocal_cue",
+      "time": 27.06,
+      "end": 63.01,
+      "text": "●"
+    },
+    {
+      "time": 63.01,
+      "text": "Rape me",
+      "words": [
+        {
+          "word": "Rape",
+          "start": 63.01,
+          "end": 63.265
+        },
+        {
+          "word": "me",
+          "start": 63.275,
+          "end": 63.397
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 63.407,
+      "text": "Rape me again",
+      "words": [
+        {
+          "word": "Rape",
+          "start": 63.407,
+          "end": 63.662
+        },
+        {
+          "word": "me",
+          "start": 63.672,
+          "end": 63.794
+        },
+        {
+          "word": "again",
+          "start": 63.804,
+          "end": 64.125
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 64.135,
+      "text": "I'm not the only one",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 64.135,
+          "end": 64.324
+        },
+        {
+          "word": "not",
+          "start": 64.334,
+          "end": 64.522
+        },
+        {
+          "word": "the",
+          "start": 64.532,
+          "end": 64.721
+        },
+        {
+          "word": "only",
+          "start": 64.731,
+          "end": 64.986
+        },
+        {
+          "word": "one",
+          "start": 64.996,
+          "end": 65.184
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 65.194,
+      "text": "I'm not the only one",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 65.194,
+          "end": 65.383
+        },
+        {
+          "word": "not",
+          "start": 65.393,
+          "end": 65.581
+        },
+        {
+          "word": "the",
+          "start": 65.591,
+          "end": 65.78
+        },
+        {
+          "word": "only",
+          "start": 65.79,
+          "end": 65.89
+        },
+        {
+          "word": "one",
+          "start": 65.9,
+          "end": 67.44,
+          "char_starts": [
+            65.9,
+            66.23,
+            66.901
+          ]
+        }
+      ]
+    },
+    {
+      "time": 67.98,
+      "text": "I'm not the only one",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 67.98,
+          "end": 69.68,
+          "char_starts": [
+            67.98,
+            68.413,
+            69.085
+          ]
+        },
+        {
+          "word": "not",
+          "start": 69.69,
+          "end": 69.73
+        },
+        {
+          "word": "the",
+          "start": 69.74,
+          "end": 69.86
+        },
+        {
+          "word": "only",
+          "start": 69.87,
+          "end": 70.48
+        },
+        {
+          "word": "one",
+          "start": 70.49,
+          "end": 72.14,
+          "char_starts": [
+            70.49,
+            70.844,
+            71.562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vocal_cue",
+      "time": 72.44,
+      "end": 81.8,
+      "text": "●"
+    },
+    {
+      "time": 81.8,
+      "text": "I'm not",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 81.8,
+          "end": 83,
+          "char_starts": [
+            81.8,
+            82.106,
+            82.58
+          ]
+        },
+        {
+          "word": "not",
+          "start": 83.01,
+          "end": 84.5,
+          "char_starts": [
+            83.01,
+            83.39,
+            83.978
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vocal_cue",
+      "time": 84.8,
+      "end": 92.92,
+      "text": "●"
+    },
+    {
+      "time": 92.92,
+      "text": "the only one",
+      "words": [
+        {
+          "word": "the",
+          "start": 92.92,
+          "end": 93.46,
+          "char_starts": [
+            92.92,
+            93.045,
+            93.298
+          ]
+        },
+        {
+          "word": "only",
+          "start": 93.47,
+          "end": 93.62,
+          "char_starts": [
+            93.47,
+            93.504,
+            93.545,
+            93.59
+          ]
+        },
+        {
+          "word": "one",
+          "start": 93.67,
+          "end": 93.82,
+          "char_starts": [
+            93.67,
+            93.718,
+            93.79
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vocal_cue",
+      "time": 94.12,
+      "end": 129.49,
+      "text": "●"
+    },
+    {
+      "time": 129.49,
+      "text": "Hate me",
+      "words": [
+        {
+          "word": "Hate",
+          "start": 129.49,
+          "end": 130.28,
+          "char_starts": [
+            129.49,
+            129.609,
+            129.798,
+            130.052
+          ]
+        },
+        {
+          "word": "me",
+          "start": 130.29,
+          "end": 131.8,
+          "char_starts": [
+            130.29,
+            131.272
+          ]
+        }
+      ]
+    },
+    {
+      "time": 131.81,
+      "text": "Do it, and do it again",
+      "words": [
+        {
+          "word": "Do",
+          "start": 131.81,
+          "end": 131.85
+        },
+        {
+          "word": "it,",
+          "start": 131.86,
+          "end": 131.9
+        },
+        {
+          "word": "and",
+          "start": 131.91,
+          "end": 131.95
+        },
+        {
+          "word": "do",
+          "start": 131.96,
+          "end": 132
+        },
+        {
+          "word": "it",
+          "start": 132.01,
+          "end": 132.05
+        },
+        {
+          "word": "again",
+          "start": 132.06,
+          "end": 132.1
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 132.11,
+      "text": "Waste me",
+      "words": [
+        {
+          "word": "Waste",
+          "start": 132.11,
+          "end": 132.15
+        },
+        {
+          "word": "me",
+          "start": 132.16,
+          "end": 132.2
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 132.21,
+      "text": "Rape me, my friend",
+      "words": [
+        {
+          "word": "Rape",
+          "start": 132.21,
+          "end": 132.25
+        },
+        {
+          "word": "me,",
+          "start": 132.26,
+          "end": 132.3
+        },
+        {
+          "word": "my",
+          "start": 132.31,
+          "end": 132.35
+        },
+        {
+          "word": "friend",
+          "start": 132.36,
+          "end": 132.4
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 132.41,
+      "text": "I'm not the only one",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 132.41,
+          "end": 132.45
+        },
+        {
+          "word": "not",
+          "start": 132.46,
+          "end": 132.5
+        },
+        {
+          "word": "the",
+          "start": 132.51,
+          "end": 132.55
+        },
+        {
+          "word": "only",
+          "start": 132.56,
+          "end": 132.6
+        },
+        {
+          "word": "one",
+          "start": 132.61,
+          "end": 132.65
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 132.66,
+      "text": "I'm not the only one",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 132.66,
+          "end": 132.7
+        },
+        {
+          "word": "not",
+          "start": 132.71,
+          "end": 132.75
+        },
+        {
+          "word": "the",
+          "start": 132.76,
+          "end": 132.8
+        },
+        {
+          "word": "only",
+          "start": 132.81,
+          "end": 132.85
+        },
+        {
+          "word": "one",
+          "start": 132.86,
+          "end": 132.9
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 132.91,
+      "text": "I'm not the only one",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 132.91,
+          "end": 132.95
+        },
+        {
+          "word": "not",
+          "start": 132.96,
+          "end": 133
+        },
+        {
+          "word": "the",
+          "start": 133.01,
+          "end": 133.05
+        },
+        {
+          "word": "only",
+          "start": 133.06,
+          "end": 133.1
+        },
+        {
+          "word": "one",
+          "start": 133.11,
+          "end": 133.15
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 133.16,
+      "text": "I'm not the only one",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 133.16,
+          "end": 133.2
+        },
+        {
+          "word": "not",
+          "start": 133.21,
+          "end": 133.25
+        },
+        {
+          "word": "the",
+          "start": 133.26,
+          "end": 133.3
+        },
+        {
+          "word": "only",
+          "start": 133.31,
+          "end": 133.35
+        },
+        {
+          "word": "one",
+          "start": 133.36,
+          "end": 133.4
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 133.41,
+      "text": "My favorite inside source",
+      "words": [
+        {
+          "word": "My",
+          "start": 133.41,
+          "end": 133.45
+        },
+        {
+          "word": "favorite",
+          "start": 133.46,
+          "end": 133.5
+        },
+        {
+          "word": "inside",
+          "start": 133.51,
+          "end": 133.55
+        },
+        {
+          "word": "source",
+          "start": 133.56,
+          "end": 133.6
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 133.61,
+      "text": "I'll kiss your open sores",
+      "words": [
+        {
+          "word": "I'll",
+          "start": 133.61,
+          "end": 133.65
+        },
+        {
+          "word": "kiss",
+          "start": 133.66,
+          "end": 133.7
+        },
+        {
+          "word": "your",
+          "start": 133.71,
+          "end": 133.75
+        },
+        {
+          "word": "open",
+          "start": 133.76,
+          "end": 133.8
+        },
+        {
+          "word": "sores",
+          "start": 133.81,
+          "end": 133.85
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 133.86,
+      "text": "Appreciate your concern",
+      "words": [
+        {
+          "word": "Appreciate",
+          "start": 133.86,
+          "end": 133.9
+        },
+        {
+          "word": "your",
+          "start": 133.91,
+          "end": 133.95
+        },
+        {
+          "word": "concern",
+          "start": 133.96,
+          "end": 134
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 134.01,
+      "text": "You're gonna stink and burn",
+      "words": [
+        {
+          "word": "You're",
+          "start": 134.01,
+          "end": 134.05
+        },
+        {
+          "word": "gonna",
+          "start": 134.06,
+          "end": 134.1
+        },
+        {
+          "word": "stink",
+          "start": 134.11,
+          "end": 134.15
+        },
+        {
+          "word": "and",
+          "start": 134.16,
+          "end": 134.2
+        },
+        {
+          "word": "burn",
+          "start": 134.21,
+          "end": 134.25
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 134.26,
+      "text": "Rape me",
+      "words": [
+        {
+          "word": "Rape",
+          "start": 134.26,
+          "end": 134.3
+        },
+        {
+          "word": "me",
+          "start": 134.31,
+          "end": 134.35
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 134.36,
+      "text": "Rape me, my friend",
+      "words": [
+        {
+          "word": "Rape",
+          "start": 134.36,
+          "end": 134.4
+        },
+        {
+          "word": "me,",
+          "start": 134.41,
+          "end": 134.45
+        },
+        {
+          "word": "my",
+          "start": 134.46,
+          "end": 134.5
+        },
+        {
+          "word": "friend",
+          "start": 134.51,
+          "end": 134.55
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 134.56,
+      "text": "Rape me",
+      "words": [
+        {
+          "word": "Rape",
+          "start": 134.56,
+          "end": 134.6
+        },
+        {
+          "word": "me",
+          "start": 134.61,
+          "end": 134.65
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 134.66,
+      "text": "Rape me again",
+      "words": [
+        {
+          "word": "Rape",
+          "start": 134.66,
+          "end": 134.7
+        },
+        {
+          "word": "me",
+          "start": 134.71,
+          "end": 134.75
+        },
+        {
+          "word": "again",
+          "start": 134.76,
+          "end": 134.8
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 134.81,
+      "text": "I'm not the only one",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 134.81,
+          "end": 134.85
+        },
+        {
+          "word": "not",
+          "start": 134.86,
+          "end": 134.9
+        },
+        {
+          "word": "the",
+          "start": 134.91,
+          "end": 134.95
+        },
+        {
+          "word": "only",
+          "start": 134.96,
+          "end": 135
+        },
+        {
+          "word": "one",
+          "start": 135.01,
+          "end": 135.05
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 135.06,
+      "text": "I'm not the only one",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 135.06,
+          "end": 135.1
+        },
+        {
+          "word": "not",
+          "start": 135.11,
+          "end": 135.15
+        },
+        {
+          "word": "the",
+          "start": 135.16,
+          "end": 135.2
+        },
+        {
+          "word": "only",
+          "start": 135.21,
+          "end": 135.31
+        },
+        {
+          "word": "one",
+          "start": 135.32,
+          "end": 135.42
+        }
+      ]
+    },
+    {
+      "time": 135.43,
+      "text": "I'm not the only one",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 135.43,
+          "end": 136.32
+        },
+        {
+          "word": "not",
+          "start": 136.33,
+          "end": 136.49
+        },
+        {
+          "word": "the",
+          "start": 136.5,
+          "end": 136.66
+        },
+        {
+          "word": "only",
+          "start": 136.67,
+          "end": 137.68,
+          "char_starts": [
+            136.67,
+            136.821,
+            137.062,
+            137.386
+          ]
+        },
+        {
+          "word": "one",
+          "start": 137.69,
+          "end": 138.38,
+          "char_starts": [
+            137.69,
+            137.849,
+            138.173
+          ]
+        }
+      ]
+    },
+    {
+      "time": 139.3,
+      "text": "I'm not the only one",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 139.3,
+          "end": 140.78,
+          "char_starts": [
+            139.3,
+            139.677,
+            140.262
+          ]
+        },
+        {
+          "word": "not",
+          "start": 140.79,
+          "end": 140.97
+        },
+        {
+          "word": "the",
+          "start": 140.98,
+          "end": 141.16
+        },
+        {
+          "word": "only",
+          "start": 141.17,
+          "end": 141.98,
+          "char_starts": [
+            141.17,
+            141.291,
+            141.484,
+            141.745
+          ]
+        },
+        {
+          "word": "one",
+          "start": 141.99,
+          "end": 143.12,
+          "char_starts": [
+            141.99,
+            142.251,
+            142.781
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vocal_cue",
+      "time": 143.42,
+      "end": 155.06,
+      "text": "●"
+    },
+    {
+      "time": 155.06,
+      "text": "Rape me (Rape me)",
+      "words": [
+        {
+          "word": "Rape",
+          "start": 155.06,
+          "end": 156.46,
+          "char_starts": [
+            155.06,
+            155.27,
+            155.58,
+            155.995
+          ]
+        },
+        {
+          "word": "me",
+          "start": 156.47,
+          "end": 156.644
+        },
+        {
+          "word": "(Rape",
+          "start": 156.654,
+          "end": 157.104,
+          "adlib": true
+        },
+        {
+          "word": "me)",
+          "start": 157.114,
+          "end": 157.38,
+          "adlib": true
+        }
+      ]
+    },
+    {
+      "time": 157.39,
+      "text": "Rape me (Rape me)",
+      "words": [
+        {
+          "word": "Rape",
+          "start": 157.39,
+          "end": 157.747
+        },
+        {
+          "word": "me",
+          "start": 157.757,
+          "end": 157.931
+        },
+        {
+          "word": "(Rape",
+          "start": 157.941,
+          "end": 158.391,
+          "adlib": true
+        },
+        {
+          "word": "me)",
+          "start": 158.401,
+          "end": 158.667,
+          "adlib": true
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 158.677,
+      "text": "Rape me (Rape me)",
+      "words": [
+        {
+          "word": "Rape",
+          "start": 158.677,
+          "end": 159.035
+        },
+        {
+          "word": "me",
+          "start": 159.045,
+          "end": 159.219
+        },
+        {
+          "word": "(Rape",
+          "start": 159.229,
+          "end": 159.679,
+          "adlib": true
+        },
+        {
+          "word": "me)",
+          "start": 159.689,
+          "end": 159.955,
+          "adlib": true
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 159.965,
+      "text": "Rape me (Rape me)",
+      "words": [
+        {
+          "word": "Rape",
+          "start": 159.965,
+          "end": 160.322
+        },
+        {
+          "word": "me",
+          "start": 160.332,
+          "end": 160.506
+        },
+        {
+          "word": "(Rape",
+          "start": 160.516,
+          "end": 160.966,
+          "adlib": true
+        },
+        {
+          "word": "me)",
+          "start": 160.976,
+          "end": 161.242,
+          "adlib": true
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 161.252,
+      "text": "Rape me (Rape me)",
+      "words": [
+        {
+          "word": "Rape",
+          "start": 161.252,
+          "end": 161.61
+        },
+        {
+          "word": "me",
+          "start": 161.62,
+          "end": 161.794
+        },
+        {
+          "word": "(Rape",
+          "start": 161.804,
+          "end": 162.254,
+          "adlib": true
+        },
+        {
+          "word": "me)",
+          "start": 162.264,
+          "end": 162.53,
+          "adlib": true
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 162.54,
+      "text": "Rape me (Rape me)",
+      "words": [
+        {
+          "word": "Rape",
+          "start": 162.54,
+          "end": 162.897
+        },
+        {
+          "word": "me",
+          "start": 162.907,
+          "end": 163.081
+        },
+        {
+          "word": "(Rape",
+          "start": 163.091,
+          "end": 163.541,
+          "adlib": true
+        },
+        {
+          "word": "me)",
+          "start": 163.551,
+          "end": 163.817,
+          "adlib": true
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 163.827,
+      "text": "Rape me (Rape me)",
+      "words": [
+        {
+          "word": "Rape",
+          "start": 163.827,
+          "end": 164.185
+        },
+        {
+          "word": "me",
+          "start": 164.195,
+          "end": 164.369
+        },
+        {
+          "word": "(Rape",
+          "start": 164.379,
+          "end": 164.829,
+          "adlib": true
+        },
+        {
+          "word": "me)",
+          "start": 164.839,
+          "end": 165.105,
+          "adlib": true
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 165.115,
+      "text": "Rape me (Rape me)",
+      "words": [
+        {
+          "word": "Rape",
+          "start": 165.115,
+          "end": 165.472
+        },
+        {
+          "word": "me",
+          "start": 165.482,
+          "end": 165.656
+        },
+        {
+          "word": "(Rape",
+          "start": 165.666,
+          "end": 166.116,
+          "adlib": true
+        },
+        {
+          "word": "me)",
+          "start": 166.126,
+          "end": 166.392,
+          "adlib": true
+        }
+      ],
+      "_interpolated": true
+    },
+    {
+      "time": 166.402,
+      "text": "Rape me",
+      "words": [
+        {
+          "word": "Rape",
+          "start": 166.402,
+          "end": 166.76
+        },
+        {
+          "word": "me",
+          "start": 166.77,
+          "end": 166.944
+        }
+      ],
+      "_interpolated": true
+    }
+  ],
+  "annotations": {},
+  "raw_whisper": [
+    {
+      "text": "rape  me,  my  friendRape  me,  rape  me  againRape  me,  rape  me  again",
+      "start": 10.68,
+      "end": 29.98,
+      "words": [
+        {
+          "word": "rape",
+          "start": 10.68,
+          "end": 12.08
+        },
+        {
+          "word": "me,",
+          "start": 12.08,
+          "end": 13.48
+        },
+        {
+          "word": "my",
+          "start": 15.8,
+          "end": 16.86
+        },
+        {
+          "word": "friendRape",
+          "start": 16.86,
+          "end": 20.96
+        },
+        {
+          "word": "me,",
+          "start": 20.96,
+          "end": 23.1
+        },
+        {
+          "word": "rape",
+          "start": 24.64,
+          "end": 25.18
+        },
+        {
+          "word": "me",
+          "start": 25.18,
+          "end": 26.6
+        },
+        {
+          "word": "againRape",
+          "start": 26.6,
+          "end": 29.98
+        },
+        {
+          "word": "me,",
+          "start": 29.98,
+          "end": 29.98
+        },
+        {
+          "word": "rape",
+          "start": 29.98,
+          "end": 29.98
+        },
+        {
+          "word": "me",
+          "start": 29.98,
+          "end": 29.98
+        },
+        {
+          "word": "again",
+          "start": 29.98,
+          "end": 29.98
+        }
+      ]
+    },
+    {
+      "text": "I  want  the  only  one,  I  want  the  only  one",
+      "start": 29.98,
+      "end": 45.42,
+      "words": [
+        {
+          "word": "I",
+          "start": 29.98,
+          "end": 30.16
+        },
+        {
+          "word": "want",
+          "start": 30.16,
+          "end": 30.16
+        },
+        {
+          "word": "the",
+          "start": 30.16,
+          "end": 30.16
+        },
+        {
+          "word": "only",
+          "start": 30.16,
+          "end": 31.12
+        },
+        {
+          "word": "one,",
+          "start": 31.12,
+          "end": 32.42
+        },
+        {
+          "word": "I",
+          "start": 32.42,
+          "end": 33.76
+        },
+        {
+          "word": "want",
+          "start": 33.76,
+          "end": 34.22
+        },
+        {
+          "word": "the",
+          "start": 34.22,
+          "end": 34.6
+        },
+        {
+          "word": "only",
+          "start": 34.6,
+          "end": 35.32
+        },
+        {
+          "word": "one",
+          "start": 35.32,
+          "end": 45.42
+        }
+      ]
+    },
+    {
+      "text": "Break  me,  to  the  tune  again",
+      "start": 45.42,
+      "end": 53.5,
+      "words": [
+        {
+          "word": "Break",
+          "start": 45.42,
+          "end": 47.38
+        },
+        {
+          "word": "me,",
+          "start": 47.38,
+          "end": 48.92
+        },
+        {
+          "word": "to",
+          "start": 51.36,
+          "end": 52
+        },
+        {
+          "word": "the",
+          "start": 52,
+          "end": 52.46
+        },
+        {
+          "word": "tune",
+          "start": 52.46,
+          "end": 52.8
+        },
+        {
+          "word": "again",
+          "start": 52.8,
+          "end": 53.5
+        }
+      ]
+    },
+    {
+      "text": "Waste  me,  break  me  my  friend",
+      "start": 55.34,
+      "end": 63,
+      "words": [
+        {
+          "word": "Waste",
+          "start": 55.34,
+          "end": 56.74
+        },
+        {
+          "word": "me,",
+          "start": 56.74,
+          "end": 58.14
+        },
+        {
+          "word": "break",
+          "start": 60.44,
+          "end": 60.9
+        },
+        {
+          "word": "me",
+          "start": 60.9,
+          "end": 61.62
+        },
+        {
+          "word": "my",
+          "start": 61.62,
+          "end": 62.3
+        },
+        {
+          "word": "friend",
+          "start": 62.3,
+          "end": 63
+        }
+      ]
+    },
+    {
+      "text": "I'm  the  only  one,  I'm  the  only  one",
+      "start": 64.24,
+      "end": 72.14,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 64.24,
+          "end": 65.44
+        },
+        {
+          "word": "the",
+          "start": 65.44,
+          "end": 65.78
+        },
+        {
+          "word": "only",
+          "start": 65.78,
+          "end": 65.78
+        },
+        {
+          "word": "one,",
+          "start": 65.78,
+          "end": 67.44
+        },
+        {
+          "word": "I'm",
+          "start": 67.98,
+          "end": 69.68
+        },
+        {
+          "word": "the",
+          "start": 69.68,
+          "end": 69.86
+        },
+        {
+          "word": "only",
+          "start": 69.86,
+          "end": 70.48
+        },
+        {
+          "word": "one",
+          "start": 70.48,
+          "end": 72.14
+        }
+      ]
+    },
+    {
+      "text": "My  grave  is  like  a  storm  horse",
+      "start": 81.8,
+      "end": 86.28,
+      "words": [
+        {
+          "word": "My",
+          "start": 81.8,
+          "end": 83
+        },
+        {
+          "word": "grave",
+          "start": 83,
+          "end": 83.5
+        },
+        {
+          "word": "is",
+          "start": 83.5,
+          "end": 84.08
+        },
+        {
+          "word": "like",
+          "start": 84.08,
+          "end": 84.52
+        },
+        {
+          "word": "a",
+          "start": 84.52,
+          "end": 85.54
+        },
+        {
+          "word": "storm",
+          "start": 85.54,
+          "end": 85.68
+        },
+        {
+          "word": "horse",
+          "start": 85.68,
+          "end": 86.28
+        }
+      ]
+    },
+    {
+      "text": "This  is  my  grave,  storm  horse",
+      "start": 87.14,
+      "end": 91.12,
+      "words": [
+        {
+          "word": "This",
+          "start": 87.14,
+          "end": 87.88
+        },
+        {
+          "word": "is",
+          "start": 87.88,
+          "end": 88.14
+        },
+        {
+          "word": "my",
+          "start": 88.14,
+          "end": 88.34
+        },
+        {
+          "word": "grave,",
+          "start": 88.34,
+          "end": 88.88
+        },
+        {
+          "word": "storm",
+          "start": 88.98,
+          "end": 89.86
+        },
+        {
+          "word": "horse",
+          "start": 89.86,
+          "end": 91.12
+        }
+      ]
+    },
+    {
+      "text": "I  appreciated  the  time",
+      "start": 91.12,
+      "end": 95.1,
+      "words": [
+        {
+          "word": "I",
+          "start": 91.12,
+          "end": 92.08
+        },
+        {
+          "word": "appreciated",
+          "start": 92.08,
+          "end": 92.92
+        },
+        {
+          "word": "the",
+          "start": 92.92,
+          "end": 93.46
+        },
+        {
+          "word": "time",
+          "start": 93.46,
+          "end": 95.1
+        }
+      ]
+    },
+    {
+      "text": "You  were  always  thinking  about  me",
+      "start": 95.1,
+      "end": 103.32,
+      "words": [
+        {
+          "word": "You",
+          "start": 95.1,
+          "end": 96.36
+        },
+        {
+          "word": "were",
+          "start": 96.36,
+          "end": 96.62
+        },
+        {
+          "word": "always",
+          "start": 96.62,
+          "end": 96.94
+        },
+        {
+          "word": "thinking",
+          "start": 96.94,
+          "end": 97.72
+        },
+        {
+          "word": "about",
+          "start": 97.72,
+          "end": 99.18
+        },
+        {
+          "word": "me",
+          "start": 99.18,
+          "end": 103.32
+        }
+      ]
+    },
+    {
+      "text": "Rape  me",
+      "start": 109.12,
+      "end": 111.24,
+      "words": [
+        {
+          "word": "Rape",
+          "start": 109.12,
+          "end": 109.98
+        },
+        {
+          "word": "me",
+          "start": 109.98,
+          "end": 111.24
+        }
+      ]
+    },
+    {
+      "text": "Rape  me,  you're  my  friend",
+      "start": 112.88,
+      "end": 116.34,
+      "words": [
+        {
+          "word": "Rape",
+          "start": 112.88,
+          "end": 114.28
+        },
+        {
+          "word": "me,",
+          "start": 114.28,
+          "end": 114.82
+        },
+        {
+          "word": "you're",
+          "start": 114.82,
+          "end": 115.32
+        },
+        {
+          "word": "my",
+          "start": 115.32,
+          "end": 115.64
+        },
+        {
+          "word": "friend",
+          "start": 115.64,
+          "end": 116.34
+        }
+      ]
+    },
+    {
+      "text": "Rape  me",
+      "start": 116.72,
+      "end": 119.94,
+      "words": [
+        {
+          "word": "Rape",
+          "start": 116.72,
+          "end": 118.76
+        },
+        {
+          "word": "me",
+          "start": 118.76,
+          "end": 119.94
+        }
+      ]
+    },
+    {
+      "text": "Rape  me  again",
+      "start": 121.84,
+      "end": 125.22,
+      "words": [
+        {
+          "word": "Rape",
+          "start": 121.84,
+          "end": 123.24
+        },
+        {
+          "word": "me",
+          "start": 123.24,
+          "end": 124
+        },
+        {
+          "word": "again",
+          "start": 124,
+          "end": 125.22
+        }
+      ]
+    },
+    {
+      "text": "I'm  a  lonely  one",
+      "start": 126.12,
+      "end": 129.48,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 126.12,
+          "end": 127.58
+        },
+        {
+          "word": "a",
+          "start": 127.58,
+          "end": 127.92
+        },
+        {
+          "word": "lonely",
+          "start": 127.92,
+          "end": 128.78
+        },
+        {
+          "word": "one",
+          "start": 128.78,
+          "end": 129.48
+        }
+      ]
+    },
+    {
+      "text": "I'm  a  lonely  one",
+      "start": 130.28,
+      "end": 134.12,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 130.28,
+          "end": 131.8
+        },
+        {
+          "word": "a",
+          "start": 131.8,
+          "end": 132.18
+        },
+        {
+          "word": "lonely",
+          "start": 132.18,
+          "end": 133.12
+        },
+        {
+          "word": "one",
+          "start": 133.12,
+          "end": 134.12
+        }
+      ]
+    },
+    {
+      "text": "I'm  a  lonely  one",
+      "start": 134.84,
+      "end": 138.38,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 134.84,
+          "end": 136.32
+        },
+        {
+          "word": "a",
+          "start": 136.32,
+          "end": 136.66
+        },
+        {
+          "word": "lonely",
+          "start": 136.66,
+          "end": 137.68
+        },
+        {
+          "word": "one",
+          "start": 137.68,
+          "end": 138.38
+        }
+      ]
+    },
+    {
+      "text": "I'm  a  lonely  one",
+      "start": 139.3,
+      "end": 143.12,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 139.3,
+          "end": 140.78
+        },
+        {
+          "word": "a",
+          "start": 140.78,
+          "end": 141.16
+        },
+        {
+          "word": "lonely",
+          "start": 141.16,
+          "end": 141.98
+        },
+        {
+          "word": "one",
+          "start": 141.98,
+          "end": 143.12
+        }
+      ]
+    },
+    {
+      "text": "Rape!",
+      "start": 155.06,
+      "end": 156.46,
+      "words": [
+        {
+          "word": "Rape!",
+          "start": 155.06,
+          "end": 156.46
+        }
+      ]
+    }
+  ],
+  "reference_text": [
+    {
+      "text": "Rape me",
+      "words": [
+        "Rape",
+        "me"
+      ]
+    },
+    {
+      "text": "Rape me, my friend",
+      "words": [
+        "Rape",
+        "me,",
+        "my",
+        "friend"
+      ]
+    },
+    {
+      "text": "Rape me",
+      "words": [
+        "Rape",
+        "me"
+      ]
+    },
+    {
+      "text": "Rape me again",
+      "words": [
+        "Rape",
+        "me",
+        "again"
+      ]
+    },
+    {
+      "text": "I'm not the only one",
+      "words": [
+        "I'm",
+        "not",
+        "the",
+        "only",
+        "one"
+      ]
+    },
+    {
+      "text": "I'm not the only one",
+      "words": [
+        "I'm",
+        "not",
+        "the",
+        "only",
+        "one"
+      ]
+    },
+    {
+      "text": "I'm not the only one",
+      "words": [
+        "I'm",
+        "not",
+        "the",
+        "only",
+        "one"
+      ]
+    },
+    {
+      "text": "I'm not the only one",
+      "words": [
+        "I'm",
+        "not",
+        "the",
+        "only",
+        "one"
+      ]
+    },
+    {
+      "text": "Hate me",
+      "words": [
+        "Hate",
+        "me"
+      ]
+    },
+    {
+      "text": "Do it, and do it again",
+      "words": [
+        "Do",
+        "it,",
+        "and",
+        "do",
+        "it",
+        "again"
+      ]
+    },
+    {
+      "text": "Waste me",
+      "words": [
+        "Waste",
+        "me"
+      ]
+    },
+    {
+      "text": "Rape me, my friend",
+      "words": [
+        "Rape",
+        "me,",
+        "my",
+        "friend"
+      ]
+    },
+    {
+      "text": "I'm not the only one",
+      "words": [
+        "I'm",
+        "not",
+        "the",
+        "only",
+        "one"
+      ]
+    },
+    {
+      "text": "I'm not the only one",
+      "words": [
+        "I'm",
+        "not",
+        "the",
+        "only",
+        "one"
+      ]
+    },
+    {
+      "text": "I'm not the only one",
+      "words": [
+        "I'm",
+        "not",
+        "the",
+        "only",
+        "one"
+      ]
+    },
+    {
+      "text": "I'm not the only one",
+      "words": [
+        "I'm",
+        "not",
+        "the",
+        "only",
+        "one"
+      ]
+    },
+    {
+      "text": "My favorite inside source",
+      "words": [
+        "My",
+        "favorite",
+        "inside",
+        "source"
+      ]
+    },
+    {
+      "text": "I'll kiss your open sores",
+      "words": [
+        "I'll",
+        "kiss",
+        "your",
+        "open",
+        "sores"
+      ]
+    },
+    {
+      "text": "Appreciate your concern",
+      "words": [
+        "Appreciate",
+        "your",
+        "concern"
+      ]
+    },
+    {
+      "text": "You're gonna stink and burn",
+      "words": [
+        "You're",
+        "gonna",
+        "stink",
+        "and",
+        "burn"
+      ]
+    },
+    {
+      "text": "Rape me",
+      "words": [
+        "Rape",
+        "me"
+      ]
+    },
+    {
+      "text": "Rape me, my friend",
+      "words": [
+        "Rape",
+        "me,",
+        "my",
+        "friend"
+      ]
+    },
+    {
+      "text": "Rape me",
+      "words": [
+        "Rape",
+        "me"
+      ]
+    },
+    {
+      "text": "Rape me again",
+      "words": [
+        "Rape",
+        "me",
+        "again"
+      ]
+    },
+    {
+      "text": "I'm not the only one",
+      "words": [
+        "I'm",
+        "not",
+        "the",
+        "only",
+        "one"
+      ]
+    },
+    {
+      "text": "I'm not the only one",
+      "words": [
+        "I'm",
+        "not",
+        "the",
+        "only",
+        "one"
+      ]
+    },
+    {
+      "text": "I'm not the only one",
+      "words": [
+        "I'm",
+        "not",
+        "the",
+        "only",
+        "one"
+      ]
+    },
+    {
+      "text": "I'm not the only one",
+      "words": [
+        "I'm",
+        "not",
+        "the",
+        "only",
+        "one"
+      ]
+    },
+    {
+      "text": "Rape me (Rape me)",
+      "words": [
+        "Rape",
+        "me",
+        "(Rape",
+        "me)"
+      ]
+    },
+    {
+      "text": "Rape me (Rape me)",
+      "words": [
+        "Rape",
+        "me",
+        "(Rape",
+        "me)"
+      ]
+    },
+    {
+      "text": "Rape me (Rape me)",
+      "words": [
+        "Rape",
+        "me",
+        "(Rape",
+        "me)"
+      ]
+    },
+    {
+      "text": "Rape me (Rape me)",
+      "words": [
+        "Rape",
+        "me",
+        "(Rape",
+        "me)"
+      ]
+    },
+    {
+      "text": "Rape me (Rape me)",
+      "words": [
+        "Rape",
+        "me",
+        "(Rape",
+        "me)"
+      ]
+    },
+    {
+      "text": "Rape me (Rape me)",
+      "words": [
+        "Rape",
+        "me",
+        "(Rape",
+        "me)"
+      ]
+    },
+    {
+      "text": "Rape me (Rape me)",
+      "words": [
+        "Rape",
+        "me",
+        "(Rape",
+        "me)"
+      ]
+    },
+    {
+      "text": "Rape me (Rape me)",
+      "words": [
+        "Rape",
+        "me",
+        "(Rape",
+        "me)"
+      ]
+    },
+    {
+      "text": "Rape me",
+      "words": [
+        "Rape",
+        "me"
+      ]
+    }
+  ]
+}

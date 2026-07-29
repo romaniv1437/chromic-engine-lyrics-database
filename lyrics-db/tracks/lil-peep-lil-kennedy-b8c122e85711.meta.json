@@ -1,0 +1,64 @@
+{
+  "track_title": "Lil Kennedy",
+  "artist": "Lil Peep",
+  "lyrics_source": "lrclib_plain",
+  "line_timestamps_source": "genius-lrc-whisper",
+  "has_annotations": false,
+  "singers": [
+    {
+      "id": "singer1",
+      "role": "lead",
+      "name": "Lil Peep"
+    }
+  ],
+  "quality": {
+    "score": 0.946,
+    "label": "high",
+    "timing_confidence": 1,
+    "anchor_audio_coverage": 0.892,
+    "lines": 32,
+    "vocal_cues": 0,
+    "words": 348,
+    "interpolated_words": 0,
+    "low_confidence_segments": 0,
+    "text_verified": true
+  },
+  "credits": {
+    "aligner_version": "2.0.0",
+    "generated_at": "2026-07-29T11:58:40+00:00",
+    "method": "Whisper supplies word-level timing; a verified official-lyrics anchor supplies the text. With no anchor the text is pure Whisper ASR.",
+    "language": "en",
+    "lyrics_text": {
+      "source": "lrclib_plain",
+      "verified": true,
+      "anchor_used": true,
+      "anchor_rejected_wrong_song": false,
+      "providers": [
+        {
+          "name": "Genius",
+          "url": "https://genius.com",
+          "tried": true,
+          "hit": false
+        },
+        {
+          "name": "LRCLIB",
+          "url": "https://lrclib.net",
+          "tried": true,
+          "hit": true
+        }
+      ]
+    },
+    "timing": {
+      "engine": "mlx",
+      "library": "mlx-whisper",
+      "asr_model": "openai/whisper",
+      "model_size": "medium",
+      "description": "Apple MLX port of OpenAI Whisper"
+    },
+    "strategy": "genius-lrc-whisper",
+    "attribution": [
+      "Synced lyrics from LRCLIB (lrclib.net)",
+      "Word timing by mlx-whisper (Whisper medium)"
+    ]
+  }
+}

@@ -1,0 +1,6060 @@
+{
+  "source": "blind-whisper",
+  "meta": {
+    "track_title": "Lonely Girl",
+    "artist": "Bexey",
+    "lyrics_source": "whisper_only",
+    "line_timestamps_source": "blind-whisper",
+    "has_annotations": false,
+    "singers": [
+      {
+        "id": "singer1",
+        "role": "lead",
+        "name": "Bexey"
+      }
+    ],
+    "quality": {
+      "score": 0.7,
+      "label": "medium",
+      "timing_confidence": 1,
+      "anchor_audio_coverage": null,
+      "lines": 75,
+      "vocal_cues": 2,
+      "words": 491,
+      "interpolated_words": 0,
+      "low_confidence_segments": 0,
+      "text_verified": false
+    },
+    "credits": {
+      "aligner_version": "2.0.0",
+      "generated_at": "2026-07-29T12:06:43+00:00",
+      "method": "Whisper supplies word-level timing; a verified official-lyrics anchor supplies the text. With no anchor the text is pure Whisper ASR.",
+      "language": null,
+      "lyrics_text": {
+        "source": "whisper_only",
+        "verified": false,
+        "anchor_used": false,
+        "anchor_rejected_wrong_song": false,
+        "providers": []
+      },
+      "timing": {
+        "engine": "mlx",
+        "library": "mlx-whisper",
+        "asr_model": "openai/whisper",
+        "model_size": "medium",
+        "description": "Apple MLX port of OpenAI Whisper"
+      },
+      "strategy": "blind-whisper",
+      "attribution": [
+        "Lyrics transcribed by OpenAI Whisper (unverified ASR — no official source matched)",
+        "Word timing by mlx-whisper (Whisper medium)"
+      ]
+    },
+    "blind_resegment": {
+      "status": "partial",
+      "batches": 14,
+      "applied": 6,
+      "words": 492,
+      "before": 77,
+      "after": 76
+    }
+  },
+  "lines": [
+    {
+      "type": "vocal_cue",
+      "time": 0.3,
+      "end": 30.22,
+      "text": "●"
+    },
+    {
+      "time": 30.22,
+      "text": "Watchin' the world turn to the cops and stares away from everyone",
+      "words": [
+        {
+          "word": "Watchin'",
+          "start": 30.22,
+          "end": 30.82
+        },
+        {
+          "word": "the",
+          "start": 30.82,
+          "end": 30.96
+        },
+        {
+          "word": "world",
+          "start": 30.96,
+          "end": 31.16
+        },
+        {
+          "word": "turn",
+          "start": 31.16,
+          "end": 31.66
+        },
+        {
+          "word": "to",
+          "start": 31.66,
+          "end": 31.92
+        },
+        {
+          "word": "the",
+          "start": 31.92,
+          "end": 32.18
+        },
+        {
+          "word": "cops",
+          "start": 32.18,
+          "end": 32.36
+        },
+        {
+          "word": "and",
+          "start": 32.36,
+          "end": 32.62
+        },
+        {
+          "word": "stares",
+          "start": 32.62,
+          "end": 32.9
+        },
+        {
+          "word": "away",
+          "start": 32.9,
+          "end": 33.58,
+          "stretch": true
+        },
+        {
+          "word": "from",
+          "start": 33.58,
+          "end": 33.9
+        },
+        {
+          "word": "everyone",
+          "start": 33.9,
+          "end": 34.44
+        }
+      ]
+    },
+    {
+      "time": 34.44,
+      "text": "From my observes, take a listen and love",
+      "words": [
+        {
+          "word": "From",
+          "start": 34.44,
+          "end": 34.94
+        },
+        {
+          "word": "my",
+          "start": 34.94,
+          "end": 35.08
+        },
+        {
+          "word": "observes,",
+          "start": 35.08,
+          "end": 35.88,
+          "stretch": true
+        },
+        {
+          "word": "take",
+          "start": 36.02,
+          "end": 36.1
+        },
+        {
+          "word": "a",
+          "start": 36.1,
+          "end": 36.24
+        },
+        {
+          "word": "listen",
+          "start": 36.24,
+          "end": 36.42
+        },
+        {
+          "word": "and",
+          "start": 36.42,
+          "end": 36.8
+        },
+        {
+          "word": "love",
+          "start": 36.8,
+          "end": 37.1
+        }
+      ]
+    },
+    {
+      "time": 37.1,
+      "text": "Hey lonely girl, where'd you appear from?",
+      "words": [
+        {
+          "word": "Hey",
+          "start": 37.1,
+          "end": 37.52
+        },
+        {
+          "word": "lonely",
+          "start": 37.52,
+          "end": 38.02
+        },
+        {
+          "word": "girl,",
+          "start": 38.02,
+          "end": 38.52
+        },
+        {
+          "word": "where'd",
+          "start": 38.64,
+          "end": 38.96
+        },
+        {
+          "word": "you",
+          "start": 38.96,
+          "end": 39.04
+        },
+        {
+          "word": "appear",
+          "start": 39.04,
+          "end": 39.32
+        },
+        {
+          "word": "from?",
+          "start": 39.32,
+          "end": 39.96
+        }
+      ]
+    },
+    {
+      "time": 40.12,
+      "text": "I'm a lonely boy in a cloudy world",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 40.12,
+          "end": 40.24
+        },
+        {
+          "word": "a",
+          "start": 40.24,
+          "end": 40.42,
+          "stretch": true
+        },
+        {
+          "word": "lonely",
+          "start": 40.42,
+          "end": 40.84
+        },
+        {
+          "word": "boy",
+          "start": 40.84,
+          "end": 41.42,
+          "stretch": true
+        },
+        {
+          "word": "in",
+          "start": 41.42,
+          "end": 41.64
+        },
+        {
+          "word": "a",
+          "start": 41.64,
+          "end": 41.84,
+          "stretch": true
+        },
+        {
+          "word": "cloudy",
+          "start": 41.84,
+          "end": 42.1
+        },
+        {
+          "word": "world",
+          "start": 42.1,
+          "end": 42.58
+        }
+      ]
+    },
+    {
+      "time": 42.58,
+      "text": "How does that work?",
+      "words": [
+        {
+          "word": "How",
+          "start": 42.58,
+          "end": 42.74
+        },
+        {
+          "word": "does",
+          "start": 42.74,
+          "end": 42.9
+        },
+        {
+          "word": "that",
+          "start": 42.9,
+          "end": 43.2
+        },
+        {
+          "word": "work?",
+          "start": 43.2,
+          "end": 43.52
+        }
+      ]
+    },
+    {
+      "time": 43.52,
+      "text": "Listen and love 5XLT when I step on",
+      "words": [
+        {
+          "word": "Listen",
+          "start": 43.52,
+          "end": 43.82
+        },
+        {
+          "word": "and",
+          "start": 43.82,
+          "end": 44.16
+        },
+        {
+          "word": "love",
+          "start": 44.16,
+          "end": 44.82,
+          "stretch": true
+        },
+        {
+          "word": "5XLT",
+          "start": 46.18,
+          "end": 46.78
+        },
+        {
+          "word": "when",
+          "start": 46.78,
+          "end": 47.02
+        },
+        {
+          "word": "I",
+          "start": 47.02,
+          "end": 47.34,
+          "stretch": true
+        },
+        {
+          "word": "step",
+          "start": 47.34,
+          "end": 47.68
+        },
+        {
+          "word": "on",
+          "start": 47.68,
+          "end": 47.72
+        }
+      ]
+    },
+    {
+      "time": 47.72,
+      "text": "I know it's hit, lookin' like I got angel wings",
+      "words": [
+        {
+          "word": "I",
+          "start": 47.72,
+          "end": 47.9,
+          "stretch": true
+        },
+        {
+          "word": "know",
+          "start": 47.9,
+          "end": 48.3
+        },
+        {
+          "word": "it's",
+          "start": 48.3,
+          "end": 48.78,
+          "stretch": true
+        },
+        {
+          "word": "hit,",
+          "start": 48.78,
+          "end": 49
+        },
+        {
+          "word": "lookin'",
+          "start": 49.22,
+          "end": 49.44
+        },
+        {
+          "word": "like",
+          "start": 49.58,
+          "end": 49.92
+        },
+        {
+          "word": "I",
+          "start": 49.92,
+          "end": 50.1,
+          "stretch": true
+        },
+        {
+          "word": "got",
+          "start": 50.1,
+          "end": 50.36
+        },
+        {
+          "word": "angel",
+          "start": 50.36,
+          "end": 51.08
+        },
+        {
+          "word": "wings",
+          "start": 51.08,
+          "end": 51.88,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 51.88,
+      "text": "I ain't shy, I just don't really lie",
+      "words": [
+        {
+          "word": "I",
+          "start": 51.88,
+          "end": 52.44,
+          "stretch": true
+        },
+        {
+          "word": "ain't",
+          "start": 52.44,
+          "end": 52.92
+        },
+        {
+          "word": "shy,",
+          "start": 52.92,
+          "end": 53.22
+        },
+        {
+          "word": "I",
+          "start": 53.24,
+          "end": 53.46,
+          "stretch": true
+        },
+        {
+          "word": "just",
+          "start": 53.46,
+          "end": 53.78
+        },
+        {
+          "word": "don't",
+          "start": 53.78,
+          "end": 54.02
+        },
+        {
+          "word": "really",
+          "start": 54.02,
+          "end": 54.48
+        },
+        {
+          "word": "lie",
+          "start": 54.48,
+          "end": 55.08,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 55.08,
+      "text": "But people afraid of silence, keep talkin' shit",
+      "words": [
+        {
+          "word": "But",
+          "start": 55.08,
+          "end": 55.34
+        },
+        {
+          "word": "people",
+          "start": 55.34,
+          "end": 55.76
+        },
+        {
+          "word": "afraid",
+          "start": 55.76,
+          "end": 56.28
+        },
+        {
+          "word": "of",
+          "start": 56.28,
+          "end": 56.62,
+          "stretch": true
+        },
+        {
+          "word": "silence,",
+          "start": 56.62,
+          "end": 57.04
+        },
+        {
+          "word": "keep",
+          "start": 57.34,
+          "end": 57.42
+        },
+        {
+          "word": "talkin'",
+          "start": 57.42,
+          "end": 57.84
+        },
+        {
+          "word": "shit",
+          "start": 58.1,
+          "end": 58.3
+        }
+      ]
+    },
+    {
+      "time": 58.3,
+      "text": "She won the XC, she don't want no X",
+      "words": [
+        {
+          "word": "She",
+          "start": 58.3,
+          "end": 58.78,
+          "stretch": true
+        },
+        {
+          "word": "won",
+          "start": 58.78,
+          "end": 59.24,
+          "stretch": true
+        },
+        {
+          "word": "the",
+          "start": 59.24,
+          "end": 59.62
+        },
+        {
+          "word": "XC,",
+          "start": 59.62,
+          "end": 60.3,
+          "stretch": true
+        },
+        {
+          "word": "she",
+          "start": 60.3,
+          "end": 60.54
+        },
+        {
+          "word": "don't",
+          "start": 60.54,
+          "end": 60.72
+        },
+        {
+          "word": "want",
+          "start": 60.72,
+          "end": 60.92
+        },
+        {
+          "word": "no",
+          "start": 60.92,
+          "end": 61.04
+        },
+        {
+          "word": "X",
+          "start": 61.04,
+          "end": 61.34,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 61.34,
+      "text": "I had to pick up that camera girl",
+      "words": [
+        {
+          "word": "I",
+          "start": 61.34,
+          "end": 61.38
+        },
+        {
+          "word": "had",
+          "start": 61.38,
+          "end": 61.48
+        },
+        {
+          "word": "to",
+          "start": 61.48,
+          "end": 61.62
+        },
+        {
+          "word": "pick",
+          "start": 61.62,
+          "end": 61.76
+        },
+        {
+          "word": "up",
+          "start": 61.76,
+          "end": 61.92
+        },
+        {
+          "word": "that",
+          "start": 61.92,
+          "end": 62.1
+        },
+        {
+          "word": "camera",
+          "start": 62.1,
+          "end": 62.54
+        },
+        {
+          "word": "girl",
+          "start": 62.54,
+          "end": 62.58
+        }
+      ]
+    },
+    {
+      "time": 62.58,
+      "text": "Embarrassed and take the guns and tell you now",
+      "words": [
+        {
+          "word": "Embarrassed",
+          "start": 62.58,
+          "end": 63.42,
+          "stretch": true
+        },
+        {
+          "word": "and",
+          "start": 63.42,
+          "end": 63.52
+        },
+        {
+          "word": "take",
+          "start": 63.52,
+          "end": 63.74
+        },
+        {
+          "word": "the",
+          "start": 63.74,
+          "end": 64.02
+        },
+        {
+          "word": "guns",
+          "start": 64.02,
+          "end": 64.18
+        },
+        {
+          "word": "and",
+          "start": 64.18,
+          "end": 64.5
+        },
+        {
+          "word": "tell",
+          "start": 64.5,
+          "end": 64.74
+        },
+        {
+          "word": "you",
+          "start": 64.74,
+          "end": 65
+        },
+        {
+          "word": "now",
+          "start": 65,
+          "end": 65.26
+        }
+      ]
+    },
+    {
+      "time": 65.26,
+      "text": "She would rap off your way",
+      "words": [
+        {
+          "word": "She",
+          "start": 65.26,
+          "end": 65.54
+        },
+        {
+          "word": "would",
+          "start": 65.54,
+          "end": 65.76
+        },
+        {
+          "word": "rap",
+          "start": 65.76,
+          "end": 66.06
+        },
+        {
+          "word": "off",
+          "start": 66.06,
+          "end": 66.32
+        },
+        {
+          "word": "your",
+          "start": 66.32,
+          "end": 66.82
+        },
+        {
+          "word": "way",
+          "start": 66.82,
+          "end": 67.44,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 67.44,
+      "text": "Made your boy's dream come true",
+      "words": [
+        {
+          "word": "Made",
+          "start": 67.44,
+          "end": 67.9
+        },
+        {
+          "word": "your",
+          "start": 67.9,
+          "end": 68.2
+        },
+        {
+          "word": "boy's",
+          "start": 68.2,
+          "end": 68.6
+        },
+        {
+          "word": "dream",
+          "start": 68.6,
+          "end": 68.76
+        },
+        {
+          "word": "come",
+          "start": 68.76,
+          "end": 69.22
+        },
+        {
+          "word": "true",
+          "start": 69.22,
+          "end": 69.5
+        }
+      ]
+    },
+    {
+      "time": 69.5,
+      "text": "Now what you gonna do?",
+      "words": [
+        {
+          "word": "Now",
+          "start": 69.5,
+          "end": 69.86
+        },
+        {
+          "word": "what",
+          "start": 69.86,
+          "end": 70.08
+        },
+        {
+          "word": "you",
+          "start": 70.08,
+          "end": 70.4
+        },
+        {
+          "word": "gonna",
+          "start": 70.4,
+          "end": 70.66
+        },
+        {
+          "word": "do?",
+          "start": 70.66,
+          "end": 71.26,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 71.38,
+      "text": "Gonna see cross -animate for two",
+      "words": [
+        {
+          "word": "Gonna",
+          "start": 71.38,
+          "end": 71.66
+        },
+        {
+          "word": "see",
+          "start": 71.66,
+          "end": 71.94
+        },
+        {
+          "word": "cross",
+          "start": 71.94,
+          "end": 72.24
+        },
+        {
+          "word": "-animate",
+          "start": 72.24,
+          "end": 72.88
+        },
+        {
+          "word": "for",
+          "start": 72.88,
+          "end": 73.18
+        },
+        {
+          "word": "two",
+          "start": 73.18,
+          "end": 73.26
+        }
+      ]
+    },
+    {
+      "time": 73.26,
+      "text": "No I don't know you, let me show you",
+      "words": [
+        {
+          "word": "No",
+          "start": 73.26,
+          "end": 73.72,
+          "stretch": true
+        },
+        {
+          "word": "I",
+          "start": 73.72,
+          "end": 73.8
+        },
+        {
+          "word": "don't",
+          "start": 73.8,
+          "end": 74.2
+        },
+        {
+          "word": "know",
+          "start": 74.2,
+          "end": 74.34
+        },
+        {
+          "word": "you,",
+          "start": 74.34,
+          "end": 74.76
+        },
+        {
+          "word": "let",
+          "start": 74.9,
+          "end": 75.14
+        },
+        {
+          "word": "me",
+          "start": 75.14,
+          "end": 75.44
+        },
+        {
+          "word": "show",
+          "start": 75.44,
+          "end": 75.74
+        },
+        {
+          "word": "you",
+          "start": 75.74,
+          "end": 76.22,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 76.22,
+      "text": "We can run through, hurt you",
+      "words": [
+        {
+          "word": "We",
+          "start": 76.22,
+          "end": 76.58,
+          "stretch": true
+        },
+        {
+          "word": "can",
+          "start": 76.58,
+          "end": 76.78
+        },
+        {
+          "word": "run",
+          "start": 76.78,
+          "end": 77.28,
+          "stretch": true
+        },
+        {
+          "word": "through,",
+          "start": 77.28,
+          "end": 77.58
+        },
+        {
+          "word": "hurt",
+          "start": 77.76,
+          "end": 78.16
+        },
+        {
+          "word": "you",
+          "start": 78.16,
+          "end": 78.56
+        }
+      ]
+    },
+    {
+      "time": 78.56,
+      "text": "Turn your soul, man, into art news",
+      "words": [
+        {
+          "word": "Turn",
+          "start": 78.56,
+          "end": 78.84
+        },
+        {
+          "word": "your",
+          "start": 78.84,
+          "end": 79.16
+        },
+        {
+          "word": "soul,",
+          "start": 79.16,
+          "end": 79.58
+        },
+        {
+          "word": "man,",
+          "start": 79.92,
+          "end": 80.1
+        },
+        {
+          "word": "into",
+          "start": 80.18,
+          "end": 80.48
+        },
+        {
+          "word": "art",
+          "start": 80.48,
+          "end": 80.96,
+          "stretch": true
+        },
+        {
+          "word": "news",
+          "start": 80.96,
+          "end": 81.18
+        }
+      ]
+    },
+    {
+      "time": 81.18,
+      "text": "Oh dear, you seem so clear",
+      "words": [
+        {
+          "word": "Oh",
+          "start": 81.18,
+          "end": 81.92,
+          "stretch": true
+        },
+        {
+          "word": "dear,",
+          "start": 81.92,
+          "end": 82.16
+        },
+        {
+          "word": "you",
+          "start": 82.38,
+          "end": 82.56
+        },
+        {
+          "word": "seem",
+          "start": 82.56,
+          "end": 82.74
+        },
+        {
+          "word": "so",
+          "start": 82.74,
+          "end": 83.24,
+          "stretch": true
+        },
+        {
+          "word": "clear",
+          "start": 83.24,
+          "end": 83.58
+        }
+      ]
+    },
+    {
+      "time": 83.58,
+      "text": "Now the road here, I'll ruggle you with stressin'",
+      "words": [
+        {
+          "word": "Now",
+          "start": 83.58,
+          "end": 83.94
+        },
+        {
+          "word": "the",
+          "start": 83.94,
+          "end": 84.26
+        },
+        {
+          "word": "road",
+          "start": 84.26,
+          "end": 84.54
+        },
+        {
+          "word": "here,",
+          "start": 84.54,
+          "end": 84.94
+        },
+        {
+          "word": "I'll",
+          "start": 85.26,
+          "end": 85.42
+        },
+        {
+          "word": "ruggle",
+          "start": 85.42,
+          "end": 85.58
+        },
+        {
+          "word": "you",
+          "start": 85.58,
+          "end": 85.8
+        },
+        {
+          "word": "with",
+          "start": 85.8,
+          "end": 86.02
+        },
+        {
+          "word": "stressin'",
+          "start": 86.02,
+          "end": 86.44
+        }
+      ]
+    },
+    {
+      "time": 86.44,
+      "text": "We're gonna get lost just in the direction",
+      "words": [
+        {
+          "word": "We're",
+          "start": 86.44,
+          "end": 86.76
+        },
+        {
+          "word": "gonna",
+          "start": 86.76,
+          "end": 86.76
+        },
+        {
+          "word": "get",
+          "start": 86.76,
+          "end": 86.96
+        },
+        {
+          "word": "lost",
+          "start": 86.96,
+          "end": 87.14
+        },
+        {
+          "word": "just",
+          "start": 87.14,
+          "end": 87.38
+        },
+        {
+          "word": "in",
+          "start": 87.38,
+          "end": 87.56
+        },
+        {
+          "word": "the",
+          "start": 87.56,
+          "end": 87.64
+        },
+        {
+          "word": "direction",
+          "start": 87.64,
+          "end": 88.58,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 88.58,
+      "text": "Check one, we'll make a house shake",
+      "words": [
+        {
+          "word": "Check",
+          "start": 88.58,
+          "end": 89.6,
+          "stretch": true
+        },
+        {
+          "word": "one,",
+          "start": 89.6,
+          "end": 90.12
+        },
+        {
+          "word": "we'll",
+          "start": 90.24,
+          "end": 90.7
+        },
+        {
+          "word": "make",
+          "start": 90.7,
+          "end": 90.88
+        },
+        {
+          "word": "a",
+          "start": 90.88,
+          "end": 91.22,
+          "stretch": true
+        },
+        {
+          "word": "house",
+          "start": 91.22,
+          "end": 91.6
+        },
+        {
+          "word": "shake",
+          "start": 91.6,
+          "end": 91.94
+        }
+      ]
+    },
+    {
+      "time": 91.94,
+      "text": "Break a town off the lake",
+      "words": [
+        {
+          "word": "Break",
+          "start": 91.94,
+          "end": 92.3
+        },
+        {
+          "word": "a",
+          "start": 92.3,
+          "end": 92.62,
+          "stretch": true
+        },
+        {
+          "word": "town",
+          "start": 92.62,
+          "end": 92.92
+        },
+        {
+          "word": "off",
+          "start": 92.92,
+          "end": 93.2
+        },
+        {
+          "word": "the",
+          "start": 93.2,
+          "end": 93.52
+        },
+        {
+          "word": "lake",
+          "start": 93.52,
+          "end": 93.76
+        }
+      ]
+    },
+    {
+      "time": 93.76,
+      "text": "Fuck the world up with me, she said",
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 93.76,
+          "end": 94.12
+        },
+        {
+          "word": "the",
+          "start": 94.12,
+          "end": 94.38
+        },
+        {
+          "word": "world",
+          "start": 94.38,
+          "end": 94.74
+        },
+        {
+          "word": "up",
+          "start": 94.74,
+          "end": 95.06,
+          "stretch": true
+        },
+        {
+          "word": "with",
+          "start": 95.06,
+          "end": 95.26
+        },
+        {
+          "word": "me,",
+          "start": 95.26,
+          "end": 95.44
+        },
+        {
+          "word": "she",
+          "start": 95.44,
+          "end": 95.84
+        },
+        {
+          "word": "said",
+          "start": 95.84,
+          "end": 96.18
+        }
+      ]
+    },
+    {
+      "time": 96.18,
+      "text": "Ha, ha",
+      "words": [
+        {
+          "word": "Ha,",
+          "start": 96.18,
+          "end": 96.18
+        },
+        {
+          "word": "ha",
+          "start": 96.8,
+          "end": 97.1
+        }
+      ]
+    },
+    {
+      "time": 97.1,
+      "text": "Sounding like that chorus of tipsies",
+      "words": [
+        {
+          "word": "Sounding",
+          "start": 97.1,
+          "end": 97.64
+        },
+        {
+          "word": "like",
+          "start": 97.64,
+          "end": 97.82
+        },
+        {
+          "word": "that",
+          "start": 97.82,
+          "end": 98.1
+        },
+        {
+          "word": "chorus",
+          "start": 98.1,
+          "end": 98.46
+        },
+        {
+          "word": "of",
+          "start": 98.46,
+          "end": 98.9,
+          "stretch": true
+        },
+        {
+          "word": "tipsies",
+          "start": 98.9,
+          "end": 99.52
+        }
+      ]
+    },
+    {
+      "time": 99.52,
+      "text": "Sparing like a tourist, all you need is some nitch",
+      "words": [
+        {
+          "word": "Sparing",
+          "start": 99.52,
+          "end": 100.06
+        },
+        {
+          "word": "like",
+          "start": 100.06,
+          "end": 100.42
+        },
+        {
+          "word": "a",
+          "start": 100.42,
+          "end": 100.68,
+          "stretch": true
+        },
+        {
+          "word": "tourist,",
+          "start": 100.68,
+          "end": 101.2
+        },
+        {
+          "word": "all",
+          "start": 101.22,
+          "end": 101.52
+        },
+        {
+          "word": "you",
+          "start": 101.52,
+          "end": 101.78
+        },
+        {
+          "word": "need",
+          "start": 101.78,
+          "end": 101.98
+        },
+        {
+          "word": "is",
+          "start": 101.98,
+          "end": 102.26
+        },
+        {
+          "word": "some",
+          "start": 102.26,
+          "end": 102.54
+        },
+        {
+          "word": "nitch",
+          "start": 102.54,
+          "end": 102.88
+        }
+      ]
+    },
+    {
+      "time": 102.88,
+      "text": "I'm in trouble, watching the world turn",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 102.88,
+          "end": 103.3,
+          "stretch": true
+        },
+        {
+          "word": "in",
+          "start": 103.3,
+          "end": 103.52
+        },
+        {
+          "word": "trouble,",
+          "start": 103.52,
+          "end": 104.04
+        },
+        {
+          "word": "watching",
+          "start": 104.5,
+          "end": 104.6
+        },
+        {
+          "word": "the",
+          "start": 104.6,
+          "end": 104.84
+        },
+        {
+          "word": "world",
+          "start": 104.84,
+          "end": 105.06
+        },
+        {
+          "word": "turn",
+          "start": 105.06,
+          "end": 105.34
+        }
+      ]
+    },
+    {
+      "time": 105.34,
+      "text": "To the cops, it turns away from everyone",
+      "words": [
+        {
+          "word": "To",
+          "start": 105.34,
+          "end": 105.76,
+          "stretch": true
+        },
+        {
+          "word": "the",
+          "start": 105.76,
+          "end": 106.04
+        },
+        {
+          "word": "cops,",
+          "start": 106.04,
+          "end": 106.28
+        },
+        {
+          "word": "it",
+          "start": 106.32,
+          "end": 106.76,
+          "stretch": true
+        },
+        {
+          "word": "turns",
+          "start": 106.76,
+          "end": 106.78
+        },
+        {
+          "word": "away",
+          "start": 106.78,
+          "end": 107.42,
+          "stretch": true
+        },
+        {
+          "word": "from",
+          "start": 107.42,
+          "end": 107.78
+        },
+        {
+          "word": "everyone",
+          "start": 107.78,
+          "end": 108.48
+        }
+      ]
+    },
+    {
+      "time": 108.48,
+      "text": "From my observes, take a listen and learn",
+      "words": [
+        {
+          "word": "From",
+          "start": 108.48,
+          "end": 108.82
+        },
+        {
+          "word": "my",
+          "start": 108.82,
+          "end": 108.94
+        },
+        {
+          "word": "observes,",
+          "start": 108.94,
+          "end": 109.76,
+          "stretch": true
+        },
+        {
+          "word": "take",
+          "start": 109.9,
+          "end": 109.98
+        },
+        {
+          "word": "a",
+          "start": 109.98,
+          "end": 110.12
+        },
+        {
+          "word": "listen",
+          "start": 110.12,
+          "end": 110.32
+        },
+        {
+          "word": "and",
+          "start": 110.32,
+          "end": 110.68
+        },
+        {
+          "word": "learn",
+          "start": 110.68,
+          "end": 111.02
+        }
+      ]
+    },
+    {
+      "time": 111.02,
+      "text": "Hey lonely girl, where'd you appear from?",
+      "words": [
+        {
+          "word": "Hey",
+          "start": 111.02,
+          "end": 111.44
+        },
+        {
+          "word": "lonely",
+          "start": 111.44,
+          "end": 111.9
+        },
+        {
+          "word": "girl,",
+          "start": 111.9,
+          "end": 112.46
+        },
+        {
+          "word": "where'd",
+          "start": 112.68,
+          "end": 112.8
+        },
+        {
+          "word": "you",
+          "start": 112.8,
+          "end": 112.94
+        },
+        {
+          "word": "appear",
+          "start": 112.94,
+          "end": 113.2
+        },
+        {
+          "word": "from?",
+          "start": 113.2,
+          "end": 113.78
+        }
+      ]
+    },
+    {
+      "time": 113.78,
+      "text": "I'm a lonely boy in a crowded world",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 113.78,
+          "end": 114.08
+        },
+        {
+          "word": "a",
+          "start": 114.08,
+          "end": 114.22
+        },
+        {
+          "word": "lonely",
+          "start": 114.22,
+          "end": 114.68
+        },
+        {
+          "word": "boy",
+          "start": 114.68,
+          "end": 115.3,
+          "stretch": true
+        },
+        {
+          "word": "in",
+          "start": 115.3,
+          "end": 115.54
+        },
+        {
+          "word": "a",
+          "start": 115.54,
+          "end": 115.7,
+          "stretch": true
+        },
+        {
+          "word": "crowded",
+          "start": 115.7,
+          "end": 116
+        },
+        {
+          "word": "world",
+          "start": 116,
+          "end": 116.46
+        }
+      ]
+    },
+    {
+      "time": 116.46,
+      "text": "How do I work in the night?",
+      "words": [
+        {
+          "word": "How",
+          "start": 116.46,
+          "end": 116.66
+        },
+        {
+          "word": "do",
+          "start": 116.66,
+          "end": 116.76
+        },
+        {
+          "word": "I",
+          "start": 116.76,
+          "end": 116.94,
+          "stretch": true
+        },
+        {
+          "word": "work",
+          "start": 116.94,
+          "end": 117.52
+        },
+        {
+          "word": "in",
+          "start": 117.52,
+          "end": 117.66
+        },
+        {
+          "word": "the",
+          "start": 117.66,
+          "end": 117.96
+        },
+        {
+          "word": "night?",
+          "start": 117.96,
+          "end": 118.08
+        }
+      ]
+    },
+    {
+      "time": 118.4,
+      "text": "I am alone",
+      "words": [
+        {
+          "word": "I",
+          "start": 118.4,
+          "end": 118.5
+        },
+        {
+          "word": "am",
+          "start": 118.5,
+          "end": 118.72
+        },
+        {
+          "word": "alone",
+          "start": 118.72,
+          "end": 119.2
+        }
+      ]
+    },
+    {
+      "time": 119.2,
+      "text": "Out of nowhere",
+      "words": [
+        {
+          "word": "Out",
+          "start": 119.2,
+          "end": 119.86,
+          "stretch": true
+        },
+        {
+          "word": "of",
+          "start": 119.86,
+          "end": 119.94
+        },
+        {
+          "word": "nowhere",
+          "start": 119.94,
+          "end": 120.36
+        }
+      ]
+    },
+    {
+      "time": 120.86,
+      "text": "I do not know how to become",
+      "words": [
+        {
+          "word": "I",
+          "start": 120.86,
+          "end": 121.26,
+          "stretch": true
+        },
+        {
+          "word": "do",
+          "start": 121.26,
+          "end": 121.38
+        },
+        {
+          "word": "not",
+          "start": 121.38,
+          "end": 121.56
+        },
+        {
+          "word": "know",
+          "start": 121.56,
+          "end": 121.88
+        },
+        {
+          "word": "how",
+          "start": 121.88,
+          "end": 122.14
+        },
+        {
+          "word": "to",
+          "start": 122.14,
+          "end": 122.32
+        },
+        {
+          "word": "become",
+          "start": 122.32,
+          "end": 123.12,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 123.12,
+      "text": "Something I love",
+      "words": [
+        {
+          "word": "Something",
+          "start": 123.12,
+          "end": 123.64
+        },
+        {
+          "word": "I",
+          "start": 123.64,
+          "end": 123.92,
+          "stretch": true
+        },
+        {
+          "word": "love",
+          "start": 123.92,
+          "end": 124.28
+        }
+      ]
+    },
+    {
+      "time": 124.28,
+      "text": "I'm in a loss",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 124.28,
+          "end": 125.02,
+          "stretch": true
+        },
+        {
+          "word": "in",
+          "start": 125.02,
+          "end": 125.1
+        },
+        {
+          "word": "a",
+          "start": 125.1,
+          "end": 125.28,
+          "stretch": true
+        },
+        {
+          "word": "loss",
+          "start": 125.28,
+          "end": 125.5
+        }
+      ]
+    },
+    {
+      "time": 125.5,
+      "text": "Working alone",
+      "words": [
+        {
+          "word": "Working",
+          "start": 125.5,
+          "end": 125.98
+        },
+        {
+          "word": "alone",
+          "start": 125.98,
+          "end": 126.9,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 126.9,
+      "text": "Nowhere to go",
+      "words": [
+        {
+          "word": "Nowhere",
+          "start": 126.9,
+          "end": 127.42
+        },
+        {
+          "word": "to",
+          "start": 127.42,
+          "end": 127.56
+        },
+        {
+          "word": "go",
+          "start": 127.56,
+          "end": 128.26,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 128.26,
+      "text": "Take a big go",
+      "words": [
+        {
+          "word": "Take",
+          "start": 128.26,
+          "end": 128.66
+        },
+        {
+          "word": "a",
+          "start": 128.66,
+          "end": 128.8
+        },
+        {
+          "word": "big",
+          "start": 128.8,
+          "end": 128.96
+        },
+        {
+          "word": "go",
+          "start": 128.96,
+          "end": 129.32,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 129.32,
+      "text": "Fire me into the edge of it",
+      "words": [
+        {
+          "word": "Fire",
+          "start": 129.32,
+          "end": 129.6
+        },
+        {
+          "word": "me",
+          "start": 129.6,
+          "end": 129.9,
+          "stretch": true
+        },
+        {
+          "word": "into",
+          "start": 129.9,
+          "end": 130.08
+        },
+        {
+          "word": "the",
+          "start": 130.08,
+          "end": 130.38
+        },
+        {
+          "word": "edge",
+          "start": 130.38,
+          "end": 130.56
+        },
+        {
+          "word": "of",
+          "start": 130.56,
+          "end": 130.66
+        },
+        {
+          "word": "it",
+          "start": 130.66,
+          "end": 130.74
+        }
+      ]
+    },
+    {
+      "time": 130.74,
+      "text": "Turn all the nations up like in a hole",
+      "words": [
+        {
+          "word": "Turn",
+          "start": 130.74,
+          "end": 130.96
+        },
+        {
+          "word": "all",
+          "start": 130.96,
+          "end": 131.1
+        },
+        {
+          "word": "the",
+          "start": 131.1,
+          "end": 131.26
+        },
+        {
+          "word": "nations",
+          "start": 131.26,
+          "end": 131.48
+        },
+        {
+          "word": "up",
+          "start": 131.48,
+          "end": 131.7
+        },
+        {
+          "word": "like",
+          "start": 131.7,
+          "end": 131.88
+        },
+        {
+          "word": "in",
+          "start": 131.88,
+          "end": 132.04
+        },
+        {
+          "word": "a",
+          "start": 132.04,
+          "end": 132.18
+        },
+        {
+          "word": "hole",
+          "start": 132.18,
+          "end": 132.28
+        }
+      ]
+    },
+    {
+      "time": 132.28,
+      "text": "In my life, where that hole?",
+      "words": [
+        {
+          "word": "In",
+          "start": 132.28,
+          "end": 132.42
+        },
+        {
+          "word": "my",
+          "start": 132.42,
+          "end": 132.62
+        },
+        {
+          "word": "life,",
+          "start": 132.62,
+          "end": 132.76
+        },
+        {
+          "word": "where",
+          "start": 132.76,
+          "end": 132.92
+        },
+        {
+          "word": "that",
+          "start": 132.92,
+          "end": 133.02
+        },
+        {
+          "word": "hole?",
+          "start": 133.02,
+          "end": 133.02
+        }
+      ]
+    },
+    {
+      "time": 133.04,
+      "text": "Look at that make me leave",
+      "words": [
+        {
+          "word": "Look",
+          "start": 133.04,
+          "end": 133.24
+        },
+        {
+          "word": "at",
+          "start": 133.24,
+          "end": 133.38
+        },
+        {
+          "word": "that",
+          "start": 133.38,
+          "end": 133.52
+        },
+        {
+          "word": "make",
+          "start": 133.52,
+          "end": 133.78
+        },
+        {
+          "word": "me",
+          "start": 133.78,
+          "end": 134.28,
+          "stretch": true
+        },
+        {
+          "word": "leave",
+          "start": 134.28,
+          "end": 134.6
+        }
+      ]
+    },
+    {
+      "time": 134.6,
+      "text": "Thought I'm okay",
+      "words": [
+        {
+          "word": "Thought",
+          "start": 134.6,
+          "end": 134.78
+        },
+        {
+          "word": "I'm",
+          "start": 134.78,
+          "end": 135
+        },
+        {
+          "word": "okay",
+          "start": 135,
+          "end": 135.3
+        }
+      ]
+    },
+    {
+      "time": 135.3,
+      "text": "You know what I'm saying",
+      "words": [
+        {
+          "word": "You",
+          "start": 135.3,
+          "end": 135.5
+        },
+        {
+          "word": "know",
+          "start": 135.5,
+          "end": 135.58
+        },
+        {
+          "word": "what",
+          "start": 135.58,
+          "end": 135.86
+        },
+        {
+          "word": "I'm",
+          "start": 135.86,
+          "end": 136.02
+        },
+        {
+          "word": "saying",
+          "start": 136.02,
+          "end": 136.02
+        }
+      ]
+    },
+    {
+      "time": 136.02,
+      "text": "Is that you're okay?",
+      "words": [
+        {
+          "word": "Is",
+          "start": 136.02,
+          "end": 136.18
+        },
+        {
+          "word": "that",
+          "start": 136.18,
+          "end": 136.24
+        },
+        {
+          "word": "you're",
+          "start": 136.24,
+          "end": 136.48
+        },
+        {
+          "word": "okay?",
+          "start": 136.48,
+          "end": 136.7
+        }
+      ]
+    },
+    {
+      "time": 136.8,
+      "text": "When it really wanna be another day",
+      "words": [
+        {
+          "word": "When",
+          "start": 136.8,
+          "end": 136.94
+        },
+        {
+          "word": "it",
+          "start": 136.94,
+          "end": 137.04
+        },
+        {
+          "word": "really",
+          "start": 137.04,
+          "end": 137.18
+        },
+        {
+          "word": "wanna",
+          "start": 137.18,
+          "end": 137.38
+        },
+        {
+          "word": "be",
+          "start": 137.38,
+          "end": 137.6
+        },
+        {
+          "word": "another",
+          "start": 137.6,
+          "end": 137.82
+        },
+        {
+          "word": "day",
+          "start": 137.82,
+          "end": 138.08
+        }
+      ]
+    },
+    {
+      "time": 138.08,
+      "text": "I come into the world",
+      "words": [
+        {
+          "word": "I",
+          "start": 138.08,
+          "end": 138.24,
+          "stretch": true
+        },
+        {
+          "word": "come",
+          "start": 138.24,
+          "end": 138.3
+        },
+        {
+          "word": "into",
+          "start": 138.3,
+          "end": 138.42
+        },
+        {
+          "word": "the",
+          "start": 138.42,
+          "end": 138.64
+        },
+        {
+          "word": "world",
+          "start": 138.64,
+          "end": 138.78
+        }
+      ]
+    },
+    {
+      "time": 138.78,
+      "text": "So I don't know where to go home",
+      "words": [
+        {
+          "word": "So",
+          "start": 138.78,
+          "end": 138.94
+        },
+        {
+          "word": "I",
+          "start": 138.94,
+          "end": 139.08
+        },
+        {
+          "word": "don't",
+          "start": 139.08,
+          "end": 139.3
+        },
+        {
+          "word": "know",
+          "start": 139.3,
+          "end": 139.48
+        },
+        {
+          "word": "where",
+          "start": 139.48,
+          "end": 139.66
+        },
+        {
+          "word": "to",
+          "start": 139.66,
+          "end": 139.82
+        },
+        {
+          "word": "go",
+          "start": 139.82,
+          "end": 140.04
+        },
+        {
+          "word": "home",
+          "start": 140.04,
+          "end": 140.38
+        }
+      ]
+    },
+    {
+      "time": 140.38,
+      "text": "Fever in me under the weather",
+      "words": [
+        {
+          "word": "Fever",
+          "start": 140.38,
+          "end": 140.68
+        },
+        {
+          "word": "in",
+          "start": 140.68,
+          "end": 140.8
+        },
+        {
+          "word": "me",
+          "start": 140.8,
+          "end": 140.96
+        },
+        {
+          "word": "under",
+          "start": 140.96,
+          "end": 141.12
+        },
+        {
+          "word": "the",
+          "start": 141.12,
+          "end": 141.36
+        },
+        {
+          "word": "weather",
+          "start": 141.36,
+          "end": 141.58
+        }
+      ]
+    },
+    {
+      "time": 141.58,
+      "text": "The things that I wanted to call my definition",
+      "words": [
+        {
+          "word": "The",
+          "start": 141.58,
+          "end": 141.84
+        },
+        {
+          "word": "things",
+          "start": 141.84,
+          "end": 142.04
+        },
+        {
+          "word": "that",
+          "start": 142.04,
+          "end": 142.18
+        },
+        {
+          "word": "I",
+          "start": 142.18,
+          "end": 142.28
+        },
+        {
+          "word": "wanted",
+          "start": 142.28,
+          "end": 142.52
+        },
+        {
+          "word": "to",
+          "start": 142.52,
+          "end": 142.72
+        },
+        {
+          "word": "call",
+          "start": 142.72,
+          "end": 142.9
+        },
+        {
+          "word": "my",
+          "start": 142.9,
+          "end": 143.1
+        },
+        {
+          "word": "definition",
+          "start": 143.1,
+          "end": 143.44
+        }
+      ]
+    },
+    {
+      "time": 143.44,
+      "text": "But never a message to conquer and heal all the nations",
+      "words": [
+        {
+          "word": "But",
+          "start": 143.44,
+          "end": 143.62
+        },
+        {
+          "word": "never",
+          "start": 143.62,
+          "end": 144
+        },
+        {
+          "word": "a",
+          "start": 144,
+          "end": 144.18,
+          "stretch": true
+        },
+        {
+          "word": "message",
+          "start": 144.18,
+          "end": 144.38
+        },
+        {
+          "word": "to",
+          "start": 144.38,
+          "end": 144.66
+        },
+        {
+          "word": "conquer",
+          "start": 144.66,
+          "end": 144.94
+        },
+        {
+          "word": "and",
+          "start": 144.94,
+          "end": 145.14
+        },
+        {
+          "word": "heal",
+          "start": 145.14,
+          "end": 145.28
+        },
+        {
+          "word": "all",
+          "start": 145.28,
+          "end": 145.44
+        },
+        {
+          "word": "the",
+          "start": 145.44,
+          "end": 145.54
+        },
+        {
+          "word": "nations",
+          "start": 145.54,
+          "end": 145.74
+        }
+      ]
+    },
+    {
+      "time": 145.74,
+      "text": "I'm not with some white and familiar to face",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 145.74,
+          "end": 146.04
+        },
+        {
+          "word": "not",
+          "start": 146.04,
+          "end": 146.14
+        },
+        {
+          "word": "with",
+          "start": 146.14,
+          "end": 146.34
+        },
+        {
+          "word": "some",
+          "start": 146.34,
+          "end": 146.5
+        },
+        {
+          "word": "white",
+          "start": 146.5,
+          "end": 146.62
+        },
+        {
+          "word": "and",
+          "start": 146.62,
+          "end": 146.78
+        },
+        {
+          "word": "familiar",
+          "start": 146.78,
+          "end": 147.12
+        },
+        {
+          "word": "to",
+          "start": 147.12,
+          "end": 147.48,
+          "stretch": true
+        },
+        {
+          "word": "face",
+          "start": 147.48,
+          "end": 147.72
+        }
+      ]
+    },
+    {
+      "time": 147.72,
+      "text": "I want a solo in the dark water",
+      "words": [
+        {
+          "word": "I",
+          "start": 147.72,
+          "end": 148.24,
+          "stretch": true
+        },
+        {
+          "word": "want",
+          "start": 148.24,
+          "end": 148.52
+        },
+        {
+          "word": "a",
+          "start": 148.52,
+          "end": 148.92,
+          "stretch": true
+        },
+        {
+          "word": "solo",
+          "start": 148.92,
+          "end": 149.48
+        },
+        {
+          "word": "in",
+          "start": 149.48,
+          "end": 149.94,
+          "stretch": true
+        },
+        {
+          "word": "the",
+          "start": 149.94,
+          "end": 150.22
+        },
+        {
+          "word": "dark",
+          "start": 150.22,
+          "end": 150.54
+        },
+        {
+          "word": "water",
+          "start": 150.54,
+          "end": 162.36,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 162.36,
+      "text": "Creeping up under the light of the sun",
+      "words": [
+        {
+          "word": "Creeping",
+          "start": 162.36,
+          "end": 162.92
+        },
+        {
+          "word": "up",
+          "start": 162.92,
+          "end": 163.14
+        },
+        {
+          "word": "under",
+          "start": 163.14,
+          "end": 163.3
+        },
+        {
+          "word": "the",
+          "start": 163.3,
+          "end": 163.54
+        },
+        {
+          "word": "light",
+          "start": 163.54,
+          "end": 163.66
+        },
+        {
+          "word": "of",
+          "start": 163.66,
+          "end": 163.88
+        },
+        {
+          "word": "the",
+          "start": 163.88,
+          "end": 164.02
+        },
+        {
+          "word": "sun",
+          "start": 164.02,
+          "end": 164.14
+        }
+      ]
+    },
+    {
+      "time": 164.14,
+      "text": "And I never begun to imagine",
+      "words": [
+        {
+          "word": "And",
+          "start": 164.14,
+          "end": 164.34
+        },
+        {
+          "word": "I",
+          "start": 164.34,
+          "end": 164.5,
+          "stretch": true
+        },
+        {
+          "word": "never",
+          "start": 164.5,
+          "end": 164.7
+        },
+        {
+          "word": "begun",
+          "start": 164.7,
+          "end": 165
+        },
+        {
+          "word": "to",
+          "start": 165,
+          "end": 165.24
+        },
+        {
+          "word": "imagine",
+          "start": 165.24,
+          "end": 165.66
+        }
+      ]
+    },
+    {
+      "time": 165.66,
+      "text": "Or where I feel I belong",
+      "words": [
+        {
+          "word": "Or",
+          "start": 165.66,
+          "end": 165.94
+        },
+        {
+          "word": "where",
+          "start": 165.94,
+          "end": 166.04
+        },
+        {
+          "word": "I",
+          "start": 166.04,
+          "end": 166.28,
+          "stretch": true
+        },
+        {
+          "word": "feel",
+          "start": 166.28,
+          "end": 166.5
+        },
+        {
+          "word": "I",
+          "start": 166.5,
+          "end": 166.68,
+          "stretch": true
+        },
+        {
+          "word": "belong",
+          "start": 166.68,
+          "end": 166.88
+        }
+      ]
+    },
+    {
+      "time": 166.88,
+      "text": "And I cycle the spiral and helix is giving me some",
+      "words": [
+        {
+          "word": "And",
+          "start": 166.88,
+          "end": 167.12
+        },
+        {
+          "word": "I",
+          "start": 167.12,
+          "end": 167.24
+        },
+        {
+          "word": "cycle",
+          "start": 167.24,
+          "end": 167.46
+        },
+        {
+          "word": "the",
+          "start": 167.46,
+          "end": 167.64
+        },
+        {
+          "word": "spiral",
+          "start": 167.64,
+          "end": 167.94
+        },
+        {
+          "word": "and",
+          "start": 167.94,
+          "end": 168.18
+        },
+        {
+          "word": "helix",
+          "start": 168.18,
+          "end": 168.44
+        },
+        {
+          "word": "is",
+          "start": 168.44,
+          "end": 168.64
+        },
+        {
+          "word": "giving",
+          "start": 168.64,
+          "end": 168.92
+        },
+        {
+          "word": "me",
+          "start": 168.92,
+          "end": 169.28,
+          "stretch": true
+        },
+        {
+          "word": "some",
+          "start": 169.28,
+          "end": 169.58
+        }
+      ]
+    },
+    {
+      "time": 170.04,
+      "text": "Hope in a relation between all the stars and the constellations",
+      "words": [
+        {
+          "word": "Hope",
+          "start": 170.04,
+          "end": 170.48
+        },
+        {
+          "word": "in",
+          "start": 170.48,
+          "end": 170.7
+        },
+        {
+          "word": "a",
+          "start": 170.7,
+          "end": 170.88,
+          "stretch": true
+        },
+        {
+          "word": "relation",
+          "start": 170.88,
+          "end": 171.16
+        },
+        {
+          "word": "between",
+          "start": 171.16,
+          "end": 171.48
+        },
+        {
+          "word": "all",
+          "start": 171.48,
+          "end": 171.72
+        },
+        {
+          "word": "the",
+          "start": 171.72,
+          "end": 171.84
+        },
+        {
+          "word": "stars",
+          "start": 171.84,
+          "end": 171.98
+        },
+        {
+          "word": "and",
+          "start": 171.98,
+          "end": 172.2
+        },
+        {
+          "word": "the",
+          "start": 172.2,
+          "end": 172.36
+        },
+        {
+          "word": "constellations",
+          "start": 172.36,
+          "end": 172.84
+        }
+      ]
+    },
+    {
+      "time": 172.84,
+      "text": "I'm in a true universe I could create and destroy",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 172.84,
+          "end": 173.46,
+          "stretch": true
+        },
+        {
+          "word": "in",
+          "start": 173.46,
+          "end": 173.84,
+          "stretch": true
+        },
+        {
+          "word": "a",
+          "start": 173.84,
+          "end": 174,
+          "stretch": true
+        },
+        {
+          "word": "true",
+          "start": 174,
+          "end": 174.18
+        },
+        {
+          "word": "universe",
+          "start": 174.18,
+          "end": 174.56
+        },
+        {
+          "word": "I",
+          "start": 174.56,
+          "end": 174.76,
+          "stretch": true
+        },
+        {
+          "word": "could",
+          "start": 174.76,
+          "end": 174.92
+        },
+        {
+          "word": "create",
+          "start": 174.92,
+          "end": 175.18
+        },
+        {
+          "word": "and",
+          "start": 175.18,
+          "end": 175.42
+        },
+        {
+          "word": "destroy",
+          "start": 175.42,
+          "end": 175.68
+        }
+      ]
+    },
+    {
+      "time": 175.68,
+      "text": "As I'm up so be it",
+      "words": [
+        {
+          "word": "As",
+          "start": 175.68,
+          "end": 175.92
+        },
+        {
+          "word": "I'm",
+          "start": 175.92,
+          "end": 176.12
+        },
+        {
+          "word": "up",
+          "start": 176.12,
+          "end": 176.22
+        },
+        {
+          "word": "so",
+          "start": 176.22,
+          "end": 176.64,
+          "stretch": true
+        },
+        {
+          "word": "be",
+          "start": 176.64,
+          "end": 176.94,
+          "stretch": true
+        },
+        {
+          "word": "it",
+          "start": 176.94,
+          "end": 177.3,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 177.3,
+      "text": "NO!",
+      "words": [
+        {
+          "word": "NO!",
+          "start": 177.3,
+          "end": 177.64
+        }
+      ]
+    },
+    {
+      "time": 177.86,
+      "text": "But what you've well done",
+      "words": [
+        {
+          "word": "But",
+          "start": 177.86,
+          "end": 178
+        },
+        {
+          "word": "what",
+          "start": 178,
+          "end": 178.34
+        },
+        {
+          "word": "you've",
+          "start": 178.34,
+          "end": 178.5
+        },
+        {
+          "word": "well",
+          "start": 178.5,
+          "end": 178.82
+        },
+        {
+          "word": "done",
+          "start": 178.82,
+          "end": 179.32
+        }
+      ]
+    },
+    {
+      "time": 179.32,
+      "text": "To the copies that I'm some way from",
+      "words": [
+        {
+          "word": "To",
+          "start": 179.32,
+          "end": 179.58
+        },
+        {
+          "word": "the",
+          "start": 179.58,
+          "end": 179.84
+        },
+        {
+          "word": "copies",
+          "start": 179.84,
+          "end": 180.1
+        },
+        {
+          "word": "that",
+          "start": 180.1,
+          "end": 180.42
+        },
+        {
+          "word": "I'm",
+          "start": 180.42,
+          "end": 180.62
+        },
+        {
+          "word": "some",
+          "start": 180.62,
+          "end": 180.88
+        },
+        {
+          "word": "way",
+          "start": 180.88,
+          "end": 181.26
+        },
+        {
+          "word": "from",
+          "start": 181.26,
+          "end": 181.54
+        }
+      ]
+    },
+    {
+      "time": 181.54,
+      "text": "Never be one from my upsurge",
+      "words": [
+        {
+          "word": "Never",
+          "start": 181.54,
+          "end": 181.8
+        },
+        {
+          "word": "be",
+          "start": 181.8,
+          "end": 182.14,
+          "stretch": true
+        },
+        {
+          "word": "one",
+          "start": 182.14,
+          "end": 182.38
+        },
+        {
+          "word": "from",
+          "start": 182.38,
+          "end": 182.6
+        },
+        {
+          "word": "my",
+          "start": 182.6,
+          "end": 182.78
+        },
+        {
+          "word": "upsurge",
+          "start": 182.78,
+          "end": 183.58,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 183.58,
+      "text": "Take a listen and love",
+      "words": [
+        {
+          "word": "Take",
+          "start": 183.58,
+          "end": 183.78
+        },
+        {
+          "word": "a",
+          "start": 183.78,
+          "end": 183.92
+        },
+        {
+          "word": "listen",
+          "start": 183.92,
+          "end": 184.1
+        },
+        {
+          "word": "and",
+          "start": 184.1,
+          "end": 184.42
+        },
+        {
+          "word": "love",
+          "start": 184.42,
+          "end": 184.82
+        }
+      ]
+    },
+    {
+      "time": 184.82,
+      "text": "Hey lonely girl",
+      "words": [
+        {
+          "word": "Hey",
+          "start": 184.82,
+          "end": 185.22
+        },
+        {
+          "word": "lonely",
+          "start": 185.22,
+          "end": 185.7
+        },
+        {
+          "word": "girl",
+          "start": 185.7,
+          "end": 186.28
+        }
+      ]
+    },
+    {
+      "time": 186.28,
+      "text": "Where'd that dream of being from?",
+      "words": [
+        {
+          "word": "Where'd",
+          "start": 186.28,
+          "end": 186.56
+        },
+        {
+          "word": "that",
+          "start": 186.56,
+          "end": 186.64
+        },
+        {
+          "word": "dream",
+          "start": 186.64,
+          "end": 186.74
+        },
+        {
+          "word": "of",
+          "start": 186.74,
+          "end": 186.92
+        },
+        {
+          "word": "being",
+          "start": 186.92,
+          "end": 187.06
+        },
+        {
+          "word": "from?",
+          "start": 187.06,
+          "end": 187.58
+        }
+      ]
+    },
+    {
+      "time": 187.82,
+      "text": "Am I lonely?",
+      "words": [
+        {
+          "word": "Am",
+          "start": 187.82,
+          "end": 187.9
+        },
+        {
+          "word": "I",
+          "start": 187.9,
+          "end": 188.04
+        },
+        {
+          "word": "lonely?",
+          "start": 188.04,
+          "end": 188.5
+        }
+      ]
+    },
+    {
+      "time": 188.78,
+      "text": "Boy, you look proud and white",
+      "words": [
+        {
+          "word": "Boy,",
+          "start": 188.78,
+          "end": 189.1
+        },
+        {
+          "word": "you",
+          "start": 189.18,
+          "end": 189.28
+        },
+        {
+          "word": "look",
+          "start": 189.28,
+          "end": 189.5
+        },
+        {
+          "word": "proud",
+          "start": 189.5,
+          "end": 189.7
+        },
+        {
+          "word": "and",
+          "start": 189.7,
+          "end": 189.98
+        },
+        {
+          "word": "white",
+          "start": 189.98,
+          "end": 190.22
+        }
+      ]
+    },
+    {
+      "time": 190.22,
+      "text": "How does that work?",
+      "words": [
+        {
+          "word": "How",
+          "start": 190.22,
+          "end": 190.46
+        },
+        {
+          "word": "does",
+          "start": 190.46,
+          "end": 190.58
+        },
+        {
+          "word": "that",
+          "start": 190.58,
+          "end": 190.84
+        },
+        {
+          "word": "work?",
+          "start": 190.84,
+          "end": 191.22
+        }
+      ]
+    },
+    {
+      "time": 191.32,
+      "text": "Listen and love",
+      "words": [
+        {
+          "word": "Listen",
+          "start": 191.32,
+          "end": 191.5
+        },
+        {
+          "word": "and",
+          "start": 191.5,
+          "end": 191.86
+        },
+        {
+          "word": "love",
+          "start": 191.86,
+          "end": 192.56,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "type": "vocal_cue",
+      "time": 192.86,
+      "end": 205.74,
+      "text": "●"
+    }
+  ],
+  "annotations": {},
+  "raw_whisper": [
+    {
+      "text": "Watchin'  the  world  turn  to  the  cops  and  stares  away  from  everyone",
+      "start": 30.22,
+      "end": 34.44,
+      "words": [
+        {
+          "word": "Watchin'",
+          "start": 30.22,
+          "end": 30.82
+        },
+        {
+          "word": "the",
+          "start": 30.82,
+          "end": 30.96
+        },
+        {
+          "word": "world",
+          "start": 30.96,
+          "end": 31.16
+        },
+        {
+          "word": "turn",
+          "start": 31.16,
+          "end": 31.66
+        },
+        {
+          "word": "to",
+          "start": 31.66,
+          "end": 31.92
+        },
+        {
+          "word": "the",
+          "start": 31.92,
+          "end": 32.18
+        },
+        {
+          "word": "cops",
+          "start": 32.18,
+          "end": 32.36
+        },
+        {
+          "word": "and",
+          "start": 32.36,
+          "end": 32.62
+        },
+        {
+          "word": "stares",
+          "start": 32.62,
+          "end": 32.9
+        },
+        {
+          "word": "away",
+          "start": 32.9,
+          "end": 33.58
+        },
+        {
+          "word": "from",
+          "start": 33.58,
+          "end": 33.9
+        },
+        {
+          "word": "everyone",
+          "start": 33.9,
+          "end": 34.44
+        }
+      ]
+    },
+    {
+      "text": "From  my  observes,  take  a  listen  and  love",
+      "start": 34.44,
+      "end": 37.1,
+      "words": [
+        {
+          "word": "From",
+          "start": 34.44,
+          "end": 34.94
+        },
+        {
+          "word": "my",
+          "start": 34.94,
+          "end": 35.08
+        },
+        {
+          "word": "observes,",
+          "start": 35.08,
+          "end": 35.88
+        },
+        {
+          "word": "take",
+          "start": 36.02,
+          "end": 36.1
+        },
+        {
+          "word": "a",
+          "start": 36.1,
+          "end": 36.24
+        },
+        {
+          "word": "listen",
+          "start": 36.24,
+          "end": 36.42
+        },
+        {
+          "word": "and",
+          "start": 36.42,
+          "end": 36.8
+        },
+        {
+          "word": "love",
+          "start": 36.8,
+          "end": 37.1
+        }
+      ]
+    },
+    {
+      "text": "Hey  lonely  girl,  where'd  you  appear  from?",
+      "start": 37.1,
+      "end": 39.96,
+      "words": [
+        {
+          "word": "Hey",
+          "start": 37.1,
+          "end": 37.52
+        },
+        {
+          "word": "lonely",
+          "start": 37.52,
+          "end": 38.02
+        },
+        {
+          "word": "girl,",
+          "start": 38.02,
+          "end": 38.52
+        },
+        {
+          "word": "where'd",
+          "start": 38.64,
+          "end": 38.96
+        },
+        {
+          "word": "you",
+          "start": 38.96,
+          "end": 39.04
+        },
+        {
+          "word": "appear",
+          "start": 39.04,
+          "end": 39.32
+        },
+        {
+          "word": "from?",
+          "start": 39.32,
+          "end": 39.96
+        }
+      ]
+    },
+    {
+      "text": "I'm  a  lonely  boy  in  a  cloudy  world",
+      "start": 40.12,
+      "end": 42.58,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 40.12,
+          "end": 40.24
+        },
+        {
+          "word": "a",
+          "start": 40.24,
+          "end": 40.42
+        },
+        {
+          "word": "lonely",
+          "start": 40.42,
+          "end": 40.84
+        },
+        {
+          "word": "boy",
+          "start": 40.84,
+          "end": 41.42
+        },
+        {
+          "word": "in",
+          "start": 41.42,
+          "end": 41.64
+        },
+        {
+          "word": "a",
+          "start": 41.64,
+          "end": 41.84
+        },
+        {
+          "word": "cloudy",
+          "start": 41.84,
+          "end": 42.1
+        },
+        {
+          "word": "world",
+          "start": 42.1,
+          "end": 42.58
+        }
+      ]
+    },
+    {
+      "text": "How  does  that  work?",
+      "start": 42.58,
+      "end": 43.52,
+      "words": [
+        {
+          "word": "How",
+          "start": 42.58,
+          "end": 42.74
+        },
+        {
+          "word": "does",
+          "start": 42.74,
+          "end": 42.9
+        },
+        {
+          "word": "that",
+          "start": 42.9,
+          "end": 43.2
+        },
+        {
+          "word": "work?",
+          "start": 43.2,
+          "end": 43.52
+        }
+      ]
+    },
+    {
+      "text": "Listen  and  love",
+      "start": 43.52,
+      "end": 44.82,
+      "words": [
+        {
+          "word": "Listen",
+          "start": 43.52,
+          "end": 43.82
+        },
+        {
+          "word": "and",
+          "start": 43.82,
+          "end": 44.16
+        },
+        {
+          "word": "love",
+          "start": 44.16,
+          "end": 44.82
+        }
+      ]
+    },
+    {
+      "text": "5XLT  when  I  step  on",
+      "start": 46.18,
+      "end": 47.72,
+      "words": [
+        {
+          "word": "5XLT",
+          "start": 46.18,
+          "end": 46.78
+        },
+        {
+          "word": "when",
+          "start": 46.78,
+          "end": 47.02
+        },
+        {
+          "word": "I",
+          "start": 47.02,
+          "end": 47.34
+        },
+        {
+          "word": "step",
+          "start": 47.34,
+          "end": 47.68
+        },
+        {
+          "word": "on",
+          "start": 47.68,
+          "end": 47.72
+        }
+      ]
+    },
+    {
+      "text": "I  know  it's  hit,  lookin'  like  I  got  angel  wings",
+      "start": 47.72,
+      "end": 51.88,
+      "words": [
+        {
+          "word": "I",
+          "start": 47.72,
+          "end": 47.9
+        },
+        {
+          "word": "know",
+          "start": 47.9,
+          "end": 48.3
+        },
+        {
+          "word": "it's",
+          "start": 48.3,
+          "end": 48.78
+        },
+        {
+          "word": "hit,",
+          "start": 48.78,
+          "end": 49
+        },
+        {
+          "word": "lookin'",
+          "start": 49.22,
+          "end": 49.44
+        },
+        {
+          "word": "like",
+          "start": 49.58,
+          "end": 49.92
+        },
+        {
+          "word": "I",
+          "start": 49.92,
+          "end": 50.1
+        },
+        {
+          "word": "got",
+          "start": 50.1,
+          "end": 50.36
+        },
+        {
+          "word": "angel",
+          "start": 50.36,
+          "end": 51.08
+        },
+        {
+          "word": "wings",
+          "start": 51.08,
+          "end": 51.88
+        }
+      ]
+    },
+    {
+      "text": "I  ain't  shy,  I  just  don't  really  lie",
+      "start": 51.88,
+      "end": 55.08,
+      "words": [
+        {
+          "word": "I",
+          "start": 51.88,
+          "end": 52.44
+        },
+        {
+          "word": "ain't",
+          "start": 52.44,
+          "end": 52.92
+        },
+        {
+          "word": "shy,",
+          "start": 52.92,
+          "end": 53.22
+        },
+        {
+          "word": "I",
+          "start": 53.24,
+          "end": 53.46
+        },
+        {
+          "word": "just",
+          "start": 53.46,
+          "end": 53.78
+        },
+        {
+          "word": "don't",
+          "start": 53.78,
+          "end": 54.02
+        },
+        {
+          "word": "really",
+          "start": 54.02,
+          "end": 54.48
+        },
+        {
+          "word": "lie",
+          "start": 54.48,
+          "end": 55.08
+        }
+      ]
+    },
+    {
+      "text": "But  people  afraid  of  silence,  keep  talkin'  shit",
+      "start": 55.08,
+      "end": 58.3,
+      "words": [
+        {
+          "word": "But",
+          "start": 55.08,
+          "end": 55.34
+        },
+        {
+          "word": "people",
+          "start": 55.34,
+          "end": 55.76
+        },
+        {
+          "word": "afraid",
+          "start": 55.76,
+          "end": 56.28
+        },
+        {
+          "word": "of",
+          "start": 56.28,
+          "end": 56.62
+        },
+        {
+          "word": "silence,",
+          "start": 56.62,
+          "end": 57.04
+        },
+        {
+          "word": "keep",
+          "start": 57.34,
+          "end": 57.42
+        },
+        {
+          "word": "talkin'",
+          "start": 57.42,
+          "end": 57.84
+        },
+        {
+          "word": "shit",
+          "start": 58.1,
+          "end": 58.3
+        }
+      ]
+    },
+    {
+      "text": "She  won  the  XC,  she  don't  want  no  X",
+      "start": 58.3,
+      "end": 61.34,
+      "words": [
+        {
+          "word": "She",
+          "start": 58.3,
+          "end": 58.78
+        },
+        {
+          "word": "won",
+          "start": 58.78,
+          "end": 59.24
+        },
+        {
+          "word": "the",
+          "start": 59.24,
+          "end": 59.62
+        },
+        {
+          "word": "XC,",
+          "start": 59.62,
+          "end": 60.3
+        },
+        {
+          "word": "she",
+          "start": 60.3,
+          "end": 60.54
+        },
+        {
+          "word": "don't",
+          "start": 60.54,
+          "end": 60.72
+        },
+        {
+          "word": "want",
+          "start": 60.72,
+          "end": 60.92
+        },
+        {
+          "word": "no",
+          "start": 60.92,
+          "end": 61.04
+        },
+        {
+          "word": "X",
+          "start": 61.04,
+          "end": 61.34
+        }
+      ]
+    },
+    {
+      "text": "I  had  to  pick  up  that  camera  girl",
+      "start": 61.34,
+      "end": 62.58,
+      "words": [
+        {
+          "word": "I",
+          "start": 61.34,
+          "end": 61.38
+        },
+        {
+          "word": "had",
+          "start": 61.38,
+          "end": 61.48
+        },
+        {
+          "word": "to",
+          "start": 61.48,
+          "end": 61.62
+        },
+        {
+          "word": "pick",
+          "start": 61.62,
+          "end": 61.76
+        },
+        {
+          "word": "up",
+          "start": 61.76,
+          "end": 61.92
+        },
+        {
+          "word": "that",
+          "start": 61.92,
+          "end": 62.1
+        },
+        {
+          "word": "camera",
+          "start": 62.1,
+          "end": 62.54
+        },
+        {
+          "word": "girl",
+          "start": 62.54,
+          "end": 62.58
+        }
+      ]
+    },
+    {
+      "text": "Embarrassed  and  take  the  guns  and  tell  you  now",
+      "start": 62.58,
+      "end": 65.26,
+      "words": [
+        {
+          "word": "Embarrassed",
+          "start": 62.58,
+          "end": 63.42
+        },
+        {
+          "word": "and",
+          "start": 63.42,
+          "end": 63.52
+        },
+        {
+          "word": "take",
+          "start": 63.52,
+          "end": 63.74
+        },
+        {
+          "word": "the",
+          "start": 63.74,
+          "end": 64.02
+        },
+        {
+          "word": "guns",
+          "start": 64.02,
+          "end": 64.18
+        },
+        {
+          "word": "and",
+          "start": 64.18,
+          "end": 64.5
+        },
+        {
+          "word": "tell",
+          "start": 64.5,
+          "end": 64.74
+        },
+        {
+          "word": "you",
+          "start": 64.74,
+          "end": 65
+        },
+        {
+          "word": "now",
+          "start": 65,
+          "end": 65.26
+        }
+      ]
+    },
+    {
+      "text": "She  would  rap  off  your  way",
+      "start": 65.26,
+      "end": 67.44,
+      "words": [
+        {
+          "word": "She",
+          "start": 65.26,
+          "end": 65.54
+        },
+        {
+          "word": "would",
+          "start": 65.54,
+          "end": 65.76
+        },
+        {
+          "word": "rap",
+          "start": 65.76,
+          "end": 66.06
+        },
+        {
+          "word": "off",
+          "start": 66.06,
+          "end": 66.32
+        },
+        {
+          "word": "your",
+          "start": 66.32,
+          "end": 66.82
+        },
+        {
+          "word": "way",
+          "start": 66.82,
+          "end": 67.44
+        }
+      ]
+    },
+    {
+      "text": "Made  your  boy's  dream  come  true",
+      "start": 67.44,
+      "end": 69.5,
+      "words": [
+        {
+          "word": "Made",
+          "start": 67.44,
+          "end": 67.9
+        },
+        {
+          "word": "your",
+          "start": 67.9,
+          "end": 68.2
+        },
+        {
+          "word": "boy's",
+          "start": 68.2,
+          "end": 68.6
+        },
+        {
+          "word": "dream",
+          "start": 68.6,
+          "end": 68.76
+        },
+        {
+          "word": "come",
+          "start": 68.76,
+          "end": 69.22
+        },
+        {
+          "word": "true",
+          "start": 69.22,
+          "end": 69.5
+        }
+      ]
+    },
+    {
+      "text": "Now  what  you  gonna  do?",
+      "start": 69.5,
+      "end": 71.26,
+      "words": [
+        {
+          "word": "Now",
+          "start": 69.5,
+          "end": 69.86
+        },
+        {
+          "word": "what",
+          "start": 69.86,
+          "end": 70.08
+        },
+        {
+          "word": "you",
+          "start": 70.08,
+          "end": 70.4
+        },
+        {
+          "word": "gonna",
+          "start": 70.4,
+          "end": 70.66
+        },
+        {
+          "word": "do?",
+          "start": 70.66,
+          "end": 71.26
+        }
+      ]
+    },
+    {
+      "text": "Gonna  see  cross -animate  for  two",
+      "start": 71.38,
+      "end": 73.26,
+      "words": [
+        {
+          "word": "Gonna",
+          "start": 71.38,
+          "end": 71.66
+        },
+        {
+          "word": "see",
+          "start": 71.66,
+          "end": 71.94
+        },
+        {
+          "word": "cross",
+          "start": 71.94,
+          "end": 72.24
+        },
+        {
+          "word": "-animate",
+          "start": 72.24,
+          "end": 72.88
+        },
+        {
+          "word": "for",
+          "start": 72.88,
+          "end": 73.18
+        },
+        {
+          "word": "two",
+          "start": 73.18,
+          "end": 73.26
+        }
+      ]
+    },
+    {
+      "text": "No  I  don't  know  you,  let  me  show  you",
+      "start": 73.26,
+      "end": 76.22,
+      "words": [
+        {
+          "word": "No",
+          "start": 73.26,
+          "end": 73.72
+        },
+        {
+          "word": "I",
+          "start": 73.72,
+          "end": 73.8
+        },
+        {
+          "word": "don't",
+          "start": 73.8,
+          "end": 74.2
+        },
+        {
+          "word": "know",
+          "start": 74.2,
+          "end": 74.34
+        },
+        {
+          "word": "you,",
+          "start": 74.34,
+          "end": 74.76
+        },
+        {
+          "word": "let",
+          "start": 74.9,
+          "end": 75.14
+        },
+        {
+          "word": "me",
+          "start": 75.14,
+          "end": 75.44
+        },
+        {
+          "word": "show",
+          "start": 75.44,
+          "end": 75.74
+        },
+        {
+          "word": "you",
+          "start": 75.74,
+          "end": 76.22
+        }
+      ]
+    },
+    {
+      "text": "We  can  run  through,  hurt  you",
+      "start": 76.22,
+      "end": 78.56,
+      "words": [
+        {
+          "word": "We",
+          "start": 76.22,
+          "end": 76.58
+        },
+        {
+          "word": "can",
+          "start": 76.58,
+          "end": 76.78
+        },
+        {
+          "word": "run",
+          "start": 76.78,
+          "end": 77.28
+        },
+        {
+          "word": "through,",
+          "start": 77.28,
+          "end": 77.58
+        },
+        {
+          "word": "hurt",
+          "start": 77.76,
+          "end": 78.16
+        },
+        {
+          "word": "you",
+          "start": 78.16,
+          "end": 78.56
+        }
+      ]
+    },
+    {
+      "text": "Turn  your  soul,  man,  into  art  news",
+      "start": 78.56,
+      "end": 81.18,
+      "words": [
+        {
+          "word": "Turn",
+          "start": 78.56,
+          "end": 78.84
+        },
+        {
+          "word": "your",
+          "start": 78.84,
+          "end": 79.16
+        },
+        {
+          "word": "soul,",
+          "start": 79.16,
+          "end": 79.58
+        },
+        {
+          "word": "man,",
+          "start": 79.92,
+          "end": 80.1
+        },
+        {
+          "word": "into",
+          "start": 80.18,
+          "end": 80.48
+        },
+        {
+          "word": "art",
+          "start": 80.48,
+          "end": 80.96
+        },
+        {
+          "word": "news",
+          "start": 80.96,
+          "end": 81.18
+        }
+      ]
+    },
+    {
+      "text": "Oh  dear,  you  seem  so  clear",
+      "start": 81.18,
+      "end": 83.58,
+      "words": [
+        {
+          "word": "Oh",
+          "start": 81.18,
+          "end": 81.92
+        },
+        {
+          "word": "dear,",
+          "start": 81.92,
+          "end": 82.16
+        },
+        {
+          "word": "you",
+          "start": 82.38,
+          "end": 82.56
+        },
+        {
+          "word": "seem",
+          "start": 82.56,
+          "end": 82.74
+        },
+        {
+          "word": "so",
+          "start": 82.74,
+          "end": 83.24
+        },
+        {
+          "word": "clear",
+          "start": 83.24,
+          "end": 83.58
+        }
+      ]
+    },
+    {
+      "text": "Now  the  road  here,  I'll  ruggle  you  with  stressin'",
+      "start": 83.58,
+      "end": 86.44,
+      "words": [
+        {
+          "word": "Now",
+          "start": 83.58,
+          "end": 83.94
+        },
+        {
+          "word": "the",
+          "start": 83.94,
+          "end": 84.26
+        },
+        {
+          "word": "road",
+          "start": 84.26,
+          "end": 84.54
+        },
+        {
+          "word": "here,",
+          "start": 84.54,
+          "end": 84.94
+        },
+        {
+          "word": "I'll",
+          "start": 85.26,
+          "end": 85.42
+        },
+        {
+          "word": "ruggle",
+          "start": 85.42,
+          "end": 85.58
+        },
+        {
+          "word": "you",
+          "start": 85.58,
+          "end": 85.8
+        },
+        {
+          "word": "with",
+          "start": 85.8,
+          "end": 86.02
+        },
+        {
+          "word": "stressin'",
+          "start": 86.02,
+          "end": 86.44
+        }
+      ]
+    },
+    {
+      "text": "We're  gonna  get  lost  just  in  the  direction",
+      "start": 86.44,
+      "end": 88.58,
+      "words": [
+        {
+          "word": "We're",
+          "start": 86.44,
+          "end": 86.76
+        },
+        {
+          "word": "gonna",
+          "start": 86.76,
+          "end": 86.76
+        },
+        {
+          "word": "get",
+          "start": 86.76,
+          "end": 86.96
+        },
+        {
+          "word": "lost",
+          "start": 86.96,
+          "end": 87.14
+        },
+        {
+          "word": "just",
+          "start": 87.14,
+          "end": 87.38
+        },
+        {
+          "word": "in",
+          "start": 87.38,
+          "end": 87.56
+        },
+        {
+          "word": "the",
+          "start": 87.56,
+          "end": 87.64
+        },
+        {
+          "word": "direction",
+          "start": 87.64,
+          "end": 88.58
+        }
+      ]
+    },
+    {
+      "text": "Check  one,  we'll  make  a  house  shake",
+      "start": 88.58,
+      "end": 91.94,
+      "words": [
+        {
+          "word": "Check",
+          "start": 88.58,
+          "end": 89.6
+        },
+        {
+          "word": "one,",
+          "start": 89.6,
+          "end": 90.12
+        },
+        {
+          "word": "we'll",
+          "start": 90.24,
+          "end": 90.7
+        },
+        {
+          "word": "make",
+          "start": 90.7,
+          "end": 90.88
+        },
+        {
+          "word": "a",
+          "start": 90.88,
+          "end": 91.22
+        },
+        {
+          "word": "house",
+          "start": 91.22,
+          "end": 91.6
+        },
+        {
+          "word": "shake",
+          "start": 91.6,
+          "end": 91.94
+        }
+      ]
+    },
+    {
+      "text": "Break  a  town  off  the  lake",
+      "start": 91.94,
+      "end": 93.76,
+      "words": [
+        {
+          "word": "Break",
+          "start": 91.94,
+          "end": 92.3
+        },
+        {
+          "word": "a",
+          "start": 92.3,
+          "end": 92.62
+        },
+        {
+          "word": "town",
+          "start": 92.62,
+          "end": 92.92
+        },
+        {
+          "word": "off",
+          "start": 92.92,
+          "end": 93.2
+        },
+        {
+          "word": "the",
+          "start": 93.2,
+          "end": 93.52
+        },
+        {
+          "word": "lake",
+          "start": 93.52,
+          "end": 93.76
+        }
+      ]
+    },
+    {
+      "text": "Fuck  the  world  up  with  me,  she  said",
+      "start": 93.76,
+      "end": 96.18,
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 93.76,
+          "end": 94.12
+        },
+        {
+          "word": "the",
+          "start": 94.12,
+          "end": 94.38
+        },
+        {
+          "word": "world",
+          "start": 94.38,
+          "end": 94.74
+        },
+        {
+          "word": "up",
+          "start": 94.74,
+          "end": 95.06
+        },
+        {
+          "word": "with",
+          "start": 95.06,
+          "end": 95.26
+        },
+        {
+          "word": "me,",
+          "start": 95.26,
+          "end": 95.44
+        },
+        {
+          "word": "she",
+          "start": 95.44,
+          "end": 95.84
+        },
+        {
+          "word": "said",
+          "start": 95.84,
+          "end": 96.18
+        }
+      ]
+    },
+    {
+      "text": "Ha,  ha",
+      "start": 96.18,
+      "end": 97.1,
+      "words": [
+        {
+          "word": "Ha,",
+          "start": 96.18,
+          "end": 96.18
+        },
+        {
+          "word": "ha",
+          "start": 96.8,
+          "end": 97.1
+        }
+      ]
+    },
+    {
+      "text": "Sounding  like  that  chorus  of  tipsies",
+      "start": 97.1,
+      "end": 99.52,
+      "words": [
+        {
+          "word": "Sounding",
+          "start": 97.1,
+          "end": 97.64
+        },
+        {
+          "word": "like",
+          "start": 97.64,
+          "end": 97.82
+        },
+        {
+          "word": "that",
+          "start": 97.82,
+          "end": 98.1
+        },
+        {
+          "word": "chorus",
+          "start": 98.1,
+          "end": 98.46
+        },
+        {
+          "word": "of",
+          "start": 98.46,
+          "end": 98.9
+        },
+        {
+          "word": "tipsies",
+          "start": 98.9,
+          "end": 99.52
+        }
+      ]
+    },
+    {
+      "text": "Sparing  like  a  tourist,  all  you  need  is  some  nitch",
+      "start": 99.52,
+      "end": 102.88,
+      "words": [
+        {
+          "word": "Sparing",
+          "start": 99.52,
+          "end": 100.06
+        },
+        {
+          "word": "like",
+          "start": 100.06,
+          "end": 100.42
+        },
+        {
+          "word": "a",
+          "start": 100.42,
+          "end": 100.68
+        },
+        {
+          "word": "tourist,",
+          "start": 100.68,
+          "end": 101.2
+        },
+        {
+          "word": "all",
+          "start": 101.22,
+          "end": 101.52
+        },
+        {
+          "word": "you",
+          "start": 101.52,
+          "end": 101.78
+        },
+        {
+          "word": "need",
+          "start": 101.78,
+          "end": 101.98
+        },
+        {
+          "word": "is",
+          "start": 101.98,
+          "end": 102.26
+        },
+        {
+          "word": "some",
+          "start": 102.26,
+          "end": 102.54
+        },
+        {
+          "word": "nitch",
+          "start": 102.54,
+          "end": 102.88
+        }
+      ]
+    },
+    {
+      "text": "I'm  in  trouble,  watching  the  world  turn",
+      "start": 102.88,
+      "end": 105.34,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 102.88,
+          "end": 103.3
+        },
+        {
+          "word": "in",
+          "start": 103.3,
+          "end": 103.52
+        },
+        {
+          "word": "trouble,",
+          "start": 103.52,
+          "end": 104.04
+        },
+        {
+          "word": "watching",
+          "start": 104.5,
+          "end": 104.6
+        },
+        {
+          "word": "the",
+          "start": 104.6,
+          "end": 104.84
+        },
+        {
+          "word": "world",
+          "start": 104.84,
+          "end": 105.06
+        },
+        {
+          "word": "turn",
+          "start": 105.06,
+          "end": 105.34
+        }
+      ]
+    },
+    {
+      "text": "To  the  cops,  it  turns  away  from  everyone",
+      "start": 105.34,
+      "end": 108.48,
+      "words": [
+        {
+          "word": "To",
+          "start": 105.34,
+          "end": 105.76
+        },
+        {
+          "word": "the",
+          "start": 105.76,
+          "end": 106.04
+        },
+        {
+          "word": "cops,",
+          "start": 106.04,
+          "end": 106.28
+        },
+        {
+          "word": "it",
+          "start": 106.32,
+          "end": 106.76
+        },
+        {
+          "word": "turns",
+          "start": 106.76,
+          "end": 106.78
+        },
+        {
+          "word": "away",
+          "start": 106.78,
+          "end": 107.42
+        },
+        {
+          "word": "from",
+          "start": 107.42,
+          "end": 107.78
+        },
+        {
+          "word": "everyone",
+          "start": 107.78,
+          "end": 108.48
+        }
+      ]
+    },
+    {
+      "text": "From  my  observes,  take  a  listen  and  learn",
+      "start": 108.48,
+      "end": 111.02,
+      "words": [
+        {
+          "word": "From",
+          "start": 108.48,
+          "end": 108.82
+        },
+        {
+          "word": "my",
+          "start": 108.82,
+          "end": 108.94
+        },
+        {
+          "word": "observes,",
+          "start": 108.94,
+          "end": 109.76
+        },
+        {
+          "word": "take",
+          "start": 109.9,
+          "end": 109.98
+        },
+        {
+          "word": "a",
+          "start": 109.98,
+          "end": 110.12
+        },
+        {
+          "word": "listen",
+          "start": 110.12,
+          "end": 110.32
+        },
+        {
+          "word": "and",
+          "start": 110.32,
+          "end": 110.68
+        },
+        {
+          "word": "learn",
+          "start": 110.68,
+          "end": 111.02
+        }
+      ]
+    },
+    {
+      "text": "Hey  lonely  girl,  where'd  you  appear  from?",
+      "start": 111.02,
+      "end": 113.78,
+      "words": [
+        {
+          "word": "Hey",
+          "start": 111.02,
+          "end": 111.44
+        },
+        {
+          "word": "lonely",
+          "start": 111.44,
+          "end": 111.9
+        },
+        {
+          "word": "girl,",
+          "start": 111.9,
+          "end": 112.46
+        },
+        {
+          "word": "where'd",
+          "start": 112.68,
+          "end": 112.8
+        },
+        {
+          "word": "you",
+          "start": 112.8,
+          "end": 112.94
+        },
+        {
+          "word": "appear",
+          "start": 112.94,
+          "end": 113.2
+        },
+        {
+          "word": "from?",
+          "start": 113.2,
+          "end": 113.78
+        }
+      ]
+    },
+    {
+      "text": "I'm  a  lonely  boy  in  a  crowded  world",
+      "start": 113.78,
+      "end": 116.46,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 113.78,
+          "end": 114.08
+        },
+        {
+          "word": "a",
+          "start": 114.08,
+          "end": 114.22
+        },
+        {
+          "word": "lonely",
+          "start": 114.22,
+          "end": 114.68
+        },
+        {
+          "word": "boy",
+          "start": 114.68,
+          "end": 115.3
+        },
+        {
+          "word": "in",
+          "start": 115.3,
+          "end": 115.54
+        },
+        {
+          "word": "a",
+          "start": 115.54,
+          "end": 115.7
+        },
+        {
+          "word": "crowded",
+          "start": 115.7,
+          "end": 116
+        },
+        {
+          "word": "world",
+          "start": 116,
+          "end": 116.46
+        }
+      ]
+    },
+    {
+      "text": "How  do  I  work  in  the  night?",
+      "start": 116.46,
+      "end": 118.08,
+      "words": [
+        {
+          "word": "How",
+          "start": 116.46,
+          "end": 116.66
+        },
+        {
+          "word": "do",
+          "start": 116.66,
+          "end": 116.76
+        },
+        {
+          "word": "I",
+          "start": 116.76,
+          "end": 116.94
+        },
+        {
+          "word": "work",
+          "start": 116.94,
+          "end": 117.52
+        },
+        {
+          "word": "in",
+          "start": 117.52,
+          "end": 117.66
+        },
+        {
+          "word": "the",
+          "start": 117.66,
+          "end": 117.96
+        },
+        {
+          "word": "night?",
+          "start": 117.96,
+          "end": 118.08
+        }
+      ]
+    },
+    {
+      "text": "I  am  alone",
+      "start": 118.4,
+      "end": 119.2,
+      "words": [
+        {
+          "word": "I",
+          "start": 118.4,
+          "end": 118.5
+        },
+        {
+          "word": "am",
+          "start": 118.5,
+          "end": 118.72
+        },
+        {
+          "word": "alone",
+          "start": 118.72,
+          "end": 119.2
+        }
+      ]
+    },
+    {
+      "text": "Out  of  nowhere",
+      "start": 119.2,
+      "end": 120.36,
+      "words": [
+        {
+          "word": "Out",
+          "start": 119.2,
+          "end": 119.86
+        },
+        {
+          "word": "of",
+          "start": 119.86,
+          "end": 119.94
+        },
+        {
+          "word": "nowhere",
+          "start": 119.94,
+          "end": 120.36
+        }
+      ]
+    },
+    {
+      "text": "I  do  not  know  how  to  become",
+      "start": 120.86,
+      "end": 123.12,
+      "words": [
+        {
+          "word": "I",
+          "start": 120.86,
+          "end": 121.26
+        },
+        {
+          "word": "do",
+          "start": 121.26,
+          "end": 121.38
+        },
+        {
+          "word": "not",
+          "start": 121.38,
+          "end": 121.56
+        },
+        {
+          "word": "know",
+          "start": 121.56,
+          "end": 121.88
+        },
+        {
+          "word": "how",
+          "start": 121.88,
+          "end": 122.14
+        },
+        {
+          "word": "to",
+          "start": 122.14,
+          "end": 122.32
+        },
+        {
+          "word": "become",
+          "start": 122.32,
+          "end": 123.12
+        }
+      ]
+    },
+    {
+      "text": "Something  I  love",
+      "start": 123.12,
+      "end": 124.28,
+      "words": [
+        {
+          "word": "Something",
+          "start": 123.12,
+          "end": 123.64
+        },
+        {
+          "word": "I",
+          "start": 123.64,
+          "end": 123.92
+        },
+        {
+          "word": "love",
+          "start": 123.92,
+          "end": 124.28
+        }
+      ]
+    },
+    {
+      "text": "I'm  in  a  loss",
+      "start": 124.28,
+      "end": 125.5,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 124.28,
+          "end": 125.02
+        },
+        {
+          "word": "in",
+          "start": 125.02,
+          "end": 125.1
+        },
+        {
+          "word": "a",
+          "start": 125.1,
+          "end": 125.28
+        },
+        {
+          "word": "loss",
+          "start": 125.28,
+          "end": 125.5
+        }
+      ]
+    },
+    {
+      "text": "Working  alone",
+      "start": 125.5,
+      "end": 126.9,
+      "words": [
+        {
+          "word": "Working",
+          "start": 125.5,
+          "end": 125.98
+        },
+        {
+          "word": "alone",
+          "start": 125.98,
+          "end": 126.9
+        }
+      ]
+    },
+    {
+      "text": "Nowhere  to  go",
+      "start": 126.9,
+      "end": 128.26,
+      "words": [
+        {
+          "word": "Nowhere",
+          "start": 126.9,
+          "end": 127.42
+        },
+        {
+          "word": "to",
+          "start": 127.42,
+          "end": 127.56
+        },
+        {
+          "word": "go",
+          "start": 127.56,
+          "end": 128.26
+        }
+      ]
+    },
+    {
+      "text": "Take  a  big  go",
+      "start": 128.26,
+      "end": 129.32,
+      "words": [
+        {
+          "word": "Take",
+          "start": 128.26,
+          "end": 128.66
+        },
+        {
+          "word": "a",
+          "start": 128.66,
+          "end": 128.8
+        },
+        {
+          "word": "big",
+          "start": 128.8,
+          "end": 128.96
+        },
+        {
+          "word": "go",
+          "start": 128.96,
+          "end": 129.32
+        }
+      ]
+    },
+    {
+      "text": "Fire  me  into  the  edge  of  it",
+      "start": 129.32,
+      "end": 130.74,
+      "words": [
+        {
+          "word": "Fire",
+          "start": 129.32,
+          "end": 129.6
+        },
+        {
+          "word": "me",
+          "start": 129.6,
+          "end": 129.9
+        },
+        {
+          "word": "into",
+          "start": 129.9,
+          "end": 130.08
+        },
+        {
+          "word": "the",
+          "start": 130.08,
+          "end": 130.38
+        },
+        {
+          "word": "edge",
+          "start": 130.38,
+          "end": 130.56
+        },
+        {
+          "word": "of",
+          "start": 130.56,
+          "end": 130.66
+        },
+        {
+          "word": "it",
+          "start": 130.66,
+          "end": 130.74
+        }
+      ]
+    },
+    {
+      "text": "Turn  all  the  nations  up  like  in  a  hole",
+      "start": 130.74,
+      "end": 132.28,
+      "words": [
+        {
+          "word": "Turn",
+          "start": 130.74,
+          "end": 130.96
+        },
+        {
+          "word": "all",
+          "start": 130.96,
+          "end": 131.1
+        },
+        {
+          "word": "the",
+          "start": 131.1,
+          "end": 131.26
+        },
+        {
+          "word": "nations",
+          "start": 131.26,
+          "end": 131.48
+        },
+        {
+          "word": "up",
+          "start": 131.48,
+          "end": 131.7
+        },
+        {
+          "word": "like",
+          "start": 131.7,
+          "end": 131.88
+        },
+        {
+          "word": "in",
+          "start": 131.88,
+          "end": 132.04
+        },
+        {
+          "word": "a",
+          "start": 132.04,
+          "end": 132.18
+        },
+        {
+          "word": "hole",
+          "start": 132.18,
+          "end": 132.28
+        }
+      ]
+    },
+    {
+      "text": "In  my  life,  where  that  hole?",
+      "start": 132.28,
+      "end": 133.02,
+      "words": [
+        {
+          "word": "In",
+          "start": 132.28,
+          "end": 132.42
+        },
+        {
+          "word": "my",
+          "start": 132.42,
+          "end": 132.62
+        },
+        {
+          "word": "life,",
+          "start": 132.62,
+          "end": 132.76
+        },
+        {
+          "word": "where",
+          "start": 132.76,
+          "end": 132.92
+        },
+        {
+          "word": "that",
+          "start": 132.92,
+          "end": 133.02
+        },
+        {
+          "word": "hole?",
+          "start": 133.02,
+          "end": 133.02
+        }
+      ]
+    },
+    {
+      "text": "Look  at  that  make  me  leave",
+      "start": 133.04,
+      "end": 134.6,
+      "words": [
+        {
+          "word": "Look",
+          "start": 133.04,
+          "end": 133.24
+        },
+        {
+          "word": "at",
+          "start": 133.24,
+          "end": 133.38
+        },
+        {
+          "word": "that",
+          "start": 133.38,
+          "end": 133.52
+        },
+        {
+          "word": "make",
+          "start": 133.52,
+          "end": 133.78
+        },
+        {
+          "word": "me",
+          "start": 133.78,
+          "end": 134.28
+        },
+        {
+          "word": "leave",
+          "start": 134.28,
+          "end": 134.6
+        }
+      ]
+    },
+    {
+      "text": "Thought  I'm  okay",
+      "start": 134.6,
+      "end": 135.3,
+      "words": [
+        {
+          "word": "Thought",
+          "start": 134.6,
+          "end": 134.78
+        },
+        {
+          "word": "I'm",
+          "start": 134.78,
+          "end": 135
+        },
+        {
+          "word": "okay",
+          "start": 135,
+          "end": 135.3
+        }
+      ]
+    },
+    {
+      "text": "You  know  what  I'm  saying",
+      "start": 135.3,
+      "end": 136.02,
+      "words": [
+        {
+          "word": "You",
+          "start": 135.3,
+          "end": 135.5
+        },
+        {
+          "word": "know",
+          "start": 135.5,
+          "end": 135.58
+        },
+        {
+          "word": "what",
+          "start": 135.58,
+          "end": 135.86
+        },
+        {
+          "word": "I'm",
+          "start": 135.86,
+          "end": 136.02
+        },
+        {
+          "word": "saying",
+          "start": 136.02,
+          "end": 136.02
+        }
+      ]
+    },
+    {
+      "text": "Is  that  you're  okay?",
+      "start": 136.02,
+      "end": 136.7,
+      "words": [
+        {
+          "word": "Is",
+          "start": 136.02,
+          "end": 136.18
+        },
+        {
+          "word": "that",
+          "start": 136.18,
+          "end": 136.24
+        },
+        {
+          "word": "you're",
+          "start": 136.24,
+          "end": 136.48
+        },
+        {
+          "word": "okay?",
+          "start": 136.48,
+          "end": 136.7
+        }
+      ]
+    },
+    {
+      "text": "When  it  really  wanna  be  another  day",
+      "start": 136.8,
+      "end": 138.08,
+      "words": [
+        {
+          "word": "When",
+          "start": 136.8,
+          "end": 136.94
+        },
+        {
+          "word": "it",
+          "start": 136.94,
+          "end": 137.04
+        },
+        {
+          "word": "really",
+          "start": 137.04,
+          "end": 137.18
+        },
+        {
+          "word": "wanna",
+          "start": 137.18,
+          "end": 137.38
+        },
+        {
+          "word": "be",
+          "start": 137.38,
+          "end": 137.6
+        },
+        {
+          "word": "another",
+          "start": 137.6,
+          "end": 137.82
+        },
+        {
+          "word": "day",
+          "start": 137.82,
+          "end": 138.08
+        }
+      ]
+    },
+    {
+      "text": "I  come  into  the  world",
+      "start": 138.08,
+      "end": 138.78,
+      "words": [
+        {
+          "word": "I",
+          "start": 138.08,
+          "end": 138.24
+        },
+        {
+          "word": "come",
+          "start": 138.24,
+          "end": 138.3
+        },
+        {
+          "word": "into",
+          "start": 138.3,
+          "end": 138.42
+        },
+        {
+          "word": "the",
+          "start": 138.42,
+          "end": 138.64
+        },
+        {
+          "word": "world",
+          "start": 138.64,
+          "end": 138.78
+        }
+      ]
+    },
+    {
+      "text": "So  I  don't  know  where  to  go  home",
+      "start": 138.78,
+      "end": 140.38,
+      "words": [
+        {
+          "word": "So",
+          "start": 138.78,
+          "end": 138.94
+        },
+        {
+          "word": "I",
+          "start": 138.94,
+          "end": 139.08
+        },
+        {
+          "word": "don't",
+          "start": 139.08,
+          "end": 139.3
+        },
+        {
+          "word": "know",
+          "start": 139.3,
+          "end": 139.48
+        },
+        {
+          "word": "where",
+          "start": 139.48,
+          "end": 139.66
+        },
+        {
+          "word": "to",
+          "start": 139.66,
+          "end": 139.82
+        },
+        {
+          "word": "go",
+          "start": 139.82,
+          "end": 140.04
+        },
+        {
+          "word": "home",
+          "start": 140.04,
+          "end": 140.38
+        }
+      ]
+    },
+    {
+      "text": "Fever  in  me  under  the  weather",
+      "start": 140.38,
+      "end": 141.58,
+      "words": [
+        {
+          "word": "Fever",
+          "start": 140.38,
+          "end": 140.68
+        },
+        {
+          "word": "in",
+          "start": 140.68,
+          "end": 140.8
+        },
+        {
+          "word": "me",
+          "start": 140.8,
+          "end": 140.96
+        },
+        {
+          "word": "under",
+          "start": 140.96,
+          "end": 141.12
+        },
+        {
+          "word": "the",
+          "start": 141.12,
+          "end": 141.36
+        },
+        {
+          "word": "weather",
+          "start": 141.36,
+          "end": 141.58
+        }
+      ]
+    },
+    {
+      "text": "The  things  that  I  wanted  to  call  my  definition",
+      "start": 141.58,
+      "end": 143.44,
+      "words": [
+        {
+          "word": "The",
+          "start": 141.58,
+          "end": 141.84
+        },
+        {
+          "word": "things",
+          "start": 141.84,
+          "end": 142.04
+        },
+        {
+          "word": "that",
+          "start": 142.04,
+          "end": 142.18
+        },
+        {
+          "word": "I",
+          "start": 142.18,
+          "end": 142.28
+        },
+        {
+          "word": "wanted",
+          "start": 142.28,
+          "end": 142.52
+        },
+        {
+          "word": "to",
+          "start": 142.52,
+          "end": 142.72
+        },
+        {
+          "word": "call",
+          "start": 142.72,
+          "end": 142.9
+        },
+        {
+          "word": "my",
+          "start": 142.9,
+          "end": 143.1
+        },
+        {
+          "word": "definition",
+          "start": 143.1,
+          "end": 143.44
+        }
+      ]
+    },
+    {
+      "text": "But  never  a  message  to  conquer  and  heal  all  the  nations",
+      "start": 143.44,
+      "end": 145.74,
+      "words": [
+        {
+          "word": "But",
+          "start": 143.44,
+          "end": 143.62
+        },
+        {
+          "word": "never",
+          "start": 143.62,
+          "end": 144
+        },
+        {
+          "word": "a",
+          "start": 144,
+          "end": 144.18
+        },
+        {
+          "word": "message",
+          "start": 144.18,
+          "end": 144.38
+        },
+        {
+          "word": "to",
+          "start": 144.38,
+          "end": 144.66
+        },
+        {
+          "word": "conquer",
+          "start": 144.66,
+          "end": 144.94
+        },
+        {
+          "word": "and",
+          "start": 144.94,
+          "end": 145.14
+        },
+        {
+          "word": "heal",
+          "start": 145.14,
+          "end": 145.28
+        },
+        {
+          "word": "all",
+          "start": 145.28,
+          "end": 145.44
+        },
+        {
+          "word": "the",
+          "start": 145.44,
+          "end": 145.54
+        },
+        {
+          "word": "nations",
+          "start": 145.54,
+          "end": 145.74
+        }
+      ]
+    },
+    {
+      "text": "I'm  not  with  some  white  and  familiar  to  face",
+      "start": 145.74,
+      "end": 147.72,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 145.74,
+          "end": 146.04
+        },
+        {
+          "word": "not",
+          "start": 146.04,
+          "end": 146.14
+        },
+        {
+          "word": "with",
+          "start": 146.14,
+          "end": 146.34
+        },
+        {
+          "word": "some",
+          "start": 146.34,
+          "end": 146.5
+        },
+        {
+          "word": "white",
+          "start": 146.5,
+          "end": 146.62
+        },
+        {
+          "word": "and",
+          "start": 146.62,
+          "end": 146.78
+        },
+        {
+          "word": "familiar",
+          "start": 146.78,
+          "end": 147.12
+        },
+        {
+          "word": "to",
+          "start": 147.12,
+          "end": 147.48
+        },
+        {
+          "word": "face",
+          "start": 147.48,
+          "end": 147.72
+        }
+      ]
+    },
+    {
+      "text": "I  want  a  solo  in  the  dark  water",
+      "start": 147.72,
+      "end": 162.36,
+      "words": [
+        {
+          "word": "I",
+          "start": 147.72,
+          "end": 148.24
+        },
+        {
+          "word": "want",
+          "start": 148.24,
+          "end": 148.52
+        },
+        {
+          "word": "a",
+          "start": 148.52,
+          "end": 148.92
+        },
+        {
+          "word": "solo",
+          "start": 148.92,
+          "end": 149.48
+        },
+        {
+          "word": "in",
+          "start": 149.48,
+          "end": 149.94
+        },
+        {
+          "word": "the",
+          "start": 149.94,
+          "end": 150.22
+        },
+        {
+          "word": "dark",
+          "start": 150.22,
+          "end": 150.54
+        },
+        {
+          "word": "water",
+          "start": 150.54,
+          "end": 162.36
+        }
+      ]
+    },
+    {
+      "text": "Creeping  up  under  the  light  of  the  sun",
+      "start": 162.36,
+      "end": 164.14,
+      "words": [
+        {
+          "word": "Creeping",
+          "start": 162.36,
+          "end": 162.92
+        },
+        {
+          "word": "up",
+          "start": 162.92,
+          "end": 163.14
+        },
+        {
+          "word": "under",
+          "start": 163.14,
+          "end": 163.3
+        },
+        {
+          "word": "the",
+          "start": 163.3,
+          "end": 163.54
+        },
+        {
+          "word": "light",
+          "start": 163.54,
+          "end": 163.66
+        },
+        {
+          "word": "of",
+          "start": 163.66,
+          "end": 163.88
+        },
+        {
+          "word": "the",
+          "start": 163.88,
+          "end": 164.02
+        },
+        {
+          "word": "sun",
+          "start": 164.02,
+          "end": 164.14
+        }
+      ]
+    },
+    {
+      "text": "And  I  never  begun  to  imagine",
+      "start": 164.14,
+      "end": 165.66,
+      "words": [
+        {
+          "word": "And",
+          "start": 164.14,
+          "end": 164.34
+        },
+        {
+          "word": "I",
+          "start": 164.34,
+          "end": 164.5
+        },
+        {
+          "word": "never",
+          "start": 164.5,
+          "end": 164.7
+        },
+        {
+          "word": "begun",
+          "start": 164.7,
+          "end": 165
+        },
+        {
+          "word": "to",
+          "start": 165,
+          "end": 165.24
+        },
+        {
+          "word": "imagine",
+          "start": 165.24,
+          "end": 165.66
+        }
+      ]
+    },
+    {
+      "text": "Or  where  I  feel  I  belong",
+      "start": 165.66,
+      "end": 166.88,
+      "words": [
+        {
+          "word": "Or",
+          "start": 165.66,
+          "end": 165.94
+        },
+        {
+          "word": "where",
+          "start": 165.94,
+          "end": 166.04
+        },
+        {
+          "word": "I",
+          "start": 166.04,
+          "end": 166.28
+        },
+        {
+          "word": "feel",
+          "start": 166.28,
+          "end": 166.5
+        },
+        {
+          "word": "I",
+          "start": 166.5,
+          "end": 166.68
+        },
+        {
+          "word": "belong",
+          "start": 166.68,
+          "end": 166.88
+        }
+      ]
+    },
+    {
+      "text": "And  I  cycle  the  spiral  and  helix  is  giving  me  some",
+      "start": 166.88,
+      "end": 169.58,
+      "words": [
+        {
+          "word": "And",
+          "start": 166.88,
+          "end": 167.12
+        },
+        {
+          "word": "I",
+          "start": 167.12,
+          "end": 167.24
+        },
+        {
+          "word": "cycle",
+          "start": 167.24,
+          "end": 167.46
+        },
+        {
+          "word": "the",
+          "start": 167.46,
+          "end": 167.64
+        },
+        {
+          "word": "spiral",
+          "start": 167.64,
+          "end": 167.94
+        },
+        {
+          "word": "and",
+          "start": 167.94,
+          "end": 168.18
+        },
+        {
+          "word": "helix",
+          "start": 168.18,
+          "end": 168.44
+        },
+        {
+          "word": "is",
+          "start": 168.44,
+          "end": 168.64
+        },
+        {
+          "word": "giving",
+          "start": 168.64,
+          "end": 168.92
+        },
+        {
+          "word": "me",
+          "start": 168.92,
+          "end": 169.28
+        },
+        {
+          "word": "some",
+          "start": 169.28,
+          "end": 169.58
+        }
+      ]
+    },
+    {
+      "text": "Hope  in  a  relation  between  all  the  stars  and  the  constellations",
+      "start": 170.04,
+      "end": 172.84,
+      "words": [
+        {
+          "word": "Hope",
+          "start": 170.04,
+          "end": 170.48
+        },
+        {
+          "word": "in",
+          "start": 170.48,
+          "end": 170.7
+        },
+        {
+          "word": "a",
+          "start": 170.7,
+          "end": 170.88
+        },
+        {
+          "word": "relation",
+          "start": 170.88,
+          "end": 171.16
+        },
+        {
+          "word": "between",
+          "start": 171.16,
+          "end": 171.48
+        },
+        {
+          "word": "all",
+          "start": 171.48,
+          "end": 171.72
+        },
+        {
+          "word": "the",
+          "start": 171.72,
+          "end": 171.84
+        },
+        {
+          "word": "stars",
+          "start": 171.84,
+          "end": 171.98
+        },
+        {
+          "word": "and",
+          "start": 171.98,
+          "end": 172.2
+        },
+        {
+          "word": "the",
+          "start": 172.2,
+          "end": 172.36
+        },
+        {
+          "word": "constellations",
+          "start": 172.36,
+          "end": 172.84
+        }
+      ]
+    },
+    {
+      "text": "I'm  in  a  true  universe  I  could  create  and  destroy",
+      "start": 172.84,
+      "end": 175.68,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 172.84,
+          "end": 173.46
+        },
+        {
+          "word": "in",
+          "start": 173.46,
+          "end": 173.84
+        },
+        {
+          "word": "a",
+          "start": 173.84,
+          "end": 174
+        },
+        {
+          "word": "true",
+          "start": 174,
+          "end": 174.18
+        },
+        {
+          "word": "universe",
+          "start": 174.18,
+          "end": 174.56
+        },
+        {
+          "word": "I",
+          "start": 174.56,
+          "end": 174.76
+        },
+        {
+          "word": "could",
+          "start": 174.76,
+          "end": 174.92
+        },
+        {
+          "word": "create",
+          "start": 174.92,
+          "end": 175.18
+        },
+        {
+          "word": "and",
+          "start": 175.18,
+          "end": 175.42
+        },
+        {
+          "word": "destroy",
+          "start": 175.42,
+          "end": 175.68
+        }
+      ]
+    },
+    {
+      "text": "As  I'm  up  so  be  it",
+      "start": 175.68,
+      "end": 177.3,
+      "words": [
+        {
+          "word": "As",
+          "start": 175.68,
+          "end": 175.92
+        },
+        {
+          "word": "I'm",
+          "start": 175.92,
+          "end": 176.12
+        },
+        {
+          "word": "up",
+          "start": 176.12,
+          "end": 176.22
+        },
+        {
+          "word": "so",
+          "start": 176.22,
+          "end": 176.64
+        },
+        {
+          "word": "be",
+          "start": 176.64,
+          "end": 176.94
+        },
+        {
+          "word": "it",
+          "start": 176.94,
+          "end": 177.3
+        }
+      ]
+    },
+    {
+      "text": "NO!",
+      "start": 177.3,
+      "end": 177.64,
+      "words": [
+        {
+          "word": "NO!",
+          "start": 177.3,
+          "end": 177.64
+        }
+      ]
+    },
+    {
+      "text": "But  what  you've  well  done",
+      "start": 177.86,
+      "end": 179.32,
+      "words": [
+        {
+          "word": "But",
+          "start": 177.86,
+          "end": 178
+        },
+        {
+          "word": "what",
+          "start": 178,
+          "end": 178.34
+        },
+        {
+          "word": "you've",
+          "start": 178.34,
+          "end": 178.5
+        },
+        {
+          "word": "well",
+          "start": 178.5,
+          "end": 178.82
+        },
+        {
+          "word": "done",
+          "start": 178.82,
+          "end": 179.32
+        }
+      ]
+    },
+    {
+      "text": "To  the  copies  that  I'm  some  way  from",
+      "start": 179.32,
+      "end": 181.54,
+      "words": [
+        {
+          "word": "To",
+          "start": 179.32,
+          "end": 179.58
+        },
+        {
+          "word": "the",
+          "start": 179.58,
+          "end": 179.84
+        },
+        {
+          "word": "copies",
+          "start": 179.84,
+          "end": 180.1
+        },
+        {
+          "word": "that",
+          "start": 180.1,
+          "end": 180.42
+        },
+        {
+          "word": "I'm",
+          "start": 180.42,
+          "end": 180.62
+        },
+        {
+          "word": "some",
+          "start": 180.62,
+          "end": 180.88
+        },
+        {
+          "word": "way",
+          "start": 180.88,
+          "end": 181.26
+        },
+        {
+          "word": "from",
+          "start": 181.26,
+          "end": 181.54
+        }
+      ]
+    },
+    {
+      "text": "Never  be  one  from  my  upsurge",
+      "start": 181.54,
+      "end": 183.58,
+      "words": [
+        {
+          "word": "Never",
+          "start": 181.54,
+          "end": 181.8
+        },
+        {
+          "word": "be",
+          "start": 181.8,
+          "end": 182.14
+        },
+        {
+          "word": "one",
+          "start": 182.14,
+          "end": 182.38
+        },
+        {
+          "word": "from",
+          "start": 182.38,
+          "end": 182.6
+        },
+        {
+          "word": "my",
+          "start": 182.6,
+          "end": 182.78
+        },
+        {
+          "word": "upsurge",
+          "start": 182.78,
+          "end": 183.58
+        }
+      ]
+    },
+    {
+      "text": "Take  a  listen  and  love",
+      "start": 183.58,
+      "end": 184.82,
+      "words": [
+        {
+          "word": "Take",
+          "start": 183.58,
+          "end": 183.78
+        },
+        {
+          "word": "a",
+          "start": 183.78,
+          "end": 183.92
+        },
+        {
+          "word": "listen",
+          "start": 183.92,
+          "end": 184.1
+        },
+        {
+          "word": "and",
+          "start": 184.1,
+          "end": 184.42
+        },
+        {
+          "word": "love",
+          "start": 184.42,
+          "end": 184.82
+        }
+      ]
+    },
+    {
+      "text": "Hey  lonely  girl",
+      "start": 184.82,
+      "end": 186.28,
+      "words": [
+        {
+          "word": "Hey",
+          "start": 184.82,
+          "end": 185.22
+        },
+        {
+          "word": "lonely",
+          "start": 185.22,
+          "end": 185.7
+        },
+        {
+          "word": "girl",
+          "start": 185.7,
+          "end": 186.28
+        }
+      ]
+    },
+    {
+      "text": "Where'd  that  dream  of  being  from?",
+      "start": 186.28,
+      "end": 187.58,
+      "words": [
+        {
+          "word": "Where'd",
+          "start": 186.28,
+          "end": 186.56
+        },
+        {
+          "word": "that",
+          "start": 186.56,
+          "end": 186.64
+        },
+        {
+          "word": "dream",
+          "start": 186.64,
+          "end": 186.74
+        },
+        {
+          "word": "of",
+          "start": 186.74,
+          "end": 186.92
+        },
+        {
+          "word": "being",
+          "start": 186.92,
+          "end": 187.06
+        },
+        {
+          "word": "from?",
+          "start": 187.06,
+          "end": 187.58
+        }
+      ]
+    },
+    {
+      "text": "Am  I  lonely?",
+      "start": 187.82,
+      "end": 188.5,
+      "words": [
+        {
+          "word": "Am",
+          "start": 187.82,
+          "end": 187.9
+        },
+        {
+          "word": "I",
+          "start": 187.9,
+          "end": 188.04
+        },
+        {
+          "word": "lonely?",
+          "start": 188.04,
+          "end": 188.5
+        }
+      ]
+    },
+    {
+      "text": "Boy,  you  look  proud  and  white",
+      "start": 188.78,
+      "end": 190.22,
+      "words": [
+        {
+          "word": "Boy,",
+          "start": 188.78,
+          "end": 189.1
+        },
+        {
+          "word": "you",
+          "start": 189.18,
+          "end": 189.28
+        },
+        {
+          "word": "look",
+          "start": 189.28,
+          "end": 189.5
+        },
+        {
+          "word": "proud",
+          "start": 189.5,
+          "end": 189.7
+        },
+        {
+          "word": "and",
+          "start": 189.7,
+          "end": 189.98
+        },
+        {
+          "word": "white",
+          "start": 189.98,
+          "end": 190.22
+        }
+      ]
+    },
+    {
+      "text": "How  does  that  work?",
+      "start": 190.22,
+      "end": 191.22,
+      "words": [
+        {
+          "word": "How",
+          "start": 190.22,
+          "end": 190.46
+        },
+        {
+          "word": "does",
+          "start": 190.46,
+          "end": 190.58
+        },
+        {
+          "word": "that",
+          "start": 190.58,
+          "end": 190.84
+        },
+        {
+          "word": "work?",
+          "start": 190.84,
+          "end": 191.22
+        }
+      ]
+    },
+    {
+      "text": "Listen  and  love",
+      "start": 191.32,
+      "end": 192.56,
+      "words": [
+        {
+          "word": "Listen",
+          "start": 191.32,
+          "end": 191.5
+        },
+        {
+          "word": "and",
+          "start": 191.5,
+          "end": 191.86
+        },
+        {
+          "word": "love",
+          "start": 191.86,
+          "end": 192.56
+        }
+      ]
+    },
+    {
+      "text": "you",
+      "start": 205.74,
+      "end": 207.14,
+      "words": [
+        {
+          "word": "you",
+          "start": 205.74,
+          "end": 207.14
+        }
+      ]
+    }
+  ]
+}

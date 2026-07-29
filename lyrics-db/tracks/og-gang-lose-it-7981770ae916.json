@@ -1,0 +1,2289 @@
+{
+  "source": "blind-whisper",
+  "meta": {
+    "track_title": "Lose It",
+    "artist": "OG Gang",
+    "lyrics_source": "whisper_only",
+    "line_timestamps_source": "blind-whisper",
+    "has_annotations": false,
+    "singers": [
+      {
+        "id": "singer1",
+        "role": "lead",
+        "name": "OG Gang"
+      }
+    ],
+    "quality": {
+      "score": 0.7,
+      "label": "medium",
+      "timing_confidence": 1,
+      "anchor_audio_coverage": null,
+      "lines": 27,
+      "vocal_cues": 3,
+      "words": 156,
+      "interpolated_words": 0,
+      "low_confidence_segments": 0,
+      "text_verified": false
+    },
+    "credits": {
+      "aligner_version": "2.0.0",
+      "generated_at": "2026-07-29T12:05:15+00:00",
+      "method": "Whisper supplies word-level timing; a verified official-lyrics anchor supplies the text. With no anchor the text is pure Whisper ASR.",
+      "language": null,
+      "lyrics_text": {
+        "source": "whisper_only",
+        "verified": false,
+        "anchor_used": false,
+        "anchor_rejected_wrong_song": false,
+        "providers": []
+      },
+      "timing": {
+        "engine": "mlx",
+        "library": "mlx-whisper",
+        "asr_model": "openai/whisper",
+        "model_size": "medium",
+        "description": "Apple MLX port of OpenAI Whisper"
+      },
+      "strategy": "blind-whisper",
+      "attribution": [
+        "Lyrics transcribed by OpenAI Whisper (unverified ASR — no official source matched)",
+        "Word timing by mlx-whisper (Whisper medium)"
+      ]
+    },
+    "blind_resegment": {
+      "status": "partial",
+      "batches": 5,
+      "applied": 4,
+      "words": 156,
+      "before": 27,
+      "after": 27
+    }
+  },
+  "lines": [
+    {
+      "type": "vocal_cue",
+      "time": 0.3,
+      "end": 19.96,
+      "text": "●"
+    },
+    {
+      "time": 19.96,
+      "text": "Freestyle",
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 19.96,
+          "end": 20.5
+        }
+      ]
+    },
+    {
+      "time": 20.5,
+      "text": "Freestyle",
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 20.5,
+          "end": 21.12
+        }
+      ]
+    },
+    {
+      "time": 21.12,
+      "text": "Freestyle",
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 21.12,
+          "end": 22.16,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "type": "vocal_cue",
+      "time": 22.46,
+      "end": 28.76,
+      "text": "●"
+    },
+    {
+      "time": 28.76,
+      "text": "Freestyle",
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 28.76,
+          "end": 29.3
+        }
+      ]
+    },
+    {
+      "time": 29.3,
+      "text": "Freestyle",
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 29.3,
+          "end": 29.76
+        }
+      ]
+    },
+    {
+      "time": 29.76,
+      "text": "Freestyle",
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 29.76,
+          "end": 29.84
+        }
+      ]
+    },
+    {
+      "time": 29.84,
+      "text": "Freestyle",
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 29.84,
+          "end": 29.86
+        }
+      ]
+    },
+    {
+      "time": 29.86,
+      "text": "Freestyle",
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 29.86,
+          "end": 29.9
+        }
+      ]
+    },
+    {
+      "time": 29.9,
+      "text": "Freestyle",
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 29.9,
+          "end": 29.92
+        }
+      ]
+    },
+    {
+      "time": 29.92,
+      "text": "Freestyle",
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 29.92,
+          "end": 29.97
+        }
+      ]
+    },
+    {
+      "time": 30,
+      "text": "Yo, back that ass up, no juvie, yo",
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 30,
+          "end": 31.02,
+          "stretch": true
+        },
+        {
+          "word": "back",
+          "start": 31.2,
+          "end": 32.84,
+          "stretch": true
+        },
+        {
+          "word": "that",
+          "start": 32.84,
+          "end": 33.26
+        },
+        {
+          "word": "ass",
+          "start": 33.26,
+          "end": 33.64
+        },
+        {
+          "word": "up,",
+          "start": 33.64,
+          "end": 33.86
+        },
+        {
+          "word": "no",
+          "start": 33.94,
+          "end": 34.12
+        },
+        {
+          "word": "juvie,",
+          "start": 34.12,
+          "end": 34.58
+        },
+        {
+          "word": "yo",
+          "start": 34.58,
+          "end": 35.2,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 38.5,
+      "text": "Yo, throw them racks, go stupid, yo",
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 38.5,
+          "end": 39.26,
+          "stretch": true
+        },
+        {
+          "word": "throw",
+          "start": 40.86,
+          "end": 40.98
+        },
+        {
+          "word": "them",
+          "start": 40.98,
+          "end": 41.28
+        },
+        {
+          "word": "racks,",
+          "start": 41.28,
+          "end": 41.5
+        },
+        {
+          "word": "go",
+          "start": 41.54,
+          "end": 41.76
+        },
+        {
+          "word": "stupid,",
+          "start": 41.76,
+          "end": 42.18
+        },
+        {
+          "word": "yo",
+          "start": 42.18,
+          "end": 42.8,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 46.02,
+      "text": "Yo, squee my shot like Uzis, yo",
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 46.02,
+          "end": 46.78,
+          "stretch": true
+        },
+        {
+          "word": "squee",
+          "start": 48.44,
+          "end": 48.72
+        },
+        {
+          "word": "my",
+          "start": 48.72,
+          "end": 48.98
+        },
+        {
+          "word": "shot",
+          "start": 48.98,
+          "end": 49.22
+        },
+        {
+          "word": "like",
+          "start": 49.22,
+          "end": 49.48
+        },
+        {
+          "word": "Uzis,",
+          "start": 49.48,
+          "end": 49.96
+        },
+        {
+          "word": "yo",
+          "start": 49.96,
+          "end": 50.4,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 53.78,
+      "text": "Yo, when I slide on a yo",
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 53.78,
+          "end": 54.54,
+          "stretch": true
+        },
+        {
+          "word": "when",
+          "start": 56.22,
+          "end": 56.4
+        },
+        {
+          "word": "I",
+          "start": 56.4,
+          "end": 56.76,
+          "stretch": true
+        },
+        {
+          "word": "slide",
+          "start": 56.76,
+          "end": 57.18
+        },
+        {
+          "word": "on",
+          "start": 57.18,
+          "end": 57.48
+        },
+        {
+          "word": "a",
+          "start": 57.48,
+          "end": 57.76,
+          "stretch": true
+        },
+        {
+          "word": "yo",
+          "start": 57.76,
+          "end": 58.38,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "type": "vocal_cue",
+      "time": 58.68,
+      "end": 79.46,
+      "text": "●"
+    },
+    {
+      "time": 79.46,
+      "text": "She so bad got girls and guys on her",
+      "words": [
+        {
+          "word": "She",
+          "start": 79.46,
+          "end": 79.98,
+          "stretch": true
+        },
+        {
+          "word": "so",
+          "start": 79.98,
+          "end": 80.5,
+          "stretch": true
+        },
+        {
+          "word": "bad",
+          "start": 80.5,
+          "end": 82.78,
+          "stretch": true
+        },
+        {
+          "word": "got",
+          "start": 82.78,
+          "end": 83.04
+        },
+        {
+          "word": "girls",
+          "start": 83.04,
+          "end": 83.34
+        },
+        {
+          "word": "and",
+          "start": 83.34,
+          "end": 83.66
+        },
+        {
+          "word": "guys",
+          "start": 83.66,
+          "end": 84.06
+        },
+        {
+          "word": "on",
+          "start": 84.06,
+          "end": 84.32
+        },
+        {
+          "word": "her",
+          "start": 84.32,
+          "end": 85.88,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 85.88,
+      "text": "Made me wanna pull out the phone and go live on",
+      "words": [
+        {
+          "word": "Made",
+          "start": 85.88,
+          "end": 86.12
+        },
+        {
+          "word": "me",
+          "start": 86.12,
+          "end": 86.28
+        },
+        {
+          "word": "wanna",
+          "start": 86.28,
+          "end": 86.42
+        },
+        {
+          "word": "pull",
+          "start": 86.42,
+          "end": 86.64
+        },
+        {
+          "word": "out",
+          "start": 86.64,
+          "end": 86.78
+        },
+        {
+          "word": "the",
+          "start": 86.78,
+          "end": 86.98
+        },
+        {
+          "word": "phone",
+          "start": 86.98,
+          "end": 87.08
+        },
+        {
+          "word": "and",
+          "start": 87.08,
+          "end": 87.28
+        },
+        {
+          "word": "go",
+          "start": 87.28,
+          "end": 87.66,
+          "stretch": true
+        },
+        {
+          "word": "live",
+          "start": 87.66,
+          "end": 87.92
+        },
+        {
+          "word": "on",
+          "start": 87.92,
+          "end": 88.18
+        }
+      ]
+    },
+    {
+      "time": 88.94,
+      "text": "But I snap back and close my eyes on her",
+      "words": [
+        {
+          "word": "But",
+          "start": 88.94,
+          "end": 89.66,
+          "stretch": true
+        },
+        {
+          "word": "I",
+          "start": 89.66,
+          "end": 90,
+          "stretch": true
+        },
+        {
+          "word": "snap",
+          "start": 90,
+          "end": 90.24
+        },
+        {
+          "word": "back",
+          "start": 90.24,
+          "end": 90.56
+        },
+        {
+          "word": "and",
+          "start": 90.56,
+          "end": 90.78
+        },
+        {
+          "word": "close",
+          "start": 90.78,
+          "end": 90.96
+        },
+        {
+          "word": "my",
+          "start": 90.96,
+          "end": 91.36,
+          "stretch": true
+        },
+        {
+          "word": "eyes",
+          "start": 91.36,
+          "end": 91.78
+        },
+        {
+          "word": "on",
+          "start": 91.78,
+          "end": 92.04
+        },
+        {
+          "word": "her",
+          "start": 92.04,
+          "end": 92.4
+        }
+      ]
+    },
+    {
+      "time": 93.94,
+      "text": "Black bitch, she bring a team of girls",
+      "words": [
+        {
+          "word": "Black",
+          "start": 93.94,
+          "end": 94.58
+        },
+        {
+          "word": "bitch,",
+          "start": 94.58,
+          "end": 94.88
+        },
+        {
+          "word": "she",
+          "start": 95,
+          "end": 95.18
+        },
+        {
+          "word": "bring",
+          "start": 95.18,
+          "end": 95.34
+        },
+        {
+          "word": "a",
+          "start": 95.34,
+          "end": 95.58,
+          "stretch": true
+        },
+        {
+          "word": "team",
+          "start": 95.58,
+          "end": 95.82
+        },
+        {
+          "word": "of",
+          "start": 95.82,
+          "end": 96.18,
+          "stretch": true
+        },
+        {
+          "word": "girls",
+          "start": 96.18,
+          "end": 96.56
+        }
+      ]
+    },
+    {
+      "time": 96.56,
+      "text": "They all came back after the club",
+      "words": [
+        {
+          "word": "They",
+          "start": 96.56,
+          "end": 97.96,
+          "stretch": true
+        },
+        {
+          "word": "all",
+          "start": 97.96,
+          "end": 98.46,
+          "stretch": true
+        },
+        {
+          "word": "came",
+          "start": 98.46,
+          "end": 98.9
+        },
+        {
+          "word": "back",
+          "start": 98.9,
+          "end": 99.3
+        },
+        {
+          "word": "after",
+          "start": 99.3,
+          "end": 99.64
+        },
+        {
+          "word": "the",
+          "start": 99.64,
+          "end": 100.04
+        },
+        {
+          "word": "club",
+          "start": 100.04,
+          "end": 100.4
+        }
+      ]
+    },
+    {
+      "time": 101.54,
+      "text": "Every city I go, they show me love",
+      "words": [
+        {
+          "word": "Every",
+          "start": 101.54,
+          "end": 102.26
+        },
+        {
+          "word": "city",
+          "start": 102.26,
+          "end": 102.5
+        },
+        {
+          "word": "I",
+          "start": 102.5,
+          "end": 102.84,
+          "stretch": true
+        },
+        {
+          "word": "go,",
+          "start": 102.84,
+          "end": 102.98
+        },
+        {
+          "word": "they",
+          "start": 102.98,
+          "end": 103.24
+        },
+        {
+          "word": "show",
+          "start": 103.24,
+          "end": 103.44
+        },
+        {
+          "word": "me",
+          "start": 103.44,
+          "end": 103.84,
+          "stretch": true
+        },
+        {
+          "word": "love",
+          "start": 103.84,
+          "end": 104.24
+        }
+      ]
+    },
+    {
+      "time": 105.22,
+      "text": "That's because we real thugs",
+      "words": [
+        {
+          "word": "That's",
+          "start": 105.22,
+          "end": 105.94
+        },
+        {
+          "word": "because",
+          "start": 105.94,
+          "end": 106.32
+        },
+        {
+          "word": "we",
+          "start": 106.32,
+          "end": 106.8,
+          "stretch": true
+        },
+        {
+          "word": "real",
+          "start": 106.8,
+          "end": 107.56,
+          "stretch": true
+        },
+        {
+          "word": "thugs",
+          "start": 107.56,
+          "end": 108.18
+        }
+      ]
+    },
+    {
+      "time": 108.74,
+      "text": "Bet that ice make her drown in the tub",
+      "words": [
+        {
+          "word": "Bet",
+          "start": 108.74,
+          "end": 109.18
+        },
+        {
+          "word": "that",
+          "start": 109.18,
+          "end": 109.5
+        },
+        {
+          "word": "ice",
+          "start": 109.5,
+          "end": 109.78
+        },
+        {
+          "word": "make",
+          "start": 109.78,
+          "end": 110.2
+        },
+        {
+          "word": "her",
+          "start": 110.2,
+          "end": 110.48
+        },
+        {
+          "word": "drown",
+          "start": 110.48,
+          "end": 110.92
+        },
+        {
+          "word": "in",
+          "start": 110.92,
+          "end": 111.18
+        },
+        {
+          "word": "the",
+          "start": 111.18,
+          "end": 111.56
+        },
+        {
+          "word": "tub",
+          "start": 111.56,
+          "end": 112.14,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 112.14,
+      "text": "Said she got that bag, told her put down on the drugs",
+      "words": [
+        {
+          "word": "Said",
+          "start": 112.14,
+          "end": 112.52
+        },
+        {
+          "word": "she",
+          "start": 112.52,
+          "end": 112.82
+        },
+        {
+          "word": "got",
+          "start": 112.82,
+          "end": 113.06
+        },
+        {
+          "word": "that",
+          "start": 113.06,
+          "end": 113.44
+        },
+        {
+          "word": "bag,",
+          "start": 113.44,
+          "end": 113.8
+        },
+        {
+          "word": "told",
+          "start": 113.92,
+          "end": 113.94
+        },
+        {
+          "word": "her",
+          "start": 113.94,
+          "end": 114.02
+        },
+        {
+          "word": "put",
+          "start": 114.02,
+          "end": 114.34
+        },
+        {
+          "word": "down",
+          "start": 114.34,
+          "end": 114.72
+        },
+        {
+          "word": "on",
+          "start": 114.72,
+          "end": 115.04,
+          "stretch": true
+        },
+        {
+          "word": "the",
+          "start": 115.04,
+          "end": 115.38
+        },
+        {
+          "word": "drugs",
+          "start": 115.38,
+          "end": 115.74
+        }
+      ]
+    },
+    {
+      "time": 116.2,
+      "text": "That's the type of shit that make your nigga callin'",
+      "words": [
+        {
+          "word": "That's",
+          "start": 116.2,
+          "end": 116.64
+        },
+        {
+          "word": "the",
+          "start": 116.64,
+          "end": 116.72
+        },
+        {
+          "word": "type",
+          "start": 116.72,
+          "end": 116.92
+        },
+        {
+          "word": "of",
+          "start": 116.92,
+          "end": 117.24,
+          "stretch": true
+        },
+        {
+          "word": "shit",
+          "start": 117.24,
+          "end": 117.36
+        },
+        {
+          "word": "that",
+          "start": 117.36,
+          "end": 117.7
+        },
+        {
+          "word": "make",
+          "start": 117.7,
+          "end": 117.9
+        },
+        {
+          "word": "your",
+          "start": 117.9,
+          "end": 118.16
+        },
+        {
+          "word": "nigga",
+          "start": 118.16,
+          "end": 118.52
+        },
+        {
+          "word": "callin'",
+          "start": 118.52,
+          "end": 118.74
+        }
+      ]
+    },
+    {
+      "time": 120.08,
+      "text": "That's the type of shit that make your nigga fall in love",
+      "words": [
+        {
+          "word": "That's",
+          "start": 120.08,
+          "end": 120.48
+        },
+        {
+          "word": "the",
+          "start": 120.48,
+          "end": 120.52
+        },
+        {
+          "word": "type",
+          "start": 120.52,
+          "end": 120.8
+        },
+        {
+          "word": "of",
+          "start": 120.8,
+          "end": 121.08
+        },
+        {
+          "word": "shit",
+          "start": 121.08,
+          "end": 121.22
+        },
+        {
+          "word": "that",
+          "start": 121.22,
+          "end": 121.54
+        },
+        {
+          "word": "make",
+          "start": 121.54,
+          "end": 121.74
+        },
+        {
+          "word": "your",
+          "start": 121.74,
+          "end": 122
+        },
+        {
+          "word": "nigga",
+          "start": 122,
+          "end": 122.34
+        },
+        {
+          "word": "fall",
+          "start": 122.34,
+          "end": 122.7
+        },
+        {
+          "word": "in",
+          "start": 122.7,
+          "end": 122.96
+        },
+        {
+          "word": "love",
+          "start": 122.96,
+          "end": 123.36
+        }
+      ]
+    },
+    {
+      "time": 123.36,
+      "text": "Pull up like the life of the party,",
+      "words": [
+        {
+          "word": "Pull",
+          "start": 123.36,
+          "end": 123.58
+        },
+        {
+          "word": "up",
+          "start": 123.58,
+          "end": 123.7
+        },
+        {
+          "word": "like",
+          "start": 123.7,
+          "end": 123.82
+        },
+        {
+          "word": "the",
+          "start": 123.82,
+          "end": 124.04
+        },
+        {
+          "word": "life",
+          "start": 124.04,
+          "end": 124.16
+        },
+        {
+          "word": "of",
+          "start": 124.16,
+          "end": 124.34
+        },
+        {
+          "word": "the",
+          "start": 124.34,
+          "end": 124.54
+        },
+        {
+          "word": "party,",
+          "start": 124.54,
+          "end": 124.8
+        }
+      ]
+    },
+    {
+      "time": 125.02,
+      "text": "four by four, y 'all seen them party",
+      "words": [
+        {
+          "word": "four",
+          "start": 125.02,
+          "end": 125.1
+        },
+        {
+          "word": "by",
+          "start": 125.1,
+          "end": 125.32
+        },
+        {
+          "word": "four,",
+          "start": 125.32,
+          "end": 125.62
+        },
+        {
+          "word": "y",
+          "start": 125.7,
+          "end": 125.74
+        },
+        {
+          "word": "'all",
+          "start": 125.74,
+          "end": 125.84
+        },
+        {
+          "word": "seen",
+          "start": 125.84,
+          "end": 126.08
+        },
+        {
+          "word": "them",
+          "start": 126.08,
+          "end": 126.3
+        },
+        {
+          "word": "party",
+          "start": 126.3,
+          "end": 126.64
+        }
+      ]
+    }
+  ],
+  "annotations": {},
+  "raw_whisper": [
+    {
+      "text": "Freestyle",
+      "start": 19.96,
+      "end": 20.5,
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 19.96,
+          "end": 20.5
+        }
+      ]
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "Freestyle",
+      "start": 20.5,
+      "end": 21.12,
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 20.5,
+          "end": 21.12
+        }
+      ]
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "Freestyle",
+      "start": 21.12,
+      "end": 22.16,
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 21.12,
+          "end": 22.16
+        }
+      ]
+    },
+    {
+      "text": "Freestyle",
+      "start": 28.76,
+      "end": 29.3,
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 28.76,
+          "end": 29.3
+        }
+      ]
+    },
+    {
+      "text": "Freestyle",
+      "start": 29.3,
+      "end": 29.76,
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 29.3,
+          "end": 29.76
+        }
+      ]
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "Freestyle",
+      "start": 29.76,
+      "end": 29.84,
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 29.76,
+          "end": 29.84
+        }
+      ]
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "Freestyle",
+      "start": 29.84,
+      "end": 29.86,
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 29.84,
+          "end": 29.86
+        }
+      ]
+    },
+    {
+      "text": "Freestyle",
+      "start": 29.86,
+      "end": 29.9,
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 29.86,
+          "end": 29.9
+        }
+      ]
+    },
+    {
+      "text": "Freestyle",
+      "start": 29.9,
+      "end": 29.92,
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 29.9,
+          "end": 29.92
+        }
+      ]
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "Freestyle",
+      "start": 29.92,
+      "end": 29.96,
+      "words": [
+        {
+          "word": "Freestyle",
+          "start": 29.92,
+          "end": 29.96
+        }
+      ]
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "Yo,  back  that  ass  up,  no  juvie,  yo",
+      "start": 30,
+      "end": 35.2,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 30,
+          "end": 31.02
+        },
+        {
+          "word": "back",
+          "start": 31.2,
+          "end": 32.84
+        },
+        {
+          "word": "that",
+          "start": 32.84,
+          "end": 33.26
+        },
+        {
+          "word": "ass",
+          "start": 33.26,
+          "end": 33.64
+        },
+        {
+          "word": "up,",
+          "start": 33.64,
+          "end": 33.86
+        },
+        {
+          "word": "no",
+          "start": 33.94,
+          "end": 34.12
+        },
+        {
+          "word": "juvie,",
+          "start": 34.12,
+          "end": 34.58
+        },
+        {
+          "word": "yo",
+          "start": 34.58,
+          "end": 35.2
+        }
+      ]
+    },
+    {
+      "text": "Yo,  throw  them  racks,  go  stupid,  yo",
+      "start": 38.5,
+      "end": 42.8,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 38.5,
+          "end": 39.26
+        },
+        {
+          "word": "throw",
+          "start": 40.86,
+          "end": 40.98
+        },
+        {
+          "word": "them",
+          "start": 40.98,
+          "end": 41.28
+        },
+        {
+          "word": "racks,",
+          "start": 41.28,
+          "end": 41.5
+        },
+        {
+          "word": "go",
+          "start": 41.54,
+          "end": 41.76
+        },
+        {
+          "word": "stupid,",
+          "start": 41.76,
+          "end": 42.18
+        },
+        {
+          "word": "yo",
+          "start": 42.18,
+          "end": 42.8
+        }
+      ]
+    },
+    {
+      "text": "Yo,  squee  my  shot  like  Uzis,  yo",
+      "start": 46.02,
+      "end": 50.4,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 46.02,
+          "end": 46.78
+        },
+        {
+          "word": "squee",
+          "start": 48.44,
+          "end": 48.72
+        },
+        {
+          "word": "my",
+          "start": 48.72,
+          "end": 48.98
+        },
+        {
+          "word": "shot",
+          "start": 48.98,
+          "end": 49.22
+        },
+        {
+          "word": "like",
+          "start": 49.22,
+          "end": 49.48
+        },
+        {
+          "word": "Uzis,",
+          "start": 49.48,
+          "end": 49.96
+        },
+        {
+          "word": "yo",
+          "start": 49.96,
+          "end": 50.4
+        }
+      ]
+    },
+    {
+      "text": "Yo,  when  I  slide  on  a  yo",
+      "start": 53.78,
+      "end": 58.38,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 53.78,
+          "end": 54.54
+        },
+        {
+          "word": "when",
+          "start": 56.22,
+          "end": 56.4
+        },
+        {
+          "word": "I",
+          "start": 56.4,
+          "end": 56.76
+        },
+        {
+          "word": "slide",
+          "start": 56.76,
+          "end": 57.18
+        },
+        {
+          "word": "on",
+          "start": 57.18,
+          "end": 57.48
+        },
+        {
+          "word": "a",
+          "start": 57.48,
+          "end": 57.76
+        },
+        {
+          "word": "yo",
+          "start": 57.76,
+          "end": 58.38
+        }
+      ]
+    },
+    {
+      "text": "She  so  bad  got  girls  and  guys  on  her  Made  me  wanna  pull  out  the  phone  and  go  live  on",
+      "start": 79.46,
+      "end": 88.18,
+      "words": [
+        {
+          "word": "She",
+          "start": 79.46,
+          "end": 79.98
+        },
+        {
+          "word": "so",
+          "start": 79.98,
+          "end": 80.5
+        },
+        {
+          "word": "bad",
+          "start": 80.5,
+          "end": 82.78
+        },
+        {
+          "word": "got",
+          "start": 82.78,
+          "end": 83.04
+        },
+        {
+          "word": "girls",
+          "start": 83.04,
+          "end": 83.34
+        },
+        {
+          "word": "and",
+          "start": 83.34,
+          "end": 83.66
+        },
+        {
+          "word": "guys",
+          "start": 83.66,
+          "end": 84.06
+        },
+        {
+          "word": "on",
+          "start": 84.06,
+          "end": 84.32
+        },
+        {
+          "word": "her",
+          "start": 84.32,
+          "end": 85.88
+        },
+        {
+          "word": "Made",
+          "start": 85.88,
+          "end": 86.12
+        },
+        {
+          "word": "me",
+          "start": 86.12,
+          "end": 86.28
+        },
+        {
+          "word": "wanna",
+          "start": 86.28,
+          "end": 86.42
+        },
+        {
+          "word": "pull",
+          "start": 86.42,
+          "end": 86.64
+        },
+        {
+          "word": "out",
+          "start": 86.64,
+          "end": 86.78
+        },
+        {
+          "word": "the",
+          "start": 86.78,
+          "end": 86.98
+        },
+        {
+          "word": "phone",
+          "start": 86.98,
+          "end": 87.08
+        },
+        {
+          "word": "and",
+          "start": 87.08,
+          "end": 87.28
+        },
+        {
+          "word": "go",
+          "start": 87.28,
+          "end": 87.66
+        },
+        {
+          "word": "live",
+          "start": 87.66,
+          "end": 87.92
+        },
+        {
+          "word": "on",
+          "start": 87.92,
+          "end": 88.18
+        }
+      ]
+    },
+    {
+      "text": "But  I  snap  back  and  close  my  eyes  on  her",
+      "start": 88.94,
+      "end": 92.4,
+      "words": [
+        {
+          "word": "But",
+          "start": 88.94,
+          "end": 89.66
+        },
+        {
+          "word": "I",
+          "start": 89.66,
+          "end": 90
+        },
+        {
+          "word": "snap",
+          "start": 90,
+          "end": 90.24
+        },
+        {
+          "word": "back",
+          "start": 90.24,
+          "end": 90.56
+        },
+        {
+          "word": "and",
+          "start": 90.56,
+          "end": 90.78
+        },
+        {
+          "word": "close",
+          "start": 90.78,
+          "end": 90.96
+        },
+        {
+          "word": "my",
+          "start": 90.96,
+          "end": 91.36
+        },
+        {
+          "word": "eyes",
+          "start": 91.36,
+          "end": 91.78
+        },
+        {
+          "word": "on",
+          "start": 91.78,
+          "end": 92.04
+        },
+        {
+          "word": "her",
+          "start": 92.04,
+          "end": 92.4
+        }
+      ]
+    },
+    {
+      "text": "Black  bitch,  she  bring  a  team  of  girls",
+      "start": 93.94,
+      "end": 96.56,
+      "words": [
+        {
+          "word": "Black",
+          "start": 93.94,
+          "end": 94.58
+        },
+        {
+          "word": "bitch,",
+          "start": 94.58,
+          "end": 94.88
+        },
+        {
+          "word": "she",
+          "start": 95,
+          "end": 95.18
+        },
+        {
+          "word": "bring",
+          "start": 95.18,
+          "end": 95.34
+        },
+        {
+          "word": "a",
+          "start": 95.34,
+          "end": 95.58
+        },
+        {
+          "word": "team",
+          "start": 95.58,
+          "end": 95.82
+        },
+        {
+          "word": "of",
+          "start": 95.82,
+          "end": 96.18
+        },
+        {
+          "word": "girls",
+          "start": 96.18,
+          "end": 96.56
+        }
+      ]
+    },
+    {
+      "text": "They  all  came  back  after  the  club",
+      "start": 96.56,
+      "end": 100.4,
+      "words": [
+        {
+          "word": "They",
+          "start": 96.56,
+          "end": 97.96
+        },
+        {
+          "word": "all",
+          "start": 97.96,
+          "end": 98.46
+        },
+        {
+          "word": "came",
+          "start": 98.46,
+          "end": 98.9
+        },
+        {
+          "word": "back",
+          "start": 98.9,
+          "end": 99.3
+        },
+        {
+          "word": "after",
+          "start": 99.3,
+          "end": 99.64
+        },
+        {
+          "word": "the",
+          "start": 99.64,
+          "end": 100.04
+        },
+        {
+          "word": "club",
+          "start": 100.04,
+          "end": 100.4
+        }
+      ]
+    },
+    {
+      "text": "Every  city  I  go,  they  show  me  love",
+      "start": 101.54,
+      "end": 104.24,
+      "words": [
+        {
+          "word": "Every",
+          "start": 101.54,
+          "end": 102.26
+        },
+        {
+          "word": "city",
+          "start": 102.26,
+          "end": 102.5
+        },
+        {
+          "word": "I",
+          "start": 102.5,
+          "end": 102.84
+        },
+        {
+          "word": "go,",
+          "start": 102.84,
+          "end": 102.98
+        },
+        {
+          "word": "they",
+          "start": 102.98,
+          "end": 103.24
+        },
+        {
+          "word": "show",
+          "start": 103.24,
+          "end": 103.44
+        },
+        {
+          "word": "me",
+          "start": 103.44,
+          "end": 103.84
+        },
+        {
+          "word": "love",
+          "start": 103.84,
+          "end": 104.24
+        }
+      ]
+    },
+    {
+      "text": "That's  because  we  real  thugs",
+      "start": 105.22,
+      "end": 108.18,
+      "words": [
+        {
+          "word": "That's",
+          "start": 105.22,
+          "end": 105.94
+        },
+        {
+          "word": "because",
+          "start": 105.94,
+          "end": 106.32
+        },
+        {
+          "word": "we",
+          "start": 106.32,
+          "end": 106.8
+        },
+        {
+          "word": "real",
+          "start": 106.8,
+          "end": 107.56
+        },
+        {
+          "word": "thugs",
+          "start": 107.56,
+          "end": 108.18
+        }
+      ]
+    },
+    {
+      "text": "Bet  that  ice  make  her  drown  in  the  tub",
+      "start": 108.74,
+      "end": 112.14,
+      "words": [
+        {
+          "word": "Bet",
+          "start": 108.74,
+          "end": 109.18
+        },
+        {
+          "word": "that",
+          "start": 109.18,
+          "end": 109.5
+        },
+        {
+          "word": "ice",
+          "start": 109.5,
+          "end": 109.78
+        },
+        {
+          "word": "make",
+          "start": 109.78,
+          "end": 110.2
+        },
+        {
+          "word": "her",
+          "start": 110.2,
+          "end": 110.48
+        },
+        {
+          "word": "drown",
+          "start": 110.48,
+          "end": 110.92
+        },
+        {
+          "word": "in",
+          "start": 110.92,
+          "end": 111.18
+        },
+        {
+          "word": "the",
+          "start": 111.18,
+          "end": 111.56
+        },
+        {
+          "word": "tub",
+          "start": 111.56,
+          "end": 112.14
+        }
+      ]
+    },
+    {
+      "text": "Said  she  got  that  bag,  told  her  put  down  on  the  drugs",
+      "start": 112.14,
+      "end": 115.74,
+      "words": [
+        {
+          "word": "Said",
+          "start": 112.14,
+          "end": 112.52
+        },
+        {
+          "word": "she",
+          "start": 112.52,
+          "end": 112.82
+        },
+        {
+          "word": "got",
+          "start": 112.82,
+          "end": 113.06
+        },
+        {
+          "word": "that",
+          "start": 113.06,
+          "end": 113.44
+        },
+        {
+          "word": "bag,",
+          "start": 113.44,
+          "end": 113.8
+        },
+        {
+          "word": "told",
+          "start": 113.92,
+          "end": 113.94
+        },
+        {
+          "word": "her",
+          "start": 113.94,
+          "end": 114.02
+        },
+        {
+          "word": "put",
+          "start": 114.02,
+          "end": 114.34
+        },
+        {
+          "word": "down",
+          "start": 114.34,
+          "end": 114.72
+        },
+        {
+          "word": "on",
+          "start": 114.72,
+          "end": 115.04
+        },
+        {
+          "word": "the",
+          "start": 115.04,
+          "end": 115.38
+        },
+        {
+          "word": "drugs",
+          "start": 115.38,
+          "end": 115.74
+        }
+      ]
+    },
+    {
+      "text": "That's  the  type  of  shit  that  make  your  nigga  callin'",
+      "start": 116.2,
+      "end": 118.74,
+      "words": [
+        {
+          "word": "That's",
+          "start": 116.2,
+          "end": 116.64
+        },
+        {
+          "word": "the",
+          "start": 116.64,
+          "end": 116.72
+        },
+        {
+          "word": "type",
+          "start": 116.72,
+          "end": 116.92
+        },
+        {
+          "word": "of",
+          "start": 116.92,
+          "end": 117.24
+        },
+        {
+          "word": "shit",
+          "start": 117.24,
+          "end": 117.36
+        },
+        {
+          "word": "that",
+          "start": 117.36,
+          "end": 117.7
+        },
+        {
+          "word": "make",
+          "start": 117.7,
+          "end": 117.9
+        },
+        {
+          "word": "your",
+          "start": 117.9,
+          "end": 118.16
+        },
+        {
+          "word": "nigga",
+          "start": 118.16,
+          "end": 118.52
+        },
+        {
+          "word": "callin'",
+          "start": 118.52,
+          "end": 118.74
+        }
+      ]
+    },
+    {
+      "text": "That's  the  type  of  shit  that  make  your  nigga  fall  in  love",
+      "start": 120.08,
+      "end": 123.36,
+      "words": [
+        {
+          "word": "That's",
+          "start": 120.08,
+          "end": 120.48
+        },
+        {
+          "word": "the",
+          "start": 120.48,
+          "end": 120.52
+        },
+        {
+          "word": "type",
+          "start": 120.52,
+          "end": 120.8
+        },
+        {
+          "word": "of",
+          "start": 120.8,
+          "end": 121.08
+        },
+        {
+          "word": "shit",
+          "start": 121.08,
+          "end": 121.22
+        },
+        {
+          "word": "that",
+          "start": 121.22,
+          "end": 121.54
+        },
+        {
+          "word": "make",
+          "start": 121.54,
+          "end": 121.74
+        },
+        {
+          "word": "your",
+          "start": 121.74,
+          "end": 122
+        },
+        {
+          "word": "nigga",
+          "start": 122,
+          "end": 122.34
+        },
+        {
+          "word": "fall",
+          "start": 122.34,
+          "end": 122.7
+        },
+        {
+          "word": "in",
+          "start": 122.7,
+          "end": 122.96
+        },
+        {
+          "word": "love",
+          "start": 122.96,
+          "end": 123.36
+        }
+      ]
+    },
+    {
+      "text": "Pull  up  like  the  life  of  the  party,  four  by  four,  y 'all  seen  them  party",
+      "start": 123.36,
+      "end": 126.64,
+      "words": [
+        {
+          "word": "Pull",
+          "start": 123.36,
+          "end": 123.58
+        },
+        {
+          "word": "up",
+          "start": 123.58,
+          "end": 123.7
+        },
+        {
+          "word": "like",
+          "start": 123.7,
+          "end": 123.82
+        },
+        {
+          "word": "the",
+          "start": 123.82,
+          "end": 124.04
+        },
+        {
+          "word": "life",
+          "start": 124.04,
+          "end": 124.16
+        },
+        {
+          "word": "of",
+          "start": 124.16,
+          "end": 124.34
+        },
+        {
+          "word": "the",
+          "start": 124.34,
+          "end": 124.54
+        },
+        {
+          "word": "party,",
+          "start": 124.54,
+          "end": 124.8
+        },
+        {
+          "word": "four",
+          "start": 125.02,
+          "end": 125.1
+        },
+        {
+          "word": "by",
+          "start": 125.1,
+          "end": 125.32
+        },
+        {
+          "word": "four,",
+          "start": 125.32,
+          "end": 125.62
+        },
+        {
+          "word": "y",
+          "start": 125.7,
+          "end": 125.74
+        },
+        {
+          "word": "'all",
+          "start": 125.74,
+          "end": 125.84
+        },
+        {
+          "word": "seen",
+          "start": 125.84,
+          "end": 126.08
+        },
+        {
+          "word": "them",
+          "start": 126.08,
+          "end": 126.3
+        },
+        {
+          "word": "party",
+          "start": 126.3,
+          "end": 126.64
+        }
+      ]
+    }
+  ]
+}

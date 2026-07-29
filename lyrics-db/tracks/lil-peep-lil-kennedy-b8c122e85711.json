@@ -1,0 +1,4885 @@
+{
+  "source": "genius-lrc-whisper",
+  "meta": {
+    "track_title": "Lil Kennedy",
+    "artist": "Lil Peep",
+    "lyrics_source": "lrclib_plain",
+    "line_timestamps_source": "genius-lrc-whisper",
+    "has_annotations": false,
+    "singers": [
+      {
+        "id": "singer1",
+        "role": "lead",
+        "name": "Lil Peep"
+      }
+    ],
+    "quality": {
+      "score": 0.946,
+      "label": "high",
+      "timing_confidence": 1,
+      "anchor_audio_coverage": 0.892,
+      "lines": 32,
+      "vocal_cues": 0,
+      "words": 348,
+      "interpolated_words": 0,
+      "low_confidence_segments": 0,
+      "text_verified": true
+    },
+    "credits": {
+      "aligner_version": "2.0.0",
+      "generated_at": "2026-07-29T11:58:40+00:00",
+      "method": "Whisper supplies word-level timing; a verified official-lyrics anchor supplies the text. With no anchor the text is pure Whisper ASR.",
+      "language": "en",
+      "lyrics_text": {
+        "source": "lrclib_plain",
+        "verified": true,
+        "anchor_used": true,
+        "anchor_rejected_wrong_song": false,
+        "providers": [
+          {
+            "name": "Genius",
+            "url": "https://genius.com",
+            "tried": true,
+            "hit": false
+          },
+          {
+            "name": "LRCLIB",
+            "url": "https://lrclib.net",
+            "tried": true,
+            "hit": true
+          }
+        ]
+      },
+      "timing": {
+        "engine": "mlx",
+        "library": "mlx-whisper",
+        "asr_model": "openai/whisper",
+        "model_size": "medium",
+        "description": "Apple MLX port of OpenAI Whisper"
+      },
+      "strategy": "genius-lrc-whisper",
+      "attribution": [
+        "Synced lyrics from LRCLIB (lrclib.net)",
+        "Word timing by mlx-whisper (Whisper medium)"
+      ]
+    }
+  },
+  "lines": [
+    {
+      "time": 17.24,
+      "text": "They don't see me 'less I pull up Lamborghini (skrrt)",
+      "words": [
+        {
+          "word": "They",
+          "start": 17.24,
+          "end": 17.92,
+          "char_starts": [
+            17.24,
+            17.342,
+            17.505,
+            17.723
+          ]
+        },
+        {
+          "word": "don't",
+          "start": 17.92,
+          "end": 18.6,
+          "char_starts": [
+            17.92,
+            18.002,
+            18.128,
+            18.28,
+            18.45
+          ]
+        },
+        {
+          "word": "see",
+          "start": 18.6,
+          "end": 18.92
+        },
+        {
+          "word": "me",
+          "start": 18.92,
+          "end": 19.18
+        },
+        {
+          "word": "'less",
+          "start": 19.18,
+          "end": 19.48
+        },
+        {
+          "word": "I",
+          "start": 19.48,
+          "end": 19.84
+        },
+        {
+          "word": "pull",
+          "start": 19.84,
+          "end": 20.06
+        },
+        {
+          "word": "up",
+          "start": 20.06,
+          "end": 20.4
+        },
+        {
+          "word": "Lamborghini",
+          "start": 20.4,
+          "end": 21.32,
+          "char_starts": [
+            20.4,
+            20.45,
+            20.5,
+            20.55,
+            20.604,
+            20.665,
+            20.734,
+            20.81,
+            20.892,
+            20.979,
+            21.072
+          ]
+        },
+        {
+          "word": "(skrrt)",
+          "start": 21.32,
+          "end": 21.42,
+          "adlib": true
+        }
+      ]
+    },
+    {
+      "time": 21.32,
+      "text": "Everybody wanna be me 'til I pull up and they meet me",
+      "words": [
+        {
+          "word": "Everybody",
+          "start": 21.32,
+          "end": 22.28,
+          "char_starts": [
+            21.32,
+            21.384,
+            21.448,
+            21.515,
+            21.595,
+            21.686,
+            21.788,
+            21.9,
+            22.021
+          ]
+        },
+        {
+          "word": "wanna",
+          "start": 22.28,
+          "end": 22.88
+        },
+        {
+          "word": "be",
+          "start": 22.88,
+          "end": 23.26
+        },
+        {
+          "word": "me",
+          "start": 23.26,
+          "end": 23.52
+        },
+        {
+          "word": "'til",
+          "start": 23.52,
+          "end": 23.82
+        },
+        {
+          "word": "I",
+          "start": 23.82,
+          "end": 24.2
+        },
+        {
+          "word": "pull",
+          "start": 24.2,
+          "end": 24.42
+        },
+        {
+          "word": "up",
+          "start": 24.42,
+          "end": 24.64
+        },
+        {
+          "word": "and",
+          "start": 24.64,
+          "end": 24.98
+        },
+        {
+          "word": "they",
+          "start": 24.98,
+          "end": 25.26
+        },
+        {
+          "word": "meet",
+          "start": 25.26,
+          "end": 25.4
+        },
+        {
+          "word": "me",
+          "start": 25.4,
+          "end": 25.53
+        }
+      ]
+    },
+    {
+      "time": 25.86,
+      "text": "I'ma die slow, sweetie, I ain't never had a meanin'",
+      "words": [
+        {
+          "word": "I'ma",
+          "start": 25.86,
+          "end": 26.4,
+          "char_starts": [
+            25.86,
+            25.941,
+            26.07,
+            26.243
+          ]
+        },
+        {
+          "word": "die",
+          "start": 26.4,
+          "end": 26.64
+        },
+        {
+          "word": "slow,",
+          "start": 26.64,
+          "end": 27.56,
+          "char_starts": [
+            26.64,
+            26.75,
+            26.922,
+            27.127,
+            27.358
+          ]
+        },
+        {
+          "word": "sweetie,",
+          "start": 27.56,
+          "end": 28.16
+        },
+        {
+          "word": "I",
+          "start": 28.16,
+          "end": 28.24
+        },
+        {
+          "word": "ain't",
+          "start": 28.24,
+          "end": 28.46
+        },
+        {
+          "word": "never",
+          "start": 28.46,
+          "end": 28.98
+        },
+        {
+          "word": "had",
+          "start": 28.98,
+          "end": 29.36
+        },
+        {
+          "word": "a",
+          "start": 29.36,
+          "end": 29.62
+        },
+        {
+          "word": "meanin'",
+          "start": 29.62,
+          "end": 29.95
+        }
+      ]
+    },
+    {
+      "time": 29.98,
+      "text": "Just another fuckin' junkie, drain my blood, but don't be greedy",
+      "words": [
+        {
+          "word": "Just",
+          "start": 29.98,
+          "end": 30.32
+        },
+        {
+          "word": "another",
+          "start": 30.32,
+          "end": 31.08,
+          "char_starts": [
+            30.32,
+            30.385,
+            30.466,
+            30.563,
+            30.671,
+            30.789,
+            30.917
+          ]
+        },
+        {
+          "word": "fuckin'",
+          "start": 31.08,
+          "end": 31.76,
+          "char_starts": [
+            31.08,
+            31.138,
+            31.21,
+            31.297,
+            31.394,
+            31.5,
+            31.613
+          ]
+        },
+        {
+          "word": "junkie,",
+          "start": 31.76,
+          "end": 32.4
+        },
+        {
+          "word": "drain",
+          "start": 32.4,
+          "end": 32.52
+        },
+        {
+          "word": "my",
+          "start": 32.52,
+          "end": 32.92
+        },
+        {
+          "word": "blood,",
+          "start": 32.92,
+          "end": 33.06
+        },
+        {
+          "word": "but",
+          "start": 33.06,
+          "end": 33.34
+        },
+        {
+          "word": "don't",
+          "start": 33.34,
+          "end": 33.7
+        },
+        {
+          "word": "be",
+          "start": 33.7,
+          "end": 34.02
+        },
+        {
+          "word": "greedy",
+          "start": 34.02,
+          "end": 34.3
+        }
+      ]
+    },
+    {
+      "time": 34.36,
+      "text": "Leave some liquid for the centipedes, they eat away my memory",
+      "words": [
+        {
+          "word": "Leave",
+          "start": 34.36,
+          "end": 34.66
+        },
+        {
+          "word": "some",
+          "start": 34.66,
+          "end": 35
+        },
+        {
+          "word": "liquid",
+          "start": 35,
+          "end": 35.42
+        },
+        {
+          "word": "for",
+          "start": 35.42,
+          "end": 35.86
+        },
+        {
+          "word": "the",
+          "start": 35.86,
+          "end": 36.22
+        },
+        {
+          "word": "centipedes,",
+          "start": 36.22,
+          "end": 37.027,
+          "char_starts": [
+            36.22,
+            36.264,
+            36.308,
+            36.36,
+            36.418,
+            36.481,
+            36.549,
+            36.621,
+            36.696,
+            36.774,
+            36.855
+          ]
+        },
+        {
+          "word": "they",
+          "start": 37.037,
+          "end": 37.32
+        },
+        {
+          "word": "eat",
+          "start": 37.32,
+          "end": 37.56
+        },
+        {
+          "word": "away",
+          "start": 37.56,
+          "end": 37.94
+        },
+        {
+          "word": "my",
+          "start": 37.94,
+          "end": 38.26
+        },
+        {
+          "word": "memory",
+          "start": 38.26,
+          "end": 39.08,
+          "char_starts": [
+            38.26,
+            38.342,
+            38.429,
+            38.546,
+            38.688,
+            38.851
+          ]
+        }
+      ]
+    },
+    {
+      "time": 39.08,
+      "text": "Feed me to my enemies, lead me to death, I'm Lil Kennedy",
+      "words": [
+        {
+          "word": "Feed",
+          "start": 39.08,
+          "end": 39.6
+        },
+        {
+          "word": "me",
+          "start": 39.6,
+          "end": 39.94
+        },
+        {
+          "word": "to",
+          "start": 39.94,
+          "end": 40.22
+        },
+        {
+          "word": "my",
+          "start": 40.22,
+          "end": 40.66
+        },
+        {
+          "word": "enemies,",
+          "start": 40.66,
+          "end": 41.74,
+          "char_starts": [
+            40.66,
+            40.741,
+            40.834,
+            40.946,
+            41.072,
+            41.208,
+            41.354,
+            41.509
+          ]
+        },
+        {
+          "word": "lead",
+          "start": 41.74,
+          "end": 41.82
+        },
+        {
+          "word": "me",
+          "start": 41.82,
+          "end": 42.14
+        },
+        {
+          "word": "to",
+          "start": 42.14,
+          "end": 42.44
+        },
+        {
+          "word": "death,",
+          "start": 42.44,
+          "end": 42.92
+        },
+        {
+          "word": "I'm",
+          "start": 42.92,
+          "end": 43.3
+        },
+        {
+          "word": "Lil",
+          "start": 43.3,
+          "end": 43.54
+        },
+        {
+          "word": "Kennedy",
+          "start": 43.54,
+          "end": 44.14
+        }
+      ]
+    },
+    {
+      "time": 44.86,
+      "text": "I ain't got no remedy, bury me",
+      "words": [
+        {
+          "word": "I",
+          "start": 44.86,
+          "end": 44.989
+        },
+        {
+          "word": "ain't",
+          "start": 44.989,
+          "end": 45.635,
+          "char_starts": [
+            44.989,
+            45.067,
+            45.187,
+            45.331,
+            45.493
+          ]
+        },
+        {
+          "word": "got",
+          "start": 45.635,
+          "end": 46.023
+        },
+        {
+          "word": "no",
+          "start": 46.023,
+          "end": 46.281
+        },
+        {
+          "word": "remedy,",
+          "start": 46.281,
+          "end": 47.185,
+          "char_starts": [
+            46.281,
+            46.358,
+            46.454,
+            46.569,
+            46.698,
+            46.838,
+            46.989
+          ]
+        },
+        {
+          "word": "bury",
+          "start": 47.185,
+          "end": 47.702
+        },
+        {
+          "word": "me",
+          "start": 47.702,
+          "end": 47.96
+        }
+      ]
+    },
+    {
+      "time": 48.16,
+      "text": "Pocket full of ketamine, methamphetamine",
+      "words": [
+        {
+          "word": "Pocket",
+          "start": 48.16,
+          "end": 48.842,
+          "char_starts": [
+            48.16,
+            48.228,
+            48.32,
+            48.432,
+            48.557,
+            48.693
+          ]
+        },
+        {
+          "word": "full",
+          "start": 48.842,
+          "end": 49.296
+        },
+        {
+          "word": "of",
+          "start": 49.296,
+          "end": 49.523
+        },
+        {
+          "word": "ketamine,",
+          "start": 49.523,
+          "end": 50.546,
+          "char_starts": [
+            49.523,
+            49.591,
+            49.666,
+            49.754,
+            49.853,
+            49.961,
+            50.077,
+            50.199,
+            50.328
+          ]
+        },
+        {
+          "word": "methamphetamine",
+          "start": 50.546,
+          "end": 52.25,
+          "char_starts": [
+            50.546,
+            50.614,
+            50.682,
+            50.75,
+            50.818,
+            50.886,
+            50.958,
+            51.035,
+            51.119,
+            51.209,
+            51.305,
+            51.405,
+            51.511,
+            51.621,
+            51.736
+          ]
+        }
+      ]
+    },
+    {
+      "time": 52.25,
+      "text": "Put me in a limousine, drive me to destiny",
+      "words": [
+        {
+          "word": "Put",
+          "start": 52.25,
+          "end": 52.636
+        },
+        {
+          "word": "me",
+          "start": 52.636,
+          "end": 52.894
+        },
+        {
+          "word": "in",
+          "start": 52.894,
+          "end": 53.152
+        },
+        {
+          "word": "a",
+          "start": 53.152,
+          "end": 53.281
+        },
+        {
+          "word": "limousine,",
+          "start": 53.281,
+          "end": 54.569,
+          "char_starts": [
+            53.281,
+            53.358,
+            53.435,
+            53.515,
+            53.604,
+            53.701,
+            53.804,
+            53.913,
+            54.028,
+            54.147
+          ]
+        },
+        {
+          "word": "drive",
+          "start": 54.569,
+          "end": 55.213
+        },
+        {
+          "word": "me",
+          "start": 55.213,
+          "end": 55.471
+        },
+        {
+          "word": "to",
+          "start": 55.471,
+          "end": 55.728
+        },
+        {
+          "word": "destiny",
+          "start": 55.728,
+          "end": 56.63,
+          "char_starts": [
+            55.728,
+            55.805,
+            55.882,
+            55.979,
+            56.096,
+            56.231,
+            56.381
+          ]
+        }
+      ]
+    },
+    {
+      "time": 56.63,
+      "text": "Pussy on the leather seats, music and ecstasy",
+      "words": [
+        {
+          "word": "Pussy",
+          "start": 56.63,
+          "end": 57.21
+        },
+        {
+          "word": "on",
+          "start": 57.21,
+          "end": 57.442
+        },
+        {
+          "word": "the",
+          "start": 57.442,
+          "end": 57.791
+        },
+        {
+          "word": "leather",
+          "start": 57.791,
+          "end": 58.603,
+          "char_starts": [
+            57.791,
+            57.861,
+            57.948,
+            58.051,
+            58.167,
+            58.294,
+            58.429
+          ]
+        },
+        {
+          "word": "seats,",
+          "start": 58.603,
+          "end": 59.299,
+          "char_starts": [
+            58.603,
+            58.673,
+            58.768,
+            58.881,
+            59.009,
+            59.148
+          ]
+        },
+        {
+          "word": "music",
+          "start": 59.299,
+          "end": 59.879
+        },
+        {
+          "word": "and",
+          "start": 59.879,
+          "end": 60.228
+        },
+        {
+          "word": "ecstasy",
+          "start": 60.228,
+          "end": 61.04,
+          "char_starts": [
+            60.228,
+            60.298,
+            60.368,
+            60.456,
+            60.561,
+            60.682,
+            60.817
+          ]
+        }
+      ]
+    },
+    {
+      "time": 61.04,
+      "text": "She don't think I'm sexy, but I can't let that get to me (fuck)",
+      "words": [
+        {
+          "word": "She",
+          "start": 61.04,
+          "end": 61.296
+        },
+        {
+          "word": "don't",
+          "start": 61.296,
+          "end": 61.722
+        },
+        {
+          "word": "think",
+          "start": 61.722,
+          "end": 62.148
+        },
+        {
+          "word": "I'm",
+          "start": 62.148,
+          "end": 62.403
+        },
+        {
+          "word": "sexy,",
+          "start": 62.403,
+          "end": 62.829
+        },
+        {
+          "word": "but",
+          "start": 62.829,
+          "end": 63.085
+        },
+        {
+          "word": "I",
+          "start": 63.085,
+          "end": 63.185
+        },
+        {
+          "word": "can't",
+          "start": 63.185,
+          "end": 63.611
+        },
+        {
+          "word": "let",
+          "start": 63.611,
+          "end": 63.866
+        },
+        {
+          "word": "that",
+          "start": 63.866,
+          "end": 64.207
+        },
+        {
+          "word": "get",
+          "start": 64.207,
+          "end": 64.463
+        },
+        {
+          "word": "to",
+          "start": 64.463,
+          "end": 64.633
+        },
+        {
+          "word": "me",
+          "start": 64.633,
+          "end": 64.804
+        },
+        {
+          "word": "(fuck)",
+          "start": 64.804,
+          "end": 65.29,
+          "adlib": true
+        }
+      ]
+    },
+    {
+      "time": 65.34,
+      "text": "Fuck her 'til she red and then she keep comin' next to me",
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 65.34,
+          "end": 65.735
+        },
+        {
+          "word": "her",
+          "start": 65.735,
+          "end": 66.031
+        },
+        {
+          "word": "'til",
+          "start": 66.031,
+          "end": 66.425
+        },
+        {
+          "word": "she",
+          "start": 66.425,
+          "end": 66.721
+        },
+        {
+          "word": "red",
+          "start": 66.721,
+          "end": 67.017
+        },
+        {
+          "word": "and",
+          "start": 67.017,
+          "end": 67.313
+        },
+        {
+          "word": "then",
+          "start": 67.313,
+          "end": 67.708
+        },
+        {
+          "word": "she",
+          "start": 67.708,
+          "end": 68.004
+        },
+        {
+          "word": "keep",
+          "start": 68.004,
+          "end": 68.399
+        },
+        {
+          "word": "comin'",
+          "start": 68.399,
+          "end": 68.991
+        },
+        {
+          "word": "next",
+          "start": 68.991,
+          "end": 69.385
+        },
+        {
+          "word": "to",
+          "start": 69.385,
+          "end": 69.583
+        },
+        {
+          "word": "me",
+          "start": 69.583,
+          "end": 69.78
+        }
+      ]
+    },
+    {
+      "time": 69.78,
+      "text": "Fuck her 'til she dead and she gon' keep comin' next to me",
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 69.78,
+          "end": 70.15
+        },
+        {
+          "word": "her",
+          "start": 70.15,
+          "end": 70.428
+        },
+        {
+          "word": "'til",
+          "start": 70.428,
+          "end": 70.799
+        },
+        {
+          "word": "she",
+          "start": 70.799,
+          "end": 71.077
+        },
+        {
+          "word": "dead",
+          "start": 71.077,
+          "end": 71.447
+        },
+        {
+          "word": "and",
+          "start": 71.447,
+          "end": 71.725
+        },
+        {
+          "word": "she",
+          "start": 71.725,
+          "end": 72.003
+        },
+        {
+          "word": "gon'",
+          "start": 72.003,
+          "end": 72.373
+        },
+        {
+          "word": "keep",
+          "start": 72.373,
+          "end": 72.743
+        },
+        {
+          "word": "comin'",
+          "start": 72.743,
+          "end": 73.299
+        },
+        {
+          "word": "next",
+          "start": 73.299,
+          "end": 73.67
+        },
+        {
+          "word": "to",
+          "start": 73.67,
+          "end": 73.855
+        },
+        {
+          "word": "me",
+          "start": 73.855,
+          "end": 74.04
+        }
+      ]
+    },
+    {
+      "time": 74.04,
+      "text": "Fuck her, give me head and she gon' keep givin' neck to me",
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 74.04,
+          "end": 74.427
+        },
+        {
+          "word": "her,",
+          "start": 74.427,
+          "end": 74.814
+        },
+        {
+          "word": "give",
+          "start": 74.814,
+          "end": 75.201
+        },
+        {
+          "word": "me",
+          "start": 75.201,
+          "end": 75.394
+        },
+        {
+          "word": "head",
+          "start": 75.394,
+          "end": 75.781
+        },
+        {
+          "word": "and",
+          "start": 75.781,
+          "end": 76.072
+        },
+        {
+          "word": "she",
+          "start": 76.072,
+          "end": 76.362
+        },
+        {
+          "word": "gon'",
+          "start": 76.362,
+          "end": 76.749
+        },
+        {
+          "word": "keep",
+          "start": 76.749,
+          "end": 77.136
+        },
+        {
+          "word": "givin'",
+          "start": 77.136,
+          "end": 77.716
+        },
+        {
+          "word": "neck",
+          "start": 77.716,
+          "end": 78.103
+        },
+        {
+          "word": "to",
+          "start": 78.103,
+          "end": 78.297
+        },
+        {
+          "word": "me",
+          "start": 78.297,
+          "end": 78.49
+        }
+      ]
+    },
+    {
+      "time": 78.49,
+      "text": "Fuck her in your bed and she gon' leak cum and wet the sheets",
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 78.49,
+          "end": 78.852
+        },
+        {
+          "word": "her",
+          "start": 78.852,
+          "end": 79.123
+        },
+        {
+          "word": "in",
+          "start": 79.123,
+          "end": 79.304
+        },
+        {
+          "word": "your",
+          "start": 79.304,
+          "end": 79.665
+        },
+        {
+          "word": "bed",
+          "start": 79.665,
+          "end": 79.937
+        },
+        {
+          "word": "and",
+          "start": 79.937,
+          "end": 80.208
+        },
+        {
+          "word": "she",
+          "start": 80.208,
+          "end": 80.479
+        },
+        {
+          "word": "gon'",
+          "start": 80.479,
+          "end": 80.841
+        },
+        {
+          "word": "leak",
+          "start": 80.841,
+          "end": 81.202
+        },
+        {
+          "word": "cum",
+          "start": 81.202,
+          "end": 81.474
+        },
+        {
+          "word": "and",
+          "start": 81.474,
+          "end": 81.745
+        },
+        {
+          "word": "wet",
+          "start": 81.745,
+          "end": 82.016
+        },
+        {
+          "word": "the",
+          "start": 82.016,
+          "end": 82.287
+        },
+        {
+          "word": "sheets",
+          "start": 82.287,
+          "end": 82.83
+        }
+      ]
+    },
+    {
+      "time": 82.83,
+      "text": "I ain't got no chill in me, bitch, you gon' envy me",
+      "words": [
+        {
+          "word": "I",
+          "start": 82.83,
+          "end": 82.951
+        },
+        {
+          "word": "ain't",
+          "start": 82.951,
+          "end": 83.558
+        },
+        {
+          "word": "got",
+          "start": 83.558,
+          "end": 83.921
+        },
+        {
+          "word": "no",
+          "start": 83.921,
+          "end": 84.164
+        },
+        {
+          "word": "chill",
+          "start": 84.164,
+          "end": 84.77
+        },
+        {
+          "word": "in",
+          "start": 84.77,
+          "end": 85.013
+        },
+        {
+          "word": "me,",
+          "start": 85.013,
+          "end": 85.376
+        },
+        {
+          "word": "bitch,",
+          "start": 85.376,
+          "end": 86.104,
+          "char_starts": [
+            85.376,
+            85.449,
+            85.548,
+            85.667,
+            85.8,
+            85.946
+          ]
+        },
+        {
+          "word": "you",
+          "start": 86.104,
+          "end": 86.468
+        },
+        {
+          "word": "gon'",
+          "start": 86.468,
+          "end": 86.953,
+          "char_starts": [
+            86.468,
+            86.554,
+            86.687,
+            86.846
+          ]
+        },
+        {
+          "word": "envy",
+          "start": 86.953,
+          "end": 87.438
+        },
+        {
+          "word": "me",
+          "start": 87.438,
+          "end": 87.68
+        }
+      ]
+    },
+    {
+      "time": 87.68,
+      "text": "They don't see me 'less I pull up Lamborghini (skrrt)",
+      "words": [
+        {
+          "word": "They",
+          "start": 87.68,
+          "end": 87.983
+        },
+        {
+          "word": "don't",
+          "start": 87.983,
+          "end": 88.361
+        },
+        {
+          "word": "see",
+          "start": 88.361,
+          "end": 88.588
+        },
+        {
+          "word": "me",
+          "start": 88.588,
+          "end": 88.74
+        },
+        {
+          "word": "'less",
+          "start": 88.74,
+          "end": 89.118
+        },
+        {
+          "word": "I",
+          "start": 89.118,
+          "end": 89.218
+        },
+        {
+          "word": "pull",
+          "start": 89.218,
+          "end": 89.521
+        },
+        {
+          "word": "up",
+          "start": 89.521,
+          "end": 89.672
+        },
+        {
+          "word": "Lamborghini",
+          "start": 89.672,
+          "end": 90.505,
+          "char_starts": [
+            89.672,
+            89.717,
+            89.762,
+            89.807,
+            89.856,
+            89.911,
+            89.974,
+            90.042,
+            90.116,
+            90.196,
+            90.28
+          ]
+        },
+        {
+          "word": "(skrrt)",
+          "start": 90.505,
+          "end": 91,
+          "adlib": true
+        }
+      ]
+    },
+    {
+      "time": 91.46,
+      "text": "Everybody wanna be me 'til I pull up and they meet me",
+      "words": [
+        {
+          "word": "Everybody",
+          "start": 91.46,
+          "end": 92.296,
+          "char_starts": [
+            91.46,
+            91.516,
+            91.572,
+            91.63,
+            91.699,
+            91.779,
+            91.867,
+            91.965,
+            92.07
+          ]
+        },
+        {
+          "word": "wanna",
+          "start": 92.296,
+          "end": 92.76
+        },
+        {
+          "word": "be",
+          "start": 92.76,
+          "end": 92.946
+        },
+        {
+          "word": "me",
+          "start": 92.946,
+          "end": 93.131
+        },
+        {
+          "word": "'til",
+          "start": 93.131,
+          "end": 93.503
+        },
+        {
+          "word": "I",
+          "start": 93.503,
+          "end": 93.603
+        },
+        {
+          "word": "pull",
+          "start": 93.603,
+          "end": 93.974
+        },
+        {
+          "word": "up",
+          "start": 93.974,
+          "end": 94.16
+        },
+        {
+          "word": "and",
+          "start": 94.16,
+          "end": 94.439
+        },
+        {
+          "word": "they",
+          "start": 94.439,
+          "end": 94.81
+        },
+        {
+          "word": "meet",
+          "start": 94.81,
+          "end": 95.181
+        },
+        {
+          "word": "me",
+          "start": 95.181,
+          "end": 95.35
+        }
+      ]
+    },
+    {
+      "time": 95.36,
+      "text": "I'ma die slow, sweetie, I ain't never had a meanin'",
+      "words": [
+        {
+          "word": "I'ma",
+          "start": 95.36,
+          "end": 95.778
+        },
+        {
+          "word": "die",
+          "start": 95.778,
+          "end": 96.092
+        },
+        {
+          "word": "slow,",
+          "start": 96.092,
+          "end": 96.614
+        },
+        {
+          "word": "sweetie,",
+          "start": 96.614,
+          "end": 97.45,
+          "char_starts": [
+            96.614,
+            96.677,
+            96.75,
+            96.837,
+            96.933,
+            97.039,
+            97.153,
+            97.272
+          ]
+        },
+        {
+          "word": "I",
+          "start": 97.45,
+          "end": 97.555
+        },
+        {
+          "word": "ain't",
+          "start": 97.555,
+          "end": 98.078
+        },
+        {
+          "word": "never",
+          "start": 98.078,
+          "end": 98.6
+        },
+        {
+          "word": "had",
+          "start": 98.6,
+          "end": 98.914
+        },
+        {
+          "word": "a",
+          "start": 98.914,
+          "end": 99.018
+        },
+        {
+          "word": "meanin'",
+          "start": 99.018,
+          "end": 99.75,
+          "char_starts": [
+            99.018,
+            99.081,
+            99.159,
+            99.252,
+            99.356,
+            99.47,
+            99.593
+          ]
+        }
+      ]
+    },
+    {
+      "time": 99.75,
+      "text": "Just another fuckin' junkie, drain my blood, but don't be greedy",
+      "words": [
+        {
+          "word": "Just",
+          "start": 99.75,
+          "end": 100.069
+        },
+        {
+          "word": "another",
+          "start": 100.069,
+          "end": 100.628
+        },
+        {
+          "word": "fuckin'",
+          "start": 100.628,
+          "end": 101.187
+        },
+        {
+          "word": "junkie,",
+          "start": 101.187,
+          "end": 101.745
+        },
+        {
+          "word": "drain",
+          "start": 101.745,
+          "end": 102.144
+        },
+        {
+          "word": "my",
+          "start": 102.144,
+          "end": 102.304
+        },
+        {
+          "word": "blood,",
+          "start": 102.304,
+          "end": 102.783
+        },
+        {
+          "word": "but",
+          "start": 102.783,
+          "end": 103.022
+        },
+        {
+          "word": "don't",
+          "start": 103.022,
+          "end": 103.421
+        },
+        {
+          "word": "be",
+          "start": 103.421,
+          "end": 103.581
+        },
+        {
+          "word": "greedy",
+          "start": 103.581,
+          "end": 104.06
+        }
+      ]
+    },
+    {
+      "time": 104.06,
+      "text": "Leave some liquid for the centipedes, they eat away my memory",
+      "words": [
+        {
+          "word": "Leave",
+          "start": 104.06,
+          "end": 104.546
+        },
+        {
+          "word": "some",
+          "start": 104.546,
+          "end": 104.935
+        },
+        {
+          "word": "liquid",
+          "start": 104.935,
+          "end": 105.519
+        },
+        {
+          "word": "for",
+          "start": 105.519,
+          "end": 105.811
+        },
+        {
+          "word": "the",
+          "start": 105.811,
+          "end": 106.102
+        },
+        {
+          "word": "centipedes,",
+          "start": 106.102,
+          "end": 107.172,
+          "char_starts": [
+            106.102,
+            106.16,
+            106.218,
+            106.286,
+            106.363,
+            106.447,
+            106.537,
+            106.632,
+            106.732,
+            106.836,
+            106.944
+          ]
+        },
+        {
+          "word": "they",
+          "start": 107.172,
+          "end": 107.561
+        },
+        {
+          "word": "eat",
+          "start": 107.561,
+          "end": 107.853
+        },
+        {
+          "word": "away",
+          "start": 107.853,
+          "end": 108.242
+        },
+        {
+          "word": "my",
+          "start": 108.242,
+          "end": 108.436
+        },
+        {
+          "word": "memory",
+          "start": 108.436,
+          "end": 109.02
+        }
+      ]
+    },
+    {
+      "time": 109.02,
+      "text": "Feed me to my enemies, lead me to death, I'm Lil Kennedy",
+      "words": [
+        {
+          "word": "Feed",
+          "start": 109.02,
+          "end": 109.503
+        },
+        {
+          "word": "me",
+          "start": 109.503,
+          "end": 109.744
+        },
+        {
+          "word": "to",
+          "start": 109.744,
+          "end": 109.985
+        },
+        {
+          "word": "my",
+          "start": 109.985,
+          "end": 110.227
+        },
+        {
+          "word": "enemies,",
+          "start": 110.227,
+          "end": 111.192,
+          "char_starts": [
+            110.227,
+            110.299,
+            110.383,
+            110.483,
+            110.595,
+            110.717,
+            110.847,
+            110.986
+          ]
+        },
+        {
+          "word": "lead",
+          "start": 111.192,
+          "end": 111.675
+        },
+        {
+          "word": "me",
+          "start": 111.675,
+          "end": 111.916
+        },
+        {
+          "word": "to",
+          "start": 111.916,
+          "end": 112.157
+        },
+        {
+          "word": "death,",
+          "start": 112.157,
+          "end": 112.881,
+          "char_starts": [
+            112.157,
+            112.229,
+            112.328,
+            112.446,
+            112.579,
+            112.724
+          ]
+        },
+        {
+          "word": "I'm",
+          "start": 112.881,
+          "end": 113.243
+        },
+        {
+          "word": "Lil",
+          "start": 113.243,
+          "end": 113.605
+        },
+        {
+          "word": "Kennedy",
+          "start": 113.605,
+          "end": 114.45,
+          "char_starts": [
+            113.605,
+            113.677,
+            113.749,
+            113.84,
+            113.949,
+            114.075,
+            114.216
+          ]
+        }
+      ]
+    },
+    {
+      "time": 114.82,
+      "text": "I ain't got no remedy, bury me",
+      "words": [
+        {
+          "word": "I",
+          "start": 114.82,
+          "end": 114.941
+        },
+        {
+          "word": "ain't",
+          "start": 114.941,
+          "end": 115.548
+        },
+        {
+          "word": "got",
+          "start": 115.548,
+          "end": 115.911
+        },
+        {
+          "word": "no",
+          "start": 115.911,
+          "end": 116.154
+        },
+        {
+          "word": "remedy,",
+          "start": 116.154,
+          "end": 117.003,
+          "char_starts": [
+            116.154,
+            116.227,
+            116.317,
+            116.426,
+            116.547,
+            116.68,
+            116.821
+          ]
+        },
+        {
+          "word": "bury",
+          "start": 117.003,
+          "end": 117.488
+        },
+        {
+          "word": "me",
+          "start": 117.488,
+          "end": 117.73
+        }
+      ]
+    },
+    {
+      "time": 117.78,
+      "text": "Pocket full of ketamine, methamphetamine",
+      "words": [
+        {
+          "word": "Pocket",
+          "start": 117.78,
+          "end": 118.503,
+          "char_starts": [
+            117.78,
+            117.852,
+            117.951,
+            118.069,
+            118.201,
+            118.346
+          ]
+        },
+        {
+          "word": "full",
+          "start": 118.503,
+          "end": 118.986
+        },
+        {
+          "word": "of",
+          "start": 118.986,
+          "end": 119.227
+        },
+        {
+          "word": "ketamine,",
+          "start": 119.227,
+          "end": 120.312,
+          "char_starts": [
+            119.227,
+            119.299,
+            119.378,
+            119.472,
+            119.577,
+            119.692,
+            119.815,
+            119.945,
+            120.081
+          ]
+        },
+        {
+          "word": "methamphetamine",
+          "start": 120.312,
+          "end": 122.12,
+          "char_starts": [
+            120.312,
+            120.384,
+            120.456,
+            120.528,
+            120.6,
+            120.672,
+            120.748,
+            120.831,
+            120.92,
+            121.016,
+            121.117,
+            121.224,
+            121.336,
+            121.454,
+            121.576
+          ]
+        }
+      ]
+    },
+    {
+      "time": 122.12,
+      "text": "Put me in a limousine, drive me to destiny",
+      "words": [
+        {
+          "word": "Put",
+          "start": 122.12,
+          "end": 122.492
+        },
+        {
+          "word": "me",
+          "start": 122.492,
+          "end": 122.741
+        },
+        {
+          "word": "in",
+          "start": 122.741,
+          "end": 122.989
+        },
+        {
+          "word": "a",
+          "start": 122.989,
+          "end": 123.113
+        },
+        {
+          "word": "limousine,",
+          "start": 123.113,
+          "end": 124.354,
+          "char_starts": [
+            123.113,
+            123.187,
+            123.261,
+            123.338,
+            123.424,
+            123.517,
+            123.617,
+            123.722,
+            123.832,
+            123.947
+          ]
+        },
+        {
+          "word": "drive",
+          "start": 124.354,
+          "end": 124.975
+        },
+        {
+          "word": "me",
+          "start": 124.975,
+          "end": 125.223
+        },
+        {
+          "word": "to",
+          "start": 125.223,
+          "end": 125.471
+        },
+        {
+          "word": "destiny",
+          "start": 125.471,
+          "end": 126.34,
+          "char_starts": [
+            125.471,
+            125.545,
+            125.619,
+            125.713,
+            125.825,
+            125.954,
+            126.099
+          ]
+        }
+      ]
+    },
+    {
+      "time": 126.34,
+      "text": "Pussy on the leather seats, music and ecstasy",
+      "words": [
+        {
+          "word": "Pussy",
+          "start": 126.34,
+          "end": 126.914
+        },
+        {
+          "word": "on",
+          "start": 126.914,
+          "end": 127.143
+        },
+        {
+          "word": "the",
+          "start": 127.143,
+          "end": 127.487
+        },
+        {
+          "word": "leather",
+          "start": 127.487,
+          "end": 128.291,
+          "char_starts": [
+            127.487,
+            127.556,
+            127.641,
+            127.744,
+            127.859,
+            127.984,
+            128.118
+          ]
+        },
+        {
+          "word": "seats,",
+          "start": 128.291,
+          "end": 128.979,
+          "char_starts": [
+            128.291,
+            128.36,
+            128.454,
+            128.566,
+            128.692,
+            128.83
+          ]
+        },
+        {
+          "word": "music",
+          "start": 128.979,
+          "end": 129.553
+        },
+        {
+          "word": "and",
+          "start": 129.553,
+          "end": 129.897
+        },
+        {
+          "word": "ecstasy",
+          "start": 129.897,
+          "end": 130.7,
+          "char_starts": [
+            129.897,
+            129.966,
+            130.035,
+            130.121,
+            130.225,
+            130.345,
+            130.479
+          ]
+        }
+      ]
+    },
+    {
+      "time": 130.7,
+      "text": "She don't think I'm sexy, but I can't let that get to me (fuck)",
+      "words": [
+        {
+          "word": "She",
+          "start": 130.7,
+          "end": 130.964
+        },
+        {
+          "word": "don't",
+          "start": 130.964,
+          "end": 131.404
+        },
+        {
+          "word": "think",
+          "start": 131.404,
+          "end": 131.844
+        },
+        {
+          "word": "I'm",
+          "start": 131.844,
+          "end": 132.108
+        },
+        {
+          "word": "sexy,",
+          "start": 132.108,
+          "end": 132.548
+        },
+        {
+          "word": "but",
+          "start": 132.548,
+          "end": 132.812
+        },
+        {
+          "word": "I",
+          "start": 132.812,
+          "end": 132.912
+        },
+        {
+          "word": "can't",
+          "start": 132.912,
+          "end": 133.352
+        },
+        {
+          "word": "let",
+          "start": 133.352,
+          "end": 133.616
+        },
+        {
+          "word": "that",
+          "start": 133.616,
+          "end": 133.968
+        },
+        {
+          "word": "get",
+          "start": 133.968,
+          "end": 134.232
+        },
+        {
+          "word": "to",
+          "start": 134.232,
+          "end": 134.408
+        },
+        {
+          "word": "me",
+          "start": 134.408,
+          "end": 134.584
+        },
+        {
+          "word": "(fuck)",
+          "start": 134.584,
+          "end": 135.09,
+          "adlib": true
+        }
+      ]
+    },
+    {
+      "time": 135.1,
+      "text": "Fuck her 'til she red and then she keep comin' next to me",
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 135.1,
+          "end": 135.483
+        },
+        {
+          "word": "her",
+          "start": 135.483,
+          "end": 135.77
+        },
+        {
+          "word": "'til",
+          "start": 135.77,
+          "end": 136.154
+        },
+        {
+          "word": "she",
+          "start": 136.154,
+          "end": 136.441
+        },
+        {
+          "word": "red",
+          "start": 136.441,
+          "end": 136.728
+        },
+        {
+          "word": "and",
+          "start": 136.728,
+          "end": 137.016
+        },
+        {
+          "word": "then",
+          "start": 137.016,
+          "end": 137.399
+        },
+        {
+          "word": "she",
+          "start": 137.399,
+          "end": 137.686
+        },
+        {
+          "word": "keep",
+          "start": 137.686,
+          "end": 138.069
+        },
+        {
+          "word": "comin'",
+          "start": 138.069,
+          "end": 138.644
+        },
+        {
+          "word": "next",
+          "start": 138.644,
+          "end": 139.027
+        },
+        {
+          "word": "to",
+          "start": 139.027,
+          "end": 139.218
+        },
+        {
+          "word": "me",
+          "start": 139.218,
+          "end": 139.41
+        }
+      ]
+    },
+    {
+      "time": 139.41,
+      "text": "Fuck her 'til she dead and she gon' keep comin' next to me",
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 139.41,
+          "end": 139.803
+        },
+        {
+          "word": "her",
+          "start": 139.803,
+          "end": 140.098
+        },
+        {
+          "word": "'til",
+          "start": 140.098,
+          "end": 140.491
+        },
+        {
+          "word": "she",
+          "start": 140.491,
+          "end": 140.786
+        },
+        {
+          "word": "dead",
+          "start": 140.786,
+          "end": 141.179
+        },
+        {
+          "word": "and",
+          "start": 141.179,
+          "end": 141.473
+        },
+        {
+          "word": "she",
+          "start": 141.473,
+          "end": 141.768
+        },
+        {
+          "word": "gon'",
+          "start": 141.768,
+          "end": 142.161
+        },
+        {
+          "word": "keep",
+          "start": 142.161,
+          "end": 142.554
+        },
+        {
+          "word": "comin'",
+          "start": 142.554,
+          "end": 143.144
+        },
+        {
+          "word": "next",
+          "start": 143.144,
+          "end": 143.537
+        },
+        {
+          "word": "to",
+          "start": 143.537,
+          "end": 143.733
+        },
+        {
+          "word": "me",
+          "start": 143.733,
+          "end": 143.93
+        }
+      ]
+    },
+    {
+      "time": 143.93,
+      "text": "Fuck her, give me head and she gon' keep givin' neck to me",
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 143.93,
+          "end": 144.304
+        },
+        {
+          "word": "her,",
+          "start": 144.304,
+          "end": 144.678
+        },
+        {
+          "word": "give",
+          "start": 144.678,
+          "end": 145.052
+        },
+        {
+          "word": "me",
+          "start": 145.052,
+          "end": 145.239
+        },
+        {
+          "word": "head",
+          "start": 145.239,
+          "end": 145.613
+        },
+        {
+          "word": "and",
+          "start": 145.613,
+          "end": 145.893
+        },
+        {
+          "word": "she",
+          "start": 145.893,
+          "end": 146.173
+        },
+        {
+          "word": "gon'",
+          "start": 146.173,
+          "end": 146.547
+        },
+        {
+          "word": "keep",
+          "start": 146.547,
+          "end": 146.921
+        },
+        {
+          "word": "givin'",
+          "start": 146.921,
+          "end": 147.482
+        },
+        {
+          "word": "neck",
+          "start": 147.482,
+          "end": 147.856
+        },
+        {
+          "word": "to",
+          "start": 147.856,
+          "end": 148.043
+        },
+        {
+          "word": "me",
+          "start": 148.043,
+          "end": 148.23
+        }
+      ]
+    },
+    {
+      "time": 148.23,
+      "text": "Fuck her in your bed and she gon' leak cum and wet the sheets",
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 148.23,
+          "end": 148.593
+        },
+        {
+          "word": "her",
+          "start": 148.593,
+          "end": 148.866
+        },
+        {
+          "word": "in",
+          "start": 148.866,
+          "end": 149.048
+        },
+        {
+          "word": "your",
+          "start": 149.048,
+          "end": 149.411
+        },
+        {
+          "word": "bed",
+          "start": 149.411,
+          "end": 149.683
+        },
+        {
+          "word": "and",
+          "start": 149.683,
+          "end": 149.956
+        },
+        {
+          "word": "she",
+          "start": 149.956,
+          "end": 150.228
+        },
+        {
+          "word": "gon'",
+          "start": 150.228,
+          "end": 150.592
+        },
+        {
+          "word": "leak",
+          "start": 150.592,
+          "end": 150.955
+        },
+        {
+          "word": "cum",
+          "start": 150.955,
+          "end": 151.228
+        },
+        {
+          "word": "and",
+          "start": 151.228,
+          "end": 151.5
+        },
+        {
+          "word": "wet",
+          "start": 151.5,
+          "end": 151.773
+        },
+        {
+          "word": "the",
+          "start": 151.773,
+          "end": 152.045
+        },
+        {
+          "word": "sheets",
+          "start": 152.045,
+          "end": 152.59
+        }
+      ]
+    },
+    {
+      "time": 152.59,
+      "text": "I ain't got no chill in me, bitch, you gon' envy me",
+      "words": [
+        {
+          "word": "I",
+          "start": 152.59,
+          "end": 152.74
+        },
+        {
+          "word": "ain't",
+          "start": 152.74,
+          "end": 153.49,
+          "char_starts": [
+            152.74,
+            152.83,
+            152.969,
+            153.137,
+            153.325
+          ]
+        },
+        {
+          "word": "got",
+          "start": 153.49,
+          "end": 153.94
+        },
+        {
+          "word": "no",
+          "start": 153.94,
+          "end": 154.24
+        },
+        {
+          "word": "chill",
+          "start": 154.24,
+          "end": 154.99,
+          "char_starts": [
+            154.24,
+            154.33,
+            154.469,
+            154.637,
+            154.825
+          ]
+        },
+        {
+          "word": "in",
+          "start": 154.99,
+          "end": 155.29
+        },
+        {
+          "word": "me,",
+          "start": 155.29,
+          "end": 155.74
+        },
+        {
+          "word": "bitch,",
+          "start": 155.74,
+          "end": 156.64,
+          "char_starts": [
+            155.74,
+            155.83,
+            155.953,
+            156.099,
+            156.264,
+            156.444
+          ]
+        },
+        {
+          "word": "you",
+          "start": 156.64,
+          "end": 157.09
+        },
+        {
+          "word": "gon'",
+          "start": 157.09,
+          "end": 157.69,
+          "char_starts": [
+            157.09,
+            157.196,
+            157.361,
+            157.558
+          ]
+        },
+        {
+          "word": "envy",
+          "start": 157.69,
+          "end": 158.29
+        },
+        {
+          "word": "me",
+          "start": 158.29,
+          "end": 158.59
+        }
+      ]
+    }
+  ],
+  "annotations": {},
+  "raw_whisper": [
+    {
+      "text": "They  don't  see  me  less  I  pull  up  Lamborghini  Everybody  wanna  be  me  til  I  pull  up  and  they  meet  me  I'ma  die  slow,  sweetie,  I  ain't  never  had  a  meanin'",
+      "start": 17.24,
+      "end": 29.98,
+      "words": [
+        {
+          "word": "They",
+          "start": 17.24,
+          "end": 17.92
+        },
+        {
+          "word": "don't",
+          "start": 17.92,
+          "end": 18.6
+        },
+        {
+          "word": "see",
+          "start": 18.6,
+          "end": 18.92
+        },
+        {
+          "word": "me",
+          "start": 18.92,
+          "end": 19.18
+        },
+        {
+          "word": "less",
+          "start": 19.18,
+          "end": 19.48
+        },
+        {
+          "word": "I",
+          "start": 19.48,
+          "end": 19.84
+        },
+        {
+          "word": "pull",
+          "start": 19.84,
+          "end": 20.06
+        },
+        {
+          "word": "up",
+          "start": 20.06,
+          "end": 20.4
+        },
+        {
+          "word": "Lamborghini",
+          "start": 20.4,
+          "end": 21.32
+        },
+        {
+          "word": "Everybody",
+          "start": 21.32,
+          "end": 22.28
+        },
+        {
+          "word": "wanna",
+          "start": 22.28,
+          "end": 22.88
+        },
+        {
+          "word": "be",
+          "start": 22.88,
+          "end": 23.26
+        },
+        {
+          "word": "me",
+          "start": 23.26,
+          "end": 23.52
+        },
+        {
+          "word": "til",
+          "start": 23.52,
+          "end": 23.82
+        },
+        {
+          "word": "I",
+          "start": 23.82,
+          "end": 24.2
+        },
+        {
+          "word": "pull",
+          "start": 24.2,
+          "end": 24.42
+        },
+        {
+          "word": "up",
+          "start": 24.42,
+          "end": 24.64
+        },
+        {
+          "word": "and",
+          "start": 24.64,
+          "end": 24.98
+        },
+        {
+          "word": "they",
+          "start": 24.98,
+          "end": 25.26
+        },
+        {
+          "word": "meet",
+          "start": 25.26,
+          "end": 25.4
+        },
+        {
+          "word": "me",
+          "start": 25.4,
+          "end": 25.86
+        },
+        {
+          "word": "I'ma",
+          "start": 25.86,
+          "end": 26.4
+        },
+        {
+          "word": "die",
+          "start": 26.4,
+          "end": 26.64
+        },
+        {
+          "word": "slow,",
+          "start": 26.64,
+          "end": 27.32
+        },
+        {
+          "word": "sweetie,",
+          "start": 27.56,
+          "end": 27.8
+        },
+        {
+          "word": "I",
+          "start": 28.16,
+          "end": 28.24
+        },
+        {
+          "word": "ain't",
+          "start": 28.24,
+          "end": 28.46
+        },
+        {
+          "word": "never",
+          "start": 28.46,
+          "end": 28.98
+        },
+        {
+          "word": "had",
+          "start": 28.98,
+          "end": 29.36
+        },
+        {
+          "word": "a",
+          "start": 29.36,
+          "end": 29.62
+        },
+        {
+          "word": "meanin'",
+          "start": 29.62,
+          "end": 29.98
+        }
+      ]
+    },
+    {
+      "text": "Just  another  fucking  junkie,  drain  my  blood  but  don't  be  greedy",
+      "start": 29.98,
+      "end": 34.36,
+      "words": [
+        {
+          "word": "Just",
+          "start": 29.98,
+          "end": 30.32
+        },
+        {
+          "word": "another",
+          "start": 30.32,
+          "end": 31.08
+        },
+        {
+          "word": "fucking",
+          "start": 31.08,
+          "end": 31.76
+        },
+        {
+          "word": "junkie,",
+          "start": 31.76,
+          "end": 32.3
+        },
+        {
+          "word": "drain",
+          "start": 32.4,
+          "end": 32.52
+        },
+        {
+          "word": "my",
+          "start": 32.52,
+          "end": 32.92
+        },
+        {
+          "word": "blood",
+          "start": 32.92,
+          "end": 33.06
+        },
+        {
+          "word": "but",
+          "start": 33.06,
+          "end": 33.34
+        },
+        {
+          "word": "don't",
+          "start": 33.34,
+          "end": 33.7
+        },
+        {
+          "word": "be",
+          "start": 33.7,
+          "end": 34.02
+        },
+        {
+          "word": "greedy",
+          "start": 34.02,
+          "end": 34.36
+        }
+      ]
+    },
+    {
+      "text": "Leave  some  liquid  for  the  set  of  bees  to  eat  away  my  memory",
+      "start": 34.36,
+      "end": 39.08,
+      "words": [
+        {
+          "word": "Leave",
+          "start": 34.36,
+          "end": 34.66
+        },
+        {
+          "word": "some",
+          "start": 34.66,
+          "end": 35
+        },
+        {
+          "word": "liquid",
+          "start": 35,
+          "end": 35.42
+        },
+        {
+          "word": "for",
+          "start": 35.42,
+          "end": 35.86
+        },
+        {
+          "word": "the",
+          "start": 35.86,
+          "end": 36.22
+        },
+        {
+          "word": "set",
+          "start": 36.22,
+          "end": 36.46
+        },
+        {
+          "word": "of",
+          "start": 36.46,
+          "end": 36.74
+        },
+        {
+          "word": "bees",
+          "start": 36.74,
+          "end": 36.96
+        },
+        {
+          "word": "to",
+          "start": 36.96,
+          "end": 37.32
+        },
+        {
+          "word": "eat",
+          "start": 37.32,
+          "end": 37.56
+        },
+        {
+          "word": "away",
+          "start": 37.56,
+          "end": 37.94
+        },
+        {
+          "word": "my",
+          "start": 37.94,
+          "end": 38.26
+        },
+        {
+          "word": "memory",
+          "start": 38.26,
+          "end": 39.08
+        }
+      ]
+    },
+    {
+      "text": "Feed  me  to  my  enemies,  lead  me  to  death  I'm  little  Kennedy,  I  ain't  got  no  remedy",
+      "start": 39.08,
+      "end": 46.6,
+      "words": [
+        {
+          "word": "Feed",
+          "start": 39.08,
+          "end": 39.6
+        },
+        {
+          "word": "me",
+          "start": 39.6,
+          "end": 39.94
+        },
+        {
+          "word": "to",
+          "start": 39.94,
+          "end": 40.22
+        },
+        {
+          "word": "my",
+          "start": 40.22,
+          "end": 40.66
+        },
+        {
+          "word": "enemies,",
+          "start": 40.66,
+          "end": 41.26
+        },
+        {
+          "word": "lead",
+          "start": 41.74,
+          "end": 41.82
+        },
+        {
+          "word": "me",
+          "start": 41.82,
+          "end": 42.14
+        },
+        {
+          "word": "to",
+          "start": 42.14,
+          "end": 42.44
+        },
+        {
+          "word": "death",
+          "start": 42.44,
+          "end": 42.92
+        },
+        {
+          "word": "I'm",
+          "start": 42.92,
+          "end": 43.3
+        },
+        {
+          "word": "little",
+          "start": 43.3,
+          "end": 43.64
+        },
+        {
+          "word": "Kennedy,",
+          "start": 43.64,
+          "end": 44.44
+        },
+        {
+          "word": "I",
+          "start": 44.86,
+          "end": 45.2
+        },
+        {
+          "word": "ain't",
+          "start": 45.2,
+          "end": 45.46
+        },
+        {
+          "word": "got",
+          "start": 45.46,
+          "end": 45.66
+        },
+        {
+          "word": "no",
+          "start": 45.66,
+          "end": 46.02
+        },
+        {
+          "word": "remedy",
+          "start": 46.02,
+          "end": 46.6
+        }
+      ]
+    },
+    {
+      "text": "Bury  me,  pocket  full  of  ketamine,  bad  thing  I'm  fed  of  me",
+      "start": 46.6,
+      "end": 52.22,
+      "words": [
+        {
+          "word": "Bury",
+          "start": 46.6,
+          "end": 47.18
+        },
+        {
+          "word": "me,",
+          "start": 47.18,
+          "end": 48.02
+        },
+        {
+          "word": "pocket",
+          "start": 48.16,
+          "end": 48.52
+        },
+        {
+          "word": "full",
+          "start": 48.52,
+          "end": 49.02
+        },
+        {
+          "word": "of",
+          "start": 49.02,
+          "end": 49.4
+        },
+        {
+          "word": "ketamine,",
+          "start": 49.4,
+          "end": 50.08
+        },
+        {
+          "word": "bad",
+          "start": 50.42,
+          "end": 50.62
+        },
+        {
+          "word": "thing",
+          "start": 50.62,
+          "end": 51
+        },
+        {
+          "word": "I'm",
+          "start": 51,
+          "end": 51.3
+        },
+        {
+          "word": "fed",
+          "start": 51.3,
+          "end": 51.5
+        },
+        {
+          "word": "of",
+          "start": 51.5,
+          "end": 51.66
+        },
+        {
+          "word": "me",
+          "start": 51.66,
+          "end": 52.22
+        }
+      ]
+    },
+    {
+      "text": "Put  me  in  a  limousine,  drive  me  to  destiny",
+      "start": 52.22,
+      "end": 56.3,
+      "words": [
+        {
+          "word": "Put",
+          "start": 52.22,
+          "end": 52.66
+        },
+        {
+          "word": "me",
+          "start": 52.66,
+          "end": 53.2
+        },
+        {
+          "word": "in",
+          "start": 53.2,
+          "end": 53.52
+        },
+        {
+          "word": "a",
+          "start": 53.52,
+          "end": 53.66
+        },
+        {
+          "word": "limousine,",
+          "start": 53.66,
+          "end": 54.54
+        },
+        {
+          "word": "drive",
+          "start": 54.62,
+          "end": 54.92
+        },
+        {
+          "word": "me",
+          "start": 54.92,
+          "end": 55.3
+        },
+        {
+          "word": "to",
+          "start": 55.3,
+          "end": 55.54
+        },
+        {
+          "word": "destiny",
+          "start": 55.54,
+          "end": 56.3
+        }
+      ]
+    },
+    {
+      "text": "Pussy  on  the  letter  C,  it's  music  and  ecstasy",
+      "start": 56.3,
+      "end": 60.68,
+      "words": [
+        {
+          "word": "Pussy",
+          "start": 56.3,
+          "end": 57.28
+        },
+        {
+          "word": "on",
+          "start": 57.28,
+          "end": 57.72
+        },
+        {
+          "word": "the",
+          "start": 57.72,
+          "end": 58.06
+        },
+        {
+          "word": "letter",
+          "start": 58.06,
+          "end": 58.42
+        },
+        {
+          "word": "C,",
+          "start": 58.42,
+          "end": 58.82
+        },
+        {
+          "word": "it's",
+          "start": 59.02,
+          "end": 59.1
+        },
+        {
+          "word": "music",
+          "start": 59.1,
+          "end": 59.58
+        },
+        {
+          "word": "and",
+          "start": 59.58,
+          "end": 59.98
+        },
+        {
+          "word": "ecstasy",
+          "start": 59.98,
+          "end": 60.68
+        }
+      ]
+    },
+    {
+      "text": "She  don't  think  I'm  sexy,  but  I  can't  let  that  get  to  me",
+      "start": 60.68,
+      "end": 65.34,
+      "words": [
+        {
+          "word": "She",
+          "start": 60.68,
+          "end": 61.42
+        },
+        {
+          "word": "don't",
+          "start": 61.42,
+          "end": 61.66
+        },
+        {
+          "word": "think",
+          "start": 61.66,
+          "end": 62.02
+        },
+        {
+          "word": "I'm",
+          "start": 62.02,
+          "end": 62.32
+        },
+        {
+          "word": "sexy,",
+          "start": 62.32,
+          "end": 62.72
+        },
+        {
+          "word": "but",
+          "start": 63,
+          "end": 63.14
+        },
+        {
+          "word": "I",
+          "start": 63.14,
+          "end": 63.36
+        },
+        {
+          "word": "can't",
+          "start": 63.36,
+          "end": 63.7
+        },
+        {
+          "word": "let",
+          "start": 63.7,
+          "end": 63.84
+        },
+        {
+          "word": "that",
+          "start": 63.84,
+          "end": 64.14
+        },
+        {
+          "word": "get",
+          "start": 64.14,
+          "end": 64.5
+        },
+        {
+          "word": "to",
+          "start": 64.5,
+          "end": 64.78
+        },
+        {
+          "word": "me",
+          "start": 64.78,
+          "end": 65.34
+        }
+      ]
+    },
+    {
+      "text": "Fuck  her  till  she  red  and  then  she  keep  coming  next  to  me",
+      "start": 65.34,
+      "end": 69.7,
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 65.34,
+          "end": 65.86
+        },
+        {
+          "word": "her",
+          "start": 65.86,
+          "end": 66.06
+        },
+        {
+          "word": "till",
+          "start": 66.06,
+          "end": 66.26
+        },
+        {
+          "word": "she",
+          "start": 66.26,
+          "end": 66.72
+        },
+        {
+          "word": "red",
+          "start": 66.72,
+          "end": 67
+        },
+        {
+          "word": "and",
+          "start": 67,
+          "end": 67.2
+        },
+        {
+          "word": "then",
+          "start": 67.2,
+          "end": 67.38
+        },
+        {
+          "word": "she",
+          "start": 67.38,
+          "end": 67.76
+        },
+        {
+          "word": "keep",
+          "start": 67.76,
+          "end": 67.98
+        },
+        {
+          "word": "coming",
+          "start": 67.98,
+          "end": 68.44
+        },
+        {
+          "word": "next",
+          "start": 68.44,
+          "end": 68.9
+        },
+        {
+          "word": "to",
+          "start": 68.9,
+          "end": 69.18
+        },
+        {
+          "word": "me",
+          "start": 69.18,
+          "end": 69.7
+        }
+      ]
+    },
+    {
+      "text": "Fuck  her  till  she  dead  and  she  gon'  keep  coming  next  to  me",
+      "start": 69.7,
+      "end": 74.02,
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 69.7,
+          "end": 70.22
+        },
+        {
+          "word": "her",
+          "start": 70.22,
+          "end": 70.4
+        },
+        {
+          "word": "till",
+          "start": 70.4,
+          "end": 70.68
+        },
+        {
+          "word": "she",
+          "start": 70.68,
+          "end": 71.14
+        },
+        {
+          "word": "dead",
+          "start": 71.14,
+          "end": 71.3
+        },
+        {
+          "word": "and",
+          "start": 71.3,
+          "end": 71.48
+        },
+        {
+          "word": "she",
+          "start": 71.48,
+          "end": 71.82
+        },
+        {
+          "word": "gon'",
+          "start": 71.82,
+          "end": 72.04
+        },
+        {
+          "word": "keep",
+          "start": 72.1,
+          "end": 72.36
+        },
+        {
+          "word": "coming",
+          "start": 72.36,
+          "end": 72.78
+        },
+        {
+          "word": "next",
+          "start": 72.78,
+          "end": 73.26
+        },
+        {
+          "word": "to",
+          "start": 73.26,
+          "end": 73.5
+        },
+        {
+          "word": "me",
+          "start": 73.5,
+          "end": 74.02
+        }
+      ]
+    },
+    {
+      "text": "Fuck  her,  get  me  head  and  she  gon'  keep  giving  that  to  me",
+      "start": 74.02,
+      "end": 78.38,
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 74.02,
+          "end": 74.58
+        },
+        {
+          "word": "her,",
+          "start": 74.58,
+          "end": 74.78
+        },
+        {
+          "word": "get",
+          "start": 75.08,
+          "end": 75.14
+        },
+        {
+          "word": "me",
+          "start": 75.14,
+          "end": 75.48
+        },
+        {
+          "word": "head",
+          "start": 75.48,
+          "end": 75.72
+        },
+        {
+          "word": "and",
+          "start": 75.72,
+          "end": 75.84
+        },
+        {
+          "word": "she",
+          "start": 75.84,
+          "end": 76.12
+        },
+        {
+          "word": "gon'",
+          "start": 76.12,
+          "end": 76.4
+        },
+        {
+          "word": "keep",
+          "start": 76.56,
+          "end": 76.74
+        },
+        {
+          "word": "giving",
+          "start": 76.74,
+          "end": 77.2
+        },
+        {
+          "word": "that",
+          "start": 77.2,
+          "end": 77.52
+        },
+        {
+          "word": "to",
+          "start": 77.52,
+          "end": 77.86
+        },
+        {
+          "word": "me",
+          "start": 77.86,
+          "end": 78.38
+        }
+      ]
+    },
+    {
+      "text": "Fuck  her,  eat  your  bed  and  she  gon'  leave  coming  with  the  sheets",
+      "start": 78.38,
+      "end": 82.56,
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 78.38,
+          "end": 78.94
+        },
+        {
+          "word": "her,",
+          "start": 78.94,
+          "end": 79.16
+        },
+        {
+          "word": "eat",
+          "start": 79.32,
+          "end": 79.4
+        },
+        {
+          "word": "your",
+          "start": 79.4,
+          "end": 79.82
+        },
+        {
+          "word": "bed",
+          "start": 79.82,
+          "end": 80.02
+        },
+        {
+          "word": "and",
+          "start": 80.02,
+          "end": 80.24
+        },
+        {
+          "word": "she",
+          "start": 80.24,
+          "end": 80.52
+        },
+        {
+          "word": "gon'",
+          "start": 80.52,
+          "end": 80.78
+        },
+        {
+          "word": "leave",
+          "start": 80.84,
+          "end": 81.08
+        },
+        {
+          "word": "coming",
+          "start": 81.08,
+          "end": 81.48
+        },
+        {
+          "word": "with",
+          "start": 81.48,
+          "end": 81.98
+        },
+        {
+          "word": "the",
+          "start": 81.98,
+          "end": 82.26
+        },
+        {
+          "word": "sheets",
+          "start": 82.26,
+          "end": 82.56
+        }
+      ]
+    },
+    {
+      "text": "I  ain't  got  no  chill  in  me,  bitch  you  gon'  envy  me",
+      "start": 82.56,
+      "end": 87.38,
+      "words": [
+        {
+          "word": "I",
+          "start": 82.56,
+          "end": 83.18
+        },
+        {
+          "word": "ain't",
+          "start": 83.18,
+          "end": 83.52
+        },
+        {
+          "word": "got",
+          "start": 83.52,
+          "end": 83.78
+        },
+        {
+          "word": "no",
+          "start": 83.78,
+          "end": 84.04
+        },
+        {
+          "word": "chill",
+          "start": 84.04,
+          "end": 84.42
+        },
+        {
+          "word": "in",
+          "start": 84.42,
+          "end": 84.7
+        },
+        {
+          "word": "me,",
+          "start": 84.7,
+          "end": 85
+        },
+        {
+          "word": "bitch",
+          "start": 85.28,
+          "end": 85.44
+        },
+        {
+          "word": "you",
+          "start": 85.44,
+          "end": 85.72
+        },
+        {
+          "word": "gon'",
+          "start": 85.72,
+          "end": 86.08
+        },
+        {
+          "word": "envy",
+          "start": 86.24,
+          "end": 86.4
+        },
+        {
+          "word": "me",
+          "start": 86.4,
+          "end": 87.38
+        }
+      ]
+    },
+    {
+      "text": "They  don't  see  me  less,  I  pull  a  Lamborghini",
+      "start": 87.38,
+      "end": 90.56,
+      "words": [
+        {
+          "word": "They",
+          "start": 87.38,
+          "end": 88.18
+        },
+        {
+          "word": "don't",
+          "start": 88.18,
+          "end": 88.36
+        },
+        {
+          "word": "see",
+          "start": 88.36,
+          "end": 88.76
+        },
+        {
+          "word": "me",
+          "start": 88.76,
+          "end": 89.04
+        },
+        {
+          "word": "less,",
+          "start": 89.04,
+          "end": 89.28
+        },
+        {
+          "word": "I",
+          "start": 89.36,
+          "end": 89.66
+        },
+        {
+          "word": "pull",
+          "start": 89.66,
+          "end": 89.86
+        },
+        {
+          "word": "a",
+          "start": 89.86,
+          "end": 90.22
+        },
+        {
+          "word": "Lamborghini",
+          "start": 90.22,
+          "end": 90.56
+        }
+      ]
+    },
+    {
+      "text": "Everybody  wanna  be  me  till  I  fall  up  and  they  meet  me",
+      "start": 91.46,
+      "end": 95.62,
+      "words": [
+        {
+          "word": "Everybody",
+          "start": 91.46,
+          "end": 92.1
+        },
+        {
+          "word": "wanna",
+          "start": 92.1,
+          "end": 92.68
+        },
+        {
+          "word": "be",
+          "start": 92.68,
+          "end": 93.04
+        },
+        {
+          "word": "me",
+          "start": 93.04,
+          "end": 93.3
+        },
+        {
+          "word": "till",
+          "start": 93.3,
+          "end": 93.64
+        },
+        {
+          "word": "I",
+          "start": 93.64,
+          "end": 94.02
+        },
+        {
+          "word": "fall",
+          "start": 94.02,
+          "end": 94.24
+        },
+        {
+          "word": "up",
+          "start": 94.24,
+          "end": 94.48
+        },
+        {
+          "word": "and",
+          "start": 94.48,
+          "end": 94.74
+        },
+        {
+          "word": "they",
+          "start": 94.74,
+          "end": 95.06
+        },
+        {
+          "word": "meet",
+          "start": 95.06,
+          "end": 95.22
+        },
+        {
+          "word": "me",
+          "start": 95.22,
+          "end": 95.62
+        }
+      ]
+    },
+    {
+      "text": "I'm  a  dog  so  sweetie,  I  ain't  never  had  a  meeting",
+      "start": 95.62,
+      "end": 99.72,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 95.62,
+          "end": 95.98
+        },
+        {
+          "word": "a",
+          "start": 95.98,
+          "end": 96.22
+        },
+        {
+          "word": "dog",
+          "start": 96.22,
+          "end": 96.48
+        },
+        {
+          "word": "so",
+          "start": 96.48,
+          "end": 97.16
+        },
+        {
+          "word": "sweetie,",
+          "start": 97.16,
+          "end": 97.62
+        },
+        {
+          "word": "I",
+          "start": 97.64,
+          "end": 98.08
+        },
+        {
+          "word": "ain't",
+          "start": 98.08,
+          "end": 98.28
+        },
+        {
+          "word": "never",
+          "start": 98.28,
+          "end": 98.84
+        },
+        {
+          "word": "had",
+          "start": 98.84,
+          "end": 99.18
+        },
+        {
+          "word": "a",
+          "start": 99.18,
+          "end": 99.46
+        },
+        {
+          "word": "meeting",
+          "start": 99.46,
+          "end": 99.72
+        }
+      ]
+    },
+    {
+      "text": "Just  another  fuckin'  junkie,  drain  my  blood  but  don't  be  greedy",
+      "start": 99.72,
+      "end": 104.16,
+      "words": [
+        {
+          "word": "Just",
+          "start": 99.72,
+          "end": 100.22
+        },
+        {
+          "word": "another",
+          "start": 100.22,
+          "end": 100.9
+        },
+        {
+          "word": "fuckin'",
+          "start": 100.9,
+          "end": 101.38
+        },
+        {
+          "word": "junkie,",
+          "start": 101.72,
+          "end": 102.1
+        },
+        {
+          "word": "drain",
+          "start": 102.18,
+          "end": 102.34
+        },
+        {
+          "word": "my",
+          "start": 102.34,
+          "end": 102.72
+        },
+        {
+          "word": "blood",
+          "start": 102.72,
+          "end": 102.92
+        },
+        {
+          "word": "but",
+          "start": 102.92,
+          "end": 103.18
+        },
+        {
+          "word": "don't",
+          "start": 103.18,
+          "end": 103.5
+        },
+        {
+          "word": "be",
+          "start": 103.5,
+          "end": 103.86
+        },
+        {
+          "word": "greedy",
+          "start": 103.86,
+          "end": 104.16
+        }
+      ]
+    },
+    {
+      "text": "Lace  some  liquid  for  the  set  of  peas  to  eat  away  my  memories",
+      "start": 104.16,
+      "end": 108.94,
+      "words": [
+        {
+          "word": "Lace",
+          "start": 104.16,
+          "end": 104.56
+        },
+        {
+          "word": "some",
+          "start": 104.56,
+          "end": 104.88
+        },
+        {
+          "word": "liquid",
+          "start": 104.88,
+          "end": 105.2
+        },
+        {
+          "word": "for",
+          "start": 105.2,
+          "end": 105.66
+        },
+        {
+          "word": "the",
+          "start": 105.66,
+          "end": 106.02
+        },
+        {
+          "word": "set",
+          "start": 106.02,
+          "end": 106.32
+        },
+        {
+          "word": "of",
+          "start": 106.32,
+          "end": 106.56
+        },
+        {
+          "word": "peas",
+          "start": 106.56,
+          "end": 106.74
+        },
+        {
+          "word": "to",
+          "start": 106.74,
+          "end": 107.16
+        },
+        {
+          "word": "eat",
+          "start": 107.16,
+          "end": 107.42
+        },
+        {
+          "word": "away",
+          "start": 107.42,
+          "end": 107.78
+        },
+        {
+          "word": "my",
+          "start": 107.78,
+          "end": 108.18
+        },
+        {
+          "word": "memories",
+          "start": 108.18,
+          "end": 108.94
+        }
+      ]
+    },
+    {
+      "text": "Feed  me,  tell  my  enemies,  lead  me  to  death  I'm  little  Kennedy,  I  ain't  got  no  remedy,  bury  me",
+      "start": 108.94,
+      "end": 117.78,
+      "words": [
+        {
+          "word": "Feed",
+          "start": 108.94,
+          "end": 109.46
+        },
+        {
+          "word": "me,",
+          "start": 109.46,
+          "end": 109.82
+        },
+        {
+          "word": "tell",
+          "start": 110.02,
+          "end": 110.02
+        },
+        {
+          "word": "my",
+          "start": 110.02,
+          "end": 110.48
+        },
+        {
+          "word": "enemies,",
+          "start": 110.48,
+          "end": 111.04
+        },
+        {
+          "word": "lead",
+          "start": 111.48,
+          "end": 111.62
+        },
+        {
+          "word": "me",
+          "start": 111.62,
+          "end": 112.02
+        },
+        {
+          "word": "to",
+          "start": 112.02,
+          "end": 112.28
+        },
+        {
+          "word": "death",
+          "start": 112.28,
+          "end": 112.7
+        },
+        {
+          "word": "I'm",
+          "start": 112.7,
+          "end": 113.08
+        },
+        {
+          "word": "little",
+          "start": 113.08,
+          "end": 113.48
+        },
+        {
+          "word": "Kennedy,",
+          "start": 113.48,
+          "end": 114.26
+        },
+        {
+          "word": "I",
+          "start": 114.82,
+          "end": 115.02
+        },
+        {
+          "word": "ain't",
+          "start": 115.02,
+          "end": 115.28
+        },
+        {
+          "word": "got",
+          "start": 115.28,
+          "end": 115.5
+        },
+        {
+          "word": "no",
+          "start": 115.5,
+          "end": 115.86
+        },
+        {
+          "word": "remedy,",
+          "start": 115.86,
+          "end": 116.4
+        },
+        {
+          "word": "bury",
+          "start": 116.66,
+          "end": 116.96
+        },
+        {
+          "word": "me",
+          "start": 116.96,
+          "end": 117.78
+        }
+      ]
+    },
+    {
+      "text": "Pocket  full  of  ketamine,  methamphetamine  Put  me  in  a  limousine,  drive  me  to  destiny",
+      "start": 117.78,
+      "end": 126.1,
+      "words": [
+        {
+          "word": "Pocket",
+          "start": 117.78,
+          "end": 118.32
+        },
+        {
+          "word": "full",
+          "start": 118.32,
+          "end": 118.86
+        },
+        {
+          "word": "of",
+          "start": 118.86,
+          "end": 119.14
+        },
+        {
+          "word": "ketamine,",
+          "start": 119.14,
+          "end": 119.9
+        },
+        {
+          "word": "methamphetamine",
+          "start": 120.22,
+          "end": 121.96
+        },
+        {
+          "word": "Put",
+          "start": 121.96,
+          "end": 122.48
+        },
+        {
+          "word": "me",
+          "start": 122.48,
+          "end": 123
+        },
+        {
+          "word": "in",
+          "start": 123,
+          "end": 123.34
+        },
+        {
+          "word": "a",
+          "start": 123.34,
+          "end": 123.46
+        },
+        {
+          "word": "limousine,",
+          "start": 123.46,
+          "end": 124.34
+        },
+        {
+          "word": "drive",
+          "start": 124.46,
+          "end": 124.74
+        },
+        {
+          "word": "me",
+          "start": 124.74,
+          "end": 125.14
+        },
+        {
+          "word": "to",
+          "start": 125.14,
+          "end": 125.36
+        },
+        {
+          "word": "destiny",
+          "start": 125.36,
+          "end": 126.1
+        }
+      ]
+    },
+    {
+      "text": "Pussy  on  the  letter  C,  it's  music  and  ecstasy  She  don't  think  I'm  sexy,  but  I  can't  let  that  get  to  me",
+      "start": 126.1,
+      "end": 135.08,
+      "words": [
+        {
+          "word": "Pussy",
+          "start": 126.1,
+          "end": 127.12
+        },
+        {
+          "word": "on",
+          "start": 127.12,
+          "end": 127.56
+        },
+        {
+          "word": "the",
+          "start": 127.56,
+          "end": 127.86
+        },
+        {
+          "word": "letter",
+          "start": 127.86,
+          "end": 128.26
+        },
+        {
+          "word": "C,",
+          "start": 128.26,
+          "end": 128.58
+        },
+        {
+          "word": "it's",
+          "start": 128.78,
+          "end": 128.92
+        },
+        {
+          "word": "music",
+          "start": 128.92,
+          "end": 129.5
+        },
+        {
+          "word": "and",
+          "start": 129.5,
+          "end": 129.78
+        },
+        {
+          "word": "ecstasy",
+          "start": 129.78,
+          "end": 130.46
+        },
+        {
+          "word": "She",
+          "start": 130.46,
+          "end": 131.26
+        },
+        {
+          "word": "don't",
+          "start": 131.26,
+          "end": 131.52
+        },
+        {
+          "word": "think",
+          "start": 131.52,
+          "end": 131.84
+        },
+        {
+          "word": "I'm",
+          "start": 131.84,
+          "end": 132.16
+        },
+        {
+          "word": "sexy,",
+          "start": 132.16,
+          "end": 132.5
+        },
+        {
+          "word": "but",
+          "start": 132.58,
+          "end": 132.96
+        },
+        {
+          "word": "I",
+          "start": 132.96,
+          "end": 133.22
+        },
+        {
+          "word": "can't",
+          "start": 133.22,
+          "end": 133.54
+        },
+        {
+          "word": "let",
+          "start": 133.54,
+          "end": 133.64
+        },
+        {
+          "word": "that",
+          "start": 133.64,
+          "end": 134
+        },
+        {
+          "word": "get",
+          "start": 134,
+          "end": 134.34
+        },
+        {
+          "word": "to",
+          "start": 134.34,
+          "end": 134.56
+        },
+        {
+          "word": "me",
+          "start": 134.56,
+          "end": 135.08
+        }
+      ]
+    },
+    {
+      "text": "Fuck  her  till  she  redden  and  she  keep  coming  next  to  me",
+      "start": 135.08,
+      "end": 139.52,
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 135.08,
+          "end": 135.68
+        },
+        {
+          "word": "her",
+          "start": 135.68,
+          "end": 135.9
+        },
+        {
+          "word": "till",
+          "start": 135.9,
+          "end": 136.08
+        },
+        {
+          "word": "she",
+          "start": 136.08,
+          "end": 136.48
+        },
+        {
+          "word": "redden",
+          "start": 136.48,
+          "end": 137.04
+        },
+        {
+          "word": "and",
+          "start": 137.04,
+          "end": 137.18
+        },
+        {
+          "word": "she",
+          "start": 137.18,
+          "end": 137.56
+        },
+        {
+          "word": "keep",
+          "start": 137.56,
+          "end": 137.76
+        },
+        {
+          "word": "coming",
+          "start": 137.76,
+          "end": 138.26
+        },
+        {
+          "word": "next",
+          "start": 138.26,
+          "end": 138.74
+        },
+        {
+          "word": "to",
+          "start": 138.74,
+          "end": 138.96
+        },
+        {
+          "word": "me",
+          "start": 138.96,
+          "end": 139.52
+        }
+      ]
+    },
+    {
+      "text": "Fuck  her  till  she  dead  and  she  gon'  keep  coming  next  to  me",
+      "start": 139.52,
+      "end": 143.84,
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 139.52,
+          "end": 140.02
+        },
+        {
+          "word": "her",
+          "start": 140.02,
+          "end": 140.2
+        },
+        {
+          "word": "till",
+          "start": 140.2,
+          "end": 140.5
+        },
+        {
+          "word": "she",
+          "start": 140.5,
+          "end": 140.92
+        },
+        {
+          "word": "dead",
+          "start": 140.92,
+          "end": 141.12
+        },
+        {
+          "word": "and",
+          "start": 141.12,
+          "end": 141.32
+        },
+        {
+          "word": "she",
+          "start": 141.32,
+          "end": 141.64
+        },
+        {
+          "word": "gon'",
+          "start": 141.64,
+          "end": 141.82
+        },
+        {
+          "word": "keep",
+          "start": 141.98,
+          "end": 142.16
+        },
+        {
+          "word": "coming",
+          "start": 142.16,
+          "end": 142.6
+        },
+        {
+          "word": "next",
+          "start": 142.6,
+          "end": 143.08
+        },
+        {
+          "word": "to",
+          "start": 143.08,
+          "end": 143.32
+        },
+        {
+          "word": "me",
+          "start": 143.32,
+          "end": 143.84
+        }
+      ]
+    },
+    {
+      "text": "Fuck  her,  give  me  head  and  she  gon'  keep  giving  that  to  me",
+      "start": 143.84,
+      "end": 148.16,
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 143.84,
+          "end": 144.38
+        },
+        {
+          "word": "her,",
+          "start": 144.38,
+          "end": 144.6
+        },
+        {
+          "word": "give",
+          "start": 144.88,
+          "end": 144.94
+        },
+        {
+          "word": "me",
+          "start": 144.94,
+          "end": 145.28
+        },
+        {
+          "word": "head",
+          "start": 145.28,
+          "end": 145.48
+        },
+        {
+          "word": "and",
+          "start": 145.48,
+          "end": 145.66
+        },
+        {
+          "word": "she",
+          "start": 145.66,
+          "end": 145.94
+        },
+        {
+          "word": "gon'",
+          "start": 145.94,
+          "end": 146.2
+        },
+        {
+          "word": "keep",
+          "start": 146.38,
+          "end": 146.58
+        },
+        {
+          "word": "giving",
+          "start": 146.58,
+          "end": 147
+        },
+        {
+          "word": "that",
+          "start": 147,
+          "end": 147.32
+        },
+        {
+          "word": "to",
+          "start": 147.32,
+          "end": 147.68
+        },
+        {
+          "word": "me",
+          "start": 147.68,
+          "end": 148.16
+        }
+      ]
+    },
+    {
+      "text": "Fuck  her  in  your  bed  and  she  gon'  leave  coming  with  the  sheets",
+      "start": 148.16,
+      "end": 152.38,
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 148.16,
+          "end": 148.78
+        },
+        {
+          "word": "her",
+          "start": 148.78,
+          "end": 148.98
+        },
+        {
+          "word": "in",
+          "start": 148.98,
+          "end": 149.26
+        },
+        {
+          "word": "your",
+          "start": 149.26,
+          "end": 149.66
+        },
+        {
+          "word": "bed",
+          "start": 149.66,
+          "end": 149.9
+        },
+        {
+          "word": "and",
+          "start": 149.9,
+          "end": 150.06
+        },
+        {
+          "word": "she",
+          "start": 150.06,
+          "end": 150.34
+        },
+        {
+          "word": "gon'",
+          "start": 150.34,
+          "end": 150.6
+        },
+        {
+          "word": "leave",
+          "start": 150.6,
+          "end": 150.88
+        },
+        {
+          "word": "coming",
+          "start": 150.88,
+          "end": 151.3
+        },
+        {
+          "word": "with",
+          "start": 151.3,
+          "end": 151.78
+        },
+        {
+          "word": "the",
+          "start": 151.78,
+          "end": 152.06
+        },
+        {
+          "word": "sheets",
+          "start": 152.06,
+          "end": 152.38
+        }
+      ]
+    },
+    {
+      "text": "I  ain't  got  no  chill  in  me,  bitch  you  gon'  hit  me,  me",
+      "start": 152.38,
+      "end": 156.74,
+      "words": [
+        {
+          "word": "I",
+          "start": 152.38,
+          "end": 153.04
+        },
+        {
+          "word": "ain't",
+          "start": 153.04,
+          "end": 153.34
+        },
+        {
+          "word": "got",
+          "start": 153.34,
+          "end": 153.6
+        },
+        {
+          "word": "no",
+          "start": 153.6,
+          "end": 153.84
+        },
+        {
+          "word": "chill",
+          "start": 153.84,
+          "end": 154.24
+        },
+        {
+          "word": "in",
+          "start": 154.24,
+          "end": 154.52
+        },
+        {
+          "word": "me,",
+          "start": 154.52,
+          "end": 154.84
+        },
+        {
+          "word": "bitch",
+          "start": 155.1,
+          "end": 155.26
+        },
+        {
+          "word": "you",
+          "start": 155.26,
+          "end": 155.48
+        },
+        {
+          "word": "gon'",
+          "start": 155.48,
+          "end": 155.82
+        },
+        {
+          "word": "hit",
+          "start": 155.96,
+          "end": 156.12
+        },
+        {
+          "word": "me,",
+          "start": 156.12,
+          "end": 156.42
+        },
+        {
+          "word": "me",
+          "start": 156.52,
+          "end": 156.74
+        }
+      ]
+    }
+  ],
+  "reference_text": [
+    {
+      "text": "They don't see me 'less I pull up Lamborghini (skrrt)",
+      "words": [
+        "They",
+        "don't",
+        "see",
+        "me",
+        "'less",
+        "I",
+        "pull",
+        "up",
+        "Lamborghini",
+        "(skrrt)"
+      ]
+    },
+    {
+      "text": "Everybody wanna be me 'til I pull up and they meet me",
+      "words": [
+        "Everybody",
+        "wanna",
+        "be",
+        "me",
+        "'til",
+        "I",
+        "pull",
+        "up",
+        "and",
+        "they",
+        "meet",
+        "me"
+      ]
+    },
+    {
+      "text": "I'ma die slow, sweetie, I ain't never had a meanin'",
+      "words": [
+        "I'ma",
+        "die",
+        "slow,",
+        "sweetie,",
+        "I",
+        "ain't",
+        "never",
+        "had",
+        "a",
+        "meanin'"
+      ]
+    },
+    {
+      "text": "Just another fuckin' junkie, drain my blood, but don't be greedy",
+      "words": [
+        "Just",
+        "another",
+        "fuckin'",
+        "junkie,",
+        "drain",
+        "my",
+        "blood,",
+        "but",
+        "don't",
+        "be",
+        "greedy"
+      ]
+    },
+    {
+      "text": "Leave some liquid for the centipedes, they eat away my memory",
+      "words": [
+        "Leave",
+        "some",
+        "liquid",
+        "for",
+        "the",
+        "centipedes,",
+        "they",
+        "eat",
+        "away",
+        "my",
+        "memory"
+      ]
+    },
+    {
+      "text": "Feed me to my enemies, lead me to death, I'm Lil Kennedy",
+      "words": [
+        "Feed",
+        "me",
+        "to",
+        "my",
+        "enemies,",
+        "lead",
+        "me",
+        "to",
+        "death,",
+        "I'm",
+        "Lil",
+        "Kennedy"
+      ]
+    },
+    {
+      "text": "I ain't got no remedy, bury me",
+      "words": [
+        "I",
+        "ain't",
+        "got",
+        "no",
+        "remedy,",
+        "bury",
+        "me"
+      ]
+    },
+    {
+      "text": "Pocket full of ketamine, methamphetamine",
+      "words": [
+        "Pocket",
+        "full",
+        "of",
+        "ketamine,",
+        "methamphetamine"
+      ]
+    },
+    {
+      "text": "Put me in a limousine, drive me to destiny",
+      "words": [
+        "Put",
+        "me",
+        "in",
+        "a",
+        "limousine,",
+        "drive",
+        "me",
+        "to",
+        "destiny"
+      ]
+    },
+    {
+      "text": "Pussy on the leather seats, music and ecstasy",
+      "words": [
+        "Pussy",
+        "on",
+        "the",
+        "leather",
+        "seats,",
+        "music",
+        "and",
+        "ecstasy"
+      ]
+    },
+    {
+      "text": "She don't think I'm sexy, but I can't let that get to me (fuck)",
+      "words": [
+        "She",
+        "don't",
+        "think",
+        "I'm",
+        "sexy,",
+        "but",
+        "I",
+        "can't",
+        "let",
+        "that",
+        "get",
+        "to",
+        "me",
+        "(fuck)"
+      ]
+    },
+    {
+      "text": "Fuck her 'til she red and then she keep comin' next to me",
+      "words": [
+        "Fuck",
+        "her",
+        "'til",
+        "she",
+        "red",
+        "and",
+        "then",
+        "she",
+        "keep",
+        "comin'",
+        "next",
+        "to",
+        "me"
+      ]
+    },
+    {
+      "text": "Fuck her 'til she dead and she gon' keep comin' next to me",
+      "words": [
+        "Fuck",
+        "her",
+        "'til",
+        "she",
+        "dead",
+        "and",
+        "she",
+        "gon'",
+        "keep",
+        "comin'",
+        "next",
+        "to",
+        "me"
+      ]
+    },
+    {
+      "text": "Fuck her, give me head and she gon' keep givin' neck to me",
+      "words": [
+        "Fuck",
+        "her,",
+        "give",
+        "me",
+        "head",
+        "and",
+        "she",
+        "gon'",
+        "keep",
+        "givin'",
+        "neck",
+        "to",
+        "me"
+      ]
+    },
+    {
+      "text": "Fuck her in your bed and she gon' leak cum and wet the sheets",
+      "words": [
+        "Fuck",
+        "her",
+        "in",
+        "your",
+        "bed",
+        "and",
+        "she",
+        "gon'",
+        "leak",
+        "cum",
+        "and",
+        "wet",
+        "the",
+        "sheets"
+      ]
+    },
+    {
+      "text": "I ain't got no chill in me, bitch, you gon' envy me",
+      "words": [
+        "I",
+        "ain't",
+        "got",
+        "no",
+        "chill",
+        "in",
+        "me,",
+        "bitch,",
+        "you",
+        "gon'",
+        "envy",
+        "me"
+      ]
+    },
+    {
+      "text": "They don't see me 'less I pull up Lamborghini (skrrt)",
+      "words": [
+        "They",
+        "don't",
+        "see",
+        "me",
+        "'less",
+        "I",
+        "pull",
+        "up",
+        "Lamborghini",
+        "(skrrt)"
+      ]
+    },
+    {
+      "text": "Everybody wanna be me 'til I pull up and they meet me",
+      "words": [
+        "Everybody",
+        "wanna",
+        "be",
+        "me",
+        "'til",
+        "I",
+        "pull",
+        "up",
+        "and",
+        "they",
+        "meet",
+        "me"
+      ]
+    },
+    {
+      "text": "I'ma die slow, sweetie, I ain't never had a meanin'",
+      "words": [
+        "I'ma",
+        "die",
+        "slow,",
+        "sweetie,",
+        "I",
+        "ain't",
+        "never",
+        "had",
+        "a",
+        "meanin'"
+      ]
+    },
+    {
+      "text": "Just another fuckin' junkie, drain my blood, but don't be greedy",
+      "words": [
+        "Just",
+        "another",
+        "fuckin'",
+        "junkie,",
+        "drain",
+        "my",
+        "blood,",
+        "but",
+        "don't",
+        "be",
+        "greedy"
+      ]
+    },
+    {
+      "text": "Leave some liquid for the centipedes, they eat away my memory",
+      "words": [
+        "Leave",
+        "some",
+        "liquid",
+        "for",
+        "the",
+        "centipedes,",
+        "they",
+        "eat",
+        "away",
+        "my",
+        "memory"
+      ]
+    },
+    {
+      "text": "Feed me to my enemies, lead me to death, I'm Lil Kennedy",
+      "words": [
+        "Feed",
+        "me",
+        "to",
+        "my",
+        "enemies,",
+        "lead",
+        "me",
+        "to",
+        "death,",
+        "I'm",
+        "Lil",
+        "Kennedy"
+      ]
+    },
+    {
+      "text": "I ain't got no remedy, bury me",
+      "words": [
+        "I",
+        "ain't",
+        "got",
+        "no",
+        "remedy,",
+        "bury",
+        "me"
+      ]
+    },
+    {
+      "text": "Pocket full of ketamine, methamphetamine",
+      "words": [
+        "Pocket",
+        "full",
+        "of",
+        "ketamine,",
+        "methamphetamine"
+      ]
+    },
+    {
+      "text": "Put me in a limousine, drive me to destiny",
+      "words": [
+        "Put",
+        "me",
+        "in",
+        "a",
+        "limousine,",
+        "drive",
+        "me",
+        "to",
+        "destiny"
+      ]
+    },
+    {
+      "text": "Pussy on the leather seats, music and ecstasy",
+      "words": [
+        "Pussy",
+        "on",
+        "the",
+        "leather",
+        "seats,",
+        "music",
+        "and",
+        "ecstasy"
+      ]
+    },
+    {
+      "text": "She don't think I'm sexy, but I can't let that get to me (fuck)",
+      "words": [
+        "She",
+        "don't",
+        "think",
+        "I'm",
+        "sexy,",
+        "but",
+        "I",
+        "can't",
+        "let",
+        "that",
+        "get",
+        "to",
+        "me",
+        "(fuck)"
+      ]
+    },
+    {
+      "text": "Fuck her 'til she red and then she keep comin' next to me",
+      "words": [
+        "Fuck",
+        "her",
+        "'til",
+        "she",
+        "red",
+        "and",
+        "then",
+        "she",
+        "keep",
+        "comin'",
+        "next",
+        "to",
+        "me"
+      ]
+    },
+    {
+      "text": "Fuck her 'til she dead and she gon' keep comin' next to me",
+      "words": [
+        "Fuck",
+        "her",
+        "'til",
+        "she",
+        "dead",
+        "and",
+        "she",
+        "gon'",
+        "keep",
+        "comin'",
+        "next",
+        "to",
+        "me"
+      ]
+    },
+    {
+      "text": "Fuck her, give me head and she gon' keep givin' neck to me",
+      "words": [
+        "Fuck",
+        "her,",
+        "give",
+        "me",
+        "head",
+        "and",
+        "she",
+        "gon'",
+        "keep",
+        "givin'",
+        "neck",
+        "to",
+        "me"
+      ]
+    },
+    {
+      "text": "Fuck her in your bed and she gon' leak cum and wet the sheets",
+      "words": [
+        "Fuck",
+        "her",
+        "in",
+        "your",
+        "bed",
+        "and",
+        "she",
+        "gon'",
+        "leak",
+        "cum",
+        "and",
+        "wet",
+        "the",
+        "sheets"
+      ]
+    },
+    {
+      "text": "I ain't got no chill in me, bitch, you gon' envy me",
+      "words": [
+        "I",
+        "ain't",
+        "got",
+        "no",
+        "chill",
+        "in",
+        "me,",
+        "bitch,",
+        "you",
+        "gon'",
+        "envy",
+        "me"
+      ]
+    }
+  ]
+}

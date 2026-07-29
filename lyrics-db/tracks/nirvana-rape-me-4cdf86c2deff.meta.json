@@ -1,0 +1,64 @@
+{
+  "track_title": "Rape Me",
+  "artist": "Nirvana",
+  "lyrics_source": "lrclib_plain",
+  "line_timestamps_source": "guided-whisper",
+  "has_annotations": false,
+  "singers": [
+    {
+      "id": "singer1",
+      "role": "lead",
+      "name": "Nirvana"
+    }
+  ],
+  "quality": {
+    "score": 0.298,
+    "label": "low",
+    "timing_confidence": 0.177,
+    "anchor_audio_coverage": 0.419,
+    "lines": 38,
+    "vocal_cues": 7,
+    "words": 147,
+    "interpolated_words": 121,
+    "low_confidence_segments": 30,
+    "text_verified": true
+  },
+  "credits": {
+    "aligner_version": "2.0.0",
+    "generated_at": "2026-07-29T12:05:05+00:00",
+    "method": "Whisper supplies word-level timing; a verified official-lyrics anchor supplies the text. With no anchor the text is pure Whisper ASR.",
+    "language": "en",
+    "lyrics_text": {
+      "source": "lrclib_plain",
+      "verified": true,
+      "anchor_used": true,
+      "anchor_rejected_wrong_song": false,
+      "providers": [
+        {
+          "name": "Genius",
+          "url": "https://genius.com",
+          "tried": true,
+          "hit": false
+        },
+        {
+          "name": "LRCLIB",
+          "url": "https://lrclib.net",
+          "tried": true,
+          "hit": true
+        }
+      ]
+    },
+    "timing": {
+      "engine": "mlx",
+      "library": "mlx-whisper",
+      "asr_model": "openai/whisper",
+      "model_size": "medium",
+      "description": "Apple MLX port of OpenAI Whisper"
+    },
+    "strategy": "guided-whisper",
+    "attribution": [
+      "Synced lyrics from LRCLIB (lrclib.net)",
+      "Word timing by mlx-whisper (Whisper medium)"
+    ]
+  }
+}

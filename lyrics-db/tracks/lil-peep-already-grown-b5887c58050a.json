@@ -1,0 +1,4148 @@
+{
+  "source": "blind-whisper",
+  "meta": {
+    "track_title": "Already Grown",
+    "artist": "Lil Peep",
+    "lyrics_source": "whisper_only",
+    "line_timestamps_source": "blind-whisper",
+    "has_annotations": false,
+    "singers": [
+      {
+        "id": "singer1",
+        "role": "lead",
+        "name": "Lil Peep"
+      }
+    ],
+    "quality": {
+      "score": 0.7,
+      "label": "medium",
+      "timing_confidence": 1,
+      "anchor_audio_coverage": null,
+      "lines": 52,
+      "vocal_cues": 1,
+      "words": 345,
+      "interpolated_words": 0,
+      "low_confidence_segments": 0,
+      "text_verified": false
+    },
+    "credits": {
+      "aligner_version": "2.0.0",
+      "generated_at": "2026-07-30T13:59:53+00:00",
+      "method": "Whisper supplies word-level timing; a verified official-lyrics anchor supplies the text. With no anchor the text is pure Whisper ASR.",
+      "language": null,
+      "lyrics_text": {
+        "source": "whisper_only",
+        "verified": false,
+        "anchor_used": false,
+        "anchor_rejected_wrong_song": false,
+        "providers": []
+      },
+      "timing": {
+        "engine": "mlx",
+        "library": "mlx-whisper",
+        "asr_model": "openai/whisper",
+        "model_size": "medium",
+        "description": "Apple MLX port of OpenAI Whisper"
+      },
+      "strategy": "blind-whisper",
+      "attribution": [
+        "Lyrics transcribed by OpenAI Whisper (unverified ASR — no official source matched)",
+        "Word timing by mlx-whisper (Whisper medium)"
+      ]
+    },
+    "blind_resegment": {
+      "status": "partial",
+      "batches": 10,
+      "applied": 1,
+      "words": 345,
+      "before": 52,
+      "after": 52
+    }
+  },
+  "lines": [
+    {
+      "time": 6.38,
+      "text": "I'm gonna play with you again, I gotta look like a man,",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 6.38,
+          "end": 7.4,
+          "stretch": true
+        },
+        {
+          "word": "gonna",
+          "start": 7.4,
+          "end": 7.62
+        },
+        {
+          "word": "play",
+          "start": 7.62,
+          "end": 8.18
+        },
+        {
+          "word": "with",
+          "start": 8.18,
+          "end": 8.72
+        },
+        {
+          "word": "you",
+          "start": 8.72,
+          "end": 9.08
+        },
+        {
+          "word": "again,",
+          "start": 9.08,
+          "end": 9.38
+        },
+        {
+          "word": "I",
+          "start": 9.44,
+          "end": 10.06,
+          "stretch": true
+        },
+        {
+          "word": "gotta",
+          "start": 10.06,
+          "end": 10.46
+        },
+        {
+          "word": "look",
+          "start": 10.46,
+          "end": 10.68
+        },
+        {
+          "word": "like",
+          "start": 10.68,
+          "end": 11.38,
+          "stretch": true
+        },
+        {
+          "word": "a",
+          "start": 11.38,
+          "end": 11.7,
+          "stretch": true
+        },
+        {
+          "word": "man,",
+          "start": 11.7,
+          "end": 11.7
+        }
+      ]
+    },
+    {
+      "time": 12.04,
+      "text": "I get shot",
+      "words": [
+        {
+          "word": "I",
+          "start": 12.04,
+          "end": 12.14
+        },
+        {
+          "word": "get",
+          "start": 12.14,
+          "end": 12.64,
+          "stretch": true
+        },
+        {
+          "word": "shot",
+          "start": 12.64,
+          "end": 13.28,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 13.28,
+      "text": "I'm gonna play with you again,",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 13.28,
+          "end": 13.98,
+          "stretch": true
+        },
+        {
+          "word": "gonna",
+          "start": 13.98,
+          "end": 14.28
+        },
+        {
+          "word": "play",
+          "start": 14.28,
+          "end": 14.84
+        },
+        {
+          "word": "with",
+          "start": 14.84,
+          "end": 15.36
+        },
+        {
+          "word": "you",
+          "start": 15.36,
+          "end": 16.44,
+          "stretch": true
+        },
+        {
+          "word": "again,",
+          "start": 16.44,
+          "end": 16.44
+        }
+      ]
+    },
+    {
+      "time": 17.64,
+      "text": "I gotta look like a man,",
+      "words": [
+        {
+          "word": "I",
+          "start": 17.64,
+          "end": 17.86,
+          "stretch": true
+        },
+        {
+          "word": "gotta",
+          "start": 17.86,
+          "end": 18.42
+        },
+        {
+          "word": "look",
+          "start": 18.42,
+          "end": 18.8
+        },
+        {
+          "word": "like",
+          "start": 18.8,
+          "end": 18.9
+        },
+        {
+          "word": "a",
+          "start": 18.9,
+          "end": 19.2,
+          "stretch": true
+        },
+        {
+          "word": "man,",
+          "start": 19.2,
+          "end": 19.76
+        }
+      ]
+    },
+    {
+      "time": 23.4,
+      "text": "I get shot",
+      "words": [
+        {
+          "word": "I",
+          "start": 23.4,
+          "end": 23.4
+        },
+        {
+          "word": "get",
+          "start": 23.4,
+          "end": 23.4
+        },
+        {
+          "word": "shot",
+          "start": 23.4,
+          "end": 24.5,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 24.5,
+      "text": "I'm a little bit of a chicken, I gotta win some more",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 24.5,
+          "end": 24.98,
+          "stretch": true
+        },
+        {
+          "word": "a",
+          "start": 24.98,
+          "end": 27.52,
+          "stretch": true
+        },
+        {
+          "word": "little",
+          "start": 27.52,
+          "end": 27.52
+        },
+        {
+          "word": "bit",
+          "start": 27.52,
+          "end": 28.08,
+          "stretch": true
+        },
+        {
+          "word": "of",
+          "start": 28.08,
+          "end": 28.34
+        },
+        {
+          "word": "a",
+          "start": 28.34,
+          "end": 28.56,
+          "stretch": true
+        },
+        {
+          "word": "chicken,",
+          "start": 28.56,
+          "end": 28.9
+        },
+        {
+          "word": "I",
+          "start": 29,
+          "end": 29.66,
+          "stretch": true
+        },
+        {
+          "word": "gotta",
+          "start": 29.66,
+          "end": 30.06
+        },
+        {
+          "word": "win",
+          "start": 30.06,
+          "end": 30.48
+        },
+        {
+          "word": "some",
+          "start": 30.48,
+          "end": 30.74
+        },
+        {
+          "word": "more",
+          "start": 30.74,
+          "end": 31.08
+        }
+      ]
+    },
+    {
+      "time": 31.08,
+      "text": "things",
+      "words": [
+        {
+          "word": "things",
+          "start": 31.08,
+          "end": 31.4
+        }
+      ]
+    },
+    {
+      "time": 31.4,
+      "text": "I'm a little bit of a chicken, I gotta win some more",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 31.4,
+          "end": 31.68
+        },
+        {
+          "word": "a",
+          "start": 31.68,
+          "end": 31.84,
+          "stretch": true
+        },
+        {
+          "word": "little",
+          "start": 31.84,
+          "end": 32.02
+        },
+        {
+          "word": "bit",
+          "start": 32.02,
+          "end": 32.2
+        },
+        {
+          "word": "of",
+          "start": 32.2,
+          "end": 32.2
+        },
+        {
+          "word": "a",
+          "start": 32.2,
+          "end": 32.48,
+          "stretch": true
+        },
+        {
+          "word": "chicken,",
+          "start": 32.48,
+          "end": 32.58
+        },
+        {
+          "word": "I",
+          "start": 33.04,
+          "end": 33.12
+        },
+        {
+          "word": "gotta",
+          "start": 33.12,
+          "end": 33.12
+        },
+        {
+          "word": "win",
+          "start": 33.12,
+          "end": 33.12
+        },
+        {
+          "word": "some",
+          "start": 33.12,
+          "end": 33.12
+        },
+        {
+          "word": "more",
+          "start": 33.12,
+          "end": 33.12
+        }
+      ]
+    },
+    {
+      "time": 33.12,
+      "text": "things",
+      "words": [
+        {
+          "word": "things",
+          "start": 33.12,
+          "end": 33.12
+        }
+      ]
+    },
+    {
+      "time": 33.12,
+      "text": "I'm a little bit of a chicken, I gotta win some more",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 33.12,
+          "end": 33.42,
+          "stretch": true
+        },
+        {
+          "word": "a",
+          "start": 33.42,
+          "end": 33.78,
+          "stretch": true
+        },
+        {
+          "word": "little",
+          "start": 33.78,
+          "end": 33.78
+        },
+        {
+          "word": "bit",
+          "start": 33.78,
+          "end": 33.78
+        },
+        {
+          "word": "of",
+          "start": 33.78,
+          "end": 33.78
+        },
+        {
+          "word": "a",
+          "start": 33.78,
+          "end": 33.78
+        },
+        {
+          "word": "chicken,",
+          "start": 33.78,
+          "end": 33.78
+        },
+        {
+          "word": "I",
+          "start": 33.8,
+          "end": 33.8
+        },
+        {
+          "word": "gotta",
+          "start": 33.8,
+          "end": 33.8
+        },
+        {
+          "word": "win",
+          "start": 33.8,
+          "end": 33.8
+        },
+        {
+          "word": "some",
+          "start": 33.8,
+          "end": 33.8
+        },
+        {
+          "word": "more",
+          "start": 33.8,
+          "end": 33.88
+        }
+      ]
+    },
+    {
+      "time": 33.88,
+      "text": "things",
+      "words": [
+        {
+          "word": "things",
+          "start": 33.88,
+          "end": 34.4
+        }
+      ]
+    },
+    {
+      "time": 34.4,
+      "text": "I'm a little bit of a chicken, I gotta win some more",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 34.4,
+          "end": 35.08,
+          "stretch": true
+        },
+        {
+          "word": "a",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "little",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "bit",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "of",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "a",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "chicken,",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "I",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "gotta",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "win",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "some",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "more",
+          "start": 35.08,
+          "end": 35.08
+        }
+      ]
+    },
+    {
+      "time": 35.08,
+      "text": "things",
+      "words": [
+        {
+          "word": "things",
+          "start": 35.08,
+          "end": 35.08
+        }
+      ]
+    },
+    {
+      "time": 35.08,
+      "text": "I'm a little bit of a chicken, I gotta win some more",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "a",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "little",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "bit",
+          "start": 35.08,
+          "end": 35.62,
+          "stretch": true
+        },
+        {
+          "word": "of",
+          "start": 35.62,
+          "end": 35.62
+        },
+        {
+          "word": "a",
+          "start": 35.62,
+          "end": 35.62
+        },
+        {
+          "word": "chicken,",
+          "start": 35.62,
+          "end": 35.88
+        },
+        {
+          "word": "I",
+          "start": 35.88,
+          "end": 35.88
+        },
+        {
+          "word": "gotta",
+          "start": 35.88,
+          "end": 35.88
+        },
+        {
+          "word": "win",
+          "start": 35.88,
+          "end": 35.88
+        },
+        {
+          "word": "some",
+          "start": 35.88,
+          "end": 35.88
+        },
+        {
+          "word": "more",
+          "start": 35.88,
+          "end": 35.88
+        }
+      ]
+    },
+    {
+      "time": 35.88,
+      "text": "things",
+      "words": [
+        {
+          "word": "things",
+          "start": 35.88,
+          "end": 35.88
+        }
+      ]
+    },
+    {
+      "time": 35.88,
+      "text": "I'm a little bit of a chicken, I gotta win some more",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 35.88,
+          "end": 36.42,
+          "stretch": true
+        },
+        {
+          "word": "a",
+          "start": 36.42,
+          "end": 37.06,
+          "stretch": true
+        },
+        {
+          "word": "little",
+          "start": 37.06,
+          "end": 37.06
+        },
+        {
+          "word": "bit",
+          "start": 37.06,
+          "end": 37.1
+        },
+        {
+          "word": "of",
+          "start": 37.1,
+          "end": 37.1
+        },
+        {
+          "word": "a",
+          "start": 37.1,
+          "end": 39.02,
+          "stretch": true
+        },
+        {
+          "word": "chicken,",
+          "start": 39.02,
+          "end": 39.14
+        },
+        {
+          "word": "I",
+          "start": 39.76,
+          "end": 39.76
+        },
+        {
+          "word": "gotta",
+          "start": 39.76,
+          "end": 39.94
+        },
+        {
+          "word": "win",
+          "start": 39.94,
+          "end": 39.94
+        },
+        {
+          "word": "some",
+          "start": 39.94,
+          "end": 39.94
+        },
+        {
+          "word": "more",
+          "start": 39.94,
+          "end": 39.94
+        }
+      ]
+    },
+    {
+      "time": 39.94,
+      "text": "things",
+      "words": [
+        {
+          "word": "things",
+          "start": 39.94,
+          "end": 39.94
+        }
+      ]
+    },
+    {
+      "time": 39.94,
+      "text": "I'm a little bit of a chicken, I gotta win some more",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 39.94,
+          "end": 40
+        },
+        {
+          "word": "a",
+          "start": 40,
+          "end": 40.38,
+          "stretch": true
+        },
+        {
+          "word": "little",
+          "start": 40.38,
+          "end": 40.38
+        },
+        {
+          "word": "bit",
+          "start": 40.38,
+          "end": 40.38
+        },
+        {
+          "word": "of",
+          "start": 40.38,
+          "end": 40.38
+        },
+        {
+          "word": "a",
+          "start": 40.38,
+          "end": 40.38
+        },
+        {
+          "word": "chicken,",
+          "start": 40.38,
+          "end": 40.38
+        },
+        {
+          "word": "I",
+          "start": 40.38,
+          "end": 40.38
+        },
+        {
+          "word": "gotta",
+          "start": 40.38,
+          "end": 40.38
+        },
+        {
+          "word": "win",
+          "start": 40.38,
+          "end": 40.4
+        },
+        {
+          "word": "some",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "more",
+          "start": 40.4,
+          "end": 40.4
+        }
+      ]
+    },
+    {
+      "time": 40.4,
+      "text": "things",
+      "words": [
+        {
+          "word": "things",
+          "start": 40.4,
+          "end": 40.4
+        }
+      ]
+    },
+    {
+      "time": 40.4,
+      "text": "I'm a little bit of a chicken, I gotta win some more",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "a",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "little",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "bit",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "of",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "a",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "chicken,",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "I",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "gotta",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "win",
+          "start": 40.4,
+          "end": 40.58
+        },
+        {
+          "word": "some",
+          "start": 40.58,
+          "end": 40.72
+        },
+        {
+          "word": "more",
+          "start": 40.72,
+          "end": 40.72
+        }
+      ]
+    },
+    {
+      "time": 40.72,
+      "text": "things",
+      "words": [
+        {
+          "word": "things",
+          "start": 40.72,
+          "end": 40.72
+        }
+      ]
+    },
+    {
+      "time": 40.72,
+      "text": "I'm a little bit of a chicken, I gotta win some more",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 40.72,
+          "end": 40.72
+        },
+        {
+          "word": "a",
+          "start": 40.72,
+          "end": 40.72
+        },
+        {
+          "word": "little",
+          "start": 40.72,
+          "end": 40.98
+        },
+        {
+          "word": "bit",
+          "start": 40.98,
+          "end": 41.44,
+          "stretch": true
+        },
+        {
+          "word": "of",
+          "start": 41.44,
+          "end": 41.44
+        },
+        {
+          "word": "a",
+          "start": 41.44,
+          "end": 42.18,
+          "stretch": true
+        },
+        {
+          "word": "chicken,",
+          "start": 42.18,
+          "end": 42.8
+        },
+        {
+          "word": "I",
+          "start": 42.8,
+          "end": 42.8
+        },
+        {
+          "word": "gotta",
+          "start": 42.8,
+          "end": 42.8
+        },
+        {
+          "word": "win",
+          "start": 42.8,
+          "end": 43.82,
+          "stretch": true
+        },
+        {
+          "word": "some",
+          "start": 43.82,
+          "end": 44.3
+        },
+        {
+          "word": "more",
+          "start": 44.3,
+          "end": 44.56
+        }
+      ]
+    },
+    {
+      "time": 44.56,
+      "text": "things",
+      "words": [
+        {
+          "word": "things",
+          "start": 44.56,
+          "end": 44.6
+        }
+      ]
+    },
+    {
+      "time": 44.6,
+      "text": "I'm a little bit of a chicken,",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 44.6,
+          "end": 44.76
+        },
+        {
+          "word": "a",
+          "start": 44.76,
+          "end": 44.76
+        },
+        {
+          "word": "little",
+          "start": 44.76,
+          "end": 44.76
+        },
+        {
+          "word": "bit",
+          "start": 44.76,
+          "end": 45.42,
+          "stretch": true
+        },
+        {
+          "word": "of",
+          "start": 45.42,
+          "end": 45.42
+        },
+        {
+          "word": "a",
+          "start": 45.42,
+          "end": 45.62,
+          "stretch": true
+        },
+        {
+          "word": "chicken,",
+          "start": 45.62,
+          "end": 46.2
+        }
+      ]
+    },
+    {
+      "time": 47.78,
+      "text": "I gotta win some more things",
+      "words": [
+        {
+          "word": "I",
+          "start": 47.78,
+          "end": 47.78
+        },
+        {
+          "word": "gotta",
+          "start": 47.78,
+          "end": 47.78
+        },
+        {
+          "word": "win",
+          "start": 47.78,
+          "end": 47.78
+        },
+        {
+          "word": "some",
+          "start": 47.78,
+          "end": 47.78
+        },
+        {
+          "word": "more",
+          "start": 47.78,
+          "end": 47.78
+        },
+        {
+          "word": "things",
+          "start": 47.78,
+          "end": 47.78
+        }
+      ]
+    },
+    {
+      "time": 47.78,
+      "text": "I'm a little bit of a chicken,",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 47.78,
+          "end": 47.78
+        },
+        {
+          "word": "a",
+          "start": 47.78,
+          "end": 47.78
+        },
+        {
+          "word": "little",
+          "start": 47.78,
+          "end": 48.02
+        },
+        {
+          "word": "bit",
+          "start": 48.02,
+          "end": 48.42
+        },
+        {
+          "word": "of",
+          "start": 48.42,
+          "end": 48.58
+        },
+        {
+          "word": "a",
+          "start": 48.58,
+          "end": 48.58
+        },
+        {
+          "word": "chicken,",
+          "start": 48.58,
+          "end": 49.12
+        }
+      ]
+    },
+    {
+      "time": 50.54,
+      "text": "I gotta win some more things",
+      "words": [
+        {
+          "word": "I",
+          "start": 50.54,
+          "end": 50.56
+        },
+        {
+          "word": "gotta",
+          "start": 50.56,
+          "end": 50.78
+        },
+        {
+          "word": "win",
+          "start": 50.78,
+          "end": 50.78
+        },
+        {
+          "word": "some",
+          "start": 50.78,
+          "end": 54,
+          "stretch": true
+        },
+        {
+          "word": "more",
+          "start": 54,
+          "end": 54.16
+        },
+        {
+          "word": "things",
+          "start": 54.16,
+          "end": 54.48
+        }
+      ]
+    },
+    {
+      "type": "vocal_cue",
+      "time": 54.78,
+      "end": 60.76,
+      "text": "●"
+    },
+    {
+      "time": 60.76,
+      "text": "I was trippin' when I tripped over you She said when she",
+      "words": [
+        {
+          "word": "I",
+          "start": 60.76,
+          "end": 61.38,
+          "stretch": true
+        },
+        {
+          "word": "was",
+          "start": 61.38,
+          "end": 61.5
+        },
+        {
+          "word": "trippin'",
+          "start": 61.5,
+          "end": 62.04
+        },
+        {
+          "word": "when",
+          "start": 62.2,
+          "end": 62.24
+        },
+        {
+          "word": "I",
+          "start": 62.24,
+          "end": 62.52,
+          "stretch": true
+        },
+        {
+          "word": "tripped",
+          "start": 62.52,
+          "end": 62.76
+        },
+        {
+          "word": "over",
+          "start": 62.76,
+          "end": 63.04
+        },
+        {
+          "word": "you",
+          "start": 63.04,
+          "end": 64.06,
+          "stretch": true
+        },
+        {
+          "word": "She",
+          "start": 64.06,
+          "end": 65.46,
+          "stretch": true
+        },
+        {
+          "word": "said",
+          "start": 65.46,
+          "end": 65.7
+        },
+        {
+          "word": "when",
+          "start": 65.7,
+          "end": 65.94
+        },
+        {
+          "word": "she",
+          "start": 65.94,
+          "end": 66.22
+        }
+      ]
+    },
+    {
+      "time": 66.22,
+      "text": "wanna ask me, hey",
+      "words": [
+        {
+          "word": "wanna",
+          "start": 66.22,
+          "end": 66.54
+        },
+        {
+          "word": "ask",
+          "start": 66.54,
+          "end": 67.06,
+          "stretch": true
+        },
+        {
+          "word": "me,",
+          "start": 67.06,
+          "end": 67.82,
+          "stretch": true
+        },
+        {
+          "word": "hey",
+          "start": 68.36,
+          "end": 68.36
+        }
+      ]
+    },
+    {
+      "time": 68.36,
+      "text": "I'ma listen to you I see you lookin' when you pass me,",
+      "words": [
+        {
+          "word": "I'ma",
+          "start": 68.36,
+          "end": 69.16,
+          "stretch": true
+        },
+        {
+          "word": "listen",
+          "start": 69.16,
+          "end": 69.42
+        },
+        {
+          "word": "to",
+          "start": 69.42,
+          "end": 69.72
+        },
+        {
+          "word": "you",
+          "start": 69.72,
+          "end": 71.34,
+          "stretch": true
+        },
+        {
+          "word": "I",
+          "start": 71.34,
+          "end": 72.1,
+          "stretch": true
+        },
+        {
+          "word": "see",
+          "start": 72.1,
+          "end": 72.3
+        },
+        {
+          "word": "you",
+          "start": 72.3,
+          "end": 72.5
+        },
+        {
+          "word": "lookin'",
+          "start": 72.5,
+          "end": 72.68
+        },
+        {
+          "word": "when",
+          "start": 72.76,
+          "end": 73.02
+        },
+        {
+          "word": "you",
+          "start": 73.02,
+          "end": 73.4
+        },
+        {
+          "word": "pass",
+          "start": 73.4,
+          "end": 73.68
+        },
+        {
+          "word": "me,",
+          "start": 73.68,
+          "end": 74.28,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 74.58,
+      "text": "hey",
+      "words": [
+        {
+          "word": "hey",
+          "start": 74.58,
+          "end": 74.9
+        }
+      ]
+    },
+    {
+      "time": 74.9,
+      "text": "I wasn't lookin' to you, girl I got a part of my",
+      "words": [
+        {
+          "word": "I",
+          "start": 74.9,
+          "end": 75.24,
+          "stretch": true
+        },
+        {
+          "word": "wasn't",
+          "start": 75.24,
+          "end": 75.8
+        },
+        {
+          "word": "lookin'",
+          "start": 75.8,
+          "end": 76
+        },
+        {
+          "word": "to",
+          "start": 76.02,
+          "end": 76.36,
+          "stretch": true
+        },
+        {
+          "word": "you,",
+          "start": 76.36,
+          "end": 77.54,
+          "stretch": true
+        },
+        {
+          "word": "girl",
+          "start": 77.68,
+          "end": 78.04
+        },
+        {
+          "word": "I",
+          "start": 78.04,
+          "end": 79.38,
+          "stretch": true
+        },
+        {
+          "word": "got",
+          "start": 79.38,
+          "end": 79.7
+        },
+        {
+          "word": "a",
+          "start": 79.7,
+          "end": 80.02,
+          "stretch": true
+        },
+        {
+          "word": "part",
+          "start": 80.02,
+          "end": 80.24
+        },
+        {
+          "word": "of",
+          "start": 80.24,
+          "end": 80.52
+        },
+        {
+          "word": "my",
+          "start": 80.52,
+          "end": 80.78
+        }
+      ]
+    },
+    {
+      "time": 80.78,
+      "text": "head right in front of my",
+      "words": [
+        {
+          "word": "head",
+          "start": 80.78,
+          "end": 81.1
+        },
+        {
+          "word": "right",
+          "start": 81.1,
+          "end": 81.48
+        },
+        {
+          "word": "in",
+          "start": 81.48,
+          "end": 81.8,
+          "stretch": true
+        },
+        {
+          "word": "front",
+          "start": 81.8,
+          "end": 82
+        },
+        {
+          "word": "of",
+          "start": 82,
+          "end": 82.34,
+          "stretch": true
+        },
+        {
+          "word": "my",
+          "start": 82.34,
+          "end": 82.38
+        }
+      ]
+    },
+    {
+      "time": 82.38,
+      "text": "I'm losing the control",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 82.38,
+          "end": 82.98,
+          "stretch": true
+        },
+        {
+          "word": "losing",
+          "start": 82.98,
+          "end": 83.56
+        },
+        {
+          "word": "the",
+          "start": 83.56,
+          "end": 84
+        },
+        {
+          "word": "control",
+          "start": 84,
+          "end": 84.72
+        }
+      ]
+    },
+    {
+      "time": 84.72,
+      "text": "This your shit right?",
+      "words": [
+        {
+          "word": "This",
+          "start": 84.72,
+          "end": 85.2
+        },
+        {
+          "word": "your",
+          "start": 85.2,
+          "end": 85.46
+        },
+        {
+          "word": "shit",
+          "start": 85.46,
+          "end": 85.86
+        },
+        {
+          "word": "right?",
+          "start": 85.86,
+          "end": 86.26
+        }
+      ]
+    },
+    {
+      "time": 86.7,
+      "text": "Take it from you, I'll let you take it",
+      "words": [
+        {
+          "word": "Take",
+          "start": 86.7,
+          "end": 86.84
+        },
+        {
+          "word": "it",
+          "start": 86.84,
+          "end": 87.14
+        },
+        {
+          "word": "from",
+          "start": 87.14,
+          "end": 87.36
+        },
+        {
+          "word": "you,",
+          "start": 87.36,
+          "end": 87.62
+        },
+        {
+          "word": "I'll",
+          "start": 87.78,
+          "end": 87.92
+        },
+        {
+          "word": "let",
+          "start": 87.92,
+          "end": 87.98
+        },
+        {
+          "word": "you",
+          "start": 87.98,
+          "end": 88.52,
+          "stretch": true
+        },
+        {
+          "word": "take",
+          "start": 88.52,
+          "end": 88.52
+        },
+        {
+          "word": "it",
+          "start": 88.52,
+          "end": 88.9,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 88.9,
+      "text": "It's all right, take it through",
+      "words": [
+        {
+          "word": "It's",
+          "start": 88.9,
+          "end": 89.1
+        },
+        {
+          "word": "all",
+          "start": 89.1,
+          "end": 89.3
+        },
+        {
+          "word": "right,",
+          "start": 89.3,
+          "end": 89.54
+        },
+        {
+          "word": "take",
+          "start": 89.84,
+          "end": 90.12
+        },
+        {
+          "word": "it",
+          "start": 90.12,
+          "end": 90.52,
+          "stretch": true
+        },
+        {
+          "word": "through",
+          "start": 90.52,
+          "end": 90.82
+        }
+      ]
+    },
+    {
+      "time": 90.82,
+      "text": "You can make it your own",
+      "words": [
+        {
+          "word": "You",
+          "start": 90.82,
+          "end": 91.28,
+          "stretch": true
+        },
+        {
+          "word": "can",
+          "start": 91.28,
+          "end": 91.6
+        },
+        {
+          "word": "make",
+          "start": 91.6,
+          "end": 91.78
+        },
+        {
+          "word": "it",
+          "start": 91.78,
+          "end": 92.14,
+          "stretch": true
+        },
+        {
+          "word": "your",
+          "start": 92.14,
+          "end": 92.46
+        },
+        {
+          "word": "own",
+          "start": 92.46,
+          "end": 93.02,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 93.02,
+      "text": "I'm feeling like",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 93.02,
+          "end": 94,
+          "stretch": true
+        },
+        {
+          "word": "feeling",
+          "start": 94,
+          "end": 94.3
+        },
+        {
+          "word": "like",
+          "start": 94.3,
+          "end": 94.64
+        }
+      ]
+    },
+    {
+      "time": 94.64,
+      "text": "Oh, oh",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 94.64,
+          "end": 95.6,
+          "stretch": true
+        },
+        {
+          "word": "oh",
+          "start": 95.62,
+          "end": 96.64,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 96.64,
+      "text": "I'm gonna tell you what I'm gonna do",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 96.64,
+          "end": 96.8
+        },
+        {
+          "word": "gonna",
+          "start": 96.8,
+          "end": 97.18
+        },
+        {
+          "word": "tell",
+          "start": 97.18,
+          "end": 97.48
+        },
+        {
+          "word": "you",
+          "start": 97.48,
+          "end": 97.78
+        },
+        {
+          "word": "what",
+          "start": 97.78,
+          "end": 97.96
+        },
+        {
+          "word": "I'm",
+          "start": 97.96,
+          "end": 98.34,
+          "stretch": true
+        },
+        {
+          "word": "gonna",
+          "start": 98.34,
+          "end": 98.52
+        },
+        {
+          "word": "do",
+          "start": 98.52,
+          "end": 99.16,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 99.16,
+      "text": "Oh, oh",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 99.16,
+          "end": 99.64,
+          "stretch": true
+        },
+        {
+          "word": "oh",
+          "start": 99.64,
+          "end": 100.04,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 100.04,
+      "text": "I'm gonna shit, say you what I did",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 100.04,
+          "end": 100.2
+        },
+        {
+          "word": "gonna",
+          "start": 100.2,
+          "end": 100.36
+        },
+        {
+          "word": "shit,",
+          "start": 100.36,
+          "end": 100.58
+        },
+        {
+          "word": "say",
+          "start": 100.76,
+          "end": 100.98
+        },
+        {
+          "word": "you",
+          "start": 100.98,
+          "end": 101.32
+        },
+        {
+          "word": "what",
+          "start": 101.32,
+          "end": 101.62
+        },
+        {
+          "word": "I",
+          "start": 101.62,
+          "end": 101.84,
+          "stretch": true
+        },
+        {
+          "word": "did",
+          "start": 101.84,
+          "end": 102.02
+        }
+      ]
+    },
+    {
+      "time": 102.02,
+      "text": "I swear to God, I'm gonna take a chance, baby, I swear",
+      "words": [
+        {
+          "word": "I",
+          "start": 102.02,
+          "end": 102.02
+        },
+        {
+          "word": "swear",
+          "start": 102.02,
+          "end": 102.6
+        },
+        {
+          "word": "to",
+          "start": 102.6,
+          "end": 102.6
+        },
+        {
+          "word": "God,",
+          "start": 102.6,
+          "end": 102.6
+        },
+        {
+          "word": "I'm",
+          "start": 102.6,
+          "end": 103.06,
+          "stretch": true
+        },
+        {
+          "word": "gonna",
+          "start": 103.06,
+          "end": 103.2
+        },
+        {
+          "word": "take",
+          "start": 103.2,
+          "end": 103.62
+        },
+        {
+          "word": "a",
+          "start": 103.62,
+          "end": 103.84,
+          "stretch": true
+        },
+        {
+          "word": "chance,",
+          "start": 103.84,
+          "end": 103.84
+        },
+        {
+          "word": "baby,",
+          "start": 104.18,
+          "end": 104.32
+        },
+        {
+          "word": "I",
+          "start": 104.62,
+          "end": 104.7
+        },
+        {
+          "word": "swear",
+          "start": 104.7,
+          "end": 105.12
+        }
+      ]
+    },
+    {
+      "time": 105.12,
+      "text": "I'm gonna take a chance",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 105.12,
+          "end": 105.54,
+          "stretch": true
+        },
+        {
+          "word": "gonna",
+          "start": 105.54,
+          "end": 105.96
+        },
+        {
+          "word": "take",
+          "start": 105.96,
+          "end": 106.16
+        },
+        {
+          "word": "a",
+          "start": 106.16,
+          "end": 106.36,
+          "stretch": true
+        },
+        {
+          "word": "chance",
+          "start": 106.36,
+          "end": 106.36
+        }
+      ]
+    },
+    {
+      "time": 106.36,
+      "text": "On the ground, I'm gonna fill it half if I take it",
+      "words": [
+        {
+          "word": "On",
+          "start": 106.36,
+          "end": 106.7,
+          "stretch": true
+        },
+        {
+          "word": "the",
+          "start": 106.7,
+          "end": 106.96
+        },
+        {
+          "word": "ground,",
+          "start": 106.96,
+          "end": 107.22
+        },
+        {
+          "word": "I'm",
+          "start": 107.36,
+          "end": 107.44
+        },
+        {
+          "word": "gonna",
+          "start": 107.44,
+          "end": 107.58
+        },
+        {
+          "word": "fill",
+          "start": 107.58,
+          "end": 107.74
+        },
+        {
+          "word": "it",
+          "start": 107.74,
+          "end": 108.06,
+          "stretch": true
+        },
+        {
+          "word": "half",
+          "start": 108.06,
+          "end": 108.36
+        },
+        {
+          "word": "if",
+          "start": 108.36,
+          "end": 108.56
+        },
+        {
+          "word": "I",
+          "start": 108.56,
+          "end": 108.9,
+          "stretch": true
+        },
+        {
+          "word": "take",
+          "start": 108.9,
+          "end": 109.08
+        },
+        {
+          "word": "it",
+          "start": 109.08,
+          "end": 109.3
+        }
+      ]
+    },
+    {
+      "time": 109.3,
+      "text": "with you",
+      "words": [
+        {
+          "word": "with",
+          "start": 109.3,
+          "end": 109.5
+        },
+        {
+          "word": "you",
+          "start": 109.5,
+          "end": 110.02,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 111.86,
+      "text": "Now I'm looking back at the past, I was trippin' when I",
+      "words": [
+        {
+          "word": "Now",
+          "start": 111.86,
+          "end": 112.42,
+          "stretch": true
+        },
+        {
+          "word": "I'm",
+          "start": 112.42,
+          "end": 112.86,
+          "stretch": true
+        },
+        {
+          "word": "looking",
+          "start": 112.86,
+          "end": 112.86
+        },
+        {
+          "word": "back",
+          "start": 112.86,
+          "end": 113.36
+        },
+        {
+          "word": "at",
+          "start": 113.36,
+          "end": 113.6
+        },
+        {
+          "word": "the",
+          "start": 113.6,
+          "end": 113.88
+        },
+        {
+          "word": "past,",
+          "start": 113.88,
+          "end": 114.16
+        },
+        {
+          "word": "I",
+          "start": 114.16,
+          "end": 114.36,
+          "stretch": true
+        },
+        {
+          "word": "was",
+          "start": 114.36,
+          "end": 114.68
+        },
+        {
+          "word": "trippin'",
+          "start": 114.68,
+          "end": 114.98
+        },
+        {
+          "word": "when",
+          "start": 115.04,
+          "end": 115.32
+        },
+        {
+          "word": "I",
+          "start": 115.32,
+          "end": 115.52,
+          "stretch": true
+        }
+      ]
+    },
+    {
+      "time": 115.52,
+      "text": "tripped over you",
+      "words": [
+        {
+          "word": "tripped",
+          "start": 115.52,
+          "end": 115.68
+        },
+        {
+          "word": "over",
+          "start": 115.68,
+          "end": 116
+        },
+        {
+          "word": "you",
+          "start": 116,
+          "end": 116.28
+        }
+      ]
+    },
+    {
+      "time": 117.94,
+      "text": "She said what she wanna ask me, hey, I'll listen to you",
+      "words": [
+        {
+          "word": "She",
+          "start": 117.94,
+          "end": 118.5,
+          "stretch": true
+        },
+        {
+          "word": "said",
+          "start": 118.5,
+          "end": 118.66
+        },
+        {
+          "word": "what",
+          "start": 118.66,
+          "end": 118.92
+        },
+        {
+          "word": "she",
+          "start": 118.92,
+          "end": 119.16
+        },
+        {
+          "word": "wanna",
+          "start": 119.16,
+          "end": 119.5
+        },
+        {
+          "word": "ask",
+          "start": 119.5,
+          "end": 120,
+          "stretch": true
+        },
+        {
+          "word": "me,",
+          "start": 120,
+          "end": 120.7,
+          "stretch": true
+        },
+        {
+          "word": "hey,",
+          "start": 121.02,
+          "end": 121.34
+        },
+        {
+          "word": "I'll",
+          "start": 121.78,
+          "end": 122.06
+        },
+        {
+          "word": "listen",
+          "start": 122.06,
+          "end": 122.4
+        },
+        {
+          "word": "to",
+          "start": 122.4,
+          "end": 122.76,
+          "stretch": true
+        },
+        {
+          "word": "you",
+          "start": 122.76,
+          "end": 123.04
+        }
+      ]
+    },
+    {
+      "time": 124.5,
+      "text": "I see you lookin' when you pass me, hey, I will be",
+      "words": [
+        {
+          "word": "I",
+          "start": 124.5,
+          "end": 125.06,
+          "stretch": true
+        },
+        {
+          "word": "see",
+          "start": 125.06,
+          "end": 125.26
+        },
+        {
+          "word": "you",
+          "start": 125.26,
+          "end": 125.46
+        },
+        {
+          "word": "lookin'",
+          "start": 125.46,
+          "end": 125.66
+        },
+        {
+          "word": "when",
+          "start": 125.76,
+          "end": 126
+        },
+        {
+          "word": "you",
+          "start": 126,
+          "end": 126.36
+        },
+        {
+          "word": "pass",
+          "start": 126.36,
+          "end": 126.72
+        },
+        {
+          "word": "me,",
+          "start": 126.72,
+          "end": 127.26,
+          "stretch": true
+        },
+        {
+          "word": "hey,",
+          "start": 127.58,
+          "end": 127.86
+        },
+        {
+          "word": "I",
+          "start": 128,
+          "end": 128.34,
+          "stretch": true
+        },
+        {
+          "word": "will",
+          "start": 128.34,
+          "end": 128.54
+        },
+        {
+          "word": "be",
+          "start": 128.54,
+          "end": 128.8
+        }
+      ]
+    },
+    {
+      "time": 128.8,
+      "text": "workin' with you",
+      "words": [
+        {
+          "word": "workin'",
+          "start": 128.8,
+          "end": 129.08
+        },
+        {
+          "word": "with",
+          "start": 129.08,
+          "end": 129.32
+        },
+        {
+          "word": "you",
+          "start": 129.32,
+          "end": 130.56,
+          "stretch": true
+        }
+      ]
+    }
+  ],
+  "annotations": {},
+  "raw_whisper": [
+    {
+      "text": "I'm  gonna  play  with  you  again,  I  gotta  look  like  a  man,  I  get  shot",
+      "start": 6.38,
+      "end": 13.28,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 6.38,
+          "end": 7.4
+        },
+        {
+          "word": "gonna",
+          "start": 7.4,
+          "end": 7.62
+        },
+        {
+          "word": "play",
+          "start": 7.62,
+          "end": 8.18
+        },
+        {
+          "word": "with",
+          "start": 8.18,
+          "end": 8.72
+        },
+        {
+          "word": "you",
+          "start": 8.72,
+          "end": 9.08
+        },
+        {
+          "word": "again,",
+          "start": 9.08,
+          "end": 9.38
+        },
+        {
+          "word": "I",
+          "start": 9.44,
+          "end": 10.06
+        },
+        {
+          "word": "gotta",
+          "start": 10.06,
+          "end": 10.46
+        },
+        {
+          "word": "look",
+          "start": 10.46,
+          "end": 10.68
+        },
+        {
+          "word": "like",
+          "start": 10.68,
+          "end": 11.38
+        },
+        {
+          "word": "a",
+          "start": 11.38,
+          "end": 11.7
+        },
+        {
+          "word": "man,",
+          "start": 11.7,
+          "end": 11.7
+        },
+        {
+          "word": "I",
+          "start": 12.04,
+          "end": 12.14
+        },
+        {
+          "word": "get",
+          "start": 12.14,
+          "end": 12.64
+        },
+        {
+          "word": "shot",
+          "start": 12.64,
+          "end": 13.28
+        }
+      ]
+    },
+    {
+      "text": "I'm  gonna  play  with  you  again,  I  gotta  look  like  a  man,  I  get  shot",
+      "start": 13.28,
+      "end": 24.5,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 13.28,
+          "end": 13.98
+        },
+        {
+          "word": "gonna",
+          "start": 13.98,
+          "end": 14.28
+        },
+        {
+          "word": "play",
+          "start": 14.28,
+          "end": 14.84
+        },
+        {
+          "word": "with",
+          "start": 14.84,
+          "end": 15.36
+        },
+        {
+          "word": "you",
+          "start": 15.36,
+          "end": 16.44
+        },
+        {
+          "word": "again,",
+          "start": 16.44,
+          "end": 16.44
+        },
+        {
+          "word": "I",
+          "start": 17.64,
+          "end": 17.86
+        },
+        {
+          "word": "gotta",
+          "start": 17.86,
+          "end": 18.42
+        },
+        {
+          "word": "look",
+          "start": 18.42,
+          "end": 18.8
+        },
+        {
+          "word": "like",
+          "start": 18.8,
+          "end": 18.9
+        },
+        {
+          "word": "a",
+          "start": 18.9,
+          "end": 19.2
+        },
+        {
+          "word": "man,",
+          "start": 19.2,
+          "end": 19.76
+        },
+        {
+          "word": "I",
+          "start": 23.4,
+          "end": 23.4
+        },
+        {
+          "word": "get",
+          "start": 23.4,
+          "end": 23.4
+        },
+        {
+          "word": "shot",
+          "start": 23.4,
+          "end": 24.5
+        }
+      ]
+    },
+    {
+      "text": "I'm  a  little  bit  of  a  chicken,  I  gotta  win  some  more  things",
+      "start": 24.5,
+      "end": 31.4,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 24.5,
+          "end": 24.98
+        },
+        {
+          "word": "a",
+          "start": 24.98,
+          "end": 27.52
+        },
+        {
+          "word": "little",
+          "start": 27.52,
+          "end": 27.52
+        },
+        {
+          "word": "bit",
+          "start": 27.52,
+          "end": 28.08
+        },
+        {
+          "word": "of",
+          "start": 28.08,
+          "end": 28.34
+        },
+        {
+          "word": "a",
+          "start": 28.34,
+          "end": 28.56
+        },
+        {
+          "word": "chicken,",
+          "start": 28.56,
+          "end": 28.9
+        },
+        {
+          "word": "I",
+          "start": 29,
+          "end": 29.66
+        },
+        {
+          "word": "gotta",
+          "start": 29.66,
+          "end": 30.06
+        },
+        {
+          "word": "win",
+          "start": 30.06,
+          "end": 30.48
+        },
+        {
+          "word": "some",
+          "start": 30.48,
+          "end": 30.74
+        },
+        {
+          "word": "more",
+          "start": 30.74,
+          "end": 31.08
+        },
+        {
+          "word": "things",
+          "start": 31.08,
+          "end": 31.4
+        }
+      ]
+    },
+    {
+      "text": "I'm  a  little  bit  of  a  chicken,  I  gotta  win  some  more  things",
+      "start": 31.4,
+      "end": 33.12,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 31.4,
+          "end": 31.68
+        },
+        {
+          "word": "a",
+          "start": 31.68,
+          "end": 31.84
+        },
+        {
+          "word": "little",
+          "start": 31.84,
+          "end": 32.02
+        },
+        {
+          "word": "bit",
+          "start": 32.02,
+          "end": 32.2
+        },
+        {
+          "word": "of",
+          "start": 32.2,
+          "end": 32.2
+        },
+        {
+          "word": "a",
+          "start": 32.2,
+          "end": 32.48
+        },
+        {
+          "word": "chicken,",
+          "start": 32.48,
+          "end": 32.58
+        },
+        {
+          "word": "I",
+          "start": 33.04,
+          "end": 33.12
+        },
+        {
+          "word": "gotta",
+          "start": 33.12,
+          "end": 33.12
+        },
+        {
+          "word": "win",
+          "start": 33.12,
+          "end": 33.12
+        },
+        {
+          "word": "some",
+          "start": 33.12,
+          "end": 33.12
+        },
+        {
+          "word": "more",
+          "start": 33.12,
+          "end": 33.12
+        },
+        {
+          "word": "things",
+          "start": 33.12,
+          "end": 33.12
+        }
+      ]
+    },
+    {
+      "text": "I'm  a  little  bit  of  a  chicken,  I  gotta  win  some  more  things",
+      "start": 33.12,
+      "end": 34.4,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 33.12,
+          "end": 33.42
+        },
+        {
+          "word": "a",
+          "start": 33.42,
+          "end": 33.78
+        },
+        {
+          "word": "little",
+          "start": 33.78,
+          "end": 33.78
+        },
+        {
+          "word": "bit",
+          "start": 33.78,
+          "end": 33.78
+        },
+        {
+          "word": "of",
+          "start": 33.78,
+          "end": 33.78
+        },
+        {
+          "word": "a",
+          "start": 33.78,
+          "end": 33.78
+        },
+        {
+          "word": "chicken,",
+          "start": 33.78,
+          "end": 33.78
+        },
+        {
+          "word": "I",
+          "start": 33.8,
+          "end": 33.8
+        },
+        {
+          "word": "gotta",
+          "start": 33.8,
+          "end": 33.8
+        },
+        {
+          "word": "win",
+          "start": 33.8,
+          "end": 33.8
+        },
+        {
+          "word": "some",
+          "start": 33.8,
+          "end": 33.8
+        },
+        {
+          "word": "more",
+          "start": 33.8,
+          "end": 33.88
+        },
+        {
+          "word": "things",
+          "start": 33.88,
+          "end": 34.4
+        }
+      ]
+    },
+    {
+      "text": "I'm  a  little  bit  of  a  chicken,  I  gotta  win  some  more  things",
+      "start": 34.4,
+      "end": 35.08,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 34.4,
+          "end": 35.08
+        },
+        {
+          "word": "a",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "little",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "bit",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "of",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "a",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "chicken,",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "I",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "gotta",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "win",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "some",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "more",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "things",
+          "start": 35.08,
+          "end": 35.08
+        }
+      ]
+    },
+    {
+      "text": "I'm  a  little  bit  of  a  chicken,  I  gotta  win  some  more  things",
+      "start": 35.08,
+      "end": 35.88,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "a",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "little",
+          "start": 35.08,
+          "end": 35.08
+        },
+        {
+          "word": "bit",
+          "start": 35.08,
+          "end": 35.62
+        },
+        {
+          "word": "of",
+          "start": 35.62,
+          "end": 35.62
+        },
+        {
+          "word": "a",
+          "start": 35.62,
+          "end": 35.62
+        },
+        {
+          "word": "chicken,",
+          "start": 35.62,
+          "end": 35.88
+        },
+        {
+          "word": "I",
+          "start": 35.88,
+          "end": 35.88
+        },
+        {
+          "word": "gotta",
+          "start": 35.88,
+          "end": 35.88
+        },
+        {
+          "word": "win",
+          "start": 35.88,
+          "end": 35.88
+        },
+        {
+          "word": "some",
+          "start": 35.88,
+          "end": 35.88
+        },
+        {
+          "word": "more",
+          "start": 35.88,
+          "end": 35.88
+        },
+        {
+          "word": "things",
+          "start": 35.88,
+          "end": 35.88
+        }
+      ]
+    },
+    {
+      "text": "I'm  a  little  bit  of  a  chicken,  I  gotta  win  some  more  things",
+      "start": 35.88,
+      "end": 39.94,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 35.88,
+          "end": 36.42
+        },
+        {
+          "word": "a",
+          "start": 36.42,
+          "end": 37.06
+        },
+        {
+          "word": "little",
+          "start": 37.06,
+          "end": 37.06
+        },
+        {
+          "word": "bit",
+          "start": 37.06,
+          "end": 37.1
+        },
+        {
+          "word": "of",
+          "start": 37.1,
+          "end": 37.1
+        },
+        {
+          "word": "a",
+          "start": 37.1,
+          "end": 39.02
+        },
+        {
+          "word": "chicken,",
+          "start": 39.02,
+          "end": 39.14
+        },
+        {
+          "word": "I",
+          "start": 39.76,
+          "end": 39.76
+        },
+        {
+          "word": "gotta",
+          "start": 39.76,
+          "end": 39.94
+        },
+        {
+          "word": "win",
+          "start": 39.94,
+          "end": 39.94
+        },
+        {
+          "word": "some",
+          "start": 39.94,
+          "end": 39.94
+        },
+        {
+          "word": "more",
+          "start": 39.94,
+          "end": 39.94
+        },
+        {
+          "word": "things",
+          "start": 39.94,
+          "end": 39.94
+        }
+      ]
+    },
+    {
+      "text": "I'm  a  little  bit  of  a  chicken,  I  gotta  win  some  more  things",
+      "start": 39.94,
+      "end": 40.4,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 39.94,
+          "end": 40
+        },
+        {
+          "word": "a",
+          "start": 40,
+          "end": 40.38
+        },
+        {
+          "word": "little",
+          "start": 40.38,
+          "end": 40.38
+        },
+        {
+          "word": "bit",
+          "start": 40.38,
+          "end": 40.38
+        },
+        {
+          "word": "of",
+          "start": 40.38,
+          "end": 40.38
+        },
+        {
+          "word": "a",
+          "start": 40.38,
+          "end": 40.38
+        },
+        {
+          "word": "chicken,",
+          "start": 40.38,
+          "end": 40.38
+        },
+        {
+          "word": "I",
+          "start": 40.38,
+          "end": 40.38
+        },
+        {
+          "word": "gotta",
+          "start": 40.38,
+          "end": 40.38
+        },
+        {
+          "word": "win",
+          "start": 40.38,
+          "end": 40.4
+        },
+        {
+          "word": "some",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "more",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "things",
+          "start": 40.4,
+          "end": 40.4
+        }
+      ]
+    },
+    {
+      "text": "I'm  a  little  bit  of  a  chicken,  I  gotta  win  some  more  things",
+      "start": 40.4,
+      "end": 40.72,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "a",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "little",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "bit",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "of",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "a",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "chicken,",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "I",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "gotta",
+          "start": 40.4,
+          "end": 40.4
+        },
+        {
+          "word": "win",
+          "start": 40.4,
+          "end": 40.58
+        },
+        {
+          "word": "some",
+          "start": 40.58,
+          "end": 40.72
+        },
+        {
+          "word": "more",
+          "start": 40.72,
+          "end": 40.72
+        },
+        {
+          "word": "things",
+          "start": 40.72,
+          "end": 40.72
+        }
+      ]
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "",
+      "start": 0,
+      "end": 0,
+      "words": []
+    },
+    {
+      "text": "I'm  a  little  bit  of  a  chicken,  I  gotta  win  some  more  things",
+      "start": 40.72,
+      "end": 44.6,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 40.72,
+          "end": 40.72
+        },
+        {
+          "word": "a",
+          "start": 40.72,
+          "end": 40.72
+        },
+        {
+          "word": "little",
+          "start": 40.72,
+          "end": 40.98
+        },
+        {
+          "word": "bit",
+          "start": 40.98,
+          "end": 41.44
+        },
+        {
+          "word": "of",
+          "start": 41.44,
+          "end": 41.44
+        },
+        {
+          "word": "a",
+          "start": 41.44,
+          "end": 42.18
+        },
+        {
+          "word": "chicken,",
+          "start": 42.18,
+          "end": 42.8
+        },
+        {
+          "word": "I",
+          "start": 42.8,
+          "end": 42.8
+        },
+        {
+          "word": "gotta",
+          "start": 42.8,
+          "end": 42.8
+        },
+        {
+          "word": "win",
+          "start": 42.8,
+          "end": 43.82
+        },
+        {
+          "word": "some",
+          "start": 43.82,
+          "end": 44.3
+        },
+        {
+          "word": "more",
+          "start": 44.3,
+          "end": 44.56
+        },
+        {
+          "word": "things",
+          "start": 44.56,
+          "end": 44.6
+        }
+      ]
+    },
+    {
+      "text": "I'm  a  little  bit  of  a  chicken,  I  gotta  win  some  more  things",
+      "start": 44.6,
+      "end": 47.78,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 44.6,
+          "end": 44.76
+        },
+        {
+          "word": "a",
+          "start": 44.76,
+          "end": 44.76
+        },
+        {
+          "word": "little",
+          "start": 44.76,
+          "end": 44.76
+        },
+        {
+          "word": "bit",
+          "start": 44.76,
+          "end": 45.42
+        },
+        {
+          "word": "of",
+          "start": 45.42,
+          "end": 45.42
+        },
+        {
+          "word": "a",
+          "start": 45.42,
+          "end": 45.62
+        },
+        {
+          "word": "chicken,",
+          "start": 45.62,
+          "end": 46.2
+        },
+        {
+          "word": "I",
+          "start": 47.78,
+          "end": 47.78
+        },
+        {
+          "word": "gotta",
+          "start": 47.78,
+          "end": 47.78
+        },
+        {
+          "word": "win",
+          "start": 47.78,
+          "end": 47.78
+        },
+        {
+          "word": "some",
+          "start": 47.78,
+          "end": 47.78
+        },
+        {
+          "word": "more",
+          "start": 47.78,
+          "end": 47.78
+        },
+        {
+          "word": "things",
+          "start": 47.78,
+          "end": 47.78
+        }
+      ]
+    },
+    {
+      "text": "I'm  a  little  bit  of  a  chicken,  I  gotta  win  some  more  things",
+      "start": 47.78,
+      "end": 54.48,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 47.78,
+          "end": 47.78
+        },
+        {
+          "word": "a",
+          "start": 47.78,
+          "end": 47.78
+        },
+        {
+          "word": "little",
+          "start": 47.78,
+          "end": 48.02
+        },
+        {
+          "word": "bit",
+          "start": 48.02,
+          "end": 48.42
+        },
+        {
+          "word": "of",
+          "start": 48.42,
+          "end": 48.58
+        },
+        {
+          "word": "a",
+          "start": 48.58,
+          "end": 48.58
+        },
+        {
+          "word": "chicken,",
+          "start": 48.58,
+          "end": 49.12
+        },
+        {
+          "word": "I",
+          "start": 50.54,
+          "end": 50.56
+        },
+        {
+          "word": "gotta",
+          "start": 50.56,
+          "end": 50.78
+        },
+        {
+          "word": "win",
+          "start": 50.78,
+          "end": 50.78
+        },
+        {
+          "word": "some",
+          "start": 50.78,
+          "end": 54
+        },
+        {
+          "word": "more",
+          "start": 54,
+          "end": 54.16
+        },
+        {
+          "word": "things",
+          "start": 54.16,
+          "end": 54.48
+        }
+      ]
+    },
+    {
+      "text": "I  was  trippin'  when  I  tripped  over  you  She  said  when  she  wanna  ask  me,  hey",
+      "start": 60.76,
+      "end": 68.36,
+      "words": [
+        {
+          "word": "I",
+          "start": 60.76,
+          "end": 61.38
+        },
+        {
+          "word": "was",
+          "start": 61.38,
+          "end": 61.5
+        },
+        {
+          "word": "trippin'",
+          "start": 61.5,
+          "end": 62.04
+        },
+        {
+          "word": "when",
+          "start": 62.2,
+          "end": 62.24
+        },
+        {
+          "word": "I",
+          "start": 62.24,
+          "end": 62.52
+        },
+        {
+          "word": "tripped",
+          "start": 62.52,
+          "end": 62.76
+        },
+        {
+          "word": "over",
+          "start": 62.76,
+          "end": 63.04
+        },
+        {
+          "word": "you",
+          "start": 63.04,
+          "end": 64.06
+        },
+        {
+          "word": "She",
+          "start": 64.06,
+          "end": 65.46
+        },
+        {
+          "word": "said",
+          "start": 65.46,
+          "end": 65.7
+        },
+        {
+          "word": "when",
+          "start": 65.7,
+          "end": 65.94
+        },
+        {
+          "word": "she",
+          "start": 65.94,
+          "end": 66.22
+        },
+        {
+          "word": "wanna",
+          "start": 66.22,
+          "end": 66.54
+        },
+        {
+          "word": "ask",
+          "start": 66.54,
+          "end": 67.06
+        },
+        {
+          "word": "me,",
+          "start": 67.06,
+          "end": 67.82
+        },
+        {
+          "word": "hey",
+          "start": 68.36,
+          "end": 68.36
+        }
+      ]
+    },
+    {
+      "text": "I'ma  listen  to  you  I  see  you  lookin'  when  you  pass  me,  hey",
+      "start": 68.36,
+      "end": 74.9,
+      "words": [
+        {
+          "word": "I'ma",
+          "start": 68.36,
+          "end": 69.16
+        },
+        {
+          "word": "listen",
+          "start": 69.16,
+          "end": 69.42
+        },
+        {
+          "word": "to",
+          "start": 69.42,
+          "end": 69.72
+        },
+        {
+          "word": "you",
+          "start": 69.72,
+          "end": 71.34
+        },
+        {
+          "word": "I",
+          "start": 71.34,
+          "end": 72.1
+        },
+        {
+          "word": "see",
+          "start": 72.1,
+          "end": 72.3
+        },
+        {
+          "word": "you",
+          "start": 72.3,
+          "end": 72.5
+        },
+        {
+          "word": "lookin'",
+          "start": 72.5,
+          "end": 72.68
+        },
+        {
+          "word": "when",
+          "start": 72.76,
+          "end": 73.02
+        },
+        {
+          "word": "you",
+          "start": 73.02,
+          "end": 73.4
+        },
+        {
+          "word": "pass",
+          "start": 73.4,
+          "end": 73.68
+        },
+        {
+          "word": "me,",
+          "start": 73.68,
+          "end": 74.28
+        },
+        {
+          "word": "hey",
+          "start": 74.58,
+          "end": 74.9
+        }
+      ]
+    },
+    {
+      "text": "I  wasn't  lookin'  to  you,  girl  I  got  a  part  of  my  head  right  in  front  of  my",
+      "start": 74.9,
+      "end": 82.38,
+      "words": [
+        {
+          "word": "I",
+          "start": 74.9,
+          "end": 75.24
+        },
+        {
+          "word": "wasn't",
+          "start": 75.24,
+          "end": 75.8
+        },
+        {
+          "word": "lookin'",
+          "start": 75.8,
+          "end": 76
+        },
+        {
+          "word": "to",
+          "start": 76.02,
+          "end": 76.36
+        },
+        {
+          "word": "you,",
+          "start": 76.36,
+          "end": 77.54
+        },
+        {
+          "word": "girl",
+          "start": 77.68,
+          "end": 78.04
+        },
+        {
+          "word": "I",
+          "start": 78.04,
+          "end": 79.38
+        },
+        {
+          "word": "got",
+          "start": 79.38,
+          "end": 79.7
+        },
+        {
+          "word": "a",
+          "start": 79.7,
+          "end": 80.02
+        },
+        {
+          "word": "part",
+          "start": 80.02,
+          "end": 80.24
+        },
+        {
+          "word": "of",
+          "start": 80.24,
+          "end": 80.52
+        },
+        {
+          "word": "my",
+          "start": 80.52,
+          "end": 80.78
+        },
+        {
+          "word": "head",
+          "start": 80.78,
+          "end": 81.1
+        },
+        {
+          "word": "right",
+          "start": 81.1,
+          "end": 81.48
+        },
+        {
+          "word": "in",
+          "start": 81.48,
+          "end": 81.8
+        },
+        {
+          "word": "front",
+          "start": 81.8,
+          "end": 82
+        },
+        {
+          "word": "of",
+          "start": 82,
+          "end": 82.34
+        },
+        {
+          "word": "my",
+          "start": 82.34,
+          "end": 82.38
+        }
+      ]
+    },
+    {
+      "text": "I'm  losing  the  control",
+      "start": 82.38,
+      "end": 84.72,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 82.38,
+          "end": 82.98
+        },
+        {
+          "word": "losing",
+          "start": 82.98,
+          "end": 83.56
+        },
+        {
+          "word": "the",
+          "start": 83.56,
+          "end": 84
+        },
+        {
+          "word": "control",
+          "start": 84,
+          "end": 84.72
+        }
+      ]
+    },
+    {
+      "text": "This  your  shit  right?",
+      "start": 84.72,
+      "end": 86.26,
+      "words": [
+        {
+          "word": "This",
+          "start": 84.72,
+          "end": 85.2
+        },
+        {
+          "word": "your",
+          "start": 85.2,
+          "end": 85.46
+        },
+        {
+          "word": "shit",
+          "start": 85.46,
+          "end": 85.86
+        },
+        {
+          "word": "right?",
+          "start": 85.86,
+          "end": 86.26
+        }
+      ]
+    },
+    {
+      "text": "Take  it  from  you,  I'll  let  you  take  it",
+      "start": 86.7,
+      "end": 88.9,
+      "words": [
+        {
+          "word": "Take",
+          "start": 86.7,
+          "end": 86.84
+        },
+        {
+          "word": "it",
+          "start": 86.84,
+          "end": 87.14
+        },
+        {
+          "word": "from",
+          "start": 87.14,
+          "end": 87.36
+        },
+        {
+          "word": "you,",
+          "start": 87.36,
+          "end": 87.62
+        },
+        {
+          "word": "I'll",
+          "start": 87.78,
+          "end": 87.92
+        },
+        {
+          "word": "let",
+          "start": 87.92,
+          "end": 87.98
+        },
+        {
+          "word": "you",
+          "start": 87.98,
+          "end": 88.52
+        },
+        {
+          "word": "take",
+          "start": 88.52,
+          "end": 88.52
+        },
+        {
+          "word": "it",
+          "start": 88.52,
+          "end": 88.9
+        }
+      ]
+    },
+    {
+      "text": "It's  all  right,  take  it  through",
+      "start": 88.9,
+      "end": 90.82,
+      "words": [
+        {
+          "word": "It's",
+          "start": 88.9,
+          "end": 89.1
+        },
+        {
+          "word": "all",
+          "start": 89.1,
+          "end": 89.3
+        },
+        {
+          "word": "right,",
+          "start": 89.3,
+          "end": 89.54
+        },
+        {
+          "word": "take",
+          "start": 89.84,
+          "end": 90.12
+        },
+        {
+          "word": "it",
+          "start": 90.12,
+          "end": 90.52
+        },
+        {
+          "word": "through",
+          "start": 90.52,
+          "end": 90.82
+        }
+      ]
+    },
+    {
+      "text": "You  can  make  it  your  own",
+      "start": 90.82,
+      "end": 93.02,
+      "words": [
+        {
+          "word": "You",
+          "start": 90.82,
+          "end": 91.28
+        },
+        {
+          "word": "can",
+          "start": 91.28,
+          "end": 91.6
+        },
+        {
+          "word": "make",
+          "start": 91.6,
+          "end": 91.78
+        },
+        {
+          "word": "it",
+          "start": 91.78,
+          "end": 92.14
+        },
+        {
+          "word": "your",
+          "start": 92.14,
+          "end": 92.46
+        },
+        {
+          "word": "own",
+          "start": 92.46,
+          "end": 93.02
+        }
+      ]
+    },
+    {
+      "text": "I'm  feeling  like",
+      "start": 93.02,
+      "end": 94.64,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 93.02,
+          "end": 94
+        },
+        {
+          "word": "feeling",
+          "start": 94,
+          "end": 94.3
+        },
+        {
+          "word": "like",
+          "start": 94.3,
+          "end": 94.64
+        }
+      ]
+    },
+    {
+      "text": "Oh,  oh",
+      "start": 94.64,
+      "end": 96.64,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 94.64,
+          "end": 95.6
+        },
+        {
+          "word": "oh",
+          "start": 95.62,
+          "end": 96.64
+        }
+      ]
+    },
+    {
+      "text": "I'm  gonna  tell  you  what  I'm  gonna  do",
+      "start": 96.64,
+      "end": 99.16,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 96.64,
+          "end": 96.8
+        },
+        {
+          "word": "gonna",
+          "start": 96.8,
+          "end": 97.18
+        },
+        {
+          "word": "tell",
+          "start": 97.18,
+          "end": 97.48
+        },
+        {
+          "word": "you",
+          "start": 97.48,
+          "end": 97.78
+        },
+        {
+          "word": "what",
+          "start": 97.78,
+          "end": 97.96
+        },
+        {
+          "word": "I'm",
+          "start": 97.96,
+          "end": 98.34
+        },
+        {
+          "word": "gonna",
+          "start": 98.34,
+          "end": 98.52
+        },
+        {
+          "word": "do",
+          "start": 98.52,
+          "end": 99.16
+        }
+      ]
+    },
+    {
+      "text": "Oh,  oh",
+      "start": 99.16,
+      "end": 100.04,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 99.16,
+          "end": 99.64
+        },
+        {
+          "word": "oh",
+          "start": 99.64,
+          "end": 100.04
+        }
+      ]
+    },
+    {
+      "text": "I'm  gonna  shit,  say  you  what  I  did",
+      "start": 100.04,
+      "end": 102.02,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 100.04,
+          "end": 100.2
+        },
+        {
+          "word": "gonna",
+          "start": 100.2,
+          "end": 100.36
+        },
+        {
+          "word": "shit,",
+          "start": 100.36,
+          "end": 100.58
+        },
+        {
+          "word": "say",
+          "start": 100.76,
+          "end": 100.98
+        },
+        {
+          "word": "you",
+          "start": 100.98,
+          "end": 101.32
+        },
+        {
+          "word": "what",
+          "start": 101.32,
+          "end": 101.62
+        },
+        {
+          "word": "I",
+          "start": 101.62,
+          "end": 101.84
+        },
+        {
+          "word": "did",
+          "start": 101.84,
+          "end": 102.02
+        }
+      ]
+    },
+    {
+      "text": "I  swear  to  God,  I'm  gonna  take  a  chance,  baby,  I  swear  I'm  gonna  take  a  chance",
+      "start": 102.02,
+      "end": 106.36,
+      "words": [
+        {
+          "word": "I",
+          "start": 102.02,
+          "end": 102.02
+        },
+        {
+          "word": "swear",
+          "start": 102.02,
+          "end": 102.6
+        },
+        {
+          "word": "to",
+          "start": 102.6,
+          "end": 102.6
+        },
+        {
+          "word": "God,",
+          "start": 102.6,
+          "end": 102.6
+        },
+        {
+          "word": "I'm",
+          "start": 102.6,
+          "end": 103.06
+        },
+        {
+          "word": "gonna",
+          "start": 103.06,
+          "end": 103.2
+        },
+        {
+          "word": "take",
+          "start": 103.2,
+          "end": 103.62
+        },
+        {
+          "word": "a",
+          "start": 103.62,
+          "end": 103.84
+        },
+        {
+          "word": "chance,",
+          "start": 103.84,
+          "end": 103.84
+        },
+        {
+          "word": "baby,",
+          "start": 104.18,
+          "end": 104.32
+        },
+        {
+          "word": "I",
+          "start": 104.62,
+          "end": 104.7
+        },
+        {
+          "word": "swear",
+          "start": 104.7,
+          "end": 105.12
+        },
+        {
+          "word": "I'm",
+          "start": 105.12,
+          "end": 105.54
+        },
+        {
+          "word": "gonna",
+          "start": 105.54,
+          "end": 105.96
+        },
+        {
+          "word": "take",
+          "start": 105.96,
+          "end": 106.16
+        },
+        {
+          "word": "a",
+          "start": 106.16,
+          "end": 106.36
+        },
+        {
+          "word": "chance",
+          "start": 106.36,
+          "end": 106.36
+        }
+      ]
+    },
+    {
+      "text": "On  the  ground,  I'm  gonna  fill  it  half  if  I  take  it  with  you",
+      "start": 106.36,
+      "end": 110.02,
+      "words": [
+        {
+          "word": "On",
+          "start": 106.36,
+          "end": 106.7
+        },
+        {
+          "word": "the",
+          "start": 106.7,
+          "end": 106.96
+        },
+        {
+          "word": "ground,",
+          "start": 106.96,
+          "end": 107.22
+        },
+        {
+          "word": "I'm",
+          "start": 107.36,
+          "end": 107.44
+        },
+        {
+          "word": "gonna",
+          "start": 107.44,
+          "end": 107.58
+        },
+        {
+          "word": "fill",
+          "start": 107.58,
+          "end": 107.74
+        },
+        {
+          "word": "it",
+          "start": 107.74,
+          "end": 108.06
+        },
+        {
+          "word": "half",
+          "start": 108.06,
+          "end": 108.36
+        },
+        {
+          "word": "if",
+          "start": 108.36,
+          "end": 108.56
+        },
+        {
+          "word": "I",
+          "start": 108.56,
+          "end": 108.9
+        },
+        {
+          "word": "take",
+          "start": 108.9,
+          "end": 109.08
+        },
+        {
+          "word": "it",
+          "start": 109.08,
+          "end": 109.3
+        },
+        {
+          "word": "with",
+          "start": 109.3,
+          "end": 109.5
+        },
+        {
+          "word": "you",
+          "start": 109.5,
+          "end": 110.02
+        }
+      ]
+    },
+    {
+      "text": "Now  I'm  looking  back  at  the  past,  I  was  trippin'  when  I  tripped  over  you",
+      "start": 111.86,
+      "end": 116.28,
+      "words": [
+        {
+          "word": "Now",
+          "start": 111.86,
+          "end": 112.42
+        },
+        {
+          "word": "I'm",
+          "start": 112.42,
+          "end": 112.86
+        },
+        {
+          "word": "looking",
+          "start": 112.86,
+          "end": 112.86
+        },
+        {
+          "word": "back",
+          "start": 112.86,
+          "end": 113.36
+        },
+        {
+          "word": "at",
+          "start": 113.36,
+          "end": 113.6
+        },
+        {
+          "word": "the",
+          "start": 113.6,
+          "end": 113.88
+        },
+        {
+          "word": "past,",
+          "start": 113.88,
+          "end": 114.16
+        },
+        {
+          "word": "I",
+          "start": 114.16,
+          "end": 114.36
+        },
+        {
+          "word": "was",
+          "start": 114.36,
+          "end": 114.68
+        },
+        {
+          "word": "trippin'",
+          "start": 114.68,
+          "end": 114.98
+        },
+        {
+          "word": "when",
+          "start": 115.04,
+          "end": 115.32
+        },
+        {
+          "word": "I",
+          "start": 115.32,
+          "end": 115.52
+        },
+        {
+          "word": "tripped",
+          "start": 115.52,
+          "end": 115.68
+        },
+        {
+          "word": "over",
+          "start": 115.68,
+          "end": 116
+        },
+        {
+          "word": "you",
+          "start": 116,
+          "end": 116.28
+        }
+      ]
+    },
+    {
+      "text": "She  said  what  she  wanna  ask  me,  hey,  I'll  listen  to  you",
+      "start": 117.94,
+      "end": 123.04,
+      "words": [
+        {
+          "word": "She",
+          "start": 117.94,
+          "end": 118.5
+        },
+        {
+          "word": "said",
+          "start": 118.5,
+          "end": 118.66
+        },
+        {
+          "word": "what",
+          "start": 118.66,
+          "end": 118.92
+        },
+        {
+          "word": "she",
+          "start": 118.92,
+          "end": 119.16
+        },
+        {
+          "word": "wanna",
+          "start": 119.16,
+          "end": 119.5
+        },
+        {
+          "word": "ask",
+          "start": 119.5,
+          "end": 120
+        },
+        {
+          "word": "me,",
+          "start": 120,
+          "end": 120.7
+        },
+        {
+          "word": "hey,",
+          "start": 121.02,
+          "end": 121.34
+        },
+        {
+          "word": "I'll",
+          "start": 121.78,
+          "end": 122.06
+        },
+        {
+          "word": "listen",
+          "start": 122.06,
+          "end": 122.4
+        },
+        {
+          "word": "to",
+          "start": 122.4,
+          "end": 122.76
+        },
+        {
+          "word": "you",
+          "start": 122.76,
+          "end": 123.04
+        }
+      ]
+    },
+    {
+      "text": "I  see  you  lookin'  when  you  pass  me,  hey,  I  will  be  workin'  with  you",
+      "start": 124.5,
+      "end": 130.56,
+      "words": [
+        {
+          "word": "I",
+          "start": 124.5,
+          "end": 125.06
+        },
+        {
+          "word": "see",
+          "start": 125.06,
+          "end": 125.26
+        },
+        {
+          "word": "you",
+          "start": 125.26,
+          "end": 125.46
+        },
+        {
+          "word": "lookin'",
+          "start": 125.46,
+          "end": 125.66
+        },
+        {
+          "word": "when",
+          "start": 125.76,
+          "end": 126
+        },
+        {
+          "word": "you",
+          "start": 126,
+          "end": 126.36
+        },
+        {
+          "word": "pass",
+          "start": 126.36,
+          "end": 126.72
+        },
+        {
+          "word": "me,",
+          "start": 126.72,
+          "end": 127.26
+        },
+        {
+          "word": "hey,",
+          "start": 127.58,
+          "end": 127.86
+        },
+        {
+          "word": "I",
+          "start": 128,
+          "end": 128.34
+        },
+        {
+          "word": "will",
+          "start": 128.34,
+          "end": 128.54
+        },
+        {
+          "word": "be",
+          "start": 128.54,
+          "end": 128.8
+        },
+        {
+          "word": "workin'",
+          "start": 128.8,
+          "end": 129.08
+        },
+        {
+          "word": "with",
+          "start": 129.08,
+          "end": 129.32
+        },
+        {
+          "word": "you",
+          "start": 129.32,
+          "end": 130.56
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-07-28T16:00:19.352Z",
-  "totalTracks": 741,
+  "totalTracks": 743,
   "roots": [
     "/Users/illiaromaniv/WebstormProjects/claudecode/media/music",
     "/Users/illiaromaniv/Music/Music"
@@ -10457,6 +10457,36 @@
       },
       "sourcePath": "/tmp/chromic-downloads/2-bexey-lonely-girl.mp3",
       "mtimeMs": 1785326804083
+    },
+    "lil peep::already grown": {
+      "title": "Already Grown",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Already Grown",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-already-grown-b5887c58050a.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-already-grown-b5887c58050a.json",
+        "meta": "tracks/lil-peep-already-grown-b5887c58050a.meta.json",
+        "annotations": "tracks/lil-peep-already-grown-b5887c58050a.annotations.json",
+        "translations": {}
+      },
+      "sourcePath": "/tmp/chromic-downloads2/1-already-grown.mp3",
+      "mtimeMs": 1785419994298
+    },
+    "lil peep x yunggoth::cocaine shawty": {
+      "title": "Cocaine Shawty",
+      "artist": "Lil Peep x Yunggoth",
+      "originalTrackName": "Lil Peep x Yunggoth - Cocaine Shawty",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-x-yunggoth-cocaine-shawty-f29f20b5c541.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-x-yunggoth-cocaine-shawty-f29f20b5c541.json",
+        "meta": "tracks/lil-peep-x-yunggoth-cocaine-shawty-f29f20b5c541.meta.json",
+        "annotations": "tracks/lil-peep-x-yunggoth-cocaine-shawty-f29f20b5c541.annotations.json",
+        "translations": {}
+      },
+      "sourcePath": "/tmp/chromic-downloads2/2-cocaine-shawty.mp3",
+      "mtimeMs": 1785420022305
     }
   },
   "tracks": [
@@ -20911,6 +20941,36 @@
       },
       "sourcePath": "/tmp/chromic-downloads/2-bexey-lonely-girl.mp3",
       "mtimeMs": 1785326804083
+    },
+    {
+      "title": "Already Grown",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Already Grown",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-already-grown-b5887c58050a.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-already-grown-b5887c58050a.json",
+        "meta": "tracks/lil-peep-already-grown-b5887c58050a.meta.json",
+        "annotations": "tracks/lil-peep-already-grown-b5887c58050a.annotations.json",
+        "translations": {}
+      },
+      "sourcePath": "/tmp/chromic-downloads2/1-already-grown.mp3",
+      "mtimeMs": 1785419994298
+    },
+    {
+      "title": "Cocaine Shawty",
+      "artist": "Lil Peep x Yunggoth",
+      "originalTrackName": "Lil Peep x Yunggoth - Cocaine Shawty",
+      "source": "whisper_only",
+      "file": "tracks/lil-peep-x-yunggoth-cocaine-shawty-f29f20b5c541.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-x-yunggoth-cocaine-shawty-f29f20b5c541.json",
+        "meta": "tracks/lil-peep-x-yunggoth-cocaine-shawty-f29f20b5c541.meta.json",
+        "annotations": "tracks/lil-peep-x-yunggoth-cocaine-shawty-f29f20b5c541.annotations.json",
+        "translations": {}
+      },
+      "sourcePath": "/tmp/chromic-downloads2/2-cocaine-shawty.mp3",
+      "mtimeMs": 1785420022305
     }
   ]
 }

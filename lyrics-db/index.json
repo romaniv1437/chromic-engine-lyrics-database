@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-07-28T16:00:19.352Z",
-  "totalTracks": 743,
+  "totalTracks": 744,
   "roots": [
     "/Users/illiaromaniv/WebstormProjects/claudecode/media/music",
     "/Users/illiaromaniv/Music/Music"
@@ -10339,19 +10339,19 @@
       "mtimeMs": 1785254419234
     },
     "kizaru x geekey::zabudem pro nih": {
-      "title": "ZABUDEM PRO NIH",
-      "artist": "KIZARU x GEEKEY",
-      "originalTrackName": "KIZARU x GEEKEY - ZABUDEM PRO NIH",
+      "title": "Zabudem Pro Nih",
+      "artist": "Kizaru x Geekey",
+      "originalTrackName": "Kizaru x Geekey - Zabudem Pro Nih",
       "source": "whisper_only",
-      "file": "tracks/kizaru-x-geekey-zabudem-pro-nih-d464cd03791b.json",
+      "file": "tracks/kizaru-x-geekey-zabudem-pro-nih-bfcab2f1ee14.json",
       "files": {
-        "lyrics": "tracks/kizaru-x-geekey-zabudem-pro-nih-d464cd03791b.json",
-        "meta": "tracks/kizaru-x-geekey-zabudem-pro-nih-d464cd03791b.meta.json",
-        "annotations": "tracks/kizaru-x-geekey-zabudem-pro-nih-d464cd03791b.annotations.json",
-        "translations": []
+        "lyrics": "tracks/kizaru-x-geekey-zabudem-pro-nih-bfcab2f1ee14.json",
+        "meta": "tracks/kizaru-x-geekey-zabudem-pro-nih-bfcab2f1ee14.meta.json",
+        "annotations": "tracks/kizaru-x-geekey-zabudem-pro-nih-bfcab2f1ee14.annotations.json",
+        "translations": {}
       },
-      "sourcePath": "local:226004921.mp3",
-      "mtimeMs": 1785254419270
+      "sourcePath": "/tmp/chromic-downloads3/2-zabudem-pro-nih.mp3",
+      "mtimeMs": 1785490433137
     },
     "yvn kxx x 13m13::pust' etot mir": {
       "title": "PUST' ETOT MIR",
@@ -10487,6 +10487,21 @@
       },
       "sourcePath": "/tmp/chromic-downloads2/2-cocaine-shawty.mp3",
       "mtimeMs": 1785420022305
+    },
+    "yvn kxx::predstavlyayu sever": {
+      "title": "Predstavlyayu Sever",
+      "artist": "YVN KXX",
+      "originalTrackName": "YVN KXX - Predstavlyayu Sever",
+      "source": "whisper_only",
+      "file": "tracks/yvn-kxx-predstavlyayu-sever-23eb4288f92f.json",
+      "files": {
+        "lyrics": "tracks/yvn-kxx-predstavlyayu-sever-23eb4288f92f.json",
+        "meta": "tracks/yvn-kxx-predstavlyayu-sever-23eb4288f92f.meta.json",
+        "annotations": "tracks/yvn-kxx-predstavlyayu-sever-23eb4288f92f.annotations.json",
+        "translations": {}
+      },
+      "sourcePath": "/tmp/chromic-downloads3/1-predstavlyayu-sever.mp3",
+      "mtimeMs": 1785490432617
     }
   },
   "tracks": [
@@ -20808,21 +20823,6 @@
       "mtimeMs": 1785254419234
     },
     {
-      "title": "ZABUDEM PRO NIH",
-      "artist": "KIZARU x GEEKEY",
-      "originalTrackName": "KIZARU x GEEKEY - ZABUDEM PRO NIH",
-      "source": "whisper_only",
-      "file": "tracks/kizaru-x-geekey-zabudem-pro-nih-d464cd03791b.json",
-      "files": {
-        "lyrics": "tracks/kizaru-x-geekey-zabudem-pro-nih-d464cd03791b.json",
-        "meta": "tracks/kizaru-x-geekey-zabudem-pro-nih-d464cd03791b.meta.json",
-        "annotations": "tracks/kizaru-x-geekey-zabudem-pro-nih-d464cd03791b.annotations.json",
-        "translations": []
-      },
-      "sourcePath": "local:226004921.mp3",
-      "mtimeMs": 1785254419270
-    },
-    {
       "title": "PUST' ETOT MIR",
       "artist": "YVN KXX x 13M13",
       "originalTrackName": "YVN KXX x 13M13 - PUST' ETOT MIR",
@@ -20971,6 +20971,36 @@
       },
       "sourcePath": "/tmp/chromic-downloads2/2-cocaine-shawty.mp3",
       "mtimeMs": 1785420022305
+    },
+    {
+      "title": "Predstavlyayu Sever",
+      "artist": "YVN KXX",
+      "originalTrackName": "YVN KXX - Predstavlyayu Sever",
+      "source": "whisper_only",
+      "file": "tracks/yvn-kxx-predstavlyayu-sever-23eb4288f92f.json",
+      "files": {
+        "lyrics": "tracks/yvn-kxx-predstavlyayu-sever-23eb4288f92f.json",
+        "meta": "tracks/yvn-kxx-predstavlyayu-sever-23eb4288f92f.meta.json",
+        "annotations": "tracks/yvn-kxx-predstavlyayu-sever-23eb4288f92f.annotations.json",
+        "translations": {}
+      },
+      "sourcePath": "/tmp/chromic-downloads3/1-predstavlyayu-sever.mp3",
+      "mtimeMs": 1785490432617
+    },
+    {
+      "title": "Zabudem Pro Nih",
+      "artist": "Kizaru x Geekey",
+      "originalTrackName": "Kizaru x Geekey - Zabudem Pro Nih",
+      "source": "whisper_only",
+      "file": "tracks/kizaru-x-geekey-zabudem-pro-nih-bfcab2f1ee14.json",
+      "files": {
+        "lyrics": "tracks/kizaru-x-geekey-zabudem-pro-nih-bfcab2f1ee14.json",
+        "meta": "tracks/kizaru-x-geekey-zabudem-pro-nih-bfcab2f1ee14.meta.json",
+        "annotations": "tracks/kizaru-x-geekey-zabudem-pro-nih-bfcab2f1ee14.annotations.json",
+        "translations": {}
+      },
+      "sourcePath": "/tmp/chromic-downloads3/2-zabudem-pro-nih.mp3",
+      "mtimeMs": 1785490433137
     }
   ]
 }

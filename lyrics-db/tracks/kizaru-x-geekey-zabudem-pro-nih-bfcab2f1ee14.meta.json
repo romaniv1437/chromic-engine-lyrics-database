@@ -1,0 +1,57 @@
+{
+  "track_title": "Zabudem Pro Nih",
+  "artist": "Kizaru x Geekey",
+  "lyrics_source": "whisper_only",
+  "line_timestamps_source": "blind-whisper",
+  "has_annotations": false,
+  "singers": [
+    {
+      "id": "singer1",
+      "role": "lead",
+      "name": "Kizaru x Geekey"
+    }
+  ],
+  "quality": {
+    "score": 0.7,
+    "label": "medium",
+    "timing_confidence": 1,
+    "anchor_audio_coverage": null,
+    "lines": 43,
+    "vocal_cues": 5,
+    "words": 258,
+    "interpolated_words": 0,
+    "low_confidence_segments": 0,
+    "text_verified": false
+  },
+  "credits": {
+    "aligner_version": "2.0.0",
+    "generated_at": "2026-07-31T09:33:52+00:00",
+    "method": "Whisper supplies word-level timing; a verified official-lyrics anchor supplies the text. With no anchor the text is pure Whisper ASR.",
+    "language": null,
+    "lyrics_text": {
+      "source": "whisper_only",
+      "verified": false,
+      "anchor_used": false,
+      "anchor_rejected_wrong_song": false,
+      "providers": []
+    },
+    "timing": {
+      "engine": "mlx",
+      "library": "mlx-whisper",
+      "asr_model": "openai/whisper",
+      "model_size": "medium",
+      "description": "Apple MLX port of OpenAI Whisper"
+    },
+    "strategy": "blind-whisper",
+    "attribution": [
+      "Lyrics transcribed by OpenAI Whisper (unverified ASR — no official source matched)",
+      "Word timing by mlx-whisper (Whisper medium)"
+    ]
+  },
+  "blind_resegment": {
+    "status": "unchanged",
+    "batches": 7,
+    "applied": 0,
+    "words": 258
+  }
+}

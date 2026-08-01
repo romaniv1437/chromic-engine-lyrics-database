@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-01T10:40:34.080708+00:00",
-  "totalTracks": 745,
+  "generatedAt": "2026-08-01T11:38:00.364704+00:00",
+  "totalTracks": 746,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10518,6 +10518,23 @@
       "mtimeMs": 1785580834080,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "boy froot::boy froot x lil peep - with u til the end (ft. willowwitch) [prod. mista ouija]": {
+      "title": "BOY FROOT X LIL PEEP - WITH U TIL THE END (ft. WillowWitch) [prod. mista ouija]",
+      "artist": "BOY FROOT",
+      "originalTrackName": "BOY FROOT - BOY FROOT X LIL PEEP - WITH U TIL THE END (ft. WillowWitch) [prod. mista ouija]",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000134635853-lluo3q-original.jpg",
+      "file": "tracks/boy-froot-boy-froot-x-lil-peep-with-u-til-the-end-ft-willowwitch-prod--54bbcb19b565.json",
+      "files": {
+        "lyrics": "tracks/boy-froot-boy-froot-x-lil-peep-with-u-til-the-end-ft-willowwitch-prod--54bbcb19b565.json",
+        "meta": "tracks/boy-froot-boy-froot-x-lil-peep-with-u-til-the-end-ft-willowwitch-prod--54bbcb19b565.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/boyfroot/with-u-til-the-end-ft-willowwitch-prod-mista-ouija",
+      "mtimeMs": 1785584281398,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21034,6 +21051,23 @@
       "mtimeMs": 1785580834080,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "BOY FROOT X LIL PEEP - WITH U TIL THE END (ft. WillowWitch) [prod. mista ouija]",
+      "artist": "BOY FROOT",
+      "originalTrackName": "BOY FROOT - BOY FROOT X LIL PEEP - WITH U TIL THE END (ft. WillowWitch) [prod. mista ouija]",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000134635853-lluo3q-original.jpg",
+      "file": "tracks/boy-froot-boy-froot-x-lil-peep-with-u-til-the-end-ft-willowwitch-prod--54bbcb19b565.json",
+      "files": {
+        "lyrics": "tracks/boy-froot-boy-froot-x-lil-peep-with-u-til-the-end-ft-willowwitch-prod--54bbcb19b565.json",
+        "meta": "tracks/boy-froot-boy-froot-x-lil-peep-with-u-til-the-end-ft-willowwitch-prod--54bbcb19b565.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/boyfroot/with-u-til-the-end-ft-willowwitch-prod-mista-ouija",
+      "mtimeMs": 1785584281398,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

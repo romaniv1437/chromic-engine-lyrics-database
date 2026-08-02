@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-02T08:02:49.401517+00:00",
-  "totalTracks": 749,
+  "generatedAt": "2026-08-02T09:31:51.169754+00:00",
+  "totalTracks": 750,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10585,6 +10585,23 @@
       "mtimeMs": 1785657769400,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "hagen hdm::hagen hdm - softly descending memories (original mix) [minded music]": {
+      "title": "Hagen HDM - Softly Descending Memories (Original Mix) [Minded Music]",
+      "artist": "Hagen HDM",
+      "originalTrackName": "Hagen HDM - Hagen HDM - Softly Descending Memories (Original Mix) [Minded Music]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-zH8WsndbRZGB9drf-Br4TPA-original.png",
+      "file": "tracks/hagen-hdm-hagen-hdm-softly-descending-memories-original-mix-minded-mus-5b1a8702dcb8.json",
+      "files": {
+        "lyrics": "tracks/hagen-hdm-hagen-hdm-softly-descending-memories-original-mix-minded-mus-5b1a8702dcb8.json",
+        "meta": "tracks/hagen-hdm-hagen-hdm-softly-descending-memories-original-mix-minded-mus-5b1a8702dcb8.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/roaldvelden/hagen-hdm-softly-descending-memories-original-mix-minded-music-2",
+      "mtimeMs": 1785663111777,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21168,6 +21185,23 @@
       "mtimeMs": 1785657769400,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Hagen HDM - Softly Descending Memories (Original Mix) [Minded Music]",
+      "artist": "Hagen HDM",
+      "originalTrackName": "Hagen HDM - Hagen HDM - Softly Descending Memories (Original Mix) [Minded Music]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-zH8WsndbRZGB9drf-Br4TPA-original.png",
+      "file": "tracks/hagen-hdm-hagen-hdm-softly-descending-memories-original-mix-minded-mus-5b1a8702dcb8.json",
+      "files": {
+        "lyrics": "tracks/hagen-hdm-hagen-hdm-softly-descending-memories-original-mix-minded-mus-5b1a8702dcb8.json",
+        "meta": "tracks/hagen-hdm-hagen-hdm-softly-descending-memories-original-mix-minded-mus-5b1a8702dcb8.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/roaldvelden/hagen-hdm-softly-descending-memories-original-mix-minded-music-2",
+      "mtimeMs": 1785663111777,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

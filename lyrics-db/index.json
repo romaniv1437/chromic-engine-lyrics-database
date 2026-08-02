@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-01T11:38:13.810618+00:00",
-  "totalTracks": 746,
+  "generatedAt": "2026-08-02T00:41:34.482465+00:00",
+  "totalTracks": 747,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10535,6 +10535,22 @@
       "mtimeMs": 1785584293810,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "sk1 saya skull::long_time": {
+      "title": "long_time",
+      "artist": "sk1 saya skull",
+      "originalTrackName": "sk1 saya skull - long_time",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/sk1-saya-skull-long-time-34b68b90117c.json",
+      "files": {
+        "lyrics": "tracks/sk1-saya-skull-long-time-34b68b90117c.json",
+        "meta": "tracks/sk1-saya-skull-long-time-34b68b90117c.meta.json",
+        "translations": {
+          "zh": "tracks/sk1-saya-skull-long-time-34b68b90117c.zh.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/markease-roberts-8311/long_time",
+      "mtimeMs": 1785631294481
     }
   },
   "tracks": [
@@ -21068,6 +21084,22 @@
       "mtimeMs": 1785584293810,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "long_time",
+      "artist": "sk1 saya skull",
+      "originalTrackName": "sk1 saya skull - long_time",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/sk1-saya-skull-long-time-34b68b90117c.json",
+      "files": {
+        "lyrics": "tracks/sk1-saya-skull-long-time-34b68b90117c.json",
+        "meta": "tracks/sk1-saya-skull-long-time-34b68b90117c.meta.json",
+        "translations": {
+          "zh": "tracks/sk1-saya-skull-long-time-34b68b90117c.zh.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/markease-roberts-8311/long_time",
+      "mtimeMs": 1785631294481
     }
   ]
 }

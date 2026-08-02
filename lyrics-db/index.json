@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-02T09:32:03.814429+00:00",
-  "totalTracks": 750,
+  "generatedAt": "2026-08-02T22:46:22.001923+00:00",
+  "totalTracks": 751,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10602,6 +10602,23 @@
       "mtimeMs": 1785663123814,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "lil stace::getting money still sad too - ⭑lil peep⭑ x horse head": {
+      "title": "Getting Money Still Sad Too - ⭑LiL PEEP⭑ x Horse Head",
+      "artist": "lil stace",
+      "originalTrackName": "lil stace - Getting Money Still Sad Too - ⭑LiL PEEP⭑ x Horse Head",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000288757406-odk1ju-original.jpg",
+      "file": "tracks/lil-stace-getting-money-still-sad-too-lil-peep-x-horse-head-9f86ed84dd2c.json",
+      "files": {
+        "lyrics": "tracks/lil-stace-getting-money-still-sad-too-lil-peep-x-horse-head-9f86ed84dd2c.json",
+        "meta": "tracks/lil-stace-getting-money-still-sad-too-lil-peep-x-horse-head-9f86ed84dd2c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/stacey-bowhay/getting-money-still-sad-too-lil-peep-x-horse-head",
+      "mtimeMs": 1785710782875,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21202,6 +21219,23 @@
       "mtimeMs": 1785663123814,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Getting Money Still Sad Too - ⭑LiL PEEP⭑ x Horse Head",
+      "artist": "lil stace",
+      "originalTrackName": "lil stace - Getting Money Still Sad Too - ⭑LiL PEEP⭑ x Horse Head",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000288757406-odk1ju-original.jpg",
+      "file": "tracks/lil-stace-getting-money-still-sad-too-lil-peep-x-horse-head-9f86ed84dd2c.json",
+      "files": {
+        "lyrics": "tracks/lil-stace-getting-money-still-sad-too-lil-peep-x-horse-head-9f86ed84dd2c.json",
+        "meta": "tracks/lil-stace-getting-money-still-sad-too-lil-peep-x-horse-head-9f86ed84dd2c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/stacey-bowhay/getting-money-still-sad-too-lil-peep-x-horse-head",
+      "mtimeMs": 1785710782875,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-02T08:00:40.881441+00:00",
-  "totalTracks": 748,
+  "generatedAt": "2026-08-02T08:02:35.558894+00:00",
+  "totalTracks": 749,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10568,6 +10568,23 @@
       "mtimeMs": 1785657640880,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "pavel koreshkov::pavel koreshkov - senses of flowers (original mix) [swd079]": {
+      "title": "Pavel Koreshkov - Senses of Flowers (Original Mix) [SWD079]",
+      "artist": "Pavel Koreshkov",
+      "originalTrackName": "Pavel Koreshkov - Pavel Koreshkov - Senses of Flowers (Original Mix) [SWD079]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-zzetwH5lygSEpFBb-euywew-original.png",
+      "file": "tracks/pavel-koreshkov-pavel-koreshkov-senses-of-flowers-original-mix-swd079-e0b38159d5a9.json",
+      "files": {
+        "lyrics": "tracks/pavel-koreshkov-pavel-koreshkov-senses-of-flowers-original-mix-swd079-e0b38159d5a9.json",
+        "meta": "tracks/pavel-koreshkov-pavel-koreshkov-senses-of-flowers-original-mix-swd079-e0b38159d5a9.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/sunwavesdigital/pavel-koreshkov-senses-of",
+      "mtimeMs": 1785657757084,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21134,6 +21151,23 @@
       "mtimeMs": 1785657640880,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Pavel Koreshkov - Senses of Flowers (Original Mix) [SWD079]",
+      "artist": "Pavel Koreshkov",
+      "originalTrackName": "Pavel Koreshkov - Pavel Koreshkov - Senses of Flowers (Original Mix) [SWD079]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-zzetwH5lygSEpFBb-euywew-original.png",
+      "file": "tracks/pavel-koreshkov-pavel-koreshkov-senses-of-flowers-original-mix-swd079-e0b38159d5a9.json",
+      "files": {
+        "lyrics": "tracks/pavel-koreshkov-pavel-koreshkov-senses-of-flowers-original-mix-swd079-e0b38159d5a9.json",
+        "meta": "tracks/pavel-koreshkov-pavel-koreshkov-senses-of-flowers-original-mix-swd079-e0b38159d5a9.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/sunwavesdigital/pavel-koreshkov-senses-of",
+      "mtimeMs": 1785657757084,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

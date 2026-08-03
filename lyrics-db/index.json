@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T21:23:43.467222+00:00",
-  "totalTracks": 752,
+  "generatedAt": "2026-08-03T22:26:10.028951+00:00",
+  "totalTracks": 753,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10636,6 +10636,22 @@
       "mtimeMs": 1785792223466,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "aaja music::pass the time w/ ally tropical, dc fslman & matt cowell - aaja channel 1 - 23 07 26": {
+      "title": "Pass The Time w/ Ally Tropical, DC FSLMan & Matt Cowell - Aaja Channel 1 - 23 07 26",
+      "artist": "Aaja Music",
+      "originalTrackName": "Aaja Music - Pass The Time w/ Ally Tropical, DC FSLMan & Matt Cowell - Aaja Channel 1 - 23 07 26",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/aaja-music-pass-the-time-w-ally-tropical-dc-fslman-matt-cowell-aaja-ch-0e58ddd5a5b3.json",
+      "files": {
+        "lyrics": "tracks/aaja-music-pass-the-time-w-ally-tropical-dc-fslman-matt-cowell-aaja-ch-0e58ddd5a5b3.json",
+        "meta": "tracks/aaja-music-pass-the-time-w-ally-tropical-dc-fslman-matt-cowell-aaja-ch-0e58ddd5a5b3.meta.json",
+        "translations": {
+          "de": "tracks/aaja-music-pass-the-time-w-ally-tropical-dc-fslman-matt-cowell-aaja-ch-0e58ddd5a5b3.de.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/aajaradio/pass-the-time-aaja-channel-1",
+      "mtimeMs": 1785795970028
     }
   },
   "tracks": [
@@ -21270,6 +21286,22 @@
       "mtimeMs": 1785792223466,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Pass The Time w/ Ally Tropical, DC FSLMan & Matt Cowell - Aaja Channel 1 - 23 07 26",
+      "artist": "Aaja Music",
+      "originalTrackName": "Aaja Music - Pass The Time w/ Ally Tropical, DC FSLMan & Matt Cowell - Aaja Channel 1 - 23 07 26",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/aaja-music-pass-the-time-w-ally-tropical-dc-fslman-matt-cowell-aaja-ch-0e58ddd5a5b3.json",
+      "files": {
+        "lyrics": "tracks/aaja-music-pass-the-time-w-ally-tropical-dc-fslman-matt-cowell-aaja-ch-0e58ddd5a5b3.json",
+        "meta": "tracks/aaja-music-pass-the-time-w-ally-tropical-dc-fslman-matt-cowell-aaja-ch-0e58ddd5a5b3.meta.json",
+        "translations": {
+          "de": "tracks/aaja-music-pass-the-time-w-ally-tropical-dc-fslman-matt-cowell-aaja-ch-0e58ddd5a5b3.de.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/aajaradio/pass-the-time-aaja-channel-1",
+      "mtimeMs": 1785795970028
     }
   ]
 }

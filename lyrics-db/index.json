@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-02T22:46:31.754282+00:00",
-  "totalTracks": 751,
+  "generatedAt": "2026-08-03T21:23:24.920886+00:00",
+  "totalTracks": 752,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10619,6 +10619,23 @@
       "mtimeMs": 1785710791753,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "lil peep::crybaby (prod. lederrick x lil peep)": {
+      "title": "crybaby (prod. lederrick x lil peep)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - crybaby (prod. lederrick x lil peep)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000166871405-xit2ej-original.jpg",
+      "file": "tracks/lil-peep-crybaby-prod-lederrick-x-lil-peep-4ce0dad4be3b.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-crybaby-prod-lederrick-x-lil-peep-4ce0dad4be3b.json",
+        "meta": "tracks/lil-peep-crybaby-prod-lederrick-x-lil-peep-4ce0dad4be3b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/crybaby-prod-lederrick-x-lil-peep",
+      "mtimeMs": 1785792206112,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21236,6 +21253,23 @@
       "mtimeMs": 1785710791753,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "crybaby (prod. lederrick x lil peep)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - crybaby (prod. lederrick x lil peep)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000166871405-xit2ej-original.jpg",
+      "file": "tracks/lil-peep-crybaby-prod-lederrick-x-lil-peep-4ce0dad4be3b.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-crybaby-prod-lederrick-x-lil-peep-4ce0dad4be3b.json",
+        "meta": "tracks/lil-peep-crybaby-prod-lederrick-x-lil-peep-4ce0dad4be3b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/crybaby-prod-lederrick-x-lil-peep",
+      "mtimeMs": 1785792206112,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

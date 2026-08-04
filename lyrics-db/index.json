@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T14:51:06.188355+00:00",
-  "totalTracks": 755,
+  "generatedAt": "2026-08-04T20:57:19.582375+00:00",
+  "totalTracks": 756,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10686,6 +10686,23 @@
       "mtimeMs": 1785855066187,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "3umph & dope17::hennessy": {
+      "title": "Hennessy",
+      "artist": "3umph & dope17",
+      "originalTrackName": "3umph & dope17 - Hennessy",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-pS0ETc7Znx3rOx9Z-zSsnxg-original.png",
+      "file": "tracks/3umph-dope17-hennessy-b87657600d61.json",
+      "files": {
+        "lyrics": "tracks/3umph-dope17-hennessy-b87657600d61.json",
+        "meta": "tracks/3umph-dope17-hennessy-b87657600d61.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/eclipsemediastarz/hennessy-3",
+      "mtimeMs": 1785877040101,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21370,6 +21387,23 @@
       "mtimeMs": 1785855066187,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Hennessy",
+      "artist": "3umph & dope17",
+      "originalTrackName": "3umph & dope17 - Hennessy",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-pS0ETc7Znx3rOx9Z-zSsnxg-original.png",
+      "file": "tracks/3umph-dope17-hennessy-b87657600d61.json",
+      "files": {
+        "lyrics": "tracks/3umph-dope17-hennessy-b87657600d61.json",
+        "meta": "tracks/3umph-dope17-hennessy-b87657600d61.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/eclipsemediastarz/hennessy-3",
+      "mtimeMs": 1785877040101,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

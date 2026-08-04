@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T22:28:15.772235+00:00",
-  "totalTracks": 753,
+  "generatedAt": "2026-08-04T14:50:30.382619+00:00",
+  "totalTracks": 754,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10652,6 +10652,23 @@
       },
       "sourcePath": "https://soundcloud.com/aajaradio/pass-the-time-aaja-channel-1",
       "mtimeMs": 1785796095771
+    },
+    "lil peep::better off [dying] (prod. by smokeasac & iivi)": {
+      "title": "Better Off [Dying] (prod. by smokeasac & IIVI)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Better Off [Dying] (prod. by smokeasac & IIVI)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000238295961-hxjyjq-original.jpg",
+      "file": "tracks/lil-peep-better-off-dying-prod-by-smokeasac-iivi-05d4be9decaf.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-better-off-dying-prod-by-smokeasac-iivi-05d4be9decaf.json",
+        "meta": "tracks/lil-peep-better-off-dying-prod-by-smokeasac-iivi-05d4be9decaf.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/better-off-dying",
+      "mtimeMs": 1785855030955,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21302,6 +21319,23 @@
       },
       "sourcePath": "https://soundcloud.com/aajaradio/pass-the-time-aaja-channel-1",
       "mtimeMs": 1785796095771
+    },
+    {
+      "title": "Better Off [Dying] (prod. by smokeasac & IIVI)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Better Off [Dying] (prod. by smokeasac & IIVI)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000238295961-hxjyjq-original.jpg",
+      "file": "tracks/lil-peep-better-off-dying-prod-by-smokeasac-iivi-05d4be9decaf.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-better-off-dying-prod-by-smokeasac-iivi-05d4be9decaf.json",
+        "meta": "tracks/lil-peep-better-off-dying-prod-by-smokeasac-iivi-05d4be9decaf.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/better-off-dying",
+      "mtimeMs": 1785855030955,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T20:57:34.974826+00:00",
-  "totalTracks": 756,
+  "generatedAt": "2026-08-04T23:08:48.731333+00:00",
+  "totalTracks": 757,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10703,6 +10703,23 @@
       "mtimeMs": 1785877054974,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "lil peep::lil peep - vibe": {
+      "title": "lil peep - Vibe",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - lil peep - Vibe",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000220541153-w5y6hy-original.jpg",
+      "file": "tracks/lil-peep-lil-peep-vibe-3c55b5d025d3.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-vibe-3c55b5d025d3.json",
+        "meta": "tracks/lil-peep-lil-peep-vibe-3c55b5d025d3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ouijaboard/lil-peep-vibe",
+      "mtimeMs": 1785884929920,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21404,6 +21421,23 @@
       "mtimeMs": 1785877054974,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "lil peep - Vibe",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - lil peep - Vibe",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000220541153-w5y6hy-original.jpg",
+      "file": "tracks/lil-peep-lil-peep-vibe-3c55b5d025d3.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-vibe-3c55b5d025d3.json",
+        "meta": "tracks/lil-peep-lil-peep-vibe-3c55b5d025d3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ouijaboard/lil-peep-vibe",
+      "mtimeMs": 1785884929920,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

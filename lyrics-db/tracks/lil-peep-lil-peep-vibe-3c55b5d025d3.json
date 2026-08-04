@@ -2,18 +2,18 @@
   "lines": [
     {
       "text": "I been spendin' time, time after time",
-      "startTime": 18.9,
+      "startTime": 18.92,
       "endTime": 23.54,
       "words": [
         {
           "word": "I",
-          "start": 19.25,
-          "end": 19.66,
+          "start": 19.27,
+          "end": 19.64,
           "spoken": true
         },
         {
           "word": "been",
-          "start": 19.66,
+          "start": 19.64,
           "end": 19.98,
           "spoken": true
         },
@@ -36,25 +36,25 @@
         {
           "word": "time,",
           "start": 21.09,
-          "end": 21.86,
+          "end": 21.84,
           "char_starts": [
             21.09,
-            21.182,
-            21.307,
-            21.454,
-            21.62
+            21.18,
+            21.301,
+            21.444,
+            21.604
           ],
           "spoken": true
         },
         {
           "word": "time",
-          "start": 21.86,
-          "end": 22.28,
+          "start": 21.84,
+          "end": 22.26,
           "spoken": true
         },
         {
           "word": "after",
-          "start": 22.28,
+          "start": 22.26,
           "end": 22.64,
           "spoken": true
         },
@@ -64,31 +64,30 @@
           "end": 23.54,
           "char_starts": [
             22.64,
-            22.781,
-            23.049,
+            22.775,
+            23.041,
             23.405
-          ],
-          "spoken": true
+          ]
         }
       ],
-      "time": 18.9,
+      "time": 18.92,
       "end": 23.54
     },
     {
       "text": "Tryna get my mind right, but I just find I been lyin'",
-      "startTime": 23.82,
+      "startTime": 23.74,
       "endTime": 28.2,
       "words": [
         {
           "word": "Tryna",
-          "start": 24.099,
+          "start": 24.088,
           "end": 24.48,
           "char_starts": [
-            24.099,
-            24.145,
-            24.191,
-            24.245,
-            24.308
+            24.088,
+            24.135,
+            24.182,
+            24.232,
+            24.292
           ],
           "spoken": true
         },
@@ -111,7 +110,8 @@
         {
           "word": "right,",
           "start": 25.26,
-          "end": 25.66
+          "end": 25.66,
+          "spoken": true
         },
         {
           "word": "but",
@@ -143,40 +143,40 @@
         {
           "word": "been",
           "start": 27.266,
-          "end": 27.5
+          "end": 27.44
         },
         {
           "word": "lyin'",
-          "start": 27.546,
+          "start": 27.533,
           "end": 28.2,
           "char_starts": [
-            27.546,
-            27.641,
-            27.778,
-            27.94,
+            27.533,
+            27.631,
+            27.772,
+            27.937,
             28.121
           ],
           "spoken": true
         }
       ],
-      "time": 23.82,
+      "time": 23.74,
       "end": 28.2
     },
     {
       "text": "Lyin' to myself, I don't need your help",
-      "startTime": 28.38,
+      "startTime": 28.48,
       "endTime": 32.34,
       "words": [
         {
           "word": "Lyin'",
-          "start": 28.682,
+          "start": 28.666,
           "end": 29.14,
           "char_starts": [
-            28.682,
-            28.737,
-            28.805,
-            28.887,
-            28.979
+            28.666,
+            28.723,
+            28.801,
+            28.894,
+            28.998
           ],
           "spoken": true
         },
@@ -189,37 +189,37 @@
         {
           "word": "myself,",
           "start": 29.3,
-          "end": 30.06,
+          "end": 30.16,
           "char_starts": [
             29.3,
-            29.365,
-            29.446,
-            29.543,
-            29.651,
-            29.769,
-            29.897
+            29.374,
+            29.465,
+            29.575,
+            29.698,
+            29.832,
+            29.976
           ],
           "spoken": true
         },
         {
           "word": "I",
-          "start": 30.408,
-          "end": 31.18,
+          "start": 30.415,
+          "end": 31.2,
           "spoken": true
         },
         {
           "word": "don't",
-          "start": 31.18,
+          "start": 31.2,
           "end": 31.44
         },
         {
           "word": "need",
           "start": 31.44,
-          "end": 31.7
+          "end": 31.68
         },
         {
           "word": "your",
-          "start": 31.7,
+          "start": 31.68,
           "end": 31.92
         },
         {
@@ -228,13 +228,13 @@
           "end": 32.34
         }
       ],
-      "time": 28.38,
+      "time": 28.48,
       "end": 32.34
     },
     {
       "text": "I been just fine on my own, baby, I could handle mine",
       "startTime": 32.36,
-      "endTime": 37.08,
+      "endTime": 37.14,
       "words": [
         {
           "word": "I",
@@ -250,11 +250,11 @@
         {
           "word": "just",
           "start": 33.72,
-          "end": 34.08
+          "end": 34.06
         },
         {
           "word": "fine",
-          "start": 34.272,
+          "start": 34.264,
           "end": 34.4
         },
         {
@@ -274,122 +274,121 @@
         },
         {
           "word": "baby,",
-          "start": 35.412,
-          "end": 35.58
+          "start": 35.448,
+          "end": 35.64
         },
         {
           "word": "I",
-          "start": 35.58,
-          "end": 35.78
+          "start": 35.64,
+          "end": 35.8
         },
         {
           "word": "could",
-          "start": 35.78,
-          "end": 36.04
+          "start": 35.8,
+          "end": 36.02
         },
         {
           "word": "handle",
-          "start": 36.04,
+          "start": 36.02,
           "end": 36.36,
           "spoken": true
         },
         {
           "word": "mine",
           "start": 36.43,
-          "end": 37.08,
+          "end": 37.14,
           "char_starts": [
             36.43,
-            36.527,
-            36.674,
-            36.873
+            36.536,
+            36.697,
+            36.915
           ],
           "spoken": true
         }
       ],
       "time": 32.36,
-      "end": 37.08
+      "end": 37.14
     },
     {
       "text": "I could multiply, I could satisfy",
-      "startTime": 37.08,
-      "endTime": 41.92,
+      "startTime": 37.14,
+      "endTime": 41.86,
       "words": [
         {
           "word": "I",
-          "start": 37.43,
-          "end": 38.12,
+          "start": 37.49,
+          "end": 38.1,
           "spoken": true
         },
         {
           "word": "could",
-          "start": 38.166,
-          "end": 38.3
+          "start": 38.146,
+          "end": 38.32
         },
         {
           "word": "multiply,",
-          "start": 38.416,
-          "end": 40.28,
+          "start": 38.436,
+          "end": 40.26,
           "char_starts": [
-            38.416,
-            38.54,
-            38.664,
-            38.794,
-            38.94,
-            39.099,
-            39.268,
-            39.447,
-            39.634
+            38.436,
+            38.558,
+            38.68,
+            38.807,
+            38.95,
+            39.105,
+            39.27,
+            39.445,
+            39.628
           ],
           "spoken": true
         },
         {
           "word": "I",
-          "start": 40.28,
-          "end": 40.38,
-          "spoken": true
+          "start": 40.26,
+          "end": 40.38
         },
         {
           "word": "could",
           "start": 40.38,
-          "end": 40.7,
+          "end": 40.68,
           "spoken": true
         },
         {
           "word": "satisfy",
-          "start": 41.002,
-          "end": 41.92,
+          "start": 41.005,
+          "end": 41.86,
           "char_starts": [
-            41.002,
-            41.081,
-            41.16,
-            41.239,
-            41.331,
-            41.436,
-            41.552
+            41.005,
+            41.078,
+            41.151,
+            41.229,
+            41.322,
+            41.428,
+            41.547
           ],
           "spoken": true
         }
       ],
-      "time": 37.08,
-      "end": 41.92
+      "time": 37.14,
+      "end": 41.86
     },
     {
       "text": "Anybody tryna see me shine, man, that's just the way I grind",
-      "startTime": 41.92,
-      "endTime": 46.58,
+      "startTime": 41.86,
+      "endTime": 46.46,
       "words": [
         {
           "word": "Anybody",
-          "start": 42.27,
+          "start": 42.21,
           "end": 43.08,
           "char_starts": [
-            42.27,
-            42.339,
-            42.408,
-            42.48,
-            42.566,
-            42.665,
-            42.775
+            42.21,
+            42.285,
+            42.36,
+            42.435,
+            42.519,
+            42.614,
+            42.719
           ]
         },
         {
@@ -405,7 +404,8 @@
         {
           "word": "me",
           "start": 43.82,
-          "end": 44.1
+          "end": 44.1,
+          "spoken": true
         },
         {
           "word": "shine,",
@@ -416,31 +416,29 @@
         {
           "word": "man,",
           "start": 44.38,
-          "end": 44.64,
+          "end": 44.62,
           "spoken": true
         },
         {
           "word": "that's",
-          "start": 44.733,
-          "end": 44.84,
+          "start": 44.736,
+          "end": 44.88,
           "spoken": true
         },
         {
           "word": "just",
-          "start": 44.84,
-          "end": 45.08,
-          "spoken": true
+          "start": 44.88,
+          "end": 45.06
         },
         {
           "word": "the",
-          "start": 45.08,
+          "start": 45.06,
           "end": 45.24
         },
         {
           "word": "way",
           "start": 45.24,
-          "end": 45.36,
-          "spoken": true
+          "end": 45.36
         },
         {
           "word": "I",
@@ -449,29 +447,29 @@
         },
         {
           "word": "grind",
-          "start": 45.886,
-          "end": 46.58,
+          "start": 45.863,
+          "end": 46.46,
           "char_starts": [
-            45.886,
-            45.969,
-            46.087,
-            46.229,
-            46.388
+            45.863,
+            45.935,
+            46.037,
+            46.159,
+            46.295
           ],
           "spoken": true
         }
       ],
-      "time": 41.92,
-      "end": 46.58
+      "time": 41.86,
+      "end": 46.46
     },
     {
       "text": "I been on my grind, you been on my line",
-      "startTime": 46.58,
-      "endTime": 51.08,
+      "startTime": 46.46,
+      "endTime": 51.1,
       "words": [
         {
           "word": "I",
-          "start": 46.719,
+          "start": 46.715,
           "end": 47.24,
           "spoken": true
         },
@@ -483,15 +481,14 @@
         },
         {
           "word": "on",
-          "start": 47.579,
+          "start": 47.584,
           "end": 47.68,
           "spoken": true
         },
         {
           "word": "my",
           "start": 47.68,
-          "end": 47.94,
-          "spoken": true
+          "end": 47.94
         },
         {
           "word": "grind,",
@@ -515,52 +512,52 @@
         {
           "word": "been",
           "start": 49.28,
-          "end": 49.76,
-          "spoken": true
+          "end": 49.76
         },
         {
           "word": "on",
           "start": 49.76,
-          "end": 49.98
+          "end": 49.98,
+          "sung": true
         },
         {
           "word": "my",
-          "start": 50.148,
-          "end": 50.26,
+          "start": 50.16,
+          "end": 50.28,
           "spoken": true
         },
         {
           "word": "line",
-          "start": 50.26,
-          "end": 51.08,
+          "start": 50.443,
+          "end": 51.1,
           "char_starts": [
-            50.26,
-            50.383,
-            50.579,
-            50.843
+            50.443,
+            50.542,
+            50.682,
+            50.869
           ],
           "spoken": true
         }
       ],
-      "time": 46.58,
-      "end": 51.08
+      "time": 46.46,
+      "end": 51.1
     },
     {
       "text": "That's the reason why I been workin' hard, you could stand aside",
-      "startTime": 51.08,
-      "endTime": 55.5,
+      "startTime": 51.1,
+      "endTime": 55.54,
       "words": [
         {
           "word": "That's",
-          "start": 51.43,
+          "start": 51.45,
           "end": 51.96,
           "char_starts": [
-            51.43,
-            51.483,
-            51.542,
-            51.612,
-            51.691,
-            51.776
+            51.45,
+            51.501,
+            51.558,
+            51.625,
+            51.699,
+            51.781
           ],
           "spoken": true
         },
@@ -587,48 +584,49 @@
         {
           "word": "been",
           "start": 52.94,
-          "end": 53.18
+          "end": 53.16
         },
         {
           "word": "workin'",
-          "start": 53.18,
-          "end": 53.76
+          "start": 53.16,
+          "end": 53.74,
+          "spoken": true
         },
         {
           "word": "hard,",
-          "start": 53.832,
-          "end": 53.88
+          "start": 53.836,
+          "end": 53.9
         },
         {
           "word": "you",
-          "start": 53.88,
-          "end": 54.08
+          "start": 53.9,
+          "end": 54.16
         },
         {
           "word": "could",
-          "start": 54.08,
-          "end": 54.38
+          "start": 54.16,
+          "end": 54.4
         },
         {
           "word": "stand",
-          "start": 54.38,
-          "end": 54.62
+          "start": 54.4,
+          "end": 54.64
         },
         {
           "word": "aside",
-          "start": 54.736,
-          "end": 55.5,
+          "start": 54.756,
+          "end": 55.54,
           "char_starts": [
-            54.736,
-            54.828,
-            54.937,
-            55.081,
-            55.255
+            54.756,
+            54.85,
+            54.962,
+            55.11,
+            55.289
           ]
         }
       ],
-      "time": 51.08,
-      "end": 55.5
+      "time": 51.1,
+      "end": 55.54
     },
     {
       "text": "I could never die, I got too much pride",
@@ -952,7 +950,7 @@
     {
       "text": "That's why she always cryin' to me, I'll live forever through my vibe",
       "startTime": 70.94,
-      "endTime": 73.94,
+      "endTime": 74.02,
       "words": [
         {
           "word": "That's",
@@ -972,47 +970,41 @@
         {
           "word": "always",
           "start": 71.27,
-          "end": 71.37,
-          "spoken": true
+          "end": 71.37
         },
         {
           "word": "cryin'",
           "start": 71.38,
-          "end": 71.48,
-          "spoken": true
+          "end": 71.48
         },
         {
           "word": "to",
           "start": 71.49,
-          "end": 71.59,
-          "spoken": true
+          "end": 71.59
         },
         {
           "word": "me,",
           "start": 71.6,
-          "end": 71.7,
-          "spoken": true
+          "end": 71.7
         },
         {
           "word": "I'll",
           "start": 71.71,
-          "end": 71.84,
-          "spoken": true
+          "end": 71.86
         },
         {
           "word": "live",
-          "start": 71.84,
-          "end": 71.96,
-          "spoken": true
+          "start": 71.86,
+          "end": 71.94
         },
         {
           "word": "forever",
-          "start": 72.215,
-          "end": 72.42
+          "start": 72.195,
+          "end": 72.44
         },
         {
           "word": "through",
-          "start": 72.42,
+          "start": 72.44,
           "end": 72.74
         },
         {
@@ -1023,95 +1015,95 @@
         {
           "word": "vibe",
           "start": 73.335,
-          "end": 73.94,
+          "end": 74.02,
           "char_starts": [
             73.335,
-            73.426,
-            73.544,
-            73.701
-          ]
+            73.438,
+            73.576,
+            73.758
+          ],
+          "spoken": true
         }
       ],
       "time": 70.94,
-      "end": 73.94
+      "end": 74.02
     },
     {
       "text": "That's why she always cryin' to me, I'll live forever through my vibe",
-      "startTime": 73.94,
+      "startTime": 74.02,
       "endTime": 78.71,
       "words": [
         {
           "word": "That's",
-          "start": 74.241,
-          "end": 74.442,
+          "start": 74.316,
+          "end": 74.514,
           "spoken": true
         },
         {
           "word": "why",
-          "start": 74.442,
-          "end": 74.693,
-          "spoken": true
+          "start": 74.524,
+          "end": 74.761
         },
         {
           "word": "she",
-          "start": 74.693,
-          "end": 74.944
+          "start": 74.771,
+          "end": 75.007
         },
         {
           "word": "always",
-          "start": 75.176,
-          "end": 75.446,
+          "start": 75.193,
+          "end": 75.501,
           "spoken": true
         },
         {
           "word": "cryin'",
-          "start": 75.446,
-          "end": 75.948
+          "start": 75.501,
+          "end": 75.995
         },
         {
           "word": "to",
-          "start": 75.948,
-          "end": 76.116
+          "start": 76.005,
+          "end": 76.159
         },
         {
           "word": "me,",
-          "start": 76.219,
-          "end": 76.367
+          "start": 76.229,
+          "end": 76.406
         },
         {
           "word": "I'll",
-          "start": 76.377,
-          "end": 76.702
+          "start": 76.406,
+          "end": 76.735
         },
         {
           "word": "live",
           "start": 76.828,
-          "end": 77.036
+          "end": 77.064
         },
         {
           "word": "forever",
-          "start": 77.036,
-          "end": 77.622
+          "start": 77.064,
+          "end": 77.64
         },
         {
           "word": "through",
-          "start": 77.97,
-          "end": 78.208,
+          "start": 77.986,
+          "end": 78.216,
           "spoken": true
         },
         {
           "word": "my",
-          "start": 78.218,
-          "end": 78.375,
+          "start": 78.216,
+          "end": 78.381,
           "spoken": true
         },
         {
           "word": "vibe",
-          "start": 78.375,
+          "start": 78.391,
           "end": 78.71
         }
       ],
-      "time": 73.94,
+      "time": 74.02,
       "end": 78.71
     }
   ],
@@ -1134,7 +1126,7 @@
         "other": true
       },
       "generated_by": "haptic.py v4",
-      "event_count": 1559
+      "event_count": 1573
     },
     "events": [
       {
@@ -1146,7 +1138,7 @@
       },
       {
         "t": 0.243,
-        "i": 0.22,
+        "i": 0.23,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -1178,13 +1170,6 @@
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
-      },
-      {
-        "t": 1.231,
-        "i": 0.08,
-        "d": 30,
-        "tp": "guitar_slide",
-        "prio": 5
       },
       {
         "t": 1.277,
@@ -1279,17 +1264,59 @@
       },
       {
         "t": 4.69,
+        "i": 0.44,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 4.69,
         "i": 0.08,
         "d": 30,
         "tp": "guitar_slide",
         "prio": 5
       },
       {
-        "t": 4.969,
-        "i": 0.08,
-        "d": 30,
-        "tp": "guitar_slide",
-        "prio": 5
+        "t": 4.73,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 4.77,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 4.81,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 4.85,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 4.89,
+        "i": 0.3,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 4.93,
+        "i": 0.29,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
         "t": 5.248,
@@ -1342,7 +1369,7 @@
       },
       {
         "t": 5.511,
-        "i": 0.19,
+        "i": 0.18,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -1356,7 +1383,7 @@
       },
       {
         "t": 5.851,
-        "i": 0.34,
+        "i": 0.33,
         "d": 30,
         "tp": "bass_slide",
         "prio": 5
@@ -1370,7 +1397,7 @@
       },
       {
         "t": 5.891,
-        "i": 0.21,
+        "i": 0.2,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -1474,11 +1501,11 @@
         "prio": 5
       },
       {
-        "t": 6.687,
-        "i": 0.1,
-        "d": 10,
-        "tp": "guitar_pick",
-        "prio": 6
+        "t": 6.711,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
       },
       {
         "t": 6.85,
@@ -1517,10 +1544,10 @@
       },
       {
         "t": 8.429,
-        "i": 0.09,
-        "d": 10,
-        "tp": "guitar_pick",
-        "prio": 6
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
       },
       {
         "t": 8.707,
@@ -1537,50 +1564,57 @@
         "prio": 6
       },
       {
-        "t": 9.242,
+        "t": 9.265,
         "i": 0.34,
         "d": 30,
         "tp": "bass_slide",
         "prio": 5
       },
       {
-        "t": 9.282,
-        "i": 0.22,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 9.265,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
       },
       {
-        "t": 9.322,
+        "t": 9.305,
         "i": 0.25,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 9.362,
-        "i": 0.23,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 9.402,
-        "i": 0.21,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 9.442,
+        "t": 9.345,
         "i": 0.22,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 9.482,
+        "t": 9.385,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 9.425,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 9.465,
         "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 9.505,
+        "i": 0.22,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -1593,6 +1627,13 @@
         "prio": 6
       },
       {
+        "t": 9.66,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
         "t": 9.868,
         "i": 0.08,
         "d": 30,
@@ -1600,11 +1641,53 @@
         "prio": 5
       },
       {
-        "t": 9.961,
-        "i": 0.02,
+        "t": 9.892,
+        "i": 0.26,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 9.932,
+        "i": 0.17,
         "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 9.972,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 10.012,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 10.052,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 10.092,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 10.132,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
         "t": 10.17,
@@ -1628,7 +1711,7 @@
         "prio": 5
       },
       {
-        "t": 11.029,
+        "t": 11.053,
         "i": 0.09,
         "d": 10,
         "tp": "guitar_pick",
@@ -1649,13 +1732,6 @@
         "prio": 5
       },
       {
-        "t": 11.587,
-        "i": 0.02,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
-      },
-      {
         "t": 11.889,
         "i": 0.08,
         "d": 30,
@@ -1664,17 +1740,17 @@
       },
       {
         "t": 12.167,
-        "i": 0.08,
+        "i": 0.09,
         "d": 30,
         "tp": "guitar_slide",
         "prio": 5
       },
       {
         "t": 12.469,
-        "i": 0.09,
-        "d": 30,
-        "tp": "guitar_slide",
-        "prio": 5
+        "i": 0.1,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
       },
       {
         "t": 12.655,
@@ -1691,6 +1767,13 @@
         "prio": 6
       },
       {
+        "t": 12.725,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
         "t": 13.003,
         "i": 0.09,
         "d": 30,
@@ -1698,8 +1781,57 @@
         "prio": 5
       },
       {
+        "t": 13.026,
+        "i": 0.24,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 13.066,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 13.106,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 13.146,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 13.186,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 13.226,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 13.266,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
         "t": 13.305,
-        "i": 0.09,
+        "i": 0.1,
         "d": 10,
         "tp": "guitar_pick",
         "prio": 6
@@ -1719,18 +1851,18 @@
         "prio": 3
       },
       {
+        "t": 13.839,
+        "i": 0.09,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
         "t": 13.862,
         "i": 0.3,
         "d": 30,
         "tp": "bass_slide",
         "prio": 5
-      },
-      {
-        "t": 13.862,
-        "i": 0.11,
-        "d": 10,
-        "tp": "guitar_pick",
-        "prio": 6
       },
       {
         "t": 13.902,
@@ -1803,6 +1935,55 @@
         "prio": 5
       },
       {
+        "t": 15.302,
+        "i": 0.6,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 15.342,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.382,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.422,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.462,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.502,
+        "i": 0.13,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.542,
+        "i": 0.12,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
         "t": 15.581,
         "i": 0.08,
         "d": 30,
@@ -1859,7 +2040,7 @@
         "prio": 6
       },
       {
-        "t": 17.601,
+        "t": 17.578,
         "i": 0.08,
         "d": 30,
         "tp": "guitar_slide",
@@ -1888,7 +2069,7 @@
       },
       {
         "t": 18.413,
-        "i": 0.44,
+        "i": 0.46,
         "d": 12,
         "tp": "snare",
         "prio": 9
@@ -1908,13 +2089,6 @@
         "prio": 6
       },
       {
-        "t": 18.413,
-        "i": 0.02,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
-      },
-      {
         "t": 18.493,
         "i": 0.15,
         "d": 35,
@@ -1923,7 +2097,7 @@
       },
       {
         "t": 18.53,
-        "i": 0.38,
+        "i": 0.37,
         "d": 30,
         "tp": "bass_slide",
         "prio": 5
@@ -1937,7 +2111,7 @@
       },
       {
         "t": 18.61,
-        "i": 0.28,
+        "i": 0.27,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -1973,13 +2147,13 @@
       {
         "t": 18.994,
         "i": 0.23,
-        "d": 25,
-        "tp": "crash",
+        "d": 12,
+        "tp": "snare",
         "prio": 9
       },
       {
         "t": 19.319,
-        "i": 0.09,
+        "i": 0.06,
         "d": 10,
         "tp": "guitar_pick",
         "prio": 6
@@ -1993,8 +2167,16 @@
         "txt": "I"
       },
       {
-        "t": 19.506,
-        "i": 0.01,
+        "t": 19.501,
+        "i": 0.03,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "I"
+      },
+      {
+        "t": 19.548,
+        "i": 0.07,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -2002,24 +2184,25 @@
       },
       {
         "t": 19.551,
-        "i": 0.78,
+        "i": 0.55,
         "d": 25,
         "tp": "crash",
         "prio": 9
       },
       {
-        "t": 19.551,
-        "i": 0.05,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
+        "t": 19.574,
+        "i": 0.46,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
       },
       {
-        "t": 19.614,
-        "i": 0.16,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 19.64,
+        "i": 0.15,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "been"
       },
       {
         "t": 19.654,
@@ -2029,43 +2212,39 @@
         "prio": 4
       },
       {
-        "t": 19.694,
-        "i": 0.22,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 19.734,
-        "i": 0.23,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 19.774,
-        "i": 0.22,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 19.814,
-        "i": 0.23,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 19.82,
-        "i": 0.35,
+        "t": 19.683,
+        "i": 0.19,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "been"
       },
       {
-        "t": 19.86,
+        "t": 19.725,
+        "i": 0.21,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "been"
+      },
+      {
+        "t": 19.768,
+        "i": 0.2,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "been"
+      },
+      {
+        "t": 19.81,
+        "i": 0.29,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "been"
+      },
+      {
+        "t": 19.853,
         "i": 0.33,
         "d": 30,
         "tp": "word_sustain",
@@ -2073,7 +2252,7 @@
         "txt": "been"
       },
       {
-        "t": 19.9,
+        "t": 19.895,
         "i": 0.24,
         "d": 30,
         "tp": "word_sustain",
@@ -2098,7 +2277,7 @@
       },
       {
         "t": 20.103,
-        "i": 0.35,
+        "i": 0.36,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
@@ -2129,7 +2308,7 @@
       },
       {
         "t": 20.391,
-        "i": 0.28,
+        "i": 0.27,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -2169,7 +2348,7 @@
       },
       {
         "t": 20.629,
-        "i": 0.21,
+        "i": 0.22,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -2177,7 +2356,7 @@
       },
       {
         "t": 20.654,
-        "i": 0.21,
+        "i": 0.22,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -2213,15 +2392,7 @@
         "txt": "time,"
       },
       {
-        "t": 21.207,
-        "i": 0.08,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "time,"
-      },
-      {
-        "t": 21.232,
+        "t": 21.205,
         "i": 0.07,
         "d": 15,
         "tp": "word_sustain",
@@ -2229,7 +2400,7 @@
         "txt": "time,"
       },
       {
-        "t": 21.257,
+        "t": 21.23,
         "i": 0.07,
         "d": 15,
         "tp": "word_sustain",
@@ -2238,14 +2409,21 @@
       },
       {
         "t": 21.293,
-        "i": 0.49,
+        "i": 0.47,
         "d": 20,
         "tp": "kick",
         "prio": 10
       },
       {
+        "t": 21.293,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
         "t": 21.373,
-        "i": 0.09,
+        "i": 0.06,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -2259,77 +2437,85 @@
       },
       {
         "t": 21.453,
-        "i": 0.09,
+        "i": 0.13,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
         "t": 21.493,
-        "i": 0.16,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 21.533,
         "i": 0.11,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
+        "t": 21.533,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
         "t": 21.618,
-        "i": 0.06,
+        "i": 0.09,
         "d": 10,
         "tp": "guitar_pick",
         "prio": 6
       },
       {
-        "t": 21.85,
-        "i": 0.67,
-        "d": 25,
-        "tp": "crash",
-        "prio": 9
-      },
-      {
-        "t": 21.85,
-        "i": 0.03,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
-      },
-      {
-        "t": 21.873,
-        "i": 0.52,
-        "d": 18,
-        "tp": "bass_beat",
-        "prio": 8
-      },
-      {
-        "t": 21.953,
-        "i": 0.24,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 21.993,
-        "i": 0.26,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 22.018,
-        "i": 0.3,
+        "t": 21.84,
+        "i": 0.07,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "time"
       },
       {
-        "t": 22.07,
+        "t": 21.85,
+        "i": 0.65,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 21.85,
+        "i": 0.48,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 21.93,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 21.97,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 21.998,
+        "i": 0.28,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "time"
+      },
+      {
+        "t": 22.05,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 22.05,
         "i": 0.39,
         "d": 30,
         "tp": "word_sustain",
@@ -2337,29 +2523,30 @@
         "txt": "time"
       },
       {
-        "t": 22.113,
-        "i": 0.27,
+        "t": 22.09,
+        "i": 0.26,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 22.175,
-        "i": 0.06,
-        "d": 30,
-        "tp": "guitar_slide",
-        "prio": 5
-      },
-      {
-        "t": 22.175,
-        "i": 0.21,
+        "t": 22.103,
+        "i": 0.34,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "time"
       },
       {
-        "t": 22.228,
+        "t": 22.155,
+        "i": 0.24,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "time"
+      },
+      {
+        "t": 22.208,
         "i": 0.12,
         "d": 30,
         "tp": "word_sustain",
@@ -2367,15 +2554,15 @@
         "txt": "time"
       },
       {
-        "t": 22.28,
-        "i": 0.15,
+        "t": 22.26,
+        "i": 0.13,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "after"
       },
       {
-        "t": 22.325,
+        "t": 22.308,
         "i": 0.22,
         "d": 30,
         "tp": "word_sustain",
@@ -2383,16 +2570,16 @@
         "txt": "after"
       },
       {
-        "t": 22.37,
-        "i": 0.26,
+        "t": 22.355,
+        "i": 0.27,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "after"
       },
       {
-        "t": 22.415,
-        "i": 0.21,
+        "t": 22.402,
+        "i": 0.22,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -2401,51 +2588,41 @@
       {
         "t": 22.43,
         "i": 0.23,
-        "d": 25,
-        "tp": "crash",
+        "d": 12,
+        "tp": "snare",
         "prio": 9
       },
       {
-        "t": 22.454,
-        "i": 0.38,
+        "t": 22.497,
+        "i": 0.15,
         "d": 30,
-        "tp": "bass_slide",
-        "prio": 5
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "after"
       },
       {
-        "t": 22.494,
-        "i": 0.26,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 22.545,
+        "i": 0.14,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "after"
       },
       {
-        "t": 22.534,
-        "i": 0.26,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 22.592,
+        "i": 0.13,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "after"
       },
       {
-        "t": 22.574,
-        "i": 0.26,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 22.614,
-        "i": 0.25,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 22.654,
-        "i": 0.23,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 22.665,
+        "i": 0.2,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "time"
       },
       {
         "t": 22.69,
@@ -2465,13 +2642,13 @@
       },
       {
         "t": 22.732,
-        "i": 0.26,
+        "i": 0.28,
         "d": 18,
         "tp": "bass_beat",
         "prio": 8
       },
       {
-        "t": 22.806,
+        "t": 22.8,
         "i": 0.42,
         "d": 15,
         "tp": "word_sustain",
@@ -2479,15 +2656,15 @@
         "txt": "time"
       },
       {
-        "t": 22.831,
-        "i": 0.37,
+        "t": 22.825,
+        "i": 0.36,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "time"
       },
       {
-        "t": 22.856,
+        "t": 22.85,
         "i": 0.31,
         "d": 15,
         "tp": "word_sustain",
@@ -2495,7 +2672,7 @@
         "txt": "time"
       },
       {
-        "t": 22.881,
+        "t": 22.875,
         "i": 0.3,
         "d": 15,
         "tp": "word_sustain",
@@ -2503,7 +2680,7 @@
         "txt": "time"
       },
       {
-        "t": 22.906,
+        "t": 22.9,
         "i": 0.3,
         "d": 15,
         "tp": "word_sustain",
@@ -2511,7 +2688,7 @@
         "txt": "time"
       },
       {
-        "t": 22.931,
+        "t": 22.925,
         "i": 0.3,
         "d": 15,
         "tp": "word_sustain",
@@ -2520,20 +2697,34 @@
       },
       {
         "t": 22.972,
-        "i": 0.18,
+        "i": 0.13,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
         "t": 23.011,
-        "i": 0.32,
+        "i": 0.45,
         "d": 12,
         "tp": "snare",
         "prio": 9
       },
       {
-        "t": 23.074,
+        "t": 23.011,
+        "i": 0.16,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 23.011,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 23.066,
         "i": 0.28,
         "d": 15,
         "tp": "word_sustain",
@@ -2541,7 +2732,7 @@
         "txt": "time"
       },
       {
-        "t": 23.099,
+        "t": 23.091,
         "i": 0.34,
         "d": 15,
         "tp": "word_sustain",
@@ -2549,7 +2740,7 @@
         "txt": "time"
       },
       {
-        "t": 23.124,
+        "t": 23.116,
         "i": 0.3,
         "d": 15,
         "tp": "word_sustain",
@@ -2557,7 +2748,7 @@
         "txt": "time"
       },
       {
-        "t": 23.174,
+        "t": 23.166,
         "i": 0.25,
         "d": 15,
         "tp": "word_sustain",
@@ -2565,7 +2756,7 @@
         "txt": "time"
       },
       {
-        "t": 23.199,
+        "t": 23.191,
         "i": 0.25,
         "d": 15,
         "tp": "word_sustain",
@@ -2573,7 +2764,7 @@
         "txt": "time"
       },
       {
-        "t": 23.224,
+        "t": 23.216,
         "i": 0.25,
         "d": 15,
         "tp": "word_sustain",
@@ -2581,7 +2772,7 @@
         "txt": "time"
       },
       {
-        "t": 23.249,
+        "t": 23.241,
         "i": 0.25,
         "d": 15,
         "tp": "word_sustain",
@@ -2589,7 +2780,7 @@
         "txt": "time"
       },
       {
-        "t": 23.274,
+        "t": 23.266,
         "i": 0.25,
         "d": 15,
         "tp": "word_sustain",
@@ -2597,8 +2788,16 @@
         "txt": "time"
       },
       {
-        "t": 23.324,
-        "i": 0.15,
+        "t": 23.291,
+        "i": 0.23,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "time"
+      },
+      {
+        "t": 23.341,
+        "i": 0.08,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -2657,8 +2856,8 @@
         "prio": 5
       },
       {
-        "t": 24.099,
-        "i": 0.15,
+        "t": 24.088,
+        "i": 0.17,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
@@ -2666,53 +2865,54 @@
       },
       {
         "t": 24.126,
-        "i": 0.66,
+        "i": 0.67,
         "d": 25,
         "tp": "crash",
         "prio": 9
       },
       {
-        "t": 24.126,
-        "i": 0.08,
-        "d": 30,
-        "tp": "guitar_slide",
-        "prio": 5
-      },
-      {
-        "t": 24.191,
-        "i": 0.38,
+        "t": 24.182,
+        "i": 0.28,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
         "txt": "Tryna"
       },
       {
-        "t": 24.245,
-        "i": 0.37,
+        "t": 24.232,
+        "i": 0.36,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
         "txt": "Tryna"
       },
       {
-        "t": 24.333,
-        "i": 0.18,
+        "t": 24.317,
+        "i": 0.2,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "Tryna"
       },
       {
-        "t": 24.358,
-        "i": 0.14,
+        "t": 24.342,
+        "i": 0.15,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "Tryna"
       },
       {
-        "t": 24.383,
-        "i": 0.14,
+        "t": 24.367,
+        "i": 0.15,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Tryna"
+      },
+      {
+        "t": 24.392,
+        "i": 0.15,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -2855,7 +3055,7 @@
       },
       {
         "t": 25.06,
-        "i": 0.18,
+        "i": 0.17,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -2863,7 +3063,7 @@
       },
       {
         "t": 25.085,
-        "i": 0.25,
+        "i": 0.24,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -2871,7 +3071,7 @@
       },
       {
         "t": 25.11,
-        "i": 0.3,
+        "i": 0.29,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -2932,16 +3132,22 @@
         "txt": "right,"
       },
       {
-        "t": 25.41,
+        "t": 25.403,
         "i": 0.41,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "right,"
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 25.443,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
         "t": 25.46,
-        "i": 0.47,
+        "i": 0.46,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -2949,7 +3155,7 @@
       },
       {
         "t": 25.51,
-        "i": 0.36,
+        "i": 0.35,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -2957,27 +3163,25 @@
       },
       {
         "t": 25.56,
-        "i": 0.18,
+        "i": 0.17,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "right,"
       },
       {
-        "t": 25.61,
-        "i": 0.06,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "right,"
+        "t": 25.603,
+        "i": 0.3,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
-        "t": 25.66,
-        "i": 0.06,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "but"
+        "t": 25.643,
+        "i": 0.3,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
         "t": 25.69,
@@ -3005,7 +3209,7 @@
       },
       {
         "t": 25.78,
-        "i": 0.49,
+        "i": 0.48,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -3013,7 +3217,7 @@
       },
       {
         "t": 25.81,
-        "i": 0.35,
+        "i": 0.34,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -3061,7 +3265,7 @@
       },
       {
         "t": 26.04,
-        "i": 0.18,
+        "i": 0.17,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -3093,7 +3297,7 @@
       },
       {
         "t": 26.384,
-        "i": 0.36,
+        "i": 0.37,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
@@ -3107,23 +3311,30 @@
         "prio": 9
       },
       {
-        "t": 26.517,
-        "i": 0.06,
-        "d": 10,
-        "tp": "guitar_pick",
-        "prio": 6
+        "t": 26.448,
+        "i": 0.56,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
       },
       {
         "t": 26.52,
-        "i": 0.17,
+        "i": 0.18,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "find"
       },
       {
+        "t": 26.528,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
         "t": 26.555,
-        "i": 0.23,
+        "i": 0.22,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -3131,7 +3342,7 @@
       },
       {
         "t": 26.59,
-        "i": 0.31,
+        "i": 0.3,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -3147,7 +3358,7 @@
       },
       {
         "t": 26.66,
-        "i": 0.44,
+        "i": 0.43,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -3187,7 +3398,7 @@
       },
       {
         "t": 26.835,
-        "i": 0.22,
+        "i": 0.21,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -3203,7 +3414,7 @@
       },
       {
         "t": 26.905,
-        "i": 0.38,
+        "i": 0.37,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -3242,76 +3453,42 @@
       },
       {
         "t": 27.266,
-        "i": 0.15,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "been"
-      },
-      {
-        "t": 27.295,
-        "i": 0.21,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "been"
-      },
-      {
-        "t": 27.325,
-        "i": 0.28,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "been"
-      },
-      {
-        "t": 27.354,
-        "i": 0.37,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "been"
-      },
-      {
-        "t": 27.383,
-        "i": 0.45,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "been"
-      },
-      {
-        "t": 27.412,
         "i": 0.38,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
         "txt": "been"
       },
       {
-        "t": 27.442,
-        "i": 0.28,
+        "t": 27.4,
+        "i": 0.25,
         "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "been"
+        "tp": "bass_slide",
+        "prio": 5
       },
       {
-        "t": 27.507,
+        "t": 27.44,
         "i": 0.17,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 27.547,
-        "i": 0.1,
+        "t": 27.48,
+        "i": 0.17,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 27.571,
+        "t": 27.52,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.558,
         "i": 0.16,
         "d": 15,
         "tp": "word_sustain",
@@ -3320,13 +3497,13 @@
       },
       {
         "t": 27.585,
-        "i": 0.52,
+        "i": 0.36,
         "d": 12,
         "tp": "snare",
         "prio": 9
       },
       {
-        "t": 27.666,
+        "t": 27.656,
         "i": 0.2,
         "d": 15,
         "tp": "word_sustain",
@@ -3335,13 +3512,13 @@
       },
       {
         "t": 27.678,
-        "i": 0.25,
+        "i": 0.17,
         "d": 30,
         "tp": "bass_slide",
         "prio": 5
       },
       {
-        "t": 27.716,
+        "t": 27.706,
         "i": 0.17,
         "d": 15,
         "tp": "word_sustain",
@@ -3349,15 +3526,22 @@
         "txt": "lyin'"
       },
       {
-        "t": 27.758,
+        "t": 27.745,
         "i": 0.2,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 27.798,
-        "i": 0.21,
+        "t": 27.785,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.825,
+        "i": 0.13,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -3371,7 +3555,7 @@
       },
       {
         "t": 27.878,
-        "i": 0.13,
+        "i": 0.18,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -3384,7 +3568,7 @@
         "prio": 4
       },
       {
-        "t": 27.965,
+        "t": 27.962,
         "i": 0.07,
         "d": 15,
         "tp": "word_sustain",
@@ -3392,24 +3576,24 @@
         "txt": "lyin'"
       },
       {
-        "t": 27.99,
-        "i": 0.06,
+        "t": 28.012,
+        "i": 0.05,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "lyin'"
       },
       {
-        "t": 28.015,
-        "i": 0.06,
+        "t": 28.037,
+        "i": 0.05,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "lyin'"
       },
       {
-        "t": 28.04,
-        "i": 0.06,
+        "t": 28.062,
+        "i": 0.04,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -3438,7 +3622,7 @@
         "prio": 6
       },
       {
-        "t": 28.682,
+        "t": 28.666,
         "i": 0.05,
         "d": 15,
         "tp": "word_pulse",
@@ -3447,24 +3631,32 @@
       },
       {
         "t": 28.723,
-        "i": 0.54,
+        "i": 0.37,
         "d": 25,
         "tp": "crash",
         "prio": 9
       },
       {
         "t": 28.723,
-        "i": 0.43,
+        "i": 0.29,
         "d": 18,
         "tp": "bass_beat",
         "prio": 8
       },
       {
         "t": 28.723,
-        "i": 0.03,
+        "i": 0.02,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
+      },
+      {
+        "t": 28.723,
+        "i": 0.14,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "Lyin'"
       },
       {
         "t": 28.803,
@@ -3474,8 +3666,8 @@
         "prio": 4
       },
       {
-        "t": 28.83,
-        "i": 0.33,
+        "t": 28.826,
+        "i": 0.3,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -3483,13 +3675,21 @@
       },
       {
         "t": 28.883,
-        "i": 0.15,
+        "i": 0.22,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 28.912,
+        "t": 28.919,
+        "i": 0.28,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Lyin'"
+      },
+      {
+        "t": 28.944,
         "i": 0.27,
         "d": 15,
         "tp": "word_sustain",
@@ -3497,31 +3697,24 @@
         "txt": "Lyin'"
       },
       {
-        "t": 28.963,
-        "i": 0.23,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 29.004,
-        "i": 0.19,
+        "t": 29.023,
+        "i": 0.17,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "Lyin'"
       },
       {
-        "t": 29.029,
-        "i": 0.15,
+        "t": 29.048,
+        "i": 0.14,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "Lyin'"
       },
       {
-        "t": 29.054,
-        "i": 0.15,
+        "t": 29.073,
+        "i": 0.14,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -3551,16 +3744,8 @@
         "prio": 9
       },
       {
-        "t": 29.39,
-        "i": 0.18,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "myself,"
-      },
-      {
         "t": 29.396,
-        "i": 0.5,
+        "i": 0.34,
         "d": 18,
         "tp": "bass_beat",
         "prio": 8
@@ -3573,19 +3758,27 @@
         "prio": 4
       },
       {
-        "t": 29.471,
-        "i": 0.27,
+        "t": 29.476,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 29.49,
+        "i": 0.3,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "myself,"
       },
       {
-        "t": 29.516,
-        "i": 0.27,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 29.515,
+        "i": 0.29,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "myself,"
       },
       {
         "t": 29.556,
@@ -3595,55 +3788,55 @@
         "prio": 4
       },
       {
-        "t": 29.593,
-        "i": 0.28,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "myself,"
-      },
-      {
-        "t": 29.636,
-        "i": 0.25,
+        "t": 29.596,
+        "i": 0.19,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 29.676,
-        "i": 0.22,
+        "t": 29.625,
+        "i": 0.24,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "myself,"
       },
       {
-        "t": 29.701,
-        "i": 0.21,
+        "t": 29.723,
+        "i": 0.26,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "myself,"
       },
       {
-        "t": 29.794,
-        "i": 0.21,
+        "t": 29.748,
+        "i": 0.23,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "myself,"
       },
       {
-        "t": 29.819,
-        "i": 0.18,
+        "t": 29.773,
+        "i": 0.23,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "myself,"
       },
       {
-        "t": 29.844,
-        "i": 0.18,
+        "t": 29.857,
+        "i": 0.09,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "myself,"
+      },
+      {
+        "t": 29.882,
+        "i": 0.07,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -3651,13 +3844,21 @@
       },
       {
         "t": 29.884,
-        "i": 0.23,
+        "i": 0.16,
         "d": 12,
         "tp": "snare",
         "prio": 9
       },
       {
-        "t": 29.972,
+        "t": 30.001,
+        "i": 0.04,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "myself,"
+      },
+      {
+        "t": 30.026,
         "i": 0.03,
         "d": 15,
         "tp": "word_sustain",
@@ -3665,7 +3866,15 @@
         "txt": "myself,"
       },
       {
-        "t": 29.997,
+        "t": 30.051,
+        "i": 0.03,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "myself,"
+      },
+      {
+        "t": 30.076,
         "i": 0.03,
         "d": 15,
         "tp": "word_sustain",
@@ -3681,7 +3890,7 @@
       },
       {
         "t": 30.441,
-        "i": 0.55,
+        "i": 0.54,
         "d": 12,
         "tp": "snare",
         "prio": 9
@@ -3702,22 +3911,14 @@
       },
       {
         "t": 30.79,
-        "i": 0.06,
+        "i": 0.09,
         "d": 10,
         "tp": "guitar_pick",
         "prio": 6
       },
       {
-        "t": 30.89,
-        "i": 0.01,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "I"
-      },
-      {
-        "t": 30.987,
-        "i": 0.05,
+        "t": 30.906,
+        "i": 0.03,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -3725,7 +3926,7 @@
       },
       {
         "t": 30.999,
-        "i": 0.74,
+        "i": 0.75,
         "d": 25,
         "tp": "crash",
         "prio": 9
@@ -3738,7 +3939,14 @@
         "prio": 4
       },
       {
-        "t": 31.083,
+        "t": 31.102,
+        "i": 0.11,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.102,
         "i": 0.22,
         "d": 30,
         "tp": "word_sustain",
@@ -3753,47 +3961,45 @@
         "prio": 4
       },
       {
-        "t": 31.18,
-        "i": 0.11,
+        "t": 31.182,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.222,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.26,
+        "i": 0.2,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "don't"
       },
       {
-        "t": 31.212,
-        "i": 0.15,
+        "t": 31.29,
+        "i": 0.22,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "don't"
       },
       {
-        "t": 31.245,
-        "i": 0.21,
+        "t": 31.32,
+        "i": 0.2,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "don't"
       },
       {
-        "t": 31.277,
-        "i": 0.24,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "don't"
-      },
-      {
-        "t": 31.31,
-        "i": 0.26,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "don't"
-      },
-      {
-        "t": 31.342,
+        "t": 31.35,
         "i": 0.16,
         "d": 30,
         "tp": "word_sustain",
@@ -3801,7 +4007,7 @@
         "txt": "don't"
       },
       {
-        "t": 31.375,
+        "t": 31.38,
         "i": 0.14,
         "d": 30,
         "tp": "word_sustain",
@@ -3809,7 +4015,7 @@
         "txt": "don't"
       },
       {
-        "t": 31.407,
+        "t": 31.41,
         "i": 0.14,
         "d": 30,
         "tp": "word_sustain",
@@ -3825,7 +4031,7 @@
         "txt": "need"
       },
       {
-        "t": 31.473,
+        "t": 31.47,
         "i": 0.15,
         "d": 30,
         "tp": "word_sustain",
@@ -3833,7 +4039,7 @@
         "txt": "need"
       },
       {
-        "t": 31.505,
+        "t": 31.5,
         "i": 0.17,
         "d": 30,
         "tp": "word_sustain",
@@ -3841,7 +4047,7 @@
         "txt": "need"
       },
       {
-        "t": 31.537,
+        "t": 31.53,
         "i": 0.19,
         "d": 30,
         "tp": "word_sustain",
@@ -3849,39 +4055,36 @@
         "txt": "need"
       },
       {
-        "t": 31.57,
-        "i": 0.25,
+        "t": 31.56,
+        "i": 0.22,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "need"
+      },
+      {
+        "t": 31.579,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
       },
       {
         "t": 31.602,
-        "i": 0.23,
+        "i": 0.3,
         "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "need"
+        "tp": "bass_slide",
+        "prio": 5
       },
       {
-        "t": 31.635,
-        "i": 0.21,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "need"
+        "t": 31.642,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
-        "t": 31.667,
-        "i": 0.16,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "need"
-      },
-      {
-        "t": 31.7,
+        "t": 31.68,
         "i": 0.12,
         "d": 30,
         "tp": "word_sustain",
@@ -3889,7 +4092,7 @@
         "txt": "your"
       },
       {
-        "t": 31.727,
+        "t": 31.71,
         "i": 0.15,
         "d": 30,
         "tp": "word_sustain",
@@ -3897,23 +4100,21 @@
         "txt": "your"
       },
       {
-        "t": 31.755,
-        "i": 0.18,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "your"
+        "t": 31.722,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
-        "t": 31.782,
-        "i": 0.24,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "your"
+        "t": 31.762,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
-        "t": 31.81,
+        "t": 31.8,
         "i": 0.32,
         "d": 30,
         "tp": "word_sustain",
@@ -3921,7 +4122,7 @@
         "txt": "your"
       },
       {
-        "t": 31.837,
+        "t": 31.83,
         "i": 0.29,
         "d": 30,
         "tp": "word_sustain",
@@ -3929,8 +4130,16 @@
         "txt": "your"
       },
       {
-        "t": 31.865,
+        "t": 31.86,
         "i": 0.24,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "your"
+      },
+      {
+        "t": 31.89,
+        "i": 0.19,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -3954,7 +4163,7 @@
       },
       {
         "t": 32.16,
-        "i": 0.37,
+        "i": 0.36,
         "d": 12,
         "tp": "snare",
         "prio": 9
@@ -4004,7 +4213,7 @@
       },
       {
         "t": 32.436,
-        "i": 0.28,
+        "i": 0.29,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -4025,10 +4234,10 @@
       },
       {
         "t": 32.74,
-        "i": 0.3,
-        "d": 20,
-        "tp": "kick",
-        "prio": 10
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
       },
       {
         "t": 32.74,
@@ -4054,7 +4263,7 @@
       },
       {
         "t": 33.287,
-        "i": 0.16,
+        "i": 0.17,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -4093,7 +4302,7 @@
       },
       {
         "t": 33.54,
-        "i": 0.17,
+        "i": 0.18,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -4148,7 +4357,7 @@
         "txt": "just"
       },
       {
-        "t": 33.765,
+        "t": 33.763,
         "i": 0.19,
         "d": 30,
         "tp": "word_sustain",
@@ -4156,15 +4365,15 @@
         "txt": "just"
       },
       {
-        "t": 33.81,
-        "i": 0.22,
+        "t": 33.805,
+        "i": 0.21,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "just"
       },
       {
-        "t": 33.855,
+        "t": 33.848,
         "i": 0.29,
         "d": 30,
         "tp": "word_sustain",
@@ -4179,40 +4388,40 @@
         "prio": 9
       },
       {
-        "t": 33.9,
-        "i": 0.34,
+        "t": 33.89,
+        "i": 0.33,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "just"
       },
       {
-        "t": 33.945,
-        "i": 0.23,
+        "t": 33.933,
+        "i": 0.25,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "just"
       },
       {
-        "t": 33.99,
-        "i": 0.19,
+        "t": 33.975,
+        "i": 0.17,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "just"
       },
       {
-        "t": 34.035,
-        "i": 0.2,
+        "t": 34.018,
+        "i": 0.17,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "just"
       },
       {
-        "t": 34.272,
-        "i": 0.39,
+        "t": 34.264,
+        "i": 0.38,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
@@ -4227,7 +4436,7 @@
       },
       {
         "t": 34.4,
-        "i": 0.1,
+        "i": 0.11,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -4243,14 +4452,14 @@
       },
       {
         "t": 34.458,
-        "i": 0.37,
+        "i": 0.35,
         "d": 12,
         "tp": "snare",
         "prio": 9
       },
       {
         "t": 34.505,
-        "i": 0.36,
+        "i": 0.35,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -4298,7 +4507,7 @@
       },
       {
         "t": 34.715,
-        "i": 0.22,
+        "i": 0.21,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -4314,7 +4523,7 @@
       },
       {
         "t": 34.785,
-        "i": 0.25,
+        "i": 0.24,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -4322,7 +4531,7 @@
       },
       {
         "t": 34.82,
-        "i": 0.29,
+        "i": 0.28,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -4330,7 +4539,7 @@
       },
       {
         "t": 34.855,
-        "i": 0.29,
+        "i": 0.28,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -4370,7 +4579,7 @@
       },
       {
         "t": 35.01,
-        "i": 0.22,
+        "i": 0.21,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -4409,77 +4618,78 @@
         "txt": "own,"
       },
       {
-        "t": 35.41,
-        "i": 0.01,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
-      },
-      {
-        "t": 35.412,
-        "i": 0.39,
-        "d": 15,
-        "tp": "word_pulse",
-        "prio": 5,
+        "t": 35.448,
+        "i": 0.17,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
         "txt": "baby,"
       },
       {
-        "t": 35.573,
-        "i": 0.58,
+        "t": 35.473,
+        "i": 0.26,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "baby,"
+      },
+      {
+        "t": 35.498,
+        "i": 0.31,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "baby,"
+      },
+      {
+        "t": 35.523,
+        "i": 0.34,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "baby,"
+      },
+      {
+        "t": 35.548,
+        "i": 0.3,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "baby,"
+      },
+      {
+        "t": 35.596,
+        "i": 0.33,
         "d": 25,
         "tp": "crash",
         "prio": 9
       },
       {
-        "t": 35.63,
-        "i": 0.17,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "I"
-      },
-      {
-        "t": 35.655,
+        "t": 35.64,
         "i": 0.33,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
         "txt": "I"
       },
       {
-        "t": 35.68,
-        "i": 0.4,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "I"
-      },
-      {
-        "t": 35.73,
-        "i": 0.2,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "I"
-      },
-      {
-        "t": 35.755,
-        "i": 0.15,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "I"
-      },
-      {
-        "t": 35.812,
-        "i": 0.2,
+        "t": 35.8,
+        "i": 0.14,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "could"
       },
       {
-        "t": 35.845,
+        "t": 35.828,
+        "i": 0.21,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "could"
+      },
+      {
+        "t": 35.855,
         "i": 0.28,
         "d": 30,
         "tp": "word_sustain",
@@ -4487,7 +4697,7 @@
         "txt": "could"
       },
       {
-        "t": 35.877,
+        "t": 35.883,
         "i": 0.33,
         "d": 30,
         "tp": "word_sustain",
@@ -4496,38 +4706,30 @@
       },
       {
         "t": 35.91,
-        "i": 0.36,
+        "i": 0.37,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "could"
       },
       {
-        "t": 35.942,
-        "i": 0.29,
+        "t": 35.938,
+        "i": 0.3,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "could"
       },
       {
-        "t": 35.975,
-        "i": 0.26,
+        "t": 35.993,
+        "i": 0.21,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "could"
       },
       {
-        "t": 36.007,
-        "i": 0.22,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "could"
-      },
-      {
-        "t": 36.04,
+        "t": 36.02,
         "i": 0.16,
         "d": 30,
         "tp": "word_sustain",
@@ -4535,15 +4737,7 @@
         "txt": "handle"
       },
       {
-        "t": 36.08,
-        "i": 0.19,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "handle"
-      },
-      {
-        "t": 36.12,
+        "t": 36.062,
         "i": 0.21,
         "d": 30,
         "tp": "word_sustain",
@@ -4551,14 +4745,30 @@
         "txt": "handle"
       },
       {
-        "t": 36.153,
+        "t": 36.105,
+        "i": 0.21,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "handle"
+      },
+      {
+        "t": 36.147,
+        "i": 0.28,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "handle"
+      },
+      {
+        "t": 36.177,
         "i": 0.23,
         "d": 12,
         "tp": "snare",
         "prio": 9
       },
       {
-        "t": 36.2,
+        "t": 36.19,
         "i": 0.39,
         "d": 30,
         "tp": "word_sustain",
@@ -4566,15 +4776,15 @@
         "txt": "handle"
       },
       {
-        "t": 36.24,
-        "i": 0.3,
+        "t": 36.232,
+        "i": 0.32,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "handle"
       },
       {
-        "t": 36.28,
+        "t": 36.275,
         "i": 0.24,
         "d": 30,
         "tp": "word_sustain",
@@ -4582,8 +4792,8 @@
         "txt": "handle"
       },
       {
-        "t": 36.32,
-        "i": 0.22,
+        "t": 36.317,
+        "i": 0.21,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -4598,6 +4808,14 @@
       },
       {
         "t": 36.455,
+        "i": 0.22,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "mine"
+      },
+      {
+        "t": 36.48,
         "i": 0.21,
         "d": 15,
         "tp": "word_sustain",
@@ -4605,8 +4823,8 @@
         "txt": "mine"
       },
       {
-        "t": 36.552,
-        "i": 0.34,
+        "t": 36.561,
+        "i": 0.36,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -4620,7 +4838,7 @@
         "prio": 5
       },
       {
-        "t": 36.602,
+        "t": 36.611,
         "i": 0.29,
         "d": 15,
         "tp": "word_sustain",
@@ -4642,8 +4860,8 @@
         "prio": 4
       },
       {
-        "t": 36.724,
-        "i": 0.26,
+        "t": 36.722,
+        "i": 0.31,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -4651,29 +4869,30 @@
       },
       {
         "t": 36.734,
-        "i": 0.43,
+        "i": 0.44,
         "d": 12,
         "tp": "snare",
         "prio": 9
       },
       {
-        "t": 36.774,
-        "i": 0.25,
+        "t": 36.797,
+        "i": 0.23,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "mine"
       },
       {
-        "t": 36.811,
-        "i": 0.17,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 36.822,
+        "i": 0.23,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "mine"
       },
       {
         "t": 36.85,
-        "i": 0.36,
+        "i": 0.25,
         "d": 30,
         "tp": "bass_slide",
         "prio": 5
@@ -4708,14 +4927,14 @@
       },
       {
         "t": 37.05,
-        "i": 0.15,
+        "i": 0.22,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
         "t": 37.09,
-        "i": 0.22,
+        "i": 0.15,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -4736,21 +4955,21 @@
       },
       {
         "t": 37.663,
-        "i": 0.11,
+        "i": 0.1,
         "d": 10,
         "tp": "guitar_pick",
         "prio": 6
       },
       {
-        "t": 37.775,
-        "i": 0.08,
+        "t": 37.795,
+        "i": 0.14,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "I"
       },
       {
-        "t": 37.861,
+        "t": 37.871,
         "i": 0.15,
         "d": 30,
         "tp": "word_sustain",
@@ -4759,7 +4978,7 @@
       },
       {
         "t": 37.872,
-        "i": 0.78,
+        "i": 0.55,
         "d": 25,
         "tp": "crash",
         "prio": 9
@@ -4807,8 +5026,8 @@
         "prio": 4
       },
       {
-        "t": 38.166,
-        "i": 0.27,
+        "t": 38.146,
+        "i": 0.28,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
@@ -4822,219 +5041,71 @@
         "prio": 5
       },
       {
-        "t": 38.254,
-        "i": 0.11,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 38.29,
+        "i": 0.22,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
       },
       {
-        "t": 38.294,
+        "t": 38.33,
         "i": 0.15,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 38.334,
-        "i": 0.16,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 38.374,
+        "t": 38.37,
         "i": 0.15,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 38.414,
-        "i": 0.1,
+        "t": 38.41,
+        "i": 0.14,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 38.441,
-        "i": 0.15,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "multiply,"
+        "t": 38.45,
+        "i": 0.12,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
         "t": 38.452,
-        "i": 0.59,
+        "i": 0.6,
         "d": 12,
         "tp": "snare",
         "prio": 9
       },
       {
-        "t": 38.565,
-        "i": 0.17,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "multiply,"
-      },
-      {
-        "t": 38.59,
-        "i": 0.16,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "multiply,"
-      },
-      {
-        "t": 38.648,
-        "i": 0.17,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 38.688,
-        "i": 0.12,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 38.728,
-        "i": 0.15,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 38.768,
+        "t": 38.53,
         "i": 0.11,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 38.808,
-        "i": 0.16,
+        "t": 38.555,
+        "i": 0.09,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 38.819,
-        "i": 0.38,
+        "t": 38.583,
+        "i": 0.15,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "multiply,"
       },
       {
-        "t": 38.844,
-        "i": 0.32,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "multiply,"
-      },
-      {
-        "t": 38.869,
-        "i": 0.32,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "multiply,"
-      },
-      {
-        "t": 38.965,
-        "i": 0.44,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "multiply,"
-      },
-      {
-        "t": 38.99,
-        "i": 0.35,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "multiply,"
-      },
-      {
-        "t": 39.015,
-        "i": 0.35,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "multiply,"
-      },
-      {
-        "t": 39.079,
-        "i": 0.12,
-        "d": 10,
-        "tp": "guitar_pick",
-        "prio": 6
-      },
-      {
-        "t": 39.124,
-        "i": 0.42,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "multiply,"
-      },
-      {
-        "t": 39.149,
-        "i": 0.33,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "multiply,"
-      },
-      {
-        "t": 39.174,
-        "i": 0.33,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "multiply,"
-      },
-      {
-        "t": 39.293,
-        "i": 0.26,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "multiply,"
-      },
-      {
-        "t": 39.318,
-        "i": 0.2,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "multiply,"
-      },
-      {
-        "t": 39.343,
-        "i": 0.2,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "multiply,"
-      },
-      {
-        "t": 39.368,
-        "i": 0.2,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "multiply,"
-      },
-      {
-        "t": 39.472,
+        "t": 38.608,
         "i": 0.14,
         "d": 15,
         "tp": "word_sustain",
@@ -5042,7 +5113,14 @@
         "txt": "multiply,"
       },
       {
-        "t": 39.497,
+        "t": 38.675,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 38.705,
         "i": 0.11,
         "d": 15,
         "tp": "word_sustain",
@@ -5050,7 +5128,126 @@
         "txt": "multiply,"
       },
       {
-        "t": 39.522,
+        "t": 38.715,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 38.755,
+        "i": 0.1,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "multiply,"
+      },
+      {
+        "t": 38.832,
+        "i": 0.37,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "multiply,"
+      },
+      {
+        "t": 38.857,
+        "i": 0.32,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "multiply,"
+      },
+      {
+        "t": 38.882,
+        "i": 0.32,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "multiply,"
+      },
+      {
+        "t": 38.975,
+        "i": 0.44,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "multiply,"
+      },
+      {
+        "t": 39.0,
+        "i": 0.35,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "multiply,"
+      },
+      {
+        "t": 39.025,
+        "i": 0.35,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "multiply,"
+      },
+      {
+        "t": 39.13,
+        "i": 0.42,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "multiply,"
+      },
+      {
+        "t": 39.155,
+        "i": 0.33,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "multiply,"
+      },
+      {
+        "t": 39.18,
+        "i": 0.33,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "multiply,"
+      },
+      {
+        "t": 39.295,
+        "i": 0.24,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "multiply,"
+      },
+      {
+        "t": 39.32,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "multiply,"
+      },
+      {
+        "t": 39.345,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "multiply,"
+      },
+      {
+        "t": 39.47,
+        "i": 0.14,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "multiply,"
+      },
+      {
+        "t": 39.495,
         "i": 0.11,
         "d": 15,
         "tp": "word_sustain",
@@ -5058,7 +5255,15 @@
         "txt": "multiply,"
       },
       {
-        "t": 39.547,
+        "t": 39.52,
+        "i": 0.11,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "multiply,"
+      },
+      {
+        "t": 39.545,
         "i": 0.11,
         "d": 15,
         "tp": "word_sustain",
@@ -5067,28 +5272,29 @@
       },
       {
         "t": 39.59,
-        "i": 0.5,
+        "i": 0.36,
         "d": 12,
         "tp": "snare",
         "prio": 9
       },
       {
-        "t": 39.653,
-        "i": 0.14,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 39.66,
+        "i": 0.1,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
       },
       {
-        "t": 39.693,
-        "i": 0.18,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 39.703,
+        "i": 0.03,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "multiply,"
       },
       {
         "t": 39.706,
-        "i": 0.34,
+        "i": 0.33,
         "d": 18,
         "tp": "bass_beat",
         "prio": 8
@@ -5101,29 +5307,22 @@
         "prio": 4
       },
       {
-        "t": 39.773,
-        "i": 0.25,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 39.813,
-        "i": 0.16,
+        "t": 39.786,
+        "i": 0.24,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
         "t": 39.826,
-        "i": 0.23,
+        "i": 0.16,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 39.853,
-        "i": 0.23,
+        "t": 39.866,
+        "i": 0.2,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -5137,52 +5336,45 @@
       },
       {
         "t": 39.938,
-        "i": 0.1,
+        "i": 0.13,
         "d": 10,
         "tp": "guitar_pick",
         "prio": 6
       },
       {
-        "t": 39.946,
-        "i": 0.18,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 40.034,
-        "i": 0.02,
+        "t": 40.003,
+        "i": 0.03,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "multiply,"
       },
       {
-        "t": 40.059,
-        "i": 0.02,
+        "t": 40.028,
+        "i": 0.03,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "multiply,"
       },
       {
-        "t": 40.084,
-        "i": 0.02,
+        "t": 40.053,
+        "i": 0.03,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "multiply,"
       },
       {
-        "t": 40.109,
-        "i": 0.02,
+        "t": 40.078,
+        "i": 0.03,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "multiply,"
       },
       {
-        "t": 40.134,
+        "t": 40.128,
         "i": 0.02,
         "d": 15,
         "tp": "word_sustain",
@@ -5218,12 +5410,11 @@
         "prio": 4
       },
       {
-        "t": 40.28,
+        "t": 40.291,
         "i": 0.25,
-        "d": 15,
-        "tp": "word_pulse",
-        "prio": 5,
-        "txt": "I"
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
         "t": 40.331,
@@ -5247,31 +5438,23 @@
         "prio": 4
       },
       {
-        "t": 40.46,
-        "i": 0.24,
+        "t": 40.455,
+        "i": 0.23,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "could"
       },
       {
-        "t": 40.5,
-        "i": 0.33,
+        "t": 40.493,
+        "i": 0.32,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "could"
       },
       {
-        "t": 40.54,
-        "i": 0.42,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "could"
-      },
-      {
-        "t": 40.58,
+        "t": 40.53,
         "i": 0.41,
         "d": 30,
         "tp": "word_sustain",
@@ -5279,7 +5462,15 @@
         "txt": "could"
       },
       {
-        "t": 40.62,
+        "t": 40.568,
+        "i": 0.34,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "could"
+      },
+      {
+        "t": 40.605,
         "i": 0.37,
         "d": 30,
         "tp": "word_sustain",
@@ -5287,8 +5478,8 @@
         "txt": "could"
       },
       {
-        "t": 40.66,
-        "i": 0.33,
+        "t": 40.643,
+        "i": 0.31,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -5302,7 +5493,7 @@
         "prio": 9
       },
       {
-        "t": 41.002,
+        "t": 41.005,
         "i": 0.18,
         "d": 15,
         "tp": "word_pulse",
@@ -5310,14 +5501,14 @@
         "txt": "satisfy"
       },
       {
-        "t": 41.03,
-        "i": 0.09,
-        "d": 10,
-        "tp": "guitar_pick",
-        "prio": 6
+        "t": 41.053,
+        "i": 0.17,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
       },
       {
-        "t": 41.081,
+        "t": 41.078,
         "i": 0.38,
         "d": 15,
         "tp": "word_pulse",
@@ -5325,16 +5516,37 @@
         "txt": "satisfy"
       },
       {
-        "t": 41.16,
-        "i": 0.46,
+        "t": 41.133,
+        "i": 0.12,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.151,
+        "i": 0.44,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
         "txt": "satisfy"
       },
       {
-        "t": 41.264,
-        "i": 0.46,
+        "t": 41.213,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.253,
+        "i": 0.1,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.254,
+        "i": 0.45,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -5342,21 +5554,21 @@
       },
       {
         "t": 41.308,
-        "i": 0.47,
+        "i": 0.49,
         "d": 12,
         "tp": "snare",
         "prio": 9
       },
       {
-        "t": 41.356,
-        "i": 0.34,
+        "t": 41.347,
+        "i": 0.35,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "satisfy"
       },
       {
-        "t": 41.381,
+        "t": 41.372,
         "i": 0.34,
         "d": 15,
         "tp": "word_sustain",
@@ -5365,13 +5577,13 @@
       },
       {
         "t": 41.424,
-        "i": 0.34,
+        "i": 0.24,
         "d": 18,
         "tp": "bass_beat",
         "prio": 8
       },
       {
-        "t": 41.461,
+        "t": 41.453,
         "i": 0.27,
         "d": 15,
         "tp": "word_sustain",
@@ -5379,8 +5591,8 @@
         "txt": "satisfy"
       },
       {
-        "t": 41.486,
-        "i": 0.27,
+        "t": 41.478,
+        "i": 0.26,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -5388,21 +5600,13 @@
       },
       {
         "t": 41.544,
-        "i": 0.16,
+        "i": 0.12,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 41.577,
-        "i": 0.21,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "satisfy"
-      },
-      {
-        "t": 41.602,
+        "t": 41.572,
         "i": 0.25,
         "d": 15,
         "tp": "word_sustain",
@@ -5410,8 +5614,16 @@
         "txt": "satisfy"
       },
       {
-        "t": 41.627,
-        "i": 0.23,
+        "t": 41.597,
+        "i": 0.25,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "satisfy"
+      },
+      {
+        "t": 41.622,
+        "i": 0.22,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -5419,13 +5631,13 @@
       },
       {
         "t": 41.664,
-        "i": 0.17,
+        "i": 0.18,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 41.702,
+        "t": 41.697,
         "i": 0.19,
         "d": 15,
         "tp": "word_sustain",
@@ -5433,7 +5645,7 @@
         "txt": "satisfy"
       },
       {
-        "t": 41.727,
+        "t": 41.722,
         "i": 0.19,
         "d": 15,
         "tp": "word_sustain",
@@ -5441,24 +5653,8 @@
         "txt": "satisfy"
       },
       {
-        "t": 41.752,
+        "t": 41.747,
         "i": 0.19,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "satisfy"
-      },
-      {
-        "t": 41.777,
-        "i": 0.19,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "satisfy"
-      },
-      {
-        "t": 41.802,
-        "i": 0.18,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -5472,7 +5668,7 @@
         "prio": 9
       },
       {
-        "t": 42.27,
+        "t": 42.21,
         "i": 0.02,
         "d": 15,
         "tp": "word_pulse",
@@ -5480,7 +5676,7 @@
         "txt": "Anybody"
       },
       {
-        "t": 42.339,
+        "t": 42.285,
         "i": 0.02,
         "d": 15,
         "tp": "word_pulse",
@@ -5488,7 +5684,7 @@
         "txt": "Anybody"
       },
       {
-        "t": 42.408,
+        "t": 42.36,
         "i": 0.02,
         "d": 15,
         "tp": "word_pulse",
@@ -5497,7 +5693,7 @@
       },
       {
         "t": 42.446,
-        "i": 0.69,
+        "i": 0.67,
         "d": 25,
         "tp": "crash",
         "prio": 9
@@ -5511,107 +5707,109 @@
       },
       {
         "t": 42.526,
-        "i": 0.18,
+        "i": 0.26,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 42.566,
-        "i": 0.19,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 42.591,
-        "i": 0.32,
+        "t": 42.544,
+        "i": 0.25,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "Anybody"
       },
       {
-        "t": 42.646,
+        "t": 42.606,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.639,
+        "i": 0.3,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Anybody"
+      },
+      {
+        "t": 42.664,
         "i": 0.29,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 42.686,
-        "i": 0.2,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 42.69,
-        "i": 0.33,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "Anybody"
       },
       {
-        "t": 42.715,
-        "i": 0.32,
+        "t": 42.744,
+        "i": 0.23,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "Anybody"
       },
       {
-        "t": 42.8,
-        "i": 0.15,
+        "t": 42.769,
+        "i": 0.28,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "Anybody"
       },
       {
-        "t": 42.825,
-        "i": 0.15,
+        "t": 42.794,
+        "i": 0.25,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "Anybody"
       },
       {
-        "t": 42.85,
-        "i": 0.13,
+        "t": 42.844,
+        "i": 0.21,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "Anybody"
       },
       {
-        "t": 42.9,
-        "i": 0.12,
+        "t": 42.869,
+        "i": 0.21,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "Anybody"
       },
       {
-        "t": 42.925,
-        "i": 0.12,
+        "t": 42.894,
+        "i": 0.21,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "Anybody"
       },
       {
-        "t": 42.95,
-        "i": 0.12,
+        "t": 42.919,
+        "i": 0.21,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "Anybody"
       },
       {
-        "t": 42.975,
-        "i": 0.12,
+        "t": 42.944,
+        "i": 0.21,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Anybody"
+      },
+      {
+        "t": 42.969,
+        "i": 0.19,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -5619,7 +5817,7 @@
       },
       {
         "t": 43.027,
-        "i": 0.16,
+        "i": 0.23,
         "d": 25,
         "tp": "crash",
         "prio": 9
@@ -5642,7 +5840,7 @@
       },
       {
         "t": 43.418,
-        "i": 0.33,
+        "i": 0.34,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -5650,7 +5848,7 @@
       },
       {
         "t": 43.443,
-        "i": 0.38,
+        "i": 0.39,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -5706,7 +5904,7 @@
       },
       {
         "t": 43.69,
-        "i": 0.43,
+        "i": 0.41,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -5737,7 +5935,7 @@
       },
       {
         "t": 43.82,
-        "i": 0.17,
+        "i": 0.16,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -5752,7 +5950,7 @@
       },
       {
         "t": 43.855,
-        "i": 0.16,
+        "i": 0.17,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -5767,14 +5965,14 @@
       },
       {
         "t": 43.9,
-        "i": 0.23,
+        "i": 0.22,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
         "t": 43.925,
-        "i": 0.28,
+        "i": 0.29,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -5782,7 +5980,7 @@
       },
       {
         "t": 43.96,
-        "i": 0.35,
+        "i": 0.36,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -5838,18 +6036,10 @@
       },
       {
         "t": 44.188,
-        "i": 0.28,
+        "i": 0.32,
         "d": 25,
         "tp": "crash",
         "prio": 9
-      },
-      {
-        "t": 44.205,
-        "i": 0.34,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "shine,"
       },
       {
         "t": 44.24,
@@ -5861,7 +6051,7 @@
       },
       {
         "t": 44.275,
-        "i": 0.29,
+        "i": 0.3,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -5892,7 +6082,7 @@
         "txt": "man,"
       },
       {
-        "t": 44.413,
+        "t": 44.41,
         "i": 0.26,
         "d": 30,
         "tp": "word_sustain",
@@ -5900,7 +6090,7 @@
         "txt": "man,"
       },
       {
-        "t": 44.445,
+        "t": 44.44,
         "i": 0.35,
         "d": 30,
         "tp": "word_sustain",
@@ -5908,7 +6098,7 @@
         "txt": "man,"
       },
       {
-        "t": 44.477,
+        "t": 44.47,
         "i": 0.4,
         "d": 30,
         "tp": "word_sustain",
@@ -5916,23 +6106,15 @@
         "txt": "man,"
       },
       {
-        "t": 44.51,
-        "i": 0.43,
+        "t": 44.5,
+        "i": 0.45,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "man,"
       },
       {
-        "t": 44.542,
-        "i": 0.34,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "man,"
-      },
-      {
-        "t": 44.575,
+        "t": 44.53,
         "i": 0.33,
         "d": 30,
         "tp": "word_sustain",
@@ -5940,15 +6122,23 @@
         "txt": "man,"
       },
       {
-        "t": 44.607,
-        "i": 0.25,
+        "t": 44.56,
+        "i": 0.31,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "man,"
       },
       {
-        "t": 44.733,
+        "t": 44.59,
+        "i": 0.26,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "man,"
+      },
+      {
+        "t": 44.736,
         "i": 0.3,
         "d": 15,
         "tp": "word_pulse",
@@ -5963,71 +6153,22 @@
         "prio": 9
       },
       {
-        "t": 44.84,
-        "i": 0.14,
+        "t": 44.838,
+        "i": 0.08,
         "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 44.88,
+        "i": 0.31,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
         "txt": "just"
       },
       {
-        "t": 44.87,
-        "i": 0.2,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "just"
-      },
-      {
-        "t": 44.9,
-        "i": 0.23,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "just"
-      },
-      {
-        "t": 44.93,
-        "i": 0.26,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "just"
-      },
-      {
-        "t": 44.96,
-        "i": 0.28,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "just"
-      },
-      {
-        "t": 44.99,
-        "i": 0.29,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "just"
-      },
-      {
-        "t": 45.02,
-        "i": 0.26,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "just"
-      },
-      {
-        "t": 45.05,
-        "i": 0.19,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "just"
-      },
-      {
-        "t": 45.08,
+        "t": 45.06,
         "i": 0.41,
         "d": 15,
         "tp": "word_pulse",
@@ -6044,7 +6185,7 @@
       },
       {
         "t": 45.325,
-        "i": 0.24,
+        "i": 0.25,
         "d": 25,
         "tp": "crash",
         "prio": 9
@@ -6080,7 +6221,7 @@
       },
       {
         "t": 45.8,
-        "i": 0.14,
+        "i": 0.15,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -6093,21 +6234,22 @@
         "prio": 4
       },
       {
-        "t": 45.88,
-        "i": 0.09,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 45.863,
+        "i": 0.25,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "grind"
       },
       {
         "t": 45.906,
-        "i": 0.57,
+        "i": 0.56,
         "d": 12,
         "tp": "snare",
         "prio": 9
       },
       {
-        "t": 45.994,
+        "t": 45.96,
         "i": 0.23,
         "d": 15,
         "tp": "word_sustain",
@@ -6115,82 +6257,88 @@
         "txt": "grind"
       },
       {
-        "t": 45.999,
-        "i": 0.3,
+        "t": 45.985,
+        "i": 0.22,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "grind"
+      },
+      {
+        "t": 46.022,
+        "i": 0.33,
         "d": 30,
         "tp": "bass_slide",
         "prio": 5
       },
       {
-        "t": 46.039,
+        "t": 46.062,
         "i": 0.17,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 46.079,
+        "t": 46.062,
+        "i": 0.25,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "grind"
+      },
+      {
+        "t": 46.102,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.142,
         "i": 0.25,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 46.112,
-        "i": 0.26,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "grind"
-      },
-      {
-        "t": 46.137,
-        "i": 0.22,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "grind"
-      },
-      {
-        "t": 46.162,
-        "i": 0.22,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "grind"
-      },
-      {
-        "t": 46.199,
-        "i": 0.24,
+        "t": 46.182,
+        "i": 0.18,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 46.239,
+        "t": 46.209,
+        "i": 0.16,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "grind"
+      },
+      {
+        "t": 46.222,
         "i": 0.25,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 46.279,
-        "i": 0.14,
+        "t": 46.262,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.32,
+        "i": 0.1,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "grind"
       },
       {
-        "t": 46.304,
-        "i": 0.14,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "grind"
-      },
-      {
-        "t": 46.413,
+        "t": 46.345,
         "i": 0.08,
         "d": 15,
         "tp": "word_sustain",
@@ -6198,30 +6346,22 @@
         "txt": "grind"
       },
       {
-        "t": 46.438,
-        "i": 0.06,
+        "t": 46.37,
+        "i": 0.08,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "grind"
       },
       {
-        "t": 46.463,
-        "i": 0.16,
+        "t": 46.486,
+        "i": 0.23,
         "d": 25,
         "tp": "crash",
         "prio": 9
       },
       {
-        "t": 46.463,
-        "i": 0.06,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "grind"
-      },
-      {
-        "t": 46.719,
+        "t": 46.715,
         "i": 0.01,
         "d": 30,
         "tp": "word_sustain",
@@ -6278,11 +6418,19 @@
         "prio": 4
       },
       {
-        "t": 47.041,
-        "i": 0.14,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 47.043,
+        "i": 0.18,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "I"
+      },
+      {
+        "t": 47.044,
+        "i": 0.32,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
       },
       {
         "t": 47.044,
@@ -6292,14 +6440,7 @@
         "prio": 9
       },
       {
-        "t": 47.081,
-        "i": 0.23,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 47.11,
+        "t": 47.109,
         "i": 0.26,
         "d": 30,
         "tp": "word_sustain",
@@ -6307,12 +6448,18 @@
         "txt": "I"
       },
       {
-        "t": 47.175,
-        "i": 0.18,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "I"
+        "t": 47.164,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.204,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
         "t": 47.24,
@@ -6331,16 +6478,15 @@
         "txt": "been"
       },
       {
-        "t": 47.29,
-        "i": 0.31,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "been"
+        "t": 47.284,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
         "t": 47.315,
-        "i": 0.36,
+        "i": 0.35,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -6356,7 +6502,7 @@
       },
       {
         "t": 47.39,
-        "i": 0.26,
+        "i": 0.25,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -6364,14 +6510,14 @@
       },
       {
         "t": 47.415,
-        "i": 0.21,
+        "i": 0.2,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "been"
       },
       {
-        "t": 47.579,
+        "t": 47.584,
         "i": 0.29,
         "d": 15,
         "tp": "word_pulse",
@@ -6380,7 +6526,7 @@
       },
       {
         "t": 47.624,
-        "i": 0.54,
+        "i": 0.52,
         "d": 12,
         "tp": "snare",
         "prio": 9
@@ -6434,7 +6580,7 @@
       },
       {
         "t": 47.842,
-        "i": 0.29,
+        "i": 0.3,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -6462,13 +6608,6 @@
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
-      },
-      {
-        "t": 48.065,
-        "i": 0.02,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
       },
       {
         "t": 48.205,
@@ -6510,7 +6649,7 @@
       },
       {
         "t": 48.537,
-        "i": 0.15,
+        "i": 0.16,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -6518,7 +6657,7 @@
       },
       {
         "t": 48.599,
-        "i": 0.03,
+        "i": 0.04,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
@@ -6549,25 +6688,75 @@
       },
       {
         "t": 48.762,
-        "i": 0.49,
+        "i": 0.48,
         "d": 12,
         "tp": "snare",
         "prio": 9
       },
       {
         "t": 48.838,
-        "i": 0.06,
+        "i": 0.05,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "grind,"
       },
       {
-        "t": 49.11,
-        "i": 0.09,
-        "d": 10,
-        "tp": "guitar_pick",
-        "prio": 6
+        "t": 48.863,
+        "i": 0.03,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "grind,"
+      },
+      {
+        "t": 48.901,
+        "i": 0.34,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 48.941,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.981,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.021,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.061,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.101,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.141,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
         "t": 49.28,
@@ -6578,33 +6767,25 @@
         "txt": "been"
       },
       {
-        "t": 49.296,
-        "i": 0.09,
-        "d": 10,
-        "tp": "guitar_pick",
-        "prio": 6
-      },
-      {
-        "t": 49.296,
-        "i": 0.02,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
-      },
-      {
         "t": 49.319,
-        "i": 0.75,
+        "i": 0.72,
         "d": 25,
         "tp": "crash",
         "prio": 9
       },
       {
-        "t": 49.4,
-        "i": 0.18,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "been"
+        "t": 49.382,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.422,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
         "t": 49.46,
@@ -6613,6 +6794,13 @@
         "tp": "word_sustain",
         "prio": 4,
         "txt": "been"
+      },
+      {
+        "t": 49.502,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
         "t": 49.52,
@@ -6624,7 +6812,7 @@
       },
       {
         "t": 49.58,
-        "i": 0.37,
+        "i": 0.36,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -6632,7 +6820,7 @@
       },
       {
         "t": 49.64,
-        "i": 0.27,
+        "i": 0.28,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -6640,7 +6828,7 @@
       },
       {
         "t": 49.7,
-        "i": 0.24,
+        "i": 0.23,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -6688,7 +6876,7 @@
       },
       {
         "t": 49.898,
-        "i": 0.33,
+        "i": 0.32,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -6703,7 +6891,7 @@
       },
       {
         "t": 49.953,
-        "i": 0.24,
+        "i": 0.23,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -6738,48 +6926,44 @@
         "prio": 4
       },
       {
-        "t": 50.148,
-        "i": 0.35,
+        "t": 50.16,
+        "i": 0.34,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
         "txt": "my"
       },
       {
-        "t": 50.285,
-        "i": 0.21,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "line"
+        "t": 50.318,
+        "i": 0.27,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
       },
       {
-        "t": 50.31,
-        "i": 0.2,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "line"
+        "t": 50.358,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
-        "t": 50.408,
-        "i": 0.39,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "line"
+        "t": 50.398,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
-        "t": 50.433,
-        "i": 0.31,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "line"
+        "t": 50.438,
+        "i": 0.11,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
-        "t": 50.458,
-        "i": 0.3,
+        "t": 50.468,
+        "i": 0.19,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -6787,61 +6971,76 @@
       },
       {
         "t": 50.48,
-        "i": 0.44,
+        "i": 0.63,
         "d": 12,
         "tp": "snare",
         "prio": 9
       },
       {
-        "t": 50.596,
-        "i": 0.25,
-        "d": 30,
-        "tp": "bass_slide",
-        "prio": 5
+        "t": 50.558,
+        "i": 0.11,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
-        "t": 50.604,
-        "i": 0.37,
+        "t": 50.567,
+        "i": 0.33,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "line"
       },
       {
-        "t": 50.629,
-        "i": 0.32,
+        "t": 50.592,
+        "i": 0.28,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "line"
       },
       {
-        "t": 50.679,
-        "i": 0.26,
+        "t": 50.617,
+        "i": 0.28,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "line"
       },
       {
-        "t": 50.704,
-        "i": 0.26,
+        "t": 50.676,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 50.707,
+        "i": 0.28,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "line"
       },
       {
-        "t": 50.729,
-        "i": 0.26,
+        "t": 50.732,
+        "i": 0.22,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "line"
       },
       {
-        "t": 50.754,
-        "i": 0.23,
+        "t": 50.757,
+        "i": 0.21,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "line"
+      },
+      {
+        "t": 50.782,
+        "i": 0.21,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -6849,21 +7048,13 @@
       },
       {
         "t": 50.836,
-        "i": 0.13,
+        "i": 0.09,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 50.868,
-        "i": 0.11,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "line"
-      },
-      {
-        "t": 50.893,
+        "t": 50.894,
         "i": 0.09,
         "d": 15,
         "tp": "word_sustain",
@@ -6871,24 +7062,40 @@
         "txt": "line"
       },
       {
-        "t": 50.943,
-        "i": 0.08,
+        "t": 50.919,
+        "i": 0.07,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "line"
       },
       {
-        "t": 50.968,
-        "i": 0.08,
+        "t": 50.944,
+        "i": 0.06,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "line"
       },
       {
-        "t": 50.993,
-        "i": 0.08,
+        "t": 50.969,
+        "i": 0.06,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "line"
+      },
+      {
+        "t": 50.994,
+        "i": 0.06,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "line"
+      },
+      {
+        "t": 51.019,
+        "i": 0.06,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -6909,32 +7116,31 @@
         "prio": 3
       },
       {
-        "t": 51.43,
-        "i": 0.02,
+        "t": 51.45,
+        "i": 0.01,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
         "txt": "That's"
       },
       {
-        "t": 51.483,
-        "i": 0.02,
+        "t": 51.479,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 51.501,
+        "i": 0.04,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
         "txt": "That's"
       },
       {
-        "t": 51.542,
-        "i": 0.16,
-        "d": 15,
-        "tp": "word_pulse",
-        "prio": 5,
-        "txt": "That's"
-      },
-      {
-        "t": 51.612,
-        "i": 0.22,
+        "t": 51.558,
+        "i": 0.15,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
@@ -6948,37 +7154,30 @@
         "prio": 9
       },
       {
-        "t": 51.698,
-        "i": 0.13,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 51.716,
-        "i": 0.21,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "That's"
-      },
-      {
-        "t": 51.778,
+        "t": 51.618,
         "i": 0.09,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
       },
       {
-        "t": 51.801,
-        "i": 0.18,
+        "t": 51.724,
+        "i": 0.2,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "That's"
       },
       {
-        "t": 51.826,
+        "t": 51.806,
+        "i": 0.17,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "That's"
+      },
+      {
+        "t": 51.831,
         "i": 0.14,
         "d": 15,
         "tp": "word_sustain",
@@ -6986,7 +7185,7 @@
         "txt": "That's"
       },
       {
-        "t": 51.851,
+        "t": 51.856,
         "i": 0.13,
         "d": 15,
         "tp": "word_sustain",
@@ -6994,7 +7193,7 @@
         "txt": "That's"
       },
       {
-        "t": 51.876,
+        "t": 51.881,
         "i": 0.13,
         "d": 15,
         "tp": "word_sustain",
@@ -7058,7 +7257,7 @@
       },
       {
         "t": 52.282,
-        "i": 0.33,
+        "i": 0.32,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -7066,7 +7265,7 @@
       },
       {
         "t": 52.315,
-        "i": 0.25,
+        "i": 0.24,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -7081,29 +7280,8 @@
         "txt": "reason"
       },
       {
-        "t": 52.524,
-        "i": 0.23,
-        "d": 30,
-        "tp": "bass_slide",
-        "prio": 5
-      },
-      {
-        "t": 52.564,
-        "i": 0.14,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 52.604,
-        "i": 0.13,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
         "t": 52.632,
-        "i": 0.41,
+        "i": 0.4,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
@@ -7111,7 +7289,7 @@
       },
       {
         "t": 52.779,
-        "i": 0.39,
+        "i": 0.38,
         "d": 12,
         "tp": "snare",
         "prio": 9
@@ -7132,13 +7310,6 @@
         "txt": "I"
       },
       {
-        "t": 52.844,
-        "i": 0.2,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
         "t": 52.863,
         "i": 0.24,
         "d": 35,
@@ -7147,7 +7318,7 @@
       },
       {
         "t": 52.872,
-        "i": 0.53,
+        "i": 0.52,
         "d": 18,
         "tp": "bass_beat",
         "prio": 8
@@ -7175,13 +7346,21 @@
       },
       {
         "t": 53.023,
-        "i": 0.33,
+        "i": 0.22,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 53.06,
+        "t": 53.023,
+        "i": 0.35,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "been"
+      },
+      {
+        "t": 53.05,
         "i": 0.38,
         "d": 30,
         "tp": "word_sustain",
@@ -7189,7 +7368,7 @@
         "txt": "been"
       },
       {
-        "t": 53.09,
+        "t": 53.078,
         "i": 0.34,
         "d": 30,
         "tp": "word_sustain",
@@ -7204,15 +7383,7 @@
         "prio": 4
       },
       {
-        "t": 53.15,
-        "i": 0.25,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "been"
-      },
-      {
-        "t": 53.18,
+        "t": 53.16,
         "i": 0.18,
         "d": 30,
         "tp": "word_sustain",
@@ -7220,7 +7391,7 @@
         "txt": "workin'"
       },
       {
-        "t": 53.252,
+        "t": 53.232,
         "i": 0.26,
         "d": 30,
         "tp": "word_sustain",
@@ -7228,61 +7399,54 @@
         "txt": "workin'"
       },
       {
-        "t": 53.325,
-        "i": 0.19,
+        "t": 53.305,
+        "i": 0.23,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "workin'"
       },
       {
-        "t": 53.359,
-        "i": 0.23,
+        "t": 53.336,
+        "i": 0.26,
         "d": 25,
         "tp": "crash",
         "prio": 9
       },
       {
-        "t": 53.359,
-        "i": 0.08,
-        "d": 30,
-        "tp": "guitar_slide",
-        "prio": 5
-      },
-      {
-        "t": 53.397,
-        "i": 0.31,
+        "t": 53.377,
+        "i": 0.27,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "workin'"
       },
       {
-        "t": 53.47,
-        "i": 0.43,
+        "t": 53.45,
+        "i": 0.42,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "workin'"
       },
       {
-        "t": 53.542,
-        "i": 0.34,
+        "t": 53.522,
+        "i": 0.35,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "workin'"
       },
       {
-        "t": 53.615,
-        "i": 0.32,
+        "t": 53.595,
+        "i": 0.29,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "workin'"
       },
       {
-        "t": 53.687,
+        "t": 53.667,
         "i": 0.28,
         "d": 30,
         "tp": "word_sustain",
@@ -7290,7 +7454,7 @@
         "txt": "workin'"
       },
       {
-        "t": 53.832,
+        "t": 53.836,
         "i": 0.35,
         "d": 15,
         "tp": "word_pulse",
@@ -7298,7 +7462,36 @@
         "txt": "hard,"
       },
       {
-        "t": 53.88,
+        "t": 53.9,
+        "i": 0.11,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "you"
+      },
+      {
+        "t": 53.917,
+        "i": 0.48,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 53.917,
+        "i": 0.46,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 53.997,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 53.997,
         "i": 0.14,
         "d": 30,
         "tp": "word_sustain",
@@ -7306,51 +7499,23 @@
         "txt": "you"
       },
       {
-        "t": 53.894,
-        "i": 0.51,
-        "d": 18,
-        "tp": "bass_beat",
-        "prio": 8
-      },
-      {
-        "t": 53.917,
-        "i": 0.49,
-        "d": 25,
-        "tp": "crash",
-        "prio": 9
-      },
-      {
-        "t": 53.974,
-        "i": 0.21,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 54.005,
-        "i": 0.15,
+        "t": 54.03,
+        "i": 0.16,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "you"
       },
       {
-        "t": 54.054,
-        "i": 0.15,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 54.08,
-        "i": 0.12,
+        "t": 54.062,
+        "i": 0.16,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
-        "txt": "could"
+        "txt": "you"
       },
       {
-        "t": 54.094,
+        "t": 54.077,
         "i": 0.22,
         "d": 35,
         "tp": "bass_sustain",
@@ -7359,13 +7524,27 @@
       {
         "t": 54.117,
         "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 54.157,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 54.19,
+        "i": 0.21,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "could"
       },
       {
-        "t": 54.155,
+        "t": 54.22,
         "i": 0.27,
         "d": 30,
         "tp": "word_sustain",
@@ -7373,7 +7552,23 @@
         "txt": "could"
       },
       {
-        "t": 54.193,
+        "t": 54.25,
+        "i": 0.31,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "could"
+      },
+      {
+        "t": 54.28,
+        "i": 0.33,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "could"
+      },
+      {
+        "t": 54.31,
         "i": 0.32,
         "d": 30,
         "tp": "word_sustain",
@@ -7381,15 +7576,7 @@
         "txt": "could"
       },
       {
-        "t": 54.23,
-        "i": 0.38,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "could"
-      },
-      {
-        "t": 54.268,
+        "t": 54.34,
         "i": 0.29,
         "d": 30,
         "tp": "word_sustain",
@@ -7397,39 +7584,23 @@
         "txt": "could"
       },
       {
-        "t": 54.305,
-        "i": 0.26,
+        "t": 54.37,
+        "i": 0.24,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "could"
       },
       {
-        "t": 54.343,
-        "i": 0.23,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "could"
-      },
-      {
-        "t": 54.38,
-        "i": 0.18,
+        "t": 54.43,
+        "i": 0.2,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "stand"
       },
       {
-        "t": 54.41,
-        "i": 0.22,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "stand"
-      },
-      {
-        "t": 54.44,
+        "t": 54.46,
         "i": 0.23,
         "d": 30,
         "tp": "word_sustain",
@@ -7437,23 +7608,23 @@
         "txt": "stand"
       },
       {
-        "t": 54.47,
-        "i": 0.26,
+        "t": 54.49,
+        "i": 0.27,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "stand"
       },
       {
-        "t": 54.5,
-        "i": 0.32,
+        "t": 54.52,
+        "i": 0.33,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "stand"
       },
       {
-        "t": 54.53,
+        "t": 54.55,
         "i": 0.28,
         "d": 30,
         "tp": "word_sustain",
@@ -7461,40 +7632,54 @@
         "txt": "stand"
       },
       {
-        "t": 54.56,
-        "i": 0.25,
+        "t": 54.58,
+        "i": 0.26,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "stand"
       },
       {
-        "t": 54.59,
-        "i": 0.21,
+        "t": 54.61,
+        "i": 0.22,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "stand"
       },
       {
-        "t": 54.761,
-        "i": 0.18,
+        "t": 54.776,
+        "i": 0.06,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 54.781,
+        "i": 0.2,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "aside"
       },
       {
-        "t": 54.853,
-        "i": 0.31,
+        "t": 54.869,
+        "i": 0.19,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 54.875,
+        "i": 0.3,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "aside"
       },
       {
-        "t": 54.878,
-        "i": 0.31,
+        "t": 54.9,
+        "i": 0.29,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -7508,16 +7693,8 @@
         "prio": 4
       },
       {
-        "t": 54.962,
-        "i": 0.43,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "aside"
-      },
-      {
         "t": 54.987,
-        "i": 0.37,
+        "i": 0.46,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -7525,7 +7702,15 @@
       },
       {
         "t": 55.012,
-        "i": 0.37,
+        "i": 0.39,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "aside"
+      },
+      {
+        "t": 55.037,
+        "i": 0.39,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -7533,21 +7718,21 @@
       },
       {
         "t": 55.055,
-        "i": 0.64,
+        "i": 0.67,
         "d": 12,
         "tp": "snare",
         "prio": 9
       },
       {
-        "t": 55.106,
-        "i": 0.31,
+        "t": 55.135,
+        "i": 0.32,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "aside"
       },
       {
-        "t": 55.131,
+        "t": 55.16,
         "i": 0.25,
         "d": 15,
         "tp": "word_sustain",
@@ -7555,46 +7740,46 @@
         "txt": "aside"
       },
       {
-        "t": 55.156,
-        "i": 0.25,
+        "t": 55.185,
+        "i": 0.24,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "aside"
       },
       {
-        "t": 55.211,
-        "i": 0.13,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 55.21,
+        "i": 0.24,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "aside"
       },
       {
         "t": 55.251,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.291,
         "i": 0.13,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 55.28,
-        "i": 0.21,
+        "t": 55.314,
+        "i": 0.22,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "aside"
       },
       {
-        "t": 55.305,
-        "i": 0.18,
-        "d": 15,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "aside"
-      },
-      {
-        "t": 55.355,
-        "i": 0.15,
+        "t": 55.339,
+        "i": 0.19,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -7608,8 +7793,23 @@
         "prio": 4
       },
       {
-        "t": 55.405,
+        "t": 55.411,
+        "i": 0.1,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.439,
         "i": 0.15,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "aside"
+      },
+      {
+        "t": 55.464,
+        "i": 0.14,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -7624,7 +7824,7 @@
       },
       {
         "t": 55.87,
-        "i": 0.01,
+        "i": 0.02,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
@@ -7646,7 +7846,7 @@
       },
       {
         "t": 56.182,
-        "i": 0.11,
+        "i": 0.1,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
@@ -7660,11 +7860,11 @@
         "prio": 9
       },
       {
-        "t": 56.256,
-        "i": 0.15,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 56.192,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
       },
       {
         "t": 56.277,
@@ -7675,27 +7875,6 @@
         "txt": "could"
       },
       {
-        "t": 56.296,
-        "i": 0.21,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 56.336,
-        "i": 0.24,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 56.376,
-        "i": 0.18,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
         "t": 56.376,
         "i": 0.11,
         "d": 15,
@@ -7704,30 +7883,23 @@
         "txt": "could"
       },
       {
-        "t": 56.416,
-        "i": 0.25,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 56.456,
-        "i": 0.24,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 56.495,
-        "i": 0.39,
+        "t": 56.401,
+        "i": 0.11,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "could"
       },
       {
-        "t": 56.52,
-        "i": 0.33,
+        "t": 56.494,
+        "i": 0.22,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 56.495,
+        "i": 0.38,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -7735,7 +7907,7 @@
       },
       {
         "t": 56.545,
-        "i": 0.33,
+        "i": 0.32,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -7750,7 +7922,7 @@
       },
       {
         "t": 56.629,
-        "i": 0.29,
+        "i": 0.28,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -7758,7 +7930,7 @@
       },
       {
         "t": 56.679,
-        "i": 0.23,
+        "i": 0.22,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -7773,15 +7945,15 @@
         "txt": "could"
       },
       {
-        "t": 56.77,
-        "i": 0.1,
+        "t": 56.734,
+        "i": 0.2,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
         "t": 56.773,
-        "i": 0.48,
+        "i": 0.49,
         "d": 12,
         "tp": "snare",
         "prio": 9
@@ -7832,7 +8004,7 @@
       },
       {
         "t": 57.07,
-        "i": 0.33,
+        "i": 0.32,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -7863,7 +8035,7 @@
       },
       {
         "t": 57.211,
-        "i": 0.24,
+        "i": 0.23,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -7887,7 +8059,7 @@
       },
       {
         "t": 57.353,
-        "i": 0.19,
+        "i": 0.22,
         "d": 25,
         "tp": "crash",
         "prio": 9
@@ -7916,14 +8088,14 @@
       },
       {
         "t": 57.702,
-        "i": 0.04,
+        "i": 0.05,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
       },
       {
         "t": 57.911,
-        "i": 0.5,
+        "i": 0.52,
         "d": 12,
         "tp": "snare",
         "prio": 9
@@ -7936,20 +8108,6 @@
         "prio": 3
       },
       {
-        "t": 57.974,
-        "i": 0.09,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 58.014,
-        "i": 0.08,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
         "t": 58.027,
         "i": 0.24,
         "d": 30,
@@ -7957,29 +8115,29 @@
         "prio": 5
       },
       {
-        "t": 58.054,
-        "i": 0.19,
+        "t": 58.067,
+        "i": 0.14,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 58.094,
-        "i": 0.21,
+        "t": 58.107,
+        "i": 0.15,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 58.134,
+        "t": 58.147,
         "i": 0.2,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 58.174,
-        "i": 0.2,
+        "t": 58.187,
+        "i": 0.18,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -8008,7 +8166,7 @@
       },
       {
         "t": 58.491,
-        "i": 0.69,
+        "i": 0.7,
         "d": 25,
         "tp": "crash",
         "prio": 9
@@ -8053,7 +8211,7 @@
       },
       {
         "t": 58.648,
-        "i": 0.32,
+        "i": 0.31,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -8108,7 +8266,7 @@
       },
       {
         "t": 58.988,
-        "i": 0.25,
+        "i": 0.26,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -8152,7 +8310,7 @@
       },
       {
         "t": 59.215,
-        "i": 0.24,
+        "i": 0.23,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -8180,7 +8338,7 @@
       },
       {
         "t": 59.393,
-        "i": 0.2,
+        "i": 0.21,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -8234,7 +8392,7 @@
       },
       {
         "t": 59.629,
-        "i": 0.61,
+        "i": 0.58,
         "d": 25,
         "tp": "crash",
         "prio": 9
@@ -8292,7 +8450,7 @@
       },
       {
         "t": 59.981,
-        "i": 0.33,
+        "i": 0.32,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -8300,7 +8458,7 @@
       },
       {
         "t": 60.006,
-        "i": 0.26,
+        "i": 0.25,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -8308,7 +8466,7 @@
       },
       {
         "t": 60.031,
-        "i": 0.26,
+        "i": 0.25,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -8316,7 +8474,7 @@
       },
       {
         "t": 60.132,
-        "i": 0.11,
+        "i": 0.1,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -8355,7 +8513,15 @@
       },
       {
         "t": 60.34,
-        "i": 0.03,
+        "i": 0.02,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "pride"
+      },
+      {
+        "t": 60.365,
+        "i": 0.02,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -8387,7 +8553,7 @@
       },
       {
         "t": 60.764,
-        "i": 0.05,
+        "i": 0.06,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -8418,7 +8584,7 @@
       },
       {
         "t": 60.891,
-        "i": 0.24,
+        "i": 0.23,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -8466,7 +8632,7 @@
       },
       {
         "t": 61.079,
-        "i": 0.39,
+        "i": 0.38,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -8474,7 +8640,7 @@
       },
       {
         "t": 61.109,
-        "i": 0.43,
+        "i": 0.42,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -8498,11 +8664,19 @@
       },
       {
         "t": 61.201,
-        "i": 0.27,
+        "i": 0.26,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "why"
+      },
+      {
+        "t": 61.231,
+        "i": 0.19,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "she"
       },
       {
         "t": 61.261,
@@ -8600,7 +8774,7 @@
       },
       {
         "t": 61.867,
-        "i": 0.36,
+        "i": 0.35,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -8608,7 +8782,7 @@
       },
       {
         "t": 61.892,
-        "i": 0.33,
+        "i": 0.32,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -8616,32 +8790,31 @@
       },
       {
         "t": 61.928,
-        "i": 0.31,
+        "i": 0.32,
         "d": 12,
         "tp": "snare",
         "prio": 9
       },
       {
         "t": 61.995,
-        "i": 0.09,
+        "i": 0.08,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 62.023,
-        "i": 0.22,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "cryin'"
-      },
-      {
-        "t": 62.044,
-        "i": 0.32,
+        "t": 62.02,
+        "i": 0.2,
         "d": 18,
         "tp": "bass_beat",
         "prio": 8
+      },
+      {
+        "t": 62.06,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
         "t": 62.084,
@@ -8654,6 +8827,13 @@
       {
         "t": 62.115,
         "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 62.14,
+        "i": 0.18,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -8675,11 +8855,18 @@
       },
       {
         "t": 62.205,
-        "i": 0.44,
+        "i": 0.43,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "cryin'"
+      },
+      {
+        "t": 62.26,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
         "t": 62.266,
@@ -8715,7 +8902,7 @@
       },
       {
         "t": 62.508,
-        "i": 0.23,
+        "i": 0.25,
         "d": 25,
         "tp": "crash",
         "prio": 9
@@ -8746,7 +8933,7 @@
       },
       {
         "t": 62.704,
-        "i": 0.42,
+        "i": 0.41,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -8754,7 +8941,7 @@
       },
       {
         "t": 62.734,
-        "i": 0.37,
+        "i": 0.36,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -8762,7 +8949,7 @@
       },
       {
         "t": 62.795,
-        "i": 0.18,
+        "i": 0.17,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -8770,53 +8957,11 @@
       },
       {
         "t": 62.826,
-        "i": 0.16,
+        "i": 0.15,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "me,"
-      },
-      {
-        "t": 62.833,
-        "i": 0.53,
-        "d": 18,
-        "tp": "bass_beat",
-        "prio": 8
-      },
-      {
-        "t": 62.873,
-        "i": 0.26,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 62.913,
-        "i": 0.25,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 62.953,
-        "i": 0.25,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 62.993,
-        "i": 0.26,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 63.033,
-        "i": 0.24,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
       },
       {
         "t": 63.042,
@@ -8834,46 +8979,58 @@
         "prio": 9
       },
       {
-        "t": 63.129,
+        "t": 63.065,
+        "i": 0.52,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 63.145,
         "i": 0.29,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 63.169,
-        "i": 0.3,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 63.181,
+        "i": 0.12,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "live"
       },
       {
-        "t": 63.209,
+        "t": 63.221,
+        "i": 0.21,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "live"
+      },
+      {
+        "t": 63.262,
+        "i": 0.29,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "live"
+      },
+      {
+        "t": 63.303,
         "i": 0.31,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "live"
       },
       {
-        "t": 63.249,
-        "i": 0.31,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 63.289,
-        "i": 0.32,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 63.329,
-        "i": 0.32,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 63.343,
+        "i": 0.2,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "live"
       },
       {
         "t": 63.384,
@@ -8916,7 +9073,7 @@
       },
       {
         "t": 63.874,
-        "i": 0.26,
+        "i": 0.25,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -8940,7 +9097,7 @@
       },
       {
         "t": 63.96,
-        "i": 0.46,
+        "i": 0.45,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -8948,7 +9105,7 @@
       },
       {
         "t": 63.989,
-        "i": 0.39,
+        "i": 0.38,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -8956,7 +9113,7 @@
       },
       {
         "t": 64.041,
-        "i": 0.35,
+        "i": 0.36,
         "d": 18,
         "tp": "bass_beat",
         "prio": 8
@@ -8991,7 +9148,7 @@
       },
       {
         "t": 64.226,
-        "i": 0.47,
+        "i": 0.48,
         "d": 25,
         "tp": "crash",
         "prio": 9
@@ -9020,7 +9177,7 @@
       },
       {
         "t": 64.374,
-        "i": 0.32,
+        "i": 0.31,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -9087,18 +9244,17 @@
       },
       {
         "t": 65.086,
-        "i": 0.15,
+        "i": 0.16,
         "d": 30,
         "tp": "bass_slide",
         "prio": 5
       },
       {
-        "t": 65.13,
-        "i": 0.05,
-        "d": 15,
-        "tp": "word_pulse",
-        "prio": 5,
-        "txt": "I"
+        "t": 65.086,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
       },
       {
         "t": 65.155,
@@ -9106,6 +9262,13 @@
         "d": 30,
         "tp": "guitar_slide",
         "prio": 5
+      },
+      {
+        "t": 65.166,
+        "i": 0.1,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
         "t": 65.202,
@@ -9136,22 +9299,29 @@
         "prio": 4
       },
       {
-        "t": 65.362,
-        "i": 0.13,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 65.364,
+        "i": 0.2,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
       },
       {
         "t": 65.364,
-        "i": 0.57,
+        "i": 0.58,
         "d": 25,
         "tp": "crash",
         "prio": 9
       },
       {
+        "t": 65.364,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
         "t": 65.427,
-        "i": 0.15,
+        "i": 0.16,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -9166,73 +9336,46 @@
         "txt": "can"
       },
       {
-        "t": 65.528,
-        "i": 0.13,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "can"
+        "t": 65.524,
+        "i": 0.1,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 65.564,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
         "t": 65.578,
-        "i": 0.26,
+        "i": 0.25,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "can"
       },
       {
-        "t": 65.62,
+        "t": 65.629,
         "i": 0.24,
         "d": 30,
-        "tp": "bass_slide",
-        "prio": 5
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "can"
       },
       {
-        "t": 65.66,
-        "i": 0.15,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 65.7,
-        "i": 0.16,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 65.74,
-        "i": 0.16,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 65.78,
-        "i": 0.15,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 65.82,
-        "i": 0.16,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 65.86,
-        "i": 0.14,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 65.679,
+        "i": 0.1,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "can"
       },
       {
         "t": 65.916,
-        "i": 0.17,
+        "i": 0.16,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
@@ -9240,7 +9383,7 @@
       },
       {
         "t": 65.945,
-        "i": 0.45,
+        "i": 0.46,
         "d": 12,
         "tp": "snare",
         "prio": 9
@@ -9269,7 +9412,7 @@
       },
       {
         "t": 66.103,
-        "i": 0.22,
+        "i": 0.21,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -9300,7 +9443,7 @@
       },
       {
         "t": 66.242,
-        "i": 0.29,
+        "i": 0.28,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -9308,7 +9451,7 @@
       },
       {
         "t": 66.267,
-        "i": 0.29,
+        "i": 0.28,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
@@ -9340,7 +9483,7 @@
       },
       {
         "t": 66.502,
-        "i": 0.39,
+        "i": 0.4,
         "d": 25,
         "tp": "crash",
         "prio": 9
@@ -9361,11 +9504,12 @@
         "txt": "die,"
       },
       {
-        "t": 66.85,
-        "i": 0.03,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
+        "t": 66.867,
+        "i": 0.01,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "die,"
       },
       {
         "t": 66.873,
@@ -9375,22 +9519,29 @@
         "prio": 5
       },
       {
-        "t": 67.082,
-        "i": 0.48,
-        "d": 12,
-        "tp": "snare",
-        "prio": 9
-      },
-      {
-        "t": 67.082,
+        "t": 66.873,
         "i": 0.04,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
       },
       {
-        "t": 67.199,
+        "t": 67.059,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 67.082,
         "i": 0.5,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 67.199,
+        "i": 0.49,
         "d": 18,
         "tp": "bass_beat",
         "prio": 8
@@ -9455,7 +9606,7 @@
       },
       {
         "t": 67.6,
-        "i": 0.14,
+        "i": 0.13,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -9471,7 +9622,7 @@
       },
       {
         "t": 67.64,
-        "i": 0.75,
+        "i": 0.76,
         "d": 25,
         "tp": "crash",
         "prio": 9
@@ -9485,13 +9636,6 @@
         "txt": "too"
       },
       {
-        "t": 67.779,
-        "i": 0.08,
-        "d": 30,
-        "tp": "guitar_slide",
-        "prio": 5
-      },
-      {
         "t": 67.793,
         "i": 0.3,
         "d": 30,
@@ -9501,7 +9645,7 @@
       },
       {
         "t": 67.849,
-        "i": 0.44,
+        "i": 0.43,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -9540,18 +9684,11 @@
         "txt": "too"
       },
       {
-        "t": 68.243,
+        "t": 68.22,
         "i": 0.23,
         "d": 25,
         "tp": "crash",
         "prio": 9
-      },
-      {
-        "t": 68.243,
-        "i": 0.1,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
       },
       {
         "t": 68.478,
@@ -9570,7 +9707,7 @@
       },
       {
         "t": 68.51,
-        "i": 0.15,
+        "i": 0.14,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -9610,7 +9747,7 @@
       },
       {
         "t": 68.667,
-        "i": 0.3,
+        "i": 0.29,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -9634,10 +9771,17 @@
       },
       {
         "t": 68.801,
-        "i": 0.59,
+        "i": 0.62,
         "d": 25,
         "tp": "crash",
         "prio": 9
+      },
+      {
+        "t": 68.801,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
       },
       {
         "t": 68.845,
@@ -9780,7 +9924,7 @@
       },
       {
         "t": 69.9,
-        "i": 0.21,
+        "i": 0.19,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
@@ -9841,7 +9985,7 @@
       },
       {
         "t": 70.5,
-        "i": 0.34,
+        "i": 0.33,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
@@ -9856,7 +10000,7 @@
       },
       {
         "t": 70.61,
-        "i": 0.22,
+        "i": 0.23,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
@@ -9864,7 +10008,7 @@
       },
       {
         "t": 70.72,
-        "i": 0.24,
+        "i": 0.23,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
@@ -9872,7 +10016,7 @@
       },
       {
         "t": 70.83,
-        "i": 0.33,
+        "i": 0.31,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
@@ -9880,7 +10024,7 @@
       },
       {
         "t": 70.867,
-        "i": 0.24,
+        "i": 0.23,
         "d": 30,
         "tp": "bass_slide",
         "prio": 5
@@ -9909,7 +10053,7 @@
       },
       {
         "t": 71.05,
-        "i": 0.32,
+        "i": 0.31,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
@@ -9917,14 +10061,14 @@
       },
       {
         "t": 71.1,
-        "i": 0.38,
+        "i": 0.41,
         "d": 12,
         "tp": "snare",
         "prio": 9
       },
       {
         "t": 71.16,
-        "i": 0.29,
+        "i": 0.28,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
@@ -9999,43 +10143,44 @@
       },
       {
         "t": 71.657,
-        "i": 0.23,
+        "i": 0.26,
         "d": 25,
         "tp": "crash",
         "prio": 9
       },
       {
         "t": 71.71,
-        "i": 0.37,
+        "i": 0.39,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
         "txt": "I'll"
       },
       {
-        "t": 71.84,
-        "i": 0.4,
+        "t": 71.86,
+        "i": 0.38,
         "d": 15,
         "tp": "word_pulse",
         "prio": 5,
         "txt": "live"
       },
       {
-        "t": 72.028,
-        "i": 0.03,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
+        "t": 72.195,
+        "i": 0.14,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "forever"
       },
       {
         "t": 72.214,
-        "i": 0.41,
+        "i": 0.58,
         "d": 25,
         "tp": "crash",
         "prio": 9
       },
       {
-        "t": 72.266,
+        "t": 72.256,
         "i": 0.25,
         "d": 30,
         "tp": "word_sustain",
@@ -10043,7 +10188,7 @@
         "txt": "forever"
       },
       {
-        "t": 72.292,
+        "t": 72.287,
         "i": 0.34,
         "d": 30,
         "tp": "word_sustain",
@@ -10051,7 +10196,7 @@
         "txt": "forever"
       },
       {
-        "t": 72.318,
+        "t": 72.317,
         "i": 0.41,
         "d": 30,
         "tp": "word_sustain",
@@ -10059,7 +10204,15 @@
         "txt": "forever"
       },
       {
-        "t": 72.369,
+        "t": 72.348,
+        "i": 0.29,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "forever"
+      },
+      {
+        "t": 72.379,
         "i": 0.22,
         "d": 30,
         "tp": "word_sustain",
@@ -10067,7 +10220,7 @@
         "txt": "forever"
       },
       {
-        "t": 72.394,
+        "t": 72.409,
         "i": 0.18,
         "d": 30,
         "tp": "word_sustain",
@@ -10075,14 +10228,7 @@
         "txt": "forever"
       },
       {
-        "t": 72.433,
-        "i": 0.13,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 72.46,
+        "t": 72.477,
         "i": 0.16,
         "d": 30,
         "tp": "word_sustain",
@@ -10090,30 +10236,23 @@
         "txt": "through"
       },
       {
-        "t": 72.5,
-        "i": 0.15,
+        "t": 72.515,
+        "i": 0.1,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "through"
       },
       {
-        "t": 72.54,
-        "i": 0.09,
+        "t": 72.552,
+        "i": 0.12,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "through"
       },
       {
-        "t": 72.553,
-        "i": 0.15,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 72.58,
+        "t": 72.59,
         "i": 0.24,
         "d": 30,
         "tp": "word_sustain",
@@ -10121,7 +10260,15 @@
         "txt": "through"
       },
       {
-        "t": 72.62,
+        "t": 72.627,
+        "i": 0.28,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "through"
+      },
+      {
+        "t": 72.665,
         "i": 0.25,
         "d": 30,
         "tp": "word_sustain",
@@ -10129,15 +10276,7 @@
         "txt": "through"
       },
       {
-        "t": 72.66,
-        "i": 0.25,
-        "d": 30,
-        "tp": "word_sustain",
-        "prio": 4,
-        "txt": "through"
-      },
-      {
-        "t": 72.7,
+        "t": 72.702,
         "i": 0.18,
         "d": 30,
         "tp": "word_sustain",
@@ -10169,7 +10308,7 @@
       },
       {
         "t": 72.868,
-        "i": 0.43,
+        "i": 0.42,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -10177,7 +10316,7 @@
       },
       {
         "t": 72.91,
-        "i": 0.33,
+        "i": 0.32,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -10193,7 +10332,7 @@
       },
       {
         "t": 72.995,
-        "i": 0.29,
+        "i": 0.3,
         "d": 30,
         "tp": "word_sustain",
         "prio": 4,
@@ -10209,46 +10348,47 @@
       },
       {
         "t": 73.305,
-        "i": 0.55,
+        "i": 0.56,
         "d": 25,
         "tp": "crash",
         "prio": 9
       },
       {
         "t": 73.352,
-        "i": 0.24,
+        "i": 0.25,
         "d": 30,
         "tp": "bass_slide",
         "prio": 5
       },
       {
         "t": 73.432,
-        "i": 0.1,
+        "i": 0.09,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 73.451,
-        "i": 0.18,
+        "t": 73.463,
+        "i": 0.2,
         "d": 15,
         "tp": "word_sustain",
         "prio": 4,
         "txt": "vibe"
       },
       {
-        "t": 73.472,
-        "i": 0.15,
+        "t": 73.488,
+        "i": 0.17,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "vibe"
+      },
+      {
+        "t": 73.512,
+        "i": 0.22,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
-      },
-      {
-        "t": 73.491,
-        "i": 0.42,
-        "d": 30,
-        "tp": "bass_slide",
-        "prio": 5
       },
       {
         "t": 73.531,
@@ -10266,7 +10406,7 @@
       },
       {
         "t": 73.592,
-        "i": 0.21,
+        "i": 0.3,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -10280,7 +10420,7 @@
       },
       {
         "t": 73.651,
-        "i": 0.29,
+        "i": 0.2,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -10300,7 +10440,15 @@
         "prio": 4
       },
       {
-        "t": 73.801,
+        "t": 73.808,
+        "i": 0.05,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "vibe"
+      },
+      {
+        "t": 73.833,
         "i": 0.04,
         "d": 15,
         "tp": "word_sustain",
@@ -10308,7 +10456,7 @@
         "txt": "vibe"
       },
       {
-        "t": 73.826,
+        "t": 73.858,
         "i": 0.04,
         "d": 15,
         "tp": "word_sustain",
@@ -10316,7 +10464,15 @@
         "txt": "vibe"
       },
       {
-        "t": 73.851,
+        "t": 73.883,
+        "i": 0.04,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "vibe"
+      },
+      {
+        "t": 73.908,
         "i": 0.04,
         "d": 15,
         "tp": "word_sustain",
@@ -10325,20 +10481,27 @@
       },
       {
         "t": 73.909,
-        "i": 0.23,
+        "i": 0.16,
         "d": 25,
         "tp": "crash",
         "prio": 9
       },
       {
         "t": 74.002,
-        "i": 0.07,
+        "i": 0.09,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
       },
       {
-        "t": 74.35,
+        "t": 74.327,
+        "i": 0.05,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 74.374,
         "i": 0.05,
         "d": 35,
         "tp": "synth_pad",
@@ -10346,7 +10509,7 @@
       },
       {
         "t": 74.49,
-        "i": 0.05,
+        "i": 0.03,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
@@ -10367,7 +10530,7 @@
       },
       {
         "t": 74.616,
-        "i": 0.19,
+        "i": 0.13,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -10381,7 +10544,7 @@
       },
       {
         "t": 74.696,
-        "i": 0.15,
+        "i": 0.21,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -10395,7 +10558,7 @@
       },
       {
         "t": 74.776,
-        "i": 0.22,
+        "i": 0.15,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -10416,7 +10579,7 @@
       },
       {
         "t": 75.581,
-        "i": 0.04,
+        "i": 0.05,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
@@ -10430,28 +10593,28 @@
       },
       {
         "t": 75.743,
-        "i": 0.04,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
-      },
-      {
-        "t": 75.976,
         "i": 0.06,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
       },
       {
+        "t": 75.952,
+        "i": 0.05,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
         "t": 76.022,
-        "i": 0.15,
+        "i": 0.17,
         "d": 10,
         "tp": "guitar_pick",
         "prio": 6
       },
       {
         "t": 76.231,
-        "i": 0.07,
+        "i": 0.05,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
@@ -10464,13 +10627,6 @@
         "prio": 10
       },
       {
-        "t": 76.254,
-        "i": 0.1,
-        "d": 10,
-        "tp": "guitar_pick",
-        "prio": 6
-      },
-      {
         "t": 76.334,
         "i": 0.15,
         "d": 35,
@@ -10478,14 +10634,21 @@
         "prio": 4
       },
       {
-        "t": 76.37,
-        "i": 0.46,
+        "t": 76.347,
+        "i": 0.4,
         "d": 18,
         "tp": "bass_beat",
         "prio": 8
       },
       {
-        "t": 76.41,
+        "t": 76.387,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 76.414,
         "i": 0.24,
         "d": 35,
         "tp": "bass_sustain",
@@ -10499,95 +10662,81 @@
         "prio": 4
       },
       {
-        "t": 76.49,
+        "t": 76.494,
         "i": 0.25,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 76.53,
-        "i": 0.26,
+        "t": 76.547,
+        "i": 0.25,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 76.57,
+        "t": 76.587,
         "i": 0.27,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 76.61,
-        "i": 0.26,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
         "t": 76.788,
-        "i": 0.07,
+        "i": 0.08,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
       },
       {
         "t": 76.812,
-        "i": 0.7,
+        "i": 0.71,
         "d": 25,
         "tp": "crash",
         "prio": 9
       },
       {
-        "t": 76.812,
-        "i": 0.38,
-        "d": 30,
-        "tp": "bass_slide",
-        "prio": 5
-      },
-      {
-        "t": 76.892,
+        "t": 76.875,
         "i": 0.29,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 76.932,
+        "t": 76.915,
         "i": 0.2,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 76.972,
+        "t": 76.955,
         "i": 0.29,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 77.012,
-        "i": 0.2,
+        "t": 76.995,
+        "i": 0.28,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 77.052,
-        "i": 0.27,
+        "t": 77.035,
+        "i": 0.19,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 77.113,
-        "i": 0.07,
+        "t": 77.075,
+        "i": 0.26,
         "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
         "t": 77.392,
@@ -10598,7 +10747,7 @@
       },
       {
         "t": 77.392,
-        "i": 0.32,
+        "i": 0.31,
         "d": 18,
         "tp": "orchestral_hit",
         "prio": 7
@@ -10619,21 +10768,21 @@
       },
       {
         "t": 77.495,
-        "i": 0.24,
+        "i": 0.17,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
         "t": 77.535,
-        "i": 0.23,
+        "i": 0.24,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
         "t": 77.575,
-        "i": 0.22,
+        "i": 0.23,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -10647,66 +10796,80 @@
       },
       {
         "t": 77.655,
-        "i": 0.16,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 77.671,
-        "i": 0.28,
-        "d": 18,
-        "tp": "bass_beat",
-        "prio": 8
-      },
-      {
-        "t": 77.751,
-        "i": 0.12,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 77.787,
-        "i": 0.27,
-        "d": 30,
-        "tp": "bass_slide",
-        "prio": 5
-      },
-      {
-        "t": 77.827,
-        "i": 0.19,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 77.867,
-        "i": 0.18,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 77.907,
         "i": 0.17,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 77.947,
-        "i": 0.11,
+        "t": 77.694,
+        "i": 0.18,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 77.734,
+        "i": 0.12,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 77.774,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 77.787,
+        "i": 0.29,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 77.827,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 77.854,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 77.894,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 77.934,
+        "i": 0.16,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
         "t": 77.949,
-        "i": 0.58,
+        "i": 0.56,
         "d": 12,
         "tp": "snare",
         "prio": 9
+      },
+      {
+        "t": 78.027,
+        "i": 0.07,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
         "t": 78.053,
@@ -10717,13 +10880,13 @@
       },
       {
         "t": 78.065,
-        "i": 0.22,
+        "i": 0.21,
         "d": 30,
         "tp": "bass_slide",
         "prio": 5
       },
       {
-        "t": 78.105,
+        "t": 78.093,
         "i": 0.17,
         "d": 35,
         "tp": "bass_sustain",
@@ -10731,6 +10894,13 @@
       },
       {
         "t": 78.133,
+        "i": 0.12,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 78.145,
         "i": 0.17,
         "d": 35,
         "tp": "bass_sustain",
@@ -10738,56 +10908,84 @@
       },
       {
         "t": 78.173,
-        "i": 0.12,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 78.185,
-        "i": 0.17,
+        "i": 0.16,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
         "t": 78.213,
+        "i": 0.11,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 78.225,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 78.251,
+        "i": 0.36,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 78.291,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 78.331,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 78.371,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 78.411,
         "i": 0.17,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 78.265,
+        "t": 78.451,
         "i": 0.17,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 78.305,
+        "t": 78.491,
         "i": 0.17,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 78.53,
-        "i": 0.23,
-        "d": 25,
-        "tp": "crash",
-        "prio": 9
-      },
-      {
-        "t": 78.739,
-        "i": 0.04,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
+        "t": 78.553,
+        "i": 0.06,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
       },
       {
         "t": 79.087,
-        "i": 0.65,
+        "i": 0.66,
         "d": 25,
         "tp": "crash",
         "prio": 9
@@ -10808,24 +11006,17 @@
       },
       {
         "t": 79.691,
-        "i": 0.18,
+        "i": 0.19,
         "d": 10,
         "tp": "guitar_pick",
         "prio": 6
       },
       {
         "t": 80.155,
-        "i": 0.34,
+        "i": 0.33,
         "d": 18,
         "tp": "bass_beat",
         "prio": 8
-      },
-      {
-        "t": 80.155,
-        "i": 0.03,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
       },
       {
         "t": 80.248,
@@ -10835,22 +11026,15 @@
         "prio": 9
       },
       {
-        "t": 80.248,
-        "i": 0.04,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
-      },
-      {
         "t": 80.315,
-        "i": 0.15,
+        "i": 0.14,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
         "t": 80.341,
-        "i": 0.51,
+        "i": 0.5,
         "d": 18,
         "tp": "bass_beat",
         "prio": 8
@@ -10900,16 +11084,9 @@
       {
         "t": 80.829,
         "i": 0.23,
-        "d": 12,
-        "tp": "snare",
+        "d": 25,
+        "tp": "crash",
         "prio": 9
-      },
-      {
-        "t": 80.829,
-        "i": 0.02,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
       },
       {
         "t": 81.386,
@@ -10920,7 +11097,7 @@
       },
       {
         "t": 81.386,
-        "i": 0.04,
+        "i": 0.05,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
@@ -10941,7 +11118,7 @@
       },
       {
         "t": 81.711,
-        "i": 0.15,
+        "i": 0.16,
         "d": 30,
         "tp": "guitar_slide",
         "prio": 5
@@ -10997,7 +11174,7 @@
       },
       {
         "t": 82.547,
-        "i": 0.55,
+        "i": 0.53,
         "d": 25,
         "tp": "crash",
         "prio": 9
@@ -11059,7 +11236,7 @@
         "prio": 9
       },
       {
-        "t": 83.336,
+        "t": 83.313,
         "i": 0.05,
         "d": 35,
         "tp": "synth_pad",
@@ -11067,14 +11244,14 @@
       },
       {
         "t": 83.476,
-        "i": 0.1,
+        "i": 0.08,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
       },
       {
         "t": 83.661,
-        "i": 0.07,
+        "i": 0.05,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
@@ -11087,8 +11264,50 @@
         "prio": 9
       },
       {
+        "t": 83.685,
+        "i": 0.6,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 83.765,
+        "i": 0.3,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 83.805,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 83.845,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 83.885,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 83.925,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
         "t": 84.103,
-        "i": 0.05,
+        "i": 0.04,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
@@ -11164,6 +11383,13 @@
         "prio": 4
       },
       {
+        "t": 84.59,
+        "i": 0.11,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
         "t": 84.598,
         "i": 0.23,
         "d": 35,
@@ -11178,7 +11404,7 @@
         "prio": 9
       },
       {
-        "t": 84.915,
+        "t": 84.939,
         "i": 0.09,
         "d": 35,
         "tp": "synth_pad",
@@ -11186,7 +11412,7 @@
       },
       {
         "t": 85.124,
-        "i": 0.06,
+        "i": 0.05,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
@@ -11200,70 +11426,84 @@
       },
       {
         "t": 85.403,
-        "i": 0.23,
+        "i": 0.24,
         "d": 18,
         "tp": "bass_beat",
         "prio": 8
       },
       {
         "t": 85.403,
-        "i": 0.25,
+        "i": 0.26,
         "d": 18,
         "tp": "orchestral_hit",
         "prio": 7
       },
       {
         "t": 85.483,
-        "i": 0.1,
+        "i": 0.09,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 85.523,
+        "t": 85.519,
+        "i": 0.2,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 85.559,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 85.599,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 85.639,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 85.679,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 85.719,
         "i": 0.13,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 85.563,
-        "i": 0.14,
+        "t": 85.759,
+        "i": 0.15,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
-      },
-      {
-        "t": 85.603,
-        "i": 0.14,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 85.643,
-        "i": 0.14,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 85.682,
-        "i": 0.07,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
       },
       {
         "t": 85.96,
-        "i": 0.7,
+        "i": 0.69,
         "d": 25,
         "tp": "crash",
         "prio": 9
       },
       {
         "t": 85.96,
-        "i": 0.07,
+        "i": 0.06,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
@@ -11326,35 +11566,35 @@
       },
       {
         "t": 86.541,
-        "i": 0.33,
-        "d": 18,
-        "tp": "orchestral_hit",
-        "prio": 7
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
       },
       {
-        "t": 86.819,
-        "i": 0.09,
+        "t": 86.843,
+        "i": 0.07,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
       },
       {
         "t": 87.121,
-        "i": 0.63,
+        "i": 0.57,
         "d": 12,
         "tp": "snare",
         "prio": 9
       },
       {
         "t": 87.121,
-        "i": 0.37,
-        "d": 18,
-        "tp": "orchestral_hit",
-        "prio": 7
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
       },
       {
         "t": 87.237,
-        "i": 0.35,
+        "i": 0.34,
         "d": 30,
         "tp": "bass_slide",
         "prio": 5
@@ -11389,7 +11629,7 @@
       },
       {
         "t": 87.437,
-        "i": 0.24,
+        "i": 0.23,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -11404,9 +11644,16 @@
       {
         "t": 87.702,
         "i": 0.23,
-        "d": 25,
-        "tp": "crash",
+        "d": 12,
+        "tp": "snare",
         "prio": 9
+      },
+      {
+        "t": 88.097,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
       },
       {
         "t": 88.259,
@@ -11417,13 +11664,13 @@
       },
       {
         "t": 88.259,
-        "i": 0.06,
+        "i": 0.08,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
       },
       {
-        "t": 88.561,
+        "t": 88.584,
         "i": 0.12,
         "d": 10,
         "tp": "guitar_pick",
@@ -11431,7 +11678,7 @@
       },
       {
         "t": 88.816,
-        "i": 0.07,
+        "i": 0.09,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
@@ -11444,57 +11691,8 @@
         "prio": 9
       },
       {
-        "t": 88.863,
-        "i": 0.24,
-        "d": 30,
-        "tp": "bass_slide",
-        "prio": 5
-      },
-      {
-        "t": 88.863,
-        "i": 0.16,
-        "d": 10,
-        "tp": "guitar_pick",
-        "prio": 6
-      },
-      {
-        "t": 88.943,
-        "i": 0.16,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 88.983,
-        "i": 0.15,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 89.023,
-        "i": 0.15,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 89.063,
-        "i": 0.15,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 89.103,
-        "i": 0.13,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
         "t": 89.141,
-        "i": 0.22,
+        "i": 0.17,
         "d": 10,
         "tp": "guitar_pick",
         "prio": 6
@@ -11508,24 +11706,24 @@
       },
       {
         "t": 89.327,
-        "i": 0.09,
-        "d": 10,
-        "tp": "guitar_pick",
-        "prio": 6
-      },
-      {
-        "t": 89.327,
-        "i": 0.03,
+        "i": 0.04,
         "d": 35,
         "tp": "synth_pad",
         "prio": 3
       },
       {
         "t": 89.42,
-        "i": 0.37,
+        "i": 0.38,
         "d": 12,
         "tp": "snare",
         "prio": 9
+      },
+      {
+        "t": 89.42,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
       },
       {
         "t": 89.42,
@@ -11543,10 +11741,10 @@
       },
       {
         "t": 89.513,
-        "i": 0.31,
-        "d": 30,
-        "tp": "bass_slide",
-        "prio": 5
+        "i": 0.45,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
       },
       {
         "t": 89.553,
@@ -11599,14 +11797,14 @@
       },
       {
         "t": 89.977,
-        "i": 0.15,
+        "i": 0.14,
         "d": 10,
         "tp": "guitar_pick",
         "prio": 6
       },
       {
         "t": 90.535,
-        "i": 0.57,
+        "i": 0.6,
         "d": 25,
         "tp": "crash",
         "prio": 9
@@ -11627,21 +11825,21 @@
       },
       {
         "t": 90.638,
-        "i": 0.31,
+        "i": 0.3,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
         "t": 90.678,
-        "i": 0.3,
+        "i": 0.29,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
         "t": 90.718,
-        "i": 0.3,
+        "i": 0.29,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -11675,13 +11873,6 @@
         "prio": 9
       },
       {
-        "t": 91.162,
-        "i": 0.09,
-        "d": 10,
-        "tp": "guitar_pick",
-        "prio": 6
-      },
-      {
         "t": 91.51,
         "i": 0.28,
         "d": 30,
@@ -11704,7 +11895,7 @@
       },
       {
         "t": 91.626,
-        "i": 0.41,
+        "i": 0.39,
         "d": 25,
         "tp": "crash",
         "prio": 9
@@ -11752,18 +11943,18 @@
         "prio": 6
       },
       {
+        "t": 92.949,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
         "t": 93.182,
         "i": 0.08,
         "d": 30,
         "tp": "guitar_slide",
         "prio": 5
-      },
-      {
-        "t": 93.437,
-        "i": 0.04,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
       },
       {
         "t": 93.484,
@@ -11788,7 +11979,7 @@
       },
       {
         "t": 94.343,
-        "i": 0.09,
+        "i": 0.1,
         "d": 30,
         "tp": "guitar_slide",
         "prio": 5
@@ -11851,7 +12042,7 @@
       },
       {
         "t": 94.9,
-        "i": 0.08,
+        "i": 0.09,
         "d": 30,
         "tp": "guitar_slide",
         "prio": 5
@@ -11871,105 +12062,112 @@
         "prio": 3
       },
       {
-        "t": 95.155,
+        "t": 95.179,
         "i": 0.33,
         "d": 30,
         "tp": "bass_slide",
         "prio": 5
       },
       {
-        "t": 95.195,
+        "t": 95.179,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 95.219,
         "i": 0.22,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 95.235,
-        "i": 0.22,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 95.275,
+        "t": 95.259,
         "i": 0.21,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 95.315,
+        "t": 95.299,
         "i": 0.21,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 95.355,
+        "t": 95.339,
         "i": 0.2,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 95.395,
+        "t": 95.379,
         "i": 0.19,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 95.457,
-        "i": 0.08,
-        "d": 30,
-        "tp": "guitar_slide",
-        "prio": 5
+        "t": 95.419,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
-        "t": 95.759,
-        "i": 0.33,
+        "t": 95.736,
+        "i": 0.32,
         "d": 30,
         "tp": "bass_slide",
         "prio": 5
       },
       {
-        "t": 95.799,
+        "t": 95.736,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 95.776,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 95.816,
         "i": 0.21,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 95.839,
-        "i": 0.21,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 95.879,
+        "t": 95.856,
         "i": 0.2,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 95.919,
+        "t": 95.896,
         "i": 0.2,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 95.959,
+        "t": 95.936,
         "i": 0.21,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 95.999,
+        "t": 95.976,
         "i": 0.21,
         "d": 35,
         "tp": "bass_sustain",
@@ -12026,7 +12224,7 @@
       },
       {
         "t": 96.493,
-        "i": 0.31,
+        "i": 0.3,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
@@ -12046,53 +12244,11 @@
         "prio": 5
       },
       {
-        "t": 96.874,
-        "i": 0.63,
-        "d": 18,
-        "tp": "bass_beat",
-        "prio": 8
-      },
-      {
-        "t": 96.914,
-        "i": 0.3,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 96.954,
-        "i": 0.3,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 96.994,
-        "i": 0.3,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 97.034,
-        "i": 0.3,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 97.074,
-        "i": 0.3,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 97.114,
-        "i": 0.29,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 97.152,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
       },
       {
         "t": 97.454,
@@ -12131,7 +12287,7 @@
       },
       {
         "t": 98.313,
-        "i": 0.09,
+        "i": 0.1,
         "d": 10,
         "tp": "guitar_pick",
         "prio": 6
@@ -12144,18 +12300,11 @@
         "prio": 5
       },
       {
-        "t": 98.569,
-        "i": 0.04,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
-      },
-      {
-        "t": 98.615,
-        "i": 0.09,
-        "d": 10,
-        "tp": "guitar_pick",
-        "prio": 6
+        "t": 98.592,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
       },
       {
         "t": 98.894,
@@ -12186,18 +12335,11 @@
         "prio": 6
       },
       {
-        "t": 99.962,
-        "i": 0.04,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
-      },
-      {
         "t": 100.032,
-        "i": 0.09,
-        "d": 10,
-        "tp": "guitar_pick",
-        "prio": 6
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
       },
       {
         "t": 100.101,
@@ -12235,53 +12377,11 @@
         "prio": 6
       },
       {
-        "t": 100.891,
-        "i": 0.46,
-        "d": 30,
-        "tp": "bass_slide",
-        "prio": 5
-      },
-      {
-        "t": 100.931,
-        "i": 0.32,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 100.971,
-        "i": 0.29,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 101.011,
-        "i": 0.31,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 101.051,
-        "i": 0.31,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 101.091,
-        "i": 0.27,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 101.131,
-        "i": 0.29,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 101.169,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
       },
       {
         "t": 101.471,
@@ -12305,18 +12405,11 @@
         "prio": 5
       },
       {
-        "t": 102.052,
-        "i": 0.11,
-        "d": 10,
-        "tp": "guitar_pick",
-        "prio": 6
-      },
-      {
-        "t": 102.121,
-        "i": 0.03,
-        "d": 35,
-        "tp": "synth_pad",
-        "prio": 3
+        "t": 102.028,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
       },
       {
         "t": 102.354,
@@ -12361,11 +12454,53 @@
         "prio": 3
       },
       {
-        "t": 103.77,
-        "i": 0.08,
-        "d": 30,
-        "tp": "guitar_slide",
-        "prio": 5
+        "t": 103.724,
+        "i": 0.48,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 103.764,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 103.804,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 103.844,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 103.884,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 103.924,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 103.964,
+        "i": 0.29,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
       },
       {
         "t": 104.072,
@@ -12453,59 +12588,17 @@
       },
       {
         "t": 104.908,
-        "i": 0.35,
-        "d": 30,
-        "tp": "bass_slide",
-        "prio": 5
-      },
-      {
-        "t": 104.908,
         "i": 0.09,
         "d": 10,
         "tp": "guitar_pick",
         "prio": 6
       },
       {
-        "t": 104.948,
-        "i": 0.22,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 104.988,
-        "i": 0.22,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 105.028,
-        "i": 0.2,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 105.068,
-        "i": 0.19,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 105.108,
-        "i": 0.18,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 105.148,
-        "i": 0.18,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
+        "t": 105.163,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
       },
       {
         "t": 105.442,
@@ -12614,10 +12707,10 @@
       },
       {
         "t": 107.462,
-        "i": 0.09,
-        "d": 10,
-        "tp": "guitar_pick",
-        "prio": 6
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
       },
       {
         "t": 107.624,
@@ -12635,10 +12728,10 @@
       },
       {
         "t": 107.764,
-        "i": 0.09,
-        "d": 10,
-        "tp": "guitar_pick",
-        "prio": 6
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
       },
       {
         "t": 108.042,
@@ -12649,16 +12742,9 @@
       },
       {
         "t": 108.321,
-        "i": 0.09,
-        "d": 10,
-        "tp": "guitar_pick",
-        "prio": 6
-      },
-      {
-        "t": 108.878,
-        "i": 0.22,
+        "i": 0.08,
         "d": 30,
-        "tp": "bass_slide",
+        "tp": "guitar_slide",
         "prio": 5
       },
       {
@@ -12669,53 +12755,60 @@
         "prio": 3
       },
       {
-        "t": 108.918,
+        "t": 108.902,
+        "i": 0.22,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 108.942,
         "i": 0.14,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 108.958,
-        "i": 0.14,
-        "d": 35,
-        "tp": "bass_sustain",
-        "prio": 4
-      },
-      {
-        "t": 108.998,
+        "t": 108.982,
         "i": 0.15,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 109.038,
+        "t": 109.022,
         "i": 0.16,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 109.078,
+        "t": 109.062,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 109.102,
         "i": 0.17,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 109.118,
-        "i": 0.17,
+        "t": 109.142,
+        "i": 0.16,
         "d": 35,
         "tp": "bass_sustain",
         "prio": 4
       },
       {
-        "t": 109.18,
-        "i": 0.08,
-        "d": 30,
-        "tp": "guitar_slide",
-        "prio": 5
+        "t": 109.203,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
       },
       {
         "t": 110.016,

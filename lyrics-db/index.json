@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T14:50:46.572519+00:00",
-  "totalTracks": 754,
+  "generatedAt": "2026-08-04T14:50:46.133797+00:00",
+  "totalTracks": 755,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10666,9 +10666,26 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/lil_peep/better-off-dying",
-      "mtimeMs": 1785855046571,
-      "has_haptics": false,
-      "haptics_version": null
+      "mtimeMs": 1785855030955,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    "lil peep::u said (prod. by smokeasac & iivi)": {
+      "title": "U Said (prod. by smokeasac & IIVI)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - U Said (prod. by smokeasac & IIVI)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000238287994-l2tnfg-original.jpg",
+      "file": "tracks/lil-peep-u-said-prod-by-smokeasac-iivi-13a0f485fa2a.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-u-said-prod-by-smokeasac-iivi-13a0f485fa2a.json",
+        "meta": "tracks/lil-peep-u-said-prod-by-smokeasac-iivi-13a0f485fa2a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/u-said",
+      "mtimeMs": 1785855047083,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21333,9 +21350,26 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/lil_peep/better-off-dying",
-      "mtimeMs": 1785855046571,
-      "has_haptics": false,
-      "haptics_version": null
+      "mtimeMs": 1785855030955,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "U Said (prod. by smokeasac & IIVI)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - U Said (prod. by smokeasac & IIVI)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000238287994-l2tnfg-original.jpg",
+      "file": "tracks/lil-peep-u-said-prod-by-smokeasac-iivi-13a0f485fa2a.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-u-said-prod-by-smokeasac-iivi-13a0f485fa2a.json",
+        "meta": "tracks/lil-peep-u-said-prod-by-smokeasac-iivi-13a0f485fa2a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/u-said",
+      "mtimeMs": 1785855047083,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

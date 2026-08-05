@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T23:14:29.985078+00:00",
-  "totalTracks": 757,
+  "generatedAt": "2026-08-05T10:43:31.220720+00:00",
+  "totalTracks": 758,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10720,6 +10720,23 @@
       "mtimeMs": 1785885271545,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "villian, madk1d::династия": {
+      "title": "ДИНАСТИЯ",
+      "artist": "VILLIAN, madk1d",
+      "originalTrackName": "VILLIAN, madk1d - ДИНАСТИЯ",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-Z9NZvqkNSb4Z1xrV-E5zm9w-original.jpg",
+      "file": "tracks/villian-madk1d-94ccb42dae91.json",
+      "files": {
+        "lyrics": "tracks/villian-madk1d-94ccb42dae91.json",
+        "meta": "tracks/villian-madk1d-94ccb42dae91.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/wwoowwoo/villian-madk1d-dinastiia",
+      "mtimeMs": 1785926612261,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21436,6 +21453,23 @@
       },
       "sourcePath": "https://soundcloud.com/ouijaboard/lil-peep-vibe",
       "mtimeMs": 1785885271545,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "ДИНАСТИЯ",
+      "artist": "VILLIAN, madk1d",
+      "originalTrackName": "VILLIAN, madk1d - ДИНАСТИЯ",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-Z9NZvqkNSb4Z1xrV-E5zm9w-original.jpg",
+      "file": "tracks/villian-madk1d-94ccb42dae91.json",
+      "files": {
+        "lyrics": "tracks/villian-madk1d-94ccb42dae91.json",
+        "meta": "tracks/villian-madk1d-94ccb42dae91.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/wwoowwoo/villian-madk1d-dinastiia",
+      "mtimeMs": 1785926612261,
       "has_haptics": true,
       "haptics_version": 4
     }

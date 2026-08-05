@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T12:43:05.980227+00:00",
-  "totalTracks": 760,
+  "generatedAt": "2026-08-05T15:57:22.273388+00:00",
+  "totalTracks": 761,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10771,6 +10771,23 @@
       "mtimeMs": 1785933785979,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "171 circus, dj koala6::dj koala ta chillando tudao wtf": {
+      "title": "dj koala ta chillando tudao wtf",
+      "artist": "171 Circus, DJ KOALA6",
+      "originalTrackName": "171 Circus, DJ KOALA6 - dj koala ta chillando tudao wtf",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-HzpU71oHxDI5Ztrq-ZHPSug-original.png",
+      "file": "tracks/171-circus-dj-koala6-dj-koala-ta-chillando-tudao-wtf-1bf1f55efe48.json",
+      "files": {
+        "lyrics": "tracks/171-circus-dj-koala6-dj-koala-ta-chillando-tudao-wtf-1bf1f55efe48.json",
+        "meta": "tracks/171-circus-dj-koala6-dj-koala-ta-chillando-tudao-wtf-1bf1f55efe48.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/171circus/lofii",
+      "mtimeMs": 1785945443417,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21540,6 +21557,23 @@
       "mtimeMs": 1785933785979,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "dj koala ta chillando tudao wtf",
+      "artist": "171 Circus, DJ KOALA6",
+      "originalTrackName": "171 Circus, DJ KOALA6 - dj koala ta chillando tudao wtf",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-HzpU71oHxDI5Ztrq-ZHPSug-original.png",
+      "file": "tracks/171-circus-dj-koala6-dj-koala-ta-chillando-tudao-wtf-1bf1f55efe48.json",
+      "files": {
+        "lyrics": "tracks/171-circus-dj-koala6-dj-koala-ta-chillando-tudao-wtf-1bf1f55efe48.json",
+        "meta": "tracks/171-circus-dj-koala6-dj-koala-ta-chillando-tudao-wtf-1bf1f55efe48.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/171circus/lofii",
+      "mtimeMs": 1785945443417,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T12:42:46.312724+00:00",
-  "totalTracks": 759,
+  "generatedAt": "2026-08-05T12:42:59.594832+00:00",
+  "totalTracks": 760,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10754,6 +10754,23 @@
       "mtimeMs": 1785933767823,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "kaido::lil peep - october (prod. hector vaé)": {
+      "title": "LIL PEEP - OCTOBER (PROD. HECTOR VAÉ)",
+      "artist": "Kaido",
+      "originalTrackName": "Kaido - LIL PEEP - OCTOBER (PROD. HECTOR VAÉ)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000241037270-p8x1yp-original.jpg",
+      "file": "tracks/kaido-lil-peep-october-prod-hector-va-73788929502c.json",
+      "files": {
+        "lyrics": "tracks/kaido-lil-peep-october-prod-hector-va-73788929502c.json",
+        "meta": "tracks/kaido-lil-peep-october-prod-hector-va-73788929502c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/hectorvae/lil-peep-kaido-october",
+      "mtimeMs": 1785933779594,
+      "has_haptics": false,
+      "haptics_version": null
     }
   },
   "tracks": [
@@ -21506,6 +21523,23 @@
       "mtimeMs": 1785933767823,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    {
+      "title": "LIL PEEP - OCTOBER (PROD. HECTOR VAÉ)",
+      "artist": "Kaido",
+      "originalTrackName": "Kaido - LIL PEEP - OCTOBER (PROD. HECTOR VAÉ)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000241037270-p8x1yp-original.jpg",
+      "file": "tracks/kaido-lil-peep-october-prod-hector-va-73788929502c.json",
+      "files": {
+        "lyrics": "tracks/kaido-lil-peep-october-prod-hector-va-73788929502c.json",
+        "meta": "tracks/kaido-lil-peep-october-prod-hector-va-73788929502c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/hectorvae/lil-peep-kaido-october",
+      "mtimeMs": 1785933779594,
+      "has_haptics": false,
+      "haptics_version": null
     }
   ]
 }

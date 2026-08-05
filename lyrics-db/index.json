@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T12:42:59.594832+00:00",
+  "generatedAt": "2026-08-05T12:43:05.980227+00:00",
   "totalTracks": 760,
   "roots": [
     "lyrics-db/tracks"
@@ -10738,23 +10738,6 @@
       "has_haptics": false,
       "haptics_version": null
     },
-    "boy froot::doubled up (boy froot x lil peep) [prod. willie g]": {
-      "title": "DOUBLED UP (BOY FROOT X LiL PEEP) [prod. WILLIE G]",
-      "artist": "BOY FROOT",
-      "originalTrackName": "BOY FROOT - DOUBLED UP (BOY FROOT X LiL PEEP) [prod. WILLIE G]",
-      "source": "syncedlyrics",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000130651110-ajqhrm-original.jpg",
-      "file": "tracks/boy-froot-doubled-up-boy-froot-x-lil-peep-prod-willie-g-7b2dc9bb497c.json",
-      "files": {
-        "lyrics": "tracks/boy-froot-doubled-up-boy-froot-x-lil-peep-prod-willie-g-7b2dc9bb497c.json",
-        "meta": "tracks/boy-froot-doubled-up-boy-froot-x-lil-peep-prod-willie-g-7b2dc9bb497c.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/boyfroot/doubled-up-boy-froot-x-lil-peep",
-      "mtimeMs": 1785933767823,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
     "kaido::lil peep - october (prod. hector vaé)": {
       "title": "LIL PEEP - OCTOBER (PROD. HECTOR VAÉ)",
       "artist": "Kaido",
@@ -10769,6 +10752,23 @@
       },
       "sourcePath": "https://soundcloud.com/hectorvae/lil-peep-kaido-october",
       "mtimeMs": 1785933779594,
+      "has_haptics": false,
+      "haptics_version": null
+    },
+    "boy froot::doubled up (boy froot x lil peep) [prod. willie g]": {
+      "title": "DOUBLED UP (BOY FROOT X LiL PEEP) [prod. WILLIE G]",
+      "artist": "BOY FROOT",
+      "originalTrackName": "BOY FROOT - DOUBLED UP (BOY FROOT X LiL PEEP) [prod. WILLIE G]",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000130651110-ajqhrm-original.jpg",
+      "file": "tracks/boy-froot-doubled-up-boy-froot-x-lil-peep-prod-willie-g-7b2dc9bb497c.json",
+      "files": {
+        "lyrics": "tracks/boy-froot-doubled-up-boy-froot-x-lil-peep-prod-willie-g-7b2dc9bb497c.json",
+        "meta": "tracks/boy-froot-doubled-up-boy-froot-x-lil-peep-prod-willie-g-7b2dc9bb497c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/boyfroot/doubled-up-boy-froot-x-lil-peep",
+      "mtimeMs": 1785933785979,
       "has_haptics": false,
       "haptics_version": null
     }
@@ -21508,23 +21508,6 @@
       "haptics_version": null
     },
     {
-      "title": "DOUBLED UP (BOY FROOT X LiL PEEP) [prod. WILLIE G]",
-      "artist": "BOY FROOT",
-      "originalTrackName": "BOY FROOT - DOUBLED UP (BOY FROOT X LiL PEEP) [prod. WILLIE G]",
-      "source": "syncedlyrics",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000130651110-ajqhrm-original.jpg",
-      "file": "tracks/boy-froot-doubled-up-boy-froot-x-lil-peep-prod-willie-g-7b2dc9bb497c.json",
-      "files": {
-        "lyrics": "tracks/boy-froot-doubled-up-boy-froot-x-lil-peep-prod-willie-g-7b2dc9bb497c.json",
-        "meta": "tracks/boy-froot-doubled-up-boy-froot-x-lil-peep-prod-willie-g-7b2dc9bb497c.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/boyfroot/doubled-up-boy-froot-x-lil-peep",
-      "mtimeMs": 1785933767823,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
-    {
       "title": "LIL PEEP - OCTOBER (PROD. HECTOR VAÉ)",
       "artist": "Kaido",
       "originalTrackName": "Kaido - LIL PEEP - OCTOBER (PROD. HECTOR VAÉ)",
@@ -21538,6 +21521,23 @@
       },
       "sourcePath": "https://soundcloud.com/hectorvae/lil-peep-kaido-october",
       "mtimeMs": 1785933779594,
+      "has_haptics": false,
+      "haptics_version": null
+    },
+    {
+      "title": "DOUBLED UP (BOY FROOT X LiL PEEP) [prod. WILLIE G]",
+      "artist": "BOY FROOT",
+      "originalTrackName": "BOY FROOT - DOUBLED UP (BOY FROOT X LiL PEEP) [prod. WILLIE G]",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000130651110-ajqhrm-original.jpg",
+      "file": "tracks/boy-froot-doubled-up-boy-froot-x-lil-peep-prod-willie-g-7b2dc9bb497c.json",
+      "files": {
+        "lyrics": "tracks/boy-froot-doubled-up-boy-froot-x-lil-peep-prod-willie-g-7b2dc9bb497c.json",
+        "meta": "tracks/boy-froot-doubled-up-boy-froot-x-lil-peep-prod-willie-g-7b2dc9bb497c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/boyfroot/doubled-up-boy-froot-x-lil-peep",
+      "mtimeMs": 1785933785979,
       "has_haptics": false,
       "haptics_version": null
     }

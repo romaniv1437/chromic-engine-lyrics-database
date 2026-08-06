@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T17:17:00.264956+00:00",
-  "totalTracks": 767,
+  "generatedAt": "2026-08-06T18:21:35.483004+00:00",
+  "totalTracks": 768,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10890,6 +10890,23 @@
       "mtimeMs": 1786036620264,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "s. m. present::мияги - колибри [s, m. present]": {
+      "title": "Мияги - Колибри [S, M. Present]",
+      "artist": "S. M. Present",
+      "originalTrackName": "S. M. Present - Мияги - Колибри [S, M. Present]",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000136569540-59j1yp-original.jpg",
+      "file": "tracks/s-m-present-s-m-present-6d1c03c072bd.json",
+      "files": {
+        "lyrics": "tracks/s-m-present-s-m-present-6d1c03c072bd.json",
+        "meta": "tracks/s-m-present-s-m-present-6d1c03c072bd.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/s-m-present/s-m-present",
+      "mtimeMs": 1786040496572,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21778,6 +21795,23 @@
       "mtimeMs": 1786036620264,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Мияги - Колибри [S, M. Present]",
+      "artist": "S. M. Present",
+      "originalTrackName": "S. M. Present - Мияги - Колибри [S, M. Present]",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000136569540-59j1yp-original.jpg",
+      "file": "tracks/s-m-present-s-m-present-6d1c03c072bd.json",
+      "files": {
+        "lyrics": "tracks/s-m-present-s-m-present-6d1c03c072bd.json",
+        "meta": "tracks/s-m-present-s-m-present-6d1c03c072bd.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/s-m-present/s-m-present",
+      "mtimeMs": 1786040496572,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

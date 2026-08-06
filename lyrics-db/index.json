@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T08:47:14.667955+00:00",
-  "totalTracks": 762,
+  "generatedAt": "2026-08-06T15:07:35.323686+00:00",
+  "totalTracks": 763,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10805,6 +10805,23 @@
       "mtimeMs": 1786006034667,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "𝑴𝒊𝒏𝒉 𝑯𝒐𝒂𝒏𝒈::3in1 - không buông x sài gòn tôi mưa x nắng có mang em về - remix": {
+      "title": "3IN1 - KHÔNG BUÔNG X SÀI GÒN TÔI MƯA X NẮNG CÓ MANG EM VỀ - Remix",
+      "artist": "𝑴𝒊𝒏𝒉 𝑯𝒐𝒂𝒏𝒈",
+      "originalTrackName": "𝑴𝒊𝒏𝒉 𝑯𝒐𝒂𝒏𝒈 - 3IN1 - KHÔNG BUÔNG X SÀI GÒN TÔI MƯA X NẮNG CÓ MANG EM VỀ - Remix",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-3kkGLxsSRYAm0fmV-WEOErA-original.jpg",
+      "file": "tracks/3in1-kh-ng-bu-ng-x-s-i-g-n-t-i-m-a-x-n-ng-c-mang-em-v-remix-dc0ef3081f0f.json",
+      "files": {
+        "lyrics": "tracks/3in1-kh-ng-bu-ng-x-s-i-g-n-t-i-m-a-x-n-ng-c-mang-em-v-remix-dc0ef3081f0f.json",
+        "meta": "tracks/3in1-kh-ng-bu-ng-x-s-i-g-n-t-i-m-a-x-n-ng-c-mang-em-v-remix-dc0ef3081f0f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/tu-n-r-s-392598706/3in1-kh-ng-bu-ng-x-s-i-g-n-t-i",
+      "mtimeMs": 1786028855935,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21608,6 +21625,23 @@
       "mtimeMs": 1786006034667,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "3IN1 - KHÔNG BUÔNG X SÀI GÒN TÔI MƯA X NẮNG CÓ MANG EM VỀ - Remix",
+      "artist": "𝑴𝒊𝒏𝒉 𝑯𝒐𝒂𝒏𝒈",
+      "originalTrackName": "𝑴𝒊𝒏𝒉 𝑯𝒐𝒂𝒏𝒈 - 3IN1 - KHÔNG BUÔNG X SÀI GÒN TÔI MƯA X NẮNG CÓ MANG EM VỀ - Remix",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-3kkGLxsSRYAm0fmV-WEOErA-original.jpg",
+      "file": "tracks/3in1-kh-ng-bu-ng-x-s-i-g-n-t-i-m-a-x-n-ng-c-mang-em-v-remix-dc0ef3081f0f.json",
+      "files": {
+        "lyrics": "tracks/3in1-kh-ng-bu-ng-x-s-i-g-n-t-i-m-a-x-n-ng-c-mang-em-v-remix-dc0ef3081f0f.json",
+        "meta": "tracks/3in1-kh-ng-bu-ng-x-s-i-g-n-t-i-m-a-x-n-ng-c-mang-em-v-remix-dc0ef3081f0f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/tu-n-r-s-392598706/3in1-kh-ng-bu-ng-x-s-i-g-n-t-i",
+      "mtimeMs": 1786028855935,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

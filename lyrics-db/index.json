@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T18:21:35.483004+00:00",
-  "totalTracks": 768,
+  "generatedAt": "2026-08-06T22:48:22.651098+00:00",
+  "totalTracks": 769,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10907,6 +10907,23 @@
       "mtimeMs": 1786040496572,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "dj maty cisneros::tina turner - simply the best (matias cisneros remix) ok": {
+      "title": "TINA TURNER - Simply The Best (Matias Cisneros Remix) Ok",
+      "artist": "Dj Maty Cisneros",
+      "originalTrackName": "Dj Maty Cisneros - TINA TURNER - Simply The Best (Matias Cisneros Remix) Ok",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000131469768-28yve8-original.jpg",
+      "file": "tracks/dj-maty-cisneros-tina-turner-simply-the-best-matias-cisneros-remix-ok-c25260e67193.json",
+      "files": {
+        "lyrics": "tracks/dj-maty-cisneros-tina-turner-simply-the-best-matias-cisneros-remix-ok-c25260e67193.json",
+        "meta": "tracks/dj-maty-cisneros-tina-turner-simply-the-best-matias-cisneros-remix-ok-c25260e67193.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/dj-maty-cisneros/tina-turner-simply-the-best-matias-cisneros-remix-ok",
+      "mtimeMs": 1786056503768,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21810,6 +21827,23 @@
       },
       "sourcePath": "https://soundcloud.com/s-m-present/s-m-present",
       "mtimeMs": 1786040496572,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "TINA TURNER - Simply The Best (Matias Cisneros Remix) Ok",
+      "artist": "Dj Maty Cisneros",
+      "originalTrackName": "Dj Maty Cisneros - TINA TURNER - Simply The Best (Matias Cisneros Remix) Ok",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000131469768-28yve8-original.jpg",
+      "file": "tracks/dj-maty-cisneros-tina-turner-simply-the-best-matias-cisneros-remix-ok-c25260e67193.json",
+      "files": {
+        "lyrics": "tracks/dj-maty-cisneros-tina-turner-simply-the-best-matias-cisneros-remix-ok-c25260e67193.json",
+        "meta": "tracks/dj-maty-cisneros-tina-turner-simply-the-best-matias-cisneros-remix-ok-c25260e67193.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/dj-maty-cisneros/tina-turner-simply-the-best-matias-cisneros-remix-ok",
+      "mtimeMs": 1786056503768,
       "has_haptics": true,
       "haptics_version": 4
     }

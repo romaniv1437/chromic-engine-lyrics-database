@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T17:12:04.212722+00:00",
-  "totalTracks": 766,
+  "generatedAt": "2026-08-06T17:16:01.908124+00:00",
+  "totalTracks": 767,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10873,6 +10873,23 @@
       "mtimeMs": 1786036324212,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "☆lil peep☆::we'll be fine": {
+      "title": "we'll be fine",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - we'll be fine",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-CLy8x0mTeemceypI-5PEikQ-original.png",
+      "file": "tracks/lil-peep-we-ll-be-fine-f97475539b2b.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-we-ll-be-fine-f97475539b2b.json",
+        "meta": "tracks/lil-peep-we-ll-be-fine-f97475539b2b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/aa027143-0e6f-4125-9822-bd7250edf53d",
+      "mtimeMs": 1786036562513,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21744,6 +21761,23 @@
       "mtimeMs": 1786036324212,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "we'll be fine",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - we'll be fine",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-CLy8x0mTeemceypI-5PEikQ-original.png",
+      "file": "tracks/lil-peep-we-ll-be-fine-f97475539b2b.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-we-ll-be-fine-f97475539b2b.json",
+        "meta": "tracks/lil-peep-we-ll-be-fine-f97475539b2b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/aa027143-0e6f-4125-9822-bd7250edf53d",
+      "mtimeMs": 1786036562513,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

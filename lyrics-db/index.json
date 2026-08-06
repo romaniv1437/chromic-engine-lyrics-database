@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T15:07:35.323686+00:00",
-  "totalTracks": 763,
+  "generatedAt": "2026-08-06T16:33:15.381761+00:00",
+  "totalTracks": 764,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10822,6 +10822,23 @@
       "mtimeMs": 1786028855935,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "::гражданская_оборона_детский_мир": {
+      "title": "Гражданская_Оборона_Детский_мир",
+      "artist": "",
+      "originalTrackName": "Гражданская_Оборона_Детский_мир",
+      "source": "whisper_only",
+      "thumbnail": "",
+      "file": "tracks/track-5d8dbb049deb.json",
+      "files": {
+        "lyrics": "tracks/track-5d8dbb049deb.json",
+        "meta": "tracks/track-5d8dbb049deb.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "file://Гражданская_Оборона_Детский_мир.mp3",
+      "mtimeMs": 1786033996357,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21640,6 +21657,23 @@
       },
       "sourcePath": "https://soundcloud.com/tu-n-r-s-392598706/3in1-kh-ng-bu-ng-x-s-i-g-n-t-i",
       "mtimeMs": 1786028855935,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Гражданская_Оборона_Детский_мир",
+      "artist": "",
+      "originalTrackName": "Гражданская_Оборона_Детский_мир",
+      "source": "whisper_only",
+      "thumbnail": "",
+      "file": "tracks/track-5d8dbb049deb.json",
+      "files": {
+        "lyrics": "tracks/track-5d8dbb049deb.json",
+        "meta": "tracks/track-5d8dbb049deb.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "file://Гражданская_Оборона_Детский_мир.mp3",
+      "mtimeMs": 1786033996357,
       "has_haptics": true,
       "haptics_version": 4
     }

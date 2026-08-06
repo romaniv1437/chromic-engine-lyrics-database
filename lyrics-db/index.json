@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T22:48:38.888071+00:00",
-  "totalTracks": 769,
+  "generatedAt": "2026-08-06T22:54:08.082108+00:00",
+  "totalTracks": 770,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10924,6 +10924,23 @@
       "mtimeMs": 1786056518885,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "robbie williams::robbie williams - angels (original)": {
+      "title": "Robbie Williams - Angels (Original)",
+      "artist": "Robbie Williams",
+      "originalTrackName": "Robbie Williams - Robbie Williams - Angels (Original)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000383251818-pvyql4-original.jpg",
+      "file": "tracks/robbie-williams-robbie-williams-angels-original-0080e72f69dd.json",
+      "files": {
+        "lyrics": "tracks/robbie-williams-robbie-williams-angels-original-0080e72f69dd.json",
+        "meta": "tracks/robbie-williams-robbie-williams-angels-original-0080e72f69dd.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/the-cheerleader/robbie-williams-angels",
+      "mtimeMs": 1786056849308,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21846,6 +21863,23 @@
       "mtimeMs": 1786056518885,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Robbie Williams - Angels (Original)",
+      "artist": "Robbie Williams",
+      "originalTrackName": "Robbie Williams - Robbie Williams - Angels (Original)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000383251818-pvyql4-original.jpg",
+      "file": "tracks/robbie-williams-robbie-williams-angels-original-0080e72f69dd.json",
+      "files": {
+        "lyrics": "tracks/robbie-williams-robbie-williams-angels-original-0080e72f69dd.json",
+        "meta": "tracks/robbie-williams-robbie-williams-angels-original-0080e72f69dd.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/the-cheerleader/robbie-williams-angels",
+      "mtimeMs": 1786056849308,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

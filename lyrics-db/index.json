@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T16:38:46.669923+00:00",
-  "totalTracks": 765,
+  "generatedAt": "2026-08-06T17:11:46.981551+00:00",
+  "totalTracks": 766,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10856,6 +10856,23 @@
       "mtimeMs": 1786034326669,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "gg neeks, lil peep::mo murda ft. lil peep (prod. willie g)": {
+      "title": "MO MURDA FT. LIL PEEP (Prod. Willie G)",
+      "artist": "GG NEEKS, Lil peep",
+      "originalTrackName": "GG NEEKS, Lil peep - MO MURDA FT. LIL PEEP (Prod. Willie G)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000140742705-8izpge-original.jpg",
+      "file": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.json",
+      "files": {
+        "lyrics": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.json",
+        "meta": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/neeksthekid/mo-murda-ft-lil-peep-willie-g",
+      "mtimeMs": 1786036308054,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21710,6 +21727,23 @@
       "mtimeMs": 1786034326669,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "MO MURDA FT. LIL PEEP (Prod. Willie G)",
+      "artist": "GG NEEKS, Lil peep",
+      "originalTrackName": "GG NEEKS, Lil peep - MO MURDA FT. LIL PEEP (Prod. Willie G)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000140742705-8izpge-original.jpg",
+      "file": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.json",
+      "files": {
+        "lyrics": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.json",
+        "meta": "tracks/gg-neeks-lil-peep-mo-murda-ft-lil-peep-prod-willie-g-2e78a930ee7a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/neeksthekid/mo-murda-ft-lil-peep-willie-g",
+      "mtimeMs": 1786036308054,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

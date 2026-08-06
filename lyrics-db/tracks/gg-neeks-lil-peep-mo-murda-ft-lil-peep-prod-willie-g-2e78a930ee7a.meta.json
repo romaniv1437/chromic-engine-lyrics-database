@@ -1,8 +1,10 @@
 {
   "artist": "GG NEEKS, Lil peep",
+  "title": "MO MURDA FT. LIL PEEP (Prod. Willie G)",
   "track_title": "MO MURDA FT. LIL PEEP (Prod. Willie G)",
+  "thumbnail": "https://i1.sndcdn.com/artworks-000140742705-8izpge-original.jpg",
   "track_url": "https://soundcloud.com/neeksthekid/mo-murda-ft-lil-peep-willie-g",
-  "lyrics_source": "soundcloud_extension_translate",
-  "line_timestamps_source": "whisper_aligner",
-  "updated_at": "2026-07-11T11:37:58.459387+00:00"
+  "lyrics_source": "syncedlyrics",
+  "line_timestamps_source": "guided-whisper",
+  "updated_at": "2026-08-06T17:11:46.981551+00:00"
 }

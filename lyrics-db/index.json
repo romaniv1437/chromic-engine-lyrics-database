@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T15:57:41.098058+00:00",
-  "totalTracks": 761,
+  "generatedAt": "2026-08-06T08:47:00.007518+00:00",
+  "totalTracks": 762,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10788,6 +10788,23 @@
       "mtimeMs": 1785945461097,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "lilpeepunreleased::lil peep - 666 (full cdq)[come with me]": {
+      "title": "Lil Peep - 666 (full CDQ)[come with me]",
+      "artist": "LilPeepUnreleased",
+      "originalTrackName": "LilPeepUnreleased - Lil Peep - 666 (full CDQ)[come with me]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-63Fy7zGP6au6ObYy-5gbRPQ-original.jpg",
+      "file": "tracks/lilpeepunreleased-lil-peep-666-full-cdq-come-with-me-4a507559779a.json",
+      "files": {
+        "lyrics": "tracks/lilpeepunreleased-lil-peep-666-full-cdq-come-with-me-4a507559779a.json",
+        "meta": "tracks/lilpeepunreleased-lil-peep-666-full-cdq-come-with-me-4a507559779a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/matrix-808/lil-peep-666-full-cdq-come-1",
+      "mtimeMs": 1786006020909,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21574,6 +21591,23 @@
       "mtimeMs": 1785945461097,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Lil Peep - 666 (full CDQ)[come with me]",
+      "artist": "LilPeepUnreleased",
+      "originalTrackName": "LilPeepUnreleased - Lil Peep - 666 (full CDQ)[come with me]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-63Fy7zGP6au6ObYy-5gbRPQ-original.jpg",
+      "file": "tracks/lilpeepunreleased-lil-peep-666-full-cdq-come-with-me-4a507559779a.json",
+      "files": {
+        "lyrics": "tracks/lilpeepunreleased-lil-peep-666-full-cdq-come-with-me-4a507559779a.json",
+        "meta": "tracks/lilpeepunreleased-lil-peep-666-full-cdq-come-with-me-4a507559779a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/matrix-808/lil-peep-666-full-cdq-come-1",
+      "mtimeMs": 1786006020909,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

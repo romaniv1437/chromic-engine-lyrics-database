@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T14:44:14.646895+00:00",
+  "generatedAt": "2026-08-07T17:08:40.189813+00:00",
   "totalTracks": 771,
   "roots": [
     "lyrics-db/tracks"
@@ -10891,23 +10891,6 @@
       "has_haptics": false,
       "haptics_version": null
     },
-    "s. m. present::мияги - колибри [s, m. present]": {
-      "title": "Мияги - Колибри [S, M. Present]",
-      "artist": "S. M. Present",
-      "originalTrackName": "S. M. Present - Мияги - Колибри [S, M. Present]",
-      "source": "syncedlyrics",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000136569540-59j1yp-original.jpg",
-      "file": "tracks/s-m-present-s-m-present-6d1c03c072bd.json",
-      "files": {
-        "lyrics": "tracks/s-m-present-s-m-present-6d1c03c072bd.json",
-        "meta": "tracks/s-m-present-s-m-present-6d1c03c072bd.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/s-m-present/s-m-present",
-      "mtimeMs": 1786040496572,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
     "dj maty cisneros::tina turner - simply the best (matias cisneros remix) ok": {
       "title": "TINA TURNER - Simply The Best (Matias Cisneros Remix) Ok",
       "artist": "Dj Maty Cisneros",
@@ -10956,6 +10939,23 @@
       },
       "sourcePath": "file://'見て (Face Me)' - Mao Arimura (有村麻央) [KAN-ROM-ENG Lyrics] 【学マス】_256k.mp3",
       "mtimeMs": 1786113855542,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    "s. m. present::мияги - колибри [s, m. present]": {
+      "title": "Мияги - Колибри [S, M. Present]",
+      "artist": "S. M. Present",
+      "originalTrackName": "S. M. Present - Мияги - Колибри [S, M. Present]",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000136569540-59j1yp-original.jpg",
+      "file": "tracks/s-m-present-s-m-present-6d1c03c072bd.json",
+      "files": {
+        "lyrics": "tracks/s-m-present-s-m-present-6d1c03c072bd.json",
+        "meta": "tracks/s-m-present-s-m-present-6d1c03c072bd.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/s-m-present/s-m-present",
+      "mtimeMs": 1786122520785,
       "has_haptics": true,
       "haptics_version": 4
     }
@@ -21848,23 +21848,6 @@
       "haptics_version": null
     },
     {
-      "title": "Мияги - Колибри [S, M. Present]",
-      "artist": "S. M. Present",
-      "originalTrackName": "S. M. Present - Мияги - Колибри [S, M. Present]",
-      "source": "syncedlyrics",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000136569540-59j1yp-original.jpg",
-      "file": "tracks/s-m-present-s-m-present-6d1c03c072bd.json",
-      "files": {
-        "lyrics": "tracks/s-m-present-s-m-present-6d1c03c072bd.json",
-        "meta": "tracks/s-m-present-s-m-present-6d1c03c072bd.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/s-m-present/s-m-present",
-      "mtimeMs": 1786040496572,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
-    {
       "title": "TINA TURNER - Simply The Best (Matias Cisneros Remix) Ok",
       "artist": "Dj Maty Cisneros",
       "originalTrackName": "Dj Maty Cisneros - TINA TURNER - Simply The Best (Matias Cisneros Remix) Ok",
@@ -21912,6 +21895,23 @@
       },
       "sourcePath": "file://'見て (Face Me)' - Mao Arimura (有村麻央) [KAN-ROM-ENG Lyrics] 【学マス】_256k.mp3",
       "mtimeMs": 1786113855542,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Мияги - Колибри [S, M. Present]",
+      "artist": "S. M. Present",
+      "originalTrackName": "S. M. Present - Мияги - Колибри [S, M. Present]",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000136569540-59j1yp-original.jpg",
+      "file": "tracks/s-m-present-s-m-present-6d1c03c072bd.json",
+      "files": {
+        "lyrics": "tracks/s-m-present-s-m-present-6d1c03c072bd.json",
+        "meta": "tracks/s-m-present-s-m-present-6d1c03c072bd.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/s-m-present/s-m-present",
+      "mtimeMs": 1786122520785,
       "has_haptics": true,
       "haptics_version": 4
     }

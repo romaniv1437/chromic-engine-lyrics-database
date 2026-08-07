@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T22:31:25.716798+00:00",
-  "totalTracks": 773,
+  "generatedAt": "2026-08-07T22:31:26.430923+00:00",
+  "totalTracks": 774,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10989,9 +10989,26 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/lil_peep/family-6",
-      "mtimeMs": 1786141885716,
-      "has_haptics": false,
-      "haptics_version": null
+      "mtimeMs": 1786141873836,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    "☆lil peep☆::ride": {
+      "title": "ride",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - ride",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-yWKFqx3FrQZkNyf5-zylj4A-original.png",
+      "file": "tracks/lil-peep-ride-191e4da1c84c.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-ride-191e4da1c84c.json",
+        "meta": "tracks/lil-peep-ride-191e4da1c84c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/ride-1",
+      "mtimeMs": 1786141887186,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21979,9 +21996,26 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/lil_peep/family-6",
-      "mtimeMs": 1786141885716,
-      "has_haptics": false,
-      "haptics_version": null
+      "mtimeMs": 1786141873836,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "ride",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - ride",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-yWKFqx3FrQZkNyf5-zylj4A-original.png",
+      "file": "tracks/lil-peep-ride-191e4da1c84c.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-ride-191e4da1c84c.json",
+        "meta": "tracks/lil-peep-ride-191e4da1c84c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/ride-1",
+      "mtimeMs": 1786141887186,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

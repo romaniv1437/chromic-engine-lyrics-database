@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T17:13:49.135641+00:00",
-  "totalTracks": 771,
+  "generatedAt": "2026-08-07T18:05:26.266721+00:00",
+  "totalTracks": 772,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10958,6 +10958,23 @@
       "mtimeMs": 1786122830521,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "настя::miyagi&amp;эндшпиль - бейба - судьба": {
+      "title": "MiyaGi&amp;Эндшпиль - Бейба - Судьба",
+      "artist": "Настя",
+      "originalTrackName": "Настя - MiyaGi&amp;Эндшпиль - Бейба - Судьба",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/avatars-000323440903-ek66iv-original.jpg",
+      "file": "tracks/miyagi-amp-21a50abdcd1c.json",
+      "files": {
+        "lyrics": "tracks/miyagi-amp-21a50abdcd1c.json",
+        "meta": "tracks/miyagi-amp-21a50abdcd1c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lvusg2bllmo1/miyagi-amp",
+      "mtimeMs": 1786125927088,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21912,6 +21929,23 @@
       },
       "sourcePath": "https://soundcloud.com/s-m-present/s-m-present",
       "mtimeMs": 1786122830521,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "MiyaGi&amp;Эндшпиль - Бейба - Судьба",
+      "artist": "Настя",
+      "originalTrackName": "Настя - MiyaGi&amp;Эндшпиль - Бейба - Судьба",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/avatars-000323440903-ek66iv-original.jpg",
+      "file": "tracks/miyagi-amp-21a50abdcd1c.json",
+      "files": {
+        "lyrics": "tracks/miyagi-amp-21a50abdcd1c.json",
+        "meta": "tracks/miyagi-amp-21a50abdcd1c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lvusg2bllmo1/miyagi-amp",
+      "mtimeMs": 1786125927088,
       "has_haptics": true,
       "haptics_version": 4
     }

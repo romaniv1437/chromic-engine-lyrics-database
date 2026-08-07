@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T18:05:43.870411+00:00",
-  "totalTracks": 772,
+  "generatedAt": "2026-08-07T22:31:12.692891+00:00",
+  "totalTracks": 773,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -10975,6 +10975,23 @@
       "mtimeMs": 1786125943869,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "☆lil peep☆::family": {
+      "title": "family",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - family",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-CLy8x0mTeemceypI-5PEikQ-original.png",
+      "file": "tracks/lil-peep-family-c13bf1087624.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-family-c13bf1087624.json",
+        "meta": "tracks/lil-peep-family-c13bf1087624.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/family-6",
+      "mtimeMs": 1786141873836,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -21948,6 +21965,23 @@
       "mtimeMs": 1786125943869,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "family",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - family",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-CLy8x0mTeemceypI-5PEikQ-original.png",
+      "file": "tracks/lil-peep-family-c13bf1087624.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-family-c13bf1087624.json",
+        "meta": "tracks/lil-peep-family-c13bf1087624.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/family-6",
+      "mtimeMs": 1786141873836,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

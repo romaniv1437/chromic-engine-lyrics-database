@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T20:37:46.154043+00:00",
-  "totalTracks": 779,
+  "generatedAt": "2026-08-08T20:41:55.061300+00:00",
+  "totalTracks": 780,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11094,6 +11094,23 @@
       "mtimeMs": 1786221466153,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "alaa adnan::يااهل العشق - ديانا حداد": {
+      "title": "يااهل العشق - ديانا حداد",
+      "artist": "Alaa Adnan",
+      "originalTrackName": "Alaa Adnan - يااهل العشق - ديانا حداد",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000670095142-fk7md5-original.jpg",
+      "file": "tracks/alaa-adnan-b842eabd319e.json",
+      "files": {
+        "lyrics": "tracks/alaa-adnan-b842eabd319e.json",
+        "meta": "tracks/alaa-adnan-b842eabd319e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/alaa-adnan93/czrrdyhblhjr",
+      "mtimeMs": 1786221716528,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22186,6 +22203,23 @@
       "mtimeMs": 1786221466153,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "يااهل العشق - ديانا حداد",
+      "artist": "Alaa Adnan",
+      "originalTrackName": "Alaa Adnan - يااهل العشق - ديانا حداد",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000670095142-fk7md5-original.jpg",
+      "file": "tracks/alaa-adnan-b842eabd319e.json",
+      "files": {
+        "lyrics": "tracks/alaa-adnan-b842eabd319e.json",
+        "meta": "tracks/alaa-adnan-b842eabd319e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/alaa-adnan93/czrrdyhblhjr",
+      "mtimeMs": 1786221716528,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

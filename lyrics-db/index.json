@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T20:41:55.061300+00:00",
-  "totalTracks": 780,
+  "generatedAt": "2026-08-08T21:12:13.397436+00:00",
+  "totalTracks": 781,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11111,6 +11111,23 @@
       "mtimeMs": 1786221716528,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "luckysta::intro liveset warehouse 18/04/26": {
+      "title": "Intro LiveSet WAREHOUSE 18/04/26",
+      "artist": "LUCKYSTA",
+      "originalTrackName": "LUCKYSTA - Intro LiveSet WAREHOUSE 18/04/26",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-lSab0krohj8yrHtk-n9IG2A-original.png",
+      "file": "tracks/luckysta-intro-liveset-warehouse-18-04-26-749d74f7c51a.json",
+      "files": {
+        "lyrics": "tracks/luckysta-intro-liveset-warehouse-18-04-26-749d74f7c51a.json",
+        "meta": "tracks/luckysta-intro-liveset-warehouse-18-04-26-749d74f7c51a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/luckysta/intro-liveset-warehouse-18-04",
+      "mtimeMs": 1786223534367,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22218,6 +22235,23 @@
       },
       "sourcePath": "https://soundcloud.com/alaa-adnan93/czrrdyhblhjr",
       "mtimeMs": 1786221716528,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Intro LiveSet WAREHOUSE 18/04/26",
+      "artist": "LUCKYSTA",
+      "originalTrackName": "LUCKYSTA - Intro LiveSet WAREHOUSE 18/04/26",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-lSab0krohj8yrHtk-n9IG2A-original.png",
+      "file": "tracks/luckysta-intro-liveset-warehouse-18-04-26-749d74f7c51a.json",
+      "files": {
+        "lyrics": "tracks/luckysta-intro-liveset-warehouse-18-04-26-749d74f7c51a.json",
+        "meta": "tracks/luckysta-intro-liveset-warehouse-18-04-26-749d74f7c51a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/luckysta/intro-liveset-warehouse-18-04",
+      "mtimeMs": 1786223534367,
       "has_haptics": true,
       "haptics_version": 4
     }

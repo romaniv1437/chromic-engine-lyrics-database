@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T20:37:18.445708+00:00",
+  "generatedAt": "2026-08-08T20:37:27.189035+00:00",
   "totalTracks": 777,
   "roots": [
     "lyrics-db/tracks"
@@ -11027,6 +11027,23 @@
       "has_haptics": false,
       "haptics_version": null
     },
+    "𝑺 .::شيلة قتلتني يالجنوبي كلمات رافع العمري اداء صوت الجنوب (حصرياً).m4a": {
+      "title": "شيلة قتلتني يالجنوبي كلمات رافع العمري اداء صوت الجنوب (حصرياً).m4a",
+      "artist": "𝑺 .",
+      "originalTrackName": "𝑺 . - شيلة قتلتني يالجنوبي كلمات رافع العمري اداء صوت الجنوب (حصرياً).m4a",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-4WDWyMMTMzfNpqyd-f4DPMA-original.jpg",
+      "file": "tracks/m4a-47ac1cafdbf8.json",
+      "files": {
+        "lyrics": "tracks/m4a-47ac1cafdbf8.json",
+        "meta": "tracks/m4a-47ac1cafdbf8.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/rmx3cnnwnx8a/m4a",
+      "mtimeMs": 1786221437219,
+      "has_haptics": false,
+      "haptics_version": null
+    },
     "w::تدرين وادري بنفترق..": {
       "title": "تدرين وادري بنفترق..",
       "artist": "w",
@@ -11040,26 +11057,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/user-124854767/ydby98tjqmjs",
-      "mtimeMs": 1786221424775,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
-    "ₚ₈ₘ₆::موضي الشمراني بنت اللذينا": {
-      "title": "موضي الشمراني بنت اللذينا",
-      "artist": "ₚ₈ₘ₆",
-      "originalTrackName": "ₚ₈ₘ₆ - موضي الشمراني بنت اللذينا",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-zPILF4oXlHYlw09k-LijVKg-original.jpg",
-      "file": "tracks/track-b4310b0909c7.json",
-      "files": {
-        "lyrics": "tracks/track-b4310b0909c7.json",
-        "meta": "tracks/track-b4310b0909c7.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/sales-ksa/eh340lzydqss",
-      "mtimeMs": 1786221439752,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1786221447188,
+      "has_haptics": false,
+      "haptics_version": null
     }
   },
   "tracks": [
@@ -22086,6 +22086,23 @@
       "haptics_version": null
     },
     {
+      "title": "شيلة قتلتني يالجنوبي كلمات رافع العمري اداء صوت الجنوب (حصرياً).m4a",
+      "artist": "𝑺 .",
+      "originalTrackName": "𝑺 . - شيلة قتلتني يالجنوبي كلمات رافع العمري اداء صوت الجنوب (حصرياً).m4a",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-4WDWyMMTMzfNpqyd-f4DPMA-original.jpg",
+      "file": "tracks/m4a-47ac1cafdbf8.json",
+      "files": {
+        "lyrics": "tracks/m4a-47ac1cafdbf8.json",
+        "meta": "tracks/m4a-47ac1cafdbf8.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/rmx3cnnwnx8a/m4a",
+      "mtimeMs": 1786221437219,
+      "has_haptics": false,
+      "haptics_version": null
+    },
+    {
       "title": "تدرين وادري بنفترق..",
       "artist": "w",
       "originalTrackName": "w - تدرين وادري بنفترق..",
@@ -22098,26 +22115,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/user-124854767/ydby98tjqmjs",
-      "mtimeMs": 1786221424775,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
-    {
-      "title": "موضي الشمراني بنت اللذينا",
-      "artist": "ₚ₈ₘ₆",
-      "originalTrackName": "ₚ₈ₘ₆ - موضي الشمراني بنت اللذينا",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-zPILF4oXlHYlw09k-LijVKg-original.jpg",
-      "file": "tracks/track-b4310b0909c7.json",
-      "files": {
-        "lyrics": "tracks/track-b4310b0909c7.json",
-        "meta": "tracks/track-b4310b0909c7.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/sales-ksa/eh340lzydqss",
-      "mtimeMs": 1786221439752,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1786221447188,
+      "has_haptics": false,
+      "haptics_version": null
     }
   ]
 }

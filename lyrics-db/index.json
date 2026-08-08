@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T05:11:42.343477+00:00",
-  "totalTracks": 775,
+  "generatedAt": "2026-08-08T20:37:03.843502+00:00",
+  "totalTracks": 776,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11026,6 +11026,23 @@
       "mtimeMs": 1786165902343,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "𝑺 .::شيلة قتلتني يالجنوبي كلمات رافع العمري اداء صوت الجنوب (حصرياً).m4a": {
+      "title": "شيلة قتلتني يالجنوبي كلمات رافع العمري اداء صوت الجنوب (حصرياً).m4a",
+      "artist": "𝑺 .",
+      "originalTrackName": "𝑺 . - شيلة قتلتني يالجنوبي كلمات رافع العمري اداء صوت الجنوب (حصرياً).m4a",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-4WDWyMMTMzfNpqyd-f4DPMA-original.jpg",
+      "file": "tracks/m4a-47ac1cafdbf8.json",
+      "files": {
+        "lyrics": "tracks/m4a-47ac1cafdbf8.json",
+        "meta": "tracks/m4a-47ac1cafdbf8.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/rmx3cnnwnx8a/m4a",
+      "mtimeMs": 1786221425006,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22050,6 +22067,23 @@
       "mtimeMs": 1786165902343,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "شيلة قتلتني يالجنوبي كلمات رافع العمري اداء صوت الجنوب (حصرياً).m4a",
+      "artist": "𝑺 .",
+      "originalTrackName": "𝑺 . - شيلة قتلتني يالجنوبي كلمات رافع العمري اداء صوت الجنوب (حصرياً).m4a",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-4WDWyMMTMzfNpqyd-f4DPMA-original.jpg",
+      "file": "tracks/m4a-47ac1cafdbf8.json",
+      "files": {
+        "lyrics": "tracks/m4a-47ac1cafdbf8.json",
+        "meta": "tracks/m4a-47ac1cafdbf8.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/rmx3cnnwnx8a/m4a",
+      "mtimeMs": 1786221425006,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

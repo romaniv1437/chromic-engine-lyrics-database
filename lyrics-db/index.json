@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T22:31:39.833814+00:00",
-  "totalTracks": 774,
+  "generatedAt": "2026-08-08T05:11:23.163702+00:00",
+  "totalTracks": 775,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11009,6 +11009,23 @@
       "mtimeMs": 1786141899833,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "anima::anima - missing link (mlc003)": {
+      "title": "anima - Missing Link (MLC003)",
+      "artist": "anima",
+      "originalTrackName": "anima - anima - Missing Link (MLC003)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-9QsfxvmLirhxX67m-ICQW8w-original.jpg",
+      "file": "tracks/anima-anima-missing-link-mlc003-40a478317aa7.json",
+      "files": {
+        "lyrics": "tracks/anima-anima-missing-link-mlc003-40a478317aa7.json",
+        "meta": "tracks/anima-anima-missing-link-mlc003-40a478317aa7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lautundluise/anima-missing-link-mlc003",
+      "mtimeMs": 1786165884196,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22016,6 +22033,23 @@
       "mtimeMs": 1786141899833,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "anima - Missing Link (MLC003)",
+      "artist": "anima",
+      "originalTrackName": "anima - anima - Missing Link (MLC003)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-9QsfxvmLirhxX67m-ICQW8w-original.jpg",
+      "file": "tracks/anima-anima-missing-link-mlc003-40a478317aa7.json",
+      "files": {
+        "lyrics": "tracks/anima-anima-missing-link-mlc003-40a478317aa7.json",
+        "meta": "tracks/anima-anima-missing-link-mlc003-40a478317aa7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lautundluise/anima-missing-link-mlc003",
+      "mtimeMs": 1786165884196,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

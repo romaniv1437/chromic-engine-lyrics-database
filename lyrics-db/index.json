@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-09T09:01:19.717107+00:00",
-  "totalTracks": 784,
+  "generatedAt": "2026-08-09T14:05:30.508337+00:00",
+  "totalTracks": 785,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11179,6 +11179,23 @@
       "mtimeMs": 1786266079716,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "gogo::i will run": {
+      "title": "I Will Run",
+      "artist": "gogo",
+      "originalTrackName": "gogo - I Will Run",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-EYTTFYUoRkgYoWyO-0urVqw-original.jpg",
+      "file": "tracks/gogo-i-will-run-7ce7b9975525.json",
+      "files": {
+        "lyrics": "tracks/gogo-i-will-run-7ce7b9975525.json",
+        "meta": "tracks/gogo-i-will-run-7ce7b9975525.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/maggi-nassef-715011080/i-will-run",
+      "mtimeMs": 1786284331370,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22356,6 +22373,23 @@
       "mtimeMs": 1786266079716,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "I Will Run",
+      "artist": "gogo",
+      "originalTrackName": "gogo - I Will Run",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-EYTTFYUoRkgYoWyO-0urVqw-original.jpg",
+      "file": "tracks/gogo-i-will-run-7ce7b9975525.json",
+      "files": {
+        "lyrics": "tracks/gogo-i-will-run-7ce7b9975525.json",
+        "meta": "tracks/gogo-i-will-run-7ce7b9975525.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/maggi-nassef-715011080/i-will-run",
+      "mtimeMs": 1786284331370,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

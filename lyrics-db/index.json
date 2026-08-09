@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-09T00:43:54.025607+00:00",
-  "totalTracks": 782,
+  "generatedAt": "2026-08-09T09:00:09.397036+00:00",
+  "totalTracks": 783,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11145,6 +11145,23 @@
       "mtimeMs": 1786236235203,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "zone7::âm thầm bên em - shen ks fix": {
+      "title": "Âm Thầm Bên Em - Shen KS Fix",
+      "artist": "Zone7",
+      "originalTrackName": "Zone7 - Âm Thầm Bên Em - Shen KS Fix",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-QTn72pxf3g4JpGR8-zPPGMw-original.jpg",
+      "file": "tracks/zone7-m-th-m-b-n-em-shen-ks-fix-f2f38ac1c8b6.json",
+      "files": {
+        "lyrics": "tracks/zone7-m-th-m-b-n-em-shen-ks-fix-f2f38ac1c8b6.json",
+        "meta": "tracks/zone7-m-th-m-b-n-em-shen-ks-fix-f2f38ac1c8b6.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/mu-khoa/am-tham-ben-em-shen-ks-fix",
+      "mtimeMs": 1786266010634,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22286,6 +22303,23 @@
       },
       "sourcePath": "https://soundcloud.com/vndalsw/bleach",
       "mtimeMs": 1786236235203,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Âm Thầm Bên Em - Shen KS Fix",
+      "artist": "Zone7",
+      "originalTrackName": "Zone7 - Âm Thầm Bên Em - Shen KS Fix",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-QTn72pxf3g4JpGR8-zPPGMw-original.jpg",
+      "file": "tracks/zone7-m-th-m-b-n-em-shen-ks-fix-f2f38ac1c8b6.json",
+      "files": {
+        "lyrics": "tracks/zone7-m-th-m-b-n-em-shen-ks-fix-f2f38ac1c8b6.json",
+        "meta": "tracks/zone7-m-th-m-b-n-em-shen-ks-fix-f2f38ac1c8b6.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/mu-khoa/am-tham-ben-em-shen-ks-fix",
+      "mtimeMs": 1786266010634,
       "has_haptics": true,
       "haptics_version": 4
     }

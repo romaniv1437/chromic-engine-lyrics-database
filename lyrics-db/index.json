@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-09T09:00:25.600361+00:00",
-  "totalTracks": 783,
+  "generatedAt": "2026-08-09T09:01:06.955533+00:00",
+  "totalTracks": 784,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11162,6 +11162,23 @@
       "mtimeMs": 1786266025599,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "producer dương đinh::sao anh chua ve - duongdin x ha": {
+      "title": "SAO ANH CHUA VE - DUONGDIN X HA",
+      "artist": "Producer Dương Đinh",
+      "originalTrackName": "Producer Dương Đinh - SAO ANH CHUA VE - DUONGDIN X HA",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-tyPzdfiLDSqXibIJ-KPetow-original.jpg",
+      "file": "tracks/producer-d-ng-inh-sao-anh-chua-ve-duongdin-x-ha-2f1b16a54f2d.json",
+      "files": {
+        "lyrics": "tracks/producer-d-ng-inh-sao-anh-chua-ve-duongdin-x-ha-2f1b16a54f2d.json",
+        "meta": "tracks/producer-d-ng-inh-sao-anh-chua-ve-duongdin-x-ha-2f1b16a54f2d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/d-ng-inh-778100611/sao-anh-chua-ve-duongdin-x-ha",
+      "mtimeMs": 1786266067478,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22322,6 +22339,23 @@
       "mtimeMs": 1786266025599,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "SAO ANH CHUA VE - DUONGDIN X HA",
+      "artist": "Producer Dương Đinh",
+      "originalTrackName": "Producer Dương Đinh - SAO ANH CHUA VE - DUONGDIN X HA",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-tyPzdfiLDSqXibIJ-KPetow-original.jpg",
+      "file": "tracks/producer-d-ng-inh-sao-anh-chua-ve-duongdin-x-ha-2f1b16a54f2d.json",
+      "files": {
+        "lyrics": "tracks/producer-d-ng-inh-sao-anh-chua-ve-duongdin-x-ha-2f1b16a54f2d.json",
+        "meta": "tracks/producer-d-ng-inh-sao-anh-chua-ve-duongdin-x-ha-2f1b16a54f2d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/d-ng-inh-778100611/sao-anh-chua-ve-duongdin-x-ha",
+      "mtimeMs": 1786266067478,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

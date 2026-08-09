@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T21:12:29.495194+00:00",
-  "totalTracks": 781,
+  "generatedAt": "2026-08-09T00:43:54.025607+00:00",
+  "totalTracks": 782,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11128,6 +11128,23 @@
       "mtimeMs": 1786223549494,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "vandalism::bleach": {
+      "title": "bleach",
+      "artist": "vandalism",
+      "originalTrackName": "vandalism - bleach",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-B4ap7QFazqI8zFFB-sKeI1w-original.jpg",
+      "file": "tracks/vandalism-bleach-9790f27f8b58.json",
+      "files": {
+        "lyrics": "tracks/vandalism-bleach-9790f27f8b58.json",
+        "meta": "tracks/vandalism-bleach-9790f27f8b58.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/vndalsw/bleach",
+      "mtimeMs": 1786236235203,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22254,6 +22271,23 @@
       "mtimeMs": 1786223549494,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "bleach",
+      "artist": "vandalism",
+      "originalTrackName": "vandalism - bleach",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-B4ap7QFazqI8zFFB-sKeI1w-original.jpg",
+      "file": "tracks/vandalism-bleach-9790f27f8b58.json",
+      "files": {
+        "lyrics": "tracks/vandalism-bleach-9790f27f8b58.json",
+        "meta": "tracks/vandalism-bleach-9790f27f8b58.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/vndalsw/bleach",
+      "mtimeMs": 1786236235203,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

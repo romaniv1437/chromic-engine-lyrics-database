@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-10T06:08:50.473934+00:00",
-  "totalTracks": 787,
+  "generatedAt": "2026-08-11T14:37:21.373196+00:00",
+  "totalTracks": 788,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11229,6 +11229,23 @@
       },
       "sourcePath": "https://soundcloud.com/everything-but-the-girl-official/missing",
       "mtimeMs": 1786342130473
+    },
+    "lil peep::lil peep - boba on the rocks": {
+      "title": "Lil Peep - Boba On The Rocks",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep - Boba On The Rocks",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000482595777-fjy066-original.jpg",
+      "file": "tracks/lil-peep-lil-peep-boba-on-the-rocks-c82ea7d0c2f4.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-boba-on-the-rocks-c82ea7d0c2f4.json",
+        "meta": "tracks/lil-peep-lil-peep-boba-on-the-rocks-c82ea7d0c2f4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/zapte_peep/lil-peep-boba-on-the-rocks",
+      "mtimeMs": 1786459043873,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22456,6 +22473,23 @@
       },
       "sourcePath": "https://soundcloud.com/everything-but-the-girl-official/missing",
       "mtimeMs": 1786342130473
+    },
+    {
+      "title": "Lil Peep - Boba On The Rocks",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep - Boba On The Rocks",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000482595777-fjy066-original.jpg",
+      "file": "tracks/lil-peep-lil-peep-boba-on-the-rocks-c82ea7d0c2f4.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-boba-on-the-rocks-c82ea7d0c2f4.json",
+        "meta": "tracks/lil-peep-lil-peep-boba-on-the-rocks-c82ea7d0c2f4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/zapte_peep/lil-peep-boba-on-the-rocks",
+      "mtimeMs": 1786459043873,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

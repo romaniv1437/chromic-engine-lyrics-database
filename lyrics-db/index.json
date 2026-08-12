@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-11T14:37:39.582345+00:00",
-  "totalTracks": 788,
+  "generatedAt": "2026-08-12T03:46:10.656128+00:00",
+  "totalTracks": 789,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11246,6 +11246,23 @@
       "mtimeMs": 1786459059581,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "trinity::daft punk - rollin' and scratchin' (alive 1997 remake)": {
+      "title": "Daft Punk - Rollin' and Scratchin' (Alive 1997 Remake)",
+      "artist": "Trinity",
+      "originalTrackName": "Trinity - Daft Punk - Rollin' and Scratchin' (Alive 1997 Remake)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000126020674-9xdtlt-original.jpg",
+      "file": "tracks/trinity-daft-punk-rollin-and-scratchin-alive-1997-remake-2255a42dc0cd.json",
+      "files": {
+        "lyrics": "tracks/trinity-daft-punk-rollin-and-scratchin-alive-1997-remake-2255a42dc0cd.json",
+        "meta": "tracks/trinity-daft-punk-rollin-and-scratchin-alive-1997-remake-2255a42dc0cd.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/trinity-housemusic/daft-punk-rollin-and-scratchin-alive-1997-remake",
+      "mtimeMs": 1786506371808,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22490,6 +22507,23 @@
       "mtimeMs": 1786459059581,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Daft Punk - Rollin' and Scratchin' (Alive 1997 Remake)",
+      "artist": "Trinity",
+      "originalTrackName": "Trinity - Daft Punk - Rollin' and Scratchin' (Alive 1997 Remake)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000126020674-9xdtlt-original.jpg",
+      "file": "tracks/trinity-daft-punk-rollin-and-scratchin-alive-1997-remake-2255a42dc0cd.json",
+      "files": {
+        "lyrics": "tracks/trinity-daft-punk-rollin-and-scratchin-alive-1997-remake-2255a42dc0cd.json",
+        "meta": "tracks/trinity-daft-punk-rollin-and-scratchin-alive-1997-remake-2255a42dc0cd.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/trinity-housemusic/daft-punk-rollin-and-scratchin-alive-1997-remake",
+      "mtimeMs": 1786506371808,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

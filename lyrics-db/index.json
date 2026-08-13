@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T03:46:10.656128+00:00",
-  "totalTracks": 789,
+  "generatedAt": "2026-08-13T00:05:23.651975+00:00",
+  "totalTracks": 790,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11263,6 +11263,22 @@
       "mtimeMs": 1786506371808,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "new. wave. music.::new wave live @ timeless festival [full set]": {
+      "title": "New Wave Live @ Timeless Festival [FULL SET]",
+      "artist": "NEW. WAVE. MUSIC.",
+      "originalTrackName": "NEW. WAVE. MUSIC. - New Wave Live @ Timeless Festival [FULL SET]",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/new-wave-music-new-wave-live-timeless-festival-full-set-a243a725861b.json",
+      "files": {
+        "lyrics": "tracks/new-wave-music-new-wave-live-timeless-festival-full-set-a243a725861b.json",
+        "meta": "tracks/new-wave-music-new-wave-live-timeless-festival-full-set-a243a725861b.meta.json",
+        "translations": {
+          "cs": "tracks/new-wave-music-new-wave-live-timeless-festival-full-set-a243a725861b.cs.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/new_wave_music/new-wave-live-timeless-festival-full-set",
+      "mtimeMs": 1786579523651
     }
   },
   "tracks": [
@@ -22524,6 +22540,22 @@
       "mtimeMs": 1786506371808,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    {
+      "title": "New Wave Live @ Timeless Festival [FULL SET]",
+      "artist": "NEW. WAVE. MUSIC.",
+      "originalTrackName": "NEW. WAVE. MUSIC. - New Wave Live @ Timeless Festival [FULL SET]",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/new-wave-music-new-wave-live-timeless-festival-full-set-a243a725861b.json",
+      "files": {
+        "lyrics": "tracks/new-wave-music-new-wave-live-timeless-festival-full-set-a243a725861b.json",
+        "meta": "tracks/new-wave-music-new-wave-live-timeless-festival-full-set-a243a725861b.meta.json",
+        "translations": {
+          "cs": "tracks/new-wave-music-new-wave-live-timeless-festival-full-set-a243a725861b.cs.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/new_wave_music/new-wave-live-timeless-festival-full-set",
+      "mtimeMs": 1786579523651
     }
   ]
 }

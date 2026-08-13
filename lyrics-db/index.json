@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T00:10:27.640452+00:00",
-  "totalTracks": 792,
+  "generatedAt": "2026-08-13T00:10:35.100163+00:00",
+  "totalTracks": 793,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11313,6 +11313,23 @@
       "mtimeMs": 1786579827639,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "anguish, zyzek::anguish, zyzek - nemam te uz druhym rokem ft. noyada, kangursvko": {
+      "title": "ANGUISH, zyzek - nemam te uz druhym rokem ft. noyada, kangursvko",
+      "artist": "ANGUISH, zyzek",
+      "originalTrackName": "ANGUISH, zyzek - ANGUISH, zyzek - nemam te uz druhym rokem ft. noyada, kangursvko",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-biKF7SOXFwDC0cWN-6f618A-original.png",
+      "file": "tracks/anguish-zyzek-anguish-zyzek-nemam-te-uz-druhym-rokem-ft-noyada-kangurs-06c915aa5471.json",
+      "files": {
+        "lyrics": "tracks/anguish-zyzek-anguish-zyzek-nemam-te-uz-druhym-rokem-ft-noyada-kangurs-06c915aa5471.json",
+        "meta": "tracks/anguish-zyzek-anguish-zyzek-nemam-te-uz-druhym-rokem-ft-noyada-kangurs-06c915aa5471.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/anguishvx/anguish-zyzek-nemam-te-uz-druhym-rokem-ft-noyada-kangursvko-13",
+      "mtimeMs": 1786579835755,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22624,6 +22641,23 @@
       "mtimeMs": 1786579827639,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "ANGUISH, zyzek - nemam te uz druhym rokem ft. noyada, kangursvko",
+      "artist": "ANGUISH, zyzek",
+      "originalTrackName": "ANGUISH, zyzek - ANGUISH, zyzek - nemam te uz druhym rokem ft. noyada, kangursvko",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-biKF7SOXFwDC0cWN-6f618A-original.png",
+      "file": "tracks/anguish-zyzek-anguish-zyzek-nemam-te-uz-druhym-rokem-ft-noyada-kangurs-06c915aa5471.json",
+      "files": {
+        "lyrics": "tracks/anguish-zyzek-anguish-zyzek-nemam-te-uz-druhym-rokem-ft-noyada-kangurs-06c915aa5471.json",
+        "meta": "tracks/anguish-zyzek-anguish-zyzek-nemam-te-uz-druhym-rokem-ft-noyada-kangurs-06c915aa5471.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/anguishvx/anguish-zyzek-nemam-te-uz-druhym-rokem-ft-noyada-kangursvko-13",
+      "mtimeMs": 1786579835755,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

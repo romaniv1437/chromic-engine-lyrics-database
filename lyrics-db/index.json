@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T14:22:54.035629+00:00",
-  "totalTracks": 793,
+  "generatedAt": "2026-08-13T14:23:02.052144+00:00",
+  "totalTracks": 794,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11330,6 +11330,23 @@
       "mtimeMs": 1786630974693,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "villian, aarne::общество мертвых поэтов": {
+      "title": "Общество Мертвых Поэтов",
+      "artist": "VILLIAN, Aarne",
+      "originalTrackName": "VILLIAN, Aarne - Общество Мертвых Поэтов",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-VqpqWabPiRRIKydN-JRKB0A-original.jpg",
+      "file": "tracks/villian-aarne-99c11066794b.json",
+      "files": {
+        "lyrics": "tracks/villian-aarne-99c11066794b.json",
+        "meta": "tracks/villian-aarne-99c11066794b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/players123051238/villian-obshhestvo-mertvyx",
+      "mtimeMs": 1786630983837,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22656,6 +22673,23 @@
       },
       "sourcePath": "https://soundcloud.com/wwoowwoo/villian-madk1d-dinastiia",
       "mtimeMs": 1786630974693,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Общество Мертвых Поэтов",
+      "artist": "VILLIAN, Aarne",
+      "originalTrackName": "VILLIAN, Aarne - Общество Мертвых Поэтов",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-VqpqWabPiRRIKydN-JRKB0A-original.jpg",
+      "file": "tracks/villian-aarne-99c11066794b.json",
+      "files": {
+        "lyrics": "tracks/villian-aarne-99c11066794b.json",
+        "meta": "tracks/villian-aarne-99c11066794b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/players123051238/villian-obshhestvo-mertvyx",
+      "mtimeMs": 1786630983837,
       "has_haptics": true,
       "haptics_version": 4
     }

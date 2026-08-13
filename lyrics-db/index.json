@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T15:14:56.947925+00:00",
-  "totalTracks": 795,
+  "generatedAt": "2026-08-13T17:44:52.957003+00:00",
+  "totalTracks": 796,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11364,6 +11364,23 @@
       "mtimeMs": 1786634097959,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "bulletrain::back to life": {
+      "title": "back to life",
+      "artist": "bulletrain",
+      "originalTrackName": "bulletrain - back to life",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-wRgH0gj6SNe9zvZp-XOG7xg-original.png",
+      "file": "tracks/bulletrain-back-to-life-e15159d87f89.json",
+      "files": {
+        "lyrics": "tracks/bulletrain-back-to-life-e15159d87f89.json",
+        "meta": "tracks/bulletrain-back-to-life-e15159d87f89.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bulletrain-377652152/back-to-life",
+      "mtimeMs": 1786643093430,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22724,6 +22741,23 @@
       },
       "sourcePath": "https://soundcloud.com/yunii777/n33d-u-babyshawty",
       "mtimeMs": 1786634097959,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "back to life",
+      "artist": "bulletrain",
+      "originalTrackName": "bulletrain - back to life",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-wRgH0gj6SNe9zvZp-XOG7xg-original.png",
+      "file": "tracks/bulletrain-back-to-life-e15159d87f89.json",
+      "files": {
+        "lyrics": "tracks/bulletrain-back-to-life-e15159d87f89.json",
+        "meta": "tracks/bulletrain-back-to-life-e15159d87f89.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bulletrain-377652152/back-to-life",
+      "mtimeMs": 1786643093430,
       "has_haptics": true,
       "haptics_version": 4
     }

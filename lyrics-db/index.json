@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T14:23:02.052144+00:00",
-  "totalTracks": 794,
+  "generatedAt": "2026-08-13T15:14:56.947925+00:00",
+  "totalTracks": 795,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11347,6 +11347,23 @@
       "mtimeMs": 1786630983837,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "yunii::n33d u ft. babyshawty": {
+      "title": "n33d u ft. babyshawty",
+      "artist": "yunii",
+      "originalTrackName": "yunii - n33d u ft. babyshawty",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-yeWQ0aXfUjy9RNLc-9YkKrg-original.jpg",
+      "file": "tracks/yunii-n33d-u-ft-babyshawty-ee034b48272e.json",
+      "files": {
+        "lyrics": "tracks/yunii-n33d-u-ft-babyshawty-ee034b48272e.json",
+        "meta": "tracks/yunii-n33d-u-ft-babyshawty-ee034b48272e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/yunii777/n33d-u-babyshawty",
+      "mtimeMs": 1786634097959,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22690,6 +22707,23 @@
       },
       "sourcePath": "https://soundcloud.com/players123051238/villian-obshhestvo-mertvyx",
       "mtimeMs": 1786630983837,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "n33d u ft. babyshawty",
+      "artist": "yunii",
+      "originalTrackName": "yunii - n33d u ft. babyshawty",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-yeWQ0aXfUjy9RNLc-9YkKrg-original.jpg",
+      "file": "tracks/yunii-n33d-u-ft-babyshawty-ee034b48272e.json",
+      "files": {
+        "lyrics": "tracks/yunii-n33d-u-ft-babyshawty-ee034b48272e.json",
+        "meta": "tracks/yunii-n33d-u-ft-babyshawty-ee034b48272e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/yunii777/n33d-u-babyshawty",
+      "mtimeMs": 1786634097959,
       "has_haptics": true,
       "haptics_version": 4
     }

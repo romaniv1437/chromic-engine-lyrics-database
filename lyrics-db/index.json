@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T00:05:23.651975+00:00",
-  "totalTracks": 790,
+  "generatedAt": "2026-08-13T00:10:00.940162+00:00",
+  "totalTracks": 791,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11279,6 +11279,23 @@
       },
       "sourcePath": "https://soundcloud.com/new_wave_music/new-wave-live-timeless-festival-full-set",
       "mtimeMs": 1786579523651
+    },
+    "sonny::kill bill (fast)": {
+      "title": "KILL BILL (FAST)",
+      "artist": "SONNY",
+      "originalTrackName": "SONNY - KILL BILL (FAST)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-6qesQKfdZG4wnc1e-1gvucQ-original.jpg",
+      "file": "tracks/sonny-kill-bill-fast-ede4272e3320.json",
+      "files": {
+        "lyrics": "tracks/sonny-kill-bill-fast-ede4272e3320.json",
+        "meta": "tracks/sonny-kill-bill-fast-ede4272e3320.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/hatesonny/kill-bill-fast-3",
+      "mtimeMs": 1786579801571,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22556,6 +22573,23 @@
       },
       "sourcePath": "https://soundcloud.com/new_wave_music/new-wave-live-timeless-festival-full-set",
       "mtimeMs": 1786579523651
+    },
+    {
+      "title": "KILL BILL (FAST)",
+      "artist": "SONNY",
+      "originalTrackName": "SONNY - KILL BILL (FAST)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-6qesQKfdZG4wnc1e-1gvucQ-original.jpg",
+      "file": "tracks/sonny-kill-bill-fast-ede4272e3320.json",
+      "files": {
+        "lyrics": "tracks/sonny-kill-bill-fast-ede4272e3320.json",
+        "meta": "tracks/sonny-kill-bill-fast-ede4272e3320.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/hatesonny/kill-bill-fast-3",
+      "mtimeMs": 1786579801571,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

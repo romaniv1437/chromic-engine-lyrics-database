@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T00:10:45.127751+00:00",
+  "generatedAt": "2026-08-13T14:22:54.035629+00:00",
   "totalTracks": 793,
   "roots": [
     "lyrics-db/tracks"
@@ -10721,23 +10721,6 @@
       "has_haptics": true,
       "haptics_version": 4
     },
-    "villian, madk1d::династия": {
-      "title": "ДИНАСТИЯ",
-      "artist": "VILLIAN, madk1d",
-      "originalTrackName": "VILLIAN, madk1d - ДИНАСТИЯ",
-      "source": "syncedlyrics",
-      "thumbnail": "https://i1.sndcdn.com/artworks-Z9NZvqkNSb4Z1xrV-E5zm9w-original.jpg",
-      "file": "tracks/villian-madk1d-94ccb42dae91.json",
-      "files": {
-        "lyrics": "tracks/villian-madk1d-94ccb42dae91.json",
-        "meta": "tracks/villian-madk1d-94ccb42dae91.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/wwoowwoo/villian-madk1d-dinastiia",
-      "mtimeMs": 1785926625562,
-      "has_haptics": false,
-      "haptics_version": null
-    },
     "kaido::lil peep - october (prod. hector vaé)": {
       "title": "LIL PEEP - OCTOBER (PROD. HECTOR VAÉ)",
       "artist": "Kaido",
@@ -11330,6 +11313,23 @@
       "mtimeMs": 1786579845127,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "villian, madk1d::династия": {
+      "title": "ДИНАСТИЯ",
+      "artist": "VILLIAN, madk1d",
+      "originalTrackName": "VILLIAN, madk1d - ДИНАСТИЯ",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-Z9NZvqkNSb4Z1xrV-E5zm9w-original.jpg",
+      "file": "tracks/villian-madk1d-94ccb42dae91.json",
+      "files": {
+        "lyrics": "tracks/villian-madk1d-94ccb42dae91.json",
+        "meta": "tracks/villian-madk1d-94ccb42dae91.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/wwoowwoo/villian-madk1d-dinastiia",
+      "mtimeMs": 1786630974693,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22050,23 +22050,6 @@
       "haptics_version": 4
     },
     {
-      "title": "ДИНАСТИЯ",
-      "artist": "VILLIAN, madk1d",
-      "originalTrackName": "VILLIAN, madk1d - ДИНАСТИЯ",
-      "source": "syncedlyrics",
-      "thumbnail": "https://i1.sndcdn.com/artworks-Z9NZvqkNSb4Z1xrV-E5zm9w-original.jpg",
-      "file": "tracks/villian-madk1d-94ccb42dae91.json",
-      "files": {
-        "lyrics": "tracks/villian-madk1d-94ccb42dae91.json",
-        "meta": "tracks/villian-madk1d-94ccb42dae91.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/wwoowwoo/villian-madk1d-dinastiia",
-      "mtimeMs": 1785926625562,
-      "has_haptics": false,
-      "haptics_version": null
-    },
-    {
       "title": "LIL PEEP - OCTOBER (PROD. HECTOR VAÉ)",
       "artist": "Kaido",
       "originalTrackName": "Kaido - LIL PEEP - OCTOBER (PROD. HECTOR VAÉ)",
@@ -22658,6 +22641,23 @@
       "mtimeMs": 1786579845127,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "ДИНАСТИЯ",
+      "artist": "VILLIAN, madk1d",
+      "originalTrackName": "VILLIAN, madk1d - ДИНАСТИЯ",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-Z9NZvqkNSb4Z1xrV-E5zm9w-original.jpg",
+      "file": "tracks/villian-madk1d-94ccb42dae91.json",
+      "files": {
+        "lyrics": "tracks/villian-madk1d-94ccb42dae91.json",
+        "meta": "tracks/villian-madk1d-94ccb42dae91.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/wwoowwoo/villian-madk1d-dinastiia",
+      "mtimeMs": 1786630974693,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

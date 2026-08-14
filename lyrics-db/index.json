@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T17:44:52.957003+00:00",
-  "totalTracks": 796,
+  "generatedAt": "2026-08-14T03:52:30.412926+00:00",
+  "totalTracks": 797,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11381,6 +11381,23 @@
       "mtimeMs": 1786643093430,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "rpt mck::night in prague": {
+      "title": "Night In Prague",
+      "artist": "RPT MCK",
+      "originalTrackName": "RPT MCK - Night In Prague",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-nYe5vGzlH1Kd3Wez-wil0Cw-original.jpg",
+      "file": "tracks/rpt-mck-night-in-prague-b1b636d46996.json",
+      "files": {
+        "lyrics": "tracks/rpt-mck-night-in-prague-b1b636d46996.json",
+        "meta": "tracks/rpt-mck-night-in-prague-b1b636d46996.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/m_haziel/night-in-prague",
+      "mtimeMs": 1786679550910,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22758,6 +22775,23 @@
       },
       "sourcePath": "https://soundcloud.com/bulletrain-377652152/back-to-life",
       "mtimeMs": 1786643093430,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Night In Prague",
+      "artist": "RPT MCK",
+      "originalTrackName": "RPT MCK - Night In Prague",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-nYe5vGzlH1Kd3Wez-wil0Cw-original.jpg",
+      "file": "tracks/rpt-mck-night-in-prague-b1b636d46996.json",
+      "files": {
+        "lyrics": "tracks/rpt-mck-night-in-prague-b1b636d46996.json",
+        "meta": "tracks/rpt-mck-night-in-prague-b1b636d46996.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/m_haziel/night-in-prague",
+      "mtimeMs": 1786679550910,
       "has_haptics": true,
       "haptics_version": 4
     }

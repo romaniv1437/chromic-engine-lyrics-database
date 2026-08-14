@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-14T03:53:15.945871+00:00",
-  "totalTracks": 798,
+  "generatedAt": "2026-08-14T06:05:40.963042+00:00",
+  "totalTracks": 799,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11415,6 +11415,23 @@
       "mtimeMs": 1786679596578,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "rpt mck::nếu như ta chẳng còn (feat. a$ap ướt mi)": {
+      "title": "Nếu Như Ta Chẳng Còn (feat. A$AP Ướt Mi)",
+      "artist": "RPT MCK",
+      "originalTrackName": "RPT MCK - Nếu Như Ta Chẳng Còn (feat. A$AP Ướt Mi)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-KalBs428Wc0poixU-ZOPhjA-original.jpg",
+      "file": "tracks/rpt-mck-n-u-nh-ta-ch-ng-c-n-feat-a-ap-t-mi-eb791feb2bb7.json",
+      "files": {
+        "lyrics": "tracks/rpt-mck-n-u-nh-ta-ch-ng-c-n-feat-a-ap-t-mi-eb791feb2bb7.json",
+        "meta": "tracks/rpt-mck-n-u-nh-ta-ch-ng-c-n-feat-a-ap-t-mi-eb791feb2bb7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/m_haziel/n-u-nh-ta-ch-ng-c-n-feat-a-ap",
+      "mtimeMs": 1786687542096,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22826,6 +22843,23 @@
       },
       "sourcePath": "https://soundcloud.com/m_haziel/y-u-anh-gi-t-anh",
       "mtimeMs": 1786679596578,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Nếu Như Ta Chẳng Còn (feat. A$AP Ướt Mi)",
+      "artist": "RPT MCK",
+      "originalTrackName": "RPT MCK - Nếu Như Ta Chẳng Còn (feat. A$AP Ướt Mi)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-KalBs428Wc0poixU-ZOPhjA-original.jpg",
+      "file": "tracks/rpt-mck-n-u-nh-ta-ch-ng-c-n-feat-a-ap-t-mi-eb791feb2bb7.json",
+      "files": {
+        "lyrics": "tracks/rpt-mck-n-u-nh-ta-ch-ng-c-n-feat-a-ap-t-mi-eb791feb2bb7.json",
+        "meta": "tracks/rpt-mck-n-u-nh-ta-ch-ng-c-n-feat-a-ap-t-mi-eb791feb2bb7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/m_haziel/n-u-nh-ta-ch-ng-c-n-feat-a-ap",
+      "mtimeMs": 1786687542096,
       "has_haptics": true,
       "haptics_version": 4
     }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-14T03:52:30.412926+00:00",
-  "totalTracks": 797,
+  "generatedAt": "2026-08-14T03:53:15.945871+00:00",
+  "totalTracks": 798,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11398,6 +11398,23 @@
       "mtimeMs": 1786679550910,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "rpt mck::yêu anh giết anh": {
+      "title": "Yêu Anh Giết Anh",
+      "artist": "RPT MCK",
+      "originalTrackName": "RPT MCK - Yêu Anh Giết Anh",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-c5FLgrNfNMdaJdxd-OJ0daA-original.jpg",
+      "file": "tracks/rpt-mck-y-u-anh-gi-t-anh-dfc24de8ea15.json",
+      "files": {
+        "lyrics": "tracks/rpt-mck-y-u-anh-gi-t-anh-dfc24de8ea15.json",
+        "meta": "tracks/rpt-mck-y-u-anh-gi-t-anh-dfc24de8ea15.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/m_haziel/y-u-anh-gi-t-anh",
+      "mtimeMs": 1786679596578,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22792,6 +22809,23 @@
       },
       "sourcePath": "https://soundcloud.com/m_haziel/night-in-prague",
       "mtimeMs": 1786679550910,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Yêu Anh Giết Anh",
+      "artist": "RPT MCK",
+      "originalTrackName": "RPT MCK - Yêu Anh Giết Anh",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-c5FLgrNfNMdaJdxd-OJ0daA-original.jpg",
+      "file": "tracks/rpt-mck-y-u-anh-gi-t-anh-dfc24de8ea15.json",
+      "files": {
+        "lyrics": "tracks/rpt-mck-y-u-anh-gi-t-anh-dfc24de8ea15.json",
+        "meta": "tracks/rpt-mck-y-u-anh-gi-t-anh-dfc24de8ea15.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/m_haziel/y-u-anh-gi-t-anh",
+      "mtimeMs": 1786679596578,
       "has_haptics": true,
       "haptics_version": 4
     }

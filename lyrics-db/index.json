@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-14T06:12:08.452474+00:00",
-  "totalTracks": 799,
+  "generatedAt": "2026-08-14T06:21:03.339163+00:00",
+  "totalTracks": 800,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11432,6 +11432,23 @@
       "mtimeMs": 1786687928451,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "g-huy::wtf bby i'm lit - mck": {
+      "title": "Wtf Bby I'm Lit - MCK",
+      "artist": "G-huy",
+      "originalTrackName": "G-huy - Wtf Bby I'm Lit - MCK",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-PafKuRP5GwUHP4GH-akkN4A-original.jpg",
+      "file": "tracks/g-huy-wtf-bby-i-m-lit-mck-91ecbb75e621.json",
+      "files": {
+        "lyrics": "tracks/g-huy-wtf-bby-i-m-lit-mck-91ecbb75e621.json",
+        "meta": "tracks/g-huy-wtf-bby-i-m-lit-mck-91ecbb75e621.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/nguy-n-gia-huy-794757800/wtf-bby-im-lit-mck-3",
+      "mtimeMs": 1786688464072,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22862,6 +22879,23 @@
       "mtimeMs": 1786687928451,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Wtf Bby I'm Lit - MCK",
+      "artist": "G-huy",
+      "originalTrackName": "G-huy - Wtf Bby I'm Lit - MCK",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-PafKuRP5GwUHP4GH-akkN4A-original.jpg",
+      "file": "tracks/g-huy-wtf-bby-i-m-lit-mck-91ecbb75e621.json",
+      "files": {
+        "lyrics": "tracks/g-huy-wtf-bby-i-m-lit-mck-91ecbb75e621.json",
+        "meta": "tracks/g-huy-wtf-bby-i-m-lit-mck-91ecbb75e621.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/nguy-n-gia-huy-794757800/wtf-bby-im-lit-mck-3",
+      "mtimeMs": 1786688464072,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

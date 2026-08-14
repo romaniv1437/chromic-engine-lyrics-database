@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-14T14:07:25.332192+00:00",
-  "totalTracks": 802,
+  "generatedAt": "2026-08-14T21:53:29.817667+00:00",
+  "totalTracks": 803,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11483,6 +11483,23 @@
       "mtimeMs": 1786716447286,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "campsickness::strawberry shortcake": {
+      "title": "Strawberry shortcake",
+      "artist": "Campsickness",
+      "originalTrackName": "Campsickness - Strawberry shortcake",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-Lufz8zi2S715as2P-2eIodg-original.jpg",
+      "file": "tracks/campsickness-strawberry-shortcake-ce50de2039c7.json",
+      "files": {
+        "lyrics": "tracks/campsickness-strawberry-shortcake-ce50de2039c7.json",
+        "meta": "tracks/campsickness-strawberry-shortcake-ce50de2039c7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/marquan-smith-366631386/strawberry-shortcake",
+      "mtimeMs": 1786744413257,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22962,6 +22979,23 @@
       },
       "sourcePath": "file://বলতল সলমন লট দহয লট দহয লট  Beltoli Suleman Lengta Duhay Lengta Duhay Lengta.mp3",
       "mtimeMs": 1786716447286,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Strawberry shortcake",
+      "artist": "Campsickness",
+      "originalTrackName": "Campsickness - Strawberry shortcake",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-Lufz8zi2S715as2P-2eIodg-original.jpg",
+      "file": "tracks/campsickness-strawberry-shortcake-ce50de2039c7.json",
+      "files": {
+        "lyrics": "tracks/campsickness-strawberry-shortcake-ce50de2039c7.json",
+        "meta": "tracks/campsickness-strawberry-shortcake-ce50de2039c7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/marquan-smith-366631386/strawberry-shortcake",
+      "mtimeMs": 1786744413257,
       "has_haptics": true,
       "haptics_version": 4
     }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-14T06:21:20.411462+00:00",
-  "totalTracks": 800,
+  "generatedAt": "2026-08-14T06:22:06.174508+00:00",
+  "totalTracks": 801,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11449,6 +11449,23 @@
       "mtimeMs": 1786688480410,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "haziel::một cái ôm": {
+      "title": "Một Cái Ôm",
+      "artist": "Haziel",
+      "originalTrackName": "Haziel - Một Cái Ôm",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-0o5uPBI6JnPtBpYH-pWw1nw-original.png",
+      "file": "tracks/haziel-m-t-c-i-m-ec7611a5f6a2.json",
+      "files": {
+        "lyrics": "tracks/haziel-m-t-c-i-m-ec7611a5f6a2.json",
+        "meta": "tracks/haziel-m-t-c-i-m-ec7611a5f6a2.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/m_haziel/m-t-c-i-m",
+      "mtimeMs": 1786688526839,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22896,6 +22913,23 @@
       "mtimeMs": 1786688480410,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Một Cái Ôm",
+      "artist": "Haziel",
+      "originalTrackName": "Haziel - Một Cái Ôm",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-0o5uPBI6JnPtBpYH-pWw1nw-original.png",
+      "file": "tracks/haziel-m-t-c-i-m-ec7611a5f6a2.json",
+      "files": {
+        "lyrics": "tracks/haziel-m-t-c-i-m-ec7611a5f6a2.json",
+        "meta": "tracks/haziel-m-t-c-i-m-ec7611a5f6a2.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/m_haziel/m-t-c-i-m",
+      "mtimeMs": 1786688526839,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

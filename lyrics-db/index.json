@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-14T06:22:21.988101+00:00",
-  "totalTracks": 801,
+  "generatedAt": "2026-08-14T14:07:25.332192+00:00",
+  "totalTracks": 802,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11466,6 +11466,23 @@
       "mtimeMs": 1786688541987,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "::বলতল সলমন লট দহয লট দহয লট  beltoli suleman lengta duhay lengta duhay lengta": {
+      "title": "বলতল সলমন লট দহয লট দহয লট  Beltoli Suleman Lengta Duhay Lengta Duhay Lengta",
+      "artist": "",
+      "originalTrackName": "বলতল সলমন লট দহয লট দহয লট  Beltoli Suleman Lengta Duhay Lengta Duhay Lengta",
+      "source": "whisper_only",
+      "thumbnail": "",
+      "file": "tracks/beltoli-suleman-lengta-duhay-lengta-duhay-lengta-1c5ef78c473a.json",
+      "files": {
+        "lyrics": "tracks/beltoli-suleman-lengta-duhay-lengta-duhay-lengta-1c5ef78c473a.json",
+        "meta": "tracks/beltoli-suleman-lengta-duhay-lengta-duhay-lengta-1c5ef78c473a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "file://বলতল সলমন লট দহয লট দহয লট  Beltoli Suleman Lengta Duhay Lengta Duhay Lengta.mp3",
+      "mtimeMs": 1786716447286,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22930,6 +22947,23 @@
       "mtimeMs": 1786688541987,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "বলতল সলমন লট দহয লট দহয লট  Beltoli Suleman Lengta Duhay Lengta Duhay Lengta",
+      "artist": "",
+      "originalTrackName": "বলতল সলমন লট দহয লট দহয লট  Beltoli Suleman Lengta Duhay Lengta Duhay Lengta",
+      "source": "whisper_only",
+      "thumbnail": "",
+      "file": "tracks/beltoli-suleman-lengta-duhay-lengta-duhay-lengta-1c5ef78c473a.json",
+      "files": {
+        "lyrics": "tracks/beltoli-suleman-lengta-duhay-lengta-duhay-lengta-1c5ef78c473a.json",
+        "meta": "tracks/beltoli-suleman-lengta-duhay-lengta-duhay-lengta-1c5ef78c473a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "file://বলতল সলমন লট দহয লট দহয লট  Beltoli Suleman Lengta Duhay Lengta Duhay Lengta.mp3",
+      "mtimeMs": 1786716447286,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

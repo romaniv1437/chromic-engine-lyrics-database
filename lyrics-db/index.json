@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T06:05:59.145086+00:00",
+  "generatedAt": "2026-08-14T06:11:52.919848+00:00",
   "totalTracks": 799,
   "roots": [
     "lyrics-db/tracks"
@@ -11420,7 +11420,7 @@
       "title": "Nếu Như Ta Chẳng Còn (feat. A$AP Ướt Mi)",
       "artist": "RPT MCK",
       "originalTrackName": "RPT MCK - Nếu Như Ta Chẳng Còn (feat. A$AP Ướt Mi)",
-      "source": "whisper_only",
+      "source": "syncedlyrics",
       "thumbnail": "https://i1.sndcdn.com/artworks-KalBs428Wc0poixU-ZOPhjA-original.jpg",
       "file": "tracks/rpt-mck-n-u-nh-ta-ch-ng-c-n-feat-a-ap-t-mi-eb791feb2bb7.json",
       "files": {
@@ -11429,9 +11429,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/m_haziel/n-u-nh-ta-ch-ng-c-n-feat-a-ap",
-      "mtimeMs": 1786687559144,
-      "has_haptics": false,
-      "haptics_version": null
+      "mtimeMs": 1786687913593,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22850,7 +22850,7 @@
       "title": "Nếu Như Ta Chẳng Còn (feat. A$AP Ướt Mi)",
       "artist": "RPT MCK",
       "originalTrackName": "RPT MCK - Nếu Như Ta Chẳng Còn (feat. A$AP Ướt Mi)",
-      "source": "whisper_only",
+      "source": "syncedlyrics",
       "thumbnail": "https://i1.sndcdn.com/artworks-KalBs428Wc0poixU-ZOPhjA-original.jpg",
       "file": "tracks/rpt-mck-n-u-nh-ta-ch-ng-c-n-feat-a-ap-t-mi-eb791feb2bb7.json",
       "files": {
@@ -22859,9 +22859,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/m_haziel/n-u-nh-ta-ch-ng-c-n-feat-a-ap",
-      "mtimeMs": 1786687559144,
-      "has_haptics": false,
-      "haptics_version": null
+      "mtimeMs": 1786687913593,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

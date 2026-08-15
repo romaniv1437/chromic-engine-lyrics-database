@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-14T21:53:47.812084+00:00",
-  "totalTracks": 803,
+  "generatedAt": "2026-08-15T18:34:52.899601+00:00",
+  "totalTracks": 804,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11500,6 +11500,23 @@
       "mtimeMs": 1786744427811,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "bob dominator::bob dominator- i will run": {
+      "title": "Bob Dominator- I will run",
+      "artist": "Bob Dominator",
+      "originalTrackName": "Bob Dominator - Bob Dominator- I will run",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-ju4kjKBp8zAIkeEz-8AYyVg-original.jpg",
+      "file": "tracks/bob-dominator-bob-dominator-i-will-run-5801b03c4e51.json",
+      "files": {
+        "lyrics": "tracks/bob-dominator-bob-dominator-i-will-run-5801b03c4e51.json",
+        "meta": "tracks/bob-dominator-bob-dominator-i-will-run-5801b03c4e51.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/zxu2suuo5ut3/bob-dominator-i-will-run",
+      "mtimeMs": 1786818893439,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -22998,6 +23015,23 @@
       "mtimeMs": 1786744427811,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Bob Dominator- I will run",
+      "artist": "Bob Dominator",
+      "originalTrackName": "Bob Dominator - Bob Dominator- I will run",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-ju4kjKBp8zAIkeEz-8AYyVg-original.jpg",
+      "file": "tracks/bob-dominator-bob-dominator-i-will-run-5801b03c4e51.json",
+      "files": {
+        "lyrics": "tracks/bob-dominator-bob-dominator-i-will-run-5801b03c4e51.json",
+        "meta": "tracks/bob-dominator-bob-dominator-i-will-run-5801b03c4e51.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/zxu2suuo5ut3/bob-dominator-i-will-run",
+      "mtimeMs": 1786818893439,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

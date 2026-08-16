@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T11:39:45.528456+00:00",
-  "totalTracks": 806,
+  "generatedAt": "2026-08-16T23:46:54.243422+00:00",
+  "totalTracks": 807,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11550,6 +11550,23 @@
       },
       "sourcePath": "https://soundcloud.com/alecbenjamin/let-me-down-slowly",
       "mtimeMs": 1786880385528
+    },
+    "witt lowry::witt lowry - into your arms (feat. ava max)": {
+      "title": "Witt Lowry - Into Your Arms (feat. Ava Max)",
+      "artist": "Witt Lowry",
+      "originalTrackName": "Witt Lowry - Witt Lowry - Into Your Arms (feat. Ava Max)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000357938454-4ru6zy-original.jpg",
+      "file": "tracks/witt-lowry-witt-lowry-into-your-arms-feat-ava-max-6b8b376a898c.json",
+      "files": {
+        "lyrics": "tracks/witt-lowry-witt-lowry-into-your-arms-feat-ava-max-6b8b376a898c.json",
+        "meta": "tracks/witt-lowry-witt-lowry-into-your-arms-feat-ava-max-6b8b376a898c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/wittlowry/witt-lowry-into-your-arms-feat-ava-max",
+      "mtimeMs": 1786924015428,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -23098,6 +23115,23 @@
       },
       "sourcePath": "https://soundcloud.com/alecbenjamin/let-me-down-slowly",
       "mtimeMs": 1786880385528
+    },
+    {
+      "title": "Witt Lowry - Into Your Arms (feat. Ava Max)",
+      "artist": "Witt Lowry",
+      "originalTrackName": "Witt Lowry - Witt Lowry - Into Your Arms (feat. Ava Max)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000357938454-4ru6zy-original.jpg",
+      "file": "tracks/witt-lowry-witt-lowry-into-your-arms-feat-ava-max-6b8b376a898c.json",
+      "files": {
+        "lyrics": "tracks/witt-lowry-witt-lowry-into-your-arms-feat-ava-max-6b8b376a898c.json",
+        "meta": "tracks/witt-lowry-witt-lowry-into-your-arms-feat-ava-max-6b8b376a898c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/wittlowry/witt-lowry-into-your-arms-feat-ava-max",
+      "mtimeMs": 1786924015428,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

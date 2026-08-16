@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-15T18:35:05.546561+00:00",
-  "totalTracks": 804,
+  "generatedAt": "2026-08-16T10:44:50.420177+00:00",
+  "totalTracks": 805,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11517,6 +11517,23 @@
       "mtimeMs": 1786818905546,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "roryxjesss::here by alessia cara": {
+      "title": "Here by Alessia Cara",
+      "artist": "Roryxjesss",
+      "originalTrackName": "Roryxjesss - Here by Alessia Cara",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-J02HMuMqJlwyiDfo-zK7IGg-original.jpg",
+      "file": "tracks/roryxjesss-here-by-alessia-cara-fb65059f6a55.json",
+      "files": {
+        "lyrics": "tracks/roryxjesss-here-by-alessia-cara-fb65059f6a55.json",
+        "meta": "tracks/roryxjesss-here-by-alessia-cara-fb65059f6a55.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/roryxjess/here-by-alessia-cara",
+      "mtimeMs": 1786877091008,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -23032,6 +23049,23 @@
       "mtimeMs": 1786818905546,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Here by Alessia Cara",
+      "artist": "Roryxjesss",
+      "originalTrackName": "Roryxjesss - Here by Alessia Cara",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-J02HMuMqJlwyiDfo-zK7IGg-original.jpg",
+      "file": "tracks/roryxjesss-here-by-alessia-cara-fb65059f6a55.json",
+      "files": {
+        "lyrics": "tracks/roryxjesss-here-by-alessia-cara-fb65059f6a55.json",
+        "meta": "tracks/roryxjesss-here-by-alessia-cara-fb65059f6a55.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/roryxjess/here-by-alessia-cara",
+      "mtimeMs": 1786877091008,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

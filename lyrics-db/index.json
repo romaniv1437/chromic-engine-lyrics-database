@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T11:33:12.793466+00:00",
+  "generatedAt": "2026-08-16T11:39:45.528456+00:00",
   "totalTracks": 806,
   "roots": [
     "lyrics-db/tracks"
@@ -11539,18 +11539,17 @@
       "title": "Let Me Down Slowly",
       "artist": "Alec Benjamin",
       "originalTrackName": "Alec Benjamin - Let Me Down Slowly",
-      "source": "lrclib_plain",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000352463268-5bfny8-original.jpg",
+      "source": "soundcloud_extension_translate",
       "file": "tracks/alec-benjamin-let-me-down-slowly-82c8ba389e08.json",
       "files": {
         "lyrics": "tracks/alec-benjamin-let-me-down-slowly-82c8ba389e08.json",
         "meta": "tracks/alec-benjamin-let-me-down-slowly-82c8ba389e08.meta.json",
-        "translations": {}
+        "translations": {
+          "uk": "tracks/alec-benjamin-let-me-down-slowly-82c8ba389e08.uk.json"
+        }
       },
       "sourcePath": "https://soundcloud.com/alecbenjamin/let-me-down-slowly",
-      "mtimeMs": 1786879993833,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1786880385528
     }
   },
   "tracks": [
@@ -23088,18 +23087,17 @@
       "title": "Let Me Down Slowly",
       "artist": "Alec Benjamin",
       "originalTrackName": "Alec Benjamin - Let Me Down Slowly",
-      "source": "lrclib_plain",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000352463268-5bfny8-original.jpg",
+      "source": "soundcloud_extension_translate",
       "file": "tracks/alec-benjamin-let-me-down-slowly-82c8ba389e08.json",
       "files": {
         "lyrics": "tracks/alec-benjamin-let-me-down-slowly-82c8ba389e08.json",
         "meta": "tracks/alec-benjamin-let-me-down-slowly-82c8ba389e08.meta.json",
-        "translations": {}
+        "translations": {
+          "uk": "tracks/alec-benjamin-let-me-down-slowly-82c8ba389e08.uk.json"
+        }
       },
       "sourcePath": "https://soundcloud.com/alecbenjamin/let-me-down-slowly",
-      "mtimeMs": 1786879993833,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1786880385528
     }
   ]
 }

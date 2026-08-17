@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T01:57:08.423302+00:00",
-  "totalTracks": 809,
+  "generatedAt": "2026-08-17T02:06:30.512003+00:00",
+  "totalTracks": 810,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11601,6 +11601,23 @@
       "mtimeMs": 1786931829054,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "lungskull::!?": {
+      "title": "!?",
+      "artist": "lungskull",
+      "originalTrackName": "lungskull - !?",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-8sa44uL5ylC6baSt-QHZ45w-original.jpg",
+      "file": "tracks/lungskull-cad20571608b.json",
+      "files": {
+        "lyrics": "tracks/lungskull-cad20571608b.json",
+        "meta": "tracks/lungskull-cad20571608b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/jayducan50/d9q2gvynyfir",
+      "mtimeMs": 1786932391103,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -23198,6 +23215,23 @@
       },
       "sourcePath": "https://soundcloud.com/dakarri-genson/booka-prod-yungsickbeatz",
       "mtimeMs": 1786931829054,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "!?",
+      "artist": "lungskull",
+      "originalTrackName": "lungskull - !?",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-8sa44uL5ylC6baSt-QHZ45w-original.jpg",
+      "file": "tracks/lungskull-cad20571608b.json",
+      "files": {
+        "lyrics": "tracks/lungskull-cad20571608b.json",
+        "meta": "tracks/lungskull-cad20571608b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/jayducan50/d9q2gvynyfir",
+      "mtimeMs": 1786932391103,
       "has_haptics": true,
       "haptics_version": 4
     }

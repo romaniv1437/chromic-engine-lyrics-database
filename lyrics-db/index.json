@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T23:47:09.453804+00:00",
-  "totalTracks": 807,
+  "generatedAt": "2026-08-17T01:49:50.095015+00:00",
+  "totalTracks": 808,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11567,6 +11567,23 @@
       "mtimeMs": 1786924029453,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "user1347574041::no1 :": {
+      "title": "no1 :",
+      "artist": "user1347574041",
+      "originalTrackName": "user1347574041 - no1 :",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-I3C4XxMn2eMoZAQK-6M8bUQ-original.jpg",
+      "file": "tracks/user1347574041-no1-4e9f418ad94e.json",
+      "files": {
+        "lyrics": "tracks/user1347574041-no1-4e9f418ad94e.json",
+        "meta": "tracks/user1347574041-no1-4e9f418ad94e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user1347574041/no1",
+      "mtimeMs": 1786931391962,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -23132,6 +23149,23 @@
       "mtimeMs": 1786924029453,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "no1 :",
+      "artist": "user1347574041",
+      "originalTrackName": "user1347574041 - no1 :",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-I3C4XxMn2eMoZAQK-6M8bUQ-original.jpg",
+      "file": "tracks/user1347574041-no1-4e9f418ad94e.json",
+      "files": {
+        "lyrics": "tracks/user1347574041-no1-4e9f418ad94e.json",
+        "meta": "tracks/user1347574041-no1-4e9f418ad94e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user1347574041/no1",
+      "mtimeMs": 1786931391962,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T02:06:30.512003+00:00",
-  "totalTracks": 810,
+  "generatedAt": "2026-08-17T09:09:29.738512+00:00",
+  "totalTracks": 811,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11618,6 +11618,22 @@
       "mtimeMs": 1786932391103,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "$uicideboy$::for the last time": {
+      "title": "FOR THE LAST TIME",
+      "artist": "$uicideboy$",
+      "originalTrackName": "$uicideboy$ - FOR THE LAST TIME",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/uicideboy-for-the-last-time-701ecaedb6e4.json",
+      "files": {
+        "lyrics": "tracks/uicideboy-for-the-last-time-701ecaedb6e4.json",
+        "meta": "tracks/uicideboy-for-the-last-time-701ecaedb6e4.meta.json",
+        "translations": {
+          "en": "tracks/uicideboy-for-the-last-time-701ecaedb6e4.en.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/g59/forthelasttime",
+      "mtimeMs": 1786957769738
     }
   },
   "tracks": [
@@ -23234,6 +23250,22 @@
       "mtimeMs": 1786932391103,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    {
+      "title": "FOR THE LAST TIME",
+      "artist": "$uicideboy$",
+      "originalTrackName": "$uicideboy$ - FOR THE LAST TIME",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/uicideboy-for-the-last-time-701ecaedb6e4.json",
+      "files": {
+        "lyrics": "tracks/uicideboy-for-the-last-time-701ecaedb6e4.json",
+        "meta": "tracks/uicideboy-for-the-last-time-701ecaedb6e4.meta.json",
+        "translations": {
+          "en": "tracks/uicideboy-for-the-last-time-701ecaedb6e4.en.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/g59/forthelasttime",
+      "mtimeMs": 1786957769738
     }
   ]
 }

@@ -1,8 +1,10 @@
 {
   "artist": "$uicideboy$",
+  "title": "FOR THE LAST TIME",
   "track_title": "FOR THE LAST TIME",
+  "thumbnail": "https://i1.sndcdn.com/artworks-000241361587-tkxh9n-original.jpg",
   "track_url": "https://soundcloud.com/g59/forthelasttime",
-  "lyrics_source": "soundcloud_extension_translate",
-  "line_timestamps_source": "whisper_aligner",
-  "updated_at": "2026-08-17T09:10:25.248389+00:00"
+  "lyrics_source": "lrclib_plain",
+  "line_timestamps_source": "guided-whisper",
+  "updated_at": "2026-08-17T09:11:29.470646+00:00"
 }

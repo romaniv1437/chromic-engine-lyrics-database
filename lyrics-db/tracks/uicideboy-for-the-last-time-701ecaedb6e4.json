@@ -1,9 +1,10044 @@
-[
-  {
-    "text": "Субтитры создав сделал DimaTorzok Субтитры сделал .Семкин Корректор А .Егорова Субтитры сделалогнал «Симон» Субтитры создавал DimaTorzok Редактор субтитров А .Семкин Корректор А .Егорова",
-    "startTime": 0,
-    "endTime": 199.48,
-    "time": 0,
-    "end": 199.48
+{
+  "lines": [
+    {
+      "text": "●",
+      "startTime": 0.3,
+      "endTime": 35.64,
+      "words": [],
+      "type": "vocal_cue",
+      "time": 0.3,
+      "end": 35.64
+    },
+    {
+      "text": "Stay in",
+      "startTime": 35.64,
+      "endTime": 38.74,
+      "words": [
+        {
+          "word": "Stay",
+          "start": 35.686,
+          "end": 36.82,
+          "char_starts": [
+            35.686,
+            35.856,
+            36.122,
+            36.479
+          ],
+          "spoken": true
+        },
+        {
+          "word": "in",
+          "start": 38.5,
+          "end": 38.74,
+          "spoken": true
+        }
+      ],
+      "time": 35.64,
+      "end": 38.74
+    },
+    {
+      "text": "●",
+      "startTime": 39.04,
+      "endTime": 45.36,
+      "words": [],
+      "type": "vocal_cue",
+      "time": 39.04,
+      "end": 45.36
+    },
+    {
+      "text": "the cut",
+      "startTime": 45.36,
+      "endTime": 47.92,
+      "words": [
+        {
+          "word": "the",
+          "start": 45.36,
+          "end": 45.6,
+          "spoken": true
+        },
+        {
+          "word": "cut",
+          "start": 47.56,
+          "end": 47.92,
+          "spoken": true
+        }
+      ],
+      "time": 45.36,
+      "end": 47.92
+    },
+    {
+      "text": "●",
+      "startTime": 48.22,
+      "endTime": 55.66,
+      "words": [],
+      "type": "vocal_cue",
+      "time": 48.22,
+      "end": 55.66
+    },
+    {
+      "text": "on the Northside",
+      "startTime": 55.66,
+      "endTime": 57.74,
+      "words": [
+        {
+          "word": "on",
+          "start": 55.66,
+          "end": 55.92,
+          "spoken": true
+        },
+        {
+          "word": "the",
+          "start": 57.3,
+          "end": 57.58,
+          "spoken": true
+        },
+        {
+          "word": "Northside",
+          "start": 57.59,
+          "end": 57.74,
+          "spoken": true
+        }
+      ],
+      "time": 55.66,
+      "end": 57.74
+    },
+    {
+      "text": "●",
+      "startTime": 58.04,
+      "endTime": 82.49,
+      "words": [],
+      "type": "vocal_cue",
+      "time": 58.04,
+      "end": 82.49
+    },
+    {
+      "text": "Hollow-points, trigger fingers on my fucking .45",
+      "startTime": 82.49,
+      "endTime": 88.73,
+      "words": [
+        {
+          "word": "Hollow-points,",
+          "start": 82.49,
+          "end": 84.57,
+          "sung": true
+        },
+        {
+          "word": "trigger",
+          "start": 84.57,
+          "end": 85.61,
+          "spoken": true
+        },
+        {
+          "word": "fingers",
+          "start": 85.61,
+          "end": 86.65,
+          "whisper": true
+        },
+        {
+          "word": "on",
+          "start": 86.65,
+          "end": 86.947,
+          "whisper": true
+        },
+        {
+          "word": "my",
+          "start": 87.086,
+          "end": 87.244,
+          "spoken": true
+        },
+        {
+          "word": "fucking",
+          "start": 87.244,
+          "end": 88.284,
+          "sung": true
+        },
+        {
+          "word": ".45",
+          "start": 88.284,
+          "end": 88.73,
+          "whisper": true
+        }
+      ],
+      "time": 82.49,
+      "end": 88.73
+    },
+    {
+      "text": "●",
+      "startTime": 85.62,
+      "endTime": 120.2,
+      "words": [],
+      "type": "vocal_cue",
+      "time": 85.62,
+      "end": 120.2
+    },
+    {
+      "text": "Demons rising out the crypt, I snort",
+      "startTime": 120.2,
+      "endTime": 123.2,
+      "words": [
+        {
+          "word": "Demons",
+          "start": 120.2,
+          "end": 120.35,
+          "spoken": true
+        },
+        {
+          "word": "rising",
+          "start": 120.4,
+          "end": 120.55,
+          "spoken": true
+        },
+        {
+          "word": "out",
+          "start": 120.6,
+          "end": 120.92,
+          "spoken": true
+        },
+        {
+          "word": "the",
+          "start": 120.93,
+          "end": 121.06,
+          "spoken": true
+        },
+        {
+          "word": "crypt,",
+          "start": 121.07,
+          "end": 121.34,
+          "spoken": true
+        },
+        {
+          "word": "I",
+          "start": 121.35,
+          "end": 121.7,
+          "spoken": true
+        },
+        {
+          "word": "snort",
+          "start": 121.71,
+          "end": 123.2,
+          "char_starts": [
+            121.71,
+            121.889,
+            122.118,
+            122.39,
+            122.695
+          ],
+          "sung": true,
+          "stretch": true
+        }
+      ],
+      "time": 120.2,
+      "end": 123.2
+    },
+    {
+      "text": "●",
+      "startTime": 123.5,
+      "endTime": 129.22,
+      "words": [],
+      "type": "vocal_cue",
+      "time": 123.5,
+      "end": 129.22
+    },
+    {
+      "text": "me a fat line",
+      "startTime": 129.22,
+      "endTime": 129.77,
+      "words": [
+        {
+          "word": "me",
+          "start": 129.22,
+          "end": 129.62,
+          "spoken": true
+        },
+        {
+          "word": "a",
+          "start": 129.63,
+          "end": 129.67
+        },
+        {
+          "word": "fat",
+          "start": 129.68,
+          "end": 129.72
+        },
+        {
+          "word": "line",
+          "start": 129.73,
+          "end": 129.77
+        }
+      ],
+      "time": 129.22,
+      "end": 129.77
+    },
+    {
+      "text": "Never gave a fuck, grew up out the mud",
+      "startTime": 129.78,
+      "endTime": 130.22,
+      "words": [
+        {
+          "word": "Never",
+          "start": 129.78,
+          "end": 129.82
+        },
+        {
+          "word": "gave",
+          "start": 129.83,
+          "end": 129.87
+        },
+        {
+          "word": "a",
+          "start": 129.88,
+          "end": 129.92
+        },
+        {
+          "word": "fuck,",
+          "start": 129.93,
+          "end": 129.97
+        },
+        {
+          "word": "grew",
+          "start": 129.98,
+          "end": 130.02
+        },
+        {
+          "word": "up",
+          "start": 130.03,
+          "end": 130.07
+        },
+        {
+          "word": "out",
+          "start": 130.08,
+          "end": 130.12
+        },
+        {
+          "word": "the",
+          "start": 130.13,
+          "end": 130.17
+        },
+        {
+          "word": "mud",
+          "start": 130.18,
+          "end": 130.22
+        }
+      ],
+      "time": 129.78,
+      "end": 130.22
+    },
+    {
+      "text": "Pull up, then I pop the trunk",
+      "startTime": 130.23,
+      "endTime": 130.57,
+      "words": [
+        {
+          "word": "Pull",
+          "start": 130.23,
+          "end": 130.27
+        },
+        {
+          "word": "up,",
+          "start": 130.28,
+          "end": 130.32
+        },
+        {
+          "word": "then",
+          "start": 130.33,
+          "end": 130.37
+        },
+        {
+          "word": "I",
+          "start": 130.38,
+          "end": 130.42
+        },
+        {
+          "word": "pop",
+          "start": 130.43,
+          "end": 130.47
+        },
+        {
+          "word": "the",
+          "start": 130.48,
+          "end": 130.52
+        },
+        {
+          "word": "trunk",
+          "start": 130.53,
+          "end": 130.57
+        }
+      ],
+      "time": 130.23,
+      "end": 130.57
+    },
+    {
+      "text": "Grew up with the fucking robbers",
+      "startTime": 130.58,
+      "endTime": 131.11,
+      "words": [
+        {
+          "word": "Grew",
+          "start": 130.58,
+          "end": 130.62
+        },
+        {
+          "word": "up",
+          "start": 130.63,
+          "end": 130.67
+        },
+        {
+          "word": "with",
+          "start": 130.68,
+          "end": 130.78,
+          "spoken": true
+        },
+        {
+          "word": "the",
+          "start": 130.79,
+          "end": 130.89
+        },
+        {
+          "word": "fucking",
+          "start": 130.9,
+          "end": 131.0
+        },
+        {
+          "word": "robbers",
+          "start": 131.01,
+          "end": 131.11,
+          "whisper": true
+        }
+      ],
+      "time": 130.58,
+      "end": 131.11
+    },
+    {
+      "text": "Always kept the mask on",
+      "startTime": 131.12,
+      "endTime": 131.66,
+      "words": [
+        {
+          "word": "Always",
+          "start": 131.18,
+          "end": 131.22,
+          "whisper": true
+        },
+        {
+          "word": "kept",
+          "start": 131.23,
+          "end": 131.33,
+          "spoken": true
+        },
+        {
+          "word": "the",
+          "start": 131.34,
+          "end": 131.44,
+          "whisper": true
+        },
+        {
+          "word": "mask",
+          "start": 131.45,
+          "end": 131.55,
+          "whisper": true
+        },
+        {
+          "word": "on",
+          "start": 131.62,
+          "end": 131.66
+        }
+      ],
+      "time": 131.12,
+      "end": 131.66
+    },
+    {
+      "text": "Motherfuckers gon' die if we take the mask off",
+      "startTime": 131.67,
+      "endTime": 132.65,
+      "words": [
+        {
+          "word": "Motherfuckers",
+          "start": 131.67,
+          "end": 131.77,
+          "spoken": true
+        },
+        {
+          "word": "gon'",
+          "start": 131.78,
+          "end": 131.88,
+          "spoken": true
+        },
+        {
+          "word": "die",
+          "start": 131.89,
+          "end": 131.99,
+          "spoken": true
+        },
+        {
+          "word": "if",
+          "start": 132.0,
+          "end": 132.1,
+          "spoken": true
+        },
+        {
+          "word": "we",
+          "start": 132.11,
+          "end": 132.21,
+          "whisper": true
+        },
+        {
+          "word": "take",
+          "start": 132.22,
+          "end": 132.32,
+          "whisper": true
+        },
+        {
+          "word": "the",
+          "start": 132.33,
+          "end": 132.43,
+          "whisper": true
+        },
+        {
+          "word": "mask",
+          "start": 132.44,
+          "end": 132.54,
+          "whisper": true
+        },
+        {
+          "word": "off",
+          "start": 132.55,
+          "end": 132.65,
+          "whisper": true
+        }
+      ],
+      "time": 131.67,
+      "end": 132.65
+    },
+    {
+      "text": "Suicide when I ride bitch",
+      "startTime": 132.66,
+      "endTime": 133.2,
+      "words": [
+        {
+          "word": "Suicide",
+          "start": 132.66,
+          "end": 132.76,
+          "whisper": true
+        },
+        {
+          "word": "when",
+          "start": 132.77,
+          "end": 132.87,
+          "whisper": true
+        },
+        {
+          "word": "I",
+          "start": 132.94,
+          "end": 132.98
+        },
+        {
+          "word": "ride",
+          "start": 132.99,
+          "end": 133.09,
+          "whisper": true
+        },
+        {
+          "word": "bitch",
+          "start": 133.1,
+          "end": 133.2,
+          "whisper": true
+        }
+      ],
+      "time": 132.66,
+      "end": 133.2
+    },
+    {
+      "text": "$carecrow the walking shadow",
+      "startTime": 133.21,
+      "endTime": 133.64,
+      "words": [
+        {
+          "word": "$carecrow",
+          "start": 133.21,
+          "end": 133.31,
+          "whisper": true
+        },
+        {
+          "word": "the",
+          "start": 133.32,
+          "end": 133.42,
+          "whisper": true
+        },
+        {
+          "word": "walking",
+          "start": 133.43,
+          "end": 133.53,
+          "whisper": true
+        },
+        {
+          "word": "shadow",
+          "start": 133.54,
+          "end": 133.64,
+          "whisper": true
+        }
+      ],
+      "time": 133.21,
+      "end": 133.64
+    },
+    {
+      "text": "Mozart with no piano",
+      "startTime": 133.65,
+      "endTime": 134.08,
+      "words": [
+        {
+          "word": "Mozart",
+          "start": 133.65,
+          "end": 133.75,
+          "whisper": true
+        },
+        {
+          "word": "with",
+          "start": 133.76,
+          "end": 133.86,
+          "whisper": true
+        },
+        {
+          "word": "no",
+          "start": 133.87,
+          "end": 133.97,
+          "whisper": true
+        },
+        {
+          "word": "piano",
+          "start": 133.98,
+          "end": 134.08,
+          "whisper": true
+        }
+      ],
+      "time": 133.65,
+      "end": 134.08
+    },
+    {
+      "text": "Kill when I'm Sleepy Hollow",
+      "startTime": 134.09,
+      "endTime": 134.63,
+      "words": [
+        {
+          "word": "Kill",
+          "start": 134.09,
+          "end": 134.19,
+          "whisper": true
+        },
+        {
+          "word": "when",
+          "start": 134.2,
+          "end": 134.3,
+          "whisper": true
+        },
+        {
+          "word": "I'm",
+          "start": 134.31,
+          "end": 134.41,
+          "whisper": true
+        },
+        {
+          "word": "Sleepy",
+          "start": 134.42,
+          "end": 134.52,
+          "whisper": true
+        },
+        {
+          "word": "Hollow",
+          "start": 134.53,
+          "end": 134.63,
+          "whisper": true
+        }
+      ],
+      "time": 134.09,
+      "end": 134.63
+    },
+    {
+      "text": "That mystic motherfucker that's addicted to prescriptions",
+      "startTime": 134.64,
+      "endTime": 135.4,
+      "words": [
+        {
+          "word": "That",
+          "start": 134.64,
+          "end": 134.74,
+          "spoken": true
+        },
+        {
+          "word": "mystic",
+          "start": 134.75,
+          "end": 134.85,
+          "whisper": true
+        },
+        {
+          "word": "motherfucker",
+          "start": 134.86,
+          "end": 134.96,
+          "whisper": true
+        },
+        {
+          "word": "that's",
+          "start": 135.03,
+          "end": 135.07,
+          "spoken": true
+        },
+        {
+          "word": "addicted",
+          "start": 135.08,
+          "end": 135.18
+        },
+        {
+          "word": "to",
+          "start": 135.19,
+          "end": 135.29
+        },
+        {
+          "word": "prescriptions",
+          "start": 135.3,
+          "end": 135.4
+        }
+      ],
+      "time": 134.64,
+      "end": 135.4
+    },
+    {
+      "text": "Xanax for the panic, mental problems you can add in",
+      "startTime": 135.41,
+      "endTime": 136.5,
+      "words": [
+        {
+          "word": "Xanax",
+          "start": 135.41,
+          "end": 135.51
+        },
+        {
+          "word": "for",
+          "start": 135.52,
+          "end": 135.62,
+          "whisper": true
+        },
+        {
+          "word": "the",
+          "start": 135.63,
+          "end": 135.73,
+          "whisper": true
+        },
+        {
+          "word": "panic,",
+          "start": 135.74,
+          "end": 135.84,
+          "whisper": true
+        },
+        {
+          "word": "mental",
+          "start": 135.85,
+          "end": 135.95,
+          "whisper": true
+        },
+        {
+          "word": "problems",
+          "start": 135.96,
+          "end": 136.06,
+          "whisper": true
+        },
+        {
+          "word": "you",
+          "start": 136.07,
+          "end": 136.17,
+          "whisper": true
+        },
+        {
+          "word": "can",
+          "start": 136.18,
+          "end": 136.28,
+          "whisper": true
+        },
+        {
+          "word": "add",
+          "start": 136.35,
+          "end": 136.39,
+          "whisper": true
+        },
+        {
+          "word": "in",
+          "start": 136.4,
+          "end": 136.5,
+          "whisper": true
+        }
+      ],
+      "time": 135.41,
+      "end": 136.5
+    },
+    {
+      "text": "Multi million owned business",
+      "startTime": 136.51,
+      "endTime": 136.94,
+      "words": [
+        {
+          "word": "Multi",
+          "start": 136.51,
+          "end": 136.61,
+          "whisper": true
+        },
+        {
+          "word": "million",
+          "start": 136.62,
+          "end": 136.72,
+          "whisper": true
+        },
+        {
+          "word": "owned",
+          "start": 136.73,
+          "end": 136.83,
+          "whisper": true
+        },
+        {
+          "word": "business",
+          "start": 136.84,
+          "end": 136.94,
+          "whisper": true
+        }
+      ],
+      "time": 136.51,
+      "end": 136.94
+    },
+    {
+      "text": "You just signed a deal, bruh?",
+      "startTime": 136.95,
+      "endTime": 137.6,
+      "words": [
+        {
+          "word": "You",
+          "start": 136.95,
+          "end": 137.05,
+          "whisper": true
+        },
+        {
+          "word": "just",
+          "start": 137.06,
+          "end": 137.16,
+          "whisper": true
+        },
+        {
+          "word": "signed",
+          "start": 137.23,
+          "end": 137.27
+        },
+        {
+          "word": "a",
+          "start": 137.28,
+          "end": 137.38,
+          "spoken": true
+        },
+        {
+          "word": "deal,",
+          "start": 137.39,
+          "end": 137.49,
+          "spoken": true
+        },
+        {
+          "word": "bruh?",
+          "start": 137.5,
+          "end": 137.6,
+          "spoken": true
+        }
+      ],
+      "time": 136.95,
+      "end": 137.6
+    },
+    {
+      "text": "Three years passed, still broke and you ain't paid up",
+      "startTime": 137.61,
+      "endTime": 138.7,
+      "words": [
+        {
+          "word": "Three",
+          "start": 137.61,
+          "end": 137.71,
+          "whisper": true
+        },
+        {
+          "word": "years",
+          "start": 137.72,
+          "end": 137.82,
+          "whisper": true
+        },
+        {
+          "word": "passed,",
+          "start": 137.83,
+          "end": 137.93,
+          "whisper": true
+        },
+        {
+          "word": "still",
+          "start": 137.94,
+          "end": 138.04,
+          "whisper": true
+        },
+        {
+          "word": "broke",
+          "start": 138.05,
+          "end": 138.15
+        },
+        {
+          "word": "and",
+          "start": 138.16,
+          "end": 138.26,
+          "whisper": true
+        },
+        {
+          "word": "you",
+          "start": 138.27,
+          "end": 138.37,
+          "whisper": true
+        },
+        {
+          "word": "ain't",
+          "start": 138.44,
+          "end": 138.48,
+          "whisper": true
+        },
+        {
+          "word": "paid",
+          "start": 138.49,
+          "end": 138.59
+        },
+        {
+          "word": "up",
+          "start": 138.6,
+          "end": 138.7
+        }
+      ],
+      "time": 137.61,
+      "end": 138.7
+    },
+    {
+      "text": "Dollars I ain't touched yet",
+      "startTime": 138.71,
+      "endTime": 139.25,
+      "words": [
+        {
+          "word": "Dollars",
+          "start": 138.71,
+          "end": 138.81,
+          "spoken": true
+        },
+        {
+          "word": "I",
+          "start": 138.82,
+          "end": 138.92,
+          "spoken": true
+        },
+        {
+          "word": "ain't",
+          "start": 138.93,
+          "end": 139.03,
+          "whisper": true
+        },
+        {
+          "word": "touched",
+          "start": 139.04,
+          "end": 139.14,
+          "whisper": true
+        },
+        {
+          "word": "yet",
+          "start": 139.15,
+          "end": 139.25,
+          "whisper": true
+        }
+      ],
+      "time": 138.71,
+      "end": 139.25
+    },
+    {
+      "text": "Burn it for the fuck of it",
+      "startTime": 139.26,
+      "endTime": 140.02,
+      "words": [
+        {
+          "word": "Burn",
+          "start": 139.26,
+          "end": 139.36,
+          "whisper": true
+        },
+        {
+          "word": "it",
+          "start": 139.37,
+          "end": 139.47,
+          "whisper": true
+        },
+        {
+          "word": "for",
+          "start": 139.48,
+          "end": 139.58,
+          "whisper": true
+        },
+        {
+          "word": "the",
+          "start": 139.59,
+          "end": 139.69,
+          "whisper": true
+        },
+        {
+          "word": "fuck",
+          "start": 139.76,
+          "end": 139.8,
+          "whisper": true
+        },
+        {
+          "word": "of",
+          "start": 139.81,
+          "end": 139.91
+        },
+        {
+          "word": "it",
+          "start": 139.92,
+          "end": 140.02,
+          "whisper": true
+        }
+      ],
+      "time": 139.26,
+      "end": 140.02
+    },
+    {
+      "text": "Infamous lunatic, you? You just suck dick",
+      "startTime": 140.03,
+      "endTime": 140.79,
+      "words": [
+        {
+          "word": "Infamous",
+          "start": 140.03,
+          "end": 140.13,
+          "whisper": true
+        },
+        {
+          "word": "lunatic,",
+          "start": 140.14,
+          "end": 140.24,
+          "whisper": true
+        },
+        {
+          "word": "you?",
+          "start": 140.25,
+          "end": 140.35
+        },
+        {
+          "word": "You",
+          "start": 140.36,
+          "end": 140.46,
+          "whisper": true
+        },
+        {
+          "word": "just",
+          "start": 140.47,
+          "end": 140.57,
+          "whisper": true
+        },
+        {
+          "word": "suck",
+          "start": 140.58,
+          "end": 140.68,
+          "whisper": true
+        },
+        {
+          "word": "dick",
+          "start": 140.69,
+          "end": 140.79,
+          "whisper": true
+        }
+      ],
+      "time": 140.03,
+      "end": 140.79
+    },
+    {
+      "text": "Cut throat with the deathwish",
+      "startTime": 140.8,
+      "endTime": 141.34,
+      "words": [
+        {
+          "word": "Cut",
+          "start": 140.8,
+          "end": 140.9,
+          "whisper": true
+        },
+        {
+          "word": "throat",
+          "start": 140.91,
+          "end": 141.01,
+          "whisper": true
+        },
+        {
+          "word": "with",
+          "start": 141.02,
+          "end": 141.12,
+          "whisper": true
+        },
+        {
+          "word": "the",
+          "start": 141.13,
+          "end": 141.23,
+          "whisper": true
+        },
+        {
+          "word": "deathwish",
+          "start": 141.24,
+          "end": 141.34,
+          "whisper": true
+        }
+      ],
+      "time": 140.8,
+      "end": 141.34
+    },
+    {
+      "text": "Raised where the savage lives",
+      "startTime": 141.35,
+      "endTime": 141.89,
+      "words": [
+        {
+          "word": "Raised",
+          "start": 141.35,
+          "end": 141.45,
+          "whisper": true
+        },
+        {
+          "word": "where",
+          "start": 141.52,
+          "end": 141.56
+        },
+        {
+          "word": "the",
+          "start": 141.57,
+          "end": 141.67,
+          "whisper": true
+        },
+        {
+          "word": "savage",
+          "start": 141.68,
+          "end": 141.78,
+          "whisper": true
+        },
+        {
+          "word": "lives",
+          "start": 141.79,
+          "end": 141.89,
+          "whisper": true
+        }
+      ],
+      "time": 141.35,
+      "end": 141.89
+    },
+    {
+      "text": "Straight out the death pit",
+      "startTime": 141.9,
+      "endTime": 142.44,
+      "words": [
+        {
+          "word": "Straight",
+          "start": 141.9,
+          "end": 142.0,
+          "spoken": true
+        },
+        {
+          "word": "out",
+          "start": 142.01,
+          "end": 142.11,
+          "spoken": true
+        },
+        {
+          "word": "the",
+          "start": 142.12,
+          "end": 142.22,
+          "spoken": true
+        },
+        {
+          "word": "death",
+          "start": 142.23,
+          "end": 142.33,
+          "spoken": true
+        },
+        {
+          "word": "pit",
+          "start": 142.34,
+          "end": 142.44,
+          "whisper": true
+        }
+      ],
+      "time": 141.9,
+      "end": 142.44
+    },
+    {
+      "text": "To keep alive the triple six",
+      "startTime": 142.45,
+      "endTime": 143.1,
+      "words": [
+        {
+          "word": "To",
+          "start": 142.45,
+          "end": 142.55,
+          "whisper": true
+        },
+        {
+          "word": "keep",
+          "start": 142.56,
+          "end": 142.66,
+          "whisper": true
+        },
+        {
+          "word": "alive",
+          "start": 142.67,
+          "end": 142.77,
+          "whisper": true
+        },
+        {
+          "word": "the",
+          "start": 142.78,
+          "end": 142.88,
+          "whisper": true
+        },
+        {
+          "word": "triple",
+          "start": 142.89,
+          "end": 142.99,
+          "whisper": true
+        },
+        {
+          "word": "six",
+          "start": 143.0,
+          "end": 143.1,
+          "whisper": true
+        }
+      ],
+      "time": 142.45,
+      "end": 143.1
+    },
+    {
+      "text": "Ruby such a Misfit (uh)",
+      "startTime": 143.11,
+      "endTime": 143.65,
+      "words": [
+        {
+          "word": "Ruby",
+          "start": 143.17,
+          "end": 143.21,
+          "whisper": true
+        },
+        {
+          "word": "such",
+          "start": 143.22,
+          "end": 143.32
+        },
+        {
+          "word": "a",
+          "start": 143.33,
+          "end": 143.43,
+          "whisper": true
+        },
+        {
+          "word": "Misfit",
+          "start": 143.44,
+          "end": 143.54,
+          "whisper": true
+        },
+        {
+          "word": "(uh)",
+          "start": 143.55,
+          "end": 143.65,
+          "adlib": true,
+          "whisper": true
+        }
+      ],
+      "time": 143.11,
+      "end": 143.65
+    },
+    {
+      "text": "Hollywood Babylon can't resist it",
+      "startTime": 143.66,
+      "endTime": 144.2,
+      "words": [
+        {
+          "word": "Hollywood",
+          "start": 143.66,
+          "end": 143.76,
+          "whisper": true
+        },
+        {
+          "word": "Babylon",
+          "start": 143.77,
+          "end": 143.87,
+          "whisper": true
+        },
+        {
+          "word": "can't",
+          "start": 143.88,
+          "end": 143.98,
+          "whisper": true
+        },
+        {
+          "word": "resist",
+          "start": 144.05,
+          "end": 144.09
+        },
+        {
+          "word": "it",
+          "start": 144.1,
+          "end": 144.2
+        }
+      ],
+      "time": 143.66,
+      "end": 144.2
+    },
+    {
+      "text": "Fuck a cop, bitch, I'm duckin' all these piglets (bop)",
+      "startTime": 144.21,
+      "endTime": 145.3,
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 144.21,
+          "end": 144.31,
+          "spoken": true
+        },
+        {
+          "word": "a",
+          "start": 144.32,
+          "end": 144.42,
+          "sung": true
+        },
+        {
+          "word": "cop,",
+          "start": 144.43,
+          "end": 144.53,
+          "spoken": true
+        },
+        {
+          "word": "bitch,",
+          "start": 144.54,
+          "end": 144.64,
+          "spoken": true
+        },
+        {
+          "word": "I'm",
+          "start": 144.65,
+          "end": 144.75,
+          "spoken": true
+        },
+        {
+          "word": "duckin'",
+          "start": 144.76,
+          "end": 144.86,
+          "spoken": true
+        },
+        {
+          "word": "all",
+          "start": 144.87,
+          "end": 144.97,
+          "spoken": true
+        },
+        {
+          "word": "these",
+          "start": 144.98,
+          "end": 145.08,
+          "spoken": true
+        },
+        {
+          "word": "piglets",
+          "start": 145.09,
+          "end": 145.19,
+          "spoken": true
+        },
+        {
+          "word": "(bop)",
+          "start": 145.2,
+          "end": 145.3,
+          "adlib": true,
+          "spoken": true
+        }
+      ],
+      "time": 144.21,
+      "end": 145.3
+    },
+    {
+      "text": "7th Ward be my motherfucking district (7th Ward)",
+      "startTime": 145.31,
+      "endTime": 146.18,
+      "words": [
+        {
+          "word": "7th",
+          "start": 145.31,
+          "end": 145.41
+        },
+        {
+          "word": "Ward",
+          "start": 145.42,
+          "end": 145.52,
+          "spoken": true
+        },
+        {
+          "word": "be",
+          "start": 145.53,
+          "end": 145.63,
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 145.64,
+          "end": 145.74,
+          "spoken": true
+        },
+        {
+          "word": "motherfucking",
+          "start": 145.75,
+          "end": 145.85,
+          "spoken": true
+        },
+        {
+          "word": "district",
+          "start": 145.86,
+          "end": 145.96,
+          "spoken": true
+        },
+        {
+          "word": "(7th",
+          "start": 145.97,
+          "end": 146.07,
+          "adlib": true,
+          "spoken": true
+        },
+        {
+          "word": "Ward)",
+          "start": 146.08,
+          "end": 146.18,
+          "adlib": true,
+          "spoken": true
+        }
+      ],
+      "time": 145.31,
+      "end": 146.18
+    },
+    {
+      "text": "Yeah I still got my motherfucking wrist slit",
+      "startTime": 146.19,
+      "endTime": 147.06,
+      "words": [
+        {
+          "word": "Yeah",
+          "start": 146.25,
+          "end": 146.29,
+          "spoken": true
+        },
+        {
+          "word": "I",
+          "start": 146.3,
+          "end": 146.4,
+          "spoken": true
+        },
+        {
+          "word": "still",
+          "start": 146.41,
+          "end": 146.51,
+          "spoken": true
+        },
+        {
+          "word": "got",
+          "start": 146.52,
+          "end": 146.62,
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 146.63,
+          "end": 146.73,
+          "spoken": true
+        },
+        {
+          "word": "motherfucking",
+          "start": 146.74,
+          "end": 146.84,
+          "spoken": true
+        },
+        {
+          "word": "wrist",
+          "start": 146.85,
+          "end": 146.95,
+          "spoken": true
+        },
+        {
+          "word": "slit",
+          "start": 146.96,
+          "end": 147.06,
+          "spoken": true
+        }
+      ],
+      "time": 146.19,
+      "end": 147.06
+    },
+    {
+      "text": "Bleeding like a pissed bitch",
+      "startTime": 147.07,
+      "endTime": 147.61,
+      "words": [
+        {
+          "word": "Bleeding",
+          "start": 147.07,
+          "end": 147.17
+        },
+        {
+          "word": "like",
+          "start": 147.18,
+          "end": 147.28
+        },
+        {
+          "word": "a",
+          "start": 147.29,
+          "end": 147.39,
+          "spoken": true
+        },
+        {
+          "word": "pissed",
+          "start": 147.4,
+          "end": 147.5,
+          "spoken": true
+        },
+        {
+          "word": "bitch",
+          "start": 147.51,
+          "end": 147.61,
+          "spoken": true
+        }
+      ],
+      "time": 147.07,
+      "end": 147.61
+    },
+    {
+      "text": "Scheming I'ma hit licks after licking hits of acid in her fucking split lips",
+      "startTime": 147.62,
+      "endTime": 149.15,
+      "words": [
+        {
+          "word": "Scheming",
+          "start": 147.62,
+          "end": 147.72,
+          "spoken": true
+        },
+        {
+          "word": "I'ma",
+          "start": 147.73,
+          "end": 147.83,
+          "sung": true
+        },
+        {
+          "word": "hit",
+          "start": 147.84,
+          "end": 147.94,
+          "spoken": true
+        },
+        {
+          "word": "licks",
+          "start": 147.95,
+          "end": 148.05,
+          "spoken": true
+        },
+        {
+          "word": "after",
+          "start": 148.06,
+          "end": 148.16,
+          "spoken": true
+        },
+        {
+          "word": "licking",
+          "start": 148.17,
+          "end": 148.27,
+          "spoken": true
+        },
+        {
+          "word": "hits",
+          "start": 148.28,
+          "end": 148.38,
+          "spoken": true
+        },
+        {
+          "word": "of",
+          "start": 148.39,
+          "end": 148.49,
+          "spoken": true
+        },
+        {
+          "word": "acid",
+          "start": 148.5,
+          "end": 148.6,
+          "spoken": true
+        },
+        {
+          "word": "in",
+          "start": 148.61,
+          "end": 148.71,
+          "spoken": true
+        },
+        {
+          "word": "her",
+          "start": 148.72,
+          "end": 148.82,
+          "spoken": true
+        },
+        {
+          "word": "fucking",
+          "start": 148.83,
+          "end": 148.93,
+          "spoken": true
+        },
+        {
+          "word": "split",
+          "start": 148.94,
+          "end": 149.04,
+          "spoken": true
+        },
+        {
+          "word": "lips",
+          "start": 149.05,
+          "end": 149.15,
+          "spoken": true
+        }
+      ],
+      "time": 147.62,
+      "end": 149.15
+    },
+    {
+      "text": "Wig split just a fucking tidbit",
+      "startTime": 149.16,
+      "endTime": 149.81,
+      "words": [
+        {
+          "word": "Wig",
+          "start": 149.16,
+          "end": 149.26,
+          "spoken": true
+        },
+        {
+          "word": "split",
+          "start": 149.27,
+          "end": 149.37,
+          "spoken": true
+        },
+        {
+          "word": "just",
+          "start": 149.38,
+          "end": 149.48,
+          "spoken": true
+        },
+        {
+          "word": "a",
+          "start": 149.49,
+          "end": 149.59,
+          "spoken": true
+        },
+        {
+          "word": "fucking",
+          "start": 149.6,
+          "end": 149.7,
+          "sung": true
+        },
+        {
+          "word": "tidbit",
+          "start": 149.71,
+          "end": 149.81,
+          "spoken": true
+        }
+      ],
+      "time": 149.16,
+      "end": 149.81
+    },
+    {
+      "text": "Dick itch from ingesting pill bits",
+      "startTime": 149.82,
+      "endTime": 150.47,
+      "words": [
+        {
+          "word": "Dick",
+          "start": 149.82,
+          "end": 149.92,
+          "spoken": true
+        },
+        {
+          "word": "itch",
+          "start": 149.93,
+          "end": 150.03,
+          "spoken": true
+        },
+        {
+          "word": "from",
+          "start": 150.04,
+          "end": 150.14,
+          "spoken": true
+        },
+        {
+          "word": "ingesting",
+          "start": 150.15,
+          "end": 150.25,
+          "spoken": true
+        },
+        {
+          "word": "pill",
+          "start": 150.26,
+          "end": 150.36,
+          "spoken": true
+        },
+        {
+          "word": "bits",
+          "start": 150.37,
+          "end": 150.47,
+          "spoken": true
+        }
+      ],
+      "time": 149.82,
+      "end": 150.47
+    },
+    {
+      "text": "Blue bill sick of snorting powder",
+      "startTime": 150.48,
+      "endTime": 151.13,
+      "words": [
+        {
+          "word": "Blue",
+          "start": 150.48,
+          "end": 150.58
+        },
+        {
+          "word": "bill",
+          "start": 150.59,
+          "end": 150.69
+        },
+        {
+          "word": "sick",
+          "start": 150.7,
+          "end": 150.8,
+          "spoken": true
+        },
+        {
+          "word": "of",
+          "start": 150.81,
+          "end": 150.91,
+          "spoken": true
+        },
+        {
+          "word": "snorting",
+          "start": 150.92,
+          "end": 151.02,
+          "spoken": true
+        },
+        {
+          "word": "powder",
+          "start": 151.03,
+          "end": 151.13,
+          "spoken": true
+        }
+      ],
+      "time": 150.48,
+      "end": 151.13
+    },
+    {
+      "text": "I'ma ditch this hunnid for five twenties",
+      "startTime": 151.14,
+      "endTime": 151.9,
+      "words": [
+        {
+          "word": "I'ma",
+          "start": 151.14,
+          "end": 151.24
+        },
+        {
+          "word": "ditch",
+          "start": 151.25,
+          "end": 151.35,
+          "spoken": true
+        },
+        {
+          "word": "this",
+          "start": 151.36,
+          "end": 151.46,
+          "spoken": true
+        },
+        {
+          "word": "hunnid",
+          "start": 151.47,
+          "end": 151.57,
+          "spoken": true
+        },
+        {
+          "word": "for",
+          "start": 151.58,
+          "end": 151.68,
+          "spoken": true
+        },
+        {
+          "word": "five",
+          "start": 151.69,
+          "end": 151.79,
+          "spoken": true
+        },
+        {
+          "word": "twenties",
+          "start": 151.8,
+          "end": 151.9,
+          "spoken": true
+        }
+      ],
+      "time": 151.14,
+      "end": 151.9
+    },
+    {
+      "text": "TSA keep testing my money, now I'ma dip quick (later)",
+      "startTime": 151.91,
+      "endTime": 153.0,
+      "words": [
+        {
+          "word": "TSA",
+          "start": 151.91,
+          "end": 152.01,
+          "spoken": true
+        },
+        {
+          "word": "keep",
+          "start": 152.02,
+          "end": 152.12,
+          "spoken": true
+        },
+        {
+          "word": "testing",
+          "start": 152.13,
+          "end": 152.23,
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 152.24,
+          "end": 152.34,
+          "spoken": true
+        },
+        {
+          "word": "money,",
+          "start": 152.35,
+          "end": 152.45,
+          "spoken": true
+        },
+        {
+          "word": "now",
+          "start": 152.46,
+          "end": 152.56,
+          "spoken": true
+        },
+        {
+          "word": "I'ma",
+          "start": 152.57,
+          "end": 152.67,
+          "spoken": true
+        },
+        {
+          "word": "dip",
+          "start": 152.68,
+          "end": 152.78,
+          "spoken": true
+        },
+        {
+          "word": "quick",
+          "start": 152.79,
+          "end": 152.89,
+          "spoken": true
+        },
+        {
+          "word": "(later)",
+          "start": 152.9,
+          "end": 153.0,
+          "adlib": true,
+          "spoken": true
+        }
+      ],
+      "time": 151.91,
+      "end": 153.0
+    },
+    {
+      "text": "Find me a thick bitch",
+      "startTime": 153.01,
+      "endTime": 153.55,
+      "words": [
+        {
+          "word": "Find",
+          "start": 153.01,
+          "end": 153.11,
+          "spoken": true
+        },
+        {
+          "word": "me",
+          "start": 153.12,
+          "end": 153.22,
+          "spoken": true
+        },
+        {
+          "word": "a",
+          "start": 153.23,
+          "end": 153.33,
+          "spoken": true
+        },
+        {
+          "word": "thick",
+          "start": 153.34,
+          "end": 153.44,
+          "spoken": true
+        },
+        {
+          "word": "bitch",
+          "start": 153.45,
+          "end": 153.55,
+          "spoken": true
+        }
+      ],
+      "time": 153.01,
+      "end": 153.55
+    },
+    {
+      "text": "Tit gripped, tip gripped, dick spit in her thick hips, fuck",
+      "startTime": 153.56,
+      "endTime": 154.76,
+      "words": [
+        {
+          "word": "Tit",
+          "start": 153.56,
+          "end": 153.66,
+          "spoken": true
+        },
+        {
+          "word": "gripped,",
+          "start": 153.67,
+          "end": 153.77,
+          "spoken": true
+        },
+        {
+          "word": "tip",
+          "start": 153.78,
+          "end": 153.88,
+          "spoken": true
+        },
+        {
+          "word": "gripped,",
+          "start": 153.89,
+          "end": 153.99,
+          "spoken": true
+        },
+        {
+          "word": "dick",
+          "start": 154.0,
+          "end": 154.1,
+          "spoken": true
+        },
+        {
+          "word": "spit",
+          "start": 154.11,
+          "end": 154.21,
+          "spoken": true
+        },
+        {
+          "word": "in",
+          "start": 154.22,
+          "end": 154.32
+        },
+        {
+          "word": "her",
+          "start": 154.33,
+          "end": 154.43,
+          "spoken": true
+        },
+        {
+          "word": "thick",
+          "start": 154.5,
+          "end": 154.54,
+          "spoken": true
+        },
+        {
+          "word": "hips,",
+          "start": 154.55,
+          "end": 154.65,
+          "spoken": true
+        },
+        {
+          "word": "fuck",
+          "start": 154.66,
+          "end": 154.76,
+          "spoken": true
+        }
+      ],
+      "time": 153.56,
+      "end": 154.76
+    },
+    {
+      "text": "Fuck with me bitch I'm a-fucking-'ddicted",
+      "startTime": 154.77,
+      "endTime": 155.42,
+      "words": [
+        {
+          "word": "Fuck",
+          "start": 154.83,
+          "end": 154.87,
+          "spoken": true
+        },
+        {
+          "word": "with",
+          "start": 154.88,
+          "end": 154.98,
+          "spoken": true
+        },
+        {
+          "word": "me",
+          "start": 154.99,
+          "end": 155.09,
+          "spoken": true
+        },
+        {
+          "word": "bitch",
+          "start": 155.1,
+          "end": 155.2,
+          "spoken": true
+        },
+        {
+          "word": "I'm",
+          "start": 155.21,
+          "end": 155.31,
+          "spoken": true
+        },
+        {
+          "word": "a-fucking-'ddicted",
+          "start": 155.32,
+          "end": 155.42,
+          "spoken": true
+        }
+      ],
+      "time": 154.77,
+      "end": 155.42
+    },
+    {
+      "text": "And I don't really give a fuck what it is",
+      "startTime": 155.43,
+      "endTime": 156.131,
+      "words": [
+        {
+          "word": "And",
+          "start": 155.43,
+          "end": 155.53,
+          "spoken": true
+        },
+        {
+          "word": "I",
+          "start": 155.54,
+          "end": 155.64,
+          "spoken": true
+        },
+        {
+          "word": "don't",
+          "start": 155.65,
+          "end": 155.75,
+          "spoken": true
+        },
+        {
+          "word": "really",
+          "start": 155.76,
+          "end": 155.86,
+          "spoken": true
+        },
+        {
+          "word": "give",
+          "start": 155.87,
+          "end": 155.97,
+          "spoken": true
+        },
+        {
+          "word": "a",
+          "start": 155.98,
+          "end": 156.08,
+          "spoken": true
+        },
+        {
+          "word": "fuck",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        },
+        {
+          "word": "what",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        },
+        {
+          "word": "it",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        },
+        {
+          "word": "is",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        }
+      ],
+      "time": 155.43,
+      "end": 156.131
+    },
+    {
+      "text": "Told you already that Ruby can't resist it",
+      "startTime": 156.031,
+      "endTime": 156.131,
+      "words": [
+        {
+          "word": "Told",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        },
+        {
+          "word": "you",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        },
+        {
+          "word": "already",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        },
+        {
+          "word": "that",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        },
+        {
+          "word": "Ruby",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        },
+        {
+          "word": "can't",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        },
+        {
+          "word": "resist",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        },
+        {
+          "word": "it",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        }
+      ],
+      "time": 156.031,
+      "end": 156.131
+    },
+    {
+      "text": "Big clip to my head watch that shit drip",
+      "startTime": 156.031,
+      "endTime": 156.131,
+      "words": [
+        {
+          "word": "Big",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        },
+        {
+          "word": "clip",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        },
+        {
+          "word": "to",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        },
+        {
+          "word": "my",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        },
+        {
+          "word": "head",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        },
+        {
+          "word": "watch",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        },
+        {
+          "word": "that",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        },
+        {
+          "word": "shit",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        },
+        {
+          "word": "drip",
+          "start": 156.031,
+          "end": 156.131,
+          "spoken": true
+        }
+      ],
+      "time": 156.031,
+      "end": 156.131
+    }
+  ],
+  "haptics": {
+    "schema_version": 4,
+    "meta": {
+      "source": "demucs-6s+per-stem-detectors",
+      "audio": "chromic-341047816",
+      "tempo_bpm": 143.6,
+      "duration_s": 156.13,
+      "sr": 22050,
+      "lra_resonance_hz": 230,
+      "min_pulse_interval_ms": 25,
+      "stems_used": {
+        "drums": true,
+        "bass": true,
+        "vocals": true,
+        "piano": false,
+        "guitar": true,
+        "other": true
+      },
+      "generated_by": "haptic.py v4",
+      "event_count": 1089
+    },
+    "events": [
+      {
+        "t": 0.116,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 0.116,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 0.163,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 0.534,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 0.673,
+        "i": 0.15,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 0.975,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 1.3,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 1.37,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 1.695,
+        "i": 0.15,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 2.159,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 2.601,
+        "i": 0.15,
+        "d": 18,
+        "tp": "orchestral_hit",
+        "prio": 7
+      },
+      {
+        "t": 4.714,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 4.76,
+        "i": 0.23,
+        "d": 18,
+        "tp": "orchestral_hit",
+        "prio": 7
+      },
+      {
+        "t": 4.807,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 5.039,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 5.132,
+        "i": 0.14,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 6.037,
+        "i": 0.12,
+        "d": 18,
+        "tp": "orchestral_hit",
+        "prio": 7
+      },
+      {
+        "t": 6.455,
+        "i": 0.25,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 6.873,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 6.92,
+        "i": 0.4,
+        "d": 18,
+        "tp": "orchestral_hit",
+        "prio": 7
+      },
+      {
+        "t": 6.966,
+        "i": 0.5,
+        "d": 18,
+        "tp": "orchestral_hit",
+        "prio": 7
+      },
+      {
+        "t": 7.5,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 7.546,
+        "i": 0.29,
+        "d": 18,
+        "tp": "orchestral_hit",
+        "prio": 7
+      },
+      {
+        "t": 8.15,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 8.243,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 8.568,
+        "i": 0.15,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 9.033,
+        "i": 0.43,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 9.427,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 9.892,
+        "i": 0.24,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 10.31,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 10.333,
+        "i": 0.43,
+        "d": 18,
+        "tp": "orchestral_hit",
+        "prio": 7
+      },
+      {
+        "t": 10.379,
+        "i": 0.63,
+        "d": 18,
+        "tp": "orchestral_hit",
+        "prio": 7
+      },
+      {
+        "t": 10.937,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 11.587,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 11.633,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 11.819,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 11.819,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 12.005,
+        "i": 0.12,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 12.214,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 12.446,
+        "i": 0.21,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 12.841,
+        "i": 0.34,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 13.096,
+        "i": 0.21,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 13.514,
+        "i": 0.13,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 13.7,
+        "i": 0.1,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 13.793,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 13.816,
+        "i": 0.69,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 14.025,
+        "i": 0.12,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 14.187,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 14.257,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 14.257,
+        "i": 0.15,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 14.35,
+        "i": 0.21,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 14.396,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 14.466,
+        "i": 0.13,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 14.675,
+        "i": 0.66,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 15.0,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 15.093,
+        "i": 0.75,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 15.302,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 15.441,
+        "i": 0.15,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 15.534,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 15.604,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 15.79,
+        "i": 0.29,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 15.882,
+        "i": 0.05,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 15.975,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 16.37,
+        "i": 0.75,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 16.672,
+        "i": 0.26,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 16.811,
+        "i": 0.27,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 17.206,
+        "i": 0.13,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 17.252,
+        "i": 0.25,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 17.252,
+        "i": 0.17,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 17.554,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 17.67,
+        "i": 0.3,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 17.879,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 18.088,
+        "i": 0.66,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 18.46,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 18.53,
+        "i": 0.61,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 18.971,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 19.389,
+        "i": 0.31,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 19.807,
+        "i": 0.78,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 20.248,
+        "i": 0.28,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 20.364,
+        "i": 0.21,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 20.573,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 20.666,
+        "i": 0.7,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 20.828,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 21.107,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 21.525,
+        "i": 0.29,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 21.943,
+        "i": 0.58,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 22.105,
+        "i": 0.6,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 22.384,
+        "i": 0.25,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 22.5,
+        "i": 0.71,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 22.732,
+        "i": 0.68,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 22.825,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 23.243,
+        "i": 0.6,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 23.684,
+        "i": 0.3,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 24.102,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 24.543,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 24.66,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 24.961,
+        "i": 0.53,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 25.31,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 25.379,
+        "i": 0.78,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 25.821,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 26.099,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 26.262,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 26.54,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 26.68,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 27.098,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 27.516,
+        "i": 0.59,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 27.516,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 27.655,
+        "i": 0.3,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 27.695,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.735,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.775,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.815,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.855,
+        "i": 0.29,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.895,
+        "i": 0.29,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.957,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 28.375,
+        "i": 0.33,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 28.468,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 28.816,
+        "i": 0.47,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 28.816,
+        "i": 0.13,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 29.257,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 29.373,
+        "i": 0.28,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 29.675,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 30.093,
+        "i": 0.75,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 30.534,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 30.929,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 30.952,
+        "i": 0.35,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 30.975,
+        "i": 0.23,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 31.055,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.095,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.135,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.175,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.215,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.393,
+        "i": 0.25,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 31.811,
+        "i": 0.78,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 32.253,
+        "i": 0.37,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 32.253,
+        "i": 0.46,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 32.333,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.373,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.413,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.453,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.493,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.67,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 33.112,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 33.553,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 33.971,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 34.389,
+        "i": 0.53,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 34.389,
+        "i": 0.12,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 34.389,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 34.469,
+        "i": 0.09,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.509,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.528,
+        "i": 0.47,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 34.568,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.608,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.629,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.648,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.688,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.728,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.768,
+        "i": 0.29,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.83,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 35.248,
+        "i": 0.37,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 35.666,
+        "i": 0.77,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 35.711,
+        "i": 0.22,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 35.761,
+        "i": 0.17,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 35.769,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.809,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.849,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.881,
+        "i": 0.24,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 35.906,
+        "i": 0.21,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 35.956,
+        "i": 0.17,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 35.981,
+        "i": 0.17,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 36.006,
+        "i": 0.17,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 36.031,
+        "i": 0.15,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 36.107,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 36.147,
+        "i": 0.29,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 36.172,
+        "i": 0.35,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 36.197,
+        "i": 0.32,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 36.247,
+        "i": 0.26,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 36.272,
+        "i": 0.26,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 36.297,
+        "i": 0.26,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 36.322,
+        "i": 0.26,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 36.347,
+        "i": 0.26,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 36.372,
+        "i": 0.24,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 36.504,
+        "i": 0.13,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 36.525,
+        "i": 0.25,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 36.579,
+        "i": 0.11,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 36.604,
+        "i": 0.11,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 36.629,
+        "i": 0.11,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 36.654,
+        "i": 0.11,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 36.679,
+        "i": 0.11,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 36.704,
+        "i": 0.11,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Stay"
+      },
+      {
+        "t": 36.873,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 36.943,
+        "i": 0.73,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 37.384,
+        "i": 0.33,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 37.825,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 37.825,
+        "i": 0.25,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 37.825,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 37.825,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 37.905,
+        "i": 0.13,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 37.945,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 37.985,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 38.025,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 38.065,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 38.243,
+        "i": 0.4,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 38.5,
+        "i": 0.12,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "in"
+      },
+      {
+        "t": 38.53,
+        "i": 0.13,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "in"
+      },
+      {
+        "t": 38.59,
+        "i": 0.03,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "in"
+      },
+      {
+        "t": 38.65,
+        "i": 0.07,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "in"
+      },
+      {
+        "t": 38.661,
+        "i": 0.78,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 39.102,
+        "i": 0.59,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 39.102,
+        "i": 0.59,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 39.102,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 39.102,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 39.182,
+        "i": 0.31,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.222,
+        "i": 0.32,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.262,
+        "i": 0.32,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.302,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.342,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.52,
+        "i": 0.45,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 39.56,
+        "i": 0.32,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.6,
+        "i": 0.29,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.64,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.68,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.72,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.76,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.962,
+        "i": 0.51,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 40.333,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 40.38,
+        "i": 0.76,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 40.821,
+        "i": 0.53,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 41.03,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 41.239,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 41.262,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 41.262,
+        "i": 0.16,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 41.342,
+        "i": 0.13,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.382,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.422,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.462,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.502,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.68,
+        "i": 0.27,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 41.68,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 41.866,
+        "i": 0.13,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 42.098,
+        "i": 0.68,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 42.469,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 42.516,
+        "i": 0.66,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 42.539,
+        "i": 0.48,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 42.619,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.659,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.699,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.739,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.779,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.864,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 42.957,
+        "i": 0.34,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 43.05,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 43.282,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 43.398,
+        "i": 0.3,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 43.468,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 43.7,
+        "i": 0.05,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 43.816,
+        "i": 0.76,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 44.257,
+        "i": 0.29,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 44.629,
+        "i": 0.16,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 44.675,
+        "i": 0.54,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 44.675,
+        "i": 0.21,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 45.07,
+        "i": 0.27,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 45.232,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 45.302,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 45.36,
+        "i": 0.11,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "the"
+      },
+      {
+        "t": 45.39,
+        "i": 0.08,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "the"
+      },
+      {
+        "t": 45.48,
+        "i": 0.08,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "the"
+      },
+      {
+        "t": 45.51,
+        "i": 0.13,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "the"
+      },
+      {
+        "t": 45.511,
+        "i": 0.39,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 45.57,
+        "i": 0.19,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "the"
+      },
+      {
+        "t": 45.906,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 45.952,
+        "i": 0.7,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 45.952,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 46.016,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.056,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.096,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.136,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.176,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.216,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.393,
+        "i": 0.37,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 46.463,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 46.811,
+        "i": 0.27,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 46.881,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 47.113,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 47.229,
+        "i": 0.78,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 47.229,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 47.392,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 47.56,
+        "i": 0.12,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "cut"
+      },
+      {
+        "t": 47.605,
+        "i": 0.09,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "cut"
+      },
+      {
+        "t": 47.65,
+        "i": 0.05,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "cut"
+      },
+      {
+        "t": 47.671,
+        "i": 0.44,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 47.785,
+        "i": 0.04,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "cut"
+      },
+      {
+        "t": 47.83,
+        "i": 0.04,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "cut"
+      },
+      {
+        "t": 47.875,
+        "i": 0.02,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "cut"
+      },
+      {
+        "t": 48.112,
+        "i": 0.37,
+        "d": 20,
+        "tp": "kick",
+        "prio": 10
+      },
+      {
+        "t": 48.112,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 48.192,
+        "i": 0.12,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.232,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.272,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.312,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.352,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.553,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 48.994,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 49.435,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 49.784,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 49.876,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 50.294,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 50.712,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 51.13,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 51.548,
+        "i": 0.69,
+        "d": 20,
+        "tp": "kick",
+        "prio": 10
+      },
+      {
+        "t": 51.628,
+        "i": 0.08,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.668,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.708,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.748,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.788,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.828,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.989,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 52.431,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 52.849,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 52.988,
+        "i": 0.16,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 53.267,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 53.685,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 54.079,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 54.102,
+        "i": 0.45,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 54.544,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 54.544,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 54.962,
+        "i": 0.76,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 54.962,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 55.078,
+        "i": 0.29,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 55.118,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.158,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.198,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.238,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.278,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.318,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.38,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 55.66,
+        "i": 0.02,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "on"
+      },
+      {
+        "t": 55.692,
+        "i": 0.02,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "on"
+      },
+      {
+        "t": 55.725,
+        "i": 0.11,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "on"
+      },
+      {
+        "t": 55.757,
+        "i": 0.16,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "on"
+      },
+      {
+        "t": 55.79,
+        "i": 0.37,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "on"
+      },
+      {
+        "t": 55.821,
+        "i": 0.33,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 55.855,
+        "i": 0.31,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "on"
+      },
+      {
+        "t": 55.887,
+        "i": 0.22,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "on"
+      },
+      {
+        "t": 56.239,
+        "i": 0.71,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 56.262,
+        "i": 0.42,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 56.342,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.382,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.401,
+        "i": 0.31,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 56.462,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.502,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.68,
+        "i": 0.44,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 57.098,
+        "i": 0.35,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 57.3,
+        "i": 0.05,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "the"
+      },
+      {
+        "t": 57.335,
+        "i": 0.06,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "the"
+      },
+      {
+        "t": 57.37,
+        "i": 0.07,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "the"
+      },
+      {
+        "t": 57.405,
+        "i": 0.09,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "the"
+      },
+      {
+        "t": 57.44,
+        "i": 0.15,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "the"
+      },
+      {
+        "t": 57.475,
+        "i": 0.21,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "the"
+      },
+      {
+        "t": 57.51,
+        "i": 0.27,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "the"
+      },
+      {
+        "t": 57.516,
+        "i": 0.57,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 57.59,
+        "i": 0.25,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "Northside"
+      },
+      {
+        "t": 57.957,
+        "i": 0.28,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 58.375,
+        "i": 0.39,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 58.398,
+        "i": 0.27,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 58.478,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 58.518,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 58.558,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 58.598,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 58.638,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 58.793,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 58.816,
+        "i": 0.64,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 59.234,
+        "i": 0.66,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 59.675,
+        "i": 0.5,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 59.675,
+        "i": 0.43,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 59.755,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 59.795,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 59.835,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 59.875,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 59.915,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 60.116,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 60.534,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 60.952,
+        "i": 0.78,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 61.37,
+        "i": 0.67,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 61.37,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 61.788,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 61.812,
+        "i": 0.75,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 61.928,
+        "i": 0.26,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 61.968,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 62.008,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 62.048,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 62.088,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 62.128,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 62.168,
+        "i": 0.29,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 62.229,
+        "i": 0.34,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 62.671,
+        "i": 0.39,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 62.671,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 63.089,
+        "i": 0.58,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 63.112,
+        "i": 0.4,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 63.192,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 63.232,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 63.272,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 63.312,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 63.352,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 63.53,
+        "i": 0.49,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 63.948,
+        "i": 0.36,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 64.389,
+        "i": 0.4,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 64.528,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 64.807,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 65.248,
+        "i": 0.4,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 65.248,
+        "i": 0.19,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 65.328,
+        "i": 0.11,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 65.368,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 65.408,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 65.448,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 65.488,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 65.62,
+        "i": 0.33,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 65.62,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 65.782,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 65.968,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 66.084,
+        "i": 0.74,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 66.386,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 66.525,
+        "i": 0.62,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 66.572,
+        "i": 0.62,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 66.612,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 66.652,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 66.692,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 66.732,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 66.772,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 66.812,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 66.943,
+        "i": 0.45,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 66.966,
+        "i": 0.44,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 67.023,
+        "i": 0.3,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 67.063,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 67.103,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 67.143,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 67.183,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 67.384,
+        "i": 0.58,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 67.802,
+        "i": 0.78,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 67.895,
+        "i": 0.14,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 68.267,
+        "i": 0.29,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 68.638,
+        "i": 0.19,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 68.731,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 69.195,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 69.312,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 69.66,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 69.892,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 69.962,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 70.101,
+        "i": 0.05,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 70.124,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 70.287,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 70.496,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 70.589,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 70.705,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 71.053,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 71.123,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 71.123,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 71.192,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 71.517,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 71.982,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 72.052,
+        "i": 0.5,
+        "d": 18,
+        "tp": "orchestral_hit",
+        "prio": 7
+      },
+      {
+        "t": 72.098,
+        "i": 0.69,
+        "d": 18,
+        "tp": "orchestral_hit",
+        "prio": 7
+      },
+      {
+        "t": 72.307,
+        "i": 0.05,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 72.33,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 72.4,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 72.446,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 72.655,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 72.702,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 72.887,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 73.305,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 73.305,
+        "i": 0.05,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 73.329,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 73.375,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 73.514,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 73.7,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 73.77,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 73.932,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 74.141,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 74.211,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 74.559,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 74.559,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 74.652,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 74.768,
+        "i": 0.21,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 75.0,
+        "i": 0.18,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 75.093,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 75.511,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 75.535,
+        "i": 0.47,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 75.674,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 75.952,
+        "i": 0.25,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 75.952,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 76.115,
+        "i": 0.17,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 76.161,
+        "i": 0.16,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 76.347,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 76.37,
+        "i": 0.67,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 76.812,
+        "i": 0.74,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 77.16,
+        "i": 0.39,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 77.253,
+        "i": 0.24,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 77.578,
+        "i": 0.66,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 77.671,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 78.089,
+        "i": 0.73,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 78.182,
+        "i": 0.22,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 78.53,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 78.925,
+        "i": 0.19,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 78.971,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 79.157,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 79.389,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 79.552,
+        "i": 0.12,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 79.807,
+        "i": 0.78,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 80.132,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 80.248,
+        "i": 0.47,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 80.341,
+        "i": 0.48,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 80.689,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 81.107,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 81.525,
+        "i": 0.74,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 81.966,
+        "i": 0.34,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 82.175,
+        "i": 0.19,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 82.384,
+        "i": 0.69,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 82.384,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 82.49,
+        "i": 0.15,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Hollow-points,"
+      },
+      {
+        "t": 82.733,
+        "i": 0.24,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 82.75,
+        "i": 0.21,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Hollow-points,"
+      },
+      {
+        "t": 82.826,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 82.988,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 83.01,
+        "i": 0.04,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Hollow-points,"
+      },
+      {
+        "t": 83.174,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 83.244,
+        "i": 0.38,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 83.53,
+        "i": 0.21,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Hollow-points,"
+      },
+      {
+        "t": 83.661,
+        "i": 0.73,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 83.731,
+        "i": 0.32,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 83.79,
+        "i": 0.15,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Hollow-points,"
+      },
+      {
+        "t": 84.033,
+        "i": 0.47,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 84.103,
+        "i": 0.4,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 84.31,
+        "i": 0.17,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Hollow-points,"
+      },
+      {
+        "t": 84.451,
+        "i": 0.67,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 84.544,
+        "i": 0.31,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 84.7,
+        "i": 0.14,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "trigger"
+      },
+      {
+        "t": 84.83,
+        "i": 0.12,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "trigger"
+      },
+      {
+        "t": 84.96,
+        "i": 0.29,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "trigger"
+      },
+      {
+        "t": 84.962,
+        "i": 0.43,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 85.09,
+        "i": 0.35,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "trigger"
+      },
+      {
+        "t": 85.22,
+        "i": 0.12,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "trigger"
+      },
+      {
+        "t": 85.35,
+        "i": 0.27,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "trigger"
+      },
+      {
+        "t": 85.403,
+        "i": 0.24,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 85.48,
+        "i": 0.14,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "trigger"
+      },
+      {
+        "t": 85.61,
+        "i": 0.15,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "fingers"
+      },
+      {
+        "t": 85.74,
+        "i": 0.09,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "fingers"
+      },
+      {
+        "t": 85.821,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 85.87,
+        "i": 0.25,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "fingers"
+      },
+      {
+        "t": 86.0,
+        "i": 0.31,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "fingers"
+      },
+      {
+        "t": 86.13,
+        "i": 0.23,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "fingers"
+      },
+      {
+        "t": 86.239,
+        "i": 0.24,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 86.26,
+        "i": 0.35,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "fingers"
+      },
+      {
+        "t": 86.39,
+        "i": 0.13,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "fingers"
+      },
+      {
+        "t": 86.52,
+        "i": 0.07,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "fingers"
+      },
+      {
+        "t": 86.65,
+        "i": 0.03,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "on"
+      },
+      {
+        "t": 86.657,
+        "i": 0.73,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 86.657,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 86.761,
+        "i": 0.06,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "on"
+      },
+      {
+        "t": 86.799,
+        "i": 0.07,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "on"
+      },
+      {
+        "t": 86.836,
+        "i": 0.05,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "on"
+      },
+      {
+        "t": 86.873,
+        "i": 0.04,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "on"
+      },
+      {
+        "t": 86.91,
+        "i": 0.02,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "on"
+      },
+      {
+        "t": 87.086,
+        "i": 0.31,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "my"
+      },
+      {
+        "t": 87.098,
+        "i": 0.57,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 87.237,
+        "i": 0.24,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 87.374,
+        "i": 0.17,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "fucking"
+      },
+      {
+        "t": 87.504,
+        "i": 0.19,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "fucking"
+      },
+      {
+        "t": 87.539,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 87.634,
+        "i": 0.23,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "fucking"
+      },
+      {
+        "t": 87.764,
+        "i": 0.22,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "fucking"
+      },
+      {
+        "t": 87.894,
+        "i": 0.21,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "fucking"
+      },
+      {
+        "t": 87.98,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 88.024,
+        "i": 0.14,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "fucking"
+      },
+      {
+        "t": 88.154,
+        "i": 0.23,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "fucking"
+      },
+      {
+        "t": 88.284,
+        "i": 0.08,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": ".45"
+      },
+      {
+        "t": 88.34,
+        "i": 0.17,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": ".45"
+      },
+      {
+        "t": 88.396,
+        "i": 0.27,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": ".45"
+      },
+      {
+        "t": 88.451,
+        "i": 0.28,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": ".45"
+      },
+      {
+        "t": 88.507,
+        "i": 0.33,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": ".45"
+      },
+      {
+        "t": 88.563,
+        "i": 0.25,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": ".45"
+      },
+      {
+        "t": 88.619,
+        "i": 0.16,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": ".45"
+      },
+      {
+        "t": 88.674,
+        "i": 0.12,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": ".45"
+      },
+      {
+        "t": 88.816,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 89.234,
+        "i": 0.78,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 89.234,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 89.234,
+        "i": 0.05,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 89.338,
+        "i": 0.13,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 89.374,
+        "i": 0.5,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 89.414,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 89.454,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 89.494,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 89.534,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 89.574,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 89.614,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 89.675,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 89.861,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 90.07,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 90.093,
+        "i": 0.52,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 90.511,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 90.535,
+        "i": 0.53,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 90.535,
+        "i": 0.43,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 90.615,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 90.655,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 90.695,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 90.735,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 90.775,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 90.976,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 91.394,
+        "i": 0.3,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 91.812,
+        "i": 0.67,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 91.905,
+        "i": 0.12,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 92.253,
+        "i": 0.29,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 92.648,
+        "i": 0.17,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 92.671,
+        "i": 0.63,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 92.857,
+        "i": 0.05,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 93.112,
+        "i": 0.27,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 93.275,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 93.507,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 93.53,
+        "i": 0.75,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 93.948,
+        "i": 0.78,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 94.011,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 94.051,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 94.087,
+        "i": 0.12,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 94.091,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 94.131,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 94.171,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 94.211,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 94.389,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 94.83,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 95.248,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 95.666,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 96.061,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 96.084,
+        "i": 0.59,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 96.084,
+        "i": 0.15,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 96.204,
+        "i": 0.11,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 96.247,
+        "i": 0.4,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 96.284,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 96.324,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 96.364,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 96.407,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 96.447,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 96.487,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 96.688,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 96.943,
+        "i": 0.3,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 96.943,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 97.083,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 97.384,
+        "i": 0.71,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 97.408,
+        "i": 0.44,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 97.477,
+        "i": 0.32,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 97.528,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 97.568,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 97.608,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 97.648,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 97.802,
+        "i": 0.25,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 97.919,
+        "i": 0.46,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 98.244,
+        "i": 0.26,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 98.662,
+        "i": 0.78,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 98.917,
+        "i": 0.17,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 99.103,
+        "i": 0.36,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 99.544,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 99.544,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 99.73,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 99.962,
+        "i": 0.26,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 100.124,
+        "i": 0.05,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 100.357,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 100.38,
+        "i": 0.72,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 100.798,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 100.821,
+        "i": 0.45,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 100.821,
+        "i": 0.52,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 100.901,
+        "i": 0.31,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 100.941,
+        "i": 0.31,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 100.981,
+        "i": 0.31,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 101.021,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 101.061,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 101.262,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 101.68,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 101.936,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 102.075,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 102.098,
+        "i": 0.78,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 102.516,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 102.539,
+        "i": 0.45,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 102.957,
+        "i": 0.31,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 102.957,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 103.02,
+        "i": 0.11,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 103.06,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 103.1,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 103.14,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 103.18,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 103.22,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 103.398,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 103.398,
+        "i": 0.15,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 103.561,
+        "i": 0.16,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 103.793,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 103.816,
+        "i": 0.59,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 104.234,
+        "i": 0.69,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 104.234,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 104.298,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 104.338,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 104.378,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 104.418,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 104.458,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 104.498,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 104.676,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 105.117,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 105.511,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 105.535,
+        "i": 0.56,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 105.767,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 105.976,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 106.394,
+        "i": 0.34,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 106.394,
+        "i": 0.34,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 106.394,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 106.474,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 106.514,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 106.554,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 106.594,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 106.634,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 106.835,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 107.207,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 107.23,
+        "i": 0.68,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 107.671,
+        "i": 0.61,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 107.671,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 107.694,
+        "i": 0.48,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 107.774,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 107.814,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 107.854,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 107.894,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 107.934,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 108.112,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 108.53,
+        "i": 0.27,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 108.925,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 108.948,
+        "i": 0.78,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 109.389,
+        "i": 0.24,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 109.854,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 110.318,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 110.759,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 111.154,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 111.2,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 111.642,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 112.083,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 112.083,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 112.524,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 112.965,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 113.197,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 113.244,
+        "i": 0.17,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 113.406,
+        "i": 0.88,
+        "d": 20,
+        "tp": "kick",
+        "prio": 10
+      },
+      {
+        "t": 113.871,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 113.871,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 114.335,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 114.799,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 115.264,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 115.728,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 116.193,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 116.611,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 116.657,
+        "i": 0.56,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 116.796,
+        "i": 0.27,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 116.836,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 116.876,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 116.916,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 116.956,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 116.996,
+        "i": 0.29,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 117.036,
+        "i": 0.29,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 117.098,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 117.539,
+        "i": 0.31,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 117.609,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 117.957,
+        "i": 0.38,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 117.981,
+        "i": 0.4,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 118.021,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 118.061,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 118.101,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 118.141,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 118.181,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 118.221,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 118.399,
+        "i": 0.25,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 118.817,
+        "i": 0.25,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 119.234,
+        "i": 0.67,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 119.327,
+        "i": 0.19,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 119.513,
+        "i": 0.2,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 119.676,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 119.792,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 120.07,
+        "i": 0.17,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 120.094,
+        "i": 0.38,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 120.174,
+        "i": 0.12,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 120.2,
+        "i": 0.32,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "Demons"
+      },
+      {
+        "t": 120.254,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 120.294,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 120.334,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 120.4,
+        "i": 0.29,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "rising"
+      },
+      {
+        "t": 120.535,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 120.6,
+        "i": 0.12,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "out"
+      },
+      {
+        "t": 120.64,
+        "i": 0.14,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "out"
+      },
+      {
+        "t": 120.68,
+        "i": 0.15,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "out"
+      },
+      {
+        "t": 120.72,
+        "i": 0.08,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "out"
+      },
+      {
+        "t": 120.8,
+        "i": 0.01,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "out"
+      },
+      {
+        "t": 120.84,
+        "i": 0.01,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "out"
+      },
+      {
+        "t": 120.93,
+        "i": 0.01,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 120.93,
+        "i": 0.03,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "the"
+      },
+      {
+        "t": 120.953,
+        "i": 0.78,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 121.07,
+        "i": 0.02,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "crypt,"
+      },
+      {
+        "t": 121.104,
+        "i": 0.07,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "crypt,"
+      },
+      {
+        "t": 121.137,
+        "i": 0.13,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "crypt,"
+      },
+      {
+        "t": 121.171,
+        "i": 0.21,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "crypt,"
+      },
+      {
+        "t": 121.205,
+        "i": 0.35,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "crypt,"
+      },
+      {
+        "t": 121.239,
+        "i": 0.32,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "crypt,"
+      },
+      {
+        "t": 121.272,
+        "i": 0.23,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "crypt,"
+      },
+      {
+        "t": 121.306,
+        "i": 0.17,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "crypt,"
+      },
+      {
+        "t": 121.35,
+        "i": 0.1,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "I"
+      },
+      {
+        "t": 121.394,
+        "i": 0.24,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 121.394,
+        "i": 0.15,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "I"
+      },
+      {
+        "t": 121.438,
+        "i": 0.19,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "I"
+      },
+      {
+        "t": 121.481,
+        "i": 0.24,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "I"
+      },
+      {
+        "t": 121.525,
+        "i": 0.29,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "I"
+      },
+      {
+        "t": 121.569,
+        "i": 0.24,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "I"
+      },
+      {
+        "t": 121.613,
+        "i": 0.2,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "I"
+      },
+      {
+        "t": 121.656,
+        "i": 0.18,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "I"
+      },
+      {
+        "t": 121.735,
+        "i": 0.15,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 121.76,
+        "i": 0.12,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 121.785,
+        "i": 0.11,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 121.81,
+        "i": 0.11,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 121.835,
+        "i": 0.16,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 121.914,
+        "i": 0.31,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 121.939,
+        "i": 0.26,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 121.964,
+        "i": 0.22,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 121.989,
+        "i": 0.22,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.014,
+        "i": 0.22,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.039,
+        "i": 0.22,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.143,
+        "i": 0.09,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.168,
+        "i": 0.08,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.193,
+        "i": 0.07,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.218,
+        "i": 0.07,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.243,
+        "i": 0.07,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.253,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 122.415,
+        "i": 0.16,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.44,
+        "i": 0.16,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.465,
+        "i": 0.14,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.515,
+        "i": 0.12,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.54,
+        "i": 0.12,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.565,
+        "i": 0.12,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.59,
+        "i": 0.12,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.64,
+        "i": 0.05,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.671,
+        "i": 0.6,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 122.671,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 122.745,
+        "i": 0.27,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.77,
+        "i": 0.25,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.795,
+        "i": 0.23,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.82,
+        "i": 0.22,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.87,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.895,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.92,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.945,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.97,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 122.995,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 123.02,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 123.045,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "snort"
+      },
+      {
+        "t": 123.089,
+        "i": 0.63,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 123.507,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 123.53,
+        "i": 0.52,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 123.53,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 123.646,
+        "i": 0.37,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 123.686,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 123.726,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 123.766,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 123.806,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 123.846,
+        "i": 0.29,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 123.886,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 123.971,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 124.111,
+        "i": 0.05,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 124.389,
+        "i": 0.38,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 124.807,
+        "i": 0.75,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 124.807,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 124.87,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 124.91,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 124.95,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 124.99,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 125.03,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 125.07,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 125.248,
+        "i": 0.27,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 125.388,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 125.666,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 125.968,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 126.084,
+        "i": 0.7,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 126.084,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 126.363,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 126.549,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 126.943,
+        "i": 0.18,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 126.967,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 127.385,
+        "i": 0.26,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 127.547,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 127.803,
+        "i": 0.78,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 128.244,
+        "i": 0.55,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 128.244,
+        "i": 0.58,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 128.244,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 128.324,
+        "i": 0.32,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 128.364,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 128.404,
+        "i": 0.32,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 128.444,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 128.484,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 128.685,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 129.103,
+        "i": 0.3,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 129.149,
+        "i": 0.18,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 129.22,
+        "i": 0.11,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "me"
+      },
+      {
+        "t": 129.27,
+        "i": 0.15,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "me"
+      },
+      {
+        "t": 129.32,
+        "i": 0.18,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "me"
+      },
+      {
+        "t": 129.37,
+        "i": 0.2,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "me"
+      },
+      {
+        "t": 129.42,
+        "i": 0.26,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "me"
+      },
+      {
+        "t": 129.47,
+        "i": 0.24,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "me"
+      },
+      {
+        "t": 129.52,
+        "i": 0.22,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "me"
+      },
+      {
+        "t": 129.521,
+        "i": 0.45,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 129.57,
+        "i": 0.23,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "me"
+      },
+      {
+        "t": 129.63,
+        "i": 0.41,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "a"
+      },
+      {
+        "t": 129.68,
+        "i": 0.27,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "fat"
+      },
+      {
+        "t": 129.73,
+        "i": 0.2,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "line"
+      },
+      {
+        "t": 129.78,
+        "i": 0.15,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "Never"
+      },
+      {
+        "t": 129.83,
+        "i": 0.25,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "gave"
+      },
+      {
+        "t": 129.88,
+        "i": 0.34,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "a"
+      },
+      {
+        "t": 129.93,
+        "i": 0.34,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "fuck,"
+      },
+      {
+        "t": 129.962,
+        "i": 0.25,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 129.98,
+        "i": 0.27,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "grew"
+      },
+      {
+        "t": 130.03,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "up"
+      },
+      {
+        "t": 130.08,
+        "i": 0.21,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "out"
+      },
+      {
+        "t": 130.13,
+        "i": 0.24,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "the"
+      },
+      {
+        "t": 130.18,
+        "i": 0.22,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "mud"
+      },
+      {
+        "t": 130.23,
+        "i": 0.27,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "Pull"
+      },
+      {
+        "t": 130.28,
+        "i": 0.26,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "up,"
+      },
+      {
+        "t": 130.33,
+        "i": 0.21,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "then"
+      },
+      {
+        "t": 130.38,
+        "i": 0.36,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 130.38,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 130.38,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "I"
+      },
+      {
+        "t": 130.43,
+        "i": 0.22,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "pop"
+      },
+      {
+        "t": 130.48,
+        "i": 0.22,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "the"
+      },
+      {
+        "t": 130.53,
+        "i": 0.18,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "trunk"
+      },
+      {
+        "t": 130.566,
+        "i": 0.15,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 130.68,
+        "i": 0.32,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "with"
+      },
+      {
+        "t": 130.79,
+        "i": 0.36,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "the"
+      },
+      {
+        "t": 130.821,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 130.9,
+        "i": 0.28,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "fucking"
+      },
+      {
+        "t": 130.984,
+        "i": 0.21,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 131.18,
+        "i": 0.01,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "Always"
+      },
+      {
+        "t": 131.193,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 131.193,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 131.239,
+        "i": 0.78,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 131.611,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 131.611,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 131.657,
+        "i": 0.55,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 131.82,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 132.029,
+        "i": 0.26,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 132.098,
+        "i": 0.39,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 132.214,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 132.54,
+        "i": 0.28,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 132.841,
+        "i": 0.53,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 132.957,
+        "i": 0.64,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 133.375,
+        "i": 0.34,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 133.515,
+        "i": 0.22,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 133.77,
+        "i": 0.17,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 133.817,
+        "i": 0.39,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 133.817,
+        "i": 0.67,
+        "d": 18,
+        "tp": "orchestral_hit",
+        "prio": 7
+      },
+      {
+        "t": 133.956,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 133.956,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 134.049,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 134.211,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 134.258,
+        "i": 0.25,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 134.397,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 134.606,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 134.629,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 134.676,
+        "i": 0.56,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 134.769,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 134.815,
+        "i": 0.05,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 135.024,
+        "i": 0.19,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 135.094,
+        "i": 0.78,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 135.535,
+        "i": 0.38,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 135.953,
+        "i": 0.36,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 136.371,
+        "i": 0.65,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 136.742,
+        "i": 0.25,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 136.812,
+        "i": 0.5,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 137.23,
+        "i": 0.41,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 137.23,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 137.671,
+        "i": 0.37,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 137.81,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 137.834,
+        "i": 0.08,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 137.88,
+        "i": 0.13,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 137.996,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 138.066,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 138.112,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 138.461,
+        "i": 0.24,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 138.53,
+        "i": 0.49,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 138.971,
+        "i": 0.24,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 139.389,
+        "i": 0.34,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 139.807,
+        "i": 0.52,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 140.14,
+        "i": 0.09,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "lunatic,"
+      },
+      {
+        "t": 140.249,
+        "i": 0.28,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 140.36,
+        "i": 0.14,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "You"
+      },
+      {
+        "t": 140.47,
+        "i": 0.03,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "just"
+      },
+      {
+        "t": 140.62,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 140.666,
+        "i": 0.22,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 140.69,
+        "i": 0.16,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 140.899,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 141.108,
+        "i": 0.28,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 141.247,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 141.27,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 141.293,
+        "i": 0.39,
+        "d": 18,
+        "tp": "orchestral_hit",
+        "prio": 7
+      },
+      {
+        "t": 141.479,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 141.479,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 141.526,
+        "i": 0.78,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 141.874,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 141.897,
+        "i": 0.08,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 141.944,
+        "i": 0.56,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 142.315,
+        "i": 0.18,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 142.385,
+        "i": 0.37,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 142.733,
+        "i": 0.2,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 142.826,
+        "i": 0.45,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 142.942,
+        "i": 0.28,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 143.197,
+        "i": 0.15,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 143.244,
+        "i": 0.32,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 143.314,
+        "i": 0.24,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 143.685,
+        "i": 0.33,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 143.848,
+        "i": 0.09,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 144.08,
+        "i": 0.13,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 144.103,
+        "i": 0.16,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 144.166,
+        "i": 0.11,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 144.206,
+        "i": 0.11,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 144.246,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 144.286,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 144.326,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 144.366,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 144.544,
+        "i": 0.16,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 144.544,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 144.707,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 144.962,
+        "i": 0.52,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 145.334,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 145.38,
+        "i": 0.64,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 145.403,
+        "i": 0.4,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 145.443,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 145.483,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 145.523,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 145.563,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 145.603,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 145.643,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 145.728,
+        "i": 0.19,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 145.821,
+        "i": 0.29,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 145.937,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 146.146,
+        "i": 0.13,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 146.239,
+        "i": 0.34,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 146.657,
+        "i": 0.62,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 146.75,
+        "i": 0.14,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 147.098,
+        "i": 0.5,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 147.516,
+        "i": 0.15,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 147.54,
+        "i": 0.32,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 147.958,
+        "i": 0.31,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 148.097,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 148.167,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 148.376,
+        "i": 0.78,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 148.817,
+        "i": 0.57,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 148.817,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 149.258,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 149.676,
+        "i": 0.5,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 150.094,
+        "i": 0.75,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 150.187,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 150.535,
+        "i": 0.45,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 150.953,
+        "i": 0.75,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 150.953,
+        "i": 0.38,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 150.953,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 151.073,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 151.113,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 151.153,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 151.193,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 151.394,
+        "i": 0.28,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 151.557,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 151.812,
+        "i": 0.49,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 152.23,
+        "i": 0.62,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 152.671,
+        "i": 0.39,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 152.834,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 153.112,
+        "i": 0.3,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 153.414,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 153.484,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 153.53,
+        "i": 0.67,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 153.972,
+        "i": 0.33,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 154.343,
+        "i": 0.16,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 154.389,
+        "i": 0.25,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 154.389,
+        "i": 0.2,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 154.469,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 154.509,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 154.549,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 154.589,
+        "i": 0.32,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 154.629,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 154.831,
+        "i": 0.16,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 154.97,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 155.016,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 155.249,
+        "i": 0.54,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 155.62,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 155.667,
+        "i": 0.78,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 156.085,
+        "i": 0.22,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      }
+    ]
   }
-]
+}

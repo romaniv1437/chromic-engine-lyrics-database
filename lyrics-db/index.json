@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T09:11:29.470646+00:00",
-  "totalTracks": 811,
+  "generatedAt": "2026-08-17T14:32:38.505716+00:00",
+  "totalTracks": 812,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11637,6 +11637,23 @@
       "mtimeMs": 1786957891267,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "blackkray::black kray aka sickboyrari - throw it back [prod by f1lthy]": {
+      "title": "BLACK KRAY AKA SICKBOYRARI - THROW IT BACK [PROD BY F1LTHY]",
+      "artist": "Blackkray",
+      "originalTrackName": "Blackkray - BLACK KRAY AKA SICKBOYRARI - THROW IT BACK [PROD BY F1LTHY]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/avatars-000059580431-y74eqj-original.jpg",
+      "file": "tracks/blackkray-black-kray-aka-sickboyrari-throw-it-back-prod-by-f1lthy-1bccce439983.json",
+      "files": {
+        "lyrics": "tracks/blackkray-black-kray-aka-sickboyrari-throw-it-back-prod-by-f1lthy-1bccce439983.json",
+        "meta": "tracks/blackkray-black-kray-aka-sickboyrari-throw-it-back-prod-by-f1lthy-1bccce439983.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/blackkray/sickboyrari-throw-it-back-prod-by-f1lthy",
+      "mtimeMs": 1786977162059,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -23270,6 +23287,23 @@
       },
       "sourcePath": "https://soundcloud.com/g59/forthelasttime",
       "mtimeMs": 1786957891267,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "BLACK KRAY AKA SICKBOYRARI - THROW IT BACK [PROD BY F1LTHY]",
+      "artist": "Blackkray",
+      "originalTrackName": "Blackkray - BLACK KRAY AKA SICKBOYRARI - THROW IT BACK [PROD BY F1LTHY]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/avatars-000059580431-y74eqj-original.jpg",
+      "file": "tracks/blackkray-black-kray-aka-sickboyrari-throw-it-back-prod-by-f1lthy-1bccce439983.json",
+      "files": {
+        "lyrics": "tracks/blackkray-black-kray-aka-sickboyrari-throw-it-back-prod-by-f1lthy-1bccce439983.json",
+        "meta": "tracks/blackkray-black-kray-aka-sickboyrari-throw-it-back-prod-by-f1lthy-1bccce439983.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/blackkray/sickboyrari-throw-it-back-prod-by-f1lthy",
+      "mtimeMs": 1786977162059,
       "has_haptics": true,
       "haptics_version": 4
     }

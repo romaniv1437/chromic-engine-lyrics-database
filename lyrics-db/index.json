@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T01:49:52.327707+00:00",
-  "totalTracks": 808,
+  "generatedAt": "2026-08-17T01:57:08.423302+00:00",
+  "totalTracks": 809,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11584,6 +11584,23 @@
       "mtimeMs": 1786931393540,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "xpected::booka prod.yungsickbeatz": {
+      "title": "Booka prod.yungsickbeatz",
+      "artist": "xpected",
+      "originalTrackName": "xpected - Booka prod.yungsickbeatz",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-srdTDXTYyygDJQN1-i96PQw-original.jpg",
+      "file": "tracks/xpected-booka-prod-yungsickbeatz-62699c61d786.json",
+      "files": {
+        "lyrics": "tracks/xpected-booka-prod-yungsickbeatz-62699c61d786.json",
+        "meta": "tracks/xpected-booka-prod-yungsickbeatz-62699c61d786.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/dakarri-genson/booka-prod-yungsickbeatz",
+      "mtimeMs": 1786931829054,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -23164,6 +23181,23 @@
       },
       "sourcePath": "https://soundcloud.com/mix-93-3-all-the-mix/tatu-all-the-things-she-said-2",
       "mtimeMs": 1786931393540,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Booka prod.yungsickbeatz",
+      "artist": "xpected",
+      "originalTrackName": "xpected - Booka prod.yungsickbeatz",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-srdTDXTYyygDJQN1-i96PQw-original.jpg",
+      "file": "tracks/xpected-booka-prod-yungsickbeatz-62699c61d786.json",
+      "files": {
+        "lyrics": "tracks/xpected-booka-prod-yungsickbeatz-62699c61d786.json",
+        "meta": "tracks/xpected-booka-prod-yungsickbeatz-62699c61d786.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/dakarri-genson/booka-prod-yungsickbeatz",
+      "mtimeMs": 1786931829054,
       "has_haptics": true,
       "haptics_version": 4
     }

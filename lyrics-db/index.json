@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T13:49:48.707157+00:00",
-  "totalTracks": 1,
+  "generatedAt": "2026-08-18T13:51:48.292229+00:00",
+  "totalTracks": 2,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -21,6 +21,23 @@
       "mtimeMs": 1787060989504,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "someone.::feel the fury  outcome memories": {
+      "title": "Feel The Fury  OUTCOME MEMORIES",
+      "artist": "someone.",
+      "originalTrackName": "someone. - Feel The Fury  OUTCOME MEMORIES",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-m3EdFzrcvSSLlvU3-Gx4J8g-original.jpg",
+      "file": "tracks/someone-feel-the-fury-outcome-memories-83e7f9c080c9.json",
+      "files": {
+        "lyrics": "tracks/someone-feel-the-fury-outcome-memories-83e7f9c080c9.json",
+        "meta": "tracks/someone-feel-the-fury-outcome-memories-83e7f9c080c9.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/derty-lim/feel-the-fury-outcome-memories",
+      "mtimeMs": 1787061108975,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -38,6 +55,23 @@
       },
       "sourcePath": "https://soundcloud.com/kason-blackbee/dont-blink-dx-instrumental",
       "mtimeMs": 1787060989504,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Feel The Fury  OUTCOME MEMORIES",
+      "artist": "someone.",
+      "originalTrackName": "someone. - Feel The Fury  OUTCOME MEMORIES",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-m3EdFzrcvSSLlvU3-Gx4J8g-original.jpg",
+      "file": "tracks/someone-feel-the-fury-outcome-memories-83e7f9c080c9.json",
+      "files": {
+        "lyrics": "tracks/someone-feel-the-fury-outcome-memories-83e7f9c080c9.json",
+        "meta": "tracks/someone-feel-the-fury-outcome-memories-83e7f9c080c9.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/derty-lim/feel-the-fury-outcome-memories",
+      "mtimeMs": 1787061108975,
       "has_haptics": true,
       "haptics_version": 4
     }

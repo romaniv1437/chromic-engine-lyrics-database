@@ -1,27 +1,10 @@
 {
-  "generatedAt": "2026-08-18T13:58:52.915434+00:00",
+  "generatedAt": "2026-08-18T14:06:52.555372+00:00",
   "totalTracks": 3,
   "roots": [
     "lyrics-db/tracks"
   ],
   "registry": {
-    "astranova::don't blink dx (instrumental)": {
-      "title": "DON'T BLINK DX (Instrumental)",
-      "artist": "astranova",
-      "originalTrackName": "astranova - DON'T BLINK DX (Instrumental)",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-Omq9QN8gymXXVwWE-aZ05JA-original.png",
-      "file": "tracks/astranova-don-t-blink-dx-instrumental-1cc5a360e7b6.json",
-      "files": {
-        "lyrics": "tracks/astranova-don-t-blink-dx-instrumental-1cc5a360e7b6.json",
-        "meta": "tracks/astranova-don-t-blink-dx-instrumental-1cc5a360e7b6.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/kason-blackbee/dont-blink-dx-instrumental",
-      "mtimeMs": 1787060989504,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
     "someone.::feel the fury  outcome memories": {
       "title": "Feel The Fury  OUTCOME MEMORIES",
       "artist": "someone.",
@@ -54,10 +37,8 @@
       "mtimeMs": 1787061532915,
       "has_haptics": false,
       "haptics_version": null
-    }
-  },
-  "tracks": [
-    {
+    },
+    "astranova::don't blink dx (instrumental)": {
       "title": "DON'T BLINK DX (Instrumental)",
       "artist": "astranova",
       "originalTrackName": "astranova - DON'T BLINK DX (Instrumental)",
@@ -70,10 +51,12 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/kason-blackbee/dont-blink-dx-instrumental",
-      "mtimeMs": 1787060989504,
+      "mtimeMs": 1787062013819,
       "has_haptics": true,
       "haptics_version": 4
-    },
+    }
+  },
+  "tracks": [
     {
       "title": "Feel The Fury  OUTCOME MEMORIES",
       "artist": "someone.",
@@ -106,6 +89,23 @@
       "mtimeMs": 1787061532915,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "DON'T BLINK DX (Instrumental)",
+      "artist": "astranova",
+      "originalTrackName": "astranova - DON'T BLINK DX (Instrumental)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-Omq9QN8gymXXVwWE-aZ05JA-original.png",
+      "file": "tracks/astranova-don-t-blink-dx-instrumental-1cc5a360e7b6.json",
+      "files": {
+        "lyrics": "tracks/astranova-don-t-blink-dx-instrumental-1cc5a360e7b6.json",
+        "meta": "tracks/astranova-don-t-blink-dx-instrumental-1cc5a360e7b6.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/kason-blackbee/dont-blink-dx-instrumental",
+      "mtimeMs": 1787062013819,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

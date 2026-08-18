@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T13:54:29.471282+00:00",
-  "totalTracks": 2,
+  "generatedAt": "2026-08-18T13:58:41.252099+00:00",
+  "totalTracks": 3,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -37,6 +37,23 @@
       },
       "sourcePath": "https://soundcloud.com/derty-lim/feel-the-fury-outcome-memories",
       "mtimeMs": 1787061269471
+    },
+    "thatguyramon, rob lundgren::[scrapped] break free (ft. rob lundgren) - sonic.exe outcome memories ost": {
+      "title": "[SCRAPPED] Break Free (Ft. Rob Lundgren) - SONIC.exe OUTCOME MEMORIES OST",
+      "artist": "ThatGuyRamon, Rob Lundgren",
+      "originalTrackName": "ThatGuyRamon, Rob Lundgren - [SCRAPPED] Break Free (Ft. Rob Lundgren) - SONIC.exe OUTCOME MEMORIES OST",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-ea7zey3zcdHJUwAU-uOjmwA-original.jpg",
+      "file": "tracks/thatguyramon-rob-lundgren-scrapped-break-free-ft-rob-lundgren-sonic-ex-dd8d7fce790d.json",
+      "files": {
+        "lyrics": "tracks/thatguyramon-rob-lundgren-scrapped-break-free-ft-rob-lundgren-sonic-ex-dd8d7fce790d.json",
+        "meta": "tracks/thatguyramon-rob-lundgren-scrapped-break-free-ft-rob-lundgren-sonic-ex-dd8d7fce790d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/rallory/break-free-ft-rob-lundgren",
+      "mtimeMs": 1787061521835,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -72,6 +89,23 @@
       },
       "sourcePath": "https://soundcloud.com/derty-lim/feel-the-fury-outcome-memories",
       "mtimeMs": 1787061269471
+    },
+    {
+      "title": "[SCRAPPED] Break Free (Ft. Rob Lundgren) - SONIC.exe OUTCOME MEMORIES OST",
+      "artist": "ThatGuyRamon, Rob Lundgren",
+      "originalTrackName": "ThatGuyRamon, Rob Lundgren - [SCRAPPED] Break Free (Ft. Rob Lundgren) - SONIC.exe OUTCOME MEMORIES OST",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-ea7zey3zcdHJUwAU-uOjmwA-original.jpg",
+      "file": "tracks/thatguyramon-rob-lundgren-scrapped-break-free-ft-rob-lundgren-sonic-ex-dd8d7fce790d.json",
+      "files": {
+        "lyrics": "tracks/thatguyramon-rob-lundgren-scrapped-break-free-ft-rob-lundgren-sonic-ex-dd8d7fce790d.json",
+        "meta": "tracks/thatguyramon-rob-lundgren-scrapped-break-free-ft-rob-lundgren-sonic-ex-dd8d7fce790d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/rallory/break-free-ft-rob-lundgren",
+      "mtimeMs": 1787061521835,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

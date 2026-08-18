@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T13:52:06.502400+00:00",
+  "generatedAt": "2026-08-18T13:54:29.471282+00:00",
   "totalTracks": 2,
   "roots": [
     "lyrics-db/tracks"
@@ -26,18 +26,17 @@
       "title": "Feel The Fury  OUTCOME MEMORIES",
       "artist": "someone.",
       "originalTrackName": "someone. - Feel The Fury  OUTCOME MEMORIES",
-      "source": "syncedlyrics",
-      "thumbnail": "https://i1.sndcdn.com/artworks-m3EdFzrcvSSLlvU3-Gx4J8g-original.jpg",
+      "source": "soundcloud_extension_translate",
       "file": "tracks/someone-feel-the-fury-outcome-memories-83e7f9c080c9.json",
       "files": {
         "lyrics": "tracks/someone-feel-the-fury-outcome-memories-83e7f9c080c9.json",
         "meta": "tracks/someone-feel-the-fury-outcome-memories-83e7f9c080c9.meta.json",
-        "translations": {}
+        "translations": {
+          "ru": "tracks/someone-feel-the-fury-outcome-memories-83e7f9c080c9.ru.json"
+        }
       },
       "sourcePath": "https://soundcloud.com/derty-lim/feel-the-fury-outcome-memories",
-      "mtimeMs": 1787061126502,
-      "has_haptics": false,
-      "haptics_version": null
+      "mtimeMs": 1787061269471
     }
   },
   "tracks": [
@@ -62,18 +61,17 @@
       "title": "Feel The Fury  OUTCOME MEMORIES",
       "artist": "someone.",
       "originalTrackName": "someone. - Feel The Fury  OUTCOME MEMORIES",
-      "source": "syncedlyrics",
-      "thumbnail": "https://i1.sndcdn.com/artworks-m3EdFzrcvSSLlvU3-Gx4J8g-original.jpg",
+      "source": "soundcloud_extension_translate",
       "file": "tracks/someone-feel-the-fury-outcome-memories-83e7f9c080c9.json",
       "files": {
         "lyrics": "tracks/someone-feel-the-fury-outcome-memories-83e7f9c080c9.json",
         "meta": "tracks/someone-feel-the-fury-outcome-memories-83e7f9c080c9.meta.json",
-        "translations": {}
+        "translations": {
+          "ru": "tracks/someone-feel-the-fury-outcome-memories-83e7f9c080c9.ru.json"
+        }
       },
       "sourcePath": "https://soundcloud.com/derty-lim/feel-the-fury-outcome-memories",
-      "mtimeMs": 1787061126502,
-      "has_haptics": false,
-      "haptics_version": null
+      "mtimeMs": 1787061269471
     }
   ]
 }

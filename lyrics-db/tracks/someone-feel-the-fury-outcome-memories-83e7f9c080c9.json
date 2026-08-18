@@ -1,3295 +1,408 @@
-{
-  "lines": [
-    {
-      "text": "C'mon, bring it!",
-      "startTime": 12.65,
-      "endTime": 13.88,
-      "words": [
-        {
-          "word": "C'mon,",
-          "start": 12.86,
-          "end": 13,
-          "whisper": true
-        },
-        {
-          "word": "bring",
-          "start": 13,
-          "end": 13.28
-        },
-        {
-          "word": "it!",
-          "start": 13.28,
-          "end": 13.88
-        }
-      ],
-      "time": 12.65,
-      "end": 13.88
-    },
-    {
-      "text": "How are you him? Can you please explain it?",
-      "startTime": 27,
-      "endTime": 28.64,
-      "words": [
-        {
-          "word": "How",
-          "start": 27,
-          "end": 27.32,
-          "spoken": true
-        },
-        {
-          "word": "are",
-          "start": 27.32,
-          "end": 27.48,
-          "spoken": true
-        },
-        {
-          "word": "you",
-          "start": 27.48,
-          "end": 27.66,
-          "spoken": true
-        },
-        {
-          "word": "him?",
-          "start": 27.66,
-          "end": 27.916,
-          "spoken": true
-        },
-        {
-          "word": "Can",
-          "start": 27.916,
-          "end": 28.108
-        },
-        {
-          "word": "you",
-          "start": 28.108,
-          "end": 28.3
-        },
-        {
-          "word": "please",
-          "start": 28.3,
-          "end": 28.4
-        },
-        {
-          "word": "explain",
-          "start": 28.41,
-          "end": 28.6
-        },
-        {
-          "word": "it?",
-          "start": 28.6,
-          "end": 28.64
-        }
-      ],
-      "time": 27,
-      "end": 28.64
-    },
-    {
-      "text": "No matter who you are, you just cannot fake it",
-      "startTime": 28.65,
-      "endTime": 30.33,
-      "words": [
-        {
-          "word": "No",
-          "start": 28.812,
-          "end": 28.92,
-          "spoken": true
-        },
-        {
-          "word": "matter",
-          "start": 28.92,
-          "end": 29.1
-        },
-        {
-          "word": "who",
-          "start": 29.1,
-          "end": 29.22
-        },
-        {
-          "word": "you",
-          "start": 29.22,
-          "end": 29.44
-        },
-        {
-          "word": "are,",
-          "start": 29.44,
-          "end": 29.52
-        },
-        {
-          "word": "you",
-          "start": 29.52,
-          "end": 29.72
-        },
-        {
-          "word": "just",
-          "start": 29.72,
-          "end": 29.84
-        },
-        {
-          "word": "cannot",
-          "start": 29.84,
-          "end": 30.085
-        },
-        {
-          "word": "fake",
-          "start": 30.085,
-          "end": 30.248
-        },
-        {
-          "word": "it",
-          "start": 30.248,
-          "end": 30.33
-        }
-      ],
-      "time": 28.65,
-      "end": 30.33
-    },
-    {
-      "text": "Livin' on the edge of reality",
-      "startTime": 30.33,
-      "endTime": 31.92,
-      "words": [
-        {
-          "word": "Livin'",
-          "start": 30.376,
-          "end": 30.728
-        },
-        {
-          "word": "on",
-          "start": 30.738,
-          "end": 30.86
-        },
-        {
-          "word": "the",
-          "start": 30.86,
-          "end": 31.04,
-          "spoken": true
-        },
-        {
-          "word": "edge",
-          "start": 31.04,
-          "end": 31.14,
-          "spoken": true
-        },
-        {
-          "word": "of",
-          "start": 31.15,
-          "end": 31.25,
-          "spoken": true
-        },
-        {
-          "word": "reality",
-          "start": 31.61,
-          "end": 31.92,
-          "char_starts": [
-            31.61,
-            31.64,
-            31.67,
-            31.7,
-            31.73,
-            31.76,
-            31.79
-          ],
-          "spoken": true
-        }
-      ],
-      "time": 30.33,
-      "end": 31.92
-    },
-    {
-      "text": "If you mess with my friends, you gonna mess with me",
-      "startTime": 32.02,
-      "endTime": 33.93,
-      "words": [
-        {
-          "word": "If",
-          "start": 32.02,
-          "end": 32.08
-        },
-        {
-          "word": "you",
-          "start": 32.188,
-          "end": 32.26
-        },
-        {
-          "word": "mess",
-          "start": 32.26,
-          "end": 32.4
-        },
-        {
-          "word": "with",
-          "start": 32.4,
-          "end": 32.52
-        },
-        {
-          "word": "my",
-          "start": 32.64,
-          "end": 32.72
-        },
-        {
-          "word": "friends,",
-          "start": 32.72,
-          "end": 32.84
-        },
-        {
-          "word": "you",
-          "start": 32.84,
-          "end": 33.08
-        },
-        {
-          "word": "gonna",
-          "start": 33.08,
-          "end": 33.16
-        },
-        {
-          "word": "mess",
-          "start": 33.16,
-          "end": 33.36
-        },
-        {
-          "word": "with",
-          "start": 33.36,
-          "end": 33.5
-        },
-        {
-          "word": "me",
-          "start": 33.5,
-          "end": 33.93
-        }
-      ],
-      "time": 32.02,
-      "end": 33.93
-    },
-    {
-      "text": "You destroy my home, you invade this land",
-      "startTime": 33.93,
-      "endTime": 35.51,
-      "words": [
-        {
-          "word": "You",
-          "start": 33.93,
-          "end": 34
-        },
-        {
-          "word": "destroy",
-          "start": 34,
-          "end": 34.12,
-          "spoken": true
-        },
-        {
-          "word": "my",
-          "start": 34.276,
-          "end": 34.38,
-          "spoken": true
-        },
-        {
-          "word": "home,",
-          "start": 34.38,
-          "end": 34.6,
-          "spoken": true
-        },
-        {
-          "word": "you",
-          "start": 34.708,
-          "end": 34.78
-        },
-        {
-          "word": "invade",
-          "start": 34.78,
-          "end": 35.02,
-          "spoken": true
-        },
-        {
-          "word": "this",
-          "start": 35.188,
-          "end": 35.3,
-          "spoken": true
-        },
-        {
-          "word": "land",
-          "start": 35.3,
-          "end": 35.51,
-          "spoken": true
-        }
-      ],
-      "time": 33.93,
-      "end": 35.51
-    },
-    {
-      "text": "Listen real close so you understand",
-      "startTime": 35.72,
-      "endTime": 37.14,
-      "words": [
-        {
-          "word": "Listen",
-          "start": 35.72,
-          "end": 35.82
-        },
-        {
-          "word": "real",
-          "start": 36,
-          "end": 36.12
-        },
-        {
-          "word": "close",
-          "start": 36.12,
-          "end": 36.28
-        },
-        {
-          "word": "so",
-          "start": 36.28,
-          "end": 36.416
-        },
-        {
-          "word": "you",
-          "start": 36.416,
-          "end": 36.62
-        },
-        {
-          "word": "understand",
-          "start": 36.62,
-          "end": 37.14
-        }
-      ],
-      "time": 35.72,
-      "end": 37.14
-    },
-    {
-      "text": "Tougher than leather, we in this together",
-      "startTime": 37.4,
-      "endTime": 38.75,
-      "words": [
-        {
-          "word": "Tougher",
-          "start": 37.4,
-          "end": 37.54,
-          "spoken": true
-        },
-        {
-          "word": "than",
-          "start": 37.696,
-          "end": 37.8,
-          "spoken": true
-        },
-        {
-          "word": "leather,",
-          "start": 37.8,
-          "end": 38.06,
-          "spoken": true
-        },
-        {
-          "word": "we",
-          "start": 38.06,
-          "end": 38.26
-        },
-        {
-          "word": "in",
-          "start": 38.26,
-          "end": 38.34
-        },
-        {
-          "word": "this",
-          "start": 38.34,
-          "end": 38.42
-        },
-        {
-          "word": "together",
-          "start": 38.618,
-          "end": 38.75
-        }
-      ],
-      "time": 37.4,
-      "end": 38.75
-    },
-    {
-      "text": "You're never gonna win, team Knuckles forever!",
-      "startTime": 38.9,
-      "endTime": 40.76,
-      "words": [
-        {
-          "word": "You're",
-          "start": 38.9,
-          "end": 39.02
-        },
-        {
-          "word": "never",
-          "start": 39.02,
-          "end": 39.26
-        },
-        {
-          "word": "gonna",
-          "start": 39.26,
-          "end": 39.5
-        },
-        {
-          "word": "win,",
-          "start": 39.5,
-          "end": 39.72
-        },
-        {
-          "word": "team",
-          "start": 39.72,
-          "end": 39.88
-        },
-        {
-          "word": "Knuckles",
-          "start": 39.88,
-          "end": 40.16
-        },
-        {
-          "word": "forever!",
-          "start": 40.16,
-          "end": 40.76
-        }
-      ],
-      "time": 38.9,
-      "end": 40.76
-    },
-    {
-      "text": "Pick up the pace, let me see what you got now",
-      "startTime": 40.78,
-      "endTime": 42.32,
-      "words": [
-        {
-          "word": "Pick",
-          "start": 40.78,
-          "end": 40.88
-        },
-        {
-          "word": "up",
-          "start": 40.88,
-          "end": 41.02,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 41.02,
-          "end": 41.2,
-          "spoken": true
-        },
-        {
-          "word": "pace,",
-          "start": 41.2,
-          "end": 41.32
-        },
-        {
-          "word": "let",
-          "start": 41.32,
-          "end": 41.476
-        },
-        {
-          "word": "me",
-          "start": 41.476,
-          "end": 41.58
-        },
-        {
-          "word": "see",
-          "start": 41.58,
-          "end": 41.64
-        },
-        {
-          "word": "what",
-          "start": 41.64,
-          "end": 41.8
-        },
-        {
-          "word": "you",
-          "start": 41.8,
-          "end": 42.06
-        },
-        {
-          "word": "got",
-          "start": 42.06,
-          "end": 42.22,
-          "spoken": true
-        },
-        {
-          "word": "now",
-          "start": 42.22,
-          "end": 42.32,
-          "spoken": true
-        }
-      ],
-      "time": 40.78,
-      "end": 42.32
-    },
-    {
-      "text": "Keep it real short, this will end, that's my vow",
-      "startTime": 42.21,
-      "endTime": 44.03,
-      "words": [
-        {
-          "word": "Keep",
-          "start": 42.302,
-          "end": 42.364,
-          "spoken": true
-        },
-        {
-          "word": "it",
-          "start": 42.364,
-          "end": 42.441
-        },
-        {
-          "word": "real",
-          "start": 42.441,
-          "end": 42.595
-        },
-        {
-          "word": "short,",
-          "start": 42.595,
-          "end": 42.826
-        },
-        {
-          "word": "this",
-          "start": 42.826,
-          "end": 42.981
-        },
-        {
-          "word": "will",
-          "start": 42.991,
-          "end": 43.135
-        },
-        {
-          "word": "end,",
-          "start": 43.145,
-          "end": 43.289
-        },
-        {
-          "word": "that's",
-          "start": 43.299,
-          "end": 43.52
-        },
-        {
-          "word": "my",
-          "start": 43.52,
-          "end": 43.76
-        },
-        {
-          "word": "vow",
-          "start": 43.76,
-          "end": 44.03
-        }
-      ],
-      "time": 42.21,
-      "end": 44.03
-    },
-    {
-      "text": "No time for the fake, only real ones allowed",
-      "startTime": 44.04,
-      "endTime": 45.61,
-      "words": [
-        {
-          "word": "No",
-          "start": 44.04,
-          "end": 44.14
-        },
-        {
-          "word": "time",
-          "start": 44.14,
-          "end": 44.26
-        },
-        {
-          "word": "for",
-          "start": 44.26,
-          "end": 44.4,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 44.4,
-          "end": 44.58,
-          "spoken": true
-        },
-        {
-          "word": "fake,",
-          "start": 44.58,
-          "end": 44.78
-        },
-        {
-          "word": "only",
-          "start": 44.78,
-          "end": 44.94,
-          "spoken": true
-        },
-        {
-          "word": "real",
-          "start": 44.94,
-          "end": 45.119,
-          "spoken": true
-        },
-        {
-          "word": "ones",
-          "start": 45.129,
-          "end": 45.297,
-          "spoken": true
-        },
-        {
-          "word": "allowed",
-          "start": 45.297,
-          "end": 45.61
-        }
-      ],
-      "time": 44.04,
-      "end": 45.61
-    },
-    {
-      "text": "Stand in my way, watch me tear through the crowd",
-      "startTime": 45.74,
-      "endTime": 47.42,
-      "words": [
-        {
-          "word": "Stand",
-          "start": 45.786,
-          "end": 45.94
-        },
-        {
-          "word": "in",
-          "start": 45.94,
-          "end": 46.1
-        },
-        {
-          "word": "my",
-          "start": 46.1,
-          "end": 46.2
-        },
-        {
-          "word": "way,",
-          "start": 46.2,
-          "end": 46.38
-        },
-        {
-          "word": "watch",
-          "start": 46.38,
-          "end": 46.46
-        },
-        {
-          "word": "me",
-          "start": 46.46,
-          "end": 46.66
-        },
-        {
-          "word": "tear",
-          "start": 46.66,
-          "end": 46.76
-        },
-        {
-          "word": "through",
-          "start": 46.76,
-          "end": 47,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 47,
-          "end": 47.22,
-          "spoken": true
-        },
-        {
-          "word": "crowd",
-          "start": 47.22,
-          "end": 47.42,
-          "spoken": true
-        }
-      ],
-      "time": 45.74,
-      "end": 47.42
-    },
-    {
-      "text": "Left right, left right, left right, down",
-      "startTime": 47.64,
-      "endTime": 49.16,
-      "words": [
-        {
-          "word": "Left",
-          "start": 47.64,
-          "end": 47.72
-        },
-        {
-          "word": "right,",
-          "start": 47.72,
-          "end": 47.84,
-          "spoken": true
-        },
-        {
-          "word": "left",
-          "start": 47.84,
-          "end": 48,
-          "spoken": true
-        },
-        {
-          "word": "right,",
-          "start": 48,
-          "end": 48.28
-        },
-        {
-          "word": "left",
-          "start": 48.28,
-          "end": 48.46,
-          "spoken": true
-        },
-        {
-          "word": "right,",
-          "start": 48.46,
-          "end": 48.72,
-          "spoken": true
-        },
-        {
-          "word": "down",
-          "start": 48.984,
-          "end": 49.16,
-          "spoken": true
-        }
-      ],
-      "time": 47.64,
-      "end": 49.16
-    },
-    {
-      "text": "Left right, left right, left right, down",
-      "startTime": 49.16,
-      "endTime": 50.92,
-      "words": [
-        {
-          "word": "Left",
-          "start": 49.16,
-          "end": 49.34
-        },
-        {
-          "word": "right,",
-          "start": 49.34,
-          "end": 49.52
-        },
-        {
-          "word": "left",
-          "start": 49.52,
-          "end": 49.7
-        },
-        {
-          "word": "right,",
-          "start": 49.7,
-          "end": 49.96
-        },
-        {
-          "word": "left",
-          "start": 49.96,
-          "end": 50.16
-        },
-        {
-          "word": "right,",
-          "start": 50.16,
-          "end": 50.44
-        },
-        {
-          "word": "down",
-          "start": 50.44,
-          "end": 50.92
-        }
-      ],
-      "time": 49.16,
-      "end": 50.92
-    },
-    {
-      "text": "You got another thing coming if you think I'll quit",
-      "startTime": 51.04,
-      "endTime": 53.25,
-      "words": [
-        {
-          "word": "You",
-          "start": 51.04,
-          "end": 51.18
-        },
-        {
-          "word": "got",
-          "start": 51.226,
-          "end": 51.42
-        },
-        {
-          "word": "another",
-          "start": 51.42,
-          "end": 51.74
-        },
-        {
-          "word": "thing",
-          "start": 51.956,
-          "end": 52.1
-        },
-        {
-          "word": "coming",
-          "start": 52.1,
-          "end": 52.42
-        },
-        {
-          "word": "if",
-          "start": 52.42,
-          "end": 52.66,
-          "spoken": true
-        },
-        {
-          "word": "you",
-          "start": 52.66,
-          "end": 52.84,
-          "spoken": true
-        },
-        {
-          "word": "think",
-          "start": 52.84,
-          "end": 53.1,
-          "spoken": true
-        },
-        {
-          "word": "I'll",
-          "start": 53.1,
-          "end": 53.175,
-          "spoken": true
-        },
-        {
-          "word": "quit",
-          "start": 53.175,
-          "end": 53.25,
-          "spoken": true
-        }
-      ],
-      "time": 51.04,
-      "end": 53.25
-    },
-    {
-      "text": "Can you feel the fury, that primal rage?",
-      "startTime": 53.26,
-      "endTime": 55.9,
-      "words": [
-        {
-          "word": "Can",
-          "start": 53.26,
-          "end": 53.3
-        },
-        {
-          "word": "you",
-          "start": 53.3,
-          "end": 53.52,
-          "spoken": true
-        },
-        {
-          "word": "feel",
-          "start": 53.52,
-          "end": 53.78
-        },
-        {
-          "word": "the",
-          "start": 53.936,
-          "end": 54.04
-        },
-        {
-          "word": "fury,",
-          "start": 54.04,
-          "end": 54.7,
-          "char_starts": [
-            54.04,
-            54.119,
-            54.242,
-            54.389,
-            54.555
-          ]
-        },
-        {
-          "word": "that",
-          "start": 54.7,
-          "end": 55
-        },
-        {
-          "word": "primal",
-          "start": 55,
-          "end": 55.7,
-          "char_starts": [
-            55,
-            55.07,
-            55.165,
-            55.28,
-            55.408,
-            55.548
-          ]
-        },
-        {
-          "word": "rage?",
-          "start": 55.7,
-          "end": 55.9
-        }
-      ],
-      "time": 53.26,
-      "end": 55.9
-    },
-    {
-      "text": "It holds me back every day, this urge with no release",
-      "startTime": 56.3,
-      "endTime": 59.549,
-      "words": [
-        {
-          "word": "It",
-          "start": 56.3,
-          "end": 56.34
-        },
-        {
-          "word": "holds",
-          "start": 56.34,
-          "end": 56.48
-        },
-        {
-          "word": "me",
-          "start": 56.48,
-          "end": 56.78
-        },
-        {
-          "word": "back",
-          "start": 56.78,
-          "end": 56.98
-        },
-        {
-          "word": "every",
-          "start": 56.98,
-          "end": 57.38
-        },
-        {
-          "word": "day,",
-          "start": 57.38,
-          "end": 57.84
-        },
-        {
-          "word": "this",
-          "start": 57.84,
-          "end": 58.02
-        },
-        {
-          "word": "urge",
-          "start": 58.02,
-          "end": 58.392
-        },
-        {
-          "word": "with",
-          "start": 58.402,
-          "end": 58.764
-        },
-        {
-          "word": "no",
-          "start": 58.774,
-          "end": 58.949
-        },
-        {
-          "word": "release",
-          "start": 58.949,
-          "end": 59.549
-        }
-      ],
-      "time": 56.3,
-      "end": 59.549
-    },
-    {
-      "text": "Will you feel the fury and show me what was taken",
-      "startTime": 59.74,
-      "endTime": 63.07,
-      "words": [
-        {
-          "word": "Will",
-          "start": 59.74,
-          "end": 60.14,
-          "spoken": true
-        },
-        {
-          "word": "you",
-          "start": 60.15,
-          "end": 60.44,
-          "spoken": true
-        },
-        {
-          "word": "feel",
-          "start": 60.44,
-          "end": 60.5
-        },
-        {
-          "word": "the",
-          "start": 60.5,
-          "end": 60.8
-        },
-        {
-          "word": "fury",
-          "start": 60.8,
-          "end": 61.16
-        },
-        {
-          "word": "and",
-          "start": 61.16,
-          "end": 61.38
-        },
-        {
-          "word": "show",
-          "start": 61.38,
-          "end": 61.52
-        },
-        {
-          "word": "me",
-          "start": 61.52,
-          "end": 61.78
-        },
-        {
-          "word": "what",
-          "start": 61.78,
-          "end": 62.18
-        },
-        {
-          "word": "was",
-          "start": 62.18,
-          "end": 62.48
-        },
-        {
-          "word": "taken",
-          "start": 62.48,
-          "end": 63.07
-        }
-      ],
-      "time": 59.74,
-      "end": 63.07
-    },
-    {
-      "text": "Shaken, that had made you this way?",
-      "startTime": 63.47,
-      "endTime": 66.164,
-      "words": [
-        {
-          "word": "Shaken,",
-          "start": 63.47,
-          "end": 63.82
-        },
-        {
-          "word": "that",
-          "start": 63.82,
-          "end": 64.3
-        },
-        {
-          "word": "had",
-          "start": 64.3,
-          "end": 64.58
-        },
-        {
-          "word": "made",
-          "start": 64.58,
-          "end": 64.8
-        },
-        {
-          "word": "you",
-          "start": 64.8,
-          "end": 65.127
-        },
-        {
-          "word": "this",
-          "start": 65.127,
-          "end": 65.564
-        },
-        {
-          "word": "way?",
-          "start": 65.574,
-          "end": 66.164,
-          "char_starts": [
-            65.574,
-            65.678,
-            65.84,
-            66.034
-          ]
-        }
-      ],
-      "time": 63.47,
-      "end": 66.164
-    },
-    {
-      "text": "Can you feel the fury that has held me back?",
-      "startTime": 66.68,
-      "endTime": 69.48,
-      "words": [
-        {
-          "word": "Can",
-          "start": 66.68,
-          "end": 66.7
-        },
-        {
-          "word": "you",
-          "start": 66.7,
-          "end": 66.88
-        },
-        {
-          "word": "feel",
-          "start": 66.88,
-          "end": 67.34,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 67.34,
-          "end": 67.64,
-          "spoken": true
-        },
-        {
-          "word": "fury",
-          "start": 67.64,
-          "end": 68.16
-        },
-        {
-          "word": "that",
-          "start": 68.16,
-          "end": 68.34
-        },
-        {
-          "word": "has",
-          "start": 68.34,
-          "end": 68.6
-        },
-        {
-          "word": "held",
-          "start": 68.6,
-          "end": 68.82
-        },
-        {
-          "word": "me",
-          "start": 68.82,
-          "end": 69.22
-        },
-        {
-          "word": "back?",
-          "start": 69.22,
-          "end": 69.48
-        }
-      ],
-      "time": 66.68,
-      "end": 69.48
-    },
-    {
-      "text": "Stopped me from seeing the way, but I won't hold back now",
-      "startTime": 69.56,
-      "endTime": 73.1,
-      "words": [
-        {
-          "word": "Stopped",
-          "start": 69.56,
-          "end": 69.8
-        },
-        {
-          "word": "me",
-          "start": 69.8,
-          "end": 70.08
-        },
-        {
-          "word": "from",
-          "start": 70.08,
-          "end": 70.38
-        },
-        {
-          "word": "seeing",
-          "start": 70.38,
-          "end": 70.851
-        },
-        {
-          "word": "the",
-          "start": 70.861,
-          "end": 71.086
-        },
-        {
-          "word": "way,",
-          "start": 71.086,
-          "end": 71.4
-        },
-        {
-          "word": "but",
-          "start": 71.4,
-          "end": 71.58
-        },
-        {
-          "word": "I",
-          "start": 71.58,
-          "end": 71.74
-        },
-        {
-          "word": "won't",
-          "start": 71.74,
-          "end": 71.98
-        },
-        {
-          "word": "hold",
-          "start": 71.98,
-          "end": 72.36
-        },
-        {
-          "word": "back",
-          "start": 72.36,
-          "end": 72.7,
-          "spoken": true
-        },
-        {
-          "word": "now",
-          "start": 72.7,
-          "end": 73.1,
-          "char_starts": [
-            72.7,
-            72.832,
-            73.02
-          ],
-          "spoken": true
-        }
-      ],
-      "time": 69.56,
-      "end": 73.1
-    },
-    {
-      "text": "Can you feel the fury? So please, just let this be",
-      "startTime": 73.12,
-      "endTime": 76.19,
-      "words": [
-        {
-          "word": "Can",
-          "start": 73.12,
-          "end": 73.36
-        },
-        {
-          "word": "you",
-          "start": 73.36,
-          "end": 73.62
-        },
-        {
-          "word": "feel",
-          "start": 73.62,
-          "end": 74.02
-        },
-        {
-          "word": "the",
-          "start": 74.02,
-          "end": 74.28
-        },
-        {
-          "word": "fury?",
-          "start": 74.28,
-          "end": 74.72
-        },
-        {
-          "word": "So",
-          "start": 74.72,
-          "end": 75.02,
-          "spoken": true
-        },
-        {
-          "word": "please,",
-          "start": 75.02,
-          "end": 75.38,
-          "spoken": true
-        },
-        {
-          "word": "just",
-          "start": 75.548,
-          "end": 75.66
-        },
-        {
-          "word": "let",
-          "start": 75.66,
-          "end": 75.78
-        },
-        {
-          "word": "this",
-          "start": 75.78,
-          "end": 75.96
-        },
-        {
-          "word": "be",
-          "start": 75.96,
-          "end": 76.19
-        }
-      ],
-      "time": 73.12,
-      "end": 76.19
-    },
-    {
-      "text": "The way that I can honor their names",
-      "startTime": 76.26,
-      "endTime": 78.48,
-      "words": [
-        {
-          "word": "The",
-          "start": 76.26,
-          "end": 76.44
-        },
-        {
-          "word": "way",
-          "start": 76.44,
-          "end": 76.6
-        },
-        {
-          "word": "that",
-          "start": 76.6,
-          "end": 76.88,
-          "spoken": true
-        },
-        {
-          "word": "I",
-          "start": 76.88,
-          "end": 76.98,
-          "spoken": true
-        },
-        {
-          "word": "can",
-          "start": 76.98,
-          "end": 77.183
-        },
-        {
-          "word": "honor",
-          "start": 77.183,
-          "end": 77.522
-        },
-        {
-          "word": "their",
-          "start": 77.532,
-          "end": 77.86,
-          "spoken": true
-        },
-        {
-          "word": "names",
-          "start": 77.93,
-          "end": 78.48,
-          "spoken": true
-        }
-      ],
-      "time": 76.26,
-      "end": 78.48
-    },
-    {
-      "text": "●",
-      "startTime": 80.5,
-      "endTime": 94.75,
-      "words": [],
-      "type": "vocal_cue",
-      "time": 80.5,
-      "end": 94.75
-    },
-    {
-      "text": "You can't have it all, no matter how much you want it",
-      "startTime": 94.26,
-      "endTime": 96.32,
-      "words": [
-        {
-          "word": "You",
-          "start": 94.26,
-          "end": 94.58
-        },
-        {
-          "word": "can't",
-          "start": 94.58,
-          "end": 94.78,
-          "spoken": true
-        },
-        {
-          "word": "have",
-          "start": 94.78,
-          "end": 94.98,
-          "spoken": true
-        },
-        {
-          "word": "it",
-          "start": 94.98,
-          "end": 95.18,
-          "spoken": true
-        },
-        {
-          "word": "all,",
-          "start": 95.18,
-          "end": 95.28,
-          "spoken": true
-        },
-        {
-          "word": "no",
-          "start": 95.28,
-          "end": 95.46,
-          "spoken": true
-        },
-        {
-          "word": "matter",
-          "start": 95.46,
-          "end": 95.62
-        },
-        {
-          "word": "how",
-          "start": 95.62,
-          "end": 95.8,
-          "spoken": true
-        },
-        {
-          "word": "much",
-          "start": 95.8,
-          "end": 95.94,
-          "spoken": true
-        },
-        {
-          "word": "you",
-          "start": 95.94,
-          "end": 96.14
-        },
-        {
-          "word": "want",
-          "start": 96.14,
-          "end": 96.24
-        },
-        {
-          "word": "it",
-          "start": 96.24,
-          "end": 96.32
-        }
-      ],
-      "time": 94.26,
-      "end": 96.32
-    },
-    {
-      "text": "Some things in life, you just can't flaunt it",
-      "startTime": 96.44,
-      "endTime": 98.15,
-      "words": [
-        {
-          "word": "Some",
-          "start": 96.44,
-          "end": 96.46
-        },
-        {
-          "word": "things",
-          "start": 96.506,
-          "end": 96.7
-        },
-        {
-          "word": "in",
-          "start": 96.7,
-          "end": 96.96
-        },
-        {
-          "word": "life,",
-          "start": 96.96,
-          "end": 97.12
-        },
-        {
-          "word": "you",
-          "start": 97.12,
-          "end": 97.36
-        },
-        {
-          "word": "just",
-          "start": 97.36,
-          "end": 97.58
-        },
-        {
-          "word": "can't",
-          "start": 97.58,
-          "end": 97.94
-        },
-        {
-          "word": "flaunt",
-          "start": 97.94,
-          "end": 98.04
-        },
-        {
-          "word": "it",
-          "start": 98.05,
-          "end": 98.15,
-          "spoken": true
-        }
-      ],
-      "time": 96.44,
-      "end": 98.15
-    },
-    {
-      "text": "I see through, no need for the frontin'",
-      "startTime": 97.98,
-      "endTime": 99.66,
-      "words": [
-        {
-          "word": "I",
-          "start": 97.98,
-          "end": 98.22,
-          "spoken": true
-        },
-        {
-          "word": "see",
-          "start": 98.22,
-          "end": 98.52,
-          "spoken": true
-        },
-        {
-          "word": "through,",
-          "start": 98.613,
-          "end": 98.86,
-          "spoken": true
-        },
-        {
-          "word": "no",
-          "start": 98.86,
-          "end": 99.02
-        },
-        {
-          "word": "need",
-          "start": 99.02,
-          "end": 99.18,
-          "spoken": true
-        },
-        {
-          "word": "for",
-          "start": 99.18,
-          "end": 99.4,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 99.4,
-          "end": 99.54
-        },
-        {
-          "word": "frontin'",
-          "start": 99.54,
-          "end": 99.66
-        }
-      ],
-      "time": 97.98,
-      "end": 99.66
-    },
-    {
-      "text": "You need a mask, that's the only assumption",
-      "startTime": 99.76,
-      "endTime": 101.39,
-      "words": [
-        {
-          "word": "You",
-          "start": 99.76,
-          "end": 99.92
-        },
-        {
-          "word": "need",
-          "start": 99.92,
-          "end": 100.08
-        },
-        {
-          "word": "a",
-          "start": 100.08,
-          "end": 100.26
-        },
-        {
-          "word": "mask,",
-          "start": 100.26,
-          "end": 100.48
-        },
-        {
-          "word": "that's",
-          "start": 100.48,
-          "end": 100.82
-        },
-        {
-          "word": "the",
-          "start": 100.82,
-          "end": 100.921
-        },
-        {
-          "word": "only",
-          "start": 100.931,
-          "end": 101.055
-        },
-        {
-          "word": "assumption",
-          "start": 101.065,
-          "end": 101.39,
-          "spoken": true
-        }
-      ],
-      "time": 99.76,
-      "end": 101.39
-    },
-    {
-      "text": "The truth hits hard, but it's what you need",
-      "startTime": 101.66,
-      "endTime": 102.98,
-      "words": [
-        {
-          "word": "The",
-          "start": 101.66,
-          "end": 101.76,
-          "spoken": true
-        },
-        {
-          "word": "truth",
-          "start": 101.77,
-          "end": 101.87,
-          "spoken": true
-        },
-        {
-          "word": "hits",
-          "start": 101.88,
-          "end": 102,
-          "spoken": true
-        },
-        {
-          "word": "hard,",
-          "start": 102,
-          "end": 102.18,
-          "spoken": true
-        },
-        {
-          "word": "but",
-          "start": 102.18,
-          "end": 102.32
-        },
-        {
-          "word": "it's",
-          "start": 102.32,
-          "end": 102.42
-        },
-        {
-          "word": "what",
-          "start": 102.42,
-          "end": 102.62
-        },
-        {
-          "word": "you",
-          "start": 102.776,
-          "end": 102.88
-        },
-        {
-          "word": "need",
-          "start": 102.88,
-          "end": 102.98
-        }
-      ],
-      "time": 101.66,
-      "end": 102.98
-    },
-    {
-      "text": "Stay steady on your grind, let your actions lead",
-      "startTime": 103.12,
-      "endTime": 104.61,
-      "words": [
-        {
-          "word": "Stay",
-          "start": 103.12,
-          "end": 103.16
-        },
-        {
-          "word": "steady",
-          "start": 103.23,
-          "end": 103.4
-        },
-        {
-          "word": "on",
-          "start": 103.4,
-          "end": 103.52
-        },
-        {
-          "word": "your",
-          "start": 103.52,
-          "end": 103.74
-        },
-        {
-          "word": "grind,",
-          "start": 103.74,
-          "end": 103.927
-        },
-        {
-          "word": "let",
-          "start": 103.937,
-          "end": 104.02
-        },
-        {
-          "word": "your",
-          "start": 104.02,
-          "end": 104.16
-        },
-        {
-          "word": "actions",
-          "start": 104.16,
-          "end": 104.44
-        },
-        {
-          "word": "lead",
-          "start": 104.44,
-          "end": 104.61
-        }
-      ],
-      "time": 103.12,
-      "end": 104.61
-    },
-    {
-      "text": "No time for the fake, I'm too busy stayin' true",
-      "startTime": 104.7,
-      "endTime": 106.28,
-      "words": [
-        {
-          "word": "No",
-          "start": 104.7,
-          "end": 104.94
-        },
-        {
-          "word": "time",
-          "start": 104.94,
-          "end": 105.1,
-          "spoken": true
-        },
-        {
-          "word": "for",
-          "start": 105.1,
-          "end": 105.26,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 105.26,
-          "end": 105.4,
-          "spoken": true
-        },
-        {
-          "word": "fake,",
-          "start": 105.4,
-          "end": 105.44
-        },
-        {
-          "word": "I'm",
-          "start": 105.44,
-          "end": 105.56
-        },
-        {
-          "word": "too",
-          "start": 105.68,
-          "end": 105.76
-        },
-        {
-          "word": "busy",
-          "start": 105.76,
-          "end": 105.92,
-          "spoken": true
-        },
-        {
-          "word": "stayin'",
-          "start": 105.92,
-          "end": 106.18,
-          "spoken": true
-        },
-        {
-          "word": "true",
-          "start": 106.18,
-          "end": 106.28,
-          "spoken": true
-        }
-      ],
-      "time": 104.7,
-      "end": 106.28
-    },
-    {
-      "text": "Keep it real, real, real",
-      "startTime": 106.42,
-      "endTime": 108.2,
-      "words": [
-        {
-          "word": "Keep",
-          "start": 106.42,
-          "end": 106.5
-        },
-        {
-          "word": "it",
-          "start": 106.5,
-          "end": 106.72
-        },
-        {
-          "word": "real,",
-          "start": 107.02,
-          "end": 107.22
-        },
-        {
-          "word": "real,",
-          "start": 107.22,
-          "end": 107.9,
-          "char_starts": [
-            107.22,
-            107.302,
-            107.428,
-            107.58,
-            107.75
-          ]
-        },
-        {
-          "word": "real",
-          "start": 107.9,
-          "end": 108.2
-        }
-      ],
-      "time": 106.42,
-      "end": 108.2
-    },
-    {
-      "text": "Time's ticking low, let's go another round",
-      "startTime": 108.21,
-      "endTime": 109.65,
-      "words": [
-        {
-          "word": "Time's",
-          "start": 108.21,
-          "end": 108.473,
-          "spoken": true
-        },
-        {
-          "word": "ticking",
-          "start": 108.473,
-          "end": 108.78,
-          "spoken": true
-        },
-        {
-          "word": "low,",
-          "start": 108.78,
-          "end": 108.9
-        },
-        {
-          "word": "let's",
-          "start": 108.9,
-          "end": 109.16
-        },
-        {
-          "word": "go",
-          "start": 109.16,
-          "end": 109.28,
-          "spoken": true
-        },
-        {
-          "word": "another",
-          "start": 109.28,
-          "end": 109.48,
-          "spoken": true
-        },
-        {
-          "word": "round",
-          "start": 109.48,
-          "end": 109.65,
-          "spoken": true
-        }
-      ],
-      "time": 108.21,
-      "end": 109.65
-    },
-    {
-      "text": "Victory in sight, hear that champion sound",
-      "startTime": 109.66,
-      "endTime": 111.39,
-      "words": [
-        {
-          "word": "Victory",
-          "start": 109.977,
-          "end": 110.189
-        },
-        {
-          "word": "in",
-          "start": 110.199,
-          "end": 110.34
-        },
-        {
-          "word": "sight,",
-          "start": 110.34,
-          "end": 110.62
-        },
-        {
-          "word": "hear",
-          "start": 110.62,
-          "end": 110.66
-        },
-        {
-          "word": "that",
-          "start": 110.66,
-          "end": 110.84
-        },
-        {
-          "word": "champion",
-          "start": 110.84,
-          "end": 111.18,
-          "spoken": true
-        },
-        {
-          "word": "sound",
-          "start": 111.18,
-          "end": 111.39,
-          "spoken": true
-        }
-      ],
-      "time": 109.66,
-      "end": 111.39
-    },
-    {
-      "text": "Fueling up the fire, you can't keep me down",
-      "startTime": 111.4,
-      "endTime": 113.22,
-      "words": [
-        {
-          "word": "Fueling",
-          "start": 111.47,
-          "end": 111.812
-        },
-        {
-          "word": "up",
-          "start": 111.822,
-          "end": 111.929
-        },
-        {
-          "word": "the",
-          "start": 111.929,
-          "end": 112.106,
-          "spoken": true
-        },
-        {
-          "word": "fire,",
-          "start": 112.116,
-          "end": 112.4,
-          "spoken": true
-        },
-        {
-          "word": "you",
-          "start": 112.4,
-          "end": 112.54,
-          "spoken": true
-        },
-        {
-          "word": "can't",
-          "start": 112.672,
-          "end": 112.76,
-          "spoken": true
-        },
-        {
-          "word": "keep",
-          "start": 112.76,
-          "end": 112.9,
-          "spoken": true
-        },
-        {
-          "word": "me",
-          "start": 112.9,
-          "end": 113.12,
-          "spoken": true
-        },
-        {
-          "word": "down",
-          "start": 113.12,
-          "end": 113.22
-        }
-      ],
-      "time": 111.4,
-      "end": 113.22
-    },
-    {
-      "text": "Push past my limits turning fate all around",
-      "startTime": 113.03,
-      "endTime": 114.88,
-      "words": [
-        {
-          "word": "Push",
-          "start": 113.03,
-          "end": 113.251
-        },
-        {
-          "word": "past",
-          "start": 113.261,
-          "end": 113.472
-        },
-        {
-          "word": "my",
-          "start": 113.482,
-          "end": 113.582
-        },
-        {
-          "word": "limits",
-          "start": 113.582,
-          "end": 113.913
-        },
-        {
-          "word": "turning",
-          "start": 113.913,
-          "end": 114.3
-        },
-        {
-          "word": "fate",
-          "start": 114.3,
-          "end": 114.4,
-          "spoken": true
-        },
-        {
-          "word": "all",
-          "start": 114.4,
-          "end": 114.66,
-          "spoken": true
-        },
-        {
-          "word": "around",
-          "start": 114.66,
-          "end": 114.88,
-          "spoken": true
-        }
-      ],
-      "time": 113.03,
-      "end": 114.88
-    },
-    {
-      "text": "Left right, left right, left right, down",
-      "startTime": 114.88,
-      "endTime": 116.84,
-      "words": [
-        {
-          "word": "Left",
-          "start": 115.043,
-          "end": 115.3,
-          "spoken": true
-        },
-        {
-          "word": "right,",
-          "start": 115.3,
-          "end": 115.5,
-          "spoken": true
-        },
-        {
-          "word": "left",
-          "start": 115.5,
-          "end": 115.66,
-          "spoken": true
-        },
-        {
-          "word": "right,",
-          "start": 115.66,
-          "end": 115.92,
-          "spoken": true
-        },
-        {
-          "word": "left",
-          "start": 115.92,
-          "end": 116.1,
-          "spoken": true
-        },
-        {
-          "word": "right,",
-          "start": 116.1,
-          "end": 116.36,
-          "spoken": true
-        },
-        {
-          "word": "down",
-          "start": 116.648,
-          "end": 116.84
-        }
-      ],
-      "time": 114.88,
-      "end": 116.84
-    },
-    {
-      "text": "Left right, left right, left right, down",
-      "startTime": 116.84,
-      "endTime": 118.14,
-      "words": [
-        {
-          "word": "Left",
-          "start": 116.84,
-          "end": 117.04,
-          "spoken": true
-        },
-        {
-          "word": "right,",
-          "start": 117.04,
-          "end": 117.18,
-          "spoken": true
-        },
-        {
-          "word": "left",
-          "start": 117.3,
-          "end": 117.38,
-          "spoken": true
-        },
-        {
-          "word": "right,",
-          "start": 117.38,
-          "end": 117.58,
-          "spoken": true
-        },
-        {
-          "word": "left",
-          "start": 117.58,
-          "end": 117.78,
-          "spoken": true
-        },
-        {
-          "word": "right,",
-          "start": 117.78,
-          "end": 118.04
-        },
-        {
-          "word": "down",
-          "start": 118.04,
-          "end": 118.14
-        }
-      ],
-      "time": 116.84,
-      "end": 118.14
-    },
-    {
-      "text": "If you think this is over, you're wrong",
-      "startTime": 118.32,
-      "endTime": 119.85,
-      "words": [
-        {
-          "word": "If",
-          "start": 118.32,
-          "end": 118.42
-        },
-        {
-          "word": "you",
-          "start": 118.43,
-          "end": 118.46
-        },
-        {
-          "word": "think",
-          "start": 118.46,
-          "end": 118.68
-        },
-        {
-          "word": "this",
-          "start": 118.68,
-          "end": 118.92
-        },
-        {
-          "word": "is",
-          "start": 118.92,
-          "end": 119.18
-        },
-        {
-          "word": "over,",
-          "start": 119.18,
-          "end": 119.36
-        },
-        {
-          "word": "you're",
-          "start": 119.36,
-          "end": 119.66
-        },
-        {
-          "word": "wrong",
-          "start": 119.66,
-          "end": 119.85
-        }
-      ],
-      "time": 118.32,
-      "end": 119.85
-    },
-    {
-      "text": "We're just getting started",
-      "startTime": 119.96,
-      "endTime": 120.83,
-      "words": [
-        {
-          "word": "We're",
-          "start": 119.96,
-          "end": 120.22,
-          "spoken": true
-        },
-        {
-          "word": "just",
-          "start": 120.22,
-          "end": 120.48,
-          "spoken": true
-        },
-        {
-          "word": "getting",
-          "start": 120.48,
-          "end": 120.76,
-          "spoken": true
-        },
-        {
-          "word": "started",
-          "start": 120.76,
-          "end": 120.83,
-          "spoken": true
-        }
-      ],
-      "time": 119.96,
-      "end": 120.83
-    },
-    {
-      "text": "Can you feel the fury, that primal rage?",
-      "startTime": 121.42,
-      "endTime": 123.54,
-      "words": [
-        {
-          "word": "Can",
-          "start": 121.42,
-          "end": 121.52
-        },
-        {
-          "word": "you",
-          "start": 121.59,
-          "end": 121.63
-        },
-        {
-          "word": "feel",
-          "start": 121.64,
-          "end": 121.74
-        },
-        {
-          "word": "the",
-          "start": 121.75,
-          "end": 121.85
-        },
-        {
-          "word": "fury,",
-          "start": 121.86,
-          "end": 122.5,
-          "char_starts": [
-            121.86,
-            121.937,
-            122.056,
-            122.199,
-            122.359
-          ]
-        },
-        {
-          "word": "that",
-          "start": 122.5,
-          "end": 122.64
-        },
-        {
-          "word": "primal",
-          "start": 122.64,
-          "end": 123.24
-        },
-        {
-          "word": "rage?",
-          "start": 123.24,
-          "end": 123.54
-        }
-      ],
-      "time": 121.42,
-      "end": 123.54
-    },
-    {
-      "text": "It holds me back every day, this urge with no release",
-      "startTime": 123.63,
-      "endTime": 127.409,
-      "words": [
-        {
-          "word": "It",
-          "start": 123.63,
-          "end": 123.98,
-          "spoken": true
-        },
-        {
-          "word": "holds",
-          "start": 123.98,
-          "end": 124.08
-        },
-        {
-          "word": "me",
-          "start": 124.08,
-          "end": 124.32
-        },
-        {
-          "word": "back",
-          "start": 124.32,
-          "end": 124.54
-        },
-        {
-          "word": "every",
-          "start": 124.54,
-          "end": 125.02
-        },
-        {
-          "word": "day,",
-          "start": 125.02,
-          "end": 127,
-          "char_starts": [
-            125.02,
-            125.317,
-            125.768,
-            126.309
-          ]
-        },
-        {
-          "word": "this",
-          "start": 127,
-          "end": 127.24
-        },
-        {
-          "word": "urge",
-          "start": 127.24,
-          "end": 127.264
-        },
-        {
-          "word": "with",
-          "start": 127.274,
-          "end": 127.287
-        },
-        {
-          "word": "no",
-          "start": 127.287,
-          "end": 127.299
-        },
-        {
-          "word": "release",
-          "start": 127.309,
-          "end": 127.409
-        }
-      ],
-      "time": 123.63,
-      "end": 127.409
-    },
-    {
-      "text": "Will you feel the fury and show me what was taken",
-      "startTime": 127.14,
-      "endTime": 130.51,
-      "words": [
-        {
-          "word": "Will",
-          "start": 127.14,
-          "end": 127.54,
-          "spoken": true
-        },
-        {
-          "word": "you",
-          "start": 127.54,
-          "end": 127.84
-        },
-        {
-          "word": "feel",
-          "start": 127.84,
-          "end": 128.1
-        },
-        {
-          "word": "the",
-          "start": 128.1,
-          "end": 128.42
-        },
-        {
-          "word": "fury",
-          "start": 128.42,
-          "end": 128.9
-        },
-        {
-          "word": "and",
-          "start": 128.9,
-          "end": 129.06
-        },
-        {
-          "word": "show",
-          "start": 129.06,
-          "end": 129.14
-        },
-        {
-          "word": "me",
-          "start": 129.14,
-          "end": 129.36
-        },
-        {
-          "word": "what",
-          "start": 129.36,
-          "end": 129.743
-        },
-        {
-          "word": "was",
-          "start": 129.743,
-          "end": 130.031
-        },
-        {
-          "word": "taken",
-          "start": 130.041,
-          "end": 130.51
-        }
-      ],
-      "time": 127.14,
-      "end": 130.51
-    },
-    {
-      "text": "Shaken, that had made you this way?",
-      "startTime": 131.05,
-      "endTime": 133.764,
-      "words": [
-        {
-          "word": "Shaken,",
-          "start": 131.05,
-          "end": 131.4
-        },
-        {
-          "word": "that",
-          "start": 131.4,
-          "end": 131.76
-        },
-        {
-          "word": "had",
-          "start": 131.76,
-          "end": 132.08
-        },
-        {
-          "word": "made",
-          "start": 132.08,
-          "end": 132.4
-        },
-        {
-          "word": "you",
-          "start": 132.4,
-          "end": 132.727
-        },
-        {
-          "word": "this",
-          "start": 132.727,
-          "end": 133.164
-        },
-        {
-          "word": "way?",
-          "start": 133.174,
-          "end": 133.764,
-          "char_starts": [
-            133.174,
-            133.278,
-            133.44,
-            133.634
-          ]
-        }
-      ],
-      "time": 131.05,
-      "end": 133.764
-    },
-    {
-      "text": "Can you feel the fury that has held me back?",
-      "startTime": 134.08,
-      "endTime": 137.06,
-      "words": [
-        {
-          "word": "Can",
-          "start": 134.08,
-          "end": 134.26
-        },
-        {
-          "word": "you",
-          "start": 134.26,
-          "end": 134.5,
-          "spoken": true
-        },
-        {
-          "word": "feel",
-          "start": 134.5,
-          "end": 134.94,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 134.94,
-          "end": 135.22
-        },
-        {
-          "word": "fury",
-          "start": 135.22,
-          "end": 135.82
-        },
-        {
-          "word": "that",
-          "start": 135.82,
-          "end": 135.94
-        },
-        {
-          "word": "has",
-          "start": 135.94,
-          "end": 136.24
-        },
-        {
-          "word": "held",
-          "start": 136.24,
-          "end": 136.538
-        },
-        {
-          "word": "me",
-          "start": 136.538,
-          "end": 136.687
-        },
-        {
-          "word": "back?",
-          "start": 136.687,
-          "end": 137.06
-        }
-      ],
-      "time": 134.08,
-      "end": 137.06
-    },
-    {
-      "text": "Stopped me from seeing the way, but I won't hold back now",
-      "startTime": 137.06,
-      "endTime": 140.56,
-      "words": [
-        {
-          "word": "Stopped",
-          "start": 137.06,
-          "end": 137.594
-        },
-        {
-          "word": "me",
-          "start": 137.594,
-          "end": 137.747
-        },
-        {
-          "word": "from",
-          "start": 137.747,
-          "end": 138.052
-        },
-        {
-          "word": "seeing",
-          "start": 138.052,
-          "end": 138.51
-        },
-        {
-          "word": "the",
-          "start": 138.51,
-          "end": 138.739
-        },
-        {
-          "word": "way,",
-          "start": 138.739,
-          "end": 139.044,
-          "spoken": true
-        },
-        {
-          "word": "but",
-          "start": 139.044,
-          "end": 139.273,
-          "spoken": true
-        },
-        {
-          "word": "I",
-          "start": 139.273,
-          "end": 139.373,
-          "spoken": true
-        },
-        {
-          "word": "won't",
-          "start": 139.373,
-          "end": 139.754
-        },
-        {
-          "word": "hold",
-          "start": 139.754,
-          "end": 140.06
-        },
-        {
-          "word": "back",
-          "start": 140.06,
-          "end": 140.365,
-          "spoken": true
-        },
-        {
-          "word": "now",
-          "start": 140.365,
-          "end": 140.56,
-          "spoken": true
-        }
-      ],
-      "time": 137.06,
-      "end": 140.56
-    },
-    {
-      "text": "Can you feel the fury? So please, just let this be",
-      "startTime": 140.57,
-      "endTime": 143.8,
-      "words": [
-        {
-          "word": "Can",
-          "start": 140.57,
-          "end": 140.812,
-          "spoken": true
-        },
-        {
-          "word": "you",
-          "start": 140.812,
-          "end": 141.055,
-          "spoken": true
-        },
-        {
-          "word": "feel",
-          "start": 141.055,
-          "end": 141.378,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 141.378,
-          "end": 141.62,
-          "spoken": true
-        },
-        {
-          "word": "fury?",
-          "start": 141.62,
-          "end": 142.024
-        },
-        {
-          "word": "So",
-          "start": 142.024,
-          "end": 142.185
-        },
-        {
-          "word": "please,",
-          "start": 142.524,
-          "end": 142.75,
-          "spoken": true
-        },
-        {
-          "word": "just",
-          "start": 142.75,
-          "end": 143.073
-        },
-        {
-          "word": "let",
-          "start": 143.073,
-          "end": 143.316
-        },
-        {
-          "word": "this",
-          "start": 143.316,
-          "end": 143.639,
-          "spoken": true
-        },
-        {
-          "word": "be",
-          "start": 143.639,
-          "end": 143.8
-        }
-      ],
-      "time": 140.57,
-      "end": 143.8
-    },
-    {
-      "text": "The way that I can honor their names",
-      "startTime": 143.8,
-      "endTime": 148.15,
-      "words": [
-        {
-          "word": "The",
-          "start": 143.8,
-          "end": 144.25
-        },
-        {
-          "word": "way",
-          "start": 144.25,
-          "end": 144.7,
-          "spoken": true
-        },
-        {
-          "word": "that",
-          "start": 144.7,
-          "end": 145.3,
-          "spoken": true
-        },
-        {
-          "word": "I",
-          "start": 145.3,
-          "end": 145.45,
-          "spoken": true
-        },
-        {
-          "word": "can",
-          "start": 145.45,
-          "end": 145.9,
-          "spoken": true
-        },
-        {
-          "word": "honor",
-          "start": 145.9,
-          "end": 146.65,
-          "char_starts": [
-            145.9,
-            145.99,
-            146.129,
-            146.297,
-            146.485
-          ],
-          "spoken": true
-        },
-        {
-          "word": "their",
-          "start": 146.72,
-          "end": 147.4,
-          "char_starts": [
-            146.72,
-            146.802,
-            146.925,
-            147.071,
-            147.236
-          ],
-          "sung": true,
-          "stretch": true
-        },
-        {
-          "word": "names",
-          "start": 147.4,
-          "end": 148.15,
-          "char_starts": [
-            147.4,
-            147.49,
-            147.629,
-            147.797,
-            147.985
-          ],
-          "sung": true,
-          "stretch": true
-        }
-      ],
-      "time": 143.8,
-      "end": 148.15
-    },
-    {
-      "text": "●",
-      "startTime": 148.1,
-      "endTime": 174.8,
-      "words": [],
-      "type": "vocal_cue",
-      "time": 148.1,
-      "end": 174.8
-    },
-    {
-      "text": "Can you feel the fury, that primal rage?",
-      "startTime": 174.8,
-      "endTime": 177.65,
-      "words": [
-        {
-          "word": "Can",
-          "start": 174.955,
-          "end": 175.059
-        },
-        {
-          "word": "you",
-          "start": 175.059,
-          "end": 175.318
-        },
-        {
-          "word": "feel",
-          "start": 175.318,
-          "end": 175.664
-        },
-        {
-          "word": "the",
-          "start": 175.664,
-          "end": 175.923
-        },
-        {
-          "word": "fury,",
-          "start": 175.923,
-          "end": 176.355
-        },
-        {
-          "word": "that",
-          "start": 176.355,
-          "end": 176.7
-        },
-        {
-          "word": "primal",
-          "start": 176.7,
-          "end": 177.218
-        },
-        {
-          "word": "rage?",
-          "start": 177.218,
-          "end": 177.65
-        }
-      ],
-      "time": 174.8,
-      "end": 177.65
-    },
-    {
-      "text": "It holds me back every day, this urge with no release",
-      "startTime": 177.65,
-      "endTime": 181.2,
-      "words": [
-        {
-          "word": "It",
-          "start": 177.749,
-          "end": 177.815
-        },
-        {
-          "word": "holds",
-          "start": 177.815,
-          "end": 178.228
-        },
-        {
-          "word": "me",
-          "start": 178.228,
-          "end": 178.393
-        },
-        {
-          "word": "back",
-          "start": 178.393,
-          "end": 178.723
-        },
-        {
-          "word": "every",
-          "start": 178.723,
-          "end": 179.136
-        },
-        {
-          "word": "day,",
-          "start": 179.136,
-          "end": 179.466
-        },
-        {
-          "word": "this",
-          "start": 179.466,
-          "end": 179.797
-        },
-        {
-          "word": "urge",
-          "start": 179.797,
-          "end": 180.127
-        },
-        {
-          "word": "with",
-          "start": 180.127,
-          "end": 180.457
-        },
-        {
-          "word": "no",
-          "start": 180.457,
-          "end": 180.622
-        },
-        {
-          "word": "release",
-          "start": 180.622,
-          "end": 181.2
-        }
-      ],
-      "time": 177.65,
-      "end": 181.2
-    },
-    {
-      "text": "Will you feel the fury and show me what was taken",
-      "startTime": 181.2,
-      "endTime": 184.57,
-      "words": [
-        {
-          "word": "Will",
-          "start": 181.2,
-          "end": 181.546,
-          "spoken": true
-        },
-        {
-          "word": "you",
-          "start": 181.546,
-          "end": 181.805,
-          "spoken": true
-        },
-        {
-          "word": "feel",
-          "start": 181.805,
-          "end": 182.151,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 182.151,
-          "end": 182.41
-        },
-        {
-          "word": "fury",
-          "start": 182.41,
-          "end": 182.755
-        },
-        {
-          "word": "and",
-          "start": 182.755,
-          "end": 183.015
-        },
-        {
-          "word": "show",
-          "start": 183.015,
-          "end": 183.36
-        },
-        {
-          "word": "me",
-          "start": 183.36,
-          "end": 183.533
-        },
-        {
-          "word": "what",
-          "start": 183.533,
-          "end": 183.879
-        },
-        {
-          "word": "was",
-          "start": 183.879,
-          "end": 184.138
-        },
-        {
-          "word": "taken",
-          "start": 184.138,
-          "end": 184.57
-        }
-      ],
-      "time": 181.2,
-      "end": 184.57
-    },
-    {
-      "text": "Shaken, that had made you this way?",
-      "startTime": 184.57,
-      "endTime": 188.3,
-      "words": [
-        {
-          "word": "Shaken,",
-          "start": 184.57,
-          "end": 185.47,
-          "char_starts": [
-            184.57,
-            184.647,
-            184.743,
-            184.857,
-            184.986,
-            185.126,
-            185.276
-          ]
-        },
-        {
-          "word": "that",
-          "start": 185.47,
-          "end": 185.985
-        },
-        {
-          "word": "had",
-          "start": 185.985,
-          "end": 186.371
-        },
-        {
-          "word": "made",
-          "start": 186.371,
-          "end": 186.885
-        },
-        {
-          "word": "you",
-          "start": 186.885,
-          "end": 187.271
-        },
-        {
-          "word": "this",
-          "start": 187.271,
-          "end": 187.786
-        },
-        {
-          "word": "way?",
-          "start": 187.786,
-          "end": 188.3,
-          "char_starts": [
-            187.786,
-            187.877,
-            188.018,
-            188.187
-          ]
-        }
-      ],
-      "time": 184.57,
-      "end": 188.3
-    },
-    {
-      "text": "Can you feel the fury that has held me back?",
-      "startTime": 188.3,
-      "endTime": 191.25,
-      "words": [
-        {
-          "word": "Can",
-          "start": 188.37,
-          "end": 188.553,
-          "spoken": true
-        },
-        {
-          "word": "you",
-          "start": 188.553,
-          "end": 188.806,
-          "spoken": true
-        },
-        {
-          "word": "feel",
-          "start": 188.806,
-          "end": 189.143
-        },
-        {
-          "word": "the",
-          "start": 189.143,
-          "end": 189.396
-        },
-        {
-          "word": "fury",
-          "start": 189.396,
-          "end": 189.733
-        },
-        {
-          "word": "that",
-          "start": 189.733,
-          "end": 190.07
-        },
-        {
-          "word": "has",
-          "start": 190.07,
-          "end": 190.323
-        },
-        {
-          "word": "held",
-          "start": 190.509,
-          "end": 190.66
-        },
-        {
-          "word": "me",
-          "start": 190.66,
-          "end": 190.829
-        },
-        {
-          "word": "back?",
-          "start": 190.829,
-          "end": 191.25
-        }
-      ],
-      "time": 188.3,
-      "end": 191.25
-    },
-    {
-      "text": "Stopped me from seeing the way, but I won't hold back now",
-      "startTime": 191.25,
-      "endTime": 194.75,
-      "words": [
-        {
-          "word": "Stopped",
-          "start": 191.25,
-          "end": 191.784
-        },
-        {
-          "word": "me",
-          "start": 191.784,
-          "end": 191.937,
-          "spoken": true
-        },
-        {
-          "word": "from",
-          "start": 191.937,
-          "end": 192.242,
-          "spoken": true
-        },
-        {
-          "word": "seeing",
-          "start": 192.242,
-          "end": 192.7
-        },
-        {
-          "word": "the",
-          "start": 192.7,
-          "end": 192.929
-        },
-        {
-          "word": "way,",
-          "start": 192.929,
-          "end": 193.234
-        },
-        {
-          "word": "but",
-          "start": 193.234,
-          "end": 193.463
-        },
-        {
-          "word": "I",
-          "start": 193.463,
-          "end": 193.563
-        },
-        {
-          "word": "won't",
-          "start": 193.563,
-          "end": 193.944
-        },
-        {
-          "word": "hold",
-          "start": 193.944,
-          "end": 194.25
-        },
-        {
-          "word": "back",
-          "start": 194.25,
-          "end": 194.555
-        },
-        {
-          "word": "now",
-          "start": 194.555,
-          "end": 194.75
-        }
-      ],
-      "time": 191.25,
-      "end": 194.75
-    },
-    {
-      "text": "Can you feel the fury? So please, just let this be",
-      "startTime": 194.76,
-      "endTime": 197.74,
-      "words": [
-        {
-          "word": "Can",
-          "start": 194.76,
-          "end": 194.983,
-          "spoken": true
-        },
-        {
-          "word": "you",
-          "start": 194.983,
-          "end": 195.207,
-          "spoken": true
-        },
-        {
-          "word": "feel",
-          "start": 195.207,
-          "end": 195.505,
-          "spoken": true
-        },
-        {
-          "word": "the",
-          "start": 195.505,
-          "end": 195.728
-        },
-        {
-          "word": "fury?",
-          "start": 195.728,
-          "end": 196.101
-        },
-        {
-          "word": "So",
-          "start": 196.101,
-          "end": 196.25
-        },
-        {
-          "word": "please,",
-          "start": 196.25,
-          "end": 196.772
-        },
-        {
-          "word": "just",
-          "start": 196.772,
-          "end": 197.07
-        },
-        {
-          "word": "let",
-          "start": 197.07,
-          "end": 197.293
-        },
-        {
-          "word": "this",
-          "start": 197.293,
-          "end": 197.591
-        },
-        {
-          "word": "be",
-          "start": 197.591,
-          "end": 197.74
-        }
-      ],
-      "time": 194.76,
-      "end": 197.74
-    },
-    {
-      "text": "The way that I can honor their names",
-      "startTime": 197.74,
-      "endTime": 201.02,
-      "words": [
-        {
-          "word": "The",
-          "start": 197.74,
-          "end": 198.079
-        },
-        {
-          "word": "way",
-          "start": 198.079,
-          "end": 198.419
-        },
-        {
-          "word": "that",
-          "start": 198.419,
-          "end": 198.871
-        },
-        {
-          "word": "I",
-          "start": 198.871,
-          "end": 198.984
-        },
-        {
-          "word": "can",
-          "start": 198.984,
-          "end": 199.323
-        },
-        {
-          "word": "honor",
-          "start": 199.323,
-          "end": 199.889,
-          "spoken": true
-        },
-        {
-          "word": "their",
-          "start": 199.889,
-          "end": 200.454,
-          "spoken": true
-        },
-        {
-          "word": "names",
-          "start": 200.454,
-          "end": 201.02,
-          "spoken": true
-        }
-      ],
-      "time": 197.74,
-      "end": 201.02
-    },
-    {
-      "text": "Oh, oh",
-      "startTime": 201.02,
-      "endTime": 201.77,
-      "words": [
-        {
-          "word": "Oh,",
-          "start": 201.02,
-          "end": 201.47
-        },
-        {
-          "word": "oh",
-          "start": 201.47,
-          "end": 201.77
-        }
-      ],
-      "time": 201.02,
-      "end": 201.77
-    },
-    {
-      "text": "Can you feel the fury?",
-      "startTime": 229.82,
-      "endTime": 232.52,
-      "words": [
-        {
-          "word": "Can",
-          "start": 229.82,
-          "end": 230.27,
-          "whisper": true
-        },
-        {
-          "word": "you",
-          "start": 230.27,
-          "end": 230.72,
-          "whisper": true
-        },
-        {
-          "word": "feel",
-          "start": 230.72,
-          "end": 231.32,
-          "whisper": true
-        },
-        {
-          "word": "the",
-          "start": 231.32,
-          "end": 231.77,
-          "whisper": true
-        },
-        {
-          "word": "fury?",
-          "start": 231.77,
-          "end": 232.52,
-          "char_starts": [
-            231.77,
-            231.86,
-            231.999,
-            232.167,
-            232.355
-          ],
-          "whisper": true
-        }
-      ],
-      "time": 229.82,
-      "end": 232.52
-    }
-  ]
-}
+[
+  {
+    "text": "C'mon, bring it!",
+    "startTime": 12.65,
+    "endTime": 13.88,
+    "time": 12.65,
+    "end": 13.88
+  },
+  {
+    "text": "How are you him? Can you please explain it?",
+    "startTime": 27,
+    "endTime": 28.64,
+    "time": 27,
+    "end": 28.64
+  },
+  {
+    "text": "No matter who you are, you just cannot fake it",
+    "startTime": 28.65,
+    "endTime": 30.33,
+    "time": 28.65,
+    "end": 30.33
+  },
+  {
+    "text": "Livin' on the edge of reality",
+    "startTime": 30.33,
+    "endTime": 31.92,
+    "time": 30.33,
+    "end": 31.92
+  },
+  {
+    "text": "If you mess with my friends, you gonna mess with me",
+    "startTime": 32.02,
+    "endTime": 33.93,
+    "time": 32.02,
+    "end": 33.93
+  },
+  {
+    "text": "You destroy my home, you invade this land",
+    "startTime": 33.93,
+    "endTime": 35.51,
+    "time": 33.93,
+    "end": 35.51
+  },
+  {
+    "text": "Listen real close so you understand",
+    "startTime": 35.72,
+    "endTime": 37.14,
+    "time": 35.72,
+    "end": 37.14
+  },
+  {
+    "text": "Tougher than leather, we in this together",
+    "startTime": 37.4,
+    "endTime": 38.75,
+    "time": 37.4,
+    "end": 38.75
+  },
+  {
+    "text": "You're never gonna win, team Knuckles forever!",
+    "startTime": 38.9,
+    "endTime": 40.76,
+    "time": 38.9,
+    "end": 40.76
+  },
+  {
+    "text": "Pick up the pace, let me see what you got now",
+    "startTime": 40.78,
+    "endTime": 42.32,
+    "time": 40.78,
+    "end": 42.32
+  },
+  {
+    "text": "Keep it real short, this will end, that's my vow",
+    "startTime": 42.21,
+    "endTime": 44.03,
+    "time": 42.21,
+    "end": 44.03
+  },
+  {
+    "text": "No time for the fake, only real ones allowed",
+    "startTime": 44.04,
+    "endTime": 45.61,
+    "time": 44.04,
+    "end": 45.61
+  },
+  {
+    "text": "Stand in my way, watch me tear through the crowd",
+    "startTime": 45.74,
+    "endTime": 47.42,
+    "time": 45.74,
+    "end": 47.42
+  },
+  {
+    "text": "Left right, left right, left right, down",
+    "startTime": 47.64,
+    "endTime": 49.16,
+    "time": 47.64,
+    "end": 49.16
+  },
+  {
+    "text": "Left right, left right, left right, down",
+    "startTime": 49.16,
+    "endTime": 50.92,
+    "time": 49.16,
+    "end": 50.92
+  },
+  {
+    "text": "You got another thing coming if you think I'll quit",
+    "startTime": 51.04,
+    "endTime": 53.25,
+    "time": 51.04,
+    "end": 53.25
+  },
+  {
+    "text": "Can you feel the fury, that primal rage?",
+    "startTime": 53.26,
+    "endTime": 55.9,
+    "time": 53.26,
+    "end": 55.9
+  },
+  {
+    "text": "It holds me back every day, this urge with no release",
+    "startTime": 56.3,
+    "endTime": 59.549,
+    "time": 56.3,
+    "end": 59.549
+  },
+  {
+    "text": "Will you feel the fury and show me what was taken",
+    "startTime": 59.74,
+    "endTime": 63.07,
+    "time": 59.74,
+    "end": 63.07
+  },
+  {
+    "text": "Shaken, that had made you this way?",
+    "startTime": 63.47,
+    "endTime": 66.164,
+    "time": 63.47,
+    "end": 66.164
+  },
+  {
+    "text": "Can you feel the fury that has held me back?",
+    "startTime": 66.68,
+    "endTime": 69.48,
+    "time": 66.68,
+    "end": 69.48
+  },
+  {
+    "text": "Stopped me from seeing the way, but I won't hold back now",
+    "startTime": 69.56,
+    "endTime": 73.1,
+    "time": 69.56,
+    "end": 73.1
+  },
+  {
+    "text": "Can you feel the fury? So please, just let this be",
+    "startTime": 73.12,
+    "endTime": 76.19,
+    "time": 73.12,
+    "end": 76.19
+  },
+  {
+    "text": "The way that I can honor their names",
+    "startTime": 76.26,
+    "endTime": 78.48,
+    "time": 76.26,
+    "end": 78.48
+  },
+  {
+    "text": "You can't have it all, no matter how much you want it",
+    "startTime": 94.26,
+    "endTime": 96.32,
+    "time": 94.26,
+    "end": 96.32
+  },
+  {
+    "text": "Some things in life, you just can't flaunt it",
+    "startTime": 96.44,
+    "endTime": 98.15,
+    "time": 96.44,
+    "end": 98.15
+  },
+  {
+    "text": "I see through, no need for the frontin'",
+    "startTime": 97.98,
+    "endTime": 99.66,
+    "time": 97.98,
+    "end": 99.66
+  },
+  {
+    "text": "You need a mask, that's the only assumption",
+    "startTime": 99.76,
+    "endTime": 101.39,
+    "time": 99.76,
+    "end": 101.39
+  },
+  {
+    "text": "The truth hits hard, but it's what you need",
+    "startTime": 101.66,
+    "endTime": 102.98,
+    "time": 101.66,
+    "end": 102.98
+  },
+  {
+    "text": "Stay steady on your grind, let your actions lead",
+    "startTime": 103.12,
+    "endTime": 104.61,
+    "time": 103.12,
+    "end": 104.61
+  },
+  {
+    "text": "No time for the fake, I'm too busy stayin' true",
+    "startTime": 104.7,
+    "endTime": 106.28,
+    "time": 104.7,
+    "end": 106.28
+  },
+  {
+    "text": "Keep it real, real, real",
+    "startTime": 106.42,
+    "endTime": 108.2,
+    "time": 106.42,
+    "end": 108.2
+  },
+  {
+    "text": "Time's ticking low, let's go another round",
+    "startTime": 108.21,
+    "endTime": 109.65,
+    "time": 108.21,
+    "end": 109.65
+  },
+  {
+    "text": "Victory in sight, hear that champion sound",
+    "startTime": 109.66,
+    "endTime": 111.39,
+    "time": 109.66,
+    "end": 111.39
+  },
+  {
+    "text": "Fueling up the fire, you can't keep me down",
+    "startTime": 111.4,
+    "endTime": 113.22,
+    "time": 111.4,
+    "end": 113.22
+  },
+  {
+    "text": "Push past my limits turning fate all around",
+    "startTime": 113.03,
+    "endTime": 114.88,
+    "time": 113.03,
+    "end": 114.88
+  },
+  {
+    "text": "Left right, left right, left right, down",
+    "startTime": 114.88,
+    "endTime": 116.84,
+    "time": 114.88,
+    "end": 116.84
+  },
+  {
+    "text": "Left right, left right, left right, down",
+    "startTime": 116.84,
+    "endTime": 118.14,
+    "time": 116.84,
+    "end": 118.14
+  },
+  {
+    "text": "If you think this is over, you're wrong",
+    "startTime": 118.32,
+    "endTime": 119.85,
+    "time": 118.32,
+    "end": 119.85
+  },
+  {
+    "text": "We're just getting started",
+    "startTime": 119.96,
+    "endTime": 120.83,
+    "time": 119.96,
+    "end": 120.83
+  },
+  {
+    "text": "Can you feel the fury, that primal rage?",
+    "startTime": 121.42,
+    "endTime": 123.54,
+    "time": 121.42,
+    "end": 123.54
+  },
+  {
+    "text": "It holds me back every day, this urge with no release",
+    "startTime": 123.63,
+    "endTime": 127.409,
+    "time": 123.63,
+    "end": 127.409
+  },
+  {
+    "text": "Will you feel the fury and show me what was taken",
+    "startTime": 127.14,
+    "endTime": 130.51,
+    "time": 127.14,
+    "end": 130.51
+  },
+  {
+    "text": "Shaken, that had made you this way?",
+    "startTime": 131.05,
+    "endTime": 133.764,
+    "time": 131.05,
+    "end": 133.764
+  },
+  {
+    "text": "Can you feel the fury that has held me back?",
+    "startTime": 134.08,
+    "endTime": 137.06,
+    "time": 134.08,
+    "end": 137.06
+  },
+  {
+    "text": "Stopped me from seeing the way, but I won't hold back now",
+    "startTime": 137.06,
+    "endTime": 140.56,
+    "time": 137.06,
+    "end": 140.56
+  },
+  {
+    "text": "Can you feel the fury? So please, just let this be",
+    "startTime": 140.57,
+    "endTime": 143.8,
+    "time": 140.57,
+    "end": 143.8
+  },
+  {
+    "text": "The way that I can honor their names",
+    "startTime": 143.8,
+    "endTime": 148.15,
+    "time": 143.8,
+    "end": 148.15
+  },
+  {
+    "text": "Can you feel the fury, that primal rage?",
+    "startTime": 174.8,
+    "endTime": 177.65,
+    "time": 174.8,
+    "end": 177.65
+  },
+  {
+    "text": "It holds me back every day, this urge with no release",
+    "startTime": 177.65,
+    "endTime": 181.2,
+    "time": 177.65,
+    "end": 181.2
+  },
+  {
+    "text": "Will you feel the fury and show me what was taken",
+    "startTime": 181.2,
+    "endTime": 184.57,
+    "time": 181.2,
+    "end": 184.57
+  },
+  {
+    "text": "Shaken, that had made you this way?",
+    "startTime": 184.57,
+    "endTime": 188.3,
+    "time": 184.57,
+    "end": 188.3
+  },
+  {
+    "text": "Can you feel the fury that has held me back?",
+    "startTime": 188.3,
+    "endTime": 191.25,
+    "time": 188.3,
+    "end": 191.25
+  },
+  {
+    "text": "Stopped me from seeing the way, but I won't hold back now",
+    "startTime": 191.25,
+    "endTime": 194.75,
+    "time": 191.25,
+    "end": 194.75
+  },
+  {
+    "text": "Can you feel the fury? So please, just let this be",
+    "startTime": 194.76,
+    "endTime": 197.74,
+    "time": 194.76,
+    "end": 197.74
+  },
+  {
+    "text": "The way that I can honor their names",
+    "startTime": 197.74,
+    "endTime": 201.02,
+    "time": 197.74,
+    "end": 201.02
+  },
+  {
+    "text": "Oh, oh",
+    "startTime": 201.02,
+    "endTime": 201.77,
+    "time": 201.02,
+    "end": 201.77
+  },
+  {
+    "text": "Can you feel the fury?",
+    "startTime": 229.82,
+    "endTime": 232.52,
+    "time": 229.82,
+    "end": 232.52
+  }
+]

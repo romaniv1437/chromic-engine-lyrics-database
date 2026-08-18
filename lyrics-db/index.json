@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T17:11:22.602533+00:00",
-  "totalTracks": 813,
+  "generatedAt": "2026-08-18T07:25:47.315071+00:00",
+  "totalTracks": 814,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -11671,6 +11671,22 @@
       "mtimeMs": 1786986683628,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "𝗞𝗜𝗘𝗡𝗞𝗜𝗗::chapter i : reborn | kienkid": {
+      "title": "CHAPTER I : REBORN | KIENKID",
+      "artist": "𝗞𝗜𝗘𝗡𝗞𝗜𝗗",
+      "originalTrackName": "𝗞𝗜𝗘𝗡𝗞𝗜𝗗 - CHAPTER I : REBORN | KIENKID",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/chapter-i-reborn-kienkid-5ad8cea39d69.json",
+      "files": {
+        "lyrics": "tracks/chapter-i-reborn-kienkid-5ad8cea39d69.json",
+        "meta": "tracks/chapter-i-reborn-kienkid-5ad8cea39d69.meta.json",
+        "translations": {
+          "vi": "tracks/chapter-i-reborn-kienkid-5ad8cea39d69.vi.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/djkienkid/chapter-i-reborn-kienkid",
+      "mtimeMs": 1787037947314
     }
   },
   "tracks": [
@@ -23340,6 +23356,22 @@
       "mtimeMs": 1786986683628,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    {
+      "title": "CHAPTER I : REBORN | KIENKID",
+      "artist": "𝗞𝗜𝗘𝗡𝗞𝗜𝗗",
+      "originalTrackName": "𝗞𝗜𝗘𝗡𝗞𝗜𝗗 - CHAPTER I : REBORN | KIENKID",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/chapter-i-reborn-kienkid-5ad8cea39d69.json",
+      "files": {
+        "lyrics": "tracks/chapter-i-reborn-kienkid-5ad8cea39d69.json",
+        "meta": "tracks/chapter-i-reborn-kienkid-5ad8cea39d69.meta.json",
+        "translations": {
+          "vi": "tracks/chapter-i-reborn-kienkid-5ad8cea39d69.vi.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/djkienkid/chapter-i-reborn-kienkid",
+      "mtimeMs": 1787037947314
     }
   ]
 }

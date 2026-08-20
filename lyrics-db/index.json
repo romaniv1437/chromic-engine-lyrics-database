@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T22:28:54.364421+00:00",
-  "totalTracks": 1,
+  "generatedAt": "2026-08-20T04:11:21.996938+00:00",
+  "totalTracks": 2,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -21,6 +21,23 @@
       "mtimeMs": 1787092135225,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "midnight tyrannosaurus::midnight tyrannosaurus - mutation": {
+      "title": "Midnight Tyrannosaurus - Mutation",
+      "artist": "Midnight Tyrannosaurus",
+      "originalTrackName": "Midnight Tyrannosaurus - Midnight Tyrannosaurus - Mutation",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000529564149-mekldy-original.jpg",
+      "file": "tracks/midnight-tyrannosaurus-midnight-tyrannosaurus-mutation-eba0bc188097.json",
+      "files": {
+        "lyrics": "tracks/midnight-tyrannosaurus-midnight-tyrannosaurus-mutation-eba0bc188097.json",
+        "meta": "tracks/midnight-tyrannosaurus-midnight-tyrannosaurus-mutation-eba0bc188097.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/midnightasaurus/midnight-tyrannosaurus-mutation",
+      "mtimeMs": 1787199082470,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -38,6 +55,23 @@
       },
       "sourcePath": "file://American Elections Got Me Feeling Like.mp3",
       "mtimeMs": 1787092135225,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Midnight Tyrannosaurus - Mutation",
+      "artist": "Midnight Tyrannosaurus",
+      "originalTrackName": "Midnight Tyrannosaurus - Midnight Tyrannosaurus - Mutation",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000529564149-mekldy-original.jpg",
+      "file": "tracks/midnight-tyrannosaurus-midnight-tyrannosaurus-mutation-eba0bc188097.json",
+      "files": {
+        "lyrics": "tracks/midnight-tyrannosaurus-midnight-tyrannosaurus-mutation-eba0bc188097.json",
+        "meta": "tracks/midnight-tyrannosaurus-midnight-tyrannosaurus-mutation-eba0bc188097.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/midnightasaurus/midnight-tyrannosaurus-mutation",
+      "mtimeMs": 1787199082470,
       "has_haptics": true,
       "haptics_version": 4
     }

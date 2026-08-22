@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T19:56:40.044218+00:00",
+  "generatedAt": "2026-08-22T19:57:47.880076+00:00",
   "totalTracks": 9,
   "roots": [
     "lyrics-db/tracks"
@@ -144,7 +144,8 @@
       "title": "HEAVENS DIVIDE",
       "artist": "snake122",
       "originalTrackName": "snake122 - HEAVENS DIVIDE",
-      "source": "soundcloud_extension_translate",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/avatars-000001838653-agj3yv-original.jpg",
       "file": "tracks/snake122-heavens-divide-d92e3b923239.json",
       "files": {
         "lyrics": "tracks/snake122-heavens-divide-d92e3b923239.json",
@@ -154,7 +155,9 @@
         }
       },
       "sourcePath": "https://soundcloud.com/snake122/heavens-divide",
-      "mtimeMs": 1787428600044
+      "mtimeMs": 1787428668627,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -297,7 +300,8 @@
       "title": "HEAVENS DIVIDE",
       "artist": "snake122",
       "originalTrackName": "snake122 - HEAVENS DIVIDE",
-      "source": "soundcloud_extension_translate",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/avatars-000001838653-agj3yv-original.jpg",
       "file": "tracks/snake122-heavens-divide-d92e3b923239.json",
       "files": {
         "lyrics": "tracks/snake122-heavens-divide-d92e3b923239.json",
@@ -307,7 +311,9 @@
         }
       },
       "sourcePath": "https://soundcloud.com/snake122/heavens-divide",
-      "mtimeMs": 1787428600044
+      "mtimeMs": 1787428668627,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

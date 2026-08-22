@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T17:55:52.201874+00:00",
-  "totalTracks": 8,
+  "generatedAt": "2026-08-22T19:54:26.022337+00:00",
+  "totalTracks": 9,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -139,6 +139,23 @@
       "mtimeMs": 1787421352683,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "snake122::heavens divide": {
+      "title": "HEAVENS DIVIDE",
+      "artist": "snake122",
+      "originalTrackName": "snake122 - HEAVENS DIVIDE",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/avatars-000001838653-agj3yv-original.jpg",
+      "file": "tracks/snake122-heavens-divide-d92e3b923239.json",
+      "files": {
+        "lyrics": "tracks/snake122-heavens-divide-d92e3b923239.json",
+        "meta": "tracks/snake122-heavens-divide-d92e3b923239.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/snake122/heavens-divide",
+      "mtimeMs": 1787428467025,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -274,6 +291,23 @@
       },
       "sourcePath": "https://soundcloud.com/misssantrophyex/mental-health-prods-in-desc",
       "mtimeMs": 1787421352683,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "HEAVENS DIVIDE",
+      "artist": "snake122",
+      "originalTrackName": "snake122 - HEAVENS DIVIDE",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/avatars-000001838653-agj3yv-original.jpg",
+      "file": "tracks/snake122-heavens-divide-d92e3b923239.json",
+      "files": {
+        "lyrics": "tracks/snake122-heavens-divide-d92e3b923239.json",
+        "meta": "tracks/snake122-heavens-divide-d92e3b923239.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/snake122/heavens-divide",
+      "mtimeMs": 1787428467025,
       "has_haptics": true,
       "haptics_version": 4
     }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T19:57:55.848919+00:00",
-  "totalTracks": 9,
+  "generatedAt": "2026-08-22T20:12:40.826007+00:00",
+  "totalTracks": 10,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -158,6 +158,23 @@
       "mtimeMs": 1787428675848,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "nirvana::nirvana - the man who sold the world ( slowed + reverb )": {
+      "title": "nirvana - the man who sold the world ( slowed + reverb )",
+      "artist": "Nirvana",
+      "originalTrackName": "Nirvana - nirvana - the man who sold the world ( slowed + reverb )",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-JvMHDjINzFM8KZet-tQ05fg-original.jpg",
+      "file": "tracks/nirvana-nirvana-the-man-who-sold-the-world-slowed-reverb-fa3b442bcd9f.json",
+      "files": {
+        "lyrics": "tracks/nirvana-nirvana-the-man-who-sold-the-world-slowed-reverb-fa3b442bcd9f.json",
+        "meta": "tracks/nirvana-nirvana-the-man-who-sold-the-world-slowed-reverb-fa3b442bcd9f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/christina-cruz-701439310/nirvana-the-man-who-sold-the",
+      "mtimeMs": 1787429561628,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -314,6 +331,23 @@
       "mtimeMs": 1787428675848,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "nirvana - the man who sold the world ( slowed + reverb )",
+      "artist": "Nirvana",
+      "originalTrackName": "Nirvana - nirvana - the man who sold the world ( slowed + reverb )",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-JvMHDjINzFM8KZet-tQ05fg-original.jpg",
+      "file": "tracks/nirvana-nirvana-the-man-who-sold-the-world-slowed-reverb-fa3b442bcd9f.json",
+      "files": {
+        "lyrics": "tracks/nirvana-nirvana-the-man-who-sold-the-world-slowed-reverb-fa3b442bcd9f.json",
+        "meta": "tracks/nirvana-nirvana-the-man-who-sold-the-world-slowed-reverb-fa3b442bcd9f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/christina-cruz-701439310/nirvana-the-man-who-sold-the",
+      "mtimeMs": 1787429561628,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

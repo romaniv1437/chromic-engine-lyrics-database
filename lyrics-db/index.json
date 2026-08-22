@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T20:12:40.826007+00:00",
-  "totalTracks": 10,
+  "generatedAt": "2026-08-22T20:20:21.922113+00:00",
+  "totalTracks": 11,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -175,6 +175,23 @@
       "mtimeMs": 1787429561628,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "cardboardboxlover::metal gear solid — here's to you — ennio morricone & joan baez (slowed)": {
+      "title": "metal gear solid — here's to you — ennio morricone & joan baez (slowed)",
+      "artist": "cardboardboxlover",
+      "originalTrackName": "cardboardboxlover - metal gear solid — here's to you — ennio morricone & joan baez (slowed)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-nXKL5cyhyyjnfxmE-X1YEiQ-original.jpg",
+      "file": "tracks/cardboardboxlover-metal-gear-solid-here-s-to-you-ennio-morricone-joan--17e96e91891e.json",
+      "files": {
+        "lyrics": "tracks/cardboardboxlover-metal-gear-solid-here-s-to-you-ennio-morricone-joan--17e96e91891e.json",
+        "meta": "tracks/cardboardboxlover-metal-gear-solid-here-s-to-you-ennio-morricone-joan--17e96e91891e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/samir-attano/metal-gear-solid-heres-to-you",
+      "mtimeMs": 1787430022391,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -346,6 +363,23 @@
       },
       "sourcePath": "https://soundcloud.com/christina-cruz-701439310/nirvana-the-man-who-sold-the",
       "mtimeMs": 1787429561628,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "metal gear solid — here's to you — ennio morricone & joan baez (slowed)",
+      "artist": "cardboardboxlover",
+      "originalTrackName": "cardboardboxlover - metal gear solid — here's to you — ennio morricone & joan baez (slowed)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-nXKL5cyhyyjnfxmE-X1YEiQ-original.jpg",
+      "file": "tracks/cardboardboxlover-metal-gear-solid-here-s-to-you-ennio-morricone-joan--17e96e91891e.json",
+      "files": {
+        "lyrics": "tracks/cardboardboxlover-metal-gear-solid-here-s-to-you-ennio-morricone-joan--17e96e91891e.json",
+        "meta": "tracks/cardboardboxlover-metal-gear-solid-here-s-to-you-ennio-morricone-joan--17e96e91891e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/samir-attano/metal-gear-solid-heres-to-you",
+      "mtimeMs": 1787430022391,
       "has_haptics": true,
       "haptics_version": 4
     }

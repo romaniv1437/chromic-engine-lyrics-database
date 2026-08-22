@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T12:44:59.973831+00:00",
-  "totalTracks": 5,
+  "generatedAt": "2026-08-22T07:45:20.560640+00:00",
+  "totalTracks": 6,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -89,6 +89,22 @@
       "mtimeMs": 1787316300548,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "dtalm::dtalm - sparkling eyes (astrevea remix) [smld157]": {
+      "title": "DTALM - Sparkling Eyes (Astrevea Remix) [SMLD157]",
+      "artist": "DTALM",
+      "originalTrackName": "DTALM - DTALM - Sparkling Eyes (Astrevea Remix) [SMLD157]",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/dtalm-dtalm-sparkling-eyes-astrevea-remix-smld157-392fbda6f68e.json",
+      "files": {
+        "lyrics": "tracks/dtalm-dtalm-sparkling-eyes-astrevea-remix-smld157-392fbda6f68e.json",
+        "meta": "tracks/dtalm-dtalm-sparkling-eyes-astrevea-remix-smld157-392fbda6f68e.meta.json",
+        "translations": {
+          "en": "tracks/dtalm-dtalm-sparkling-eyes-astrevea-remix-smld157-392fbda6f68e.en.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/summermelodyrecords/dtalm-sparkling-eyes-astrevea",
+      "mtimeMs": 1787384720560
     }
   },
   "tracks": [
@@ -176,6 +192,22 @@
       "mtimeMs": 1787316300548,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    {
+      "title": "DTALM - Sparkling Eyes (Astrevea Remix) [SMLD157]",
+      "artist": "DTALM",
+      "originalTrackName": "DTALM - DTALM - Sparkling Eyes (Astrevea Remix) [SMLD157]",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/dtalm-dtalm-sparkling-eyes-astrevea-remix-smld157-392fbda6f68e.json",
+      "files": {
+        "lyrics": "tracks/dtalm-dtalm-sparkling-eyes-astrevea-remix-smld157-392fbda6f68e.json",
+        "meta": "tracks/dtalm-dtalm-sparkling-eyes-astrevea-remix-smld157-392fbda6f68e.meta.json",
+        "translations": {
+          "en": "tracks/dtalm-dtalm-sparkling-eyes-astrevea-remix-smld157-392fbda6f68e.en.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/summermelodyrecords/dtalm-sparkling-eyes-astrevea",
+      "mtimeMs": 1787384720560
     }
   ]
 }

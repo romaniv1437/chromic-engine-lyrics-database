@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T07:51:04.316068+00:00",
-  "totalTracks": 7,
+  "generatedAt": "2026-08-22T17:55:52.201874+00:00",
+  "totalTracks": 8,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -122,6 +122,23 @@
       "mtimeMs": 1787385064316,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "misssantrophy::mental health (prods. in desc)": {
+      "title": "mental health (prods. in desc)",
+      "artist": "misssantrophy",
+      "originalTrackName": "misssantrophy - mental health (prods. in desc)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-wvp5BKx18xMQTVLV-mnHwLQ-original.png",
+      "file": "tracks/misssantrophy-mental-health-prods-in-desc-2410d66d3102.json",
+      "files": {
+        "lyrics": "tracks/misssantrophy-mental-health-prods-in-desc-2410d66d3102.json",
+        "meta": "tracks/misssantrophy-mental-health-prods-in-desc-2410d66d3102.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/misssantrophyex/mental-health-prods-in-desc",
+      "mtimeMs": 1787421352683,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -242,6 +259,23 @@
       "mtimeMs": 1787385064316,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "mental health (prods. in desc)",
+      "artist": "misssantrophy",
+      "originalTrackName": "misssantrophy - mental health (prods. in desc)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-wvp5BKx18xMQTVLV-mnHwLQ-original.png",
+      "file": "tracks/misssantrophy-mental-health-prods-in-desc-2410d66d3102.json",
+      "files": {
+        "lyrics": "tracks/misssantrophy-mental-health-prods-in-desc-2410d66d3102.json",
+        "meta": "tracks/misssantrophy-mental-health-prods-in-desc-2410d66d3102.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/misssantrophyex/mental-health-prods-in-desc",
+      "mtimeMs": 1787421352683,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

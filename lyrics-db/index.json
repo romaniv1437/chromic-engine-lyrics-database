@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T22:47:59.204567+00:00",
-  "totalTracks": 22,
+  "generatedAt": "2026-08-23T23:11:59.604372+00:00",
+  "totalTracks": 23,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -380,6 +380,23 @@
       "mtimeMs": 1787525279204,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "obladaet::obladaet - escalator": {
+      "title": "OBLADAET - ESCALATOR",
+      "artist": "OBLADAET",
+      "originalTrackName": "OBLADAET - OBLADAET - ESCALATOR",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-QfqJdIeoW4YJxLxF-TSuycg-original.jpg",
+      "file": "tracks/obladaet-obladaet-escalator-6d4403231c4b.json",
+      "files": {
+        "lyrics": "tracks/obladaet-obladaet-escalator-6d4403231c4b.json",
+        "meta": "tracks/obladaet-obladaet-escalator-6d4403231c4b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ima-made-it/obladaet-escalator",
+      "mtimeMs": 1787526720190,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -758,6 +775,23 @@
       "mtimeMs": 1787525279204,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "OBLADAET - ESCALATOR",
+      "artist": "OBLADAET",
+      "originalTrackName": "OBLADAET - OBLADAET - ESCALATOR",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-QfqJdIeoW4YJxLxF-TSuycg-original.jpg",
+      "file": "tracks/obladaet-obladaet-escalator-6d4403231c4b.json",
+      "files": {
+        "lyrics": "tracks/obladaet-obladaet-escalator-6d4403231c4b.json",
+        "meta": "tracks/obladaet-obladaet-escalator-6d4403231c4b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ima-made-it/obladaet-escalator",
+      "mtimeMs": 1787526720190,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

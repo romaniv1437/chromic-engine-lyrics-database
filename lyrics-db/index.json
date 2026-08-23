@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T20:28:47.845063+00:00",
-  "totalTracks": 12,
+  "generatedAt": "2026-08-23T08:15:22.493714+00:00",
+  "totalTracks": 13,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -209,6 +209,23 @@
       "mtimeMs": 1787430528249,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "lucybedroque::c section prod heavengazer": {
+      "title": "C SECTION PROD HEAVENGAZER",
+      "artist": "lucybedroque",
+      "originalTrackName": "lucybedroque - C SECTION PROD HEAVENGAZER",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-929Z1zvqJSxDuaI7-yWbRqQ-original.jpg",
+      "file": "tracks/lucybedroque-c-section-prod-heavengazer-66d2b046ee23.json",
+      "files": {
+        "lyrics": "tracks/lucybedroque-c-section-prod-heavengazer-66d2b046ee23.json",
+        "meta": "tracks/lucybedroque-c-section-prod-heavengazer-66d2b046ee23.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lucybedroque/c-section-prod-heavengazer",
+      "mtimeMs": 1787472923067,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -414,6 +431,23 @@
       },
       "sourcePath": "https://soundcloud.com/user-733861005/the-man-who-sold-the-world",
       "mtimeMs": 1787430528249,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "C SECTION PROD HEAVENGAZER",
+      "artist": "lucybedroque",
+      "originalTrackName": "lucybedroque - C SECTION PROD HEAVENGAZER",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-929Z1zvqJSxDuaI7-yWbRqQ-original.jpg",
+      "file": "tracks/lucybedroque-c-section-prod-heavengazer-66d2b046ee23.json",
+      "files": {
+        "lyrics": "tracks/lucybedroque-c-section-prod-heavengazer-66d2b046ee23.json",
+        "meta": "tracks/lucybedroque-c-section-prod-heavengazer-66d2b046ee23.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lucybedroque/c-section-prod-heavengazer",
+      "mtimeMs": 1787472923067,
       "has_haptics": true,
       "haptics_version": 4
     }

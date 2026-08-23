@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T22:28:46.379304+00:00",
-  "totalTracks": 17,
+  "generatedAt": "2026-08-23T22:29:27.896619+00:00",
+  "totalTracks": 18,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -295,6 +295,23 @@
       },
       "sourcePath": "https://soundcloud.com/huvudskada/rotting",
       "mtimeMs": 1787524126379
+    },
+    "#sadautistickid::pensando em voce best part looped +bass": {
+      "title": "pensando em voce best part looped +bass",
+      "artist": "#SadAutisticKid",
+      "originalTrackName": "#SadAutisticKid - pensando em voce best part looped +bass",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-Cwb17kGkfyMwQye1-UuxKBQ-original.jpg",
+      "file": "tracks/sadautistickid-pensando-em-voce-best-part-looped-bass-df06a68721f5.json",
+      "files": {
+        "lyrics": "tracks/sadautistickid-pensando-em-voce-best-part-looped-bass-df06a68721f5.json",
+        "meta": "tracks/sadautistickid-pensando-em-voce-best-part-looped-bass-df06a68721f5.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/sadautistickid/pensando-em-voce-best-part",
+      "mtimeMs": 1787524168534,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -588,6 +605,23 @@
       },
       "sourcePath": "https://soundcloud.com/huvudskada/rotting",
       "mtimeMs": 1787524126379
+    },
+    {
+      "title": "pensando em voce best part looped +bass",
+      "artist": "#SadAutisticKid",
+      "originalTrackName": "#SadAutisticKid - pensando em voce best part looped +bass",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-Cwb17kGkfyMwQye1-UuxKBQ-original.jpg",
+      "file": "tracks/sadautistickid-pensando-em-voce-best-part-looped-bass-df06a68721f5.json",
+      "files": {
+        "lyrics": "tracks/sadautistickid-pensando-em-voce-best-part-looped-bass-df06a68721f5.json",
+        "meta": "tracks/sadautistickid-pensando-em-voce-best-part-looped-bass-df06a68721f5.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/sadautistickid/pensando-em-voce-best-part",
+      "mtimeMs": 1787524168534,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T21:52:31.559379+00:00",
+  "generatedAt": "2026-08-23T22:25:07.066261+00:00",
   "totalTracks": 16,
   "roots": [
     "lyrics-db/tracks"
@@ -265,18 +265,17 @@
       "title": "･: * ㅤ ㅤ ❄️’ ﾟ･* :",
       "artist": "ᅠᅠᅠᅠ",
       "originalTrackName": "ᅠᅠᅠᅠ - ･: * ㅤ ㅤ ❄️’ ﾟ･* :",
-      "source": "syncedlyrics",
-      "thumbnail": "https://i1.sndcdn.com/artworks-AkFyHKFMvowdTLtK-7FY0UQ-original.jpg",
+      "source": "soundcloud_extension_translate",
       "file": "tracks/track-4dbb2401fdc8.json",
       "files": {
         "lyrics": "tracks/track-4dbb2401fdc8.json",
         "meta": "tracks/track-4dbb2401fdc8.meta.json",
-        "translations": {}
+        "translations": {
+          "ru": "tracks/track-4dbb2401fdc8.ru.json"
+        }
       },
       "sourcePath": "https://soundcloud.com/lezviem-917952856/veny-reki-ruki",
-      "mtimeMs": 1787521951559,
-      "has_haptics": false,
-      "haptics_version": null
+      "mtimeMs": 1787523907066
     }
   },
   "tracks": [
@@ -540,18 +539,17 @@
       "title": "･: * ㅤ ㅤ ❄️’ ﾟ･* :",
       "artist": "ᅠᅠᅠᅠ",
       "originalTrackName": "ᅠᅠᅠᅠ - ･: * ㅤ ㅤ ❄️’ ﾟ･* :",
-      "source": "syncedlyrics",
-      "thumbnail": "https://i1.sndcdn.com/artworks-AkFyHKFMvowdTLtK-7FY0UQ-original.jpg",
+      "source": "soundcloud_extension_translate",
       "file": "tracks/track-4dbb2401fdc8.json",
       "files": {
         "lyrics": "tracks/track-4dbb2401fdc8.json",
         "meta": "tracks/track-4dbb2401fdc8.meta.json",
-        "translations": {}
+        "translations": {
+          "ru": "tracks/track-4dbb2401fdc8.ru.json"
+        }
       },
       "sourcePath": "https://soundcloud.com/lezviem-917952856/veny-reki-ruki",
-      "mtimeMs": 1787521951559,
-      "has_haptics": false,
-      "haptics_version": null
+      "mtimeMs": 1787523907066
     }
   ]
 }

@@ -1,10 +1,8 @@
 {
   "artist": "ᅠᅠᅠᅠ",
-  "title": "･: * ㅤ ㅤ ❄️’ ﾟ･* :",
   "track_title": "･: * ㅤ ㅤ ❄️’ ﾟ･* :",
-  "thumbnail": "https://i1.sndcdn.com/artworks-AkFyHKFMvowdTLtK-7FY0UQ-original.jpg",
   "track_url": "https://soundcloud.com/lezviem-917952856/veny-reki-ruki",
-  "lyrics_source": "syncedlyrics",
-  "line_timestamps_source": "guided-whisper",
-  "updated_at": "2026-08-23T21:52:29.915942+00:00"
+  "lyrics_source": "soundcloud_extension_translate",
+  "line_timestamps_source": "whisper_aligner",
+  "updated_at": "2026-08-23T22:25:05.983161+00:00"
 }

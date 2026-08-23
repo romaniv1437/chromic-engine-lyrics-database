@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T22:29:27.896619+00:00",
-  "totalTracks": 18,
+  "generatedAt": "2026-08-23T22:29:52.961861+00:00",
+  "totalTracks": 19,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -312,6 +312,23 @@
       "mtimeMs": 1787524168534,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "рома сладкихснов::gdenas.net (prod. whiteball)": {
+      "title": "gdenas.net (prod. whiteball)",
+      "artist": "рома сладкихснов",
+      "originalTrackName": "рома сладкихснов - gdenas.net (prod. whiteball)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-LebWjycyjkiENgZb-iMdhlA-original.jpg",
+      "file": "tracks/gdenas-net-prod-whiteball-d7cde6d9ebcf.json",
+      "files": {
+        "lyrics": "tracks/gdenas-net-prod-whiteball-d7cde6d9ebcf.json",
+        "meta": "tracks/gdenas-net-prod-whiteball-d7cde6d9ebcf.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/romasladkihsnow/gdenas-net-prod-whiteball",
+      "mtimeMs": 1787524193463,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -620,6 +637,23 @@
       },
       "sourcePath": "https://soundcloud.com/sadautistickid/pensando-em-voce-best-part",
       "mtimeMs": 1787524168534,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "gdenas.net (prod. whiteball)",
+      "artist": "рома сладкихснов",
+      "originalTrackName": "рома сладкихснов - gdenas.net (prod. whiteball)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-LebWjycyjkiENgZb-iMdhlA-original.jpg",
+      "file": "tracks/gdenas-net-prod-whiteball-d7cde6d9ebcf.json",
+      "files": {
+        "lyrics": "tracks/gdenas-net-prod-whiteball-d7cde6d9ebcf.json",
+        "meta": "tracks/gdenas-net-prod-whiteball-d7cde6d9ebcf.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/romasladkihsnow/gdenas-net-prod-whiteball",
+      "mtimeMs": 1787524193463,
       "has_haptics": true,
       "haptics_version": 4
     }

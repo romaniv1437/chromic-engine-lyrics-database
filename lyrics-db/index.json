@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T22:32:07.106562+00:00",
-  "totalTracks": 21,
+  "generatedAt": "2026-08-23T22:47:46.166194+00:00",
+  "totalTracks": 22,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -363,6 +363,23 @@
       "mtimeMs": 1787524327583,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "@aquagwap::aquakey - moscow never sleep": {
+      "title": "AQUAKEY - MOSCOW NEVER SLEEP",
+      "artist": "@aquagwap",
+      "originalTrackName": "@aquagwap - AQUAKEY - MOSCOW NEVER SLEEP",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-Xrlvx04IcQv1ut3H-9tFpFw-original.jpg",
+      "file": "tracks/aquagwap-aquakey-moscow-never-sleep-3180d8685027.json",
+      "files": {
+        "lyrics": "tracks/aquagwap-aquakey-moscow-never-sleep-3180d8685027.json",
+        "meta": "tracks/aquagwap-aquakey-moscow-never-sleep-3180d8685027.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ak2angel/aquakey-moscow-never-sleep",
+      "mtimeMs": 1787525266758,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -722,6 +739,23 @@
       },
       "sourcePath": "https://soundcloud.com/ak2angel/3-faith-hope",
       "mtimeMs": 1787524327583,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "AQUAKEY - MOSCOW NEVER SLEEP",
+      "artist": "@aquagwap",
+      "originalTrackName": "@aquagwap - AQUAKEY - MOSCOW NEVER SLEEP",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-Xrlvx04IcQv1ut3H-9tFpFw-original.jpg",
+      "file": "tracks/aquagwap-aquakey-moscow-never-sleep-3180d8685027.json",
+      "files": {
+        "lyrics": "tracks/aquagwap-aquakey-moscow-never-sleep-3180d8685027.json",
+        "meta": "tracks/aquagwap-aquakey-moscow-never-sleep-3180d8685027.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ak2angel/aquakey-moscow-never-sleep",
+      "mtimeMs": 1787525266758,
       "has_haptics": true,
       "haptics_version": 4
     }

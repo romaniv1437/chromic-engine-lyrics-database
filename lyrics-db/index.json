@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T22:27:29.934717+00:00",
-  "totalTracks": 16,
+  "generatedAt": "2026-08-23T22:28:46.379304+00:00",
+  "totalTracks": 17,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -279,6 +279,22 @@
       "mtimeMs": 1787524049934,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "huvudskada::rotting (prod. huvudskada) (на всех площадках)": {
+      "title": "rotting (prod. huvudskada) (на всех площадках)",
+      "artist": "huvudskada",
+      "originalTrackName": "huvudskada - rotting (prod. huvudskada) (на всех площадках)",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/huvudskada-rotting-prod-huvudskada-9b1ffcef537c.json",
+      "files": {
+        "lyrics": "tracks/huvudskada-rotting-prod-huvudskada-9b1ffcef537c.json",
+        "meta": "tracks/huvudskada-rotting-prod-huvudskada-9b1ffcef537c.meta.json",
+        "translations": {
+          "ru": "tracks/huvudskada-rotting-prod-huvudskada-9b1ffcef537c.ru.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/huvudskada/rotting",
+      "mtimeMs": 1787524126379
     }
   },
   "tracks": [
@@ -556,6 +572,22 @@
       "mtimeMs": 1787524049934,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "rotting (prod. huvudskada) (на всех площадках)",
+      "artist": "huvudskada",
+      "originalTrackName": "huvudskada - rotting (prod. huvudskada) (на всех площадках)",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/huvudskada-rotting-prod-huvudskada-9b1ffcef537c.json",
+      "files": {
+        "lyrics": "tracks/huvudskada-rotting-prod-huvudskada-9b1ffcef537c.json",
+        "meta": "tracks/huvudskada-rotting-prod-huvudskada-9b1ffcef537c.meta.json",
+        "translations": {
+          "ru": "tracks/huvudskada-rotting-prod-huvudskada-9b1ffcef537c.ru.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/huvudskada/rotting",
+      "mtimeMs": 1787524126379
     }
   ]
 }

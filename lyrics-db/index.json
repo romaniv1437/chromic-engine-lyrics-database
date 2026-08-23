@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T22:25:28.161220+00:00",
+  "generatedAt": "2026-08-23T22:27:20.152001+00:00",
   "totalTracks": 16,
   "roots": [
     "lyrics-db/tracks"
@@ -265,7 +265,8 @@
       "title": "･: * ㅤ ㅤ ❄️’ ﾟ･* :",
       "artist": "ᅠᅠᅠᅠ",
       "originalTrackName": "ᅠᅠᅠᅠ - ･: * ㅤ ㅤ ❄️’ ﾟ･* :",
-      "source": "soundcloud_extension_translate",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-AkFyHKFMvowdTLtK-7FY0UQ-original.jpg",
       "file": "tracks/track-4dbb2401fdc8.json",
       "files": {
         "lyrics": "tracks/track-4dbb2401fdc8.json",
@@ -275,7 +276,9 @@
         }
       },
       "sourcePath": "https://soundcloud.com/lezviem-917952856/veny-reki-ruki",
-      "mtimeMs": 1787523928161
+      "mtimeMs": 1787524040641,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -539,7 +542,8 @@
       "title": "･: * ㅤ ㅤ ❄️’ ﾟ･* :",
       "artist": "ᅠᅠᅠᅠ",
       "originalTrackName": "ᅠᅠᅠᅠ - ･: * ㅤ ㅤ ❄️’ ﾟ･* :",
-      "source": "soundcloud_extension_translate",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-AkFyHKFMvowdTLtK-7FY0UQ-original.jpg",
       "file": "tracks/track-4dbb2401fdc8.json",
       "files": {
         "lyrics": "tracks/track-4dbb2401fdc8.json",
@@ -549,7 +553,9 @@
         }
       },
       "sourcePath": "https://soundcloud.com/lezviem-917952856/veny-reki-ruki",
-      "mtimeMs": 1787523928161
+      "mtimeMs": 1787524040641,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

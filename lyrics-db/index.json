@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T22:29:52.961861+00:00",
-  "totalTracks": 19,
+  "generatedAt": "2026-08-23T22:31:18.766971+00:00",
+  "totalTracks": 20,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -329,6 +329,23 @@
       "mtimeMs": 1787524193463,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "@aquagwap::aquakey - cocteau twins": {
+      "title": "AQUAKEY - Cocteau Twins",
+      "artist": "@aquagwap",
+      "originalTrackName": "@aquagwap - AQUAKEY - Cocteau Twins",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-RSMil6P2uaoVIFgC-m7mCBw-original.jpg",
+      "file": "tracks/aquagwap-aquakey-cocteau-twins-691f57957650.json",
+      "files": {
+        "lyrics": "tracks/aquagwap-aquakey-cocteau-twins-691f57957650.json",
+        "meta": "tracks/aquagwap-aquakey-cocteau-twins-691f57957650.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ak2angel/aquakey-cocteau-twins",
+      "mtimeMs": 1787524279159,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -654,6 +671,23 @@
       },
       "sourcePath": "https://soundcloud.com/romasladkihsnow/gdenas-net-prod-whiteball",
       "mtimeMs": 1787524193463,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "AQUAKEY - Cocteau Twins",
+      "artist": "@aquagwap",
+      "originalTrackName": "@aquagwap - AQUAKEY - Cocteau Twins",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-RSMil6P2uaoVIFgC-m7mCBw-original.jpg",
+      "file": "tracks/aquagwap-aquakey-cocteau-twins-691f57957650.json",
+      "files": {
+        "lyrics": "tracks/aquagwap-aquakey-cocteau-twins-691f57957650.json",
+        "meta": "tracks/aquagwap-aquakey-cocteau-twins-691f57957650.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ak2angel/aquakey-cocteau-twins",
+      "mtimeMs": 1787524279159,
       "has_haptics": true,
       "haptics_version": 4
     }

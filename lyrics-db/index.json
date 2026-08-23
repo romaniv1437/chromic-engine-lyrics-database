@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T08:15:38.103511+00:00",
-  "totalTracks": 13,
+  "generatedAt": "2026-08-23T08:31:43.754534+00:00",
+  "totalTracks": 14,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -226,6 +226,23 @@
       "mtimeMs": 1787472938103,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "lucy bedroque::how to pretend": {
+      "title": "How to Pretend",
+      "artist": "Lucy Bedroque",
+      "originalTrackName": "Lucy Bedroque - How to Pretend",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-A5Y7yVQkekDYIUUn-VBZvkA-original.jpg",
+      "file": "tracks/lucy-bedroque-how-to-pretend-74341a391324.json",
+      "files": {
+        "lyrics": "tracks/lucy-bedroque-how-to-pretend-74341a391324.json",
+        "meta": "tracks/lucy-bedroque-how-to-pretend-74341a391324.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lucybedroque/pretend",
+      "mtimeMs": 1787473904215,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -450,6 +467,23 @@
       "mtimeMs": 1787472938103,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "How to Pretend",
+      "artist": "Lucy Bedroque",
+      "originalTrackName": "Lucy Bedroque - How to Pretend",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-A5Y7yVQkekDYIUUn-VBZvkA-original.jpg",
+      "file": "tracks/lucy-bedroque-how-to-pretend-74341a391324.json",
+      "files": {
+        "lyrics": "tracks/lucy-bedroque-how-to-pretend-74341a391324.json",
+        "meta": "tracks/lucy-bedroque-how-to-pretend-74341a391324.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lucybedroque/pretend",
+      "mtimeMs": 1787473904215,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

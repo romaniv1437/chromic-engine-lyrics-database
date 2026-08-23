@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T08:31:43.754534+00:00",
-  "totalTracks": 14,
+  "generatedAt": "2026-08-23T14:22:56.940337+00:00",
+  "totalTracks": 15,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -243,6 +243,23 @@
       "mtimeMs": 1787473904215,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "kawaki σ(°△°|||)︴::untitled - maretu (twitter/x song, on 31.07.2024)": {
+      "title": "Untitled - MARETU (Twitter/X song, on 31.07.2024)",
+      "artist": "kawaki Σ(°△°|||)︴",
+      "originalTrackName": "kawaki Σ(°△°|||)︴ - Untitled - MARETU (Twitter/X song, on 31.07.2024)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-kdch4DybWbjLbbk3-2yAjGQ-original.jpg",
+      "file": "tracks/kawaki-untitled-maretu-twitter-x-song-on-31-07-2024-088f1d6ab87c.json",
+      "files": {
+        "lyrics": "tracks/kawaki-untitled-maretu-twitter-x-song-on-31-07-2024-088f1d6ab87c.json",
+        "meta": "tracks/kawaki-untitled-maretu-twitter-x-song-on-31-07-2024-088f1d6ab87c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ne-znayu-794354165/untitled-maretu-twitter-x-song",
+      "mtimeMs": 1787494977463,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -482,6 +499,23 @@
       },
       "sourcePath": "https://soundcloud.com/lucybedroque/pretend",
       "mtimeMs": 1787473904215,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Untitled - MARETU (Twitter/X song, on 31.07.2024)",
+      "artist": "kawaki Σ(°△°|||)︴",
+      "originalTrackName": "kawaki Σ(°△°|||)︴ - Untitled - MARETU (Twitter/X song, on 31.07.2024)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-kdch4DybWbjLbbk3-2yAjGQ-original.jpg",
+      "file": "tracks/kawaki-untitled-maretu-twitter-x-song-on-31-07-2024-088f1d6ab87c.json",
+      "files": {
+        "lyrics": "tracks/kawaki-untitled-maretu-twitter-x-song-on-31-07-2024-088f1d6ab87c.json",
+        "meta": "tracks/kawaki-untitled-maretu-twitter-x-song-on-31-07-2024-088f1d6ab87c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ne-znayu-794354165/untitled-maretu-twitter-x-song",
+      "mtimeMs": 1787494977463,
       "has_haptics": true,
       "haptics_version": 4
     }

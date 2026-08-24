@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T17:24:09.446404+00:00",
-  "totalTracks": 23,
+  "generatedAt": "2026-08-24T20:47:14.708266+00:00",
+  "totalTracks": 24,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -397,6 +397,23 @@
       "mtimeMs": 1787592249446,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "7engo::addiction x worry x starly | 7engo": {
+      "title": "addiction X worry X starly | 7engo",
+      "artist": "7engo",
+      "originalTrackName": "7engo - addiction X worry X starly | 7engo",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-wEn9xLzdcQw9Caum-n2CNJg-original.jpg",
+      "file": "tracks/7engo-addiction-x-worry-x-starly-7engo-efa78f9de679.json",
+      "files": {
+        "lyrics": "tracks/7engo-addiction-x-worry-x-starly-7engo-efa78f9de679.json",
+        "meta": "tracks/7engo-addiction-x-worry-x-starly-7engo-efa78f9de679.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/tengo-egnatashvili-607285233/addiction-x-worry-x-starly",
+      "mtimeMs": 1787604435475,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -792,6 +809,23 @@
       "mtimeMs": 1787592249446,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "addiction X worry X starly | 7engo",
+      "artist": "7engo",
+      "originalTrackName": "7engo - addiction X worry X starly | 7engo",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-wEn9xLzdcQw9Caum-n2CNJg-original.jpg",
+      "file": "tracks/7engo-addiction-x-worry-x-starly-7engo-efa78f9de679.json",
+      "files": {
+        "lyrics": "tracks/7engo-addiction-x-worry-x-starly-7engo-efa78f9de679.json",
+        "meta": "tracks/7engo-addiction-x-worry-x-starly-7engo-efa78f9de679.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/tengo-egnatashvili-607285233/addiction-x-worry-x-starly",
+      "mtimeMs": 1787604435475,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

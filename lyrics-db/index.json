@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T21:23:41.387398+00:00",
+  "generatedAt": "2026-08-24T21:25:16.989618+00:00",
   "totalTracks": 26,
   "roots": [
     "lyrics-db/tracks"
@@ -436,7 +436,8 @@
       "title": "Its a Beautiful Life",
       "artist": "Ace of Base",
       "originalTrackName": "Ace of Base - Its a Beautiful Life",
-      "source": "soundcloud_extension_translate",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000234119586-3woybi-original.jpg",
       "file": "tracks/ace-of-base-its-a-beautiful-life-b33a3ade4732.json",
       "files": {
         "lyrics": "tracks/ace-of-base-its-a-beautiful-life-b33a3ade4732.json",
@@ -446,7 +447,9 @@
         }
       },
       "sourcePath": "https://soundcloud.com/user-796837807/its-a-beautiful-life",
-      "mtimeMs": 1787606621387
+      "mtimeMs": 1787606717913,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -881,7 +884,8 @@
       "title": "Its a Beautiful Life",
       "artist": "Ace of Base",
       "originalTrackName": "Ace of Base - Its a Beautiful Life",
-      "source": "soundcloud_extension_translate",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000234119586-3woybi-original.jpg",
       "file": "tracks/ace-of-base-its-a-beautiful-life-b33a3ade4732.json",
       "files": {
         "lyrics": "tracks/ace-of-base-its-a-beautiful-life-b33a3ade4732.json",
@@ -891,7 +895,9 @@
         }
       },
       "sourcePath": "https://soundcloud.com/user-796837807/its-a-beautiful-life",
-      "mtimeMs": 1787606621387
+      "mtimeMs": 1787606717913,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

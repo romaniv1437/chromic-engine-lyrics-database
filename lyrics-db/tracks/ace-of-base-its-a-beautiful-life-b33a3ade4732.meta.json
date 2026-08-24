@@ -1,8 +1,10 @@
 {
   "artist": "Ace of Base",
+  "title": "Its a Beautiful Life",
   "track_title": "Its a Beautiful Life",
+  "thumbnail": "https://i1.sndcdn.com/artworks-000234119586-3woybi-original.jpg",
   "track_url": "https://soundcloud.com/user-796837807/its-a-beautiful-life",
-  "lyrics_source": "soundcloud_extension_translate",
-  "line_timestamps_source": "whisper_aligner",
-  "updated_at": "2026-08-24T21:23:39.120713+00:00"
+  "lyrics_source": "lrclib_plain",
+  "line_timestamps_source": "genius-lrc-whisper",
+  "updated_at": "2026-08-24T21:25:16.989618+00:00"
 }

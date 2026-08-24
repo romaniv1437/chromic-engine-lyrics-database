@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T23:11:59.604372+00:00",
+  "generatedAt": "2026-08-24T17:23:54.687041+00:00",
   "totalTracks": 23,
   "roots": [
     "lyrics-db/tracks"
@@ -347,23 +347,6 @@
       "has_haptics": true,
       "haptics_version": 4
     },
-    "@aquagwap::aquakey - faith & hope": {
-      "title": "AQUAKEY - FAITH & HOPE",
-      "artist": "@aquagwap",
-      "originalTrackName": "@aquagwap - AQUAKEY - FAITH & HOPE",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-5ygBFbztlyhkkpEa-CkpfVA-original.jpg",
-      "file": "tracks/aquagwap-aquakey-faith-hope-bf4b49c71ad2.json",
-      "files": {
-        "lyrics": "tracks/aquagwap-aquakey-faith-hope-bf4b49c71ad2.json",
-        "meta": "tracks/aquagwap-aquakey-faith-hope-bf4b49c71ad2.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/ak2angel/3-faith-hope",
-      "mtimeMs": 1787524327583,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
     "@aquagwap::aquakey - moscow never sleep": {
       "title": "AQUAKEY - MOSCOW NEVER SLEEP",
       "artist": "@aquagwap",
@@ -395,6 +378,23 @@
       },
       "sourcePath": "https://soundcloud.com/ima-made-it/obladaet-escalator",
       "mtimeMs": 1787526720190,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    "@aquagwap::aquakey - faith & hope": {
+      "title": "AQUAKEY - FAITH & HOPE",
+      "artist": "@aquagwap",
+      "originalTrackName": "@aquagwap - AQUAKEY - FAITH & HOPE",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-5ygBFbztlyhkkpEa-CkpfVA-original.jpg",
+      "file": "tracks/aquagwap-aquakey-faith-hope-bf4b49c71ad2.json",
+      "files": {
+        "lyrics": "tracks/aquagwap-aquakey-faith-hope-bf4b49c71ad2.json",
+        "meta": "tracks/aquagwap-aquakey-faith-hope-bf4b49c71ad2.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ak2angel/3-faith-hope",
+      "mtimeMs": 1787592236001,
       "has_haptics": true,
       "haptics_version": 4
     }
@@ -743,23 +743,6 @@
       "haptics_version": 4
     },
     {
-      "title": "AQUAKEY - FAITH & HOPE",
-      "artist": "@aquagwap",
-      "originalTrackName": "@aquagwap - AQUAKEY - FAITH & HOPE",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-5ygBFbztlyhkkpEa-CkpfVA-original.jpg",
-      "file": "tracks/aquagwap-aquakey-faith-hope-bf4b49c71ad2.json",
-      "files": {
-        "lyrics": "tracks/aquagwap-aquakey-faith-hope-bf4b49c71ad2.json",
-        "meta": "tracks/aquagwap-aquakey-faith-hope-bf4b49c71ad2.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/ak2angel/3-faith-hope",
-      "mtimeMs": 1787524327583,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
-    {
       "title": "AQUAKEY - MOSCOW NEVER SLEEP",
       "artist": "@aquagwap",
       "originalTrackName": "@aquagwap - AQUAKEY - MOSCOW NEVER SLEEP",
@@ -790,6 +773,23 @@
       },
       "sourcePath": "https://soundcloud.com/ima-made-it/obladaet-escalator",
       "mtimeMs": 1787526720190,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "AQUAKEY - FAITH & HOPE",
+      "artist": "@aquagwap",
+      "originalTrackName": "@aquagwap - AQUAKEY - FAITH & HOPE",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-5ygBFbztlyhkkpEa-CkpfVA-original.jpg",
+      "file": "tracks/aquagwap-aquakey-faith-hope-bf4b49c71ad2.json",
+      "files": {
+        "lyrics": "tracks/aquagwap-aquakey-faith-hope-bf4b49c71ad2.json",
+        "meta": "tracks/aquagwap-aquakey-faith-hope-bf4b49c71ad2.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/ak2angel/3-faith-hope",
+      "mtimeMs": 1787592236001,
       "has_haptics": true,
       "haptics_version": 4
     }

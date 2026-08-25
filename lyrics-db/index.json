@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T21:39:36.029721+00:00",
-  "totalTracks": 33,
+  "generatedAt": "2026-08-25T21:40:17.442562+00:00",
+  "totalTracks": 34,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -569,6 +569,23 @@
       "mtimeMs": 1787693976776,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "patstar::kukon - zima 2019": {
+      "title": "Kukon - Zima 2019",
+      "artist": "patstar",
+      "originalTrackName": "patstar - Kukon - Zima 2019",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/avatars-000721937788-5pr7l2-original.png",
+      "file": "tracks/patstar-kukon-zima-2019-1d2efbf808b0.json",
+      "files": {
+        "lyrics": "tracks/patstar-kukon-zima-2019-1d2efbf808b0.json",
+        "meta": "tracks/patstar-kukon-zima-2019-1d2efbf808b0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/patstar-886629775/zima-2019",
+      "mtimeMs": 1787694018046,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1134,6 +1151,23 @@
       },
       "sourcePath": "https://soundcloud.com/aequoxxx/yung-adisz-dwa-gramy-m-ki",
       "mtimeMs": 1787693976776,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Kukon - Zima 2019",
+      "artist": "patstar",
+      "originalTrackName": "patstar - Kukon - Zima 2019",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/avatars-000721937788-5pr7l2-original.png",
+      "file": "tracks/patstar-kukon-zima-2019-1d2efbf808b0.json",
+      "files": {
+        "lyrics": "tracks/patstar-kukon-zima-2019-1d2efbf808b0.json",
+        "meta": "tracks/patstar-kukon-zima-2019-1d2efbf808b0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/patstar-886629775/zima-2019",
+      "mtimeMs": 1787694018046,
       "has_haptics": true,
       "haptics_version": 4
     }

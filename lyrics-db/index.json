@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T12:15:44.401812+00:00",
-  "totalTracks": 28,
+  "generatedAt": "2026-08-25T12:27:36.996374+00:00",
+  "totalTracks": 29,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -484,6 +484,23 @@
       "mtimeMs": 1787660144401,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "will wood & the tapeworms::cotards' solution (anatta, dukkha, anicca)": {
+      "title": "Cotards' Solution (Anatta, Dukkha, Anicca)",
+      "artist": "Will Wood & the Tapeworms",
+      "originalTrackName": "Will Wood & the Tapeworms - Cotards' Solution (Anatta, Dukkha, Anicca)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000175111558-qhtsji-original.jpg",
+      "file": "tracks/will-wood-the-tapeworms-cotards-solution-anatta-dukkha-anicca-a8b1f3e1a045.json",
+      "files": {
+        "lyrics": "tracks/will-wood-the-tapeworms-cotards-solution-anatta-dukkha-anicca-a8b1f3e1a045.json",
+        "meta": "tracks/will-wood-the-tapeworms-cotards-solution-anatta-dukkha-anicca-a8b1f3e1a045.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/willwoodmusic/cotards-solution-anatta-dukkha-anicca",
+      "mtimeMs": 1787660857754,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -966,6 +983,23 @@
       "mtimeMs": 1787660144401,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Cotards' Solution (Anatta, Dukkha, Anicca)",
+      "artist": "Will Wood & the Tapeworms",
+      "originalTrackName": "Will Wood & the Tapeworms - Cotards' Solution (Anatta, Dukkha, Anicca)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000175111558-qhtsji-original.jpg",
+      "file": "tracks/will-wood-the-tapeworms-cotards-solution-anatta-dukkha-anicca-a8b1f3e1a045.json",
+      "files": {
+        "lyrics": "tracks/will-wood-the-tapeworms-cotards-solution-anatta-dukkha-anicca-a8b1f3e1a045.json",
+        "meta": "tracks/will-wood-the-tapeworms-cotards-solution-anatta-dukkha-anicca-a8b1f3e1a045.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/willwoodmusic/cotards-solution-anatta-dukkha-anicca",
+      "mtimeMs": 1787660857754,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

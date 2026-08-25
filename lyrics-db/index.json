@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T04:19:08.180679+00:00",
-  "totalTracks": 27,
+  "generatedAt": "2026-08-25T12:15:25.064481+00:00",
+  "totalTracks": 28,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -467,6 +467,23 @@
       "mtimeMs": 1787631548180,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "will wood & the tapeworms::everything is a lot": {
+      "title": "Everything Is A Lot",
+      "artist": "Will Wood & the Tapeworms",
+      "originalTrackName": "Will Wood & the Tapeworms - Everything Is A Lot",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000115110577-9bf9tz-original.jpg",
+      "file": "tracks/will-wood-the-tapeworms-everything-is-a-lot-a0a966bde9fa.json",
+      "files": {
+        "lyrics": "tracks/will-wood-the-tapeworms-everything-is-a-lot-a0a966bde9fa.json",
+        "meta": "tracks/will-wood-the-tapeworms-everything-is-a-lot-a0a966bde9fa.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/willwoodmusic/everything-is-a-lot",
+      "mtimeMs": 1787660125639,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -932,6 +949,23 @@
       "mtimeMs": 1787631548180,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Everything Is A Lot",
+      "artist": "Will Wood & the Tapeworms",
+      "originalTrackName": "Will Wood & the Tapeworms - Everything Is A Lot",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000115110577-9bf9tz-original.jpg",
+      "file": "tracks/will-wood-the-tapeworms-everything-is-a-lot-a0a966bde9fa.json",
+      "files": {
+        "lyrics": "tracks/will-wood-the-tapeworms-everything-is-a-lot-a0a966bde9fa.json",
+        "meta": "tracks/will-wood-the-tapeworms-everything-is-a-lot-a0a966bde9fa.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/willwoodmusic/everything-is-a-lot",
+      "mtimeMs": 1787660125639,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

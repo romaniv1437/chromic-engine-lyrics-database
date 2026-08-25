@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T21:24:45.261436+00:00",
+  "generatedAt": "2026-08-25T21:24:48.396921+00:00",
   "totalTracks": 31,
   "roots": [
     "lyrics-db/tracks"
@@ -519,20 +519,20 @@
       "has_haptics": false,
       "haptics_version": null
     },
-    "lil peep::witchblades w/ lil tracy": {
-      "title": "witchblades w/ lil tracy",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - witchblades w/ lil tracy",
-      "source": "syncedlyrics",
-      "thumbnail": "https://i1.sndcdn.com/artworks-9w0g0VKAo1B73Rev-RWJysg-original.jpg",
-      "file": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+    "purplesslost::kukon x kaz balagane - london rain (purpless remix)": {
+      "title": "Kukon x Kaz Balagane - London rain (purpless remix)",
+      "artist": "purplesslost",
+      "originalTrackName": "purplesslost - Kukon x Kaz Balagane - London rain (purpless remix)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-AD3l3zK4LIdCyWRj-XhgZxQ-original.jpg",
+      "file": "tracks/purplesslost-kukon-x-kaz-balagane-london-rain-purpless-remix-e6ebf3cca47a.json",
       "files": {
-        "lyrics": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
-        "meta": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.meta.json",
+        "lyrics": "tracks/purplesslost-kukon-x-kaz-balagane-london-rain-purpless-remix-e6ebf3cca47a.json",
+        "meta": "tracks/purplesslost-kukon-x-kaz-balagane-london-rain-purpless-remix-e6ebf3cca47a.meta.json",
         "translations": {}
       },
-      "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
-      "mtimeMs": 1787693086093,
+      "sourcePath": "https://soundcloud.com/purplesslost/inaczej-zarabialem-niz-wy-1-4",
+      "mtimeMs": 1787693088803,
       "has_haptics": true,
       "haptics_version": 4
     }
@@ -1053,19 +1053,19 @@
       "haptics_version": null
     },
     {
-      "title": "witchblades w/ lil tracy",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - witchblades w/ lil tracy",
-      "source": "syncedlyrics",
-      "thumbnail": "https://i1.sndcdn.com/artworks-9w0g0VKAo1B73Rev-RWJysg-original.jpg",
-      "file": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+      "title": "Kukon x Kaz Balagane - London rain (purpless remix)",
+      "artist": "purplesslost",
+      "originalTrackName": "purplesslost - Kukon x Kaz Balagane - London rain (purpless remix)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-AD3l3zK4LIdCyWRj-XhgZxQ-original.jpg",
+      "file": "tracks/purplesslost-kukon-x-kaz-balagane-london-rain-purpless-remix-e6ebf3cca47a.json",
       "files": {
-        "lyrics": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
-        "meta": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.meta.json",
+        "lyrics": "tracks/purplesslost-kukon-x-kaz-balagane-london-rain-purpless-remix-e6ebf3cca47a.json",
+        "meta": "tracks/purplesslost-kukon-x-kaz-balagane-london-rain-purpless-remix-e6ebf3cca47a.meta.json",
         "translations": {}
       },
-      "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
-      "mtimeMs": 1787693086093,
+      "sourcePath": "https://soundcloud.com/purplesslost/inaczej-zarabialem-niz-wy-1-4",
+      "mtimeMs": 1787693088803,
       "has_haptics": true,
       "haptics_version": 4
     }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T21:26:56.375801+00:00",
-  "totalTracks": 32,
+  "generatedAt": "2026-08-25T21:39:36.029721+00:00",
+  "totalTracks": 33,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -552,6 +552,23 @@
       "mtimeMs": 1787693216375,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "aeq::yung adisz - dwa gramy mąki": {
+      "title": "Yung Adisz - Dwa Gramy Mąki",
+      "artist": "aeq",
+      "originalTrackName": "aeq - Yung Adisz - Dwa Gramy Mąki",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-yNA3yRQyPRSd8jL4-mgPJHQ-original.jpg",
+      "file": "tracks/aeq-yung-adisz-dwa-gramy-m-ki-a763fcc27edd.json",
+      "files": {
+        "lyrics": "tracks/aeq-yung-adisz-dwa-gramy-m-ki-a763fcc27edd.json",
+        "meta": "tracks/aeq-yung-adisz-dwa-gramy-m-ki-a763fcc27edd.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/aequoxxx/yung-adisz-dwa-gramy-m-ki",
+      "mtimeMs": 1787693976776,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1102,6 +1119,23 @@
       "mtimeMs": 1787693216375,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Yung Adisz - Dwa Gramy Mąki",
+      "artist": "aeq",
+      "originalTrackName": "aeq - Yung Adisz - Dwa Gramy Mąki",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-yNA3yRQyPRSd8jL4-mgPJHQ-original.jpg",
+      "file": "tracks/aeq-yung-adisz-dwa-gramy-m-ki-a763fcc27edd.json",
+      "files": {
+        "lyrics": "tracks/aeq-yung-adisz-dwa-gramy-m-ki-a763fcc27edd.json",
+        "meta": "tracks/aeq-yung-adisz-dwa-gramy-m-ki-a763fcc27edd.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/aequoxxx/yung-adisz-dwa-gramy-m-ki",
+      "mtimeMs": 1787693976776,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

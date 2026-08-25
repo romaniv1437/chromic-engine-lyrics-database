@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T21:25:16.989618+00:00",
-  "totalTracks": 26,
+  "generatedAt": "2026-08-25T04:18:53.277642+00:00",
+  "totalTracks": 27,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -450,6 +450,23 @@
       "mtimeMs": 1787606717913,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "sk1 saya skull::sk1sayaskull-see me": {
+      "title": "sk1sayaskull-see me",
+      "artist": "sk1 saya skull",
+      "originalTrackName": "sk1 saya skull - sk1sayaskull-see me",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-43n7eb1wFRzNBDz6-9Hw6wg-original.jpg",
+      "file": "tracks/sk1-saya-skull-sk1sayaskull-see-me-efc06b1b79fa.json",
+      "files": {
+        "lyrics": "tracks/sk1-saya-skull-sk1sayaskull-see-me-efc06b1b79fa.json",
+        "meta": "tracks/sk1-saya-skull-sk1sayaskull-see-me-efc06b1b79fa.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/markease-roberts-8311/sk1sayaskull-see-me",
+      "mtimeMs": 1787631533773,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -896,6 +913,23 @@
       },
       "sourcePath": "https://soundcloud.com/user-796837807/its-a-beautiful-life",
       "mtimeMs": 1787606717913,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "sk1sayaskull-see me",
+      "artist": "sk1 saya skull",
+      "originalTrackName": "sk1 saya skull - sk1sayaskull-see me",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-43n7eb1wFRzNBDz6-9Hw6wg-original.jpg",
+      "file": "tracks/sk1-saya-skull-sk1sayaskull-see-me-efc06b1b79fa.json",
+      "files": {
+        "lyrics": "tracks/sk1-saya-skull-sk1sayaskull-see-me-efc06b1b79fa.json",
+        "meta": "tracks/sk1-saya-skull-sk1sayaskull-see-me-efc06b1b79fa.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/markease-roberts-8311/sk1sayaskull-see-me",
+      "mtimeMs": 1787631533773,
       "has_haptics": true,
       "haptics_version": 4
     }

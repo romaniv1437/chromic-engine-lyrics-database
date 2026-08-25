@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T12:28:02.321823+00:00",
-  "totalTracks": 29,
+  "generatedAt": "2026-08-25T20:02:04.163292+00:00",
+  "totalTracks": 30,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -501,6 +501,23 @@
       "mtimeMs": 1787660882321,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "тринадцатый::молодёжьвыбираеткосмос - на фотографиях (feat. найтивыход)": {
+      "title": "Молодёжьвыбираеткосмос - На Фотографиях (feat. Найтивыход)",
+      "artist": "Тринадцатый",
+      "originalTrackName": "Тринадцатый - Молодёжьвыбираеткосмос - На Фотографиях (feat. Найтивыход)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-av4dyEujcvKgBGXO-Aa3l4w-original.jpg",
+      "file": "tracks/feat-6e755b525645.json",
+      "files": {
+        "lyrics": "tracks/feat-6e755b525645.json",
+        "meta": "tracks/feat-6e755b525645.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/geralt-452072157/molodyozhvybiraetkosmos-na-fotografiyakh-feat-naytivykhod",
+      "mtimeMs": 1787688125017,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1000,6 +1017,23 @@
       "mtimeMs": 1787660882321,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Молодёжьвыбираеткосмос - На Фотографиях (feat. Найтивыход)",
+      "artist": "Тринадцатый",
+      "originalTrackName": "Тринадцатый - Молодёжьвыбираеткосмос - На Фотографиях (feat. Найтивыход)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-av4dyEujcvKgBGXO-Aa3l4w-original.jpg",
+      "file": "tracks/feat-6e755b525645.json",
+      "files": {
+        "lyrics": "tracks/feat-6e755b525645.json",
+        "meta": "tracks/feat-6e755b525645.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/geralt-452072157/molodyozhvybiraetkosmos-na-fotografiyakh-feat-naytivykhod",
+      "mtimeMs": 1787688125017,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

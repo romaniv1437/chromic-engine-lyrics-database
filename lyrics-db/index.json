@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T20:02:20.922444+00:00",
-  "totalTracks": 30,
+  "generatedAt": "2026-08-25T21:24:45.261436+00:00",
+  "totalTracks": 31,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -518,6 +518,23 @@
       "mtimeMs": 1787688140922,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "lil peep::witchblades w/ lil tracy": {
+      "title": "witchblades w/ lil tracy",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - witchblades w/ lil tracy",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-9w0g0VKAo1B73Rev-RWJysg-original.jpg",
+      "file": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+        "meta": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
+      "mtimeMs": 1787693086093,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1034,6 +1051,23 @@
       "mtimeMs": 1787688140922,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "witchblades w/ lil tracy",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - witchblades w/ lil tracy",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-9w0g0VKAo1B73Rev-RWJysg-original.jpg",
+      "file": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.json",
+        "meta": "tracks/lil-peep-witchblades-w-lil-tracy-3374c5b220be.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/witchblades-ft-lil-tracy",
+      "mtimeMs": 1787693086093,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

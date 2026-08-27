@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T21:40:17.442562+00:00",
-  "totalTracks": 34,
+  "generatedAt": "2026-08-27T16:36:41.077595+00:00",
+  "totalTracks": 35,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -586,6 +586,23 @@
       "mtimeMs": 1787694018046,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "ibeantrill::lil peep - told ya": {
+      "title": "LiL PEEP - Told Ya",
+      "artist": "ibeantrill",
+      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-CfPrx3C6Amv1M16t-zeDwkw-original.jpg",
+      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+      "files": {
+        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
+      "mtimeMs": 1787848601950,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1168,6 +1185,23 @@
       },
       "sourcePath": "https://soundcloud.com/patstar-886629775/zima-2019",
       "mtimeMs": 1787694018046,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "LiL PEEP - Told Ya",
+      "artist": "ibeantrill",
+      "originalTrackName": "ibeantrill - LiL PEEP - Told Ya",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-CfPrx3C6Amv1M16t-zeDwkw-original.jpg",
+      "file": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+      "files": {
+        "lyrics": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.json",
+        "meta": "tracks/ibeantrill-lil-peep-told-ya-5278af83e30d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1keith/lil-peep-told-ya-freestyle-prod-oogie-mane",
+      "mtimeMs": 1787848601950,
       "has_haptics": true,
       "haptics_version": 4
     }

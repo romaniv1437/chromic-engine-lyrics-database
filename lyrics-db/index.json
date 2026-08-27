@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-27T16:36:55.872891+00:00",
-  "totalTracks": 35,
+  "generatedAt": "2026-08-27T21:59:18.175835+00:00",
+  "totalTracks": 36,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -603,6 +603,23 @@
       "mtimeMs": 1787848615872,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "crybaby onthebeat::lil peep - well be fine": {
+      "title": "Lil Peep - Well Be Fine",
+      "artist": "crybaby onthebeat",
+      "originalTrackName": "crybaby onthebeat - Lil Peep - Well Be Fine",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000532844283-9gzvdn-original.jpg",
+      "file": "tracks/crybaby-onthebeat-lil-peep-well-be-fine-2036e569a932.json",
+      "files": {
+        "lyrics": "tracks/crybaby-onthebeat-lil-peep-well-be-fine-2036e569a932.json",
+        "meta": "tracks/crybaby-onthebeat-lil-peep-well-be-fine-2036e569a932.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/crybaby-beats/lil-peep-well-be-fine",
+      "mtimeMs": 1787867958800,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1204,6 +1221,23 @@
       "mtimeMs": 1787848615872,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Lil Peep - Well Be Fine",
+      "artist": "crybaby onthebeat",
+      "originalTrackName": "crybaby onthebeat - Lil Peep - Well Be Fine",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000532844283-9gzvdn-original.jpg",
+      "file": "tracks/crybaby-onthebeat-lil-peep-well-be-fine-2036e569a932.json",
+      "files": {
+        "lyrics": "tracks/crybaby-onthebeat-lil-peep-well-be-fine-2036e569a932.json",
+        "meta": "tracks/crybaby-onthebeat-lil-peep-well-be-fine-2036e569a932.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/crybaby-beats/lil-peep-well-be-fine",
+      "mtimeMs": 1787867958800,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

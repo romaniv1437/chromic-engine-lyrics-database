@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-27T22:39:16.139512+00:00",
-  "totalTracks": 37,
+  "generatedAt": "2026-08-27T22:40:17.788485+00:00",
+  "totalTracks": 38,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -637,6 +637,23 @@
       "mtimeMs": 1787870356139,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "sseerrttyyyy::silly freestyle #uzilovesme #casket #311k": {
+      "title": "silly freestyle #UziLovesMe #Casket #311K",
+      "artist": "sseerrttyyyy",
+      "originalTrackName": "sseerrttyyyy - silly freestyle #UziLovesMe #Casket #311K",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-tlwrZvaWTpuzB6fC-3E0weQ-original.jpg",
+      "file": "tracks/sseerrttyyyy-silly-freestyle-uzilovesme-casket-311k-b47fa93a4076.json",
+      "files": {
+        "lyrics": "tracks/sseerrttyyyy-silly-freestyle-uzilovesme-casket-311k-b47fa93a4076.json",
+        "meta": "tracks/sseerrttyyyy-silly-freestyle-uzilovesme-casket-311k-b47fa93a4076.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/qfdsyelqtftn/silly-freestyle-uzilovesme",
+      "mtimeMs": 1787870418323,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1272,6 +1289,23 @@
       "mtimeMs": 1787870356139,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "silly freestyle #UziLovesMe #Casket #311K",
+      "artist": "sseerrttyyyy",
+      "originalTrackName": "sseerrttyyyy - silly freestyle #UziLovesMe #Casket #311K",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-tlwrZvaWTpuzB6fC-3E0weQ-original.jpg",
+      "file": "tracks/sseerrttyyyy-silly-freestyle-uzilovesme-casket-311k-b47fa93a4076.json",
+      "files": {
+        "lyrics": "tracks/sseerrttyyyy-silly-freestyle-uzilovesme-casket-311k-b47fa93a4076.json",
+        "meta": "tracks/sseerrttyyyy-silly-freestyle-uzilovesme-casket-311k-b47fa93a4076.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/qfdsyelqtftn/silly-freestyle-uzilovesme",
+      "mtimeMs": 1787870418323,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

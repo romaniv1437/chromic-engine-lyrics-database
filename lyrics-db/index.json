@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-27T21:59:31.062195+00:00",
-  "totalTracks": 36,
+  "generatedAt": "2026-08-27T22:38:59.603473+00:00",
+  "totalTracks": 37,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -620,6 +620,23 @@
       "mtimeMs": 1787867971062,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "￶￶￶￶::djezja x orco- zulu slowed": {
+      "title": "DJEZJA x ORCO- ZULU Slowed",
+      "artist": "￶￶￶￶",
+      "originalTrackName": "￶￶￶￶ - DJEZJA x ORCO- ZULU Slowed",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-he0UvO3iCkQHsf6y-ePAFRA-original.png",
+      "file": "tracks/djezja-x-orco-zulu-slowed-1f39057c208a.json",
+      "files": {
+        "lyrics": "tracks/djezja-x-orco-zulu-slowed-1f39057c208a.json",
+        "meta": "tracks/djezja-x-orco-zulu-slowed-1f39057c208a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/timooow/djezja-x-orco-zulu-slowed",
+      "mtimeMs": 1787870340227,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1238,6 +1255,23 @@
       "mtimeMs": 1787867971062,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "DJEZJA x ORCO- ZULU Slowed",
+      "artist": "￶￶￶￶",
+      "originalTrackName": "￶￶￶￶ - DJEZJA x ORCO- ZULU Slowed",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-he0UvO3iCkQHsf6y-ePAFRA-original.png",
+      "file": "tracks/djezja-x-orco-zulu-slowed-1f39057c208a.json",
+      "files": {
+        "lyrics": "tracks/djezja-x-orco-zulu-slowed-1f39057c208a.json",
+        "meta": "tracks/djezja-x-orco-zulu-slowed-1f39057c208a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/timooow/djezja-x-orco-zulu-slowed",
+      "mtimeMs": 1787870340227,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

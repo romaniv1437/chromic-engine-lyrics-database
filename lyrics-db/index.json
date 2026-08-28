@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-28T12:55:00.883237+00:00",
-  "totalTracks": 41,
+  "generatedAt": "2026-08-28T14:41:08.857427+00:00",
+  "totalTracks": 42,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -705,6 +705,23 @@
       "mtimeMs": 1787921700883,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "saluki, 104::saluki, 104 - full time": {
+      "title": "SALUKI, 104 - FULL TIME",
+      "artist": "SALUKI, 104",
+      "originalTrackName": "SALUKI, 104 - SALUKI, 104 - FULL TIME",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-TmaJGG6zf4yyX3HJ-z9Eztw-original.jpg",
+      "file": "tracks/saluki-104-saluki-104-full-time-a7b0a31bc12d.json",
+      "files": {
+        "lyrics": "tracks/saluki-104-saluki-104-full-time-a7b0a31bc12d.json",
+        "meta": "tracks/saluki-104-saluki-104-full-time-a7b0a31bc12d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/russian-music-587158315/saluki-104-full-time-1",
+      "mtimeMs": 1787928069710,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1408,6 +1425,23 @@
       "mtimeMs": 1787921700883,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "SALUKI, 104 - FULL TIME",
+      "artist": "SALUKI, 104",
+      "originalTrackName": "SALUKI, 104 - SALUKI, 104 - FULL TIME",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-TmaJGG6zf4yyX3HJ-z9Eztw-original.jpg",
+      "file": "tracks/saluki-104-saluki-104-full-time-a7b0a31bc12d.json",
+      "files": {
+        "lyrics": "tracks/saluki-104-saluki-104-full-time-a7b0a31bc12d.json",
+        "meta": "tracks/saluki-104-saluki-104-full-time-a7b0a31bc12d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/russian-music-587158315/saluki-104-full-time-1",
+      "mtimeMs": 1787928069710,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

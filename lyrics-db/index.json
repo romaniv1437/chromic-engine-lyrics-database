@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T14:41:21.357324+00:00",
+  "generatedAt": "2026-08-28T16:09:51.483052+00:00",
   "totalTracks": 42,
   "roots": [
     "lyrics-db/tracks"
@@ -655,23 +655,6 @@
       "has_haptics": false,
       "haptics_version": null
     },
-    "taras::taras - 02 обнажённый кайф": {
-      "title": "TARAS - 02 Обнажённый кайф",
-      "artist": "TARAS",
-      "originalTrackName": "TARAS - TARAS - 02 Обнажённый кайф",
-      "source": "syncedlyrics",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000200056404-2qkqsp-original.jpg",
-      "file": "tracks/taras-taras-02-731e91e16516.json",
-      "files": {
-        "lyrics": "tracks/taras-taras-02-731e91e16516.json",
-        "meta": "tracks/taras-taras-02-731e91e16516.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/herboloid/taras-02-obnazhyonnyy-kayf",
-      "mtimeMs": 1787921476998,
-      "has_haptics": false,
-      "haptics_version": null
-    },
     "taras::taras - с ней живой (slowed)": {
       "title": "TARAS - С ней живой (Slowed)",
       "artist": "TARAS",
@@ -722,6 +705,23 @@
       "mtimeMs": 1787928081357,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "taras::taras - 02 обнажённый кайф": {
+      "title": "TARAS - 02 Обнажённый кайф",
+      "artist": "TARAS",
+      "originalTrackName": "TARAS - TARAS - 02 Обнажённый кайф",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000200056404-2qkqsp-original.jpg",
+      "file": "tracks/taras-taras-02-731e91e16516.json",
+      "files": {
+        "lyrics": "tracks/taras-taras-02-731e91e16516.json",
+        "meta": "tracks/taras-taras-02-731e91e16516.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/herboloid/taras-02-obnazhyonnyy-kayf",
+      "mtimeMs": 1787933392578,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1376,23 +1376,6 @@
       "haptics_version": null
     },
     {
-      "title": "TARAS - 02 Обнажённый кайф",
-      "artist": "TARAS",
-      "originalTrackName": "TARAS - TARAS - 02 Обнажённый кайф",
-      "source": "syncedlyrics",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000200056404-2qkqsp-original.jpg",
-      "file": "tracks/taras-taras-02-731e91e16516.json",
-      "files": {
-        "lyrics": "tracks/taras-taras-02-731e91e16516.json",
-        "meta": "tracks/taras-taras-02-731e91e16516.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/herboloid/taras-02-obnazhyonnyy-kayf",
-      "mtimeMs": 1787921476998,
-      "has_haptics": false,
-      "haptics_version": null
-    },
-    {
       "title": "TARAS - С ней живой (Slowed)",
       "artist": "TARAS",
       "originalTrackName": "TARAS - TARAS - С ней живой (Slowed)",
@@ -1442,6 +1425,23 @@
       "mtimeMs": 1787928081357,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "TARAS - 02 Обнажённый кайф",
+      "artist": "TARAS",
+      "originalTrackName": "TARAS - TARAS - 02 Обнажённый кайф",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000200056404-2qkqsp-original.jpg",
+      "file": "tracks/taras-taras-02-731e91e16516.json",
+      "files": {
+        "lyrics": "tracks/taras-taras-02-731e91e16516.json",
+        "meta": "tracks/taras-taras-02-731e91e16516.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/herboloid/taras-02-obnazhyonnyy-kayf",
+      "mtimeMs": 1787933392578,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

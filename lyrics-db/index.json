@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-28T12:53:05.439991+00:00",
-  "totalTracks": 40,
+  "generatedAt": "2026-08-28T12:54:45.154654+00:00",
+  "totalTracks": 41,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -688,6 +688,23 @@
       "mtimeMs": 1787921585439,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "santiz::santiz - убит на кайфах": {
+      "title": "Santiz - Убит На Кайфах",
+      "artist": "Santiz",
+      "originalTrackName": "Santiz - Santiz - Убит На Кайфах",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-n9QtNmCAM9zzl7Un-dMRIIA-original.jpg",
+      "file": "tracks/santiz-santiz-5670046c218a.json",
+      "files": {
+        "lyrics": "tracks/santiz-santiz-5670046c218a.json",
+        "meta": "tracks/santiz-santiz-5670046c218a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/blvckfm/santiz-ubit-na-kayfakh",
+      "mtimeMs": 1787921685810,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1374,6 +1391,23 @@
       "mtimeMs": 1787921585439,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Santiz - Убит На Кайфах",
+      "artist": "Santiz",
+      "originalTrackName": "Santiz - Santiz - Убит На Кайфах",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-n9QtNmCAM9zzl7Un-dMRIIA-original.jpg",
+      "file": "tracks/santiz-santiz-5670046c218a.json",
+      "files": {
+        "lyrics": "tracks/santiz-santiz-5670046c218a.json",
+        "meta": "tracks/santiz-santiz-5670046c218a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/blvckfm/santiz-ubit-na-kayfakh",
+      "mtimeMs": 1787921685810,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

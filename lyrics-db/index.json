@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-28T16:11:28.177805+00:00",
-  "totalTracks": 43,
+  "generatedAt": "2026-08-28T23:00:09.798119+00:00",
+  "totalTracks": 44,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -739,6 +739,23 @@
       "mtimeMs": 1787933488177,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "𝓋𝓁𝒶𝒹𝒾𝓀::лезвие сеул – царапины": {
+      "title": "лезвие сеул – царапины",
+      "artist": "𝓋𝓁𝒶𝒹𝒾𝓀",
+      "originalTrackName": "𝓋𝓁𝒶𝒹𝒾𝓀 - лезвие сеул – царапины",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-VJ7rQnnIGvXD3VzZ-jPADuQ-original.jpg",
+      "file": "tracks/track-2d7fcc4c51cb.json",
+      "files": {
+        "lyrics": "tracks/track-2d7fcc4c51cb.json",
+        "meta": "tracks/track-2d7fcc4c51cb.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/l1c0dkvmprwa/lezvie-seul-czarapiny",
+      "mtimeMs": 1787958010232,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1476,6 +1493,23 @@
       "mtimeMs": 1787933488177,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "лезвие сеул – царапины",
+      "artist": "𝓋𝓁𝒶𝒹𝒾𝓀",
+      "originalTrackName": "𝓋𝓁𝒶𝒹𝒾𝓀 - лезвие сеул – царапины",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-VJ7rQnnIGvXD3VzZ-jPADuQ-original.jpg",
+      "file": "tracks/track-2d7fcc4c51cb.json",
+      "files": {
+        "lyrics": "tracks/track-2d7fcc4c51cb.json",
+        "meta": "tracks/track-2d7fcc4c51cb.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/l1c0dkvmprwa/lezvie-seul-czarapiny",
+      "mtimeMs": 1787958010232,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

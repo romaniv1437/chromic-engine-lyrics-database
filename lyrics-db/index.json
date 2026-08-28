@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-28T16:10:03.803666+00:00",
-  "totalTracks": 42,
+  "generatedAt": "2026-08-28T16:11:15.838462+00:00",
+  "totalTracks": 43,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -722,6 +722,23 @@
       "mtimeMs": 1787933403803,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "izzamuzzic::мания feat rem digga - обними (izzamuzzic instr)": {
+      "title": "Мания feat Rem Digga - Обними (izzamuzzic instr)",
+      "artist": "Izzamuzzic",
+      "originalTrackName": "Izzamuzzic - Мания feat Rem Digga - Обними (izzamuzzic instr)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/avatars-000651652662-m73f3i-original.jpg",
+      "file": "tracks/izzamuzzic-feat-rem-digga-izzamuzzic-instr-646bf1e1dba3.json",
+      "files": {
+        "lyrics": "tracks/izzamuzzic-feat-rem-digga-izzamuzzic-instr-646bf1e1dba3.json",
+        "meta": "tracks/izzamuzzic-feat-rem-digga-izzamuzzic-instr-646bf1e1dba3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/izzamuzzic/maniya-digga-obnimi",
+      "mtimeMs": 1787933476382,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1442,6 +1459,23 @@
       "mtimeMs": 1787933403803,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Мания feat Rem Digga - Обними (izzamuzzic instr)",
+      "artist": "Izzamuzzic",
+      "originalTrackName": "Izzamuzzic - Мания feat Rem Digga - Обними (izzamuzzic instr)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/avatars-000651652662-m73f3i-original.jpg",
+      "file": "tracks/izzamuzzic-feat-rem-digga-izzamuzzic-instr-646bf1e1dba3.json",
+      "files": {
+        "lyrics": "tracks/izzamuzzic-feat-rem-digga-izzamuzzic-instr-646bf1e1dba3.json",
+        "meta": "tracks/izzamuzzic-feat-rem-digga-izzamuzzic-instr-646bf1e1dba3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/izzamuzzic/maniya-digga-obnimi",
+      "mtimeMs": 1787933476382,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

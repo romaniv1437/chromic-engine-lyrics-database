@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-28T12:51:16.999005+00:00",
-  "totalTracks": 39,
+  "generatedAt": "2026-08-28T12:52:54.522774+00:00",
+  "totalTracks": 40,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -671,6 +671,23 @@
       "mtimeMs": 1787921476998,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "taras::taras - с ней живой (slowed)": {
+      "title": "TARAS - С ней живой (Slowed)",
+      "artist": "TARAS",
+      "originalTrackName": "TARAS - TARAS - С ней живой (Slowed)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-8zyVWnsoIlrVBKux-IcSlAg-original.jpg",
+      "file": "tracks/taras-taras-slowed-18c3ac72968f.json",
+      "files": {
+        "lyrics": "tracks/taras-taras-slowed-18c3ac72968f.json",
+        "meta": "tracks/taras-taras-slowed-18c3ac72968f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/andrew-kivachuk/taras-s-nej-zhivoj-slowed",
+      "mtimeMs": 1787921575041,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1340,6 +1357,23 @@
       "mtimeMs": 1787921476998,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "TARAS - С ней живой (Slowed)",
+      "artist": "TARAS",
+      "originalTrackName": "TARAS - TARAS - С ней живой (Slowed)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-8zyVWnsoIlrVBKux-IcSlAg-original.jpg",
+      "file": "tracks/taras-taras-slowed-18c3ac72968f.json",
+      "files": {
+        "lyrics": "tracks/taras-taras-slowed-18c3ac72968f.json",
+        "meta": "tracks/taras-taras-slowed-18c3ac72968f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/andrew-kivachuk/taras-s-nej-zhivoj-slowed",
+      "mtimeMs": 1787921575041,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

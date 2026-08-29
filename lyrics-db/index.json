@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-29T14:34:18.997100+00:00",
-  "totalTracks": 45,
+  "generatedAt": "2026-08-29T14:35:22.642288+00:00",
+  "totalTracks": 46,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -773,6 +773,23 @@
       "mtimeMs": 1788014059851,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "nhtxwd::земфира - почта": {
+      "title": "Земфира - Почта",
+      "artist": "nhtxwd",
+      "originalTrackName": "nhtxwd - Земфира - Почта",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-ffmqEdVMHLgVTlfQ-tAQzRA-original.jpg",
+      "file": "tracks/nhtxwd-53107b89e8f4.json",
+      "files": {
+        "lyrics": "tracks/nhtxwd-53107b89e8f4.json",
+        "meta": "tracks/nhtxwd-53107b89e8f4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-191512154/zemfira-pochta-1",
+      "mtimeMs": 1788014123250,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1542,6 +1559,23 @@
       },
       "sourcePath": "https://soundcloud.com/user-795469799/rozovoe-vino-x-agony-meshap-1",
       "mtimeMs": 1788014059851,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Земфира - Почта",
+      "artist": "nhtxwd",
+      "originalTrackName": "nhtxwd - Земфира - Почта",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-ffmqEdVMHLgVTlfQ-tAQzRA-original.jpg",
+      "file": "tracks/nhtxwd-53107b89e8f4.json",
+      "files": {
+        "lyrics": "tracks/nhtxwd-53107b89e8f4.json",
+        "meta": "tracks/nhtxwd-53107b89e8f4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-191512154/zemfira-pochta-1",
+      "mtimeMs": 1788014123250,
       "has_haptics": true,
       "haptics_version": 4
     }

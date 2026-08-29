@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-28T23:00:09.798119+00:00",
-  "totalTracks": 44,
+  "generatedAt": "2026-08-29T14:34:18.997100+00:00",
+  "totalTracks": 45,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -756,6 +756,23 @@
       "mtimeMs": 1787958010232,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "iona juli::розовое вино x agony (мэшап)": {
+      "title": "Розовое вино X Agony (мэшап)",
+      "artist": "iona juli",
+      "originalTrackName": "iona juli - Розовое вино X Agony (мэшап)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-Ig0zasPyVgDY0AYb-oy6zJA-original.jpg",
+      "file": "tracks/iona-juli-x-agony-acd1df512275.json",
+      "files": {
+        "lyrics": "tracks/iona-juli-x-agony-acd1df512275.json",
+        "meta": "tracks/iona-juli-x-agony-acd1df512275.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-795469799/rozovoe-vino-x-agony-meshap-1",
+      "mtimeMs": 1788014059851,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1508,6 +1525,23 @@
       },
       "sourcePath": "https://soundcloud.com/l1c0dkvmprwa/lezvie-seul-czarapiny",
       "mtimeMs": 1787958010232,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Розовое вино X Agony (мэшап)",
+      "artist": "iona juli",
+      "originalTrackName": "iona juli - Розовое вино X Agony (мэшап)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-Ig0zasPyVgDY0AYb-oy6zJA-original.jpg",
+      "file": "tracks/iona-juli-x-agony-acd1df512275.json",
+      "files": {
+        "lyrics": "tracks/iona-juli-x-agony-acd1df512275.json",
+        "meta": "tracks/iona-juli-x-agony-acd1df512275.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-795469799/rozovoe-vino-x-agony-meshap-1",
+      "mtimeMs": 1788014059851,
       "has_haptics": true,
       "haptics_version": 4
     }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T07:05:03.833856+00:00",
-  "totalTracks": 49,
+  "generatedAt": "2026-08-30T07:05:30.594126+00:00",
+  "totalTracks": 50,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -841,6 +841,23 @@
       "mtimeMs": 1788073504332,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "lil peep::white tee w/ yung bruh (prod. nedarb)": {
+      "title": "white tee w/ yung bruh (prod. nedarb)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - white tee w/ yung bruh (prod. nedarb)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000166870711-81zwro-original.jpg",
+      "file": "tracks/lil-peep-white-tee-w-yung-bruh-prod-nedarb-cae8c04a4812.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-white-tee-w-yung-bruh-prod-nedarb-cae8c04a4812.json",
+        "meta": "tracks/lil-peep-white-tee-w-yung-bruh-prod-nedarb-cae8c04a4812.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/white-tee-w-yung-bruh-prod-nedarb",
+      "mtimeMs": 1788073531111,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1678,6 +1695,23 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/save-that-shit",
       "mtimeMs": 1788073504332,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "white tee w/ yung bruh (prod. nedarb)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - white tee w/ yung bruh (prod. nedarb)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000166870711-81zwro-original.jpg",
+      "file": "tracks/lil-peep-white-tee-w-yung-bruh-prod-nedarb-cae8c04a4812.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-white-tee-w-yung-bruh-prod-nedarb-cae8c04a4812.json",
+        "meta": "tracks/lil-peep-white-tee-w-yung-bruh-prod-nedarb-cae8c04a4812.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/white-tee-w-yung-bruh-prod-nedarb",
+      "mtimeMs": 1788073531111,
       "has_haptics": true,
       "haptics_version": 4
     }

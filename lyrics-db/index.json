@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T07:04:11.457330+00:00",
-  "totalTracks": 47,
+  "generatedAt": "2026-08-30T07:04:47.915384+00:00",
+  "totalTracks": 48,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -807,6 +807,23 @@
       "mtimeMs": 1788073452353,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "latex fruit::dj play this song。。。 6050ce63e4bce6764cb34cac51fb44d1。。。": {
+      "title": "dj play this song。。。 6050ce63e4bce6764cb34cac51fb44d1。。。",
+      "artist": "latex fruit",
+      "originalTrackName": "latex fruit - dj play this song。。。 6050ce63e4bce6764cb34cac51fb44d1。。。",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-P0xcUqjfWDmoFkWz-QMJR1w-original.jpg",
+      "file": "tracks/latex-fruit-dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1-87fce9769fad.json",
+      "files": {
+        "lyrics": "tracks/latex-fruit-dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1-87fce9769fad.json",
+        "meta": "tracks/latex-fruit-dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1-87fce9769fad.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/latexfruit/dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1",
+      "mtimeMs": 1788073488626,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1610,6 +1627,23 @@
       },
       "sourcePath": "https://soundcloud.com/nettspend/shut-up-1",
       "mtimeMs": 1788073452353,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "dj play this song。。。 6050ce63e4bce6764cb34cac51fb44d1。。。",
+      "artist": "latex fruit",
+      "originalTrackName": "latex fruit - dj play this song。。。 6050ce63e4bce6764cb34cac51fb44d1。。。",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-P0xcUqjfWDmoFkWz-QMJR1w-original.jpg",
+      "file": "tracks/latex-fruit-dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1-87fce9769fad.json",
+      "files": {
+        "lyrics": "tracks/latex-fruit-dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1-87fce9769fad.json",
+        "meta": "tracks/latex-fruit-dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1-87fce9769fad.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/latexfruit/dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1",
+      "mtimeMs": 1788073488626,
       "has_haptics": true,
       "haptics_version": 4
     }

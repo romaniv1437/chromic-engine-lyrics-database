@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-29T14:35:22.642288+00:00",
-  "totalTracks": 46,
+  "generatedAt": "2026-08-30T07:04:11.457330+00:00",
+  "totalTracks": 47,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -790,6 +790,23 @@
       "mtimeMs": 1788014123250,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "nettspend::shut up": {
+      "title": "Shut Up",
+      "artist": "Nettspend",
+      "originalTrackName": "Nettspend - Shut Up",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-JabqEqcwLLeomO6v-OHizyw-original.png",
+      "file": "tracks/nettspend-shut-up-26c41f56adc1.json",
+      "files": {
+        "lyrics": "tracks/nettspend-shut-up-26c41f56adc1.json",
+        "meta": "tracks/nettspend-shut-up-26c41f56adc1.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/nettspend/shut-up-1",
+      "mtimeMs": 1788073452353,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1576,6 +1593,23 @@
       },
       "sourcePath": "https://soundcloud.com/user-191512154/zemfira-pochta-1",
       "mtimeMs": 1788014123250,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Shut Up",
+      "artist": "Nettspend",
+      "originalTrackName": "Nettspend - Shut Up",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-JabqEqcwLLeomO6v-OHizyw-original.png",
+      "file": "tracks/nettspend-shut-up-26c41f56adc1.json",
+      "files": {
+        "lyrics": "tracks/nettspend-shut-up-26c41f56adc1.json",
+        "meta": "tracks/nettspend-shut-up-26c41f56adc1.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/nettspend/shut-up-1",
+      "mtimeMs": 1788073452353,
       "has_haptics": true,
       "haptics_version": 4
     }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T07:13:16.979872+00:00",
-  "totalTracks": 51,
+  "generatedAt": "2026-08-30T07:14:21.961976+00:00",
+  "totalTracks": 52,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -875,6 +875,23 @@
       "mtimeMs": 1788073997793,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "гниющая плесень::gothviolence — копия меня prod me": {
+      "title": "gothviolence — копия меня prod me",
+      "artist": "гниющая плесень",
+      "originalTrackName": "гниющая плесень - gothviolence — копия меня prod me",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-82aF0arNjynO6zVf-Ig0Omw-original.jpg",
+      "file": "tracks/gothviolence-prod-me-57ddfe18732a.json",
+      "files": {
+        "lyrics": "tracks/gothviolence-prod-me-57ddfe18732a.json",
+        "meta": "tracks/gothviolence-prod-me-57ddfe18732a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/czvetochek-558663107/gothviolence-kopiya-menya-prod",
+      "mtimeMs": 1788074062535,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1746,6 +1763,23 @@
       },
       "sourcePath": "https://soundcloud.com/xloxxy/my-iphone-best-pt-only-bass",
       "mtimeMs": 1788073997793,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "gothviolence — копия меня prod me",
+      "artist": "гниющая плесень",
+      "originalTrackName": "гниющая плесень - gothviolence — копия меня prod me",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-82aF0arNjynO6zVf-Ig0Omw-original.jpg",
+      "file": "tracks/gothviolence-prod-me-57ddfe18732a.json",
+      "files": {
+        "lyrics": "tracks/gothviolence-prod-me-57ddfe18732a.json",
+        "meta": "tracks/gothviolence-prod-me-57ddfe18732a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/czvetochek-558663107/gothviolence-kopiya-menya-prod",
+      "mtimeMs": 1788074062535,
       "has_haptics": true,
       "haptics_version": 4
     }

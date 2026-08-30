@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T07:05:01.710971+00:00",
-  "totalTracks": 48,
+  "generatedAt": "2026-08-30T07:05:03.833856+00:00",
+  "totalTracks": 49,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -821,9 +821,26 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/latexfruit/dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1",
-      "mtimeMs": 1788073501710,
-      "has_haptics": false,
-      "haptics_version": null
+      "mtimeMs": 1788073488626,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    "lil peep::save that shit (prod. smokeasac x iivi)": {
+      "title": "save that shit (prod. smokeasac x iivi)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - save that shit (prod. smokeasac x iivi)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000238284530-etddgl-original.jpg",
+      "file": "tracks/lil-peep-save-that-shit-prod-smokeasac-x-iivi-db89b8f4d647.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-save-that-shit-prod-smokeasac-x-iivi-db89b8f4d647.json",
+        "meta": "tracks/lil-peep-save-that-shit-prod-smokeasac-x-iivi-db89b8f4d647.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/save-that-shit",
+      "mtimeMs": 1788073504332,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1643,9 +1660,26 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/latexfruit/dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1",
-      "mtimeMs": 1788073501710,
-      "has_haptics": false,
-      "haptics_version": null
+      "mtimeMs": 1788073488626,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "save that shit (prod. smokeasac x iivi)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - save that shit (prod. smokeasac x iivi)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000238284530-etddgl-original.jpg",
+      "file": "tracks/lil-peep-save-that-shit-prod-smokeasac-x-iivi-db89b8f4d647.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-save-that-shit-prod-smokeasac-x-iivi-db89b8f4d647.json",
+        "meta": "tracks/lil-peep-save-that-shit-prod-smokeasac-x-iivi-db89b8f4d647.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/save-that-shit",
+      "mtimeMs": 1788073504332,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

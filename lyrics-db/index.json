@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T07:05:30.594126+00:00",
-  "totalTracks": 50,
+  "generatedAt": "2026-08-30T07:13:16.979872+00:00",
+  "totalTracks": 51,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -858,6 +858,23 @@
       "mtimeMs": 1788073531111,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "loxxy::my iphone (best pt only bass boosted) (sped up)": {
+      "title": "my iphone (best pt only bass boosted) (sped up)",
+      "artist": "loxxy",
+      "originalTrackName": "loxxy - my iphone (best pt only bass boosted) (sped up)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/avatars-12JPDqwtnS2KzksL-TSnP8w-original.jpg",
+      "file": "tracks/loxxy-my-iphone-best-pt-only-bass-boosted-sped-up-9b7801ab7f2f.json",
+      "files": {
+        "lyrics": "tracks/loxxy-my-iphone-best-pt-only-bass-boosted-sped-up-9b7801ab7f2f.json",
+        "meta": "tracks/loxxy-my-iphone-best-pt-only-bass-boosted-sped-up-9b7801ab7f2f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/xloxxy/my-iphone-best-pt-only-bass",
+      "mtimeMs": 1788073997793,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1712,6 +1729,23 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/white-tee-w-yung-bruh-prod-nedarb",
       "mtimeMs": 1788073531111,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "my iphone (best pt only bass boosted) (sped up)",
+      "artist": "loxxy",
+      "originalTrackName": "loxxy - my iphone (best pt only bass boosted) (sped up)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/avatars-12JPDqwtnS2KzksL-TSnP8w-original.jpg",
+      "file": "tracks/loxxy-my-iphone-best-pt-only-bass-boosted-sped-up-9b7801ab7f2f.json",
+      "files": {
+        "lyrics": "tracks/loxxy-my-iphone-best-pt-only-bass-boosted-sped-up-9b7801ab7f2f.json",
+        "meta": "tracks/loxxy-my-iphone-best-pt-only-bass-boosted-sped-up-9b7801ab7f2f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/xloxxy/my-iphone-best-pt-only-bass",
+      "mtimeMs": 1788073997793,
       "has_haptics": true,
       "haptics_version": 4
     }

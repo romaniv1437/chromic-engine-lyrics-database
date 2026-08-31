@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T07:14:21.961976+00:00",
-  "totalTracks": 52,
+  "generatedAt": "2026-08-31T09:13:08.087458+00:00",
+  "totalTracks": 53,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -892,6 +892,23 @@
       "mtimeMs": 1788074062535,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "☆lil peep☆::crying diamonds (prod pe$o piddy)": {
+      "title": "crying diamonds (prod pe$o piddy)",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - crying diamonds (prod pe$o piddy)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-Pz16VyVwvDqjoZei-B5Lx4A-original.jpg",
+      "file": "tracks/lil-peep-crying-diamonds-prod-pe-o-piddy-5bd7747846e3.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-crying-diamonds-prod-pe-o-piddy-5bd7747846e3.json",
+        "meta": "tracks/lil-peep-crying-diamonds-prod-pe-o-piddy-5bd7747846e3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/gooseyhoe/crying-diamonds-prod-peso-piddy",
+      "mtimeMs": 1788167589120,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1780,6 +1797,23 @@
       },
       "sourcePath": "https://soundcloud.com/czvetochek-558663107/gothviolence-kopiya-menya-prod",
       "mtimeMs": 1788074062535,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "crying diamonds (prod pe$o piddy)",
+      "artist": "☆LiL PEEP☆",
+      "originalTrackName": "☆LiL PEEP☆ - crying diamonds (prod pe$o piddy)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-Pz16VyVwvDqjoZei-B5Lx4A-original.jpg",
+      "file": "tracks/lil-peep-crying-diamonds-prod-pe-o-piddy-5bd7747846e3.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-crying-diamonds-prod-pe-o-piddy-5bd7747846e3.json",
+        "meta": "tracks/lil-peep-crying-diamonds-prod-pe-o-piddy-5bd7747846e3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/gooseyhoe/crying-diamonds-prod-peso-piddy",
+      "mtimeMs": 1788167589120,
       "has_haptics": true,
       "haptics_version": 4
     }

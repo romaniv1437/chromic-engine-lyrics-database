@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T09:13:08.087458+00:00",
+  "generatedAt": "2026-08-31T09:13:10.932703+00:00",
   "totalTracks": 53,
   "roots": [
     "lyrics-db/tracks"
@@ -893,20 +893,20 @@
       "has_haptics": true,
       "haptics_version": 4
     },
-    "☆lil peep☆::crying diamonds (prod pe$o piddy)": {
-      "title": "crying diamonds (prod pe$o piddy)",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - crying diamonds (prod pe$o piddy)",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-Pz16VyVwvDqjoZei-B5Lx4A-original.jpg",
-      "file": "tracks/lil-peep-crying-diamonds-prod-pe-o-piddy-5bd7747846e3.json",
+    "$uicideboy$::matte black": {
+      "title": "MATTE BLACK",
+      "artist": "$uicideboy$",
+      "originalTrackName": "$uicideboy$ - MATTE BLACK",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-bSQV8JX7QqQARb9f-On7f0w-original.jpg",
+      "file": "tracks/uicideboy-matte-black-669cd44aabd8.json",
       "files": {
-        "lyrics": "tracks/lil-peep-crying-diamonds-prod-pe-o-piddy-5bd7747846e3.json",
-        "meta": "tracks/lil-peep-crying-diamonds-prod-pe-o-piddy-5bd7747846e3.meta.json",
+        "lyrics": "tracks/uicideboy-matte-black-669cd44aabd8.json",
+        "meta": "tracks/uicideboy-matte-black-669cd44aabd8.meta.json",
         "translations": {}
       },
-      "sourcePath": "https://soundcloud.com/gooseyhoe/crying-diamonds-prod-peso-piddy",
-      "mtimeMs": 1788167589120,
+      "sourcePath": "https://soundcloud.com/g59/matte-black",
+      "mtimeMs": 1788167591341,
       "has_haptics": true,
       "haptics_version": 4
     }
@@ -1801,19 +1801,19 @@
       "haptics_version": 4
     },
     {
-      "title": "crying diamonds (prod pe$o piddy)",
-      "artist": "☆LiL PEEP☆",
-      "originalTrackName": "☆LiL PEEP☆ - crying diamonds (prod pe$o piddy)",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-Pz16VyVwvDqjoZei-B5Lx4A-original.jpg",
-      "file": "tracks/lil-peep-crying-diamonds-prod-pe-o-piddy-5bd7747846e3.json",
+      "title": "MATTE BLACK",
+      "artist": "$uicideboy$",
+      "originalTrackName": "$uicideboy$ - MATTE BLACK",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-bSQV8JX7QqQARb9f-On7f0w-original.jpg",
+      "file": "tracks/uicideboy-matte-black-669cd44aabd8.json",
       "files": {
-        "lyrics": "tracks/lil-peep-crying-diamonds-prod-pe-o-piddy-5bd7747846e3.json",
-        "meta": "tracks/lil-peep-crying-diamonds-prod-pe-o-piddy-5bd7747846e3.meta.json",
+        "lyrics": "tracks/uicideboy-matte-black-669cd44aabd8.json",
+        "meta": "tracks/uicideboy-matte-black-669cd44aabd8.meta.json",
         "translations": {}
       },
-      "sourcePath": "https://soundcloud.com/gooseyhoe/crying-diamonds-prod-peso-piddy",
-      "mtimeMs": 1788167589120,
+      "sourcePath": "https://soundcloud.com/g59/matte-black",
+      "mtimeMs": 1788167591341,
       "has_haptics": true,
       "haptics_version": 4
     }

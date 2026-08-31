@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T09:13:10.932703+00:00",
-  "totalTracks": 53,
+  "generatedAt": "2026-08-31T22:53:00.497990+00:00",
+  "totalTracks": 54,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -909,6 +909,23 @@
       "mtimeMs": 1788167591341,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "tenebran::tenebran - je veux": {
+      "title": "Tenebran - Je Veux",
+      "artist": "TENEBRAN",
+      "originalTrackName": "TENEBRAN - Tenebran - Je Veux",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-0bjEokzq6q2rcy37-xzFlDw-original.png",
+      "file": "tracks/tenebran-tenebran-je-veux-968b2c588da2.json",
+      "files": {
+        "lyrics": "tracks/tenebran-tenebran-je-veux-968b2c588da2.json",
+        "meta": "tracks/tenebran-tenebran-je-veux-968b2c588da2.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/tenebran/tenebran-je-veux",
+      "mtimeMs": 1788216781237,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1814,6 +1831,23 @@
       },
       "sourcePath": "https://soundcloud.com/g59/matte-black",
       "mtimeMs": 1788167591341,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Tenebran - Je Veux",
+      "artist": "TENEBRAN",
+      "originalTrackName": "TENEBRAN - Tenebran - Je Veux",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-0bjEokzq6q2rcy37-xzFlDw-original.png",
+      "file": "tracks/tenebran-tenebran-je-veux-968b2c588da2.json",
+      "files": {
+        "lyrics": "tracks/tenebran-tenebran-je-veux-968b2c588da2.json",
+        "meta": "tracks/tenebran-tenebran-je-veux-968b2c588da2.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/tenebran/tenebran-je-veux",
+      "mtimeMs": 1788216781237,
       "has_haptics": true,
       "haptics_version": 4
     }

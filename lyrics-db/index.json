@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T22:53:17.148365+00:00",
-  "totalTracks": 54,
+  "generatedAt": "2026-09-01T09:55:56.614579+00:00",
+  "totalTracks": 55,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -926,6 +926,23 @@
       "mtimeMs": 1788216797148,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "cupsize::целую тебя": {
+      "title": "Целую Тебя",
+      "artist": "CUPSIZE",
+      "originalTrackName": "CUPSIZE - Целую Тебя",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-rwLA7wdZzPaFz8NQ-DT1UHQ-original.jpg",
+      "file": "tracks/cupsize-c8c3686f5594.json",
+      "files": {
+        "lyrics": "tracks/cupsize-c8c3686f5594.json",
+        "meta": "tracks/cupsize-c8c3686f5594.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/yrs0uld1e/cupsize-tseluyu-tebya",
+      "mtimeMs": 1788256557247,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1850,6 +1867,23 @@
       "mtimeMs": 1788216797148,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Целую Тебя",
+      "artist": "CUPSIZE",
+      "originalTrackName": "CUPSIZE - Целую Тебя",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-rwLA7wdZzPaFz8NQ-DT1UHQ-original.jpg",
+      "file": "tracks/cupsize-c8c3686f5594.json",
+      "files": {
+        "lyrics": "tracks/cupsize-c8c3686f5594.json",
+        "meta": "tracks/cupsize-c8c3686f5594.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/yrs0uld1e/cupsize-tseluyu-tebya",
+      "mtimeMs": 1788256557247,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

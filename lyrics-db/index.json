@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T09:55:56.614579+00:00",
-  "totalTracks": 55,
+  "generatedAt": "2026-09-01T09:57:40.995426+00:00",
+  "totalTracks": 56,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -943,6 +943,23 @@
       "mtimeMs": 1788256557247,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "everlov3d::cupsize - пока-пока": {
+      "title": "CUPSIZE - пока-пока",
+      "artist": "everlov3d",
+      "originalTrackName": "everlov3d - CUPSIZE - пока-пока",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-akST3nEBO9EyWfWC-czDu2g-original.jpg",
+      "file": "tracks/everlov3d-cupsize-4c436dbdded6.json",
+      "files": {
+        "lyrics": "tracks/everlov3d-cupsize-4c436dbdded6.json",
+        "meta": "tracks/everlov3d-cupsize-4c436dbdded6.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/everlov3d/cupsize-poka-poka",
+      "mtimeMs": 1788256661872,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1882,6 +1899,23 @@
       },
       "sourcePath": "https://soundcloud.com/yrs0uld1e/cupsize-tseluyu-tebya",
       "mtimeMs": 1788256557247,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "CUPSIZE - пока-пока",
+      "artist": "everlov3d",
+      "originalTrackName": "everlov3d - CUPSIZE - пока-пока",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-akST3nEBO9EyWfWC-czDu2g-original.jpg",
+      "file": "tracks/everlov3d-cupsize-4c436dbdded6.json",
+      "files": {
+        "lyrics": "tracks/everlov3d-cupsize-4c436dbdded6.json",
+        "meta": "tracks/everlov3d-cupsize-4c436dbdded6.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/everlov3d/cupsize-poka-poka",
+      "mtimeMs": 1788256661872,
       "has_haptics": true,
       "haptics_version": 4
     }

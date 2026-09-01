@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T09:57:54.056872+00:00",
-  "totalTracks": 56,
+  "generatedAt": "2026-09-01T23:36:25.308304+00:00",
+  "totalTracks": 57,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -960,6 +960,23 @@
       "mtimeMs": 1788256674056,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "ki::wishes  zav": {
+      "title": "wishes  zav",
+      "artist": "ki",
+      "originalTrackName": "ki - wishes  zav",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-7vFMJNV3P5y13XWA-VEiy5Q-original.png",
+      "file": "tracks/ki-wishes-zav-66213aa26406.json",
+      "files": {
+        "lyrics": "tracks/ki-wishes-zav-66213aa26406.json",
+        "meta": "tracks/ki-wishes-zav-66213aa26406.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/hereignsonceagain/wishes-zav",
+      "mtimeMs": 1788305786218,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1918,6 +1935,23 @@
       "mtimeMs": 1788256674056,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "wishes  zav",
+      "artist": "ki",
+      "originalTrackName": "ki - wishes  zav",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-7vFMJNV3P5y13XWA-VEiy5Q-original.png",
+      "file": "tracks/ki-wishes-zav-66213aa26406.json",
+      "files": {
+        "lyrics": "tracks/ki-wishes-zav-66213aa26406.json",
+        "meta": "tracks/ki-wishes-zav-66213aa26406.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/hereignsonceagain/wishes-zav",
+      "mtimeMs": 1788305786218,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

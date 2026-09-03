@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T10:00:41.675632+00:00",
-  "totalTracks": 59,
+  "generatedAt": "2026-09-03T14:51:22.055574+00:00",
+  "totalTracks": 60,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1011,6 +1011,23 @@
       "mtimeMs": 1788429642183,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "wormganger + polyana + baby melo::3 бара [remastered by me]": {
+      "title": "3 бара [remastered by me]",
+      "artist": "wormganger + polyana + baby melo",
+      "originalTrackName": "wormganger + polyana + baby melo - 3 бара [remastered by me]",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-nyE7veAimBRgzhhV-olQIMQ-original.png",
+      "file": "tracks/wormganger-polyana-baby-melo-3-remastered-by-me-3439470c48c2.json",
+      "files": {
+        "lyrics": "tracks/wormganger-polyana-baby-melo-3-remastered-by-me-3439470c48c2.json",
+        "meta": "tracks/wormganger-polyana-baby-melo-3-remastered-by-me-3439470c48c2.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1herobrine/3-bara",
+      "mtimeMs": 1788447083683,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2018,6 +2035,23 @@
       },
       "sourcePath": "file://Matthew Zeitler - Higher (High).m4a",
       "mtimeMs": 1788429642183,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "3 бара [remastered by me]",
+      "artist": "wormganger + polyana + baby melo",
+      "originalTrackName": "wormganger + polyana + baby melo - 3 бара [remastered by me]",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-nyE7veAimBRgzhhV-olQIMQ-original.png",
+      "file": "tracks/wormganger-polyana-baby-melo-3-remastered-by-me-3439470c48c2.json",
+      "files": {
+        "lyrics": "tracks/wormganger-polyana-baby-melo-3-remastered-by-me-3439470c48c2.json",
+        "meta": "tracks/wormganger-polyana-baby-melo-3-remastered-by-me-3439470c48c2.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1herobrine/3-bara",
+      "mtimeMs": 1788447083683,
       "has_haptics": true,
       "haptics_version": 4
     }

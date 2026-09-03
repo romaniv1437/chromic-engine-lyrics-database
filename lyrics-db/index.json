@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T14:51:42.293866+00:00",
+  "generatedAt": "2026-09-03T15:29:38.628045+00:00",
   "totalTracks": 60,
   "roots": [
     "lyrics-db/tracks"
@@ -808,23 +808,6 @@
       "has_haptics": true,
       "haptics_version": 4
     },
-    "latex fruit::dj play this song。。。 6050ce63e4bce6764cb34cac51fb44d1。。。": {
-      "title": "dj play this song。。。 6050ce63e4bce6764cb34cac51fb44d1。。。",
-      "artist": "latex fruit",
-      "originalTrackName": "latex fruit - dj play this song。。。 6050ce63e4bce6764cb34cac51fb44d1。。。",
-      "source": "syncedlyrics",
-      "thumbnail": "https://i1.sndcdn.com/artworks-P0xcUqjfWDmoFkWz-QMJR1w-original.jpg",
-      "file": "tracks/latex-fruit-dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1-87fce9769fad.json",
-      "files": {
-        "lyrics": "tracks/latex-fruit-dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1-87fce9769fad.json",
-        "meta": "tracks/latex-fruit-dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1-87fce9769fad.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/latexfruit/dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1",
-      "mtimeMs": 1788073488626,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
     "lil peep::save that shit (prod. smokeasac x iivi)": {
       "title": "save that shit (prod. smokeasac x iivi)",
       "artist": "Lil Peep",
@@ -1028,6 +1011,23 @@
       "mtimeMs": 1788447102293,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "latex fruit::dj play this song。。。 6050ce63e4bce6764cb34cac51fb44d1。。。": {
+      "title": "dj play this song。。。 6050ce63e4bce6764cb34cac51fb44d1。。。",
+      "artist": "latex fruit",
+      "originalTrackName": "latex fruit - dj play this song。。。 6050ce63e4bce6764cb34cac51fb44d1。。。",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-P0xcUqjfWDmoFkWz-QMJR1w-original.jpg",
+      "file": "tracks/latex-fruit-dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1-87fce9769fad.json",
+      "files": {
+        "lyrics": "tracks/latex-fruit-dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1-87fce9769fad.json",
+        "meta": "tracks/latex-fruit-dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1-87fce9769fad.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/latexfruit/dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1",
+      "mtimeMs": 1788449379312,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1835,23 +1835,6 @@
       "haptics_version": 4
     },
     {
-      "title": "dj play this song。。。 6050ce63e4bce6764cb34cac51fb44d1。。。",
-      "artist": "latex fruit",
-      "originalTrackName": "latex fruit - dj play this song。。。 6050ce63e4bce6764cb34cac51fb44d1。。。",
-      "source": "syncedlyrics",
-      "thumbnail": "https://i1.sndcdn.com/artworks-P0xcUqjfWDmoFkWz-QMJR1w-original.jpg",
-      "file": "tracks/latex-fruit-dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1-87fce9769fad.json",
-      "files": {
-        "lyrics": "tracks/latex-fruit-dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1-87fce9769fad.json",
-        "meta": "tracks/latex-fruit-dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1-87fce9769fad.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/latexfruit/dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1",
-      "mtimeMs": 1788073488626,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
-    {
       "title": "save that shit (prod. smokeasac x iivi)",
       "artist": "Lil Peep",
       "originalTrackName": "Lil Peep - save that shit (prod. smokeasac x iivi)",
@@ -2054,6 +2037,23 @@
       "mtimeMs": 1788447102293,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "dj play this song。。。 6050ce63e4bce6764cb34cac51fb44d1。。。",
+      "artist": "latex fruit",
+      "originalTrackName": "latex fruit - dj play this song。。。 6050ce63e4bce6764cb34cac51fb44d1。。。",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-P0xcUqjfWDmoFkWz-QMJR1w-original.jpg",
+      "file": "tracks/latex-fruit-dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1-87fce9769fad.json",
+      "files": {
+        "lyrics": "tracks/latex-fruit-dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1-87fce9769fad.json",
+        "meta": "tracks/latex-fruit-dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1-87fce9769fad.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/latexfruit/dj-play-this-song-6050ce63e4bce6764cb34cac51fb44d1",
+      "mtimeMs": 1788449379312,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

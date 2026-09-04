@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T17:07:19.489952+00:00",
+  "generatedAt": "2026-09-04T17:07:36.116404+00:00",
   "totalTracks": 61,
   "roots": [
     "lyrics-db/tracks"
@@ -1042,9 +1042,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/lykkeli/little-bit-1",
-      "mtimeMs": 1788541640730,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1788541656116,
+      "has_haptics": false,
+      "haptics_version": null
     }
   },
   "tracks": [
@@ -2085,9 +2085,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/lykkeli/little-bit-1",
-      "mtimeMs": 1788541640730,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1788541656116,
+      "has_haptics": false,
+      "haptics_version": null
     }
   ]
 }

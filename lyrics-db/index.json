@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-05T09:11:37.478935+00:00",
-  "totalTracks": 62,
+  "generatedAt": "2026-09-05T23:48:51.898029+00:00",
+  "totalTracks": 63,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1062,6 +1062,23 @@
       "mtimeMs": 1788599497478,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "borgore, kayp::just a dream": {
+      "title": "JUST A DREAM",
+      "artist": "Borgore, Kayp",
+      "originalTrackName": "Borgore, Kayp - JUST A DREAM",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-PNHvn0ryX9ANgP8K-LurbDA-original.jpg",
+      "file": "tracks/borgore-kayp-just-a-dream-abfddc0852fb.json",
+      "files": {
+        "lyrics": "tracks/borgore-kayp-just-a-dream-abfddc0852fb.json",
+        "meta": "tracks/borgore-kayp-just-a-dream-abfddc0852fb.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/borgore/just-a-dream",
+      "mtimeMs": 1788652132635,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2122,6 +2139,23 @@
       "mtimeMs": 1788599497478,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "JUST A DREAM",
+      "artist": "Borgore, Kayp",
+      "originalTrackName": "Borgore, Kayp - JUST A DREAM",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-PNHvn0ryX9ANgP8K-LurbDA-original.jpg",
+      "file": "tracks/borgore-kayp-just-a-dream-abfddc0852fb.json",
+      "files": {
+        "lyrics": "tracks/borgore-kayp-just-a-dream-abfddc0852fb.json",
+        "meta": "tracks/borgore-kayp-just-a-dream-abfddc0852fb.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/borgore/just-a-dream",
+      "mtimeMs": 1788652132635,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

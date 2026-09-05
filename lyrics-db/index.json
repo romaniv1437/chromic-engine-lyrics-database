@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T17:07:36.116404+00:00",
-  "totalTracks": 61,
+  "generatedAt": "2026-09-05T09:11:25.707512+00:00",
+  "totalTracks": 62,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1045,6 +1045,23 @@
       "mtimeMs": 1788541656116,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "michał lewańczyk::lil peep - \"sick\" prod. pvrvnormval (full cdq version)": {
+      "title": "Lil Peep - \"Sick\" prod. pvrvnormval (FULL CDQ VERSION)",
+      "artist": "Michał Lewańczyk",
+      "originalTrackName": "Michał Lewańczyk - Lil Peep - \"Sick\" prod. pvrvnormval (FULL CDQ VERSION)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-hx5NG7ElW0bH1Cjn-J2K24A-original.jpg",
+      "file": "tracks/micha-lewa-czyk-lil-peep-sick-prod-pvrvnormval-full-cdq-version-ffa68ffea1fc.json",
+      "files": {
+        "lyrics": "tracks/micha-lewa-czyk-lil-peep-sick-prod-pvrvnormval-full-cdq-version-ffa68ffea1fc.json",
+        "meta": "tracks/micha-lewa-czyk-lil-peep-sick-prod-pvrvnormval-full-cdq-version-ffa68ffea1fc.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/micha-lewa-czyk/lil-peep-sick-prod-pvrvnormval-full-cdq-version",
+      "mtimeMs": 1788599486322,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2088,6 +2105,23 @@
       "mtimeMs": 1788541656116,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Lil Peep - \"Sick\" prod. pvrvnormval (FULL CDQ VERSION)",
+      "artist": "Michał Lewańczyk",
+      "originalTrackName": "Michał Lewańczyk - Lil Peep - \"Sick\" prod. pvrvnormval (FULL CDQ VERSION)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-hx5NG7ElW0bH1Cjn-J2K24A-original.jpg",
+      "file": "tracks/micha-lewa-czyk-lil-peep-sick-prod-pvrvnormval-full-cdq-version-ffa68ffea1fc.json",
+      "files": {
+        "lyrics": "tracks/micha-lewa-czyk-lil-peep-sick-prod-pvrvnormval-full-cdq-version-ffa68ffea1fc.json",
+        "meta": "tracks/micha-lewa-czyk-lil-peep-sick-prod-pvrvnormval-full-cdq-version-ffa68ffea1fc.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/micha-lewa-czyk/lil-peep-sick-prod-pvrvnormval-full-cdq-version",
+      "mtimeMs": 1788599486322,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

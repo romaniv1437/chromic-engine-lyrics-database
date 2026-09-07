@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-07T01:18:13.188096+00:00",
-  "totalTracks": 64,
+  "generatedAt": "2026-09-07T01:21:25.303710+00:00",
+  "totalTracks": 65,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1096,6 +1096,23 @@
       "mtimeMs": 1788743893188,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "rexv2, adynify, vax, babyman, pray, bina, waera::love songs for nothing": {
+      "title": "LOVE SONGS FOR NOTHING",
+      "artist": "Rexv2, Adynify, Vax, Babyman, Pray, Bina, Waera",
+      "originalTrackName": "Rexv2, Adynify, Vax, Babyman, Pray, Bina, Waera - LOVE SONGS FOR NOTHING",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-i8m5HPLqCPgyajSi-IDhf0Q-original.png",
+      "file": "tracks/rexv2-adynify-vax-babyman-pray-bina-waera-love-songs-for-nothing-07c6acc81ba3.json",
+      "files": {
+        "lyrics": "tracks/rexv2-adynify-vax-babyman-pray-bina-waera-love-songs-for-nothing-07c6acc81ba3.json",
+        "meta": "tracks/rexv2-adynify-vax-babyman-pray-bina-waera-love-songs-for-nothing-07c6acc81ba3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/pocketsfullaguap/love-songs-for-nothins",
+      "mtimeMs": 1788744086280,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2190,6 +2207,23 @@
       "mtimeMs": 1788743893188,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "LOVE SONGS FOR NOTHING",
+      "artist": "Rexv2, Adynify, Vax, Babyman, Pray, Bina, Waera",
+      "originalTrackName": "Rexv2, Adynify, Vax, Babyman, Pray, Bina, Waera - LOVE SONGS FOR NOTHING",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-i8m5HPLqCPgyajSi-IDhf0Q-original.png",
+      "file": "tracks/rexv2-adynify-vax-babyman-pray-bina-waera-love-songs-for-nothing-07c6acc81ba3.json",
+      "files": {
+        "lyrics": "tracks/rexv2-adynify-vax-babyman-pray-bina-waera-love-songs-for-nothing-07c6acc81ba3.json",
+        "meta": "tracks/rexv2-adynify-vax-babyman-pray-bina-waera-love-songs-for-nothing-07c6acc81ba3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/pocketsfullaguap/love-songs-for-nothins",
+      "mtimeMs": 1788744086280,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

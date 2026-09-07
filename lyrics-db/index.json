@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T02:01:59.494756+00:00",
+  "generatedAt": "2026-09-07T02:02:15.708835+00:00",
   "totalTracks": 67,
   "roots": [
     "lyrics-db/tracks"
@@ -1144,9 +1144,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/slayr/holding",
-      "mtimeMs": 1788746520568,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1788746535708,
+      "has_haptics": false,
+      "haptics_version": null
     }
   },
   "tracks": [
@@ -2289,9 +2289,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/slayr/holding",
-      "mtimeMs": 1788746520568,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1788746535708,
+      "has_haptics": false,
+      "haptics_version": null
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-07T15:25:44.914749+00:00",
-  "totalTracks": 69,
+  "generatedAt": "2026-09-07T15:33:12.160692+00:00",
+  "totalTracks": 70,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1181,6 +1181,23 @@
       "mtimeMs": 1788794744914,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "4bout::moonlight (original by kali uchis)": {
+      "title": "Moonlight (Original by Kali Uchis)",
+      "artist": "4BOUT",
+      "originalTrackName": "4BOUT - Moonlight (Original by Kali Uchis)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-DI99w1FgjQwC6thU-IdO42g-original.jpg",
+      "file": "tracks/4bout-moonlight-original-by-kali-uchis-6cff6a6fede2.json",
+      "files": {
+        "lyrics": "tracks/4bout-moonlight-original-by-kali-uchis-6cff6a6fede2.json",
+        "meta": "tracks/4bout-moonlight-original-by-kali-uchis-6cff6a6fede2.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/about1202/moonlight-about-original-by-kali-uchis",
+      "mtimeMs": 1788795193201,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2360,6 +2377,23 @@
       "mtimeMs": 1788794744914,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Moonlight (Original by Kali Uchis)",
+      "artist": "4BOUT",
+      "originalTrackName": "4BOUT - Moonlight (Original by Kali Uchis)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-DI99w1FgjQwC6thU-IdO42g-original.jpg",
+      "file": "tracks/4bout-moonlight-original-by-kali-uchis-6cff6a6fede2.json",
+      "files": {
+        "lyrics": "tracks/4bout-moonlight-original-by-kali-uchis-6cff6a6fede2.json",
+        "meta": "tracks/4bout-moonlight-original-by-kali-uchis-6cff6a6fede2.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/about1202/moonlight-about-original-by-kali-uchis",
+      "mtimeMs": 1788795193201,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

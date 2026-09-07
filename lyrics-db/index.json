@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-05T23:48:51.898029+00:00",
-  "totalTracks": 63,
+  "generatedAt": "2026-09-07T01:17:58.380278+00:00",
+  "totalTracks": 64,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1079,6 +1079,23 @@
       "mtimeMs": 1788652132635,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "reklus1ve::nettspend - i ❤️va prod me n taylor morgan": {
+      "title": "nettspend - i ❤️VA prod me n taylor morgan",
+      "artist": "reklus1ve",
+      "originalTrackName": "reklus1ve - nettspend - i ❤️VA prod me n taylor morgan",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-PQNtEVeJU5mrnbqU-LPWIkA-original.jpg",
+      "file": "tracks/reklus1ve-nettspend-i-va-prod-me-n-taylor-morgan-7528af73f759.json",
+      "files": {
+        "lyrics": "tracks/reklus1ve-nettspend-i-va-prod-me-n-taylor-morgan-7528af73f759.json",
+        "meta": "tracks/reklus1ve-nettspend-i-va-prod-me-n-taylor-morgan-7528af73f759.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/reklus1ve/nettspend-lookin-4u-prod-me-n",
+      "mtimeMs": 1788743879288,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2154,6 +2171,23 @@
       },
       "sourcePath": "https://soundcloud.com/borgore/just-a-dream",
       "mtimeMs": 1788652132635,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "nettspend - i ❤️VA prod me n taylor morgan",
+      "artist": "reklus1ve",
+      "originalTrackName": "reklus1ve - nettspend - i ❤️VA prod me n taylor morgan",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-PQNtEVeJU5mrnbqU-LPWIkA-original.jpg",
+      "file": "tracks/reklus1ve-nettspend-i-va-prod-me-n-taylor-morgan-7528af73f759.json",
+      "files": {
+        "lyrics": "tracks/reklus1ve-nettspend-i-va-prod-me-n-taylor-morgan-7528af73f759.json",
+        "meta": "tracks/reklus1ve-nettspend-i-va-prod-me-n-taylor-morgan-7528af73f759.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/reklus1ve/nettspend-lookin-4u-prod-me-n",
+      "mtimeMs": 1788743879288,
       "has_haptics": true,
       "haptics_version": 4
     }

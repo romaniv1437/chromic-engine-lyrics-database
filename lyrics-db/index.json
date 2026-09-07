@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-07T15:24:16.773330+00:00",
-  "totalTracks": 68,
+  "generatedAt": "2026-09-07T15:25:27.148445+00:00",
+  "totalTracks": 69,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1164,6 +1164,23 @@
       "mtimeMs": 1788794656773,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "𝑳𝒊𝒏𝒂 🎀::kali uchis - moonlight (slowed + reverb)": {
+      "title": "kali uchis - moonlight (slowed + reverb)",
+      "artist": "𝑳𝒊𝒏𝒂 🎀",
+      "originalTrackName": "𝑳𝒊𝒏𝒂 🎀 - kali uchis - moonlight (slowed + reverb)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-I5oxqvp1kFECUsEI-0HDCtQ-original.jpg",
+      "file": "tracks/kali-uchis-moonlight-slowed-reverb-6e33a72cfd22.json",
+      "files": {
+        "lyrics": "tracks/kali-uchis-moonlight-slowed-reverb-6e33a72cfd22.json",
+        "meta": "tracks/kali-uchis-moonlight-slowed-reverb-6e33a72cfd22.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/carolina-goncalves-421870318/kali-uchis-moonlight-slowed",
+      "mtimeMs": 1788794727897,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2326,6 +2343,23 @@
       "mtimeMs": 1788794656773,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "kali uchis - moonlight (slowed + reverb)",
+      "artist": "𝑳𝒊𝒏𝒂 🎀",
+      "originalTrackName": "𝑳𝒊𝒏𝒂 🎀 - kali uchis - moonlight (slowed + reverb)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-I5oxqvp1kFECUsEI-0HDCtQ-original.jpg",
+      "file": "tracks/kali-uchis-moonlight-slowed-reverb-6e33a72cfd22.json",
+      "files": {
+        "lyrics": "tracks/kali-uchis-moonlight-slowed-reverb-6e33a72cfd22.json",
+        "meta": "tracks/kali-uchis-moonlight-slowed-reverb-6e33a72cfd22.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/carolina-goncalves-421870318/kali-uchis-moonlight-slowed",
+      "mtimeMs": 1788794727897,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

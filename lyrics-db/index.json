@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-07T02:02:15.708835+00:00",
-  "totalTracks": 67,
+  "generatedAt": "2026-09-07T15:23:59.806541+00:00",
+  "totalTracks": 68,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1147,6 +1147,23 @@
       "mtimeMs": 1788746535708,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "prodbylooxxy::kali uchis - moonlight ┃x hoodtrap": {
+      "title": "Kali Uchis - Moonlight ┃x HOODTRAP",
+      "artist": "prodbylooxxy",
+      "originalTrackName": "prodbylooxxy - Kali Uchis - Moonlight ┃x HOODTRAP",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-Y0mzay28rPrTZbEr-a8Z9fg-original.png",
+      "file": "tracks/prodbylooxxy-kali-uchis-moonlight-x-hoodtrap-6da1d8fe48dc.json",
+      "files": {
+        "lyrics": "tracks/prodbylooxxy-kali-uchis-moonlight-x-hoodtrap-6da1d8fe48dc.json",
+        "meta": "tracks/prodbylooxxy-kali-uchis-moonlight-x-hoodtrap-6da1d8fe48dc.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/fun-game-305748996/80552df8-2f0c-4b48-b0dc-854ce65bb46a",
+      "mtimeMs": 1788794640567,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2292,6 +2309,23 @@
       "mtimeMs": 1788746535708,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Kali Uchis - Moonlight ┃x HOODTRAP",
+      "artist": "prodbylooxxy",
+      "originalTrackName": "prodbylooxxy - Kali Uchis - Moonlight ┃x HOODTRAP",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-Y0mzay28rPrTZbEr-a8Z9fg-original.png",
+      "file": "tracks/prodbylooxxy-kali-uchis-moonlight-x-hoodtrap-6da1d8fe48dc.json",
+      "files": {
+        "lyrics": "tracks/prodbylooxxy-kali-uchis-moonlight-x-hoodtrap-6da1d8fe48dc.json",
+        "meta": "tracks/prodbylooxxy-kali-uchis-moonlight-x-hoodtrap-6da1d8fe48dc.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/fun-game-305748996/80552df8-2f0c-4b48-b0dc-854ce65bb46a",
+      "mtimeMs": 1788794640567,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

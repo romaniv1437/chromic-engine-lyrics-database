@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-08T12:46:21.081813+00:00",
-  "totalTracks": 72,
+  "generatedAt": "2026-09-08T14:43:10.619260+00:00",
+  "totalTracks": 73,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1232,6 +1232,23 @@
       "mtimeMs": 1788871581081,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "lil peep x ogb::lil peep x ogb - mud on my gucci (prod. nedarb)": {
+      "title": "Lil Peep X OGB - Mud On My Gucci (Prod. NEDARB)",
+      "artist": "Lil Peep X OGB",
+      "originalTrackName": "Lil Peep X OGB - Lil Peep X OGB - Mud On My Gucci (Prod. NEDARB)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000225195179-c3049w-original.jpg",
+      "file": "tracks/lil-peep-x-ogb-lil-peep-x-ogb-mud-on-my-gucci-prod-nedarb-580e2ea63938.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-x-ogb-lil-peep-x-ogb-mud-on-my-gucci-prod-nedarb-580e2ea63938.json",
+        "meta": "tracks/lil-peep-x-ogb-lil-peep-x-ogb-mud-on-my-gucci-prod-nedarb-580e2ea63938.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/maikeruhiphop/lil-peep-x-ogb-mud-on-my-gucci-prod-nedarb",
+      "mtimeMs": 1788878591875,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2462,6 +2479,23 @@
       "mtimeMs": 1788871581081,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Lil Peep X OGB - Mud On My Gucci (Prod. NEDARB)",
+      "artist": "Lil Peep X OGB",
+      "originalTrackName": "Lil Peep X OGB - Lil Peep X OGB - Mud On My Gucci (Prod. NEDARB)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000225195179-c3049w-original.jpg",
+      "file": "tracks/lil-peep-x-ogb-lil-peep-x-ogb-mud-on-my-gucci-prod-nedarb-580e2ea63938.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-x-ogb-lil-peep-x-ogb-mud-on-my-gucci-prod-nedarb-580e2ea63938.json",
+        "meta": "tracks/lil-peep-x-ogb-lil-peep-x-ogb-mud-on-my-gucci-prod-nedarb-580e2ea63938.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/maikeruhiphop/lil-peep-x-ogb-mud-on-my-gucci-prod-nedarb",
+      "mtimeMs": 1788878591875,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-08T12:20:23.977706+00:00",
-  "totalTracks": 71,
+  "generatedAt": "2026-09-08T12:46:06.009340+00:00",
+  "totalTracks": 72,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1215,6 +1215,23 @@
       "mtimeMs": 1788870023977,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "lil peep::lil peep - sodium": {
+      "title": "Lil Peep - Sodium",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep - Sodium",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000356736162-tdnplw-original.jpg",
+      "file": "tracks/lil-peep-lil-peep-sodium-b16594cb41f4.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-sodium-b16594cb41f4.json",
+        "meta": "tracks/lil-peep-lil-peep-sodium-b16594cb41f4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/dreams/lil-peep-sodium-feat-mackned",
+      "mtimeMs": 1788871566942,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2428,6 +2445,23 @@
       "mtimeMs": 1788870023977,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Lil Peep - Sodium",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - Lil Peep - Sodium",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000356736162-tdnplw-original.jpg",
+      "file": "tracks/lil-peep-lil-peep-sodium-b16594cb41f4.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-lil-peep-sodium-b16594cb41f4.json",
+        "meta": "tracks/lil-peep-lil-peep-sodium-b16594cb41f4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/dreams/lil-peep-sodium-feat-mackned",
+      "mtimeMs": 1788871566942,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

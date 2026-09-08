@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-07T15:33:12.160692+00:00",
-  "totalTracks": 70,
+  "generatedAt": "2026-09-08T12:20:01.887400+00:00",
+  "totalTracks": 71,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1198,6 +1198,23 @@
       "mtimeMs": 1788795193201,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "lilpeepunreleased::lil peep - lip gloss (full cdq) [prod. willie g]": {
+      "title": "Lil Peep - Lip Gloss (full CDQ) [prod. Willie G]",
+      "artist": "LilPeepUnreleased",
+      "originalTrackName": "LilPeepUnreleased - Lil Peep - Lip Gloss (full CDQ) [prod. Willie G]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-wOdgudo5Vl4jk4aN-7A9sHg-original.jpg",
+      "file": "tracks/lilpeepunreleased-lil-peep-lip-gloss-full-cdq-prod-willie-g-305417760acc.json",
+      "files": {
+        "lyrics": "tracks/lilpeepunreleased-lil-peep-lip-gloss-full-cdq-prod-willie-g-305417760acc.json",
+        "meta": "tracks/lilpeepunreleased-lil-peep-lip-gloss-full-cdq-prod-willie-g-305417760acc.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/matrix-808/lil-peep-lip-gloss-full-cdq",
+      "mtimeMs": 1788870004225,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2392,6 +2409,23 @@
       },
       "sourcePath": "https://soundcloud.com/about1202/moonlight-about-original-by-kali-uchis",
       "mtimeMs": 1788795193201,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Lil Peep - Lip Gloss (full CDQ) [prod. Willie G]",
+      "artist": "LilPeepUnreleased",
+      "originalTrackName": "LilPeepUnreleased - Lil Peep - Lip Gloss (full CDQ) [prod. Willie G]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-wOdgudo5Vl4jk4aN-7A9sHg-original.jpg",
+      "file": "tracks/lilpeepunreleased-lil-peep-lip-gloss-full-cdq-prod-willie-g-305417760acc.json",
+      "files": {
+        "lyrics": "tracks/lilpeepunreleased-lil-peep-lip-gloss-full-cdq-prod-willie-g-305417760acc.json",
+        "meta": "tracks/lilpeepunreleased-lil-peep-lip-gloss-full-cdq-prod-willie-g-305417760acc.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/matrix-808/lil-peep-lip-gloss-full-cdq",
+      "mtimeMs": 1788870004225,
       "has_haptics": true,
       "haptics_version": 4
     }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-08T14:43:27.930678+00:00",
-  "totalTracks": 73,
+  "generatedAt": "2026-09-09T01:18:16.240269+00:00",
+  "totalTracks": 74,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1249,6 +1249,23 @@
       "mtimeMs": 1788878607930,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "sk1 saya skull::trust_no 1": {
+      "title": "trust_no 1",
+      "artist": "sk1 saya skull",
+      "originalTrackName": "sk1 saya skull - trust_no 1",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-vBoPceKVzegdI18T-S2V7yg-original.jpg",
+      "file": "tracks/sk1-saya-skull-trust-no-1-3e5c3736389e.json",
+      "files": {
+        "lyrics": "tracks/sk1-saya-skull-trust-no-1-3e5c3736389e.json",
+        "meta": "tracks/sk1-saya-skull-trust-no-1-3e5c3736389e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/markease-roberts-8311/trust_no-1",
+      "mtimeMs": 1788916702794,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2496,6 +2513,23 @@
       "mtimeMs": 1788878607930,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "trust_no 1",
+      "artist": "sk1 saya skull",
+      "originalTrackName": "sk1 saya skull - trust_no 1",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-vBoPceKVzegdI18T-S2V7yg-original.jpg",
+      "file": "tracks/sk1-saya-skull-trust-no-1-3e5c3736389e.json",
+      "files": {
+        "lyrics": "tracks/sk1-saya-skull-trust-no-1-3e5c3736389e.json",
+        "meta": "tracks/sk1-saya-skull-trust-no-1-3e5c3736389e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/markease-roberts-8311/trust_no-1",
+      "mtimeMs": 1788916702794,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

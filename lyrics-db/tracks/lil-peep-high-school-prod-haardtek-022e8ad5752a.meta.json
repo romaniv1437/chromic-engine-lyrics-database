@@ -1,8 +1,10 @@
 {
   "artist": "Lil Peep",
+  "title": "high school (prod. haardtek)",
   "track_title": "high school (prod. haardtek)",
+  "thumbnail": "https://i1.sndcdn.com/artworks-1tUdjYVbnEK3anXc-0u62sw-original.jpg",
   "track_url": "https://soundcloud.com/lil_peep/high-school-prod-haardtek",
-  "lyrics_source": "soundcloud_extension_translate",
-  "line_timestamps_source": "whisper_aligner",
-  "updated_at": "2026-09-10T10:17:32.204864+00:00"
+  "lyrics_source": "lrclib_plain",
+  "line_timestamps_source": "guided-whisper",
+  "updated_at": "2026-09-10T10:18:34.128562+00:00"
 }

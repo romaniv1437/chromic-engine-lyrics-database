@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T10:17:52.640428+00:00",
+  "generatedAt": "2026-09-10T10:18:34.128562+00:00",
   "totalTracks": 76,
   "roots": [
     "lyrics-db/tracks"
@@ -1267,22 +1267,6 @@
       "has_haptics": false,
       "haptics_version": null
     },
-    "lil peep::high school (prod. haardtek)": {
-      "title": "high school (prod. haardtek)",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - high school (prod. haardtek)",
-      "source": "soundcloud_extension_translate",
-      "file": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.json",
-        "meta": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.meta.json",
-        "translations": {
-          "ru": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.ru.json"
-        }
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/high-school-prod-haardtek",
-      "mtimeMs": 1789035453901
-    },
     "crystal castles::good time": {
       "title": "Good Time",
       "artist": "Crystal Castles",
@@ -1298,6 +1282,25 @@
       },
       "sourcePath": "https://soundcloud.com/crystal-castles/good-time-album-version",
       "mtimeMs": 1789035472640
+    },
+    "lil peep::high school (prod. haardtek)": {
+      "title": "high school (prod. haardtek)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - high school (prod. haardtek)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-1tUdjYVbnEK3anXc-0u62sw-original.jpg",
+      "file": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.json",
+        "meta": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.meta.json",
+        "translations": {
+          "ru": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.ru.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/high-school-prod-haardtek",
+      "mtimeMs": 1789035514644,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2564,22 +2567,6 @@
       "haptics_version": null
     },
     {
-      "title": "high school (prod. haardtek)",
-      "artist": "Lil Peep",
-      "originalTrackName": "Lil Peep - high school (prod. haardtek)",
-      "source": "soundcloud_extension_translate",
-      "file": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.json",
-      "files": {
-        "lyrics": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.json",
-        "meta": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.meta.json",
-        "translations": {
-          "ru": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.ru.json"
-        }
-      },
-      "sourcePath": "https://soundcloud.com/lil_peep/high-school-prod-haardtek",
-      "mtimeMs": 1789035453901
-    },
-    {
       "title": "Good Time",
       "artist": "Crystal Castles",
       "originalTrackName": "Crystal Castles - Good Time",
@@ -2594,6 +2581,25 @@
       },
       "sourcePath": "https://soundcloud.com/crystal-castles/good-time-album-version",
       "mtimeMs": 1789035472640
+    },
+    {
+      "title": "high school (prod. haardtek)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - high school (prod. haardtek)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-1tUdjYVbnEK3anXc-0u62sw-original.jpg",
+      "file": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.json",
+        "meta": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.meta.json",
+        "translations": {
+          "ru": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.ru.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/high-school-prod-haardtek",
+      "mtimeMs": 1789035514644,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

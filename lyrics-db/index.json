@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T01:18:34.414755+00:00",
-  "totalTracks": 74,
+  "generatedAt": "2026-09-10T10:17:33.901959+00:00",
+  "totalTracks": 75,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1266,6 +1266,22 @@
       "mtimeMs": 1788916714414,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "lil peep::high school (prod. haardtek)": {
+      "title": "high school (prod. haardtek)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - high school (prod. haardtek)",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.json",
+        "meta": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.meta.json",
+        "translations": {
+          "ru": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.ru.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/high-school-prod-haardtek",
+      "mtimeMs": 1789035453901
     }
   },
   "tracks": [
@@ -2530,6 +2546,22 @@
       "mtimeMs": 1788916714414,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "high school (prod. haardtek)",
+      "artist": "Lil Peep",
+      "originalTrackName": "Lil Peep - high school (prod. haardtek)",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.json",
+      "files": {
+        "lyrics": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.json",
+        "meta": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.meta.json",
+        "translations": {
+          "ru": "tracks/lil-peep-high-school-prod-haardtek-022e8ad5752a.ru.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/lil_peep/high-school-prod-haardtek",
+      "mtimeMs": 1789035453901
     }
   ]
 }

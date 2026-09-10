@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T10:20:05.979225+00:00",
-  "totalTracks": 78,
+  "generatedAt": "2026-09-10T10:20:25.235551+00:00",
+  "totalTracks": 79,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1335,6 +1335,23 @@
       "mtimeMs": 1789035605979,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "dean blunt::9 -dean blunt & panda bear": {
+      "title": "9 -Dean Blunt & Panda Bear",
+      "artist": "Dean blunt",
+      "originalTrackName": "Dean blunt - 9 -Dean Blunt & Panda Bear",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-uUPTlu1c1NgLqDyw-irP08A-original.jpg",
+      "file": "tracks/dean-blunt-9-dean-blunt-panda-bear-4e893d32b084.json",
+      "files": {
+        "lyrics": "tracks/dean-blunt-9-dean-blunt-panda-bear-4e893d32b084.json",
+        "meta": "tracks/dean-blunt-9-dean-blunt-panda-bear-4e893d32b084.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/fornowchat/9-dean-blunt-panda-bear",
+      "mtimeMs": 1789035626328,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2668,6 +2685,23 @@
       "mtimeMs": 1789035605979,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "9 -Dean Blunt & Panda Bear",
+      "artist": "Dean blunt",
+      "originalTrackName": "Dean blunt - 9 -Dean Blunt & Panda Bear",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-uUPTlu1c1NgLqDyw-irP08A-original.jpg",
+      "file": "tracks/dean-blunt-9-dean-blunt-panda-bear-4e893d32b084.json",
+      "files": {
+        "lyrics": "tracks/dean-blunt-9-dean-blunt-panda-bear-4e893d32b084.json",
+        "meta": "tracks/dean-blunt-9-dean-blunt-panda-bear-4e893d32b084.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/fornowchat/9-dean-blunt-panda-bear",
+      "mtimeMs": 1789035626328,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

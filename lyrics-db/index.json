@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T10:20:25.235551+00:00",
-  "totalTracks": 79,
+  "generatedAt": "2026-09-10T10:20:45.965484+00:00",
+  "totalTracks": 80,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1352,6 +1352,23 @@
       "mtimeMs": 1789035626328,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "racky::see you": {
+      "title": "see you",
+      "artist": "racky",
+      "originalTrackName": "racky - see you",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-qo34atuhrdVaU4Ow-6qLmig-original.png",
+      "file": "tracks/racky-see-you-7753fe843e5a.json",
+      "files": {
+        "lyrics": "tracks/racky-see-you-7753fe843e5a.json",
+        "meta": "tracks/racky-see-you-7753fe843e5a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lonelyanguish/seeyou",
+      "mtimeMs": 1789035647594,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2700,6 +2717,23 @@
       },
       "sourcePath": "https://soundcloud.com/fornowchat/9-dean-blunt-panda-bear",
       "mtimeMs": 1789035626328,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "see you",
+      "artist": "racky",
+      "originalTrackName": "racky - see you",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-qo34atuhrdVaU4Ow-6qLmig-original.png",
+      "file": "tracks/racky-see-you-7753fe843e5a.json",
+      "files": {
+        "lyrics": "tracks/racky-see-you-7753fe843e5a.json",
+        "meta": "tracks/racky-see-you-7753fe843e5a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lonelyanguish/seeyou",
+      "mtimeMs": 1789035647594,
       "has_haptics": true,
       "haptics_version": 4
     }

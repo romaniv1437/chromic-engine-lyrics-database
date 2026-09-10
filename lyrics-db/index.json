@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T10:17:33.901959+00:00",
-  "totalTracks": 75,
+  "generatedAt": "2026-09-10T10:17:52.640428+00:00",
+  "totalTracks": 76,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1282,6 +1282,22 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/high-school-prod-haardtek",
       "mtimeMs": 1789035453901
+    },
+    "crystal castles::good time": {
+      "title": "Good Time",
+      "artist": "Crystal Castles",
+      "originalTrackName": "Crystal Castles - Good Time",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/crystal-castles-good-time-d298174c39be.json",
+      "files": {
+        "lyrics": "tracks/crystal-castles-good-time-d298174c39be.json",
+        "meta": "tracks/crystal-castles-good-time-d298174c39be.meta.json",
+        "translations": {
+          "af": "tracks/crystal-castles-good-time-d298174c39be.af.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/crystal-castles/good-time-album-version",
+      "mtimeMs": 1789035472640
     }
   },
   "tracks": [
@@ -2562,6 +2578,22 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/high-school-prod-haardtek",
       "mtimeMs": 1789035453901
+    },
+    {
+      "title": "Good Time",
+      "artist": "Crystal Castles",
+      "originalTrackName": "Crystal Castles - Good Time",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/crystal-castles-good-time-d298174c39be.json",
+      "files": {
+        "lyrics": "tracks/crystal-castles-good-time-d298174c39be.json",
+        "meta": "tracks/crystal-castles-good-time-d298174c39be.meta.json",
+        "translations": {
+          "af": "tracks/crystal-castles-good-time-d298174c39be.af.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/crystal-castles/good-time-album-version",
+      "mtimeMs": 1789035472640
     }
   ]
 }

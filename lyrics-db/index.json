@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T10:18:34.128562+00:00",
-  "totalTracks": 76,
+  "generatedAt": "2026-09-10T10:19:23.856988+00:00",
+  "totalTracks": 77,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1301,6 +1301,23 @@
       "mtimeMs": 1789035514644,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "lovin#4fun::secondhand serenade - your call (nightcore + bitcrush)": {
+      "title": "SecondHand Serenade - Your Call (Nightcore + BitCrush)",
+      "artist": "Lovin#4Fun",
+      "originalTrackName": "Lovin#4Fun - SecondHand Serenade - Your Call (Nightcore + BitCrush)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-4M2kIoMRoYwqg78B-6l1gzw-original.jpg",
+      "file": "tracks/lovin-4fun-secondhand-serenade-your-call-nightcore-bitcrush-7ea558ffe9de.json",
+      "files": {
+        "lyrics": "tracks/lovin-4fun-secondhand-serenade-your-call-nightcore-bitcrush-7ea558ffe9de.json",
+        "meta": "tracks/lovin-4fun-secondhand-serenade-your-call-nightcore-bitcrush-7ea558ffe9de.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lovin4fun/secondhand-serenade-your-call",
+      "mtimeMs": 1789035564991,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2598,6 +2615,23 @@
       },
       "sourcePath": "https://soundcloud.com/lil_peep/high-school-prod-haardtek",
       "mtimeMs": 1789035514644,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "SecondHand Serenade - Your Call (Nightcore + BitCrush)",
+      "artist": "Lovin#4Fun",
+      "originalTrackName": "Lovin#4Fun - SecondHand Serenade - Your Call (Nightcore + BitCrush)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-4M2kIoMRoYwqg78B-6l1gzw-original.jpg",
+      "file": "tracks/lovin-4fun-secondhand-serenade-your-call-nightcore-bitcrush-7ea558ffe9de.json",
+      "files": {
+        "lyrics": "tracks/lovin-4fun-secondhand-serenade-your-call-nightcore-bitcrush-7ea558ffe9de.json",
+        "meta": "tracks/lovin-4fun-secondhand-serenade-your-call-nightcore-bitcrush-7ea558ffe9de.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lovin4fun/secondhand-serenade-your-call",
+      "mtimeMs": 1789035564991,
       "has_haptics": true,
       "haptics_version": 4
     }

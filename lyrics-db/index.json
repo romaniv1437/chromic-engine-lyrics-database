@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T10:19:23.856988+00:00",
-  "totalTracks": 77,
+  "generatedAt": "2026-09-10T10:19:55.455834+00:00",
+  "totalTracks": 78,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1318,6 +1318,23 @@
       "mtimeMs": 1789035564991,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "victorialucas::100 - dean blunt": {
+      "title": "100 - Dean Blunt",
+      "artist": "VictoRiaLUcas",
+      "originalTrackName": "VictoRiaLUcas - 100 - Dean Blunt",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000104976433-vgqidu-original.png",
+      "file": "tracks/victorialucas-100-dean-blunt-3f06c56c29fe.json",
+      "files": {
+        "lyrics": "tracks/victorialucas-100-dean-blunt-3f06c56c29fe.json",
+        "meta": "tracks/victorialucas-100-dean-blunt-3f06c56c29fe.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/victoria-lucas-3/100-dean-blunt",
+      "mtimeMs": 1789035595875,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2632,6 +2649,23 @@
       },
       "sourcePath": "https://soundcloud.com/lovin4fun/secondhand-serenade-your-call",
       "mtimeMs": 1789035564991,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "100 - Dean Blunt",
+      "artist": "VictoRiaLUcas",
+      "originalTrackName": "VictoRiaLUcas - 100 - Dean Blunt",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000104976433-vgqidu-original.png",
+      "file": "tracks/victorialucas-100-dean-blunt-3f06c56c29fe.json",
+      "files": {
+        "lyrics": "tracks/victorialucas-100-dean-blunt-3f06c56c29fe.json",
+        "meta": "tracks/victorialucas-100-dean-blunt-3f06c56c29fe.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/victoria-lucas-3/100-dean-blunt",
+      "mtimeMs": 1789035595875,
       "has_haptics": true,
       "haptics_version": 4
     }

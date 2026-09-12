@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-12T15:54:10.970833+00:00",
-  "totalTracks": 82,
+  "generatedAt": "2026-09-12T23:38:17.616382+00:00",
+  "totalTracks": 83,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1403,6 +1403,23 @@
       "mtimeMs": 1789228450970,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "::video_to_audio_": {
+      "title": "video_to_audio_",
+      "artist": "",
+      "originalTrackName": "video_to_audio_",
+      "source": "syncedlyrics",
+      "thumbnail": "",
+      "file": "tracks/video-to-audio-645eae5be948.json",
+      "files": {
+        "lyrics": "tracks/video-to-audio-645eae5be948.json",
+        "meta": "tracks/video-to-audio-645eae5be948.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "file://video_to_audio_.mp3",
+      "mtimeMs": 1789256298649,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2804,6 +2821,23 @@
       "mtimeMs": 1789228450970,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "video_to_audio_",
+      "artist": "",
+      "originalTrackName": "video_to_audio_",
+      "source": "syncedlyrics",
+      "thumbnail": "",
+      "file": "tracks/video-to-audio-645eae5be948.json",
+      "files": {
+        "lyrics": "tracks/video-to-audio-645eae5be948.json",
+        "meta": "tracks/video-to-audio-645eae5be948.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "file://video_to_audio_.mp3",
+      "mtimeMs": 1789256298649,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

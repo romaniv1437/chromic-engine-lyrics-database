@@ -1,0 +1,1574 @@
+{
+  "lines": [
+    {
+      "text": "All your trouble will be over, so will your pain",
+      "startTime": 0.0,
+      "endTime": 2.161,
+      "words": [
+        {
+          "word": "All",
+          "start": 0.0,
+          "end": 0.05,
+          "whisper": true
+        },
+        {
+          "word": "your",
+          "start": 0.06,
+          "end": 0.1
+        },
+        {
+          "word": "trouble",
+          "start": 0.11,
+          "end": 0.15
+        },
+        {
+          "word": "will",
+          "start": 0.16,
+          "end": 0.2
+        },
+        {
+          "word": "be",
+          "start": 0.21,
+          "end": 0.25
+        },
+        {
+          "word": "over,",
+          "start": 0.26,
+          "end": 1.94,
+          "char_starts": [
+            0.26,
+            0.462,
+            0.719,
+            1.027,
+            1.371
+          ]
+        },
+        {
+          "word": "so",
+          "start": 1.95,
+          "end": 1.99
+        },
+        {
+          "word": "will",
+          "start": 2.0,
+          "end": 2.047
+        },
+        {
+          "word": "your",
+          "start": 2.057,
+          "end": 2.104
+        },
+        {
+          "word": "pain",
+          "start": 2.114,
+          "end": 2.161
+        }
+      ],
+      "time": 0.0,
+      "end": 2.161
+    },
+    {
+      "text": "You are gonna see those blue skies bursting right through the rain",
+      "startTime": 2.171,
+      "endTime": 2.976,
+      "words": [
+        {
+          "word": "You",
+          "start": 2.171,
+          "end": 2.211
+        },
+        {
+          "word": "are",
+          "start": 2.221,
+          "end": 2.261
+        },
+        {
+          "word": "gonna",
+          "start": 2.271,
+          "end": 2.333
+        },
+        {
+          "word": "see",
+          "start": 2.343,
+          "end": 2.383
+        },
+        {
+          "word": "those",
+          "start": 2.393,
+          "end": 2.454
+        },
+        {
+          "word": "blue",
+          "start": 2.464,
+          "end": 2.511
+        },
+        {
+          "word": "skies",
+          "start": 2.521,
+          "end": 2.583
+        },
+        {
+          "word": "bursting",
+          "start": 2.593,
+          "end": 2.697
+        },
+        {
+          "word": "right",
+          "start": 2.707,
+          "end": 2.769
+        },
+        {
+          "word": "through",
+          "start": 2.779,
+          "end": 2.869
+        },
+        {
+          "word": "the",
+          "start": 2.879,
+          "end": 2.919
+        },
+        {
+          "word": "rain",
+          "start": 2.929,
+          "end": 2.976
+        }
+      ],
+      "time": 2.171,
+      "end": 2.976
+    },
+    {
+      "text": "The higher you climb, the lower you fall",
+      "startTime": 2.986,
+      "endTime": 3.529,
+      "words": [
+        {
+          "word": "The",
+          "start": 2.986,
+          "end": 3.026
+        },
+        {
+          "word": "higher",
+          "start": 3.036,
+          "end": 3.111
+        },
+        {
+          "word": "you",
+          "start": 3.121,
+          "end": 3.161
+        },
+        {
+          "word": "climb,",
+          "start": 3.171,
+          "end": 3.247
+        },
+        {
+          "word": "the",
+          "start": 3.257,
+          "end": 3.297
+        },
+        {
+          "word": "lower",
+          "start": 3.307,
+          "end": 3.369
+        },
+        {
+          "word": "you",
+          "start": 3.379,
+          "end": 3.419
+        },
+        {
+          "word": "fall",
+          "start": 3.429,
+          "end": 3.529
+        }
+      ],
+      "time": 2.986,
+      "end": 3.529
+    },
+    {
+      "text": "You got too close to heaven, that's all",
+      "startTime": 3.539,
+      "endTime": 4.409,
+      "words": [
+        {
+          "word": "You",
+          "start": 3.539,
+          "end": 3.639
+        },
+        {
+          "word": "got",
+          "start": 3.649,
+          "end": 3.749
+        },
+        {
+          "word": "too",
+          "start": 3.759,
+          "end": 3.859
+        },
+        {
+          "word": "close",
+          "start": 3.869,
+          "end": 3.969
+        },
+        {
+          "word": "to",
+          "start": 3.979,
+          "end": 4.079
+        },
+        {
+          "word": "heaven,",
+          "start": 4.089,
+          "end": 4.189
+        },
+        {
+          "word": "that's",
+          "start": 4.199,
+          "end": 4.299
+        },
+        {
+          "word": "all",
+          "start": 4.309,
+          "end": 4.409
+        }
+      ],
+      "time": 3.539,
+      "end": 4.409
+    },
+    {
+      "text": "Now in the morning you can cry all that you want to",
+      "startTime": 4.419,
+      "endTime": 5.729,
+      "words": [
+        {
+          "word": "Now",
+          "start": 4.419,
+          "end": 4.519
+        },
+        {
+          "word": "in",
+          "start": 4.529,
+          "end": 4.629
+        },
+        {
+          "word": "the",
+          "start": 4.639,
+          "end": 4.739
+        },
+        {
+          "word": "morning",
+          "start": 4.749,
+          "end": 4.849
+        },
+        {
+          "word": "you",
+          "start": 4.859,
+          "end": 4.959
+        },
+        {
+          "word": "can",
+          "start": 4.969,
+          "end": 5.069
+        },
+        {
+          "word": "cry",
+          "start": 5.079,
+          "end": 5.179
+        },
+        {
+          "word": "all",
+          "start": 5.189,
+          "end": 5.289
+        },
+        {
+          "word": "that",
+          "start": 5.299,
+          "end": 5.399
+        },
+        {
+          "word": "you",
+          "start": 5.409,
+          "end": 5.509
+        },
+        {
+          "word": "want",
+          "start": 5.519,
+          "end": 5.619
+        },
+        {
+          "word": "to",
+          "start": 5.629,
+          "end": 5.729
+        }
+      ],
+      "time": 4.419,
+      "end": 5.729
+    },
+    {
+      "text": "We'll spend the whole day weeping",
+      "startTime": 5.739,
+      "endTime": 6.389,
+      "words": [
+        {
+          "word": "We'll",
+          "start": 5.739,
+          "end": 5.839
+        },
+        {
+          "word": "spend",
+          "start": 5.849,
+          "end": 5.949
+        },
+        {
+          "word": "the",
+          "start": 5.959,
+          "end": 6.059
+        },
+        {
+          "word": "whole",
+          "start": 6.069,
+          "end": 6.169
+        },
+        {
+          "word": "day",
+          "start": 6.179,
+          "end": 6.279
+        },
+        {
+          "word": "weeping",
+          "start": 6.289,
+          "end": 6.389
+        }
+      ],
+      "time": 5.739,
+      "end": 6.389
+    },
+    {
+      "text": "Right now I want you to lay down your weary head",
+      "startTime": 6.399,
+      "endTime": 7.599,
+      "words": [
+        {
+          "word": "Right",
+          "start": 6.399,
+          "end": 6.499
+        },
+        {
+          "word": "now",
+          "start": 6.509,
+          "end": 6.609
+        },
+        {
+          "word": "I",
+          "start": 6.619,
+          "end": 6.719
+        },
+        {
+          "word": "want",
+          "start": 6.729,
+          "end": 6.829
+        },
+        {
+          "word": "you",
+          "start": 6.839,
+          "end": 6.939
+        },
+        {
+          "word": "to",
+          "start": 6.949,
+          "end": 7.049
+        },
+        {
+          "word": "lay",
+          "start": 7.059,
+          "end": 7.159
+        },
+        {
+          "word": "down",
+          "start": 7.169,
+          "end": 7.269
+        },
+        {
+          "word": "your",
+          "start": 7.339,
+          "end": 7.379,
+          "spoken": true
+        },
+        {
+          "word": "weary",
+          "start": 7.389,
+          "end": 7.489,
+          "spoken": true
+        },
+        {
+          "word": "head",
+          "start": 7.499,
+          "end": 7.599,
+          "spoken": true
+        }
+      ],
+      "time": 6.399,
+      "end": 7.599
+    },
+    {
+      "text": "And let me see you sleeping",
+      "startTime": 7.609,
+      "endTime": 8.259,
+      "words": [
+        {
+          "word": "And",
+          "start": 7.609,
+          "end": 7.709
+        },
+        {
+          "word": "let",
+          "start": 7.719,
+          "end": 7.819,
+          "spoken": true
+        },
+        {
+          "word": "me",
+          "start": 7.829,
+          "end": 7.929,
+          "sung": true
+        },
+        {
+          "word": "see",
+          "start": 7.939,
+          "end": 8.039,
+          "spoken": true
+        },
+        {
+          "word": "you",
+          "start": 8.049,
+          "end": 8.149,
+          "spoken": true
+        },
+        {
+          "word": "sleeping",
+          "start": 8.159,
+          "end": 8.259,
+          "whisper": true
+        }
+      ],
+      "time": 7.609,
+      "end": 8.259
+    },
+    {
+      "text": "You've been walking around baby, inflamed and ashamed",
+      "startTime": 8.269,
+      "endTime": 9.139,
+      "words": [
+        {
+          "word": "You've",
+          "start": 8.269,
+          "end": 8.369,
+          "whisper": true
+        },
+        {
+          "word": "been",
+          "start": 8.379,
+          "end": 8.479,
+          "whisper": true
+        },
+        {
+          "word": "walking",
+          "start": 8.489,
+          "end": 8.589,
+          "whisper": true
+        },
+        {
+          "word": "around",
+          "start": 8.599,
+          "end": 8.699,
+          "whisper": true
+        },
+        {
+          "word": "baby,",
+          "start": 8.709,
+          "end": 8.809,
+          "whisper": true
+        },
+        {
+          "word": "inflamed",
+          "start": 8.819,
+          "end": 8.919,
+          "whisper": true
+        },
+        {
+          "word": "and",
+          "start": 8.929,
+          "end": 9.029
+        },
+        {
+          "word": "ashamed",
+          "start": 9.039,
+          "end": 9.139
+        }
+      ],
+      "time": 8.269,
+      "end": 9.139
+    },
+    {
+      "text": "Feeling like you're one inch tall",
+      "startTime": 9.149,
+      "endTime": 9.799,
+      "words": [
+        {
+          "word": "Feeling",
+          "start": 9.149,
+          "end": 9.249
+        },
+        {
+          "word": "like",
+          "start": 9.259,
+          "end": 9.359
+        },
+        {
+          "word": "you're",
+          "start": 9.369,
+          "end": 9.469
+        },
+        {
+          "word": "one",
+          "start": 9.479,
+          "end": 9.579
+        },
+        {
+          "word": "inch",
+          "start": 9.589,
+          "end": 9.689
+        },
+        {
+          "word": "tall",
+          "start": 9.699,
+          "end": 9.799
+        }
+      ],
+      "time": 9.149,
+      "end": 9.799
+    },
+    {
+      "text": "But you got too close to heaven, that's all",
+      "startTime": 9.809,
+      "endTime": 11.227,
+      "words": [
+        {
+          "word": "But",
+          "start": 9.809,
+          "end": 9.909
+        },
+        {
+          "word": "you",
+          "start": 9.919,
+          "end": 10.019
+        },
+        {
+          "word": "got",
+          "start": 10.029,
+          "end": 10.129
+        },
+        {
+          "word": "too",
+          "start": 10.139,
+          "end": 10.239
+        },
+        {
+          "word": "close",
+          "start": 10.249,
+          "end": 10.349
+        },
+        {
+          "word": "to",
+          "start": 10.359,
+          "end": 10.459
+        },
+        {
+          "word": "heaven,",
+          "start": 10.469,
+          "end": 10.651
+        },
+        {
+          "word": "that's",
+          "start": 10.661,
+          "end": 11.121
+        },
+        {
+          "word": "all",
+          "start": 11.131,
+          "end": 11.227
+        }
+      ],
+      "time": 9.809,
+      "end": 11.227
+    }
+  ],
+  "haptics": {
+    "schema_version": 4,
+    "meta": {
+      "source": "demucs-6s+per-stem-detectors",
+      "audio": "chromic-21ea43d7d94349b0b89fcf051ce749b7",
+      "tempo_bpm": 129.2,
+      "duration_s": 11.31,
+      "sr": 22050,
+      "lra_resonance_hz": 230,
+      "min_pulse_interval_ms": 25,
+      "stems_used": {
+        "drums": true,
+        "bass": true,
+        "vocals": true,
+        "piano": false,
+        "guitar": true,
+        "other": true
+      },
+      "generated_by": "haptic.py v4",
+      "event_count": 126
+    },
+    "events": [
+      {
+        "t": 0.0,
+        "i": 0.0,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "All"
+      },
+      {
+        "t": 0.139,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 0.21,
+        "i": 0.01,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "be"
+      },
+      {
+        "t": 0.279,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 0.743,
+        "i": 0.06,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 0.859,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 1.022,
+        "i": 0.05,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 1.231,
+        "i": 0.06,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 1.254,
+        "i": 0.05,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 1.3,
+        "i": 0.06,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 1.37,
+        "i": 0.06,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 1.396,
+        "i": 0.13,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "over,"
+      },
+      {
+        "t": 1.421,
+        "i": 0.25,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "over,"
+      },
+      {
+        "t": 1.446,
+        "i": 0.25,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "over,"
+      },
+      {
+        "t": 1.471,
+        "i": 0.24,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "over,"
+      },
+      {
+        "t": 1.496,
+        "i": 0.22,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "over,"
+      },
+      {
+        "t": 1.546,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "over,"
+      },
+      {
+        "t": 1.571,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "over,"
+      },
+      {
+        "t": 1.596,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "over,"
+      },
+      {
+        "t": 1.621,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "over,"
+      },
+      {
+        "t": 1.646,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "over,"
+      },
+      {
+        "t": 1.671,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "over,"
+      },
+      {
+        "t": 1.696,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "over,"
+      },
+      {
+        "t": 1.721,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "over,"
+      },
+      {
+        "t": 1.746,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "over,"
+      },
+      {
+        "t": 1.765,
+        "i": 0.78,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 1.765,
+        "i": 0.26,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 1.834,
+        "i": 0.35,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 1.95,
+        "i": 0.44,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "so"
+      },
+      {
+        "t": 2.0,
+        "i": 0.5,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "will"
+      },
+      {
+        "t": 2.043,
+        "i": 0.48,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 2.114,
+        "i": 0.27,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "pain"
+      },
+      {
+        "t": 2.171,
+        "i": 0.2,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "You"
+      },
+      {
+        "t": 2.206,
+        "i": 0.33,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 2.229,
+        "i": 0.56,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 2.343,
+        "i": 0.17,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "see"
+      },
+      {
+        "t": 2.393,
+        "i": 0.23,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "those"
+      },
+      {
+        "t": 2.464,
+        "i": 0.43,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "blue"
+      },
+      {
+        "t": 2.521,
+        "i": 0.44,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "skies"
+      },
+      {
+        "t": 2.593,
+        "i": 0.3,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "bursting"
+      },
+      {
+        "t": 2.624,
+        "i": 0.33,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 2.647,
+        "i": 0.48,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 2.707,
+        "i": 0.25,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "right"
+      },
+      {
+        "t": 2.74,
+        "i": 0.24,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 2.779,
+        "i": 0.29,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "through"
+      },
+      {
+        "t": 2.879,
+        "i": 0.27,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 2.879,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 2.879,
+        "i": 0.27,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "the"
+      },
+      {
+        "t": 2.929,
+        "i": 0.35,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "rain"
+      },
+      {
+        "t": 2.986,
+        "i": 0.39,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "The"
+      },
+      {
+        "t": 3.036,
+        "i": 0.35,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "higher"
+      },
+      {
+        "t": 3.111,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 3.121,
+        "i": 0.12,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "you"
+      },
+      {
+        "t": 3.171,
+        "i": 0.14,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "climb,"
+      },
+      {
+        "t": 3.251,
+        "i": 0.58,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 3.307,
+        "i": 0.17,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "lower"
+      },
+      {
+        "t": 3.344,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 3.379,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "you"
+      },
+      {
+        "t": 3.429,
+        "i": 0.3,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "fall"
+      },
+      {
+        "t": 3.539,
+        "i": 0.18,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "You"
+      },
+      {
+        "t": 3.649,
+        "i": 0.09,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "got"
+      },
+      {
+        "t": 3.692,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 3.692,
+        "i": 0.3,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 3.759,
+        "i": 0.16,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "too"
+      },
+      {
+        "t": 3.869,
+        "i": 0.29,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "close"
+      },
+      {
+        "t": 3.979,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "to"
+      },
+      {
+        "t": 4.04,
+        "i": 0.61,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 4.089,
+        "i": 0.15,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "heaven,"
+      },
+      {
+        "t": 4.199,
+        "i": 0.1,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "that's"
+      },
+      {
+        "t": 4.309,
+        "i": 0.08,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "all"
+      },
+      {
+        "t": 4.389,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 4.419,
+        "i": 0.12,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "Now"
+      },
+      {
+        "t": 4.458,
+        "i": 0.29,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 4.529,
+        "i": 0.12,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "in"
+      },
+      {
+        "t": 4.639,
+        "i": 0.08,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "the"
+      },
+      {
+        "t": 4.737,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 4.859,
+        "i": 0.18,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "you"
+      },
+      {
+        "t": 4.946,
+        "i": 0.05,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 4.969,
+        "i": 0.17,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 4.969,
+        "i": 0.2,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "can"
+      },
+      {
+        "t": 5.079,
+        "i": 0.2,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "cry"
+      },
+      {
+        "t": 5.085,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 5.189,
+        "i": 0.15,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "all"
+      },
+      {
+        "t": 5.299,
+        "i": 0.1,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "that"
+      },
+      {
+        "t": 5.364,
+        "i": 0.05,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 5.409,
+        "i": 0.03,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "you"
+      },
+      {
+        "t": 5.48,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 5.526,
+        "i": 0.2,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 5.629,
+        "i": 0.01,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "to"
+      },
+      {
+        "t": 5.642,
+        "i": 0.31,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 5.739,
+        "i": 0.04,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "We'll"
+      },
+      {
+        "t": 5.849,
+        "i": 0.05,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "spend"
+      },
+      {
+        "t": 5.875,
+        "i": 0.4,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 5.959,
+        "i": 0.04,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "the"
+      },
+      {
+        "t": 6.069,
+        "i": 0.02,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "whole"
+      },
+      {
+        "t": 6.084,
+        "i": 0.31,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 6.246,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 6.246,
+        "i": 0.29,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 6.399,
+        "i": 0.04,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "Right"
+      },
+      {
+        "t": 6.509,
+        "i": 0.03,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "now"
+      },
+      {
+        "t": 6.571,
+        "i": 0.21,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 6.571,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 6.618,
+        "i": 0.16,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 6.729,
+        "i": 0.01,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "want"
+      },
+      {
+        "t": 6.757,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 6.839,
+        "i": 0.01,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "you"
+      },
+      {
+        "t": 6.896,
+        "i": 0.15,
+        "d": 10,
+        "tp": "guitar_pick",
+        "prio": 6
+      },
+      {
+        "t": 6.989,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 7.082,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 7.198,
+        "i": 0.08,
+        "d": 30,
+        "tp": "guitar_slide",
+        "prio": 5
+      },
+      {
+        "t": 7.221,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 7.338,
+        "i": 0.35,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 7.361,
+        "i": 0.47,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 7.418,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 7.458,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 7.498,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 7.538,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 7.578,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 7.719,
+        "i": 0.01,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "let"
+      },
+      {
+        "t": 7.732,
+        "i": 0.78,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 7.732,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 7.732,
+        "i": 0.23,
+        "d": 18,
+        "tp": "orchestral_hit",
+        "prio": 7
+      },
+      {
+        "t": 7.802,
+        "i": 0.19,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 7.872,
+        "i": 0.12,
+        "d": 28,
+        "tp": "guitar_strum",
+        "prio": 7
+      },
+      {
+        "t": 7.872,
+        "i": 0.24,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 7.941,
+        "i": 0.13,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      }
+    ]
+  }
+}

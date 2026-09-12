@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-11T16:40:35.171529+00:00",
-  "totalTracks": 81,
+  "generatedAt": "2026-09-12T15:53:52.866317+00:00",
+  "totalTracks": 82,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1386,6 +1386,23 @@
       "mtimeMs": 1789144835171,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "4hr reborn::lil peep - burial grounds (remastered)": {
+      "title": "Lil Peep - Burial Grounds (Remastered)",
+      "artist": "4HR REBORN",
+      "originalTrackName": "4HR REBORN - Lil Peep - Burial Grounds (Remastered)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-6gcj7cpLTIGdrWuu-FF5WyA-original.jpg",
+      "file": "tracks/4hr-reborn-lil-peep-burial-grounds-remastered-a9379c43bb96.json",
+      "files": {
+        "lyrics": "tracks/4hr-reborn-lil-peep-burial-grounds-remastered-a9379c43bb96.json",
+        "meta": "tracks/4hr-reborn-lil-peep-burial-grounds-remastered-a9379c43bb96.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/4hr-archive/lil-peep-burial-grounds-remastered",
+      "mtimeMs": 1789228434301,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2770,6 +2787,23 @@
       "mtimeMs": 1789144835171,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Lil Peep - Burial Grounds (Remastered)",
+      "artist": "4HR REBORN",
+      "originalTrackName": "4HR REBORN - Lil Peep - Burial Grounds (Remastered)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-6gcj7cpLTIGdrWuu-FF5WyA-original.jpg",
+      "file": "tracks/4hr-reborn-lil-peep-burial-grounds-remastered-a9379c43bb96.json",
+      "files": {
+        "lyrics": "tracks/4hr-reborn-lil-peep-burial-grounds-remastered-a9379c43bb96.json",
+        "meta": "tracks/4hr-reborn-lil-peep-burial-grounds-remastered-a9379c43bb96.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/4hr-archive/lil-peep-burial-grounds-remastered",
+      "mtimeMs": 1789228434301,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-13T19:24:13.206948+00:00",
-  "totalTracks": 84,
+  "generatedAt": "2026-09-13T19:44:12.364549+00:00",
+  "totalTracks": 85,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1437,6 +1437,23 @@
       "mtimeMs": 1789327453824,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "xcykol::nightmares": {
+      "title": "nightmares",
+      "artist": "xcykol",
+      "originalTrackName": "xcykol - nightmares",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-EJCSOsr0PaVIVpVb-x5QCTQ-original.jpg",
+      "file": "tracks/xcykol-nightmares-e8d6991b4a3f.json",
+      "files": {
+        "lyrics": "tracks/xcykol-nightmares-e8d6991b4a3f.json",
+        "meta": "tracks/xcykol-nightmares-e8d6991b4a3f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-713338000/nightmares-1",
+      "mtimeMs": 1789328653341,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2870,6 +2887,23 @@
       },
       "sourcePath": "file://34. Flower Man (DELTARUNE Chapter 5 Soundtrack) - Toby Fox _ _Cametek.CamelliaOfficial(MP3_320K).mp3",
       "mtimeMs": 1789327453824,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "nightmares",
+      "artist": "xcykol",
+      "originalTrackName": "xcykol - nightmares",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-EJCSOsr0PaVIVpVb-x5QCTQ-original.jpg",
+      "file": "tracks/xcykol-nightmares-e8d6991b4a3f.json",
+      "files": {
+        "lyrics": "tracks/xcykol-nightmares-e8d6991b4a3f.json",
+        "meta": "tracks/xcykol-nightmares-e8d6991b4a3f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-713338000/nightmares-1",
+      "mtimeMs": 1789328653341,
       "has_haptics": true,
       "haptics_version": 4
     }

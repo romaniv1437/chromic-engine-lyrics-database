@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-13T19:44:26.446091+00:00",
-  "totalTracks": 85,
+  "generatedAt": "2026-09-13T19:46:14.415338+00:00",
+  "totalTracks": 86,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1454,6 +1454,23 @@
       "mtimeMs": 1789328666445,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "xcykol::never running back": {
+      "title": "never running back",
+      "artist": "xcykol",
+      "originalTrackName": "xcykol - never running back",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-EJCSOsr0PaVIVpVb-x5QCTQ-original.jpg",
+      "file": "tracks/xcykol-never-running-back-73ca9bd3fddd.json",
+      "files": {
+        "lyrics": "tracks/xcykol-never-running-back-73ca9bd3fddd.json",
+        "meta": "tracks/xcykol-never-running-back-73ca9bd3fddd.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-713338000/never-running-back-2",
+      "mtimeMs": 1789328775135,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2906,6 +2923,23 @@
       "mtimeMs": 1789328666445,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "never running back",
+      "artist": "xcykol",
+      "originalTrackName": "xcykol - never running back",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-EJCSOsr0PaVIVpVb-x5QCTQ-original.jpg",
+      "file": "tracks/xcykol-never-running-back-73ca9bd3fddd.json",
+      "files": {
+        "lyrics": "tracks/xcykol-never-running-back-73ca9bd3fddd.json",
+        "meta": "tracks/xcykol-never-running-back-73ca9bd3fddd.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-713338000/never-running-back-2",
+      "mtimeMs": 1789328775135,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

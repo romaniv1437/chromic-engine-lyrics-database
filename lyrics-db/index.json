@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-13T19:46:30.028036+00:00",
-  "totalTracks": 86,
+  "generatedAt": "2026-09-13T20:06:18.052061+00:00",
+  "totalTracks": 87,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1471,6 +1471,23 @@
       "mtimeMs": 1789328790027,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "xcykol::malice": {
+      "title": "MALICE",
+      "artist": "xcykol",
+      "originalTrackName": "xcykol - MALICE",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-Li01BXNuOZSo9xUs-QFpilw-original.jpg",
+      "file": "tracks/xcykol-malice-53863ba73d70.json",
+      "files": {
+        "lyrics": "tracks/xcykol-malice-53863ba73d70.json",
+        "meta": "tracks/xcykol-malice-53863ba73d70.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-713338000/malice-1",
+      "mtimeMs": 1789329979067,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2940,6 +2957,23 @@
       "mtimeMs": 1789328790027,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "MALICE",
+      "artist": "xcykol",
+      "originalTrackName": "xcykol - MALICE",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-Li01BXNuOZSo9xUs-QFpilw-original.jpg",
+      "file": "tracks/xcykol-malice-53863ba73d70.json",
+      "files": {
+        "lyrics": "tracks/xcykol-malice-53863ba73d70.json",
+        "meta": "tracks/xcykol-malice-53863ba73d70.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-713338000/malice-1",
+      "mtimeMs": 1789329979067,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

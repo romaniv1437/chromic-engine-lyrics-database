@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-13T20:06:31.611266+00:00",
-  "totalTracks": 87,
+  "generatedAt": "2026-09-14T09:22:25.237820+00:00",
+  "totalTracks": 88,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1488,6 +1488,23 @@
       "mtimeMs": 1789329991611,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "billy idol::lil peep - one more ft. germ [extended snippet]": {
+      "title": "Lil Peep - One More ft. Germ [EXTENDED SNIPPET]",
+      "artist": "Billy Idol",
+      "originalTrackName": "Billy Idol - Lil Peep - One More ft. Germ [EXTENDED SNIPPET]",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000446780028-llep83-original.jpg",
+      "file": "tracks/billy-idol-lil-peep-one-more-ft-germ-extended-snippet-c68fe167bca4.json",
+      "files": {
+        "lyrics": "tracks/billy-idol-lil-peep-one-more-ft-germ-extended-snippet-c68fe167bca4.json",
+        "meta": "tracks/billy-idol-lil-peep-one-more-ft-germ-extended-snippet-c68fe167bca4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/billy-idol-56994137/lil-peep-one-more-ft-germ-lq-extended-snippet-edit",
+      "mtimeMs": 1789377745984,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -2974,6 +2991,23 @@
       "mtimeMs": 1789329991611,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Lil Peep - One More ft. Germ [EXTENDED SNIPPET]",
+      "artist": "Billy Idol",
+      "originalTrackName": "Billy Idol - Lil Peep - One More ft. Germ [EXTENDED SNIPPET]",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000446780028-llep83-original.jpg",
+      "file": "tracks/billy-idol-lil-peep-one-more-ft-germ-extended-snippet-c68fe167bca4.json",
+      "files": {
+        "lyrics": "tracks/billy-idol-lil-peep-one-more-ft-germ-extended-snippet-c68fe167bca4.json",
+        "meta": "tracks/billy-idol-lil-peep-one-more-ft-germ-extended-snippet-c68fe167bca4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/billy-idol-56994137/lil-peep-one-more-ft-germ-lq-extended-snippet-edit",
+      "mtimeMs": 1789377745984,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

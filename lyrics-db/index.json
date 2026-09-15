@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-14T09:22:38.492813+00:00",
-  "totalTracks": 88,
+  "generatedAt": "2026-09-15T18:46:55.353133+00:00",
+  "totalTracks": 89,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1505,6 +1505,23 @@
       "mtimeMs": 1789377758492,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "dirtynikeshawty::lil peep - angels cry (prod. drae da ski mask)": {
+      "title": "LIL PEEP - ANGELS CRY (PROD. DRAE DA SKI MASK)",
+      "artist": "dirtynikeshawty",
+      "originalTrackName": "dirtynikeshawty - LIL PEEP - ANGELS CRY (PROD. DRAE DA SKI MASK)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-YCjwc3p4ZemO68QQ-VdJyXg-original.jpg",
+      "file": "tracks/dirtynikeshawty-lil-peep-angels-cry-prod-drae-da-ski-mask-f5409038ebb2.json",
+      "files": {
+        "lyrics": "tracks/dirtynikeshawty-lil-peep-angels-cry-prod-drae-da-ski-mask-f5409038ebb2.json",
+        "meta": "tracks/dirtynikeshawty-lil-peep-angels-cry-prod-drae-da-ski-mask-f5409038ebb2.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/dirtynikeshawty/angelscry",
+      "mtimeMs": 1789498016529,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3008,6 +3025,23 @@
       "mtimeMs": 1789377758492,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "LIL PEEP - ANGELS CRY (PROD. DRAE DA SKI MASK)",
+      "artist": "dirtynikeshawty",
+      "originalTrackName": "dirtynikeshawty - LIL PEEP - ANGELS CRY (PROD. DRAE DA SKI MASK)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-YCjwc3p4ZemO68QQ-VdJyXg-original.jpg",
+      "file": "tracks/dirtynikeshawty-lil-peep-angels-cry-prod-drae-da-ski-mask-f5409038ebb2.json",
+      "files": {
+        "lyrics": "tracks/dirtynikeshawty-lil-peep-angels-cry-prod-drae-da-ski-mask-f5409038ebb2.json",
+        "meta": "tracks/dirtynikeshawty-lil-peep-angels-cry-prod-drae-da-ski-mask-f5409038ebb2.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/dirtynikeshawty/angelscry",
+      "mtimeMs": 1789498016529,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

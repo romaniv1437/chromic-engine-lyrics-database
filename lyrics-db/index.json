@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-15T18:47:11.383740+00:00",
-  "totalTracks": 89,
+  "generatedAt": "2026-09-15T19:21:31.155082+00:00",
+  "totalTracks": 90,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1522,6 +1522,23 @@
       "mtimeMs": 1789498031383,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "sebastian::rocky balboa motivacion español latino.mp3": {
+      "title": "ROCKY BALBOA motivacion español latino.mp3",
+      "artist": "Sebastian",
+      "originalTrackName": "Sebastian - ROCKY BALBOA motivacion español latino.mp3",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/avatars-VACF0c8rgBSng4yI-ZSYtSQ-original.jpg",
+      "file": "tracks/sebastian-rocky-balboa-motivacion-espa-ol-latino-mp3-7bd3e6551f7e.json",
+      "files": {
+        "lyrics": "tracks/sebastian-rocky-balboa-motivacion-espa-ol-latino-mp3-7bd3e6551f7e.json",
+        "meta": "tracks/sebastian-rocky-balboa-motivacion-espa-ol-latino-mp3-7bd3e6551f7e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/gasema-salas/rocky-balboa-motivacion",
+      "mtimeMs": 1789500092546,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3042,6 +3059,23 @@
       "mtimeMs": 1789498031383,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "ROCKY BALBOA motivacion español latino.mp3",
+      "artist": "Sebastian",
+      "originalTrackName": "Sebastian - ROCKY BALBOA motivacion español latino.mp3",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/avatars-VACF0c8rgBSng4yI-ZSYtSQ-original.jpg",
+      "file": "tracks/sebastian-rocky-balboa-motivacion-espa-ol-latino-mp3-7bd3e6551f7e.json",
+      "files": {
+        "lyrics": "tracks/sebastian-rocky-balboa-motivacion-espa-ol-latino-mp3-7bd3e6551f7e.json",
+        "meta": "tracks/sebastian-rocky-balboa-motivacion-espa-ol-latino-mp3-7bd3e6551f7e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/gasema-salas/rocky-balboa-motivacion",
+      "mtimeMs": 1789500092546,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

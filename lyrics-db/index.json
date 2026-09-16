@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-15T19:21:48.204949+00:00",
-  "totalTracks": 90,
+  "generatedAt": "2026-09-16T10:48:54.725720+00:00",
+  "totalTracks": 91,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1539,6 +1539,23 @@
       "mtimeMs": 1789500108204,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "yung bung::lil peep — lil poop freestyle (prod. trashcat)": {
+      "title": "Lil Peep — Lil Poop Freestyle (prod. Trashcat)",
+      "artist": "Yung Bung",
+      "originalTrackName": "Yung Bung - Lil Peep — Lil Poop Freestyle (prod. Trashcat)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000184461004-3p6q08-original.jpg",
+      "file": "tracks/yung-bung-lil-peep-lil-poop-freestyle-prod-trashcat-51b5fcfeca20.json",
+      "files": {
+        "lyrics": "tracks/yung-bung-lil-peep-lil-poop-freestyle-prod-trashcat-51b5fcfeca20.json",
+        "meta": "tracks/yung-bung-lil-peep-lil-poop-freestyle-prod-trashcat-51b5fcfeca20.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/yungbungerr/lil-peep-lil-poop-freestyle-prod-trashcat",
+      "mtimeMs": 1789555735915,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3076,6 +3093,23 @@
       "mtimeMs": 1789500108204,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Lil Peep — Lil Poop Freestyle (prod. Trashcat)",
+      "artist": "Yung Bung",
+      "originalTrackName": "Yung Bung - Lil Peep — Lil Poop Freestyle (prod. Trashcat)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000184461004-3p6q08-original.jpg",
+      "file": "tracks/yung-bung-lil-peep-lil-poop-freestyle-prod-trashcat-51b5fcfeca20.json",
+      "files": {
+        "lyrics": "tracks/yung-bung-lil-peep-lil-poop-freestyle-prod-trashcat-51b5fcfeca20.json",
+        "meta": "tracks/yung-bung-lil-peep-lil-poop-freestyle-prod-trashcat-51b5fcfeca20.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/yungbungerr/lil-peep-lil-poop-freestyle-prod-trashcat",
+      "mtimeMs": 1789555735915,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

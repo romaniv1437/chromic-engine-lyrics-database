@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T15:33:40.060166+00:00",
-  "totalTracks": 93,
+  "generatedAt": "2026-09-17T19:14:51.367257+00:00",
+  "totalTracks": 94,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1590,6 +1590,23 @@
       "mtimeMs": 1789659220060,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "atrip::me + you": {
+      "title": "Me + You",
+      "artist": "ATRIP",
+      "originalTrackName": "ATRIP - Me + You",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-hUOMxrVUupciLINz-9T8xTw-original.jpg",
+      "file": "tracks/atrip-me-you-f1d6323af2ba.json",
+      "files": {
+        "lyrics": "tracks/atrip-me-you-f1d6323af2ba.json",
+        "meta": "tracks/atrip-me-you-f1d6323af2ba.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/itsatrip/meandyou",
+      "mtimeMs": 1789672491894,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3178,6 +3195,23 @@
       "mtimeMs": 1789659220060,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Me + You",
+      "artist": "ATRIP",
+      "originalTrackName": "ATRIP - Me + You",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-hUOMxrVUupciLINz-9T8xTw-original.jpg",
+      "file": "tracks/atrip-me-you-f1d6323af2ba.json",
+      "files": {
+        "lyrics": "tracks/atrip-me-you-f1d6323af2ba.json",
+        "meta": "tracks/atrip-me-you-f1d6323af2ba.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/itsatrip/meandyou",
+      "mtimeMs": 1789672491894,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

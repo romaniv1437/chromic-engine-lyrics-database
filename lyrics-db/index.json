@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T12:57:58.711454+00:00",
-  "totalTracks": 92,
+  "generatedAt": "2026-09-17T15:33:23.708473+00:00",
+  "totalTracks": 93,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1573,6 +1573,23 @@
       "mtimeMs": 1789649879410,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "hudsoninhell::lil peep - ride": {
+      "title": "lil peep - ride",
+      "artist": "hudsoninhell",
+      "originalTrackName": "hudsoninhell - lil peep - ride",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000397998381-dp0agw-original.jpg",
+      "file": "tracks/hudsoninhell-lil-peep-ride-2683f9a9cd06.json",
+      "files": {
+        "lyrics": "tracks/hudsoninhell-lil-peep-ride-2683f9a9cd06.json",
+        "meta": "tracks/hudsoninhell-lil-peep-ride-2683f9a9cd06.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/hudsonclark/lil-peep-ride",
+      "mtimeMs": 1789659204237,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3142,6 +3159,23 @@
       },
       "sourcePath": "file://01 Baani Sandhu - 8 Parche.mp3",
       "mtimeMs": 1789649879410,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "lil peep - ride",
+      "artist": "hudsoninhell",
+      "originalTrackName": "hudsoninhell - lil peep - ride",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000397998381-dp0agw-original.jpg",
+      "file": "tracks/hudsoninhell-lil-peep-ride-2683f9a9cd06.json",
+      "files": {
+        "lyrics": "tracks/hudsoninhell-lil-peep-ride-2683f9a9cd06.json",
+        "meta": "tracks/hudsoninhell-lil-peep-ride-2683f9a9cd06.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/hudsonclark/lil-peep-ride",
+      "mtimeMs": 1789659204237,
       "has_haptics": true,
       "haptics_version": 4
     }

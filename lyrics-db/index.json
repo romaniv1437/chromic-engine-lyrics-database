@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-18T02:56:50.307573+00:00",
-  "totalTracks": 96,
+  "generatedAt": "2026-09-18T05:20:19.099357+00:00",
+  "totalTracks": 97,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1641,6 +1641,23 @@
       "mtimeMs": 1789700210307,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "data404, arlekin 40 000::eurovision": {
+      "title": "EUROVISION",
+      "artist": "DATA404, ARLEKIN 40 000",
+      "originalTrackName": "DATA404, ARLEKIN 40 000 - EUROVISION",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-UZ2e6Tk8sFaCCXb8-UuyESw-original.png",
+      "file": "tracks/data404-arlekin-40-000-eurovision-017b592caf3a.json",
+      "files": {
+        "lyrics": "tracks/data404-arlekin-40-000-eurovision-017b592caf3a.json",
+        "meta": "tracks/data404-arlekin-40-000-eurovision-017b592caf3a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/xanzlighter/eurovision",
+      "mtimeMs": 1789708820432,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3280,6 +3297,23 @@
       "mtimeMs": 1789700210307,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "EUROVISION",
+      "artist": "DATA404, ARLEKIN 40 000",
+      "originalTrackName": "DATA404, ARLEKIN 40 000 - EUROVISION",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-UZ2e6Tk8sFaCCXb8-UuyESw-original.png",
+      "file": "tracks/data404-arlekin-40-000-eurovision-017b592caf3a.json",
+      "files": {
+        "lyrics": "tracks/data404-arlekin-40-000-eurovision-017b592caf3a.json",
+        "meta": "tracks/data404-arlekin-40-000-eurovision-017b592caf3a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/xanzlighter/eurovision",
+      "mtimeMs": 1789708820432,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

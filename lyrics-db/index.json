@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-18T16:41:10.056470+00:00",
-  "totalTracks": 99,
+  "generatedAt": "2026-09-18T17:01:33.959476+00:00",
+  "totalTracks": 100,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1692,6 +1692,23 @@
       "mtimeMs": 1789749670766,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "доделать кусок::хроники гостинки": {
+      "title": "ХРОНИКИ ГОСТИНКИ",
+      "artist": "Доделать Кусок",
+      "originalTrackName": "Доделать Кусок - ХРОНИКИ ГОСТИНКИ",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-yYYbrh84gZtVaH9T-KEzPKQ-original.jpg",
+      "file": "tracks/track-11801b7343c6.json",
+      "files": {
+        "lyrics": "tracks/track-11801b7343c6.json",
+        "meta": "tracks/track-11801b7343c6.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/fb-gleboss/xroniki-gostinki",
+      "mtimeMs": 1789750894896,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3380,6 +3397,23 @@
       },
       "sourcePath": "https://soundcloud.com/yasmi-166296910/holla-holla",
       "mtimeMs": 1789749670766,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "ХРОНИКИ ГОСТИНКИ",
+      "artist": "Доделать Кусок",
+      "originalTrackName": "Доделать Кусок - ХРОНИКИ ГОСТИНКИ",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-yYYbrh84gZtVaH9T-KEzPKQ-original.jpg",
+      "file": "tracks/track-11801b7343c6.json",
+      "files": {
+        "lyrics": "tracks/track-11801b7343c6.json",
+        "meta": "tracks/track-11801b7343c6.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/fb-gleboss/xroniki-gostinki",
+      "mtimeMs": 1789750894896,
       "has_haptics": true,
       "haptics_version": 4
     }

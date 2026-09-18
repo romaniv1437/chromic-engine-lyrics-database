@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-18T16:40:08.664504+00:00",
-  "totalTracks": 98,
+  "generatedAt": "2026-09-18T16:41:10.056470+00:00",
+  "totalTracks": 99,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1675,6 +1675,23 @@
       "mtimeMs": 1789749609231,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "yasmi::holla holla": {
+      "title": "Holla Holla",
+      "artist": "YASMI",
+      "originalTrackName": "YASMI - Holla Holla",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-WnrX14nJ7qGRqgtI-Q2aQ5g-original.jpg",
+      "file": "tracks/yasmi-holla-holla-88c390f958ba.json",
+      "files": {
+        "lyrics": "tracks/yasmi-holla-holla-88c390f958ba.json",
+        "meta": "tracks/yasmi-holla-holla-88c390f958ba.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/yasmi-166296910/holla-holla",
+      "mtimeMs": 1789749670766,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3346,6 +3363,23 @@
       },
       "sourcePath": "https://soundcloud.com/yasmi-166296910/movalola",
       "mtimeMs": 1789749609231,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Holla Holla",
+      "artist": "YASMI",
+      "originalTrackName": "YASMI - Holla Holla",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-WnrX14nJ7qGRqgtI-Q2aQ5g-original.jpg",
+      "file": "tracks/yasmi-holla-holla-88c390f958ba.json",
+      "files": {
+        "lyrics": "tracks/yasmi-holla-holla-88c390f958ba.json",
+        "meta": "tracks/yasmi-holla-holla-88c390f958ba.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/yasmi-166296910/holla-holla",
+      "mtimeMs": 1789749670766,
       "has_haptics": true,
       "haptics_version": 4
     }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-18T05:20:19.099357+00:00",
-  "totalTracks": 97,
+  "generatedAt": "2026-09-18T16:40:08.664504+00:00",
+  "totalTracks": 98,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1658,6 +1658,23 @@
       "mtimeMs": 1789708820432,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "yasmi::мовалола": {
+      "title": "мовалола",
+      "artist": "YASMI",
+      "originalTrackName": "YASMI - мовалола",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-yHG46Dzh4pdNnryH-BcIZ6Q-original.jpg",
+      "file": "tracks/yasmi-7ecc2106fd49.json",
+      "files": {
+        "lyrics": "tracks/yasmi-7ecc2106fd49.json",
+        "meta": "tracks/yasmi-7ecc2106fd49.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/yasmi-166296910/movalola",
+      "mtimeMs": 1789749609231,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3312,6 +3329,23 @@
       },
       "sourcePath": "https://soundcloud.com/xanzlighter/eurovision",
       "mtimeMs": 1789708820432,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "мовалола",
+      "artist": "YASMI",
+      "originalTrackName": "YASMI - мовалола",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-yHG46Dzh4pdNnryH-BcIZ6Q-original.jpg",
+      "file": "tracks/yasmi-7ecc2106fd49.json",
+      "files": {
+        "lyrics": "tracks/yasmi-7ecc2106fd49.json",
+        "meta": "tracks/yasmi-7ecc2106fd49.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/yasmi-166296910/movalola",
+      "mtimeMs": 1789749609231,
       "has_haptics": true,
       "haptics_version": 4
     }

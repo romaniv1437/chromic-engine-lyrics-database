@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T19:16:26.698597+00:00",
-  "totalTracks": 95,
+  "generatedAt": "2026-09-18T02:56:30.218563+00:00",
+  "totalTracks": 96,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1624,6 +1624,23 @@
       "mtimeMs": 1789672587640,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "optical ☣::ed rush, optical & fierce - alien girl (prototype 1998)": {
+      "title": "Ed Rush, Optical & Fierce - Alien Girl (Prototype 1998)",
+      "artist": "Optical ☣",
+      "originalTrackName": "Optical ☣ - Ed Rush, Optical & Fierce - Alien Girl (Prototype 1998)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000058105326-14xtdz-original.jpg",
+      "file": "tracks/optical-ed-rush-optical-fierce-alien-girl-prototype-1998-481a8845b476.json",
+      "files": {
+        "lyrics": "tracks/optical-ed-rush-optical-fierce-alien-girl-prototype-1998-481a8845b476.json",
+        "meta": "tracks/optical-ed-rush-optical-fierce-alien-girl-prototype-1998-481a8845b476.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/deejayoptical/ed-rush-optical-fierce-alien",
+      "mtimeMs": 1789700191763,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3244,6 +3261,23 @@
       },
       "sourcePath": "https://soundcloud.com/ravenartson/dusk-or-dawn-w-st-panther",
       "mtimeMs": 1789672587640,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Ed Rush, Optical & Fierce - Alien Girl (Prototype 1998)",
+      "artist": "Optical ☣",
+      "originalTrackName": "Optical ☣ - Ed Rush, Optical & Fierce - Alien Girl (Prototype 1998)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000058105326-14xtdz-original.jpg",
+      "file": "tracks/optical-ed-rush-optical-fierce-alien-girl-prototype-1998-481a8845b476.json",
+      "files": {
+        "lyrics": "tracks/optical-ed-rush-optical-fierce-alien-girl-prototype-1998-481a8845b476.json",
+        "meta": "tracks/optical-ed-rush-optical-fierce-alien-girl-prototype-1998-481a8845b476.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/deejayoptical/ed-rush-optical-fierce-alien",
+      "mtimeMs": 1789700191763,
       "has_haptics": true,
       "haptics_version": 4
     }

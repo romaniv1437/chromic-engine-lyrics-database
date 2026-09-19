@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-19T14:13:37.583771+00:00",
-  "totalTracks": 102,
+  "generatedAt": "2026-09-19T14:13:41.563238+00:00",
+  "totalTracks": 101,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1723,26 +1723,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/brianna-haynes-3/15iidckef8kb",
-      "mtimeMs": 1789827208982,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
-    "chivuyen::bolbbalgan4 (볼빨간사춘기) - you (=|)": {
-      "title": "Bolbbalgan4 (볼빨간사춘기) - You (=|)",
-      "artist": "Chivuyen",
-      "originalTrackName": "Chivuyen - Bolbbalgan4 (볼빨간사춘기) - You (=|)",
-      "source": "syncedlyrics",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000632816797-ealmbf-original.jpg",
-      "file": "tracks/chivuyen-bolbbalgan4-you-1664a0369b6e.json",
-      "files": {
-        "lyrics": "tracks/chivuyen-bolbbalgan4-you-1664a0369b6e.json",
-        "meta": "tracks/chivuyen-bolbbalgan4-you-1664a0369b6e.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/myloverrr/bolbbalgan4-you",
-      "mtimeMs": 1789827218665,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1789827221563,
+      "has_haptics": false,
+      "haptics_version": null
     }
   },
   "tracks": [
@@ -3464,26 +3447,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/brianna-haynes-3/15iidckef8kb",
-      "mtimeMs": 1789827208982,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
-    {
-      "title": "Bolbbalgan4 (볼빨간사춘기) - You (=|)",
-      "artist": "Chivuyen",
-      "originalTrackName": "Chivuyen - Bolbbalgan4 (볼빨간사춘기) - You (=|)",
-      "source": "syncedlyrics",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000632816797-ealmbf-original.jpg",
-      "file": "tracks/chivuyen-bolbbalgan4-you-1664a0369b6e.json",
-      "files": {
-        "lyrics": "tracks/chivuyen-bolbbalgan4-you-1664a0369b6e.json",
-        "meta": "tracks/chivuyen-bolbbalgan4-you-1664a0369b6e.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/myloverrr/bolbbalgan4-you",
-      "mtimeMs": 1789827218665,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1789827221563,
+      "has_haptics": false,
+      "haptics_version": null
     }
   ]
 }

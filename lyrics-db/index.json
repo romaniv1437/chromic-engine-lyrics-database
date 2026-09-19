@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-19T14:13:41.563238+00:00",
-  "totalTracks": 101,
+  "generatedAt": "2026-09-19T14:13:50.871240+00:00",
+  "totalTracks": 102,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1726,6 +1726,23 @@
       "mtimeMs": 1789827221563,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "chivuyen::bolbbalgan4 (볼빨간사춘기) - you (=|)": {
+      "title": "Bolbbalgan4 (볼빨간사춘기) - You (=|)",
+      "artist": "Chivuyen",
+      "originalTrackName": "Chivuyen - Bolbbalgan4 (볼빨간사춘기) - You (=|)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000632816797-ealmbf-original.jpg",
+      "file": "tracks/chivuyen-bolbbalgan4-you-1664a0369b6e.json",
+      "files": {
+        "lyrics": "tracks/chivuyen-bolbbalgan4-you-1664a0369b6e.json",
+        "meta": "tracks/chivuyen-bolbbalgan4-you-1664a0369b6e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/myloverrr/bolbbalgan4-you",
+      "mtimeMs": 1789827230871,
+      "has_haptics": false,
+      "haptics_version": null
     }
   },
   "tracks": [
@@ -3448,6 +3465,23 @@
       },
       "sourcePath": "https://soundcloud.com/brianna-haynes-3/15iidckef8kb",
       "mtimeMs": 1789827221563,
+      "has_haptics": false,
+      "haptics_version": null
+    },
+    {
+      "title": "Bolbbalgan4 (볼빨간사춘기) - You (=|)",
+      "artist": "Chivuyen",
+      "originalTrackName": "Chivuyen - Bolbbalgan4 (볼빨간사춘기) - You (=|)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000632816797-ealmbf-original.jpg",
+      "file": "tracks/chivuyen-bolbbalgan4-you-1664a0369b6e.json",
+      "files": {
+        "lyrics": "tracks/chivuyen-bolbbalgan4-you-1664a0369b6e.json",
+        "meta": "tracks/chivuyen-bolbbalgan4-you-1664a0369b6e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/myloverrr/bolbbalgan4-you",
+      "mtimeMs": 1789827230871,
       "has_haptics": false,
       "haptics_version": null
     }

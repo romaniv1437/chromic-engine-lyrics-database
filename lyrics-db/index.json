@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-18T17:01:33.959476+00:00",
-  "totalTracks": 100,
+  "generatedAt": "2026-09-19T14:13:28.224706+00:00",
+  "totalTracks": 101,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1709,6 +1709,23 @@
       "mtimeMs": 1789750894896,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "볼빨간사춘기 (bolbbalgan4)::나만 안되는 연애": {
+      "title": "나만 안되는 연애",
+      "artist": "볼빨간사춘기 (Bolbbalgan4)",
+      "originalTrackName": "볼빨간사춘기 (Bolbbalgan4) - 나만 안되는 연애",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000185955458-b6cwpv-original.jpg",
+      "file": "tracks/bolbbalgan4-119f155e8a43.json",
+      "files": {
+        "lyrics": "tracks/bolbbalgan4-119f155e8a43.json",
+        "meta": "tracks/bolbbalgan4-119f155e8a43.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/brianna-haynes-3/15iidckef8kb",
+      "mtimeMs": 1789827208982,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3414,6 +3431,23 @@
       },
       "sourcePath": "https://soundcloud.com/fb-gleboss/xroniki-gostinki",
       "mtimeMs": 1789750894896,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "나만 안되는 연애",
+      "artist": "볼빨간사춘기 (Bolbbalgan4)",
+      "originalTrackName": "볼빨간사춘기 (Bolbbalgan4) - 나만 안되는 연애",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000185955458-b6cwpv-original.jpg",
+      "file": "tracks/bolbbalgan4-119f155e8a43.json",
+      "files": {
+        "lyrics": "tracks/bolbbalgan4-119f155e8a43.json",
+        "meta": "tracks/bolbbalgan4-119f155e8a43.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/brianna-haynes-3/15iidckef8kb",
+      "mtimeMs": 1789827208982,
       "has_haptics": true,
       "haptics_version": 4
     }

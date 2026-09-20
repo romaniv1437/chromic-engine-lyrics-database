@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-19T14:13:50.871240+00:00",
-  "totalTracks": 102,
+  "generatedAt": "2026-09-20T04:45:47.689854+00:00",
+  "totalTracks": 103,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1743,6 +1743,23 @@
       "mtimeMs": 1789827230871,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "toomuchgalaxy::glm-rst - still love you": {
+      "title": "GLM-RST - still love you",
+      "artist": "TooMuchGalaxy",
+      "originalTrackName": "TooMuchGalaxy - GLM-RST - still love you",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-jTFZ5aS62GHthKb2-AkkQRQ-original.jpg",
+      "file": "tracks/toomuchgalaxy-glm-rst-still-love-you-44aaae5f97c4.json",
+      "files": {
+        "lyrics": "tracks/toomuchgalaxy-glm-rst-still-love-you-44aaae5f97c4.json",
+        "meta": "tracks/toomuchgalaxy-glm-rst-still-love-you-44aaae5f97c4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-299854504/glm-rst-still-love-you",
+      "mtimeMs": 1789879548887,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3484,6 +3501,23 @@
       "mtimeMs": 1789827230871,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "GLM-RST - still love you",
+      "artist": "TooMuchGalaxy",
+      "originalTrackName": "TooMuchGalaxy - GLM-RST - still love you",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-jTFZ5aS62GHthKb2-AkkQRQ-original.jpg",
+      "file": "tracks/toomuchgalaxy-glm-rst-still-love-you-44aaae5f97c4.json",
+      "files": {
+        "lyrics": "tracks/toomuchgalaxy-glm-rst-still-love-you-44aaae5f97c4.json",
+        "meta": "tracks/toomuchgalaxy-glm-rst-still-love-you-44aaae5f97c4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-299854504/glm-rst-still-love-you",
+      "mtimeMs": 1789879548887,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

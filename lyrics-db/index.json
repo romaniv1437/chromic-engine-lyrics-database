@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-20T15:19:01.133875+00:00",
-  "totalTracks": 104,
+  "generatedAt": "2026-09-21T03:13:41.807856+00:00",
+  "totalTracks": 105,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1777,6 +1777,23 @@
       "mtimeMs": 1789917541133,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "꧁𝓓𝓙 𝓣𝓗𝓡𝓘𝓛𝓛𝓣𝓡𝓞𝓞𝓟𝓔𝓡꧂::kadis k5 - freshmen": {
+      "title": "Kadis K5 - Freshmen",
+      "artist": "꧁𝓓𝓙 𝓣𝓗𝓡𝓘𝓛𝓛𝓣𝓡𝓞𝓞𝓟𝓔𝓡꧂",
+      "originalTrackName": "꧁𝓓𝓙 𝓣𝓗𝓡𝓘𝓛𝓛𝓣𝓡𝓞𝓞𝓟𝓔𝓡꧂ - Kadis K5 - Freshmen",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-9pZF8ZAcZSfN3Vpp-d64y4Q-original.jpg",
+      "file": "tracks/kadis-k5-freshmen-c1d18e55b6e3.json",
+      "files": {
+        "lyrics": "tracks/kadis-k5-freshmen-c1d18e55b6e3.json",
+        "meta": "tracks/kadis-k5-freshmen-c1d18e55b6e3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/136thrilltrooper/kadis-k5-freshmen",
+      "mtimeMs": 1789960422378,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3552,6 +3569,23 @@
       "mtimeMs": 1789917541133,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Kadis K5 - Freshmen",
+      "artist": "꧁𝓓𝓙 𝓣𝓗𝓡𝓘𝓛𝓛𝓣𝓡𝓞𝓞𝓟𝓔𝓡꧂",
+      "originalTrackName": "꧁𝓓𝓙 𝓣𝓗𝓡𝓘𝓛𝓛𝓣𝓡𝓞𝓞𝓟𝓔𝓡꧂ - Kadis K5 - Freshmen",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-9pZF8ZAcZSfN3Vpp-d64y4Q-original.jpg",
+      "file": "tracks/kadis-k5-freshmen-c1d18e55b6e3.json",
+      "files": {
+        "lyrics": "tracks/kadis-k5-freshmen-c1d18e55b6e3.json",
+        "meta": "tracks/kadis-k5-freshmen-c1d18e55b6e3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/136thrilltrooper/kadis-k5-freshmen",
+      "mtimeMs": 1789960422378,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

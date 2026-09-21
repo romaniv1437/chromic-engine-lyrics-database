@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T04:10:06.454438+00:00",
-  "totalTracks": 109,
+  "generatedAt": "2026-09-21T04:12:57.035683+00:00",
+  "totalTracks": 110,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1860,6 +1860,23 @@
       "mtimeMs": 1789963807547,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "sil-a::sil-a — в бегах [prod. by dj d.a.]": {
+      "title": "SIL-A — В Бегах [Prod. By DJ D.A.]",
+      "artist": "SIL-A",
+      "originalTrackName": "SIL-A - SIL-A — В Бегах [Prod. By DJ D.A.]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000144634052-7sw2ku-original.jpg",
+      "file": "tracks/sil-a-sil-a-prod-by-dj-d-a-6883c769770b.json",
+      "files": {
+        "lyrics": "tracks/sil-a-sil-a-prod-by-dj-d-a-6883c769770b.json",
+        "meta": "tracks/sil-a-sil-a-prod-by-dj-d-a-6883c769770b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/creaminalrec/1-sil-a",
+      "mtimeMs": 1789963977534,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3716,6 +3733,23 @@
       },
       "sourcePath": "https://soundcloud.com/nikolaj-ferz/sil-a-moj-gorod-ne-spit",
       "mtimeMs": 1789963807547,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "SIL-A — В Бегах [Prod. By DJ D.A.]",
+      "artist": "SIL-A",
+      "originalTrackName": "SIL-A - SIL-A — В Бегах [Prod. By DJ D.A.]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000144634052-7sw2ku-original.jpg",
+      "file": "tracks/sil-a-sil-a-prod-by-dj-d-a-6883c769770b.json",
+      "files": {
+        "lyrics": "tracks/sil-a-sil-a-prod-by-dj-d-a-6883c769770b.json",
+        "meta": "tracks/sil-a-sil-a-prod-by-dj-d-a-6883c769770b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/creaminalrec/1-sil-a",
+      "mtimeMs": 1789963977534,
       "has_haptics": true,
       "haptics_version": 4
     }

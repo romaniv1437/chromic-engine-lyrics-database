@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T04:17:01.788305+00:00",
-  "totalTracks": 112,
+  "generatedAt": "2026-09-21T15:10:25.357012+00:00",
+  "totalTracks": 113,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1911,6 +1911,23 @@
       "mtimeMs": 1789964222841,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "꧁𝓓𝓙 𝓣𝓗𝓡𝓘𝓛𝓛𝓣𝓡𝓞𝓞𝓟𝓔𝓡꧂::sil-a - расскажи (dj nik-one)": {
+      "title": "SIL-A - Расскажи (DJ NIK-ONE)",
+      "artist": "꧁𝓓𝓙 𝓣𝓗𝓡𝓘𝓛𝓛𝓣𝓡𝓞𝓞𝓟𝓔𝓡꧂",
+      "originalTrackName": "꧁𝓓𝓙 𝓣𝓗𝓡𝓘𝓛𝓛𝓣𝓡𝓞𝓞𝓟𝓔𝓡꧂ - SIL-A - Расскажи (DJ NIK-ONE)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-vfxyBHgExRTV1S6C-rWKuFw-original.jpg",
+      "file": "tracks/sil-a-dj-nik-one-e1972839b769.json",
+      "files": {
+        "lyrics": "tracks/sil-a-dj-nik-one-e1972839b769.json",
+        "meta": "tracks/sil-a-dj-nik-one-e1972839b769.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/136thrilltrooper/sil-a-rasskazhi-dj-nik-one",
+      "mtimeMs": 1790003426195,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3818,6 +3835,23 @@
       },
       "sourcePath": "https://soundcloud.com/childrentears/plinofficial-x-yung-trappa-x",
       "mtimeMs": 1789964222841,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "SIL-A - Расскажи (DJ NIK-ONE)",
+      "artist": "꧁𝓓𝓙 𝓣𝓗𝓡𝓘𝓛𝓛𝓣𝓡𝓞𝓞𝓟𝓔𝓡꧂",
+      "originalTrackName": "꧁𝓓𝓙 𝓣𝓗𝓡𝓘𝓛𝓛𝓣𝓡𝓞𝓞𝓟𝓔𝓡꧂ - SIL-A - Расскажи (DJ NIK-ONE)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-vfxyBHgExRTV1S6C-rWKuFw-original.jpg",
+      "file": "tracks/sil-a-dj-nik-one-e1972839b769.json",
+      "files": {
+        "lyrics": "tracks/sil-a-dj-nik-one-e1972839b769.json",
+        "meta": "tracks/sil-a-dj-nik-one-e1972839b769.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/136thrilltrooper/sil-a-rasskazhi-dj-nik-one",
+      "mtimeMs": 1790003426195,
       "has_haptics": true,
       "haptics_version": 4
     }

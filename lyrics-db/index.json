@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T17:27:10.393998+00:00",
-  "totalTracks": 116,
+  "generatedAt": "2026-09-21T17:36:08.578274+00:00",
+  "totalTracks": 117,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1979,6 +1979,23 @@
       "mtimeMs": 1790011631093,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "#myrichestdayever::t.a.loc kadis k5 mix": {
+      "title": "T.A.Loc KADIS K5 MIX",
+      "artist": "#myrichestdayever",
+      "originalTrackName": "#myrichestdayever - T.A.Loc KADIS K5 MIX",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-at1yazH99JDCImXJ-HT69NA-original.png",
+      "file": "tracks/myrichestdayever-t-a-loc-kadis-k5-mix-69ae103aa88e.json",
+      "files": {
+        "lyrics": "tracks/myrichestdayever-t-a-loc-kadis-k5-mix-69ae103aa88e.json",
+        "meta": "tracks/myrichestdayever-t-a-loc-kadis-k5-mix-69ae103aa88e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/myrichestdayever/taloc-kadis-k5-mix",
+      "mtimeMs": 1790012170615,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3954,6 +3971,23 @@
       },
       "sourcePath": "https://soundcloud.com/bipdrip/boulevard-depo-internet",
       "mtimeMs": 1790011631093,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "T.A.Loc KADIS K5 MIX",
+      "artist": "#myrichestdayever",
+      "originalTrackName": "#myrichestdayever - T.A.Loc KADIS K5 MIX",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-at1yazH99JDCImXJ-HT69NA-original.png",
+      "file": "tracks/myrichestdayever-t-a-loc-kadis-k5-mix-69ae103aa88e.json",
+      "files": {
+        "lyrics": "tracks/myrichestdayever-t-a-loc-kadis-k5-mix-69ae103aa88e.json",
+        "meta": "tracks/myrichestdayever-t-a-loc-kadis-k5-mix-69ae103aa88e.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/myrichestdayever/taloc-kadis-k5-mix",
+      "mtimeMs": 1790012170615,
       "has_haptics": true,
       "haptics_version": 4
     }

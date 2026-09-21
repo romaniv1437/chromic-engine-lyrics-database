@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T03:15:18.183160+00:00",
-  "totalTracks": 106,
+  "generatedAt": "2026-09-21T03:17:19.103951+00:00",
+  "totalTracks": 107,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1811,6 +1811,22 @@
       "mtimeMs": 1789960518183,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "lana del rey::pretty when you cry": {
+      "title": "Pretty When You Cry",
+      "artist": "Lana Del Rey",
+      "originalTrackName": "Lana Del Rey - Pretty When You Cry",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/lana-del-rey-pretty-when-you-cry-de5baca994b0.json",
+      "files": {
+        "lyrics": "tracks/lana-del-rey-pretty-when-you-cry-de5baca994b0.json",
+        "meta": "tracks/lana-del-rey-pretty-when-you-cry-de5baca994b0.meta.json",
+        "translations": {
+          "ru": "tracks/lana-del-rey-pretty-when-you-cry-de5baca994b0.ru.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/lana-del-rey/pretty-when-you-cry-1",
+      "mtimeMs": 1789960639103
     }
   },
   "tracks": [
@@ -3620,6 +3636,22 @@
       "mtimeMs": 1789960518183,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Pretty When You Cry",
+      "artist": "Lana Del Rey",
+      "originalTrackName": "Lana Del Rey - Pretty When You Cry",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/lana-del-rey-pretty-when-you-cry-de5baca994b0.json",
+      "files": {
+        "lyrics": "tracks/lana-del-rey-pretty-when-you-cry-de5baca994b0.json",
+        "meta": "tracks/lana-del-rey-pretty-when-you-cry-de5baca994b0.meta.json",
+        "translations": {
+          "ru": "tracks/lana-del-rey-pretty-when-you-cry-de5baca994b0.ru.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/lana-del-rey/pretty-when-you-cry-1",
+      "mtimeMs": 1789960639103
     }
   ]
 }

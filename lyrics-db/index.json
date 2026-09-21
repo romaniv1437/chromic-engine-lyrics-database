@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T04:13:07.955606+00:00",
-  "totalTracks": 110,
+  "generatedAt": "2026-09-21T04:14:32.191849+00:00",
+  "totalTracks": 111,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1877,6 +1877,23 @@
       "mtimeMs": 1789963987955,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "spitfire::sil-a - делай деньги братва": {
+      "title": "Sil-A - Делай Деньги Братва",
+      "artist": "Spitfire",
+      "originalTrackName": "Spitfire - Sil-A - Делай Деньги Братва",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-q24Q0b8zrBlzFcgX-JWEHeg-original.jpg",
+      "file": "tracks/spitfire-sil-a-509a1ab5e56b.json",
+      "files": {
+        "lyrics": "tracks/spitfire-sil-a-509a1ab5e56b.json",
+        "meta": "tracks/spitfire-sil-a-509a1ab5e56b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/greenspitfire/sil-a-delai-dengi-bratva",
+      "mtimeMs": 1789964072804,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3752,6 +3769,23 @@
       "mtimeMs": 1789963987955,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Sil-A - Делай Деньги Братва",
+      "artist": "Spitfire",
+      "originalTrackName": "Spitfire - Sil-A - Делай Деньги Братва",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-q24Q0b8zrBlzFcgX-JWEHeg-original.jpg",
+      "file": "tracks/spitfire-sil-a-509a1ab5e56b.json",
+      "files": {
+        "lyrics": "tracks/spitfire-sil-a-509a1ab5e56b.json",
+        "meta": "tracks/spitfire-sil-a-509a1ab5e56b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/greenspitfire/sil-a-delai-dengi-bratva",
+      "mtimeMs": 1789964072804,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

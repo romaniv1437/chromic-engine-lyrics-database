@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T03:17:19.103951+00:00",
+  "generatedAt": "2026-09-21T03:58:09.258541+00:00",
   "totalTracks": 107,
   "roots": [
     "lyrics-db/tracks"
@@ -1795,23 +1795,6 @@
       "has_haptics": true,
       "haptics_version": 4
     },
-    "dj kislie budni🎲::kadis k5 - вечно свежий": {
-      "title": "Kadis K5 - Вечно Свежий",
-      "artist": "Dj Kislie Budni🎲",
-      "originalTrackName": "Dj Kislie Budni🎲 - Kadis K5 - Вечно Свежий",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-YGFyIMRtLRcRTCCo-Dc41qw-original.jpg",
-      "file": "tracks/dj-kislie-budni-kadis-k5-0e8cb82dcdbd.json",
-      "files": {
-        "lyrics": "tracks/dj-kislie-budni-kadis-k5-0e8cb82dcdbd.json",
-        "meta": "tracks/dj-kislie-budni-kadis-k5-0e8cb82dcdbd.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/dj-kisliebudni/kadis-k5-vechno-svezhiy",
-      "mtimeMs": 1789960518183,
-      "has_haptics": false,
-      "haptics_version": null
-    },
     "lana del rey::pretty when you cry": {
       "title": "Pretty When You Cry",
       "artist": "Lana Del Rey",
@@ -1827,6 +1810,23 @@
       },
       "sourcePath": "https://soundcloud.com/lana-del-rey/pretty-when-you-cry-1",
       "mtimeMs": 1789960639103
+    },
+    "dj kislie budni🎲::kadis k5 - вечно свежий": {
+      "title": "Kadis K5 - Вечно Свежий",
+      "artist": "Dj Kislie Budni🎲",
+      "originalTrackName": "Dj Kislie Budni🎲 - Kadis K5 - Вечно Свежий",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-YGFyIMRtLRcRTCCo-Dc41qw-original.jpg",
+      "file": "tracks/dj-kislie-budni-kadis-k5-0e8cb82dcdbd.json",
+      "files": {
+        "lyrics": "tracks/dj-kislie-budni-kadis-k5-0e8cb82dcdbd.json",
+        "meta": "tracks/dj-kislie-budni-kadis-k5-0e8cb82dcdbd.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/dj-kisliebudni/kadis-k5-vechno-svezhiy",
+      "mtimeMs": 1789963090135,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3621,23 +3621,6 @@
       "haptics_version": 4
     },
     {
-      "title": "Kadis K5 - Вечно Свежий",
-      "artist": "Dj Kislie Budni🎲",
-      "originalTrackName": "Dj Kislie Budni🎲 - Kadis K5 - Вечно Свежий",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-YGFyIMRtLRcRTCCo-Dc41qw-original.jpg",
-      "file": "tracks/dj-kislie-budni-kadis-k5-0e8cb82dcdbd.json",
-      "files": {
-        "lyrics": "tracks/dj-kislie-budni-kadis-k5-0e8cb82dcdbd.json",
-        "meta": "tracks/dj-kislie-budni-kadis-k5-0e8cb82dcdbd.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/dj-kisliebudni/kadis-k5-vechno-svezhiy",
-      "mtimeMs": 1789960518183,
-      "has_haptics": false,
-      "haptics_version": null
-    },
-    {
       "title": "Pretty When You Cry",
       "artist": "Lana Del Rey",
       "originalTrackName": "Lana Del Rey - Pretty When You Cry",
@@ -3652,6 +3635,23 @@
       },
       "sourcePath": "https://soundcloud.com/lana-del-rey/pretty-when-you-cry-1",
       "mtimeMs": 1789960639103
+    },
+    {
+      "title": "Kadis K5 - Вечно Свежий",
+      "artist": "Dj Kislie Budni🎲",
+      "originalTrackName": "Dj Kislie Budni🎲 - Kadis K5 - Вечно Свежий",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-YGFyIMRtLRcRTCCo-Dc41qw-original.jpg",
+      "file": "tracks/dj-kislie-budni-kadis-k5-0e8cb82dcdbd.json",
+      "files": {
+        "lyrics": "tracks/dj-kislie-budni-kadis-k5-0e8cb82dcdbd.json",
+        "meta": "tracks/dj-kislie-budni-kadis-k5-0e8cb82dcdbd.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/dj-kisliebudni/kadis-k5-vechno-svezhiy",
+      "mtimeMs": 1789963090135,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

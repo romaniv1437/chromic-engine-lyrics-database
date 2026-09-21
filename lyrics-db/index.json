@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T04:00:56.732515+00:00",
+  "generatedAt": "2026-09-21T04:02:24.798048+00:00",
   "totalTracks": 108,
   "roots": [
     "lyrics-db/tracks"
@@ -1832,18 +1832,17 @@
       "title": "Kadis K5 - Tommy Vercetti",
       "artist": "A777MP97",
       "originalTrackName": "A777MP97 - Kadis K5 - Tommy Vercetti",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-lUIVJuAoz6r7Ya9A-nEjBpQ-original.jpg",
+      "source": "soundcloud_extension_translate",
       "file": "tracks/a777mp97-kadis-k5-tommy-vercetti-b331c9b02695.json",
       "files": {
         "lyrics": "tracks/a777mp97-kadis-k5-tommy-vercetti-b331c9b02695.json",
         "meta": "tracks/a777mp97-kadis-k5-tommy-vercetti-b331c9b02695.meta.json",
-        "translations": {}
+        "translations": {
+          "ru": "tracks/a777mp97-kadis-k5-tommy-vercetti-b331c9b02695.ru.json"
+        }
       },
       "sourcePath": "https://soundcloud.com/lootscalle/kadis-k5-tommy-vercetti",
-      "mtimeMs": 1789963256732,
-      "has_haptics": false,
-      "haptics_version": null
+      "mtimeMs": 1789963344797
     }
   },
   "tracks": [
@@ -3674,18 +3673,17 @@
       "title": "Kadis K5 - Tommy Vercetti",
       "artist": "A777MP97",
       "originalTrackName": "A777MP97 - Kadis K5 - Tommy Vercetti",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-lUIVJuAoz6r7Ya9A-nEjBpQ-original.jpg",
+      "source": "soundcloud_extension_translate",
       "file": "tracks/a777mp97-kadis-k5-tommy-vercetti-b331c9b02695.json",
       "files": {
         "lyrics": "tracks/a777mp97-kadis-k5-tommy-vercetti-b331c9b02695.json",
         "meta": "tracks/a777mp97-kadis-k5-tommy-vercetti-b331c9b02695.meta.json",
-        "translations": {}
+        "translations": {
+          "ru": "tracks/a777mp97-kadis-k5-tommy-vercetti-b331c9b02695.ru.json"
+        }
       },
       "sourcePath": "https://soundcloud.com/lootscalle/kadis-k5-tommy-vercetti",
-      "mtimeMs": 1789963256732,
-      "has_haptics": false,
-      "haptics_version": null
+      "mtimeMs": 1789963344797
     }
   ]
 }

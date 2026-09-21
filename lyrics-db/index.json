@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T04:04:03.277068+00:00",
-  "totalTracks": 108,
+  "generatedAt": "2026-09-21T04:10:06.454438+00:00",
+  "totalTracks": 109,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1843,6 +1843,23 @@
       },
       "sourcePath": "https://soundcloud.com/lootscalle/kadis-k5-tommy-vercetti",
       "mtimeMs": 1789963443276
+    },
+    "sil-a and yung trappa - topic::sil-a - мой город не спит": {
+      "title": "SIL-A - Мой Город Не Спит",
+      "artist": "SIL-A and YUNG TRAPPA - Topic",
+      "originalTrackName": "SIL-A and YUNG TRAPPA - Topic - SIL-A - Мой Город Не Спит",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-ZQApS8F8yRH8jPIJ-y0EwVQ-original.jpg",
+      "file": "tracks/sil-a-and-yung-trappa-topic-sil-a-ca0b337e2fd3.json",
+      "files": {
+        "lyrics": "tracks/sil-a-and-yung-trappa-topic-sil-a-ca0b337e2fd3.json",
+        "meta": "tracks/sil-a-and-yung-trappa-topic-sil-a-ca0b337e2fd3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/nikolaj-ferz/sil-a-moj-gorod-ne-spit",
+      "mtimeMs": 1789963807547,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3684,6 +3701,23 @@
       },
       "sourcePath": "https://soundcloud.com/lootscalle/kadis-k5-tommy-vercetti",
       "mtimeMs": 1789963443276
+    },
+    {
+      "title": "SIL-A - Мой Город Не Спит",
+      "artist": "SIL-A and YUNG TRAPPA - Topic",
+      "originalTrackName": "SIL-A and YUNG TRAPPA - Topic - SIL-A - Мой Город Не Спит",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-ZQApS8F8yRH8jPIJ-y0EwVQ-original.jpg",
+      "file": "tracks/sil-a-and-yung-trappa-topic-sil-a-ca0b337e2fd3.json",
+      "files": {
+        "lyrics": "tracks/sil-a-and-yung-trappa-topic-sil-a-ca0b337e2fd3.json",
+        "meta": "tracks/sil-a-and-yung-trappa-topic-sil-a-ca0b337e2fd3.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/nikolaj-ferz/sil-a-moj-gorod-ne-spit",
+      "mtimeMs": 1789963807547,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T16:25:42.881262+00:00",
-  "totalTracks": 114,
+  "generatedAt": "2026-09-21T17:24:54.070413+00:00",
+  "totalTracks": 115,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1945,6 +1945,23 @@
       "mtimeMs": 1790007942881,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "k5::kadis k5 - человек татуировка": {
+      "title": "Kadis K5 - Человек Татуировка",
+      "artist": "K5",
+      "originalTrackName": "K5 - Kadis K5 - Человек Татуировка",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-wc2ymunDYm4yYeMQ-UAip2A-original.jpg",
+      "file": "tracks/k5-kadis-k5-0e0a3e70300d.json",
+      "files": {
+        "lyrics": "tracks/k5-kadis-k5-0e0a3e70300d.json",
+        "meta": "tracks/k5-kadis-k5-0e0a3e70300d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-675299045/kadis-k5-chelovek-tatuirovka",
+      "mtimeMs": 1790011494959,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3888,6 +3905,23 @@
       "mtimeMs": 1790007942881,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Kadis K5 - Человек Татуировка",
+      "artist": "K5",
+      "originalTrackName": "K5 - Kadis K5 - Человек Татуировка",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-wc2ymunDYm4yYeMQ-UAip2A-original.jpg",
+      "file": "tracks/k5-kadis-k5-0e0a3e70300d.json",
+      "files": {
+        "lyrics": "tracks/k5-kadis-k5-0e0a3e70300d.json",
+        "meta": "tracks/k5-kadis-k5-0e0a3e70300d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-675299045/kadis-k5-chelovek-tatuirovka",
+      "mtimeMs": 1790011494959,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T04:14:47.684361+00:00",
-  "totalTracks": 111,
+  "generatedAt": "2026-09-21T04:17:01.788305+00:00",
+  "totalTracks": 112,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1894,6 +1894,23 @@
       "mtimeMs": 1789964087684,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "childrentears::plinofficial x yung trappa x cheefaplugg - я в дыме": {
+      "title": "PLINOFFICIAL x Yung Trappa x Cheefaplugg - Я в дыме",
+      "artist": "childrentears",
+      "originalTrackName": "childrentears - PLINOFFICIAL x Yung Trappa x Cheefaplugg - Я в дыме",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-LMxZBshHPSdKh4zf-zXqkyg-original.jpg",
+      "file": "tracks/childrentears-plinofficial-x-yung-trappa-x-cheefaplugg-e67572f53544.json",
+      "files": {
+        "lyrics": "tracks/childrentears-plinofficial-x-yung-trappa-x-cheefaplugg-e67572f53544.json",
+        "meta": "tracks/childrentears-plinofficial-x-yung-trappa-x-cheefaplugg-e67572f53544.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/childrentears/plinofficial-x-yung-trappa-x",
+      "mtimeMs": 1789964222841,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3786,6 +3803,23 @@
       "mtimeMs": 1789964087684,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "PLINOFFICIAL x Yung Trappa x Cheefaplugg - Я в дыме",
+      "artist": "childrentears",
+      "originalTrackName": "childrentears - PLINOFFICIAL x Yung Trappa x Cheefaplugg - Я в дыме",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-LMxZBshHPSdKh4zf-zXqkyg-original.jpg",
+      "file": "tracks/childrentears-plinofficial-x-yung-trappa-x-cheefaplugg-e67572f53544.json",
+      "files": {
+        "lyrics": "tracks/childrentears-plinofficial-x-yung-trappa-x-cheefaplugg-e67572f53544.json",
+        "meta": "tracks/childrentears-plinofficial-x-yung-trappa-x-cheefaplugg-e67572f53544.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/childrentears/plinofficial-x-yung-trappa-x",
+      "mtimeMs": 1789964222841,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

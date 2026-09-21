@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T03:58:26.217173+00:00",
-  "totalTracks": 107,
+  "generatedAt": "2026-09-21T04:00:36.913886+00:00",
+  "totalTracks": 108,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1827,6 +1827,23 @@
       "mtimeMs": 1789963106217,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "a777mp97::kadis k5 - tommy vercetti": {
+      "title": "Kadis K5 - Tommy Vercetti",
+      "artist": "A777MP97",
+      "originalTrackName": "A777MP97 - Kadis K5 - Tommy Vercetti",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-lUIVJuAoz6r7Ya9A-nEjBpQ-original.jpg",
+      "file": "tracks/a777mp97-kadis-k5-tommy-vercetti-b331c9b02695.json",
+      "files": {
+        "lyrics": "tracks/a777mp97-kadis-k5-tommy-vercetti-b331c9b02695.json",
+        "meta": "tracks/a777mp97-kadis-k5-tommy-vercetti-b331c9b02695.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lootscalle/kadis-k5-tommy-vercetti",
+      "mtimeMs": 1789963237997,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3652,6 +3669,23 @@
       "mtimeMs": 1789963106217,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Kadis K5 - Tommy Vercetti",
+      "artist": "A777MP97",
+      "originalTrackName": "A777MP97 - Kadis K5 - Tommy Vercetti",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-lUIVJuAoz6r7Ya9A-nEjBpQ-original.jpg",
+      "file": "tracks/a777mp97-kadis-k5-tommy-vercetti-b331c9b02695.json",
+      "files": {
+        "lyrics": "tracks/a777mp97-kadis-k5-tommy-vercetti-b331c9b02695.json",
+        "meta": "tracks/a777mp97-kadis-k5-tommy-vercetti-b331c9b02695.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/lootscalle/kadis-k5-tommy-vercetti",
+      "mtimeMs": 1789963237997,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

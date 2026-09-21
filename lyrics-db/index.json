@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T03:13:41.807856+00:00",
-  "totalTracks": 105,
+  "generatedAt": "2026-09-21T03:14:58.758873+00:00",
+  "totalTracks": 106,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1794,6 +1794,23 @@
       "mtimeMs": 1789960422378,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "dj kislie budni🎲::kadis k5 - вечно свежий": {
+      "title": "Kadis K5 - Вечно Свежий",
+      "artist": "Dj Kislie Budni🎲",
+      "originalTrackName": "Dj Kislie Budni🎲 - Kadis K5 - Вечно Свежий",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-YGFyIMRtLRcRTCCo-Dc41qw-original.jpg",
+      "file": "tracks/dj-kislie-budni-kadis-k5-0e8cb82dcdbd.json",
+      "files": {
+        "lyrics": "tracks/dj-kislie-budni-kadis-k5-0e8cb82dcdbd.json",
+        "meta": "tracks/dj-kislie-budni-kadis-k5-0e8cb82dcdbd.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/dj-kisliebudni/kadis-k5-vechno-svezhiy",
+      "mtimeMs": 1789960500153,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3584,6 +3601,23 @@
       },
       "sourcePath": "https://soundcloud.com/136thrilltrooper/kadis-k5-freshmen",
       "mtimeMs": 1789960422378,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Kadis K5 - Вечно Свежий",
+      "artist": "Dj Kislie Budni🎲",
+      "originalTrackName": "Dj Kislie Budni🎲 - Kadis K5 - Вечно Свежий",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-YGFyIMRtLRcRTCCo-Dc41qw-original.jpg",
+      "file": "tracks/dj-kislie-budni-kadis-k5-0e8cb82dcdbd.json",
+      "files": {
+        "lyrics": "tracks/dj-kislie-budni-kadis-k5-0e8cb82dcdbd.json",
+        "meta": "tracks/dj-kislie-budni-kadis-k5-0e8cb82dcdbd.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/dj-kisliebudni/kadis-k5-vechno-svezhiy",
+      "mtimeMs": 1789960500153,
       "has_haptics": true,
       "haptics_version": 4
     }

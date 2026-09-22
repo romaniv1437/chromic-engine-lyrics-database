@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-22T13:35:15.851694+00:00",
-  "totalTracks": 119,
+  "generatedAt": "2026-09-22T13:43:02.782074+00:00",
+  "totalTracks": 120,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -2030,6 +2030,23 @@
       "mtimeMs": 1790084116724,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "bigbang::에라 모르겠다 (fxxk it) - bigbang": {
+      "title": "에라 모르겠다 (FXXK IT) - BIGBANG",
+      "artist": "BIGBANG",
+      "originalTrackName": "BIGBANG - 에라 모르겠다 (FXXK IT) - BIGBANG",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000198093697-9ntye2-original.jpg",
+      "file": "tracks/bigbang-fxxk-it-bigbang-faf7feb8c612.json",
+      "files": {
+        "lyrics": "tracks/bigbang-fxxk-it-bigbang-faf7feb8c612.json",
+        "meta": "tracks/bigbang-fxxk-it-bigbang-faf7feb8c612.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/schwd/fxxk-it-bigbang",
+      "mtimeMs": 1790084583936,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -4056,6 +4073,23 @@
       },
       "sourcePath": "https://soundcloud.com/frond-miol/trogai-moe-serdcze-aquakey",
       "mtimeMs": 1790084116724,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "에라 모르겠다 (FXXK IT) - BIGBANG",
+      "artist": "BIGBANG",
+      "originalTrackName": "BIGBANG - 에라 모르겠다 (FXXK IT) - BIGBANG",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000198093697-9ntye2-original.jpg",
+      "file": "tracks/bigbang-fxxk-it-bigbang-faf7feb8c612.json",
+      "files": {
+        "lyrics": "tracks/bigbang-fxxk-it-bigbang-faf7feb8c612.json",
+        "meta": "tracks/bigbang-fxxk-it-bigbang-faf7feb8c612.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/schwd/fxxk-it-bigbang",
+      "mtimeMs": 1790084583936,
       "has_haptics": true,
       "haptics_version": 4
     }

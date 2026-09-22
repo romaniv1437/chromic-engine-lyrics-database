@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T17:36:08.578274+00:00",
-  "totalTracks": 117,
+  "generatedAt": "2026-09-22T13:21:25.626145+00:00",
+  "totalTracks": 118,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -1996,6 +1996,23 @@
       "mtimeMs": 1790012170615,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "original god, lil peep::u don't know me w/ lil peep [prod. paulie]": {
+      "title": "u don't know me w/ Lil Peep [prod. paulie]",
+      "artist": "Original God, lil peep",
+      "originalTrackName": "Original God, lil peep - u don't know me w/ Lil Peep [prod. paulie]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-yCEZXoREEv9I0d2z-N3EmOQ-original.jpg",
+      "file": "tracks/original-god-lil-peep-u-don-t-know-me-w-lil-peep-prod-paulie-df2601595bd4.json",
+      "files": {
+        "lyrics": "tracks/original-god-lil-peep-u-don-t-know-me-w-lil-peep-prod-paulie-df2601595bd4.json",
+        "meta": "tracks/original-god-lil-peep-u-don-t-know-me-w-lil-peep-prod-paulie-df2601595bd4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/original-god/udontknowme",
+      "mtimeMs": 1790083286650,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -3988,6 +4005,23 @@
       },
       "sourcePath": "https://soundcloud.com/myrichestdayever/taloc-kadis-k5-mix",
       "mtimeMs": 1790012170615,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "u don't know me w/ Lil Peep [prod. paulie]",
+      "artist": "Original God, lil peep",
+      "originalTrackName": "Original God, lil peep - u don't know me w/ Lil Peep [prod. paulie]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-yCEZXoREEv9I0d2z-N3EmOQ-original.jpg",
+      "file": "tracks/original-god-lil-peep-u-don-t-know-me-w-lil-peep-prod-paulie-df2601595bd4.json",
+      "files": {
+        "lyrics": "tracks/original-god-lil-peep-u-don-t-know-me-w-lil-peep-prod-paulie-df2601595bd4.json",
+        "meta": "tracks/original-god-lil-peep-u-don-t-know-me-w-lil-peep-prod-paulie-df2601595bd4.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/original-god/udontknowme",
+      "mtimeMs": 1790083286650,
       "has_haptics": true,
       "haptics_version": 4
     }

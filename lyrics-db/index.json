@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-22T14:00:19.094242+00:00",
-  "totalTracks": 121,
+  "generatedAt": "2026-09-23T06:19:17.099314+00:00",
+  "totalTracks": 122,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -2064,6 +2064,23 @@
       "mtimeMs": 1790085619094,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "adnil::shattered pieces": {
+      "title": "Shattered Pieces",
+      "artist": "Adnil",
+      "originalTrackName": "Adnil - Shattered Pieces",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/avatars-VQAgCU0vMDDtWfI1-Bhmwaw-original.jpg",
+      "file": "tracks/adnil-shattered-pieces-192115c719b7.json",
+      "files": {
+        "lyrics": "tracks/adnil-shattered-pieces-192115c719b7.json",
+        "meta": "tracks/adnil-shattered-pieces-192115c719b7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/darla-mcginnis-277013351/shattered-pieces",
+      "mtimeMs": 1790144358128,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -4126,6 +4143,23 @@
       "mtimeMs": 1790085619094,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Shattered Pieces",
+      "artist": "Adnil",
+      "originalTrackName": "Adnil - Shattered Pieces",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/avatars-VQAgCU0vMDDtWfI1-Bhmwaw-original.jpg",
+      "file": "tracks/adnil-shattered-pieces-192115c719b7.json",
+      "files": {
+        "lyrics": "tracks/adnil-shattered-pieces-192115c719b7.json",
+        "meta": "tracks/adnil-shattered-pieces-192115c719b7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/darla-mcginnis-277013351/shattered-pieces",
+      "mtimeMs": 1790144358128,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

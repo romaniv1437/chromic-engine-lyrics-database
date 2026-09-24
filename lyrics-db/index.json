@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-24T10:18:58.350457+00:00",
-  "totalTracks": 126,
+  "generatedAt": "2026-09-24T21:50:54.063877+00:00",
+  "totalTracks": 127,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -2149,6 +2149,23 @@
       "mtimeMs": 1790245138350,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "swordglare::kadis k5 - афобазол (afobazol)": {
+      "title": "Kadis K5 - Афобазол (Afobazol)",
+      "artist": "swordglare",
+      "originalTrackName": "swordglare - Kadis K5 - Афобазол (Afobazol)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-85m2Z2TgLZP3gmOQ-vCU7qA-original.jpg",
+      "file": "tracks/swordglare-kadis-k5-afobazol-1abd267f87e1.json",
+      "files": {
+        "lyrics": "tracks/swordglare-kadis-k5-afobazol-1abd267f87e1.json",
+        "meta": "tracks/swordglare-kadis-k5-afobazol-1abd267f87e1.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/qpeivvdefijl/kadis-k5-afobazol-afobazol",
+      "mtimeMs": 1790286655326,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -4296,6 +4313,23 @@
       "mtimeMs": 1790245138350,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Kadis K5 - Афобазол (Afobazol)",
+      "artist": "swordglare",
+      "originalTrackName": "swordglare - Kadis K5 - Афобазол (Afobazol)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-85m2Z2TgLZP3gmOQ-vCU7qA-original.jpg",
+      "file": "tracks/swordglare-kadis-k5-afobazol-1abd267f87e1.json",
+      "files": {
+        "lyrics": "tracks/swordglare-kadis-k5-afobazol-1abd267f87e1.json",
+        "meta": "tracks/swordglare-kadis-k5-afobazol-1abd267f87e1.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/qpeivvdefijl/kadis-k5-afobazol-afobazol",
+      "mtimeMs": 1790286655326,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

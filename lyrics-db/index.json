@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-24T06:22:41.499685+00:00",
-  "totalTracks": 124,
+  "generatedAt": "2026-09-24T06:49:30.674735+00:00",
+  "totalTracks": 125,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -2115,6 +2115,23 @@
       "mtimeMs": 1790230962169,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "sexnacid::probluisya (prod. burning vostok)": {
+      "title": "probluisya (prod. burning vostok)",
+      "artist": "SEXNACID",
+      "originalTrackName": "SEXNACID - probluisya (prod. burning vostok)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-021F8fo0XuP4KjQa-1zV25Q-original.jpg",
+      "file": "tracks/sexnacid-probluisya-prod-burning-vostok-af9bae03ac73.json",
+      "files": {
+        "lyrics": "tracks/sexnacid-probluisya-prod-burning-vostok-af9bae03ac73.json",
+        "meta": "tracks/sexnacid-probluisya-prod-burning-vostok-af9bae03ac73.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/sexxnnacciidd/probluisya-prod-burning-vostok",
+      "mtimeMs": 1790232571321,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -4226,6 +4243,23 @@
       },
       "sourcePath": "https://soundcloud.com/comfypepperoni/hello-is-this-newjeans",
       "mtimeMs": 1790230962169,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "probluisya (prod. burning vostok)",
+      "artist": "SEXNACID",
+      "originalTrackName": "SEXNACID - probluisya (prod. burning vostok)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-021F8fo0XuP4KjQa-1zV25Q-original.jpg",
+      "file": "tracks/sexnacid-probluisya-prod-burning-vostok-af9bae03ac73.json",
+      "files": {
+        "lyrics": "tracks/sexnacid-probluisya-prod-burning-vostok-af9bae03ac73.json",
+        "meta": "tracks/sexnacid-probluisya-prod-burning-vostok-af9bae03ac73.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/sexxnnacciidd/probluisya-prod-burning-vostok",
+      "mtimeMs": 1790232571321,
       "has_haptics": true,
       "haptics_version": 4
     }

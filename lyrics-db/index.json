@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-23T14:31:43.706332+00:00",
-  "totalTracks": 123,
+  "generatedAt": "2026-09-24T06:22:41.499685+00:00",
+  "totalTracks": 124,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -2098,6 +2098,23 @@
       "mtimeMs": 1790173903706,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "hayoung::hello is this newjeans ?": {
+      "title": "hello is this newjeans ?",
+      "artist": "Hayoung",
+      "originalTrackName": "Hayoung - hello is this newjeans ?",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-gxOjeZyozlbkr6Lt-qAy4hw-original.jpg",
+      "file": "tracks/hayoung-hello-is-this-newjeans-af0abb1f9e4a.json",
+      "files": {
+        "lyrics": "tracks/hayoung-hello-is-this-newjeans-af0abb1f9e4a.json",
+        "meta": "tracks/hayoung-hello-is-this-newjeans-af0abb1f9e4a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/comfypepperoni/hello-is-this-newjeans",
+      "mtimeMs": 1790230962169,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -4194,6 +4211,23 @@
       "mtimeMs": 1790173903706,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "hello is this newjeans ?",
+      "artist": "Hayoung",
+      "originalTrackName": "Hayoung - hello is this newjeans ?",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-gxOjeZyozlbkr6Lt-qAy4hw-original.jpg",
+      "file": "tracks/hayoung-hello-is-this-newjeans-af0abb1f9e4a.json",
+      "files": {
+        "lyrics": "tracks/hayoung-hello-is-this-newjeans-af0abb1f9e4a.json",
+        "meta": "tracks/hayoung-hello-is-this-newjeans-af0abb1f9e4a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/comfypepperoni/hello-is-this-newjeans",
+      "mtimeMs": 1790230962169,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

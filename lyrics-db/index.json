@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-24T21:51:08.896011+00:00",
-  "totalTracks": 127,
+  "generatedAt": "2026-09-25T23:58:41.585790+00:00",
+  "totalTracks": 128,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -2166,6 +2166,23 @@
       "mtimeMs": 1790286668895,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "шумные и угрожающие выходки::на север": {
+      "title": "На север",
+      "artist": "шумные и угрожающие выходки",
+      "originalTrackName": "шумные и угрожающие выходки - На север",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-YRtAy4iDBKyXWtIc-M0NHtA-original.jpg",
+      "file": "tracks/track-9c7fa1a1f11a.json",
+      "files": {
+        "lyrics": "tracks/track-9c7fa1a1f11a.json",
+        "meta": "tracks/track-9c7fa1a1f11a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/shoom_ugroz/ooy24l0dnbgb",
+      "mtimeMs": 1790380722529,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -4330,6 +4347,23 @@
       "mtimeMs": 1790286668895,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "На север",
+      "artist": "шумные и угрожающие выходки",
+      "originalTrackName": "шумные и угрожающие выходки - На север",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-YRtAy4iDBKyXWtIc-M0NHtA-original.jpg",
+      "file": "tracks/track-9c7fa1a1f11a.json",
+      "files": {
+        "lyrics": "tracks/track-9c7fa1a1f11a.json",
+        "meta": "tracks/track-9c7fa1a1f11a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/shoom_ugroz/ooy24l0dnbgb",
+      "mtimeMs": 1790380722529,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

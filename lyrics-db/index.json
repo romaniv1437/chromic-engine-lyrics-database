@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-26T01:28:54.925888+00:00",
-  "totalTracks": 129,
+  "generatedAt": "2026-09-26T04:35:29.278519+00:00",
+  "totalTracks": 130,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -2200,6 +2200,23 @@
       "mtimeMs": 1790386134925,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "sleepa (ztokyo)::sleepa - all is gone": {
+      "title": "Sleepa - All Is Gone",
+      "artist": "Sleepa (zTokyo)",
+      "originalTrackName": "Sleepa (zTokyo) - Sleepa - All Is Gone",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-HLi2zmI5uiuix06O-zYGvYg-original.jpg",
+      "file": "tracks/sleepa-ztokyo-sleepa-all-is-gone-fb196c60e25b.json",
+      "files": {
+        "lyrics": "tracks/sleepa-ztokyo-sleepa-all-is-gone-fb196c60e25b.json",
+        "meta": "tracks/sleepa-ztokyo-sleepa-all-is-gone-fb196c60e25b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/zzzsleepa/all-is-gone",
+      "mtimeMs": 1790397329797,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -4398,6 +4415,23 @@
       "mtimeMs": 1790386134925,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Sleepa - All Is Gone",
+      "artist": "Sleepa (zTokyo)",
+      "originalTrackName": "Sleepa (zTokyo) - Sleepa - All Is Gone",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-HLi2zmI5uiuix06O-zYGvYg-original.jpg",
+      "file": "tracks/sleepa-ztokyo-sleepa-all-is-gone-fb196c60e25b.json",
+      "files": {
+        "lyrics": "tracks/sleepa-ztokyo-sleepa-all-is-gone-fb196c60e25b.json",
+        "meta": "tracks/sleepa-ztokyo-sleepa-all-is-gone-fb196c60e25b.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/zzzsleepa/all-is-gone",
+      "mtimeMs": 1790397329797,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-25T23:58:41.585790+00:00",
-  "totalTracks": 128,
+  "generatedAt": "2026-09-26T01:28:42.367117+00:00",
+  "totalTracks": 129,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -2183,6 +2183,23 @@
       "mtimeMs": 1790380722529,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "sleepr1::sleepr - limp (mv in desc)": {
+      "title": "sleepr - Limp (mv in desc)",
+      "artist": "sleepr1",
+      "originalTrackName": "sleepr1 - sleepr - Limp (mv in desc)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-eywej6xhqFQWW7DM-Yebezw-original.jpg",
+      "file": "tracks/sleepr1-sleepr-limp-mv-in-desc-70fe8c866a28.json",
+      "files": {
+        "lyrics": "tracks/sleepr1-sleepr-limp-mv-in-desc-70fe8c866a28.json",
+        "meta": "tracks/sleepr1-sleepr-limp-mv-in-desc-70fe8c866a28.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/sleepr1/sleepr-limp-mv-in-desc",
+      "mtimeMs": 1790386122997,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -4362,6 +4379,23 @@
       },
       "sourcePath": "https://soundcloud.com/shoom_ugroz/ooy24l0dnbgb",
       "mtimeMs": 1790380722529,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "sleepr - Limp (mv in desc)",
+      "artist": "sleepr1",
+      "originalTrackName": "sleepr1 - sleepr - Limp (mv in desc)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-eywej6xhqFQWW7DM-Yebezw-original.jpg",
+      "file": "tracks/sleepr1-sleepr-limp-mv-in-desc-70fe8c866a28.json",
+      "files": {
+        "lyrics": "tracks/sleepr1-sleepr-limp-mv-in-desc-70fe8c866a28.json",
+        "meta": "tracks/sleepr1-sleepr-limp-mv-in-desc-70fe8c866a28.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/sleepr1/sleepr-limp-mv-in-desc",
+      "mtimeMs": 1790386122997,
       "has_haptics": true,
       "haptics_version": 4
     }

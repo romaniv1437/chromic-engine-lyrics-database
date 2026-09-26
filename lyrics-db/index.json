@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-26T13:50:42.949183+00:00",
-  "totalTracks": 132,
+  "generatedAt": "2026-09-26T13:54:23.742136+00:00",
+  "totalTracks": 133,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -2251,6 +2251,23 @@
       "mtimeMs": 1790430644032,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "sundae::light island - my singing monsters | full song (update 4.5)": {
+      "title": "Light Island - My Singing Monsters | Full Song (Update 4.5)",
+      "artist": "Sundae",
+      "originalTrackName": "Sundae - Light Island - My Singing Monsters | Full Song (Update 4.5)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-2j0Iyx5yftlbVUx4-E1ZWgQ-original.jpg",
+      "file": "tracks/sundae-light-island-my-singing-monsters-full-song-update-4-5-92b12137161a.json",
+      "files": {
+        "lyrics": "tracks/sundae-light-island-my-singing-monsters-full-song-update-4-5-92b12137161a.json",
+        "meta": "tracks/sundae-light-island-my-singing-monsters-full-song-update-4-5-92b12137161a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/kirby-360609848/light-island-my-singing",
+      "mtimeMs": 1790430864645,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -4498,6 +4515,23 @@
       },
       "sourcePath": "https://soundcloud.com/thegreatestheh/starhenge",
       "mtimeMs": 1790430644032,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Light Island - My Singing Monsters | Full Song (Update 4.5)",
+      "artist": "Sundae",
+      "originalTrackName": "Sundae - Light Island - My Singing Monsters | Full Song (Update 4.5)",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-2j0Iyx5yftlbVUx4-E1ZWgQ-original.jpg",
+      "file": "tracks/sundae-light-island-my-singing-monsters-full-song-update-4-5-92b12137161a.json",
+      "files": {
+        "lyrics": "tracks/sundae-light-island-my-singing-monsters-full-song-update-4-5-92b12137161a.json",
+        "meta": "tracks/sundae-light-island-my-singing-monsters-full-song-update-4-5-92b12137161a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/kirby-360609848/light-island-my-singing",
+      "mtimeMs": 1790430864645,
       "has_haptics": true,
       "haptics_version": 4
     }

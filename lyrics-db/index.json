@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-26T18:13:51.096219+00:00",
-  "totalTracks": 134,
+  "generatedAt": "2026-09-26T18:14:52.967744+00:00",
+  "totalTracks": 135,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -2285,6 +2285,23 @@
       "mtimeMs": 1790446431096,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "d4vd, ☆odetaridxe☆::marcescence - d4vd (leaked)": {
+      "title": "MARCESCENCE - d4vd (LEAKED)",
+      "artist": "d4vd, ☆odetaridxe☆",
+      "originalTrackName": "d4vd, ☆odetaridxe☆ - MARCESCENCE - d4vd (LEAKED)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-qF7IGXS6gHDA1uFF-EQaYYQ-original.jpg",
+      "file": "tracks/d4vd-odetaridxe-marcescence-d4vd-leaked-734f78d9d5bb.json",
+      "files": {
+        "lyrics": "tracks/d4vd-odetaridxe-marcescence-d4vd-leaked-734f78d9d5bb.json",
+        "meta": "tracks/d4vd-odetaridxe-marcescence-d4vd-leaked-734f78d9d5bb.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-528887420/marcescence-d4vd-leaked-mp3",
+      "mtimeMs": 1790446493896,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -4568,6 +4585,23 @@
       "mtimeMs": 1790446431096,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "MARCESCENCE - d4vd (LEAKED)",
+      "artist": "d4vd, ☆odetaridxe☆",
+      "originalTrackName": "d4vd, ☆odetaridxe☆ - MARCESCENCE - d4vd (LEAKED)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-qF7IGXS6gHDA1uFF-EQaYYQ-original.jpg",
+      "file": "tracks/d4vd-odetaridxe-marcescence-d4vd-leaked-734f78d9d5bb.json",
+      "files": {
+        "lyrics": "tracks/d4vd-odetaridxe-marcescence-d4vd-leaked-734f78d9d5bb.json",
+        "meta": "tracks/d4vd-odetaridxe-marcescence-d4vd-leaked-734f78d9d5bb.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-528887420/marcescence-d4vd-leaked-mp3",
+      "mtimeMs": 1790446493896,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

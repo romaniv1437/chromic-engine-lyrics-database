@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-26T04:35:29.278519+00:00",
-  "totalTracks": 130,
+  "generatedAt": "2026-09-26T08:48:28.672470+00:00",
+  "totalTracks": 131,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -2217,6 +2217,23 @@
       "mtimeMs": 1790397329797,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "паша техник::демоны ( feat. раскольников , velial squad )": {
+      "title": "ДЕМОНЫ ( feat. РАСКОЛЬНИКОВ , VELIAL SQUAD )",
+      "artist": "Паша Техник",
+      "originalTrackName": "Паша Техник - ДЕМОНЫ ( feat. РАСКОЛЬНИКОВ , VELIAL SQUAD )",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/avatars-000276971995-3fur4q-original.jpg",
+      "file": "tracks/feat-velial-squad-d6b3582d5f14.json",
+      "files": {
+        "lyrics": "tracks/feat-velial-squad-d6b3582d5f14.json",
+        "meta": "tracks/feat-velial-squad-d6b3582d5f14.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/originalpashatechnique/feat-velial-squad",
+      "mtimeMs": 1790412509936,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -4430,6 +4447,23 @@
       },
       "sourcePath": "https://soundcloud.com/zzzsleepa/all-is-gone",
       "mtimeMs": 1790397329797,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "ДЕМОНЫ ( feat. РАСКОЛЬНИКОВ , VELIAL SQUAD )",
+      "artist": "Паша Техник",
+      "originalTrackName": "Паша Техник - ДЕМОНЫ ( feat. РАСКОЛЬНИКОВ , VELIAL SQUAD )",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/avatars-000276971995-3fur4q-original.jpg",
+      "file": "tracks/feat-velial-squad-d6b3582d5f14.json",
+      "files": {
+        "lyrics": "tracks/feat-velial-squad-d6b3582d5f14.json",
+        "meta": "tracks/feat-velial-squad-d6b3582d5f14.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/originalpashatechnique/feat-velial-squad",
+      "mtimeMs": 1790412509936,
       "has_haptics": true,
       "haptics_version": 4
     }

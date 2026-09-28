@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T12:38:46.166106+00:00",
-  "totalTracks": 3,
+  "generatedAt": "2026-09-28T13:02:44.389454+00:00",
+  "totalTracks": 4,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -55,6 +55,23 @@
       "mtimeMs": 1790599126166,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "eore, gunksway::rocknrow with gunk 🏁🇬🇧🏁🇬🇧": {
+      "title": "rocknrow with gunk 🏁🇬🇧🏁🇬🇧",
+      "artist": "eore, gunksway",
+      "originalTrackName": "eore, gunksway - rocknrow with gunk 🏁🇬🇧🏁🇬🇧",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-ZysTtoXbnUdBvmj8-dxpGdg-original.jpg",
+      "file": "tracks/eore-gunksway-rocknrow-with-gunk-28e6d43838da.json",
+      "files": {
+        "lyrics": "tracks/eore-gunksway-rocknrow-with-gunk-28e6d43838da.json",
+        "meta": "tracks/eore-gunksway-rocknrow-with-gunk-28e6d43838da.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/9or6/rocknrow-with-gunk",
+      "mtimeMs": 1790600565581,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -108,6 +125,23 @@
       "mtimeMs": 1790599126166,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "rocknrow with gunk 🏁🇬🇧🏁🇬🇧",
+      "artist": "eore, gunksway",
+      "originalTrackName": "eore, gunksway - rocknrow with gunk 🏁🇬🇧🏁🇬🇧",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-ZysTtoXbnUdBvmj8-dxpGdg-original.jpg",
+      "file": "tracks/eore-gunksway-rocknrow-with-gunk-28e6d43838da.json",
+      "files": {
+        "lyrics": "tracks/eore-gunksway-rocknrow-with-gunk-28e6d43838da.json",
+        "meta": "tracks/eore-gunksway-rocknrow-with-gunk-28e6d43838da.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/9or6/rocknrow-with-gunk",
+      "mtimeMs": 1790600565581,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

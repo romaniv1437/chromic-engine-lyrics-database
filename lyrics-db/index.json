@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T13:03:17.676030+00:00",
-  "totalTracks": 5,
+  "generatedAt": "2026-09-28T22:50:50.546846+00:00",
+  "totalTracks": 6,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -89,6 +89,23 @@
       "mtimeMs": 1790600598144,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "euroxan (@euroxany)::spring glo + ami da youngan (prod. roadring, molly b)": {
+      "title": "spring glo + Ami da youngan (prod. Roadring, molly b)",
+      "artist": "euroxan (@euroxany)",
+      "originalTrackName": "euroxan (@euroxany) - spring glo + Ami da youngan (prod. Roadring, molly b)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-egnl7lfLhRZuHzeb-mC8OHw-original.png",
+      "file": "tracks/euroxan-euroxany-spring-glo-ami-da-youngan-prod-roadring-molly-b-13d58b8fd121.json",
+      "files": {
+        "lyrics": "tracks/euroxan-euroxany-spring-glo-ami-da-youngan-prod-roadring-molly-b-13d58b8fd121.json",
+        "meta": "tracks/euroxan-euroxany-spring-glo-ami-da-youngan-prod-roadring-molly-b-13d58b8fd121.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/maksim-631336152/spring-glo-ami-da-youngan-prod-roadring-1",
+      "mtimeMs": 1790635851080,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -174,6 +191,23 @@
       },
       "sourcePath": "https://soundcloud.com/thuggpeezy/iromo-pint-found-the-plot",
       "mtimeMs": 1790600598144,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "spring glo + Ami da youngan (prod. Roadring, molly b)",
+      "artist": "euroxan (@euroxany)",
+      "originalTrackName": "euroxan (@euroxany) - spring glo + Ami da youngan (prod. Roadring, molly b)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-egnl7lfLhRZuHzeb-mC8OHw-original.png",
+      "file": "tracks/euroxan-euroxany-spring-glo-ami-da-youngan-prod-roadring-molly-b-13d58b8fd121.json",
+      "files": {
+        "lyrics": "tracks/euroxan-euroxany-spring-glo-ami-da-youngan-prod-roadring-molly-b-13d58b8fd121.json",
+        "meta": "tracks/euroxan-euroxany-spring-glo-ami-da-youngan-prod-roadring-molly-b-13d58b8fd121.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/maksim-631336152/spring-glo-ami-da-youngan-prod-roadring-1",
+      "mtimeMs": 1790635851080,
       "has_haptics": true,
       "haptics_version": 4
     }

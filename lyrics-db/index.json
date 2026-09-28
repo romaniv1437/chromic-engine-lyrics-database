@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T12:36:49.657788+00:00",
-  "totalTracks": 2,
+  "generatedAt": "2026-09-28T12:38:30.475124+00:00",
+  "totalTracks": 3,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -38,6 +38,23 @@
       "mtimeMs": 1790599009657,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "weepsesh::red wine milkshake // yoyamia phreak": {
+      "title": "red wine milkshake // YOYAMIA PHREAK",
+      "artist": "weepsesh",
+      "originalTrackName": "weepsesh - red wine milkshake // YOYAMIA PHREAK",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-WJddQB8pzObVNPIl-McHFZw-original.jpg",
+      "file": "tracks/weepsesh-red-wine-milkshake-yoyamia-phreak-11259471a262.json",
+      "files": {
+        "lyrics": "tracks/weepsesh-red-wine-milkshake-yoyamia-phreak-11259471a262.json",
+        "meta": "tracks/weepsesh-red-wine-milkshake-yoyamia-phreak-11259471a262.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/9or6/red-wine-milkshake-yoyamia",
+      "mtimeMs": 1790599111618,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -74,6 +91,23 @@
       "mtimeMs": 1790599009657,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "red wine milkshake // YOYAMIA PHREAK",
+      "artist": "weepsesh",
+      "originalTrackName": "weepsesh - red wine milkshake // YOYAMIA PHREAK",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-WJddQB8pzObVNPIl-McHFZw-original.jpg",
+      "file": "tracks/weepsesh-red-wine-milkshake-yoyamia-phreak-11259471a262.json",
+      "files": {
+        "lyrics": "tracks/weepsesh-red-wine-milkshake-yoyamia-phreak-11259471a262.json",
+        "meta": "tracks/weepsesh-red-wine-milkshake-yoyamia-phreak-11259471a262.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/9or6/red-wine-milkshake-yoyamia",
+      "mtimeMs": 1790599111618,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

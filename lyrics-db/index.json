@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T12:29:48.085582+00:00",
-  "totalTracks": 1,
+  "generatedAt": "2026-09-28T12:36:30.843892+00:00",
+  "totalTracks": 2,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -21,6 +21,23 @@
       "mtimeMs": 1790598588085,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "#cex::gunksway - likkle brainfog girl \\/-\\/": {
+      "title": "gunksway - likkle brainfog girl \\/-\\/",
+      "artist": "#cex",
+      "originalTrackName": "#cex - gunksway - likkle brainfog girl \\/-\\/",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-rfdF7doXvWd9FvPJ-6OP0pw-original.png",
+      "file": "tracks/cex-gunksway-likkle-brainfog-girl-3b2a7db527ba.json",
+      "files": {
+        "lyrics": "tracks/cex-gunksway-likkle-brainfog-girl-3b2a7db527ba.json",
+        "meta": "tracks/cex-gunksway-likkle-brainfog-girl-3b2a7db527ba.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/cexcexcex/likkle-brainfog-girl",
+      "mtimeMs": 1790598991955,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -40,6 +57,23 @@
       "mtimeMs": 1790598588085,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "gunksway - likkle brainfog girl \\/-\\/",
+      "artist": "#cex",
+      "originalTrackName": "#cex - gunksway - likkle brainfog girl \\/-\\/",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-rfdF7doXvWd9FvPJ-6OP0pw-original.png",
+      "file": "tracks/cex-gunksway-likkle-brainfog-girl-3b2a7db527ba.json",
+      "files": {
+        "lyrics": "tracks/cex-gunksway-likkle-brainfog-girl-3b2a7db527ba.json",
+        "meta": "tracks/cex-gunksway-likkle-brainfog-girl-3b2a7db527ba.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/cexcexcex/likkle-brainfog-girl",
+      "mtimeMs": 1790598991955,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

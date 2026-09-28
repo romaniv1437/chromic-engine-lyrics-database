@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T13:02:44.389454+00:00",
-  "totalTracks": 4,
+  "generatedAt": "2026-09-28T13:03:17.676030+00:00",
+  "totalTracks": 5,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -72,6 +72,23 @@
       "mtimeMs": 1790600565581,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "thuggpint::iromo & pint - found the plot": {
+      "title": "iromo & pint - found the plot",
+      "artist": "thuggpint",
+      "originalTrackName": "thuggpint - iromo & pint - found the plot",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-eFA1kYRF3TwrprTR-lwP8ZQ-original.png",
+      "file": "tracks/thuggpint-iromo-pint-found-the-plot-6a246153b08d.json",
+      "files": {
+        "lyrics": "tracks/thuggpint-iromo-pint-found-the-plot-6a246153b08d.json",
+        "meta": "tracks/thuggpint-iromo-pint-found-the-plot-6a246153b08d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/thuggpeezy/iromo-pint-found-the-plot",
+      "mtimeMs": 1790600598144,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -140,6 +157,23 @@
       },
       "sourcePath": "https://soundcloud.com/9or6/rocknrow-with-gunk",
       "mtimeMs": 1790600565581,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "iromo & pint - found the plot",
+      "artist": "thuggpint",
+      "originalTrackName": "thuggpint - iromo & pint - found the plot",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-eFA1kYRF3TwrprTR-lwP8ZQ-original.png",
+      "file": "tracks/thuggpint-iromo-pint-found-the-plot-6a246153b08d.json",
+      "files": {
+        "lyrics": "tracks/thuggpint-iromo-pint-found-the-plot-6a246153b08d.json",
+        "meta": "tracks/thuggpint-iromo-pint-found-the-plot-6a246153b08d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/thuggpeezy/iromo-pint-found-the-plot",
+      "mtimeMs": 1790600598144,
       "has_haptics": true,
       "haptics_version": 4
     }

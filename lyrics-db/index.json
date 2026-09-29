@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T04:22:38.355910+00:00",
-  "totalTracks": 11,
+  "generatedAt": "2026-09-29T16:32:21.079598+00:00",
+  "totalTracks": 12,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -191,6 +191,23 @@
       "mtimeMs": 1790655758355,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "cupsize::cupsize - 17 ножевых": {
+      "title": "CUPSIZE - 17 ножевых",
+      "artist": "CUPSIZE",
+      "originalTrackName": "CUPSIZE - CUPSIZE - 17 ножевых",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-CXeBAwtT6IY41Xf7-q4sisg-original.jpg",
+      "file": "tracks/cupsize-cupsize-17-3c2f1e272c5a.json",
+      "files": {
+        "lyrics": "tracks/cupsize-cupsize-17-3c2f1e272c5a.json",
+        "meta": "tracks/cupsize-cupsize-17-3c2f1e272c5a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/oleksandr-vorobjov-611210900/cupsize-17-nozhevyx",
+      "mtimeMs": 1790699541684,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -380,6 +397,23 @@
       "mtimeMs": 1790655758355,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "CUPSIZE - 17 ножевых",
+      "artist": "CUPSIZE",
+      "originalTrackName": "CUPSIZE - CUPSIZE - 17 ножевых",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-CXeBAwtT6IY41Xf7-q4sisg-original.jpg",
+      "file": "tracks/cupsize-cupsize-17-3c2f1e272c5a.json",
+      "files": {
+        "lyrics": "tracks/cupsize-cupsize-17-3c2f1e272c5a.json",
+        "meta": "tracks/cupsize-cupsize-17-3c2f1e272c5a.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/oleksandr-vorobjov-611210900/cupsize-17-nozhevyx",
+      "mtimeMs": 1790699541684,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

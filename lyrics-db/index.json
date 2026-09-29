@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T03:41:22.321815+00:00",
-  "totalTracks": 9,
+  "generatedAt": "2026-09-29T04:19:56.544058+00:00",
+  "totalTracks": 10,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -157,6 +157,23 @@
       "mtimeMs": 1790653282814,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "mrwllixx::ooes-melancholia": {
+      "title": "ooes-melancholia",
+      "artist": "mrwllixx",
+      "originalTrackName": "mrwllixx - ooes-melancholia",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-yut6f0FEd8ljs4cx-vVCWkg-original.jpg",
+      "file": "tracks/mrwllixx-ooes-melancholia-d742a6cbfd32.json",
+      "files": {
+        "lyrics": "tracks/mrwllixx-ooes-melancholia-d742a6cbfd32.json",
+        "meta": "tracks/mrwllixx-ooes-melancholia-d742a6cbfd32.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/mael-mae/ooes-melancholia",
+      "mtimeMs": 1790655597207,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -310,6 +327,23 @@
       },
       "sourcePath": "https://soundcloud.com/vyshelpokuryt/padayu",
       "mtimeMs": 1790653282814,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "ooes-melancholia",
+      "artist": "mrwllixx",
+      "originalTrackName": "mrwllixx - ooes-melancholia",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-yut6f0FEd8ljs4cx-vVCWkg-original.jpg",
+      "file": "tracks/mrwllixx-ooes-melancholia-d742a6cbfd32.json",
+      "files": {
+        "lyrics": "tracks/mrwllixx-ooes-melancholia-d742a6cbfd32.json",
+        "meta": "tracks/mrwllixx-ooes-melancholia-d742a6cbfd32.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/mael-mae/ooes-melancholia",
+      "mtimeMs": 1790655597207,
       "has_haptics": true,
       "haptics_version": 4
     }

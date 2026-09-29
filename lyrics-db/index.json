@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T21:14:19.222052+00:00",
-  "totalTracks": 15,
+  "generatedAt": "2026-09-29T21:16:52.911333+00:00",
+  "totalTracks": 16,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -259,6 +259,23 @@
       },
       "sourcePath": "https://soundcloud.com/valentin_strykalo/92-1",
       "mtimeMs": 1790716459222
+    },
+    "конец солнечных дней::неважно": {
+      "title": "неважно",
+      "artist": "конец солнечных дней",
+      "originalTrackName": "конец солнечных дней - неважно",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-PDziNW1EuWLkgG6B-iJN97g-original.jpg",
+      "file": "tracks/track-7cfe63640f0c.json",
+      "files": {
+        "lyrics": "tracks/track-7cfe63640f0c.json",
+        "meta": "tracks/track-7cfe63640f0c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/konecz-solnechnyx-dnej/nevazhno",
+      "mtimeMs": 1790716613562,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -516,6 +533,23 @@
       },
       "sourcePath": "https://soundcloud.com/valentin_strykalo/92-1",
       "mtimeMs": 1790716459222
+    },
+    {
+      "title": "неважно",
+      "artist": "конец солнечных дней",
+      "originalTrackName": "конец солнечных дней - неважно",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-PDziNW1EuWLkgG6B-iJN97g-original.jpg",
+      "file": "tracks/track-7cfe63640f0c.json",
+      "files": {
+        "lyrics": "tracks/track-7cfe63640f0c.json",
+        "meta": "tracks/track-7cfe63640f0c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/konecz-solnechnyx-dnej/nevazhno",
+      "mtimeMs": 1790716613562,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

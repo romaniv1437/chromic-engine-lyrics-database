@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T21:08:46.346727+00:00",
+  "generatedAt": "2026-09-29T21:10:52.085351+00:00",
   "totalTracks": 15,
   "roots": [
     "lyrics-db/tracks"
@@ -247,18 +247,17 @@
       "title": "92",
       "artist": "Валентин Стрыкало",
       "originalTrackName": "Валентин Стрыкало - 92",
-      "source": "lrclib_plain",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000562176039-woibu4-original.jpg",
+      "source": "soundcloud_extension_translate",
       "file": "tracks/92-32cfb10bbff7.json",
       "files": {
         "lyrics": "tracks/92-32cfb10bbff7.json",
         "meta": "tracks/92-32cfb10bbff7.meta.json",
-        "translations": {}
+        "translations": {
+          "uk": "tracks/92-32cfb10bbff7.uk.json"
+        }
       },
       "sourcePath": "https://soundcloud.com/valentin_strykalo/92-1",
-      "mtimeMs": 1790716126346,
-      "has_haptics": false,
-      "haptics_version": null
+      "mtimeMs": 1790716252085
     }
   },
   "tracks": [
@@ -504,18 +503,17 @@
       "title": "92",
       "artist": "Валентин Стрыкало",
       "originalTrackName": "Валентин Стрыкало - 92",
-      "source": "lrclib_plain",
-      "thumbnail": "https://i1.sndcdn.com/artworks-000562176039-woibu4-original.jpg",
+      "source": "soundcloud_extension_translate",
       "file": "tracks/92-32cfb10bbff7.json",
       "files": {
         "lyrics": "tracks/92-32cfb10bbff7.json",
         "meta": "tracks/92-32cfb10bbff7.meta.json",
-        "translations": {}
+        "translations": {
+          "uk": "tracks/92-32cfb10bbff7.uk.json"
+        }
       },
       "sourcePath": "https://soundcloud.com/valentin_strykalo/92-1",
-      "mtimeMs": 1790716126346,
-      "has_haptics": false,
-      "haptics_version": null
+      "mtimeMs": 1790716252085
     }
   ]
 }

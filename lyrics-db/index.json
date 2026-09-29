@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T22:55:21.836373+00:00",
-  "totalTracks": 7,
+  "generatedAt": "2026-09-29T00:03:33.783385+00:00",
+  "totalTracks": 8,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -123,6 +123,23 @@
       "mtimeMs": 1790636122311,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "::dearly beloved 358 orchestral": {
+      "title": "Dearly Beloved 358 orchestral",
+      "artist": "",
+      "originalTrackName": "Dearly Beloved 358 orchestral",
+      "source": "whisper_only",
+      "thumbnail": "",
+      "file": "tracks/dearly-beloved-358-orchestral-3edad15bb8aa.json",
+      "files": {
+        "lyrics": "tracks/dearly-beloved-358-orchestral-3edad15bb8aa.json",
+        "meta": "tracks/dearly-beloved-358-orchestral-3edad15bb8aa.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "file://Dearly Beloved 358 orchestral.flac",
+      "mtimeMs": 1790640214334,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -242,6 +259,23 @@
       },
       "sourcePath": "https://soundcloud.com/sxmpra/doom-prod-deatheater-1",
       "mtimeMs": 1790636122311,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Dearly Beloved 358 orchestral",
+      "artist": "",
+      "originalTrackName": "Dearly Beloved 358 orchestral",
+      "source": "whisper_only",
+      "thumbnail": "",
+      "file": "tracks/dearly-beloved-358-orchestral-3edad15bb8aa.json",
+      "files": {
+        "lyrics": "tracks/dearly-beloved-358-orchestral-3edad15bb8aa.json",
+        "meta": "tracks/dearly-beloved-358-orchestral-3edad15bb8aa.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "file://Dearly Beloved 358 orchestral.flac",
+      "mtimeMs": 1790640214334,
       "has_haptics": true,
       "haptics_version": 4
     }

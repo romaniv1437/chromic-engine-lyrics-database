@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T16:32:21.079598+00:00",
-  "totalTracks": 12,
+  "generatedAt": "2026-09-29T18:03:06.343849+00:00",
+  "totalTracks": 13,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -208,6 +208,23 @@
       "mtimeMs": 1790699541684,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "hakayo::клан x mylancore": {
+      "title": "Клан x Mylancore",
+      "artist": "hakayo",
+      "originalTrackName": "hakayo - Клан x Mylancore",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-IoKUEFaIEsB298rY-pl26fQ-original.png",
+      "file": "tracks/hakayo-x-mylancore-3b059b0aa966.json",
+      "files": {
+        "lyrics": "tracks/hakayo-x-mylancore-3b059b0aa966.json",
+        "meta": "tracks/hakayo-x-mylancore-3b059b0aa966.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/raydl9/klan-x-mylancore",
+      "mtimeMs": 1790704986968,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -412,6 +429,23 @@
       },
       "sourcePath": "https://soundcloud.com/oleksandr-vorobjov-611210900/cupsize-17-nozhevyx",
       "mtimeMs": 1790699541684,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Клан x Mylancore",
+      "artist": "hakayo",
+      "originalTrackName": "hakayo - Клан x Mylancore",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-IoKUEFaIEsB298rY-pl26fQ-original.png",
+      "file": "tracks/hakayo-x-mylancore-3b059b0aa966.json",
+      "files": {
+        "lyrics": "tracks/hakayo-x-mylancore-3b059b0aa966.json",
+        "meta": "tracks/hakayo-x-mylancore-3b059b0aa966.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/raydl9/klan-x-mylancore",
+      "mtimeMs": 1790704986968,
       "has_haptics": true,
       "haptics_version": 4
     }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T21:17:09.462863+00:00",
-  "totalTracks": 16,
+  "generatedAt": "2026-09-29T21:18:43.878519+00:00",
+  "totalTracks": 17,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -276,6 +276,23 @@
       "mtimeMs": 1790716629462,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "asukalangley::король и шут, но это чечня!": {
+      "title": "Король и Шут, но это чечня!",
+      "artist": "AsukaLangley",
+      "originalTrackName": "AsukaLangley - Король и Шут, но это чечня!",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-SDwo2fX3tFzafo9O-XvPANQ-original.jpg",
+      "file": "tracks/asukalangley-0a7898cd499c.json",
+      "files": {
+        "lyrics": "tracks/asukalangley-0a7898cd499c.json",
+        "meta": "tracks/asukalangley-0a7898cd499c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/prosto-4elik/korol-i-shut-no-eto-chechnya",
+      "mtimeMs": 1790716724546,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -550,6 +567,23 @@
       "mtimeMs": 1790716629462,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Король и Шут, но это чечня!",
+      "artist": "AsukaLangley",
+      "originalTrackName": "AsukaLangley - Король и Шут, но это чечня!",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-SDwo2fX3tFzafo9O-XvPANQ-original.jpg",
+      "file": "tracks/asukalangley-0a7898cd499c.json",
+      "files": {
+        "lyrics": "tracks/asukalangley-0a7898cd499c.json",
+        "meta": "tracks/asukalangley-0a7898cd499c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/prosto-4elik/korol-i-shut-no-eto-chechnya",
+      "mtimeMs": 1790716724546,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

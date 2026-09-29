@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T00:03:33.783385+00:00",
-  "totalTracks": 8,
+  "generatedAt": "2026-09-29T03:41:22.321815+00:00",
+  "totalTracks": 9,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -140,6 +140,23 @@
       "mtimeMs": 1790640214334,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "вышел покурить::падаю": {
+      "title": "падаю",
+      "artist": "вышел покурить",
+      "originalTrackName": "вышел покурить - падаю",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-lDHCKXyxdytEDt2c-88zRcg-original.jpg",
+      "file": "tracks/track-40007668a790.json",
+      "files": {
+        "lyrics": "tracks/track-40007668a790.json",
+        "meta": "tracks/track-40007668a790.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/vyshelpokuryt/padayu",
+      "mtimeMs": 1790653282814,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -276,6 +293,23 @@
       },
       "sourcePath": "file://Dearly Beloved 358 orchestral.flac",
       "mtimeMs": 1790640214334,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "падаю",
+      "artist": "вышел покурить",
+      "originalTrackName": "вышел покурить - падаю",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-lDHCKXyxdytEDt2c-88zRcg-original.jpg",
+      "file": "tracks/track-40007668a790.json",
+      "files": {
+        "lyrics": "tracks/track-40007668a790.json",
+        "meta": "tracks/track-40007668a790.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/vyshelpokuryt/padayu",
+      "mtimeMs": 1790653282814,
       "has_haptics": true,
       "haptics_version": 4
     }

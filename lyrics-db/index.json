@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T18:03:06.343849+00:00",
-  "totalTracks": 13,
+  "generatedAt": "2026-09-29T20:46:01.620517+00:00",
+  "totalTracks": 14,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -225,6 +225,23 @@
       "mtimeMs": 1790704986968,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "lauren::papa.k5 – girlfriend (feat. flayaboy)": {
+      "title": "PAPA.K5 – Girlfriend (feat. Flayaboy)",
+      "artist": "Lauren",
+      "originalTrackName": "Lauren - PAPA.K5 – Girlfriend (feat. Flayaboy)",
+      "source": "whisper_only",
+      "thumbnail": "https://a1.sndcdn.com/images/default_avatar_large.png",
+      "file": "tracks/lauren-papa-k5-girlfriend-feat-flayaboy-f175654c645c.json",
+      "files": {
+        "lyrics": "tracks/lauren-papa-k5-girlfriend-feat-flayaboy-f175654c645c.json",
+        "meta": "tracks/lauren-papa-k5-girlfriend-feat-flayaboy-f175654c645c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-756812534/papa-k5-girlfriend-feat",
+      "mtimeMs": 1790714762355,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -446,6 +463,23 @@
       },
       "sourcePath": "https://soundcloud.com/raydl9/klan-x-mylancore",
       "mtimeMs": 1790704986968,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "PAPA.K5 – Girlfriend (feat. Flayaboy)",
+      "artist": "Lauren",
+      "originalTrackName": "Lauren - PAPA.K5 – Girlfriend (feat. Flayaboy)",
+      "source": "whisper_only",
+      "thumbnail": "https://a1.sndcdn.com/images/default_avatar_large.png",
+      "file": "tracks/lauren-papa-k5-girlfriend-feat-flayaboy-f175654c645c.json",
+      "files": {
+        "lyrics": "tracks/lauren-papa-k5-girlfriend-feat-flayaboy-f175654c645c.json",
+        "meta": "tracks/lauren-papa-k5-girlfriend-feat-flayaboy-f175654c645c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-756812534/papa-k5-girlfriend-feat",
+      "mtimeMs": 1790714762355,
       "has_haptics": true,
       "haptics_version": 4
     }

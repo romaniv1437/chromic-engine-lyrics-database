@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T20:46:01.620517+00:00",
-  "totalTracks": 14,
+  "generatedAt": "2026-09-29T21:08:34.405779+00:00",
+  "totalTracks": 15,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -242,6 +242,23 @@
       "mtimeMs": 1790714762355,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "валентин стрыкало::92": {
+      "title": "92",
+      "artist": "Валентин Стрыкало",
+      "originalTrackName": "Валентин Стрыкало - 92",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000562176039-woibu4-original.jpg",
+      "file": "tracks/92-32cfb10bbff7.json",
+      "files": {
+        "lyrics": "tracks/92-32cfb10bbff7.json",
+        "meta": "tracks/92-32cfb10bbff7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/valentin_strykalo/92-1",
+      "mtimeMs": 1790716115120,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -480,6 +497,23 @@
       },
       "sourcePath": "https://soundcloud.com/user-756812534/papa-k5-girlfriend-feat",
       "mtimeMs": 1790714762355,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "92",
+      "artist": "Валентин Стрыкало",
+      "originalTrackName": "Валентин Стрыкало - 92",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000562176039-woibu4-original.jpg",
+      "file": "tracks/92-32cfb10bbff7.json",
+      "files": {
+        "lyrics": "tracks/92-32cfb10bbff7.json",
+        "meta": "tracks/92-32cfb10bbff7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/valentin_strykalo/92-1",
+      "mtimeMs": 1790716115120,
       "has_haptics": true,
       "haptics_version": 4
     }

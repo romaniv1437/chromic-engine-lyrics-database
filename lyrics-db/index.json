@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T00:51:17.876951+00:00",
+  "generatedAt": "2026-09-30T09:33:10.149710+00:00",
   "totalTracks": 20,
   "roots": [
     "lyrics-db/tracks"
@@ -260,23 +260,6 @@
       "sourcePath": "https://soundcloud.com/valentin_strykalo/92-1",
       "mtimeMs": 1790716459222
     },
-    "конец солнечных дней::неважно": {
-      "title": "неважно",
-      "artist": "конец солнечных дней",
-      "originalTrackName": "конец солнечных дней - неважно",
-      "source": "lrclib_plain",
-      "thumbnail": "https://i1.sndcdn.com/artworks-PDziNW1EuWLkgG6B-iJN97g-original.jpg",
-      "file": "tracks/track-7cfe63640f0c.json",
-      "files": {
-        "lyrics": "tracks/track-7cfe63640f0c.json",
-        "meta": "tracks/track-7cfe63640f0c.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/konecz-solnechnyx-dnej/nevazhno",
-      "mtimeMs": 1790716629462,
-      "has_haptics": false,
-      "haptics_version": null
-    },
     "asukalangley::король и шут, но это чечня!": {
       "title": "Король и Шут, но это чечня!",
       "artist": "AsukaLangley",
@@ -344,6 +327,22 @@
       "mtimeMs": 1790729477876,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "конец солнечных дней::неважно": {
+      "title": "неважно",
+      "artist": "конец солнечных дней",
+      "originalTrackName": "конец солнечных дней - неважно",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/track-7cfe63640f0c.json",
+      "files": {
+        "lyrics": "tracks/track-7cfe63640f0c.json",
+        "meta": "tracks/track-7cfe63640f0c.meta.json",
+        "translations": {
+          "uk": "tracks/track-7cfe63640f0c.uk.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/konecz-solnechnyx-dnej/nevazhno",
+      "mtimeMs": 1790760790149
     }
   },
   "tracks": [
@@ -603,23 +602,6 @@
       "mtimeMs": 1790716459222
     },
     {
-      "title": "неважно",
-      "artist": "конец солнечных дней",
-      "originalTrackName": "конец солнечных дней - неважно",
-      "source": "lrclib_plain",
-      "thumbnail": "https://i1.sndcdn.com/artworks-PDziNW1EuWLkgG6B-iJN97g-original.jpg",
-      "file": "tracks/track-7cfe63640f0c.json",
-      "files": {
-        "lyrics": "tracks/track-7cfe63640f0c.json",
-        "meta": "tracks/track-7cfe63640f0c.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/konecz-solnechnyx-dnej/nevazhno",
-      "mtimeMs": 1790716629462,
-      "has_haptics": false,
-      "haptics_version": null
-    },
-    {
       "title": "Король и Шут, но это чечня!",
       "artist": "AsukaLangley",
       "originalTrackName": "AsukaLangley - Король и Шут, но это чечня!",
@@ -686,6 +668,22 @@
       "mtimeMs": 1790729477876,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "неважно",
+      "artist": "конец солнечных дней",
+      "originalTrackName": "конец солнечных дней - неважно",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/track-7cfe63640f0c.json",
+      "files": {
+        "lyrics": "tracks/track-7cfe63640f0c.json",
+        "meta": "tracks/track-7cfe63640f0c.meta.json",
+        "translations": {
+          "uk": "tracks/track-7cfe63640f0c.uk.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/konecz-solnechnyx-dnej/nevazhno",
+      "mtimeMs": 1790760790149
     }
   ]
 }

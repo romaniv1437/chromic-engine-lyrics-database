@@ -1,10 +1,8 @@
 {
   "artist": "конец солнечных дней",
-  "title": "неважно",
   "track_title": "неважно",
-  "thumbnail": "https://i1.sndcdn.com/artworks-PDziNW1EuWLkgG6B-iJN97g-original.jpg",
   "track_url": "https://soundcloud.com/konecz-solnechnyx-dnej/nevazhno",
-  "lyrics_source": "lrclib_plain",
-  "line_timestamps_source": "guided-whisper",
-  "updated_at": "2026-09-29T21:17:07.843988+00:00"
+  "lyrics_source": "soundcloud_extension_translate",
+  "line_timestamps_source": "whisper_aligner",
+  "updated_at": "2026-09-30T09:33:08.726258+00:00"
 }

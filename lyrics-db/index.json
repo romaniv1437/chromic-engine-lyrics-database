@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-30T12:31:30.536199+00:00",
-  "totalTracks": 22,
+  "generatedAt": "2026-09-30T12:33:40.358018+00:00",
+  "totalTracks": 23,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -377,6 +377,23 @@
       "mtimeMs": 1790771491003,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "juice wrld::rockstar girl [prod. sidepce]": {
+      "title": "ROCKSTAR GIRL [PROD. SIDEPCE]",
+      "artist": "Juice WRLD",
+      "originalTrackName": "Juice WRLD - ROCKSTAR GIRL [PROD. SIDEPCE]",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000232701370-a7rwom-original.jpg",
+      "file": "tracks/juice-wrld-rockstar-girl-prod-sidepce-14ac8e1ef14c.json",
+      "files": {
+        "lyrics": "tracks/juice-wrld-rockstar-girl-prod-sidepce-14ac8e1ef14c.json",
+        "meta": "tracks/juice-wrld-rockstar-girl-prod-sidepce-14ac8e1ef14c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/uiceheidd/rockstar-girl-3",
+      "mtimeMs": 1790771620748,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -750,6 +767,23 @@
       },
       "sourcePath": "https://soundcloud.com/uiceheidd/this-cant-be-happening-3",
       "mtimeMs": 1790771491003,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "ROCKSTAR GIRL [PROD. SIDEPCE]",
+      "artist": "Juice WRLD",
+      "originalTrackName": "Juice WRLD - ROCKSTAR GIRL [PROD. SIDEPCE]",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000232701370-a7rwom-original.jpg",
+      "file": "tracks/juice-wrld-rockstar-girl-prod-sidepce-14ac8e1ef14c.json",
+      "files": {
+        "lyrics": "tracks/juice-wrld-rockstar-girl-prod-sidepce-14ac8e1ef14c.json",
+        "meta": "tracks/juice-wrld-rockstar-girl-prod-sidepce-14ac8e1ef14c.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/uiceheidd/rockstar-girl-3",
+      "mtimeMs": 1790771620748,
       "has_haptics": true,
       "haptics_version": 4
     }

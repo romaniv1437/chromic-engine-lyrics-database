@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-30T09:33:10.149710+00:00",
-  "totalTracks": 20,
+  "generatedAt": "2026-09-30T09:51:31.835096+00:00",
+  "totalTracks": 21,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -343,6 +343,23 @@
       },
       "sourcePath": "https://soundcloud.com/konecz-solnechnyx-dnej/nevazhno",
       "mtimeMs": 1790760790149
+    },
+    "ɗєstroīđヅ::mujuice – кровь на танцполе": {
+      "title": "Mujuice – Кровь на танцполе",
+      "artist": "ƊЄstroĪĐヅ",
+      "originalTrackName": "ƊЄstroĪĐヅ - Mujuice – Кровь на танцполе",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-S8mBSc5kXwUmeOfo-CuyVbg-original.jpg",
+      "file": "tracks/stro-mujuice-c52be7a46921.json",
+      "files": {
+        "lyrics": "tracks/stro-mujuice-c52be7a46921.json",
+        "meta": "tracks/stro-mujuice-c52be7a46921.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/yestro-184969894/mujuice-krov-na-tanczpole",
+      "mtimeMs": 1790761892455,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -684,6 +701,23 @@
       },
       "sourcePath": "https://soundcloud.com/konecz-solnechnyx-dnej/nevazhno",
       "mtimeMs": 1790760790149
+    },
+    {
+      "title": "Mujuice – Кровь на танцполе",
+      "artist": "ƊЄstroĪĐヅ",
+      "originalTrackName": "ƊЄstroĪĐヅ - Mujuice – Кровь на танцполе",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-S8mBSc5kXwUmeOfo-CuyVbg-original.jpg",
+      "file": "tracks/stro-mujuice-c52be7a46921.json",
+      "files": {
+        "lyrics": "tracks/stro-mujuice-c52be7a46921.json",
+        "meta": "tracks/stro-mujuice-c52be7a46921.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/yestro-184969894/mujuice-krov-na-tanczpole",
+      "mtimeMs": 1790761892455,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

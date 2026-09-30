@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-30T12:33:52.361360+00:00",
-  "totalTracks": 23,
+  "generatedAt": "2026-09-30T17:36:08.134937+00:00",
+  "totalTracks": 24,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -394,6 +394,23 @@
       "mtimeMs": 1790771632361,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "overtonight::pls dont die. - overtonight": {
+      "title": "pls dont die. - overtonight",
+      "artist": "overtonight",
+      "originalTrackName": "overtonight - pls dont die. - overtonight",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-zF9hHMxEzSCgNVJO-y6jUAQ-original.jpg",
+      "file": "tracks/overtonight-pls-dont-die-overtonight-f4ba27404301.json",
+      "files": {
+        "lyrics": "tracks/overtonight-pls-dont-die-overtonight-f4ba27404301.json",
+        "meta": "tracks/overtonight-pls-dont-die-overtonight-f4ba27404301.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/overtonightofficial/pls-dont-die-overtonight",
+      "mtimeMs": 1790789768994,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -786,6 +803,23 @@
       "mtimeMs": 1790771632361,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "pls dont die. - overtonight",
+      "artist": "overtonight",
+      "originalTrackName": "overtonight - pls dont die. - overtonight",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-zF9hHMxEzSCgNVJO-y6jUAQ-original.jpg",
+      "file": "tracks/overtonight-pls-dont-die-overtonight-f4ba27404301.json",
+      "files": {
+        "lyrics": "tracks/overtonight-pls-dont-die-overtonight-f4ba27404301.json",
+        "meta": "tracks/overtonight-pls-dont-die-overtonight-f4ba27404301.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/overtonightofficial/pls-dont-die-overtonight",
+      "mtimeMs": 1790789768994,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

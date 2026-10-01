@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T22:52:05.527980+00:00",
-  "totalTracks": 38,
+  "generatedAt": "2026-10-01T22:52:07.675511+00:00",
+  "totalTracks": 39,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -653,6 +653,23 @@
       "mtimeMs": 1790895125950,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "платина::виновата cама (rejazzed)": {
+      "title": "Виновата cама (ReJazzed)",
+      "artist": "Платина",
+      "originalTrackName": "Платина - Виновата cама (ReJazzed)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-iHh5xIdRJPutTA2u-HmVDaA-original.jpg",
+      "file": "tracks/c-rejazzed-00752ed70db7.json",
+      "files": {
+        "lyrics": "tracks/c-rejazzed-00752ed70db7.json",
+        "meta": "tracks/c-rejazzed-00752ed70db7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/malenkiiprinc/vinovata-cama-rejazzed",
+      "mtimeMs": 1790895128590,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1302,6 +1319,23 @@
       },
       "sourcePath": "https://soundcloud.com/bounty-436768409/poslednyaya-lyubov-rejazzed",
       "mtimeMs": 1790895125950,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Виновата cама (ReJazzed)",
+      "artist": "Платина",
+      "originalTrackName": "Платина - Виновата cама (ReJazzed)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-iHh5xIdRJPutTA2u-HmVDaA-original.jpg",
+      "file": "tracks/c-rejazzed-00752ed70db7.json",
+      "files": {
+        "lyrics": "tracks/c-rejazzed-00752ed70db7.json",
+        "meta": "tracks/c-rejazzed-00752ed70db7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/malenkiiprinc/vinovata-cama-rejazzed",
+      "mtimeMs": 1790895128590,
       "has_haptics": true,
       "haptics_version": 4
     }

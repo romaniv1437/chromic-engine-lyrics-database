@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T22:50:11.210712+00:00",
-  "totalTracks": 37,
+  "generatedAt": "2026-10-01T22:52:05.527980+00:00",
+  "totalTracks": 38,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -636,6 +636,23 @@
       "mtimeMs": 1790895011689,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "morgenshtern::последняя любовь (rejazzed)": {
+      "title": "Последняя Любовь (ReJazzed)",
+      "artist": "MORGENSHTERN",
+      "originalTrackName": "MORGENSHTERN - Последняя Любовь (ReJazzed)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-UViDDoGDmzs8YZsy-jbqzxQ-original.jpg",
+      "file": "tracks/morgenshtern-rejazzed-bbedcd79ef06.json",
+      "files": {
+        "lyrics": "tracks/morgenshtern-rejazzed-bbedcd79ef06.json",
+        "meta": "tracks/morgenshtern-rejazzed-bbedcd79ef06.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bounty-436768409/poslednyaya-lyubov-rejazzed",
+      "mtimeMs": 1790895125950,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1268,6 +1285,23 @@
       },
       "sourcePath": "https://soundcloud.com/elevaterecordsuk/freaks-geeks-ekko-sidetrack-everybody",
       "mtimeMs": 1790895011689,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Последняя Любовь (ReJazzed)",
+      "artist": "MORGENSHTERN",
+      "originalTrackName": "MORGENSHTERN - Последняя Любовь (ReJazzed)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-UViDDoGDmzs8YZsy-jbqzxQ-original.jpg",
+      "file": "tracks/morgenshtern-rejazzed-bbedcd79ef06.json",
+      "files": {
+        "lyrics": "tracks/morgenshtern-rejazzed-bbedcd79ef06.json",
+        "meta": "tracks/morgenshtern-rejazzed-bbedcd79ef06.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bounty-436768409/poslednyaya-lyubov-rejazzed",
+      "mtimeMs": 1790895125950,
       "has_haptics": true,
       "haptics_version": 4
     }

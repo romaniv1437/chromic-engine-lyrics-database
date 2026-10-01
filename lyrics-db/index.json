@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T12:23:31.635403+00:00",
-  "totalTracks": 30,
+  "generatedAt": "2026-10-01T12:35:22.230153+00:00",
+  "totalTracks": 31,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -515,6 +515,23 @@
       "mtimeMs": 1790857412284,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "võ tiến tài::nửa vầng trăng (haiyang x hyylee remix)": {
+      "title": "Nửa Vầng Trăng (Haiyang x Hyylee Remix)",
+      "artist": "Võ Tiến Tài",
+      "originalTrackName": "Võ Tiến Tài - Nửa Vầng Trăng (Haiyang x Hyylee Remix)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-3RFEN7JLZZJXrf5R-nx4Seg-original.jpg",
+      "file": "tracks/v-ti-n-t-i-n-a-v-ng-tr-ng-haiyang-x-hyylee-remix-4bd07fe0f3af.json",
+      "files": {
+        "lyrics": "tracks/v-ti-n-t-i-n-a-v-ng-tr-ng-haiyang-x-hyylee-remix-4bd07fe0f3af.json",
+        "meta": "tracks/v-ti-n-t-i-n-a-v-ng-tr-ng-haiyang-x-hyylee-remix-4bd07fe0f3af.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/v-ti-n-t-i-708320386/n-a-v-ng-tr-ng-haiyang-x",
+      "mtimeMs": 1790858122870,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1026,6 +1043,23 @@
       },
       "sourcePath": "https://soundcloud.com/nina-persson-560097581/big-sis-hold-on",
       "mtimeMs": 1790857412284,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Nửa Vầng Trăng (Haiyang x Hyylee Remix)",
+      "artist": "Võ Tiến Tài",
+      "originalTrackName": "Võ Tiến Tài - Nửa Vầng Trăng (Haiyang x Hyylee Remix)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-3RFEN7JLZZJXrf5R-nx4Seg-original.jpg",
+      "file": "tracks/v-ti-n-t-i-n-a-v-ng-tr-ng-haiyang-x-hyylee-remix-4bd07fe0f3af.json",
+      "files": {
+        "lyrics": "tracks/v-ti-n-t-i-n-a-v-ng-tr-ng-haiyang-x-hyylee-remix-4bd07fe0f3af.json",
+        "meta": "tracks/v-ti-n-t-i-n-a-v-ng-tr-ng-haiyang-x-hyylee-remix-4bd07fe0f3af.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/v-ti-n-t-i-708320386/n-a-v-ng-tr-ng-haiyang-x",
+      "mtimeMs": 1790858122870,
       "has_haptics": true,
       "haptics_version": 4
     }

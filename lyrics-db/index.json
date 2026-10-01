@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T12:22:52.129113+00:00",
-  "totalTracks": 28,
+  "generatedAt": "2026-10-01T12:23:18.375460+00:00",
+  "totalTracks": 29,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -481,6 +481,23 @@
       "mtimeMs": 1790857372729,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "nguyễn hoàng huy::ân tình sang trang remix": {
+      "title": "Ân Tình Sang Trang Remix",
+      "artist": "Nguyễn Hoàng Huy",
+      "originalTrackName": "Nguyễn Hoàng Huy - Ân Tình Sang Trang Remix",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-EaHXxUsz1xgzAsB7-3Bzk7Q-original.jpg",
+      "file": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.json",
+      "files": {
+        "lyrics": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.json",
+        "meta": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/nguyenhoanfghuy05xyz/an-tinh-sang-trang-remix",
+      "mtimeMs": 1790857398799,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -958,6 +975,23 @@
       },
       "sourcePath": "https://soundcloud.com/user-331013765-172678530/vo-ng-tay-anh-o-m-la-y-nhu-ng",
       "mtimeMs": 1790857372729,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Ân Tình Sang Trang Remix",
+      "artist": "Nguyễn Hoàng Huy",
+      "originalTrackName": "Nguyễn Hoàng Huy - Ân Tình Sang Trang Remix",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-EaHXxUsz1xgzAsB7-3Bzk7Q-original.jpg",
+      "file": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.json",
+      "files": {
+        "lyrics": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.json",
+        "meta": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/nguyenhoanfghuy05xyz/an-tinh-sang-trang-remix",
+      "mtimeMs": 1790857398799,
       "has_haptics": true,
       "haptics_version": 4
     }

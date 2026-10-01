@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-30T17:36:22.054874+00:00",
-  "totalTracks": 24,
+  "generatedAt": "2026-10-01T07:15:37.936663+00:00",
+  "totalTracks": 25,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -411,6 +411,23 @@
       "mtimeMs": 1790789782054,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "игорь куликов::игорь куликов - aizo [rus]": {
+      "title": "Игорь Куликов - AIZO [RUS]",
+      "artist": "Игорь Куликов",
+      "originalTrackName": "Игорь Куликов - Игорь Куликов - AIZO [RUS]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-oz1yyhrm6wiZlPcm-4ukyyg-original.png",
+      "file": "tracks/aizo-rus-d5b3012c9b97.json",
+      "files": {
+        "lyrics": "tracks/aizo-rus-d5b3012c9b97.json",
+        "meta": "tracks/aizo-rus-d5b3012c9b97.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/rani-528851661/igor-kulikov-aizo-rus",
+      "mtimeMs": 1790838938544,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -820,6 +837,23 @@
       "mtimeMs": 1790789782054,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Игорь Куликов - AIZO [RUS]",
+      "artist": "Игорь Куликов",
+      "originalTrackName": "Игорь Куликов - Игорь Куликов - AIZO [RUS]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-oz1yyhrm6wiZlPcm-4ukyyg-original.png",
+      "file": "tracks/aizo-rus-d5b3012c9b97.json",
+      "files": {
+        "lyrics": "tracks/aizo-rus-d5b3012c9b97.json",
+        "meta": "tracks/aizo-rus-d5b3012c9b97.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/rani-528851661/igor-kulikov-aizo-rus",
+      "mtimeMs": 1790838938544,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

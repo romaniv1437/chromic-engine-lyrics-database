@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T07:54:13.725739+00:00",
-  "totalTracks": 25,
+  "generatedAt": "2026-10-01T10:42:45.192187+00:00",
+  "totalTracks": 26,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -430,6 +430,23 @@
       "mtimeMs": 1790841253725,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "chiaki nanami::danganronpa v3 execution full": {
+      "title": "Danganronpa V3 Execution Full",
+      "artist": "Chiaki Nanami",
+      "originalTrackName": "Chiaki Nanami - Danganronpa V3 Execution Full",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000230411683-g66tl7-original.jpg",
+      "file": "tracks/chiaki-nanami-danganronpa-v3-execution-full-eead247f470f.json",
+      "files": {
+        "lyrics": "tracks/chiaki-nanami-danganronpa-v3-execution-full-eead247f470f.json",
+        "meta": "tracks/chiaki-nanami-danganronpa-v3-execution-full-eead247f470f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-160236779-330159913/danganronpa-v3-execution-full",
+      "mtimeMs": 1790851365787,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -858,6 +875,23 @@
       "mtimeMs": 1790841253725,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Danganronpa V3 Execution Full",
+      "artist": "Chiaki Nanami",
+      "originalTrackName": "Chiaki Nanami - Danganronpa V3 Execution Full",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000230411683-g66tl7-original.jpg",
+      "file": "tracks/chiaki-nanami-danganronpa-v3-execution-full-eead247f470f.json",
+      "files": {
+        "lyrics": "tracks/chiaki-nanami-danganronpa-v3-execution-full-eead247f470f.json",
+        "meta": "tracks/chiaki-nanami-danganronpa-v3-execution-full-eead247f470f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-160236779-330159913/danganronpa-v3-execution-full",
+      "mtimeMs": 1790851365787,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

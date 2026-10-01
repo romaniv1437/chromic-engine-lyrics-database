@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T10:42:45.192187+00:00",
-  "totalTracks": 26,
+  "generatedAt": "2026-10-01T12:21:18.607152+00:00",
+  "totalTracks": 27,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -447,6 +447,23 @@
       "mtimeMs": 1790851365787,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "trần quang trường ( alex )::vở kịch của em ft vây giữ remix (huyn ft trường alex)": {
+      "title": "Vở Kịch Của Em ft Vây Giữ Remix (HuyN ft Trường Alex)",
+      "artist": "Trần Quang Trường ( Alex )",
+      "originalTrackName": "Trần Quang Trường ( Alex ) - Vở Kịch Của Em ft Vây Giữ Remix (HuyN ft Trường Alex)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-AWsuVzKEyDOyVkA1-3zrf6A-original.jpg",
+      "file": "tracks/tr-n-quang-tr-ng-alex-v-k-ch-c-a-em-ft-v-y-gi-remix-huyn-ft-tr-ng-alex-0ab86087eebf.json",
+      "files": {
+        "lyrics": "tracks/tr-n-quang-tr-ng-alex-v-k-ch-c-a-em-ft-v-y-gi-remix-huyn-ft-tr-ng-alex-0ab86087eebf.json",
+        "meta": "tracks/tr-n-quang-tr-ng-alex-v-k-ch-c-a-em-ft-v-y-gi-remix-huyn-ft-tr-ng-alex-0ab86087eebf.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/truongalex/vo-kich-cua-em-ft-vay-giu-remix-huyn-ft-truong-alex",
+      "mtimeMs": 1790857279151,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -890,6 +907,23 @@
       },
       "sourcePath": "https://soundcloud.com/user-160236779-330159913/danganronpa-v3-execution-full",
       "mtimeMs": 1790851365787,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Vở Kịch Của Em ft Vây Giữ Remix (HuyN ft Trường Alex)",
+      "artist": "Trần Quang Trường ( Alex )",
+      "originalTrackName": "Trần Quang Trường ( Alex ) - Vở Kịch Của Em ft Vây Giữ Remix (HuyN ft Trường Alex)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-AWsuVzKEyDOyVkA1-3zrf6A-original.jpg",
+      "file": "tracks/tr-n-quang-tr-ng-alex-v-k-ch-c-a-em-ft-v-y-gi-remix-huyn-ft-tr-ng-alex-0ab86087eebf.json",
+      "files": {
+        "lyrics": "tracks/tr-n-quang-tr-ng-alex-v-k-ch-c-a-em-ft-v-y-gi-remix-huyn-ft-tr-ng-alex-0ab86087eebf.json",
+        "meta": "tracks/tr-n-quang-tr-ng-alex-v-k-ch-c-a-em-ft-v-y-gi-remix-huyn-ft-tr-ng-alex-0ab86087eebf.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/truongalex/vo-kich-cua-em-ft-vay-giu-remix-huyn-ft-truong-alex",
+      "mtimeMs": 1790857279151,
       "has_haptics": true,
       "haptics_version": 4
     }

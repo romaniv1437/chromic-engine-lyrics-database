@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T12:35:36.840584+00:00",
-  "totalTracks": 31,
+  "generatedAt": "2026-10-01T18:12:58.770548+00:00",
+  "totalTracks": 32,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -532,6 +532,23 @@
       "mtimeMs": 1790858136840,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "xcykol::mileage.": {
+      "title": "mileage.",
+      "artist": "xcykol",
+      "originalTrackName": "xcykol - mileage.",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-qGORGNCMZOtBSQZ6-WqlPNw-original.jpg",
+      "file": "tracks/xcykol-mileage-9b18769f74a0.json",
+      "files": {
+        "lyrics": "tracks/xcykol-mileage-9b18769f74a0.json",
+        "meta": "tracks/xcykol-mileage-9b18769f74a0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-713338000/mileage",
+      "mtimeMs": 1790878379294,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1062,6 +1079,23 @@
       "mtimeMs": 1790858136840,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "mileage.",
+      "artist": "xcykol",
+      "originalTrackName": "xcykol - mileage.",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-qGORGNCMZOtBSQZ6-WqlPNw-original.jpg",
+      "file": "tracks/xcykol-mileage-9b18769f74a0.json",
+      "files": {
+        "lyrics": "tracks/xcykol-mileage-9b18769f74a0.json",
+        "meta": "tracks/xcykol-mileage-9b18769f74a0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-713338000/mileage",
+      "mtimeMs": 1790878379294,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

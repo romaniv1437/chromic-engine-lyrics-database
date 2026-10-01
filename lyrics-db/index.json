@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T22:52:07.675511+00:00",
+  "generatedAt": "2026-10-01T22:52:19.121377+00:00",
   "totalTracks": 39,
   "roots": [
     "lyrics-db/tracks"
@@ -637,23 +637,6 @@
       "has_haptics": true,
       "haptics_version": 4
     },
-    "morgenshtern::последняя любовь (rejazzed)": {
-      "title": "Последняя Любовь (ReJazzed)",
-      "artist": "MORGENSHTERN",
-      "originalTrackName": "MORGENSHTERN - Последняя Любовь (ReJazzed)",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-UViDDoGDmzs8YZsy-jbqzxQ-original.jpg",
-      "file": "tracks/morgenshtern-rejazzed-bbedcd79ef06.json",
-      "files": {
-        "lyrics": "tracks/morgenshtern-rejazzed-bbedcd79ef06.json",
-        "meta": "tracks/morgenshtern-rejazzed-bbedcd79ef06.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/bounty-436768409/poslednyaya-lyubov-rejazzed",
-      "mtimeMs": 1790895125950,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
     "платина::виновата cама (rejazzed)": {
       "title": "Виновата cама (ReJazzed)",
       "artist": "Платина",
@@ -670,6 +653,23 @@
       "mtimeMs": 1790895128590,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "morgenshtern::последняя любовь (rejazzed)": {
+      "title": "Последняя Любовь (ReJazzed)",
+      "artist": "MORGENSHTERN",
+      "originalTrackName": "MORGENSHTERN - Последняя Любовь (ReJazzed)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-UViDDoGDmzs8YZsy-jbqzxQ-original.jpg",
+      "file": "tracks/morgenshtern-rejazzed-bbedcd79ef06.json",
+      "files": {
+        "lyrics": "tracks/morgenshtern-rejazzed-bbedcd79ef06.json",
+        "meta": "tracks/morgenshtern-rejazzed-bbedcd79ef06.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bounty-436768409/poslednyaya-lyubov-rejazzed",
+      "mtimeMs": 1790895139121,
+      "has_haptics": false,
+      "haptics_version": null
     }
   },
   "tracks": [
@@ -1306,23 +1306,6 @@
       "haptics_version": 4
     },
     {
-      "title": "Последняя Любовь (ReJazzed)",
-      "artist": "MORGENSHTERN",
-      "originalTrackName": "MORGENSHTERN - Последняя Любовь (ReJazzed)",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-UViDDoGDmzs8YZsy-jbqzxQ-original.jpg",
-      "file": "tracks/morgenshtern-rejazzed-bbedcd79ef06.json",
-      "files": {
-        "lyrics": "tracks/morgenshtern-rejazzed-bbedcd79ef06.json",
-        "meta": "tracks/morgenshtern-rejazzed-bbedcd79ef06.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/bounty-436768409/poslednyaya-lyubov-rejazzed",
-      "mtimeMs": 1790895125950,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
-    {
       "title": "Виновата cама (ReJazzed)",
       "artist": "Платина",
       "originalTrackName": "Платина - Виновата cама (ReJazzed)",
@@ -1338,6 +1321,23 @@
       "mtimeMs": 1790895128590,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    {
+      "title": "Последняя Любовь (ReJazzed)",
+      "artist": "MORGENSHTERN",
+      "originalTrackName": "MORGENSHTERN - Последняя Любовь (ReJazzed)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-UViDDoGDmzs8YZsy-jbqzxQ-original.jpg",
+      "file": "tracks/morgenshtern-rejazzed-bbedcd79ef06.json",
+      "files": {
+        "lyrics": "tracks/morgenshtern-rejazzed-bbedcd79ef06.json",
+        "meta": "tracks/morgenshtern-rejazzed-bbedcd79ef06.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/bounty-436768409/poslednyaya-lyubov-rejazzed",
+      "mtimeMs": 1790895139121,
+      "has_haptics": false,
+      "haptics_version": null
     }
   ]
 }

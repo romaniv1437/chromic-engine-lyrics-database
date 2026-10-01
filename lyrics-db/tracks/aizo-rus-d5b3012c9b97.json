@@ -1,571 +1,184 @@
-{
-  "lines": [
-    {
-      "text": "●",
-      "startTime": 0.3,
-      "endTime": 90,
-      "words": [],
-      "type": "vocal_cue",
-      "time": 0.3,
-      "end": 90
-    },
-    {
-      "text": "愛のalligatorは私を拝う",
-      "startTime": 90,
-      "endTime": 91.2,
-      "words": [
-        {
-          "word": "愛の",
-          "start": 90,
-          "end": 90.5,
-          "stretch": true,
-          "singer": "singer1"
-        },
-        {
-          "word": "alligator",
-          "start": 90.5,
-          "end": 91.12,
-          "singer": "singer1"
-        },
-        {
-          "word": "は私を拝う",
-          "start": 91.12,
-          "end": 91.2,
-          "singer": "singer1"
-        }
-      ],
-      "time": 90,
-      "end": 91.2
-    },
-    {
-      "text": "憎いも憤しいも我々のcool over",
-      "startTime": 91.2,
-      "endTime": 94.5,
-      "words": [
-        {
-          "word": "憎いも憤しいも我々の",
-          "start": 91.2,
-          "end": 94.5,
-          "stretch": true,
-          "spoken": true,
-          "singer": "singer1"
-        },
-        {
-          "word": "cool",
-          "start": 94.5,
-          "end": 94.5,
-          "singer": "singer1"
-        },
-        {
-          "word": "over",
-          "start": 94.5,
-          "end": 94.5,
-          "singer": "singer1"
-        }
-      ],
-      "time": 91.2,
-      "end": 94.5
-    },
-    {
-      "text": "彼は守り続ける生き続ける",
-      "startTime": 94.5,
-      "endTime": 97.7,
-      "words": [
-        {
-          "word": "彼は守り続ける生き続ける",
-          "start": 94.5,
-          "end": 97.7,
-          "stretch": true,
-          "singer": "singer1"
-        }
-      ],
-      "time": 94.5,
-      "end": 97.7
-    },
-    {
-      "text": "憎いも憤しいも憐しいも",
-      "startTime": 99.24,
-      "endTime": 103.32,
-      "words": [
-        {
-          "word": "憎いも憤しいも",
-          "start": 99.59,
-          "end": 102.7,
-          "stretch": true,
-          "singer": "singer1"
-        },
-        {
-          "word": "憐しいも",
-          "start": 103.32,
-          "end": 103.32,
-          "singer": "singer1"
-        }
-      ],
-      "time": 99.24,
-      "end": 103.32
-    },
-    {
-      "text": "憎いも憐しいも憶いも",
-      "startTime": 104.26,
-      "endTime": 106.6,
-      "words": [
-        {
-          "word": "憎いも憐しいも",
-          "start": 104.61,
-          "end": 105.52,
-          "stretch": true,
-          "spoken": true,
-          "singer": "singer2"
-        },
-        {
-          "word": "憶いも",
-          "start": 105.8,
-          "end": 106.6,
-          "stretch": true,
-          "sung": true,
-          "singer": "singer2"
-        }
-      ],
-      "time": 104.26,
-      "end": 106.6
-    },
-    {
-      "text": "ах何も憎いも憎いも",
-      "startTime": 106.6,
-      "endTime": 108.78,
-      "words": [
-        {
-          "word": "ах",
-          "start": 106.6,
-          "end": 106.98,
-          "stretch": true,
-          "singer": "singer2"
-        },
-        {
-          "word": "何も憎いも憎いも",
-          "start": 107.459,
-          "end": 108.78,
-          "stretch": true,
-          "sung": true,
-          "singer": "singer1"
-        }
-      ],
-      "time": 106.6,
-      "end": 108.78
-    },
-    {
-      "text": "俺が決してる不可欠なことを",
-      "startTime": 108.78,
-      "endTime": 109.64,
-      "words": [
-        {
-          "word": "俺が決してる不可欠なことを",
-          "start": 108.78,
-          "end": 109.64,
-          "stretch": true,
-          "sung": true,
-          "singer": "singer1"
-        }
-      ],
-      "time": 108.78,
-      "end": 109.64
-    },
-    {
-      "text": "私は同じ赤の者",
-      "startTime": 109.64,
-      "endTime": 109.88,
-      "words": [
-        {
-          "word": "私は同じ赤の者",
-          "start": 109.64,
-          "end": 109.88,
-          "singer": "singer1"
-        }
-      ],
-      "time": 109.64,
-      "end": 109.88
-    },
-    {
-      "text": "僕のような宇宙に大きな",
-      "startTime": 109.88,
-      "endTime": 111.24,
-      "words": [
-        {
-          "word": "僕のような宇宙に大きな",
-          "start": 109.996,
-          "end": 111.24,
-          "stretch": true,
-          "spoken": true,
-          "singer": "singer1"
-        }
-      ],
-      "time": 109.88,
-      "end": 111.24
-    },
-    {
-      "text": "僕のような恐ろしい憎いも",
-      "startTime": 111.24,
-      "endTime": 112.8,
-      "words": [
-        {
-          "word": "僕のような恐ろしい憎いも",
-          "start": 111.24,
-          "end": 112.8,
-          "stretch": true,
-          "spoken": true,
-          "singer": "singer1"
-        }
-      ],
-      "time": 111.24,
-      "end": 112.8
-    },
-    {
-      "text": "僕のような恐ろしい憎いも",
-      "startTime": 112.8,
-      "endTime": 114.64,
-      "words": [
-        {
-          "word": "僕のような",
-          "start": 112.8,
-          "end": 113.34,
-          "singer": "singer1"
-        },
-        {
-          "word": "恐ろしい憎いも",
-          "start": 114.1,
-          "end": 114.64,
-          "singer": "singer1"
-        }
-      ],
-      "time": 112.8,
-      "end": 114.64
-    },
-    {
-      "text": "俺は一生必ずdem og org on",
-      "startTime": 114.64,
-      "endTime": 117.26,
-      "words": [
-        {
-          "word": "俺は一生",
-          "start": 114.64,
-          "end": 114.64,
-          "singer": "singer1"
-        },
-        {
-          "word": "必ず",
-          "start": 115.98,
-          "end": 117.26,
-          "stretch": true,
-          "spoken": true,
-          "singer": "singer1"
-        },
-        {
-          "word": "dem",
-          "start": 117.26,
-          "end": 117.26,
-          "singer": "singer1"
-        },
-        {
-          "word": "og",
-          "start": 117.26,
-          "end": 117.26,
-          "singer": "singer1"
-        },
-        {
-          "word": "org",
-          "start": 117.26,
-          "end": 117.26,
-          "singer": "singer1"
-        },
-        {
-          "word": "on",
-          "start": 117.26,
-          "end": 117.26,
-          "singer": "singer1"
-        }
-      ],
-      "time": 114.64,
-      "end": 117.26
-    },
-    {
-      "text": "俺は一生必ずdem og org on",
-      "startTime": 117.26,
-      "endTime": 119.86,
-      "words": [
-        {
-          "word": "俺は一生必ず",
-          "start": 117.26,
-          "end": 117.26,
-          "singer": "singer1"
-        },
-        {
-          "word": "dem",
-          "start": 117.26,
-          "end": 117.26,
-          "singer": "singer1"
-        },
-        {
-          "word": "og",
-          "start": 117.26,
-          "end": 117.26,
-          "singer": "singer1"
-        },
-        {
-          "word": "org",
-          "start": 117.539,
-          "end": 119.36,
-          "stretch": true,
-          "spoken": true,
-          "singer": "singer1"
-        },
-        {
-          "word": "on",
-          "start": 119.36,
-          "end": 119.86,
-          "stretch": true,
-          "singer": "singer2"
-        }
-      ],
-      "time": 117.26,
-      "end": 119.86
-    },
-    {
-      "text": "●",
-      "startTime": 120.16,
-      "endTime": 133.86,
-      "words": [],
-      "type": "vocal_cue",
-      "time": 120.16,
-      "end": 133.86
-    },
-    {
-      "text": "ヨルシカヨーグルト",
-      "startTime": 133.86,
-      "endTime": 149.98,
-      "words": [
-        {
-          "word": "ヨルシカヨーグルト",
-          "start": 133.86,
-          "end": 149.98,
-          "stretch": true,
-          "sung": true,
-          "singer": "singer2"
-        }
-      ],
-      "time": 133.86,
-      "end": 149.98
-    },
-    {
-      "text": "シャトナぴヨンリューバヨウスラジゾヨウ",
-      "startTime": 150,
-      "endTime": 152.94,
-      "words": [
-        {
-          "word": "シャトナぴヨン",
-          "start": 150.35,
-          "end": 151.36,
-          "stretch": true,
-          "singer": "singer1"
-        },
-        {
-          "word": "リューバヨウスラジゾヨウ",
-          "start": 151.56,
-          "end": 152.94,
-          "stretch": true,
-          "singer": "singer1"
-        }
-      ],
-      "time": 150,
-      "end": 152.94
-    },
-    {
-      "text": "ワッシュネイビッドニギサゾヨウ",
-      "startTime": 152.94,
-      "endTime": 155.28,
-      "words": [
-        {
-          "word": "ワッシュネイビッドニギサゾヨウ",
-          "start": 153.29,
-          "end": 155.28,
-          "stretch": true,
-          "singer": "singer1"
-        }
-      ],
-      "time": 152.94,
-      "end": 155.28
-    },
-    {
-      "text": "カニャツニチェスティンマイニネテ",
-      "startTime": 155.28,
-      "endTime": 157.64,
-      "words": [
-        {
-          "word": "カニャツニチェスティンマイニネテ",
-          "start": 155.28,
-          "end": 157.64,
-          "stretch": true,
-          "singer": "singer1"
-        }
-      ],
-      "time": 155.28,
-      "end": 157.64
-    },
-    {
-      "text": "ダノムイフスプレッチプロッチサムネヨヨスプレーチ",
-      "startTime": 157.64,
-      "endTime": 162.8,
-      "words": [
-        {
-          "word": "ダノムイフスプレッチプロッチサムネヨヨスプレーチ",
-          "start": 157.64,
-          "end": 162.8,
-          "stretch": true,
-          "sung": true,
-          "singer": "singer2"
-        }
-      ],
-      "time": 157.64,
-      "end": 162.8
-    },
-    {
-      "text": "アブネレイスリューバヨウスラジゾヨウ",
-      "startTime": 162.8,
-      "endTime": 165.46,
-      "words": [
-        {
-          "word": "アブネレイスリューバヨウスラジゾヨウ",
-          "start": 162.8,
-          "end": 165.46,
-          "stretch": true,
-          "spoken": true,
-          "singer": "singer1"
-        }
-      ],
-      "time": 162.8,
-      "end": 165.46
-    },
-    {
-      "text": "エイファリービッドナグロヨウ",
-      "startTime": 165.46,
-      "endTime": 167.86,
-      "words": [
-        {
-          "word": "エイファリービッドナグロヨウ",
-          "start": 165.46,
-          "end": 167.86,
-          "stretch": true,
-          "sung": true,
-          "singer": "singer1"
-        }
-      ],
-      "time": 165.46,
-      "end": 167.86
-    },
-    {
-      "text": "アスラデスメイアドマンサグラデス",
-      "startTime": 167.86,
-      "endTime": 170.42,
-      "words": [
-        {
-          "word": "アスラデスメイアドマンサグラデス",
-          "start": 167.86,
-          "end": 170.42,
-          "stretch": true,
-          "singer": "singer1"
-        }
-      ],
-      "time": 167.86,
-      "end": 170.42
-    },
-    {
-      "text": "アスマデスディゾトノウダッドプリカテ",
-      "startTime": 170.42,
-      "endTime": 172.88,
-      "words": [
-        {
-          "word": "アスマデスディゾトノウダッドプリカテ",
-          "start": 170.42,
-          "end": 172.88,
-          "stretch": true,
-          "sung": true,
-          "singer": "singer1"
-        }
-      ],
-      "time": 170.42,
-      "end": 172.88
-    },
-    {
-      "text": "ブレジュアトヨウビッドフルフトヨウ",
-      "startTime": 172.88,
-      "endTime": 175.56,
-      "words": [
-        {
-          "word": "ブレジュアトヨウビッドフルフトヨウ",
-          "start": 172.88,
-          "end": 175.56,
-          "stretch": true,
-          "sung": true,
-          "singer": "singer1"
-        }
-      ],
-      "time": 172.88,
-      "end": 175.56
-    },
-    {
-      "text": "●",
-      "startTime": 175.86,
-      "endTime": 211.5,
-      "words": [],
-      "type": "vocal_cue",
-      "time": 175.86,
-      "end": 211.5
-    },
-    {
-      "text": "シャトナぴヨンリューバヨウ",
-      "startTime": 211.5,
-      "endTime": 215.96,
-      "words": [
-        {
-          "word": "シャトナぴヨンリューバヨウ",
-          "start": 211.5,
-          "end": 215.96,
-          "stretch": true,
-          "spoken": true,
-          "singer": "singer1"
-        }
-      ],
-      "time": 211.5,
-      "end": 215.96
-    },
-    {
-      "text": "ワッシュネイビッドニギサゾヨウ",
-      "startTime": 215.939,
-      "endTime": 215.98,
-      "words": [
-        {
-          "word": "ワッシュネイビッドニギサゾヨウ",
-          "start": 215.939,
-          "end": 215.98,
-          "singer": "singer1"
-        }
-      ],
-      "time": 215.939,
-      "end": 215.98
-    },
-    {
-      "text": "ブレジュアトヨウビッドフルフトヨウ",
-      "startTime": 215.94,
-      "endTime": 216.009,
-      "words": [
-        {
-          "word": "ブレジュアトヨウビッドフルフトヨウ",
-          "start": 215.939,
-          "end": 216.009,
-          "singer": "singer1"
-        }
-      ],
-      "time": 215.94,
-      "end": 216.009
-    }
-  ]
-}
+[
+  {
+    "text": "愛のalligatorは私を拝う",
+    "startTime": 90,
+    "endTime": 91.2,
+    "time": 90,
+    "end": 91.2
+  },
+  {
+    "text": "憎いも憤しいも我々のcool over",
+    "startTime": 91.2,
+    "endTime": 94.5,
+    "time": 91.2,
+    "end": 94.5
+  },
+  {
+    "text": "彼は守り続ける生き続ける",
+    "startTime": 94.5,
+    "endTime": 97.7,
+    "time": 94.5,
+    "end": 97.7
+  },
+  {
+    "text": "憎いも憤しいも憐しいも",
+    "startTime": 99.24,
+    "endTime": 103.32,
+    "time": 99.24,
+    "end": 103.32
+  },
+  {
+    "text": "憎いも憐しいも憶いも",
+    "startTime": 104.26,
+    "endTime": 106.6,
+    "time": 104.26,
+    "end": 106.6
+  },
+  {
+    "text": "ах何も憎いも憎いも",
+    "startTime": 106.6,
+    "endTime": 108.78,
+    "time": 106.6,
+    "end": 108.78
+  },
+  {
+    "text": "俺が決してる不可欠なことを",
+    "startTime": 108.78,
+    "endTime": 109.64,
+    "time": 108.78,
+    "end": 109.64
+  },
+  {
+    "text": "私は同じ赤の者",
+    "startTime": 109.64,
+    "endTime": 109.88,
+    "time": 109.64,
+    "end": 109.88
+  },
+  {
+    "text": "僕のような宇宙に大きな",
+    "startTime": 109.88,
+    "endTime": 111.24,
+    "time": 109.88,
+    "end": 111.24
+  },
+  {
+    "text": "僕のような恐ろしい憎いも",
+    "startTime": 111.24,
+    "endTime": 112.8,
+    "time": 111.24,
+    "end": 112.8
+  },
+  {
+    "text": "僕のような恐ろしい憎いも",
+    "startTime": 112.8,
+    "endTime": 114.64,
+    "time": 112.8,
+    "end": 114.64
+  },
+  {
+    "text": "俺は一生必ずdem og org on",
+    "startTime": 114.64,
+    "endTime": 117.26,
+    "time": 114.64,
+    "end": 117.26
+  },
+  {
+    "text": "俺は一生必ずdem og org on",
+    "startTime": 117.26,
+    "endTime": 119.86,
+    "time": 117.26,
+    "end": 119.86
+  },
+  {
+    "text": "ヨルシカヨーグルト",
+    "startTime": 133.86,
+    "endTime": 149.98,
+    "time": 133.86,
+    "end": 149.98
+  },
+  {
+    "text": "シャトナぴヨンリューバヨウスラジゾヨウ",
+    "startTime": 150,
+    "endTime": 152.94,
+    "time": 150,
+    "end": 152.94
+  },
+  {
+    "text": "ワッシュネイビッドニギサゾヨウ",
+    "startTime": 152.94,
+    "endTime": 155.28,
+    "time": 152.94,
+    "end": 155.28
+  },
+  {
+    "text": "カニャツニチェスティンマイニネテ",
+    "startTime": 155.28,
+    "endTime": 157.64,
+    "time": 155.28,
+    "end": 157.64
+  },
+  {
+    "text": "ダノムイフスプレッチプロッチサムネヨヨスプレーチ",
+    "startTime": 157.64,
+    "endTime": 162.8,
+    "time": 157.64,
+    "end": 162.8
+  },
+  {
+    "text": "アブネレイスリューバヨウスラジゾヨウ",
+    "startTime": 162.8,
+    "endTime": 165.46,
+    "time": 162.8,
+    "end": 165.46
+  },
+  {
+    "text": "エイファリービッドナグロヨウ",
+    "startTime": 165.46,
+    "endTime": 167.86,
+    "time": 165.46,
+    "end": 167.86
+  },
+  {
+    "text": "アスラデスメイアドマンサグラデス",
+    "startTime": 167.86,
+    "endTime": 170.42,
+    "time": 167.86,
+    "end": 170.42
+  },
+  {
+    "text": "アスマデスディゾトノウダッドプリカテ",
+    "startTime": 170.42,
+    "endTime": 172.88,
+    "time": 170.42,
+    "end": 172.88
+  },
+  {
+    "text": "ブレジュアトヨウビッドフルフトヨウ",
+    "startTime": 172.88,
+    "endTime": 175.56,
+    "time": 172.88,
+    "end": 175.56
+  },
+  {
+    "text": "シャトナぴヨンリューバヨウ",
+    "startTime": 211.5,
+    "endTime": 215.96,
+    "time": 211.5,
+    "end": 215.96
+  },
+  {
+    "text": "ワッシュネイビッドニギサゾヨウ",
+    "startTime": 215.939,
+    "endTime": 215.98,
+    "time": 215.939,
+    "end": 215.98
+  },
+  {
+    "text": "ブレジュアトヨウビッドフルフトヨウ",
+    "startTime": 215.94,
+    "endTime": 216.009,
+    "time": 215.94,
+    "end": 216.009
+  }
+]

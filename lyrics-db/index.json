@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T22:49:30.319216+00:00",
+  "generatedAt": "2026-10-01T22:50:11.210712+00:00",
   "totalTracks": 37,
   "roots": [
     "lyrics-db/tracks"
@@ -601,22 +601,6 @@
       "has_haptics": false,
       "haptics_version": null
     },
-    "freaks & geeks, ekko & sidetrack::freaks & geeks, ekko & sidetrack - everybody": {
-      "title": "Freaks & Geeks, Ekko & Sidetrack - Everybody",
-      "artist": "Freaks & Geeks, Ekko & Sidetrack",
-      "originalTrackName": "Freaks & Geeks, Ekko & Sidetrack - Freaks & Geeks, Ekko & Sidetrack - Everybody",
-      "source": "soundcloud_extension_translate",
-      "file": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.json",
-      "files": {
-        "lyrics": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.json",
-        "meta": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.meta.json",
-        "translations": {
-          "uk": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.uk.json"
-        }
-      },
-      "sourcePath": "https://soundcloud.com/elevaterecordsuk/freaks-geeks-ekko-sidetrack-everybody",
-      "mtimeMs": 1790894942985
-    },
     "maelo47::a stranger i remain": {
       "title": "A Stranger I Remain",
       "artist": "Maelo47",
@@ -631,6 +615,25 @@
       },
       "sourcePath": "https://soundcloud.com/dubstepmaniac007/a-stranger-i-remain",
       "mtimeMs": 1790894971212,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    "freaks & geeks, ekko & sidetrack::freaks & geeks, ekko & sidetrack - everybody": {
+      "title": "Freaks & Geeks, Ekko & Sidetrack - Everybody",
+      "artist": "Freaks & Geeks, Ekko & Sidetrack",
+      "originalTrackName": "Freaks & Geeks, Ekko & Sidetrack - Freaks & Geeks, Ekko & Sidetrack - Everybody",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-rgBKKvE3CwLDnXNb-rDSMqg-original.jpg",
+      "file": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.json",
+      "files": {
+        "lyrics": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.json",
+        "meta": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.meta.json",
+        "translations": {
+          "uk": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.uk.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/elevaterecordsuk/freaks-geeks-ekko-sidetrack-everybody",
+      "mtimeMs": 1790895011689,
       "has_haptics": true,
       "haptics_version": 4
     }
@@ -1233,22 +1236,6 @@
       "haptics_version": null
     },
     {
-      "title": "Freaks & Geeks, Ekko & Sidetrack - Everybody",
-      "artist": "Freaks & Geeks, Ekko & Sidetrack",
-      "originalTrackName": "Freaks & Geeks, Ekko & Sidetrack - Freaks & Geeks, Ekko & Sidetrack - Everybody",
-      "source": "soundcloud_extension_translate",
-      "file": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.json",
-      "files": {
-        "lyrics": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.json",
-        "meta": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.meta.json",
-        "translations": {
-          "uk": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.uk.json"
-        }
-      },
-      "sourcePath": "https://soundcloud.com/elevaterecordsuk/freaks-geeks-ekko-sidetrack-everybody",
-      "mtimeMs": 1790894942985
-    },
-    {
       "title": "A Stranger I Remain",
       "artist": "Maelo47",
       "originalTrackName": "Maelo47 - A Stranger I Remain",
@@ -1262,6 +1249,25 @@
       },
       "sourcePath": "https://soundcloud.com/dubstepmaniac007/a-stranger-i-remain",
       "mtimeMs": 1790894971212,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Freaks & Geeks, Ekko & Sidetrack - Everybody",
+      "artist": "Freaks & Geeks, Ekko & Sidetrack",
+      "originalTrackName": "Freaks & Geeks, Ekko & Sidetrack - Freaks & Geeks, Ekko & Sidetrack - Everybody",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-rgBKKvE3CwLDnXNb-rDSMqg-original.jpg",
+      "file": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.json",
+      "files": {
+        "lyrics": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.json",
+        "meta": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.meta.json",
+        "translations": {
+          "uk": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.uk.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/elevaterecordsuk/freaks-geeks-ekko-sidetrack-everybody",
+      "mtimeMs": 1790895011689,
       "has_haptics": true,
       "haptics_version": 4
     }

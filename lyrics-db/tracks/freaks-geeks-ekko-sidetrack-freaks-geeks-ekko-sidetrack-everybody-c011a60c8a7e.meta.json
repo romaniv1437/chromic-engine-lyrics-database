@@ -1,8 +1,10 @@
 {
   "artist": "Freaks & Geeks, Ekko & Sidetrack",
+  "title": "Freaks & Geeks, Ekko & Sidetrack - Everybody",
   "track_title": "Freaks & Geeks, Ekko & Sidetrack - Everybody",
+  "thumbnail": "https://i1.sndcdn.com/artworks-rgBKKvE3CwLDnXNb-rDSMqg-original.jpg",
   "track_url": "https://soundcloud.com/elevaterecordsuk/freaks-geeks-ekko-sidetrack-everybody",
-  "lyrics_source": "soundcloud_extension_translate",
-  "line_timestamps_source": "whisper_aligner",
-  "updated_at": "2026-10-01T22:49:01.607178+00:00"
+  "lyrics_source": "syncedlyrics",
+  "line_timestamps_source": "guided-whisper",
+  "updated_at": "2026-10-01T22:50:11.210712+00:00"
 }

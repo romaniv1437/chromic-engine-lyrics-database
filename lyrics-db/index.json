@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T22:14:11.754352+00:00",
-  "totalTracks": 35,
+  "generatedAt": "2026-10-01T22:49:02.985424+00:00",
+  "totalTracks": 36,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -600,6 +600,22 @@
       "mtimeMs": 1790892851754,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "freaks & geeks, ekko & sidetrack::freaks & geeks, ekko & sidetrack - everybody": {
+      "title": "Freaks & Geeks, Ekko & Sidetrack - Everybody",
+      "artist": "Freaks & Geeks, Ekko & Sidetrack",
+      "originalTrackName": "Freaks & Geeks, Ekko & Sidetrack - Freaks & Geeks, Ekko & Sidetrack - Everybody",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.json",
+      "files": {
+        "lyrics": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.json",
+        "meta": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.meta.json",
+        "translations": {
+          "uk": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.uk.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/elevaterecordsuk/freaks-geeks-ekko-sidetrack-everybody",
+      "mtimeMs": 1790894942985
     }
   },
   "tracks": [
@@ -1198,6 +1214,22 @@
       "mtimeMs": 1790892851754,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Freaks & Geeks, Ekko & Sidetrack - Everybody",
+      "artist": "Freaks & Geeks, Ekko & Sidetrack",
+      "originalTrackName": "Freaks & Geeks, Ekko & Sidetrack - Freaks & Geeks, Ekko & Sidetrack - Everybody",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.json",
+      "files": {
+        "lyrics": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.json",
+        "meta": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.meta.json",
+        "translations": {
+          "uk": "tracks/freaks-geeks-ekko-sidetrack-freaks-geeks-ekko-sidetrack-everybody-c011a60c8a7e.uk.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/elevaterecordsuk/freaks-geeks-ekko-sidetrack-everybody",
+      "mtimeMs": 1790894942985
     }
   ]
 }

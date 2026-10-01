@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T18:12:58.770548+00:00",
+  "generatedAt": "2026-10-01T18:13:09.086979+00:00",
   "totalTracks": 32,
   "roots": [
     "lyrics-db/tracks"
@@ -546,9 +546,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/user-713338000/mileage",
-      "mtimeMs": 1790878379294,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1790878389086,
+      "has_haptics": false,
+      "haptics_version": null
     }
   },
   "tracks": [
@@ -1093,9 +1093,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/user-713338000/mileage",
-      "mtimeMs": 1790878379294,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1790878389086,
+      "has_haptics": false,
+      "haptics_version": null
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T21:48:20.913614+00:00",
-  "totalTracks": 34,
+  "generatedAt": "2026-10-01T22:14:01.264984+00:00",
+  "totalTracks": 35,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -583,6 +583,23 @@
       "mtimeMs": 1790891300913,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "papasha::грибы – копы (бистмастер remix)": {
+      "title": "ГРИБЫ – КОПЫ (БИСТМАСТЕР REMIX)",
+      "artist": "papasha",
+      "originalTrackName": "papasha - ГРИБЫ – КОПЫ (БИСТМАСТЕР REMIX)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-K1JgctMZ4rgJpv0z-j2gujA-original.jpg",
+      "file": "tracks/papasha-remix-825a235b0798.json",
+      "files": {
+        "lyrics": "tracks/papasha-remix-825a235b0798.json",
+        "meta": "tracks/papasha-remix-825a235b0798.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/sqdwsx/griby-kopy-bistmaster-remix",
+      "mtimeMs": 1790892841795,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1164,6 +1181,23 @@
       "mtimeMs": 1790891300913,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "ГРИБЫ – КОПЫ (БИСТМАСТЕР REMIX)",
+      "artist": "papasha",
+      "originalTrackName": "papasha - ГРИБЫ – КОПЫ (БИСТМАСТЕР REMIX)",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-K1JgctMZ4rgJpv0z-j2gujA-original.jpg",
+      "file": "tracks/papasha-remix-825a235b0798.json",
+      "files": {
+        "lyrics": "tracks/papasha-remix-825a235b0798.json",
+        "meta": "tracks/papasha-remix-825a235b0798.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/sqdwsx/griby-kopy-bistmaster-remix",
+      "mtimeMs": 1790892841795,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T22:49:02.985424+00:00",
-  "totalTracks": 36,
+  "generatedAt": "2026-10-01T22:49:30.319216+00:00",
+  "totalTracks": 37,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -616,6 +616,23 @@
       },
       "sourcePath": "https://soundcloud.com/elevaterecordsuk/freaks-geeks-ekko-sidetrack-everybody",
       "mtimeMs": 1790894942985
+    },
+    "maelo47::a stranger i remain": {
+      "title": "A Stranger I Remain",
+      "artist": "Maelo47",
+      "originalTrackName": "Maelo47 - A Stranger I Remain",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000076362010-cc7a3q-original.jpg",
+      "file": "tracks/maelo47-a-stranger-i-remain-c7f8da2e809d.json",
+      "files": {
+        "lyrics": "tracks/maelo47-a-stranger-i-remain-c7f8da2e809d.json",
+        "meta": "tracks/maelo47-a-stranger-i-remain-c7f8da2e809d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/dubstepmaniac007/a-stranger-i-remain",
+      "mtimeMs": 1790894971212,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1230,6 +1247,23 @@
       },
       "sourcePath": "https://soundcloud.com/elevaterecordsuk/freaks-geeks-ekko-sidetrack-everybody",
       "mtimeMs": 1790894942985
+    },
+    {
+      "title": "A Stranger I Remain",
+      "artist": "Maelo47",
+      "originalTrackName": "Maelo47 - A Stranger I Remain",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000076362010-cc7a3q-original.jpg",
+      "file": "tracks/maelo47-a-stranger-i-remain-c7f8da2e809d.json",
+      "files": {
+        "lyrics": "tracks/maelo47-a-stranger-i-remain-c7f8da2e809d.json",
+        "meta": "tracks/maelo47-a-stranger-i-remain-c7f8da2e809d.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/dubstepmaniac007/a-stranger-i-remain",
+      "mtimeMs": 1790894971212,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

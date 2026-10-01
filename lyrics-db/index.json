@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T18:13:09.086979+00:00",
-  "totalTracks": 32,
+  "generatedAt": "2026-10-01T21:43:21.019777+00:00",
+  "totalTracks": 33,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -549,6 +549,23 @@
       "mtimeMs": 1790878389086,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "sayoner4ik::starly (slowed)(best version)": {
+      "title": "starly (Slowed)(best version)",
+      "artist": "sayoner4ik",
+      "originalTrackName": "sayoner4ik - starly (Slowed)(best version)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-F8HxoEHpVa58uUJN-BZT8zQ-original.jpg",
+      "file": "tracks/sayoner4ik-starly-slowed-best-version-9247860dbaed.json",
+      "files": {
+        "lyrics": "tracks/sayoner4ik-starly-slowed-best-version-9247860dbaed.json",
+        "meta": "tracks/sayoner4ik-starly-slowed-best-version-9247860dbaed.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/germans-961821653/starly-slowed",
+      "mtimeMs": 1790891001582,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1096,6 +1113,23 @@
       "mtimeMs": 1790878389086,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "starly (Slowed)(best version)",
+      "artist": "sayoner4ik",
+      "originalTrackName": "sayoner4ik - starly (Slowed)(best version)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-F8HxoEHpVa58uUJN-BZT8zQ-original.jpg",
+      "file": "tracks/sayoner4ik-starly-slowed-best-version-9247860dbaed.json",
+      "files": {
+        "lyrics": "tracks/sayoner4ik-starly-slowed-best-version-9247860dbaed.json",
+        "meta": "tracks/sayoner4ik-starly-slowed-best-version-9247860dbaed.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/germans-961821653/starly-slowed",
+      "mtimeMs": 1790891001582,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

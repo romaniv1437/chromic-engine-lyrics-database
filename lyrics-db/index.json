@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T12:21:18.607152+00:00",
-  "totalTracks": 27,
+  "generatedAt": "2026-10-01T12:22:52.129113+00:00",
+  "totalTracks": 28,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -464,6 +464,23 @@
       "mtimeMs": 1790857279151,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "memaybeo::vòng tay anh ôm lấy những kỉ niệm xa vời đổi thay nin hoàng remix  hồ quang hiếu": {
+      "title": "VÒNG TAY ANH ÔM LẤY NHỮNG KỈ NIỆM XA VỜI ĐỔI THAY NIN HOÀNG REMIX  HỒ QUANG HIẾU",
+      "artist": "memaybeo",
+      "originalTrackName": "memaybeo - VÒNG TAY ANH ÔM LẤY NHỮNG KỈ NIỆM XA VỜI ĐỔI THAY NIN HOÀNG REMIX  HỒ QUANG HIẾU",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-bVgUntTElznaUTzu-vGhtsA-original.jpg",
+      "file": "tracks/memaybeo-vo-ng-tay-anh-o-m-la-y-nhu-ng-ki-nie-m-xa-vo-i-o-i-thay-nin-h-4ff86018fcc1.json",
+      "files": {
+        "lyrics": "tracks/memaybeo-vo-ng-tay-anh-o-m-la-y-nhu-ng-ki-nie-m-xa-vo-i-o-i-thay-nin-h-4ff86018fcc1.json",
+        "meta": "tracks/memaybeo-vo-ng-tay-anh-o-m-la-y-nhu-ng-ki-nie-m-xa-vo-i-o-i-thay-nin-h-4ff86018fcc1.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-331013765-172678530/vo-ng-tay-anh-o-m-la-y-nhu-ng",
+      "mtimeMs": 1790857372729,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -924,6 +941,23 @@
       },
       "sourcePath": "https://soundcloud.com/truongalex/vo-kich-cua-em-ft-vay-giu-remix-huyn-ft-truong-alex",
       "mtimeMs": 1790857279151,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "VÒNG TAY ANH ÔM LẤY NHỮNG KỈ NIỆM XA VỜI ĐỔI THAY NIN HOÀNG REMIX  HỒ QUANG HIẾU",
+      "artist": "memaybeo",
+      "originalTrackName": "memaybeo - VÒNG TAY ANH ÔM LẤY NHỮNG KỈ NIỆM XA VỜI ĐỔI THAY NIN HOÀNG REMIX  HỒ QUANG HIẾU",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-bVgUntTElznaUTzu-vGhtsA-original.jpg",
+      "file": "tracks/memaybeo-vo-ng-tay-anh-o-m-la-y-nhu-ng-ki-nie-m-xa-vo-i-o-i-thay-nin-h-4ff86018fcc1.json",
+      "files": {
+        "lyrics": "tracks/memaybeo-vo-ng-tay-anh-o-m-la-y-nhu-ng-ki-nie-m-xa-vo-i-o-i-thay-nin-h-4ff86018fcc1.json",
+        "meta": "tracks/memaybeo-vo-ng-tay-anh-o-m-la-y-nhu-ng-ki-nie-m-xa-vo-i-o-i-thay-nin-h-4ff86018fcc1.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-331013765-172678530/vo-ng-tay-anh-o-m-la-y-nhu-ng",
+      "mtimeMs": 1790857372729,
       "has_haptics": true,
       "haptics_version": 4
     }

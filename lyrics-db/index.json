@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T12:23:32.356062+00:00",
-  "totalTracks": 29,
+  "generatedAt": "2026-10-01T12:23:31.635403+00:00",
+  "totalTracks": 30,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -495,9 +495,26 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/nguyenhoanfghuy05xyz/an-tinh-sang-trang-remix",
-      "mtimeMs": 1790857412355,
-      "has_haptics": false,
-      "haptics_version": null
+      "mtimeMs": 1790857398799,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    "❤️::big sis, hold on": {
+      "title": "Big Sis, Hold On",
+      "artist": "❤️",
+      "originalTrackName": "❤️ - Big Sis, Hold On",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-47Z4h59jBYhjFpFX-y5DGcA-original.jpg",
+      "file": "tracks/big-sis-hold-on-fbee4d28d405.json",
+      "files": {
+        "lyrics": "tracks/big-sis-hold-on-fbee4d28d405.json",
+        "meta": "tracks/big-sis-hold-on-fbee4d28d405.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/nina-persson-560097581/big-sis-hold-on",
+      "mtimeMs": 1790857412284,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -991,9 +1008,26 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/nguyenhoanfghuy05xyz/an-tinh-sang-trang-remix",
-      "mtimeMs": 1790857412355,
-      "has_haptics": false,
-      "haptics_version": null
+      "mtimeMs": 1790857398799,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Big Sis, Hold On",
+      "artist": "❤️",
+      "originalTrackName": "❤️ - Big Sis, Hold On",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-47Z4h59jBYhjFpFX-y5DGcA-original.jpg",
+      "file": "tracks/big-sis-hold-on-fbee4d28d405.json",
+      "files": {
+        "lyrics": "tracks/big-sis-hold-on-fbee4d28d405.json",
+        "meta": "tracks/big-sis-hold-on-fbee4d28d405.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/nina-persson-560097581/big-sis-hold-on",
+      "mtimeMs": 1790857412284,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

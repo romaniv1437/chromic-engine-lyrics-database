@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T21:43:29.017690+00:00",
-  "totalTracks": 33,
+  "generatedAt": "2026-10-01T21:48:08.408468+00:00",
+  "totalTracks": 34,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -566,6 +566,23 @@
       "mtimeMs": 1790891009017,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "dj'alas remix::la dueña del swing steady intro bpm155 dj alas rmx.mp3": {
+      "title": "La Dueña Del Swing Steady Intro Bpm155 DJ Alas Rmx.MP3",
+      "artist": "Dj'Alas Remix",
+      "originalTrackName": "Dj'Alas Remix - La Dueña Del Swing Steady Intro Bpm155 DJ Alas Rmx.MP3",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000125779107-3oh44o-original.jpg",
+      "file": "tracks/dj-alas-remix-la-due-a-del-swing-steady-intro-bpm155-dj-alas-rmx-mp3-07d264951af0.json",
+      "files": {
+        "lyrics": "tracks/dj-alas-remix-la-due-a-del-swing-steady-intro-bpm155-dj-alas-rmx-mp3-07d264951af0.json",
+        "meta": "tracks/dj-alas-remix-la-due-a-del-swing-steady-intro-bpm155-dj-alas-rmx-mp3-07d264951af0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/djalas-remix/duena-del-swing-steady-intro-bpm155-dj-alas-rmxmp3",
+      "mtimeMs": 1790891289295,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1130,6 +1147,23 @@
       "mtimeMs": 1790891009017,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "La Dueña Del Swing Steady Intro Bpm155 DJ Alas Rmx.MP3",
+      "artist": "Dj'Alas Remix",
+      "originalTrackName": "Dj'Alas Remix - La Dueña Del Swing Steady Intro Bpm155 DJ Alas Rmx.MP3",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-000125779107-3oh44o-original.jpg",
+      "file": "tracks/dj-alas-remix-la-due-a-del-swing-steady-intro-bpm155-dj-alas-rmx-mp3-07d264951af0.json",
+      "files": {
+        "lyrics": "tracks/dj-alas-remix-la-due-a-del-swing-steady-intro-bpm155-dj-alas-rmx-mp3-07d264951af0.json",
+        "meta": "tracks/dj-alas-remix-la-due-a-del-swing-steady-intro-bpm155-dj-alas-rmx-mp3-07d264951af0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/djalas-remix/duena-del-swing-steady-intro-bpm155-dj-alas-rmxmp3",
+      "mtimeMs": 1790891289295,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

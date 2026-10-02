@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T17:14:22.218941+00:00",
-  "totalTracks": 47,
+  "generatedAt": "2026-10-02T17:16:05.702447+00:00",
+  "totalTracks": 48,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -808,6 +808,23 @@
       "mtimeMs": 1790961262737,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "mackan::did i tell u that i miss u - sped up": {
+      "title": "did i tell u that i miss u - sped up",
+      "artist": "Mackan",
+      "originalTrackName": "Mackan - did i tell u that i miss u - sped up",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-USGpxXCv5jS23h54-p3Uhbg-original.png",
+      "file": "tracks/mackan-did-i-tell-u-that-i-miss-u-sped-up-6f51d4af752f.json",
+      "files": {
+        "lyrics": "tracks/mackan-did-i-tell-u-that-i-miss-u-sped-up-6f51d4af752f.json",
+        "meta": "tracks/mackan-did-i-tell-u-that-i-miss-u-sped-up-6f51d4af752f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/mackanfalange/did-i-tell-u-that-i-miss-u",
+      "mtimeMs": 1790961366755,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1612,6 +1629,23 @@
       },
       "sourcePath": "https://soundcloud.com/maisonnnn/stakillaz-disgracemode-2",
       "mtimeMs": 1790961262737,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "did i tell u that i miss u - sped up",
+      "artist": "Mackan",
+      "originalTrackName": "Mackan - did i tell u that i miss u - sped up",
+      "source": "syncedlyrics",
+      "thumbnail": "https://i1.sndcdn.com/artworks-USGpxXCv5jS23h54-p3Uhbg-original.png",
+      "file": "tracks/mackan-did-i-tell-u-that-i-miss-u-sped-up-6f51d4af752f.json",
+      "files": {
+        "lyrics": "tracks/mackan-did-i-tell-u-that-i-miss-u-sped-up-6f51d4af752f.json",
+        "meta": "tracks/mackan-did-i-tell-u-that-i-miss-u-sped-up-6f51d4af752f.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/mackanfalange/did-i-tell-u-that-i-miss-u",
+      "mtimeMs": 1790961366755,
       "has_haptics": true,
       "haptics_version": 4
     }

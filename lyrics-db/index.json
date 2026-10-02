@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T12:20:53.354619+00:00",
-  "totalTracks": 44,
+  "generatedAt": "2026-10-02T17:12:24.179336+00:00",
+  "totalTracks": 45,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -757,6 +757,23 @@
       "mtimeMs": 1790943653918,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "peanutbutterman::fall from the sky pt.2 sped up": {
+      "title": "FALL FROM THE SKY PT.2 sped up",
+      "artist": "Peanutbutterman",
+      "originalTrackName": "Peanutbutterman - FALL FROM THE SKY PT.2 sped up",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-f7TyuiLnjBYbAwFc-hPK66Q-original.png",
+      "file": "tracks/peanutbutterman-fall-from-the-sky-pt-2-sped-up-604e7bf525a7.json",
+      "files": {
+        "lyrics": "tracks/peanutbutterman-fall-from-the-sky-pt-2-sped-up-604e7bf525a7.json",
+        "meta": "tracks/peanutbutterman-fall-from-the-sky-pt-2-sped-up-604e7bf525a7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/zal-n-k-v-ri-120842359/fall-from-the-sky-pt-2-sped-up",
+      "mtimeMs": 1790961144719,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1510,6 +1527,23 @@
       },
       "sourcePath": "file://កែខ្លួនទៅអូន [wmqNr2Ja284].mp3",
       "mtimeMs": 1790943653918,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "FALL FROM THE SKY PT.2 sped up",
+      "artist": "Peanutbutterman",
+      "originalTrackName": "Peanutbutterman - FALL FROM THE SKY PT.2 sped up",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-f7TyuiLnjBYbAwFc-hPK66Q-original.png",
+      "file": "tracks/peanutbutterman-fall-from-the-sky-pt-2-sped-up-604e7bf525a7.json",
+      "files": {
+        "lyrics": "tracks/peanutbutterman-fall-from-the-sky-pt-2-sped-up-604e7bf525a7.json",
+        "meta": "tracks/peanutbutterman-fall-from-the-sky-pt-2-sped-up-604e7bf525a7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/zal-n-k-v-ri-120842359/fall-from-the-sky-pt-2-sped-up",
+      "mtimeMs": 1790961144719,
       "has_haptics": true,
       "haptics_version": 4
     }

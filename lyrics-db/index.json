@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T05:58:13.739746+00:00",
+  "generatedAt": "2026-10-02T05:58:23.374926+00:00",
   "totalTracks": 43,
   "roots": [
     "lyrics-db/tracks"
@@ -737,9 +737,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/1jug/jug-freqkin-vibin-hofbadge-wav",
-      "mtimeMs": 1790920694716,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1790920703374,
+      "has_haptics": false,
+      "haptics_version": null
     }
   },
   "tracks": [
@@ -1475,9 +1475,9 @@
         "translations": {}
       },
       "sourcePath": "https://soundcloud.com/1jug/jug-freqkin-vibin-hofbadge-wav",
-      "mtimeMs": 1790920694716,
-      "has_haptics": true,
-      "haptics_version": 4
+      "mtimeMs": 1790920703374,
+      "has_haptics": false,
+      "haptics_version": null
     }
   ]
 }

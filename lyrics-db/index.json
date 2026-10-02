@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T02:55:44.673955+00:00",
-  "totalTracks": 41,
+  "generatedAt": "2026-10-02T05:56:48.729998+00:00",
+  "totalTracks": 42,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -706,6 +706,23 @@
       "mtimeMs": 1790909744673,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "#jug::all dere [scootxk]": {
+      "title": "all dere [scootxk]",
+      "artist": "#jug",
+      "originalTrackName": "#jug - all dere [scootxk]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-ZKXU4zkNsPWFwfvY-Wc8azg-original.jpg",
+      "file": "tracks/jug-all-dere-scootxk-efbe099546ed.json",
+      "files": {
+        "lyrics": "tracks/jug-all-dere-scootxk-efbe099546ed.json",
+        "meta": "tracks/jug-all-dere-scootxk-efbe099546ed.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1jug/all-dere-scootxk",
+      "mtimeMs": 1790920609434,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1410,6 +1427,23 @@
       "mtimeMs": 1790909744673,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "all dere [scootxk]",
+      "artist": "#jug",
+      "originalTrackName": "#jug - all dere [scootxk]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-ZKXU4zkNsPWFwfvY-Wc8azg-original.jpg",
+      "file": "tracks/jug-all-dere-scootxk-efbe099546ed.json",
+      "files": {
+        "lyrics": "tracks/jug-all-dere-scootxk-efbe099546ed.json",
+        "meta": "tracks/jug-all-dere-scootxk-efbe099546ed.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1jug/all-dere-scootxk",
+      "mtimeMs": 1790920609434,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T22:52:22.715950+00:00",
-  "totalTracks": 39,
+  "generatedAt": "2026-10-02T01:18:00.635388+00:00",
+  "totalTracks": 40,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -670,6 +670,23 @@
       "mtimeMs": 1790895142715,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "juice wrld::juice wrld - cheese and dope freestyle": {
+      "title": "Juice WRLD - Cheese and Dope Freestyle",
+      "artist": "Juice WRLD",
+      "originalTrackName": "Juice WRLD - Juice WRLD - Cheese and Dope Freestyle",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-vxqHZEzdCyFQKUEJ-VBXwhQ-original.jpg",
+      "file": "tracks/juice-wrld-juice-wrld-cheese-and-dope-freestyle-a56a4bbe1e63.json",
+      "files": {
+        "lyrics": "tracks/juice-wrld-juice-wrld-cheese-and-dope-freestyle-a56a4bbe1e63.json",
+        "meta": "tracks/juice-wrld-juice-wrld-cheese-and-dope-freestyle-a56a4bbe1e63.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-421540085/juice-wrld-cheese-and-dope",
+      "mtimeMs": 1790903881145,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1338,6 +1355,23 @@
       "mtimeMs": 1790895142715,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "Juice WRLD - Cheese and Dope Freestyle",
+      "artist": "Juice WRLD",
+      "originalTrackName": "Juice WRLD - Juice WRLD - Cheese and Dope Freestyle",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-vxqHZEzdCyFQKUEJ-VBXwhQ-original.jpg",
+      "file": "tracks/juice-wrld-juice-wrld-cheese-and-dope-freestyle-a56a4bbe1e63.json",
+      "files": {
+        "lyrics": "tracks/juice-wrld-juice-wrld-cheese-and-dope-freestyle-a56a4bbe1e63.json",
+        "meta": "tracks/juice-wrld-juice-wrld-cheese-and-dope-freestyle-a56a4bbe1e63.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-421540085/juice-wrld-cheese-and-dope",
+      "mtimeMs": 1790903881145,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

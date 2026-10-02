@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T17:12:34.574867+00:00",
-  "totalTracks": 45,
+  "generatedAt": "2026-10-02T17:14:01.285296+00:00",
+  "totalTracks": 46,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -774,6 +774,23 @@
       "mtimeMs": 1790961154574,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "adore::did i tell u that i miss u": {
+      "title": "did i tell u that i miss u",
+      "artist": "adore",
+      "originalTrackName": "adore - did i tell u that i miss u",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-g6fViuM30nFQoUA3-Pjrzwg-original.jpg",
+      "file": "tracks/adore-did-i-tell-u-that-i-miss-u-45a971abf488.json",
+      "files": {
+        "lyrics": "tracks/adore-did-i-tell-u-that-i-miss-u-45a971abf488.json",
+        "meta": "tracks/adore-did-i-tell-u-that-i-miss-u-45a971abf488.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/whodoyouadore/adore-did-i-tell-u-that-i-miss-u-brian-moser-song",
+      "mtimeMs": 1790961241778,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1546,6 +1563,23 @@
       "mtimeMs": 1790961154574,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "did i tell u that i miss u",
+      "artist": "adore",
+      "originalTrackName": "adore - did i tell u that i miss u",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/artworks-g6fViuM30nFQoUA3-Pjrzwg-original.jpg",
+      "file": "tracks/adore-did-i-tell-u-that-i-miss-u-45a971abf488.json",
+      "files": {
+        "lyrics": "tracks/adore-did-i-tell-u-that-i-miss-u-45a971abf488.json",
+        "meta": "tracks/adore-did-i-tell-u-that-i-miss-u-45a971abf488.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/whodoyouadore/adore-did-i-tell-u-that-i-miss-u-brian-moser-song",
+      "mtimeMs": 1790961241778,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T01:18:00.635388+00:00",
+  "generatedAt": "2026-10-02T02:50:07.443684+00:00",
   "totalTracks": 40,
   "roots": [
     "lyrics-db/tracks"
@@ -482,23 +482,6 @@
       "has_haptics": true,
       "haptics_version": 4
     },
-    "nguyễn hoàng huy::ân tình sang trang remix": {
-      "title": "Ân Tình Sang Trang Remix",
-      "artist": "Nguyễn Hoàng Huy",
-      "originalTrackName": "Nguyễn Hoàng Huy - Ân Tình Sang Trang Remix",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-EaHXxUsz1xgzAsB7-3Bzk7Q-original.jpg",
-      "file": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.json",
-      "files": {
-        "lyrics": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.json",
-        "meta": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/nguyenhoanfghuy05xyz/an-tinh-sang-trang-remix",
-      "mtimeMs": 1790857398799,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
     "❤️::big sis, hold on": {
       "title": "Big Sis, Hold On",
       "artist": "❤️",
@@ -687,6 +670,22 @@
       "mtimeMs": 1790903881145,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "nguyễn hoàng huy::ân tình sang trang remix": {
+      "title": "Ân Tình Sang Trang Remix",
+      "artist": "Nguyễn Hoàng Huy",
+      "originalTrackName": "Nguyễn Hoàng Huy - Ân Tình Sang Trang Remix",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.json",
+      "files": {
+        "lyrics": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.json",
+        "meta": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.meta.json",
+        "translations": {
+          "vi": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.vi.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/nguyenhoanfghuy05xyz/an-tinh-sang-trang-remix",
+      "mtimeMs": 1790909407443
     }
   },
   "tracks": [
@@ -1168,23 +1167,6 @@
       "haptics_version": 4
     },
     {
-      "title": "Ân Tình Sang Trang Remix",
-      "artist": "Nguyễn Hoàng Huy",
-      "originalTrackName": "Nguyễn Hoàng Huy - Ân Tình Sang Trang Remix",
-      "source": "whisper_only",
-      "thumbnail": "https://i1.sndcdn.com/artworks-EaHXxUsz1xgzAsB7-3Bzk7Q-original.jpg",
-      "file": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.json",
-      "files": {
-        "lyrics": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.json",
-        "meta": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.meta.json",
-        "translations": {}
-      },
-      "sourcePath": "https://soundcloud.com/nguyenhoanfghuy05xyz/an-tinh-sang-trang-remix",
-      "mtimeMs": 1790857398799,
-      "has_haptics": true,
-      "haptics_version": 4
-    },
-    {
       "title": "Big Sis, Hold On",
       "artist": "❤️",
       "originalTrackName": "❤️ - Big Sis, Hold On",
@@ -1372,6 +1354,22 @@
       "mtimeMs": 1790903881145,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    {
+      "title": "Ân Tình Sang Trang Remix",
+      "artist": "Nguyễn Hoàng Huy",
+      "originalTrackName": "Nguyễn Hoàng Huy - Ân Tình Sang Trang Remix",
+      "source": "soundcloud_extension_translate",
+      "file": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.json",
+      "files": {
+        "lyrics": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.json",
+        "meta": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.meta.json",
+        "translations": {
+          "vi": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.vi.json"
+        }
+      },
+      "sourcePath": "https://soundcloud.com/nguyenhoanfghuy05xyz/an-tinh-sang-trang-remix",
+      "mtimeMs": 1790909407443
     }
   ]
 }

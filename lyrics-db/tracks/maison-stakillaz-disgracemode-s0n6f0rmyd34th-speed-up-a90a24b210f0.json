@@ -1,0 +1,8393 @@
+{
+  "lines": [
+    {
+      "text": "Thank you.",
+      "startTime": 4.42,
+      "endTime": 7.22,
+      "words": [
+        {
+          "word": "Thank",
+          "start": 4.42,
+          "end": 5.82,
+          "stretch": true,
+          "spoken": true
+        },
+        {
+          "word": "you.",
+          "start": 6.17,
+          "end": 7.22,
+          "stretch": true,
+          "spoken": true
+        }
+      ],
+      "time": 4.42,
+      "end": 7.22
+    },
+    {
+      "text": "●",
+      "startTime": 7.52,
+      "endTime": 37.54,
+      "words": [],
+      "type": "vocal_cue",
+      "time": 7.52,
+      "end": 37.54
+    },
+    {
+      "text": "Thank you.",
+      "startTime": 37.54,
+      "endTime": 37.96,
+      "words": [
+        {
+          "word": "Thank",
+          "start": 37.54,
+          "end": 37.82
+        },
+        {
+          "word": "you.",
+          "start": 37.82,
+          "end": 37.96,
+          "spoken": true
+        }
+      ],
+      "time": 37.54,
+      "end": 37.96
+    },
+    {
+      "text": "●",
+      "startTime": 38.26,
+      "endTime": 60.0,
+      "words": [],
+      "type": "vocal_cue",
+      "time": 38.26,
+      "end": 60.0
+    },
+    {
+      "text": "We pray this in your name.",
+      "startTime": 60.0,
+      "endTime": 62.92,
+      "words": [
+        {
+          "word": "We",
+          "start": 60.0,
+          "end": 60.14,
+          "spoken": true
+        },
+        {
+          "word": "pray",
+          "start": 60.14,
+          "end": 60.58,
+          "spoken": true
+        },
+        {
+          "word": "this",
+          "start": 60.58,
+          "end": 61.34,
+          "stretch": true,
+          "spoken": true
+        },
+        {
+          "word": "in",
+          "start": 61.34,
+          "end": 61.92,
+          "stretch": true,
+          "spoken": true
+        },
+        {
+          "word": "your",
+          "start": 61.92,
+          "end": 62.42,
+          "spoken": true
+        },
+        {
+          "word": "name.",
+          "start": 62.42,
+          "end": 62.92,
+          "spoken": true
+        }
+      ],
+      "time": 60.0,
+      "end": 62.92
+    }
+  ],
+  "haptics": {
+    "schema_version": 4,
+    "meta": {
+      "source": "demucs-6s+per-stem-detectors",
+      "audio": "chromic-2377445612",
+      "tempo_bpm": 99.4,
+      "duration_s": 69.06,
+      "sr": 22050,
+      "lra_resonance_hz": 230,
+      "min_pulse_interval_ms": 25,
+      "stems_used": {
+        "drums": true,
+        "bass": true,
+        "vocals": true,
+        "piano": false,
+        "guitar": false,
+        "other": true
+      },
+      "generated_by": "haptic.py v4",
+      "event_count": 1172
+    },
+    "events": [
+      {
+        "t": 0.07,
+        "i": 0.25,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 0.07,
+        "i": 0.39,
+        "d": 18,
+        "tp": "orchestral_hit",
+        "prio": 7
+      },
+      {
+        "t": 0.15,
+        "i": 0.1,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 0.19,
+        "i": 0.09,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 0.23,
+        "i": 0.12,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 0.27,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 0.31,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 0.372,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 0.511,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 0.697,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 0.836,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 0.998,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 1.3,
+        "i": 0.2,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 1.44,
+        "i": 0.13,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 1.602,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 1.741,
+        "i": 0.17,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 1.904,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 2.067,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 2.206,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 2.345,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 2.508,
+        "i": 0.12,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 2.647,
+        "i": 0.2,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 2.81,
+        "i": 0.15,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 2.949,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 3.111,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 3.251,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 3.413,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 3.553,
+        "i": 0.15,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 3.692,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 3.878,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 4.017,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 4.156,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 4.319,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 4.42,
+        "i": 0.04,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Thank"
+      },
+      {
+        "t": 4.481,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 4.595,
+        "i": 0.04,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Thank"
+      },
+      {
+        "t": 4.621,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 4.77,
+        "i": 0.03,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Thank"
+      },
+      {
+        "t": 4.783,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 4.923,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 5.085,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 5.224,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 5.295,
+        "i": 0.01,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Thank"
+      },
+      {
+        "t": 5.364,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 5.47,
+        "i": 0.01,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Thank"
+      },
+      {
+        "t": 5.526,
+        "i": 0.12,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 5.645,
+        "i": 0.01,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Thank"
+      },
+      {
+        "t": 5.689,
+        "i": 0.12,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 5.828,
+        "i": 0.13,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 5.991,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 6.13,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 6.293,
+        "i": 0.12,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 6.432,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 6.564,
+        "i": 0.01,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "you."
+      },
+      {
+        "t": 6.571,
+        "i": 0.12,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 6.695,
+        "i": 0.01,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "you."
+      },
+      {
+        "t": 6.826,
+        "i": 0.01,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "you."
+      },
+      {
+        "t": 6.896,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 7.059,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 7.198,
+        "i": 0.12,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 7.361,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 7.5,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 7.663,
+        "i": 0.05,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 7.802,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 7.941,
+        "i": 0.15,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 8.104,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 8.243,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 8.406,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 8.545,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 8.707,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 8.87,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 9.009,
+        "i": 0.12,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 9.172,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 9.311,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 9.474,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 9.613,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 9.752,
+        "i": 0.17,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 9.915,
+        "i": 0.18,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 10.077,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 10.217,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 10.519,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 10.681,
+        "i": 0.28,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 10.681,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 10.721,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 10.761,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 10.801,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 10.82,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 10.841,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 10.881,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 10.921,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 10.983,
+        "i": 0.22,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 11.122,
+        "i": 0.13,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 11.285,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 11.424,
+        "i": 0.21,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 11.587,
+        "i": 0.15,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 11.726,
+        "i": 0.12,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 11.889,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 12.028,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 12.19,
+        "i": 0.27,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 12.19,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 12.23,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 12.27,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 12.31,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 12.35,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 12.39,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 12.43,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 12.492,
+        "i": 0.16,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 12.632,
+        "i": 0.21,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 12.632,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 12.672,
+        "i": 0.12,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 12.712,
+        "i": 0.11,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 12.752,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 12.792,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 12.832,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 12.872,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 12.934,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 13.096,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 13.259,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 13.398,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 13.56,
+        "i": 0.19,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 13.7,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 13.839,
+        "i": 0.32,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 13.839,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 13.879,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 13.919,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 13.959,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 13.999,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 14.039,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 14.079,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 14.164,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 14.303,
+        "i": 0.23,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 14.303,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 14.343,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 14.383,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 14.423,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 14.463,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 14.503,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 14.543,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 14.605,
+        "i": 0.49,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 14.605,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 14.645,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 14.685,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 14.725,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 14.765,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 14.805,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 14.845,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 14.907,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 15.047,
+        "i": 0.32,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 15.047,
+        "i": 0.13,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 15.087,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.127,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.167,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.207,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.247,
+        "i": 0.12,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.287,
+        "i": 0.12,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.348,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 15.511,
+        "i": 0.47,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 15.511,
+        "i": 0.16,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 15.551,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.591,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.631,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.671,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.711,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.751,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.813,
+        "i": 0.49,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 15.813,
+        "i": 0.12,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 15.853,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.893,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.933,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 15.973,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 16.013,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 16.053,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 16.115,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 16.277,
+        "i": 0.37,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 16.277,
+        "i": 0.16,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 16.317,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 16.357,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 16.397,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 16.437,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 16.477,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 16.517,
+        "i": 0.13,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 16.579,
+        "i": 0.12,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 16.718,
+        "i": 0.55,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 16.718,
+        "i": 0.16,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 16.758,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 16.798,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 16.838,
+        "i": 0.26,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 16.878,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 16.918,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 16.958,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 17.02,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 17.16,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 17.322,
+        "i": 0.13,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 17.485,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 17.554,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 17.624,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 17.786,
+        "i": 0.16,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 17.926,
+        "i": 0.46,
+        "d": 18,
+        "tp": "orchestral_hit",
+        "prio": 7
+      },
+      {
+        "t": 18.088,
+        "i": 0.15,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 18.158,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 18.228,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 18.39,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 18.53,
+        "i": 0.15,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 18.692,
+        "i": 0.15,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 18.831,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 18.994,
+        "i": 0.41,
+        "d": 18,
+        "tp": "orchestral_hit",
+        "prio": 7
+      },
+      {
+        "t": 19.133,
+        "i": 0.39,
+        "d": 18,
+        "tp": "orchestral_hit",
+        "prio": 7
+      },
+      {
+        "t": 19.296,
+        "i": 0.36,
+        "d": 18,
+        "tp": "orchestral_hit",
+        "prio": 7
+      },
+      {
+        "t": 19.435,
+        "i": 0.78,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 19.435,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 19.505,
+        "i": 0.34,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 19.545,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 19.585,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 19.625,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 19.665,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 19.705,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 19.745,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 19.83,
+        "i": 0.58,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 19.87,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 19.91,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 19.95,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 19.99,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 20.03,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 20.062,
+        "i": 0.24,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 20.11,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 20.132,
+        "i": 0.62,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 20.172,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 20.212,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 20.252,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 20.292,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 20.332,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 20.434,
+        "i": 0.6,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 20.474,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 20.514,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 20.554,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 20.594,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 20.634,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 20.666,
+        "i": 0.25,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 20.735,
+        "i": 0.66,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 20.775,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 20.815,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 20.855,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 20.895,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 20.935,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 20.968,
+        "i": 0.13,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 21.037,
+        "i": 0.63,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 21.077,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 21.117,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 21.157,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 21.197,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 21.237,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 21.269,
+        "i": 0.28,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 21.339,
+        "i": 0.61,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 21.379,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 21.419,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 21.459,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 21.499,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 21.539,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 21.571,
+        "i": 0.17,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 21.711,
+        "i": 0.21,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 21.85,
+        "i": 0.45,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 21.943,
+        "i": 0.41,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 21.983,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 22.023,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 22.063,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 22.103,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 22.143,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 22.245,
+        "i": 0.59,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 22.285,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 22.325,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 22.365,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 22.405,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 22.445,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 22.477,
+        "i": 0.4,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 22.477,
+        "i": 0.18,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 22.547,
+        "i": 0.58,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 22.587,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 22.627,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 22.667,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 22.707,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 22.747,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 22.848,
+        "i": 0.59,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 22.888,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 22.928,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 22.968,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 23.008,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 23.048,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 23.081,
+        "i": 0.37,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 23.15,
+        "i": 0.58,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 23.19,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 23.23,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 23.27,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 23.31,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 23.35,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 23.39,
+        "i": 0.13,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 23.452,
+        "i": 0.58,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 23.492,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 23.532,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 23.572,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 23.612,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 23.652,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 23.684,
+        "i": 0.5,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 23.754,
+        "i": 0.54,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 23.794,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 23.834,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 23.874,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 23.914,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 23.954,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 23.994,
+        "i": 0.13,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 24.056,
+        "i": 0.52,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 24.096,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 24.136,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 24.176,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 24.216,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 24.256,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 24.288,
+        "i": 0.51,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 24.358,
+        "i": 0.54,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 24.398,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 24.438,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 24.478,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 24.518,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 24.558,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 24.598,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 24.66,
+        "i": 0.54,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 24.7,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 24.74,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 24.78,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 24.82,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 24.86,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 24.892,
+        "i": 0.59,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 24.961,
+        "i": 0.56,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 25.001,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 25.041,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 25.081,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 25.121,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 25.161,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 25.201,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 25.263,
+        "i": 0.54,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 25.303,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 25.343,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 25.383,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 25.423,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 25.463,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 25.496,
+        "i": 0.78,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 25.565,
+        "i": 0.6,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 25.605,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 25.645,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 25.685,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 25.725,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 25.765,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 25.805,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 25.867,
+        "i": 0.58,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 25.907,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 25.947,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 25.987,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 26.027,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 26.067,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 26.099,
+        "i": 0.77,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 26.169,
+        "i": 0.57,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 26.209,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 26.249,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 26.289,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 26.329,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 26.369,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 26.409,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 26.471,
+        "i": 0.39,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 26.511,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 26.551,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 26.591,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 26.633,
+        "i": 0.41,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 26.671,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 26.711,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 26.726,
+        "i": 0.27,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 26.796,
+        "i": 0.4,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 26.833,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 26.873,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 26.916,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 26.956,
+        "i": 0.31,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 26.996,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.076,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.098,
+        "i": 0.41,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 27.138,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.178,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.218,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.258,
+        "i": 0.31,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.298,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.307,
+        "i": 0.58,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 27.378,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.4,
+        "i": 0.4,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 27.44,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.48,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.52,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.56,
+        "i": 0.3,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.6,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.68,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.701,
+        "i": 0.58,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 27.741,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.781,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.821,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.861,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.901,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 27.934,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 28.073,
+        "i": 0.15,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 28.212,
+        "i": 0.17,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 28.375,
+        "i": 0.18,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 28.514,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 28.537,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 28.677,
+        "i": 0.17,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 28.816,
+        "i": 0.16,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 28.979,
+        "i": 0.13,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 29.071,
+        "i": 0.32,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 29.111,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 29.141,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 29.191,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 29.211,
+        "i": 0.42,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 29.251,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 29.271,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 29.311,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 29.331,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 29.371,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 29.411,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 29.491,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 29.513,
+        "i": 0.62,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 29.553,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 29.593,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 29.633,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 29.673,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 29.713,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 29.745,
+        "i": 0.48,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 29.793,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 29.814,
+        "i": 0.59,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 29.854,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 29.894,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 29.934,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 29.974,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 30.014,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 30.094,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 30.116,
+        "i": 0.57,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 30.156,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 30.196,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 30.236,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 30.276,
+        "i": 0.32,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 30.316,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 30.348,
+        "i": 0.51,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 30.418,
+        "i": 0.64,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 30.458,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 30.498,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 30.538,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 30.578,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 30.618,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 30.72,
+        "i": 0.62,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 30.76,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 30.8,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 30.84,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 30.88,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 30.92,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 30.952,
+        "i": 0.54,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 31.022,
+        "i": 0.59,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 31.062,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.102,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.142,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.182,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.222,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.324,
+        "i": 0.62,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 31.364,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.404,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.444,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.484,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.524,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.556,
+        "i": 0.54,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 31.649,
+        "i": 0.63,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 31.689,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.729,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.769,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.809,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.929,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 31.951,
+        "i": 0.49,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 31.991,
+        "i": 0.31,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.031,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.071,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.111,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.16,
+        "i": 0.49,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 32.231,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.253,
+        "i": 0.55,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 32.293,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.333,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.373,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.413,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.461,
+        "i": 0.12,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 32.533,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.554,
+        "i": 0.42,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 32.594,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.634,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.674,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.714,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.763,
+        "i": 0.54,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 32.834,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.856,
+        "i": 0.43,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 32.896,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.936,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 32.976,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 33.016,
+        "i": 0.29,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 33.136,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 33.158,
+        "i": 0.4,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 33.198,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 33.238,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 33.278,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 33.318,
+        "i": 0.29,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 33.367,
+        "i": 0.6,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 33.438,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 33.483,
+        "i": 0.69,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 33.523,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 33.563,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 33.603,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 33.643,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 33.723,
+        "i": 0.06,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 33.762,
+        "i": 0.56,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 33.802,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 33.842,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 33.882,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 33.922,
+        "i": 0.3,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 33.971,
+        "i": 0.57,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 34.04,
+        "i": 0.58,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 34.08,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.12,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.16,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.2,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.24,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.28,
+        "i": 0.13,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.342,
+        "i": 0.52,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 34.382,
+        "i": 0.32,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.422,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.462,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.502,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.542,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.575,
+        "i": 0.57,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 34.667,
+        "i": 0.43,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 34.707,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.747,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.787,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.827,
+        "i": 0.31,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.867,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.907,
+        "i": 0.09,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 34.946,
+        "i": 0.53,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 34.986,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.026,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.066,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.106,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.146,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.178,
+        "i": 0.73,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 35.248,
+        "i": 0.6,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 35.288,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.328,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.368,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.408,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.448,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.488,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.55,
+        "i": 0.57,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 35.59,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.63,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.67,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.71,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.75,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.782,
+        "i": 0.49,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 35.852,
+        "i": 0.55,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 35.892,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.932,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 35.972,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 36.012,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 36.052,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 36.092,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 36.177,
+        "i": 0.67,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 36.217,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 36.257,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 36.297,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 36.337,
+        "i": 0.31,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 36.377,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 36.386,
+        "i": 0.68,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 36.457,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 36.479,
+        "i": 0.36,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 36.519,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 36.559,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 36.599,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 36.639,
+        "i": 0.29,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 36.679,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 36.759,
+        "i": 0.11,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 36.804,
+        "i": 0.35,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 36.844,
+        "i": 0.32,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 36.884,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 36.924,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 36.964,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 37.013,
+        "i": 0.33,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 37.084,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 37.105,
+        "i": 0.4,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 37.145,
+        "i": 0.32,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 37.185,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 37.225,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 37.265,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 37.385,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 37.407,
+        "i": 0.66,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 37.447,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 37.487,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 37.527,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 37.567,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 37.616,
+        "i": 0.23,
+        "d": 12,
+        "tp": "snare",
+        "prio": 9
+      },
+      {
+        "t": 37.616,
+        "i": 0.19,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 37.715,
+        "i": 0.1,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Thank"
+      },
+      {
+        "t": 37.75,
+        "i": 0.12,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "Thank"
+      },
+      {
+        "t": 37.756,
+        "i": 0.17,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 37.82,
+        "i": 0.21,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "you."
+      },
+      {
+        "t": 37.895,
+        "i": 0.2,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 38.034,
+        "i": 0.16,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 38.197,
+        "i": 0.78,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 38.359,
+        "i": 0.15,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 38.499,
+        "i": 0.23,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 38.661,
+        "i": 0.12,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 38.754,
+        "i": 0.31,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 38.794,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 38.824,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 38.874,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 38.893,
+        "i": 0.46,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 38.933,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 38.954,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 38.994,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.013,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.053,
+        "i": 0.32,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.093,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.102,
+        "i": 0.28,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 39.142,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.182,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.195,
+        "i": 0.65,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 39.235,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.262,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.302,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.342,
+        "i": 0.39,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.395,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.427,
+        "i": 0.42,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 39.497,
+        "i": 0.62,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 39.537,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.577,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.617,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.657,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.697,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.777,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.799,
+        "i": 0.63,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 39.839,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.879,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.919,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.959,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 39.999,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 40.031,
+        "i": 0.46,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 40.101,
+        "i": 0.65,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 40.141,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 40.181,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 40.221,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 40.261,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 40.301,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 40.403,
+        "i": 0.63,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 40.443,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 40.483,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 40.523,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 40.563,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 40.603,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 40.635,
+        "i": 0.55,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 40.705,
+        "i": 0.6,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 40.745,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 40.785,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 40.825,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 40.865,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 40.905,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.006,
+        "i": 0.63,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 41.046,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.086,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.126,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.166,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.206,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.239,
+        "i": 0.61,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 41.308,
+        "i": 0.38,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 41.348,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.388,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.428,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.468,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.508,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.54,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 41.633,
+        "i": 0.64,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 41.673,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.713,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.753,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.793,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.842,
+        "i": 0.6,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 41.842,
+        "i": 0.12,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 41.913,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 41.935,
+        "i": 0.63,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 41.975,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.015,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.055,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.095,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.144,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 42.215,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.237,
+        "i": 0.43,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 42.277,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.317,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.357,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.397,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.446,
+        "i": 0.6,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 42.517,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.539,
+        "i": 0.66,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 42.579,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.619,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.659,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.699,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.748,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 42.819,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.841,
+        "i": 0.66,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 42.881,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.921,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 42.961,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 43.001,
+        "i": 0.29,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 43.05,
+        "i": 0.55,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 43.05,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 43.121,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 43.143,
+        "i": 0.65,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 43.183,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 43.223,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 43.263,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 43.303,
+        "i": 0.3,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 43.352,
+        "i": 0.13,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 43.423,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 43.445,
+        "i": 0.64,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 43.485,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 43.525,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 43.565,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 43.605,
+        "i": 0.3,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 43.654,
+        "i": 0.48,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 43.654,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 43.723,
+        "i": 0.62,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 43.763,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 43.803,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 43.843,
+        "i": 0.39,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 43.883,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 43.923,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 43.955,
+        "i": 0.15,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 44.025,
+        "i": 0.59,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 44.065,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 44.105,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 44.145,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 44.185,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 44.225,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 44.257,
+        "i": 0.5,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 44.327,
+        "i": 0.56,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 44.367,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 44.407,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 44.447,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 44.487,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 44.527,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 44.567,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 44.629,
+        "i": 0.57,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 44.669,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 44.709,
+        "i": 0.39,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 44.749,
+        "i": 0.39,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 44.789,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 44.829,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 44.861,
+        "i": 0.52,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 44.931,
+        "i": 0.58,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 44.971,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 45.011,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 45.051,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 45.091,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 45.131,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 45.163,
+        "i": 0.15,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 45.232,
+        "i": 0.59,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 45.272,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 45.312,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 45.352,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 45.392,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 45.432,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 45.465,
+        "i": 0.66,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 45.534,
+        "i": 0.58,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 45.574,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 45.614,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 45.654,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 45.694,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 45.734,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 45.767,
+        "i": 0.16,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 45.859,
+        "i": 0.71,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 45.899,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 45.939,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 45.979,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.019,
+        "i": 0.31,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.059,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.068,
+        "i": 0.78,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 46.139,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.161,
+        "i": 0.44,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 46.201,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.241,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.281,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.321,
+        "i": 0.31,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.361,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.393,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 46.441,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.463,
+        "i": 0.39,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 46.503,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.543,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.583,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.623,
+        "i": 0.31,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.663,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.672,
+        "i": 0.46,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 46.743,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.765,
+        "i": 0.4,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 46.805,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.845,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.885,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.925,
+        "i": 0.31,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 46.965,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.045,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.067,
+        "i": 0.42,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 47.107,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.147,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.187,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.227,
+        "i": 0.31,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.267,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.276,
+        "i": 0.52,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 47.347,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.369,
+        "i": 0.56,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 47.409,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.449,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.489,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.529,
+        "i": 0.32,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.569,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.601,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 47.649,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.671,
+        "i": 0.58,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 47.711,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.751,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.791,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.831,
+        "i": 0.32,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.871,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.88,
+        "i": 0.55,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 47.951,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 47.972,
+        "i": 0.56,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 48.012,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.052,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.092,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.132,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.172,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.212,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.344,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 48.414,
+        "i": 0.5,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 48.454,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.494,
+        "i": 0.17,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.506,
+        "i": 0.23,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 48.576,
+        "i": 0.46,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 48.614,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.654,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.696,
+        "i": 0.39,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.736,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.776,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.808,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 48.856,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.878,
+        "i": 0.61,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 48.918,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.958,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 48.998,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.038,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.078,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.11,
+        "i": 0.39,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 49.11,
+        "i": 0.13,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 49.158,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.18,
+        "i": 0.6,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 49.22,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.26,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.3,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.34,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.38,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.412,
+        "i": 0.12,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 49.46,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.482,
+        "i": 0.57,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 49.522,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.562,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.602,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.642,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.682,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.714,
+        "i": 0.42,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 49.784,
+        "i": 0.66,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 49.824,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.864,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.904,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.944,
+        "i": 0.32,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 49.984,
+        "i": 0.18,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 50.016,
+        "i": 0.13,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 50.085,
+        "i": 0.65,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 50.125,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 50.165,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 50.205,
+        "i": 0.39,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 50.245,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 50.285,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 50.318,
+        "i": 0.52,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 50.387,
+        "i": 0.62,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 50.427,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 50.467,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 50.507,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 50.547,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 50.587,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 50.62,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 50.689,
+        "i": 0.64,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 50.729,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 50.769,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 50.809,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 50.849,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 50.889,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 50.921,
+        "i": 0.52,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 50.921,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 50.991,
+        "i": 0.41,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 51.031,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.071,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.111,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.151,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.191,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.223,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 51.271,
+        "i": 0.19,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.293,
+        "i": 0.58,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 51.333,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.373,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.413,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.453,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.493,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.525,
+        "i": 0.59,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 51.618,
+        "i": 0.45,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 51.658,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.698,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.738,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.778,
+        "i": 0.27,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.827,
+        "i": 0.12,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 51.858,
+        "i": 0.08,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.897,
+        "i": 0.55,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 51.937,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 51.977,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 52.017,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 52.057,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 52.097,
+        "i": 0.2,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 52.129,
+        "i": 0.61,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 52.222,
+        "i": 0.68,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 52.262,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 52.302,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 52.342,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 52.382,
+        "i": 0.28,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 52.431,
+        "i": 0.15,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 52.5,
+        "i": 0.56,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 52.54,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 52.58,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 52.62,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 52.66,
+        "i": 0.33,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 52.7,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 52.733,
+        "i": 0.52,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 52.802,
+        "i": 0.49,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 52.842,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 52.882,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 52.922,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 52.962,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 53.002,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 53.104,
+        "i": 0.51,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 53.144,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 53.184,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 53.224,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 53.264,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 53.304,
+        "i": 0.22,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 53.336,
+        "i": 0.55,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 53.406,
+        "i": 0.6,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 53.446,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 53.486,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 53.526,
+        "i": 0.39,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 53.566,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 53.606,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 53.646,
+        "i": 0.12,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 53.708,
+        "i": 0.6,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 53.748,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 53.788,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 53.828,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 53.868,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 53.908,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 53.94,
+        "i": 0.57,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 54.01,
+        "i": 0.57,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 54.05,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 54.09,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 54.13,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 54.17,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 54.21,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 54.242,
+        "i": 0.14,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 54.311,
+        "i": 0.59,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 54.351,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 54.391,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 54.431,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 54.471,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 54.511,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 54.544,
+        "i": 0.63,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 54.613,
+        "i": 0.6,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 54.653,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 54.693,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 54.733,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 54.773,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 54.813,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 54.853,
+        "i": 0.12,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 54.915,
+        "i": 0.6,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 54.955,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 54.995,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.035,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.075,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.115,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.147,
+        "i": 0.53,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 55.217,
+        "i": 0.55,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 55.257,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.297,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.337,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.377,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.417,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.457,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.519,
+        "i": 0.58,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 55.559,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.599,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.639,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.679,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.719,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.751,
+        "i": 0.54,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 55.821,
+        "i": 0.38,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 55.861,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.901,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.941,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 55.981,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.021,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.061,
+        "i": 0.14,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.123,
+        "i": 0.58,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 56.163,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.203,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.243,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.283,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.323,
+        "i": 0.23,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.355,
+        "i": 0.46,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 56.424,
+        "i": 0.55,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 56.464,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.504,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.544,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.584,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.624,
+        "i": 0.24,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.657,
+        "i": 0.15,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 56.75,
+        "i": 0.46,
+        "d": 30,
+        "tp": "bass_slide",
+        "prio": 5
+      },
+      {
+        "t": 56.79,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.83,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.87,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.91,
+        "i": 0.31,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.95,
+        "i": 0.15,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 56.959,
+        "i": 0.43,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 57.028,
+        "i": 0.54,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 57.068,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 57.108,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 57.148,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 57.188,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 57.228,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 57.268,
+        "i": 0.16,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 57.33,
+        "i": 0.54,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 57.37,
+        "i": 0.35,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 57.41,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 57.45,
+        "i": 0.37,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 57.49,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 57.53,
+        "i": 0.25,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 57.562,
+        "i": 0.46,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 57.632,
+        "i": 0.51,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 57.672,
+        "i": 0.34,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 57.712,
+        "i": 0.36,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 57.752,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 57.792,
+        "i": 0.38,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 57.832,
+        "i": 0.3,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 57.864,
+        "i": 0.19,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 58.027,
+        "i": 0.47,
+        "d": 25,
+        "tp": "crash",
+        "prio": 9
+      },
+      {
+        "t": 58.027,
+        "i": 0.13,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 58.073,
+        "i": 0.43,
+        "d": 18,
+        "tp": "bass_beat",
+        "prio": 8
+      },
+      {
+        "t": 58.113,
+        "i": 0.32,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 58.153,
+        "i": 0.31,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 58.193,
+        "i": 0.21,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 58.233,
+        "i": 0.1,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 58.273,
+        "i": 0.1,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 58.313,
+        "i": 0.11,
+        "d": 35,
+        "tp": "bass_sustain",
+        "prio": 4
+      },
+      {
+        "t": 58.468,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 58.63,
+        "i": 0.12,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 58.793,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 58.932,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 59.072,
+        "i": 0.11,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 59.234,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 59.373,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 59.536,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 59.675,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 59.838,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 60.0,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 60.0,
+        "i": 0.19,
+        "d": 15,
+        "tp": "word_pulse",
+        "prio": 5,
+        "txt": "We"
+      },
+      {
+        "t": 60.14,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 60.14,
+        "i": 0.09,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "pray"
+      },
+      {
+        "t": 60.195,
+        "i": 0.15,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "pray"
+      },
+      {
+        "t": 60.25,
+        "i": 0.27,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "pray"
+      },
+      {
+        "t": 60.305,
+        "i": 0.33,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "pray"
+      },
+      {
+        "t": 60.36,
+        "i": 0.38,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "pray"
+      },
+      {
+        "t": 60.415,
+        "i": 0.39,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "pray"
+      },
+      {
+        "t": 60.47,
+        "i": 0.33,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "pray"
+      },
+      {
+        "t": 60.525,
+        "i": 0.24,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "pray"
+      },
+      {
+        "t": 60.58,
+        "i": 0.13,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "this"
+      },
+      {
+        "t": 60.675,
+        "i": 0.21,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "this"
+      },
+      {
+        "t": 60.743,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 60.77,
+        "i": 0.37,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "this"
+      },
+      {
+        "t": 60.865,
+        "i": 0.38,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "this"
+      },
+      {
+        "t": 60.96,
+        "i": 0.45,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "this"
+      },
+      {
+        "t": 61.045,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 61.055,
+        "i": 0.34,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "this"
+      },
+      {
+        "t": 61.15,
+        "i": 0.42,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "this"
+      },
+      {
+        "t": 61.208,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 61.245,
+        "i": 0.25,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "this"
+      },
+      {
+        "t": 61.34,
+        "i": 0.17,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "in"
+      },
+      {
+        "t": 61.413,
+        "i": 0.31,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "in"
+      },
+      {
+        "t": 61.485,
+        "i": 0.28,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "in"
+      },
+      {
+        "t": 61.557,
+        "i": 0.28,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "in"
+      },
+      {
+        "t": 61.63,
+        "i": 0.28,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "in"
+      },
+      {
+        "t": 61.702,
+        "i": 0.3,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "in"
+      },
+      {
+        "t": 61.775,
+        "i": 0.24,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "in"
+      },
+      {
+        "t": 61.812,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 61.847,
+        "i": 0.24,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "in"
+      },
+      {
+        "t": 61.92,
+        "i": 0.17,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "your"
+      },
+      {
+        "t": 61.951,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 61.983,
+        "i": 0.2,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "your"
+      },
+      {
+        "t": 62.045,
+        "i": 0.29,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "your"
+      },
+      {
+        "t": 62.09,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 62.108,
+        "i": 0.33,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "your"
+      },
+      {
+        "t": 62.17,
+        "i": 0.42,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "your"
+      },
+      {
+        "t": 62.233,
+        "i": 0.29,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "your"
+      },
+      {
+        "t": 62.295,
+        "i": 0.28,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "your"
+      },
+      {
+        "t": 62.358,
+        "i": 0.2,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "your"
+      },
+      {
+        "t": 62.415,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 62.42,
+        "i": 0.17,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "name."
+      },
+      {
+        "t": 62.483,
+        "i": 0.24,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "name."
+      },
+      {
+        "t": 62.545,
+        "i": 0.3,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "name."
+      },
+      {
+        "t": 62.608,
+        "i": 0.41,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "name."
+      },
+      {
+        "t": 62.67,
+        "i": 0.52,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "name."
+      },
+      {
+        "t": 62.733,
+        "i": 0.39,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "name."
+      },
+      {
+        "t": 62.795,
+        "i": 0.34,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "name."
+      },
+      {
+        "t": 62.856,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 62.858,
+        "i": 0.2,
+        "d": 30,
+        "tp": "word_sustain",
+        "prio": 4,
+        "txt": "name."
+      },
+      {
+        "t": 62.996,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 63.158,
+        "i": 0.09,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 63.321,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 63.46,
+        "i": 0.1,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 63.623,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 63.762,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 63.925,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 64.064,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 64.226,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 64.366,
+        "i": 0.08,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 64.528,
+        "i": 0.07,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 64.668,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 64.83,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 64.993,
+        "i": 0.06,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 65.132,
+        "i": 0.05,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 65.271,
+        "i": 0.05,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 65.434,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 65.573,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 65.736,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 65.898,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 66.038,
+        "i": 0.04,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 66.2,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 66.339,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 66.502,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 66.641,
+        "i": 0.03,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 66.804,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 66.943,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 67.106,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 67.245,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      },
+      {
+        "t": 67.408,
+        "i": 0.02,
+        "d": 35,
+        "tp": "synth_pad",
+        "prio": 3
+      }
+    ]
+  }
+}

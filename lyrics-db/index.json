@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T17:14:01.285296+00:00",
-  "totalTracks": 46,
+  "generatedAt": "2026-10-02T17:14:22.218941+00:00",
+  "totalTracks": 47,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -791,6 +791,23 @@
       "mtimeMs": 1790961241778,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "maison::stakillaz, disgracemode - s0n6f0rmyd34th (speed up)": {
+      "title": "STAKILLAZ, DISGRACEMODE - S0N6F0RMYD34TH (Speed up)",
+      "artist": "maison",
+      "originalTrackName": "maison - STAKILLAZ, DISGRACEMODE - S0N6F0RMYD34TH (Speed up)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-ayskHGH4gPGscuNz-3bA7FQ-original.jpg",
+      "file": "tracks/maison-stakillaz-disgracemode-s0n6f0rmyd34th-speed-up-a90a24b210f0.json",
+      "files": {
+        "lyrics": "tracks/maison-stakillaz-disgracemode-s0n6f0rmyd34th-speed-up-a90a24b210f0.json",
+        "meta": "tracks/maison-stakillaz-disgracemode-s0n6f0rmyd34th-speed-up-a90a24b210f0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/maisonnnn/stakillaz-disgracemode-2",
+      "mtimeMs": 1790961262737,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1578,6 +1595,23 @@
       },
       "sourcePath": "https://soundcloud.com/whodoyouadore/adore-did-i-tell-u-that-i-miss-u-brian-moser-song",
       "mtimeMs": 1790961241778,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "STAKILLAZ, DISGRACEMODE - S0N6F0RMYD34TH (Speed up)",
+      "artist": "maison",
+      "originalTrackName": "maison - STAKILLAZ, DISGRACEMODE - S0N6F0RMYD34TH (Speed up)",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-ayskHGH4gPGscuNz-3bA7FQ-original.jpg",
+      "file": "tracks/maison-stakillaz-disgracemode-s0n6f0rmyd34th-speed-up-a90a24b210f0.json",
+      "files": {
+        "lyrics": "tracks/maison-stakillaz-disgracemode-s0n6f0rmyd34th-speed-up-a90a24b210f0.json",
+        "meta": "tracks/maison-stakillaz-disgracemode-s0n6f0rmyd34th-speed-up-a90a24b210f0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/maisonnnn/stakillaz-disgracemode-2",
+      "mtimeMs": 1790961262737,
       "has_haptics": true,
       "haptics_version": 4
     }

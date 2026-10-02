@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T02:50:07.443684+00:00",
+  "generatedAt": "2026-10-02T02:52:14.741766+00:00",
   "totalTracks": 40,
   "roots": [
     "lyrics-db/tracks"
@@ -675,7 +675,8 @@
       "title": "Ân Tình Sang Trang Remix",
       "artist": "Nguyễn Hoàng Huy",
       "originalTrackName": "Nguyễn Hoàng Huy - Ân Tình Sang Trang Remix",
-      "source": "soundcloud_extension_translate",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-EaHXxUsz1xgzAsB7-3Bzk7Q-original.jpg",
       "file": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.json",
       "files": {
         "lyrics": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.json",
@@ -685,7 +686,9 @@
         }
       },
       "sourcePath": "https://soundcloud.com/nguyenhoanfghuy05xyz/an-tinh-sang-trang-remix",
-      "mtimeMs": 1790909407443
+      "mtimeMs": 1790909535700,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1359,7 +1362,8 @@
       "title": "Ân Tình Sang Trang Remix",
       "artist": "Nguyễn Hoàng Huy",
       "originalTrackName": "Nguyễn Hoàng Huy - Ân Tình Sang Trang Remix",
-      "source": "soundcloud_extension_translate",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-EaHXxUsz1xgzAsB7-3Bzk7Q-original.jpg",
       "file": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.json",
       "files": {
         "lyrics": "tracks/nguy-n-ho-ng-huy-n-t-nh-sang-trang-remix-0ea7a26d0982.json",
@@ -1369,7 +1373,9 @@
         }
       },
       "sourcePath": "https://soundcloud.com/nguyenhoanfghuy05xyz/an-tinh-sang-trang-remix",
-      "mtimeMs": 1790909407443
+      "mtimeMs": 1790909535700,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

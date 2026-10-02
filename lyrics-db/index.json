@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T02:52:29.099859+00:00",
-  "totalTracks": 40,
+  "generatedAt": "2026-10-02T02:55:30.512838+00:00",
+  "totalTracks": 41,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -689,6 +689,23 @@
       "mtimeMs": 1790909549099,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "việt quangg::e là không thể remix  anh quân idol": {
+      "title": "E Là Không Thể Remix  Anh Quân Idol",
+      "artist": "Việt Quangg",
+      "originalTrackName": "Việt Quangg - E Là Không Thể Remix  Anh Quân Idol",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-CiJ3md9XP1KZDPcV-ZzsvLg-original.jpg",
+      "file": "tracks/vi-t-quangg-e-la-kho-ng-the-remix-anh-qua-n-idol-8ab65ea5b2c7.json",
+      "files": {
+        "lyrics": "tracks/vi-t-quangg-e-la-kho-ng-the-remix-anh-qua-n-idol-8ab65ea5b2c7.json",
+        "meta": "tracks/vi-t-quangg-e-la-kho-ng-the-remix-anh-qua-n-idol-8ab65ea5b2c7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-886479222/e-la-kho-ng-the-ness-remix-anh",
+      "mtimeMs": 1790909731021,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1376,6 +1393,23 @@
       "mtimeMs": 1790909549099,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "E Là Không Thể Remix  Anh Quân Idol",
+      "artist": "Việt Quangg",
+      "originalTrackName": "Việt Quangg - E Là Không Thể Remix  Anh Quân Idol",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-CiJ3md9XP1KZDPcV-ZzsvLg-original.jpg",
+      "file": "tracks/vi-t-quangg-e-la-kho-ng-the-remix-anh-qua-n-idol-8ab65ea5b2c7.json",
+      "files": {
+        "lyrics": "tracks/vi-t-quangg-e-la-kho-ng-the-remix-anh-qua-n-idol-8ab65ea5b2c7.json",
+        "meta": "tracks/vi-t-quangg-e-la-kho-ng-the-remix-anh-qua-n-idol-8ab65ea5b2c7.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/user-886479222/e-la-kho-ng-the-ness-remix-anh",
+      "mtimeMs": 1790909731021,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

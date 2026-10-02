@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T05:56:58.545321+00:00",
-  "totalTracks": 42,
+  "generatedAt": "2026-10-02T05:58:13.739746+00:00",
+  "totalTracks": 43,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -723,6 +723,23 @@
       "mtimeMs": 1790920618545,
       "has_haptics": false,
       "haptics_version": null
+    },
+    "#jug::freqkin & vibin [hofbadge]": {
+      "title": "freqkin & vibin [hofbadge]",
+      "artist": "#jug",
+      "originalTrackName": "#jug - freqkin & vibin [hofbadge]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-z6bVmuN3mqtQIioZ-qP9I7w-original.jpg",
+      "file": "tracks/jug-freqkin-vibin-hofbadge-b911b4b33b79.json",
+      "files": {
+        "lyrics": "tracks/jug-freqkin-vibin-hofbadge-b911b4b33b79.json",
+        "meta": "tracks/jug-freqkin-vibin-hofbadge-b911b4b33b79.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1jug/jug-freqkin-vibin-hofbadge-wav",
+      "mtimeMs": 1790920694716,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -1444,6 +1461,23 @@
       "mtimeMs": 1790920618545,
       "has_haptics": false,
       "haptics_version": null
+    },
+    {
+      "title": "freqkin & vibin [hofbadge]",
+      "artist": "#jug",
+      "originalTrackName": "#jug - freqkin & vibin [hofbadge]",
+      "source": "whisper_only",
+      "thumbnail": "https://i1.sndcdn.com/artworks-z6bVmuN3mqtQIioZ-qP9I7w-original.jpg",
+      "file": "tracks/jug-freqkin-vibin-hofbadge-b911b4b33b79.json",
+      "files": {
+        "lyrics": "tracks/jug-freqkin-vibin-hofbadge-b911b4b33b79.json",
+        "meta": "tracks/jug-freqkin-vibin-hofbadge-b911b4b33b79.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://soundcloud.com/1jug/jug-freqkin-vibin-hofbadge-wav",
+      "mtimeMs": 1790920694716,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   ]
 }

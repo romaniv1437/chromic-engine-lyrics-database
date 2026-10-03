@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-03T06:07:30.634320+00:00",
-  "totalTracks": 2,
+  "generatedAt": "2026-10-03T07:09:45.166847+00:00",
+  "totalTracks": 3,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -38,6 +38,23 @@
       "mtimeMs": 1791007651349,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "::blank": {
+      "title": "Blank",
+      "artist": "",
+      "originalTrackName": "Blank",
+      "source": "syncedlyrics",
+      "thumbnail": "",
+      "file": "tracks/blank-aa9e67d43a86.json",
+      "files": {
+        "lyrics": "tracks/blank-aa9e67d43a86.json",
+        "meta": "tracks/blank-aa9e67d43a86.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "file://Blank.ogg",
+      "mtimeMs": 1791011385810,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -72,6 +89,23 @@
       },
       "sourcePath": "https://on.soundcloud.com/JmAYYN10ZwHjVqaNQf",
       "mtimeMs": 1791007651349,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Blank",
+      "artist": "",
+      "originalTrackName": "Blank",
+      "source": "syncedlyrics",
+      "thumbnail": "",
+      "file": "tracks/blank-aa9e67d43a86.json",
+      "files": {
+        "lyrics": "tracks/blank-aa9e67d43a86.json",
+        "meta": "tracks/blank-aa9e67d43a86.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "file://Blank.ogg",
+      "mtimeMs": 1791011385810,
       "has_haptics": true,
       "haptics_version": 4
     }

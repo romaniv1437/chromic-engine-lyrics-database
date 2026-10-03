@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-03T05:58:35.244521+00:00",
-  "totalTracks": 1,
+  "generatedAt": "2026-10-03T06:07:30.634320+00:00",
+  "totalTracks": 2,
   "roots": [
     "lyrics-db/tracks"
   ],
@@ -21,6 +21,23 @@
       "mtimeMs": 1791007115684,
       "has_haptics": true,
       "haptics_version": 4
+    },
+    "tv girl::lovers rock": {
+      "title": "Lovers Rock",
+      "artist": "TV Girl",
+      "originalTrackName": "TV Girl - Lovers Rock",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/avatars-000407847594-bqtbez-original.jpg",
+      "file": "tracks/tv-girl-lovers-rock-fa8938bf47f0.json",
+      "files": {
+        "lyrics": "tracks/tv-girl-lovers-rock-fa8938bf47f0.json",
+        "meta": "tracks/tv-girl-lovers-rock-fa8938bf47f0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://on.soundcloud.com/JmAYYN10ZwHjVqaNQf",
+      "mtimeMs": 1791007651349,
+      "has_haptics": true,
+      "haptics_version": 4
     }
   },
   "tracks": [
@@ -38,6 +55,23 @@
       },
       "sourcePath": "https://soundcloud.com/masonminor/old-blue",
       "mtimeMs": 1791007115684,
+      "has_haptics": true,
+      "haptics_version": 4
+    },
+    {
+      "title": "Lovers Rock",
+      "artist": "TV Girl",
+      "originalTrackName": "TV Girl - Lovers Rock",
+      "source": "lrclib_plain",
+      "thumbnail": "https://i1.sndcdn.com/avatars-000407847594-bqtbez-original.jpg",
+      "file": "tracks/tv-girl-lovers-rock-fa8938bf47f0.json",
+      "files": {
+        "lyrics": "tracks/tv-girl-lovers-rock-fa8938bf47f0.json",
+        "meta": "tracks/tv-girl-lovers-rock-fa8938bf47f0.meta.json",
+        "translations": {}
+      },
+      "sourcePath": "https://on.soundcloud.com/JmAYYN10ZwHjVqaNQf",
+      "mtimeMs": 1791007651349,
       "has_haptics": true,
       "haptics_version": 4
     }
